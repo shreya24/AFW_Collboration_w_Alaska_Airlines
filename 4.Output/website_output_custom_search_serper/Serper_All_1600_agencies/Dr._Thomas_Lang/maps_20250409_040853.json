@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Dr. Thomas Lang",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4256718,-117.8377077,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "William G Lang, MD",
+            "address": "4676 Admiralty Way 4th Floor, Marina Del Rey, CA 90292",
+            "latitude": 33.9803347,
+            "longitude": -118.4399864,
+            "rating": 4.6,
+            "ratingCount": 11,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.cedars-sinai.org/locations/internal-medicine-marina-del-rey-59.html?utm_medium=listings",
+            "phoneNumber": "(310) 306-6966",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLC5hlpSFqjD6HvyTUNV23zNrmFyZxBGVvt9Xc",
+            "cid": "13434337989893780512",
+            "fid": "0x80c2ba80a44bda2f:0xba705b3940277420",
+            "placeId": "ChIJL9pLpIC6woARIHQnQDlbcLo"
+        },
+        {
+            "position": 2,
+            "title": "Lange, Thomas H DDS",
+            "address": "8950 Villa La Jolla Dr, La Jolla, CA 92037",
+            "latitude": 32.871009,
+            "longitude": -117.235429,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "phoneNumber": "(858) 452-5520",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mP73GDUtMvsdDTGd80NuDA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=61.98125&pitch=0&thumbfov=100",
+            "cid": "17907015817063385801",
+            "fid": "0x80dc06ce92cf41df:0xf88280029b5d4ac9",
+            "placeId": "ChIJ30HPks4G3IARyUpdmwKAgvg"
+        }
+    ],
+    "credits": 3
+}

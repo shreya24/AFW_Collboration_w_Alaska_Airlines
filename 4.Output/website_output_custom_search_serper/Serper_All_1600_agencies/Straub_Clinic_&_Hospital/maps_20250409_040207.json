@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Straub Clinic & Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3028832,-157.8505188,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Straub Benioff Medical Center",
+            "address": "Straub Benioff Medical Center, 888 S King St, Honolulu, HI 96813",
+            "latitude": 21.3028832,
+            "longitude": -157.8505188,
+            "rating": 3.9,
+            "ratingCount": 201,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/straub/locations/straub-medical-center/",
+            "phoneNumber": "(808) 522-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB94ppsiTS1_ksXyc2WteNgLes6ggRjX0UeHQSb4rNGB55ogDzZbzqz55ofj0_1CjzQk78Lw0c0w9ACWP_YDG5Osw-w-A8vcCj8CxTRAaQufkbGTdGqERn0hTBg03_1g_ppK_GeD",
+            "cid": "8441199800764167867",
+            "fid": "0x7c006de0d4efcbd9:0x75252a7ed2a576bb",
+            "placeId": "ChIJ2cvv1OBtAHwRu3al0n4qJXU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bozeman Deacons Health Group/Int.Med.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6699625,-111.019943,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health Deaconess Regional Medical Center",
+            "address": "915 Highland Blvd, Bozeman, MT 59715",
+            "latitude": 45.6699625,
+            "longitude": -111.019943,
+            "rating": 2.7,
+            "ratingCount": 317,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-PYxYXYoY8R2aU2nfBD0ufdrqaU9NbuqMj8bTe2KlWwStVdYwKC5cyKa-3p4FzIlmH4jaLk-TafYCgtSNUri-sghg9Lpx9EJZAZ9ePNkIWGV_ODnSpmohWOUqB-A4adZDtxSWNBg",
+            "cid": "8370312988905875936",
+            "fid": "0x534544f3a6b18c63:0x74295350ca92a9e0",
+            "placeId": "ChIJY4yxpvNERVMR4KmSylBTKXQ"
+        }
+    ],
+    "credits": 3
+}

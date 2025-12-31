@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Asante Three Rivers Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4215171,-123.3429528,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Asante Three Rivers Medical Center",
+            "address": "500 SW Ramsey Ave, Grants Pass, OR 97527",
+            "latitude": 42.421517099999996,
+            "longitude": -123.34295279999999,
+            "rating": 2.7,
+            "ratingCount": 281,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care physician",
+                "Hospital",
+                "Internist"
+            ],
+            "website": "https://www.asante.org/Locations/location-detail/three-rivers-medical-center-grants-pass/?utm_source=al-mc-three-rivers&utm_medium=site-link&utm_campaign=google-my-business",
+            "phoneNumber": "(541) 472-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlwK5rdEqNa64fOzGB5-kSWPvEU5LezGyAA0cY",
+            "cid": "2064805377204075220",
+            "fid": "0x54c57bacb139662d:0x1ca7a98cfe90bad4",
+            "placeId": "ChIJLWY5sax7xVQR1LqQ_oyppxw"
+        }
+    ],
+    "credits": 3
+}

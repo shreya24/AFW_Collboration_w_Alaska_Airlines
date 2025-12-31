@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Waimea Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.0239606,-155.6686569,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Waimea Primary Care",
+            "address": "65-1298B Kawaihae Rd Suite 3, Waimea, HI 96743",
+            "latitude": 20.0226971,
+            "longitude": -155.67555629999998,
+            "rating": 5,
+            "ratingCount": 98,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Health consultant",
+                "Medical laboratory",
+                "Medical office",
+                "Nurse practitioner",
+                "Women's health clinic",
+                "Pediatrician",
+                "Wellness program"
+            ],
+            "website": "http://www.waimeaprimarycare.com/",
+            "phoneNumber": "(808) 731-5003",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8T3twbRUhuRckg7NxFwjzmi2qEjsO24NdLq6d",
+            "cid": "16051764899400623609",
+            "fid": "0x795383cb33e3ee61:0xdec353214edba5f9",
+            "placeId": "ChIJYe7jM8uDU3kR-aXbTiFTw94"
+        },
+        {
+            "position": 2,
+            "title": "Kamuela Medical Associates",
+            "address": "64-1066 Mamalahoa Hwy UNIT B, Waimea, HI 96743",
+            "latitude": 20.0252242,
+            "longitude": -155.6617576,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner"
+            ],
+            "phoneNumber": "(808) 885-6006",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p41J-OYP0lIAzt7tL0OPNg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=191.72345&pitch=0&thumbfov=100",
+            "cid": "2424647526106497450",
+            "fid": "0x79539cd3ebac8775:0x21a61414231b81aa",
+            "placeId": "ChIJdYes69OcU3kRqoEbIxQUpiE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr. Miguel Lanza",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.3856995,-124.2352621,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Miguel V. Lanza, MD",
+            "address": "1925 Thompson Rd, Coos Bay, OR 97420",
+            "latitude": 43.3856995,
+            "longitude": -124.2352621,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(541) 267-2020",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l3c-jEdDBbrrjNscEZpN1g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=292.2519&pitch=0&thumbfov=100",
+            "cid": "7874197105679443369",
+            "fid": "0x54c3844b890dadfd:0x6d46c48c5f6ea5a9",
+            "placeId": "ChIJ_a0NiUuEw1QRqaVuX4zERm0"
+        }
+    ],
+    "credits": 3
+}

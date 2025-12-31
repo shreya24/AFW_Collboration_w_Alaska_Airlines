@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Franklin County Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.0976125,-111.8732662,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Franklin County Medical Center",
+            "address": "44 N 1st E, Preston, ID 83263",
+            "latitude": 42.0976125,
+            "longitude": -111.87326619999999,
+            "rating": 4.4,
+            "ratingCount": 192,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.fcmc.org/",
+            "phoneNumber": "(208) 852-0137",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-c2us6BGo-PBRpjYfRkaUjf6SPwEEqIGMjtq0HSdrPwbeXaMWxJocODTclG4phjzP3u0xS24gUtww4J0waGecqQ2s_Tt0ajFfCtr3HV1I3swtiBl8dKgHLm0PWLZGUNGCGZC0zvg",
+            "cid": "4095275047283191447",
+            "fid": "0x8754f7e930ca683d:0x38d556f532d5ee97",
+            "placeId": "ChIJPWjKMOn3VIcRl-7VMvVW1Tg"
+        }
+    ],
+    "credits": 3
+}

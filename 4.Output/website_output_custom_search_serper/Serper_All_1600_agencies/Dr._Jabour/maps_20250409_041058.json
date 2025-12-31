@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Jabour",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@-33.880579,151.2201321,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Professor Andrew Jabbour",
+            "address": "St Vincent's Privat clinic, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.880579,
+            "longitude": 151.2201321,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "http://www.nswcardiology.com.au/about-nsw-cardiology/dr-andrew-jabbour/",
+            "phoneNumber": "+61 2 8038 1080",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_af7dUAsP63m8sKW8XDfrw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=224.7308&pitch=0&thumbfov=100",
+            "cid": "17209189866764409204",
+            "fid": "0x6b12ae1039db5fa7:0xeed3530170be9974",
+            "placeId": "ChIJp1_bORCuEmsRdJm-cAFT0-4"
+        }
+    ],
+    "credits": 3
+}

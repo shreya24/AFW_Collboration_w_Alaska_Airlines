@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "Dr. Thomas Niethammer",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4749064,-33.7907492,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Martin Heinrich Niethammer, MD, PhD",
+            "address": "611 Northern Blvd #150, Great Neck, NY 11021",
+            "latitude": 40.7827513,
+            "longitude": -73.7160717,
+            "rating": 4.9,
+            "ratingCount": 8,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Doctor"
+            ],
+            "website": "https://www.northwell.edu/find-care/find-a-doctor/dr-martin-heinrich-niethammer-md-phd-11346078?utm_source=provider_listing&utm_medium=partner&utm_campaign=yext",
+            "phoneNumber": "(516) 325-7000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMdp6l3NMnKTjsqSnhdvyM_4-vvVS69kJ94l2Z",
+            "cid": "8131046368533407237",
+            "fid": "0x89c289ae2f72110b:0x70d7479790a9e605",
+            "placeId": "ChIJCxFyL66JwokRBeapkJdH13A"
+        },
+        {
+            "position": 2,
+            "title": "Dr m\u00e9d. Niethammer Thomas",
+            "address": "Chem. du Pr\u00e9-de-l'Oeuf 4, 1228 Plan-les-Ouates, Switzerland",
+            "latitude": 46.167061499999996,
+            "longitude": 6.1345734,
+            "type": "Psychotherapist",
+            "types": [
+                "Psychotherapist",
+                "Health consultant"
+            ],
+            "website": "https://yellow.local.ch/d/K3EZpcYmuuRXKLBlgcZOTA",
+            "phoneNumber": "+41 22 300 23 30",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c3stuxvaifHLHQxbjWaAiw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=232.52704&pitch=0&thumbfov=100",
+            "cid": "14452363283134692788",
+            "fid": "0x478c7b4b9e407d0f:0xc8911bd588243db4",
+            "placeId": "ChIJD31Ankt7jEcRtD0kiNUbkcg"
+        }
+    ],
+    "credits": 3
+}

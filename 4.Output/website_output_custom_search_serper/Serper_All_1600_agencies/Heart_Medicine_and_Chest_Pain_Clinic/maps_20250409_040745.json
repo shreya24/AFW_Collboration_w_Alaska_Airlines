@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Heart Medicine and Chest Pain Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.816528,-122.264746,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Heart Medicine Chest Pain Clinic",
+            "address": "368 28th St, Oakland, CA 94609",
+            "latitude": 37.816528,
+            "longitude": -122.26474599999999,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Cardiologist",
+                "Doctor",
+                "Professional services"
+            ],
+            "phoneNumber": "(510) 465-7382",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ogPfFh19KJtdpum9L_b9jQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=22.500849&pitch=0&thumbfov=100",
+            "cid": "8647070012261785572",
+            "fid": "0x808f8754c560be23:0x7800905caccbdfe4",
+            "placeId": "ChIJI75gxVSHj4AR5N_LrFyQAHg"
+        }
+    ],
+    "credits": 3
+}

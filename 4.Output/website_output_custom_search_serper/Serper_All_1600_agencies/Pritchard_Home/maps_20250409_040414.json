@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pritchard Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@28.6104965,-80.8079274,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pritchard House",
+            "address": "424 S Washington Ave, Titusville, FL 32796",
+            "latitude": 28.6104965,
+            "longitude": -80.8079274,
+            "rating": 4.9,
+            "ratingCount": 43,
+            "type": "Event venue",
+            "types": [
+                "Event venue"
+            ],
+            "website": "http://www.pritchardhouse.com/",
+            "phoneNumber": "(321) 607-0203",
+            "description": "Tours are available of this restored, circa-1891 Queen Anne mansion with period furnishings.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNoznPBYdNIZpkf5RRK4pxked0Miny5_4942VNK",
+            "cid": "3371338343827046796",
+            "fid": "0x88e0b33370379127:0x2ec9665c9177018c",
+            "placeId": "ChIJJ5E3cDOz4IgRjAF3kVxmyS4"
+        }
+    ],
+    "credits": 3
+}

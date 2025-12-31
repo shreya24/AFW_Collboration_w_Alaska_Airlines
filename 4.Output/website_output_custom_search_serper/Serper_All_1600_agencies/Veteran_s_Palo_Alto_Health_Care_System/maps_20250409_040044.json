@@ -1,0 +1,123 @@
+{
+    "searchParameters": {
+        "q": "Veteran's Palo Alto Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5156488,-121.9635994,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Palo Alto VA Medical Center",
+            "address": "3801 Miranda Ave, Palo Alto, CA 94304",
+            "latitude": 37.405063,
+            "longitude": -122.1402524,
+            "rating": 4.3,
+            "ratingCount": 270,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/palo-alto-health-care/",
+            "phoneNumber": "(650) 493-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqO4zJblX8wtWHnc3Pr1Vhchd8AJ-oSq9GtE-V",
+            "cid": "15847808240644638624",
+            "fid": "0x808fba9b6a76c905:0xdbeeb9a12c21c7a0",
+            "placeId": "ChIJBcl2apu6j4ARoMchLKG57ts"
+        },
+        {
+            "position": 2,
+            "title": "Livermore Division - VA Palo Alto Health Care System",
+            "address": "4951 Arroyo Rd, Livermore, CA 94550",
+            "latitude": 37.6262346,
+            "longitude": -121.76634279999999,
+            "rating": 4.5,
+            "ratingCount": 102,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Hospital",
+                "Medical Center",
+                "Military hospital"
+            ],
+            "website": "http://www.paloalto.va.gov/",
+            "phoneNumber": "(925) 373-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNBZP5N8kS_Bb58M7hgc57qb3hMwPMcmwDPGIhM",
+            "cid": "2712745049434372117",
+            "fid": "0x808fdc53bfc011c1:0x25a59b3fedbc3815",
+            "placeId": "ChIJwRHAv1Pcj4ARFTi87T-bpSU"
+        },
+        {
+            "position": 3,
+            "title": "VA Palo Alto Health Care System - Palo Alto Division : Institute for Research",
+            "address": "3801 Miranda Ave, Palo Alto, CA 94304",
+            "latitude": 37.406024099999996,
+            "longitude": -122.1404546,
+            "rating": 4.4,
+            "ratingCount": 97,
+            "type": "Research institute",
+            "types": [
+                "Research institute",
+                "Medical Center",
+                "Non-profit organization"
+            ],
+            "website": "https://www.va.gov/",
+            "phoneNumber": "(650) 858-3970",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqPnD6jl3fkWPB20yRkk08Bni0C6gYL8mQ8mey",
+            "cid": "471992206158785053",
+            "fid": "0x808fba9b6a76c905:0x68cda6928d8ea1d",
+            "placeId": "ChIJBcl2apu6j4ARHerYKGnajAY"
+        },
+        {
+            "position": 4,
+            "title": "Menlo Park VA Medical Center",
+            "address": "795 Willow Rd, Menlo Park, CA 94025",
+            "latitude": 37.465371999999995,
+            "longitude": -122.160856,
+            "rating": 4.2,
+            "ratingCount": 77,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center",
+                "Military hospital"
+            ],
+            "website": "http://www.paloalto.va.gov/",
+            "phoneNumber": "(650) 614-9997",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtZi3qvRPQtyx_mU5ryVppp69Rts2-Jy458wdt",
+            "cid": "9069566199806067358",
+            "fid": "0x808fbb59af7401c9:0x7ddd9267f654829e",
+            "placeId": "ChIJyQF0r1m7j4ARnoJU9meS3X0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Samaritan Transplant Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5308142,-122.6954642,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Legacy Transplant Services - a department of Legacy Good Samaritan Medical Center",
+            "address": "1130 NW 22nd Ave Ste 400, Portland, OR 97210",
+            "latitude": 45.530814199999995,
+            "longitude": -122.69546419999999,
+            "rating": 5,
+            "ratingCount": 11,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/specialty/transplant-services-good-sam",
+            "phoneNumber": "(503) 413-6555",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7TNX_fqC1nPaMDPMxR5At-r8uIG4GmjgBMid9",
+            "cid": "18257811676340974491",
+            "fid": "0x549509fa99ea6b51:0xfd60c6fc5048739b",
+            "placeId": "ChIJUWvqmfoJlVQRm3NIUPzGYP0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Dave Sigurslid, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2717448,-107.880101,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sigurslid Dave MD",
+            "address": "755 E 2nd Ave E, Durango, CO 81301",
+            "latitude": 37.2717448,
+            "longitude": -107.880101,
+            "rating": 1,
+            "ratingCount": 1,
+            "phoneNumber": "(970) 375-0309",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WMmlfz68DBDPHbT6qEk5vA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=292.7663&pitch=0&thumbfov=100",
+            "cid": "3091868977191480708",
+            "fid": "0x873c02a224984d5b:0x2ae886740d8c6d84",
+            "placeId": "ChIJW02YJKICPIcRhG2MDXSG6Co"
+        }
+    ],
+    "credits": 3
+}

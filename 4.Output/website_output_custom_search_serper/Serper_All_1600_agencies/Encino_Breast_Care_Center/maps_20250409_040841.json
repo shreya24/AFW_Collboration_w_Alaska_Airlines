@@ -1,0 +1,64 @@
+{
+    "searchParameters": {
+        "q": "Encino Breast Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1674853,-118.5151084,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Breastlink Women's Imaging Tarzana",
+            "address": "18133 Ventura Blvd Ste 200, Tarzana, CA 91356",
+            "latitude": 34.1661186,
+            "longitude": -118.52818289999999,
+            "rating": 4.7,
+            "ratingCount": 5217,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Mammography service",
+                "Women's health clinic",
+                "Oncologist",
+                "Radiologist",
+                "Surgeon"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-tarzana",
+            "phoneNumber": "(818) 784-8799",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "7\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/san-fernando-valley/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-xdGCdMAbqUsl_QJi04sqUUC-Ska-L3l_X9qVvZmxlCh7FuNgL59DH6XUIW0QxuVB_LTcJdRZz0_tZGqTgxEpbbLF1A57XNT_g4OqPSsb078TI8LDZCombQzKSqrHqpzXsFz7abw",
+            "cid": "5550112777853484024",
+            "fid": "0x80c299ccf3d7bab1:0x4d05f62a6b503bf8",
+            "placeId": "ChIJsbrX88yZwoAR-DtQayr2BU0"
+        },
+        {
+            "position": 2,
+            "title": "Encino Breast Care Center: Miles Steven A MD",
+            "address": "5363 Balboa Blvd # 100, Encino, CA 91316",
+            "latitude": 34.1688519,
+            "longitude": -118.502034,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(818) 784-8799",
+            "cid": "4942212950057531217",
+            "fid": "0x80c299ccf3d7bab1:0x4496447e3c83b751",
+            "placeId": "ChIJsbrX88yZwoARUbeDPH5ElkQ"
+        }
+    ],
+    "credits": 3
+}

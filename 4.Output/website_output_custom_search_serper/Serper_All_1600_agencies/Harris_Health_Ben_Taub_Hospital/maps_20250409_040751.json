@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Harris Health Ben Taub Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.7108129,-95.3942132,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Harris Health Ben Taub Hospital",
+            "address": "1504 Ben Taub Loop, Houston, TX 77030",
+            "latitude": 29.710812899999997,
+            "longitude": -95.3942132,
+            "rating": 3.1,
+            "ratingCount": 1230,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.harrishealth.org/locations-hh/pages/ben-taub.aspx",
+            "phoneNumber": "(713) 873-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8H1i1VY2kkfQOITCkEdeE5zvTklsBIiBvOs1FAUKsNoBqhY6a32eNiG4p2M2n85mf8TKtBarZuXtcRl9_VegJcv57BQm_MMEPHwyqG8j1mMtz4tnFHcYZ_nahq4MOuCmscIyc3",
+            "cid": "1998910762504037501",
+            "fid": "0x8640c0763339cd31:0x1bbd8ebf70c2247d",
+            "placeId": "ChIJMc05M3bAQIYRfSTCcL-OvRs"
+        }
+    ],
+    "credits": 3
+}

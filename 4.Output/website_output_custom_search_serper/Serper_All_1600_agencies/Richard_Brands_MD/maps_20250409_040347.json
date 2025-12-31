@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Richard Brands MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.151184,-73.988601,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Richard D. Brand, MD",
+            "address": "120 N Main St #4, New City, NY 10956",
+            "latitude": 41.151184,
+            "longitude": -73.988601,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Psychiatrist",
+            "types": [
+                "Psychiatrist"
+            ],
+            "phoneNumber": "(845) 638-2626",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a6m6en43WLUaAYQgwYDPBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=105.55554&pitch=0&thumbfov=100",
+            "cid": "15321858538609874241",
+            "fid": "0x89c2c3018b95ed35:0xd4a22d2984a09541",
+            "placeId": "ChIJNe2ViwHDwokRQZWghCktotQ"
+        }
+    ],
+    "credits": 3
+}

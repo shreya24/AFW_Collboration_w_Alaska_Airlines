@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Portland Plastic Surgery Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5313133,-122.6763775,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Portland Plastic Surgery Group",
+            "address": "1200 NW Naito Pkwy #310, Portland, OR 97209",
+            "latitude": 45.5313133,
+            "longitude": -122.6763775,
+            "rating": 4.6,
+            "ratingCount": 110,
+            "type": "Plastic surgery clinic",
+            "types": [
+                "Plastic surgery clinic",
+                "Laser hair removal service",
+                "Medical spa",
+                "Skin care clinic"
+            ],
+            "website": "https://www.portlandplasticsurgerygroup.com/?utm_source=google&utm_medium=local&utm_campaign=portland-practice-website",
+            "phoneNumber": "(503) 241-9201",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlDs5uctkNB6aEYzxF9JoxVhit7mnqhWrUyXcg",
+            "cid": "11000397727850370956",
+            "fid": "0x5495a755b206aecd:0x98a943736c89178c",
+            "placeId": "ChIJza4GslWnlVQRjBeJbHNDqZg"
+        }
+    ],
+    "credits": 3
+}

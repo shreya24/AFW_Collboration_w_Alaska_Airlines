@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Taylor Lara, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6114434,-116.2582066,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Taylor Lara MD",
+            "address": "6165 W Emerald St, Boise, ID 83704",
+            "latitude": 43.6114434,
+            "longitude": -116.2582066,
+            "rating": 4.9,
+            "ratingCount": 32,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.saintalphonsus.org/provider/taylor-lara",
+            "phoneNumber": "(208) 302-3500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8vtuGFcRMn7tLOYnBqkmow&cb_client=search.gws-prod.gps&w=360&h=120&yaw=226.50778&pitch=0&thumbfov=100",
+            "cid": "17301314028507421953",
+            "fid": "0x54ae57d4ffef2745:0xf01a9d7150aadd01",
+            "placeId": "ChIJRSfv_9RXrlQRAd2qUHGdGvA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "YWAM/Haiti.org",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@18.9340239,-73.0601413,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWAM Cap-Haiti",
+            "address": "#28 Rue Mani Caye, Vaudreuil, Haiti",
+            "latitude": 19.7108091,
+            "longitude": -72.2559323,
+            "rating": 3.9,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.ywamcaphaiti.org/",
+            "openingHours": {
+                "Tuesday": "3\u20135:30\u202fPM",
+                "Wednesday": "3\u20135:30\u202fPM",
+                "Thursday": "3\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "3\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWl4E4893aSSrU25FfJYQazLZLBoW0-5zvCKOj",
+            "cid": "11876859149758280152",
+            "fid": "0x8eb6c3e1a1591eab:0xa4d314786cb0b1d8",
+            "placeId": "ChIJqx5ZoeHDto4R2LGwbHgU06Q"
+        },
+        {
+            "position": 2,
+            "title": "Youth With A Mission - Saint Marc, Haiti",
+            "address": "Jeunesse En Mission, 113 Ave Maurepas, Saint-Marc, Haiti",
+            "latitude": 19.1007,
+            "longitude": -72.70509779999999,
+            "rating": 4.1,
+            "ratingCount": 75,
+            "type": "Mission",
+            "types": [
+                "Mission",
+                "Religious organization"
+            ],
+            "website": "http://www.ywamstmarchaiti.org/",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtdMahvUTCErHXPgT_w4W4GumiJT-Zv47crP-0",
+            "cid": "162510969115286210",
+            "fid": "0x8eb7755983f9a6c5:0x2415add8a389ac2",
+            "placeId": "ChIJxab5g1l1t44Rwpo4it1aQQI"
+        },
+        {
+            "position": 3,
+            "title": "YWAM Les Cayes",
+            "address": "Torbeck, Les Cayes, Haiti",
+            "latitude": 18.1572387,
+            "longitude": -73.8643503,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Religious organization",
+            "types": [
+                "Religious organization"
+            ],
+            "website": "http://www.ywamlescayes.com/",
+            "phoneNumber": "+509 46 89 3829",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwXtFtnJuvvrao6cXnWOZnm2L91U7aIQT6yBo6",
+            "cid": "2829434562904372522",
+            "fid": "0x8ec7a1d2386c39a3:0x27442bbe7520b52a",
+            "placeId": "ChIJozlsONKhx44RKrUgdb4rRCc"
+        }
+    ],
+    "credits": 3
+}

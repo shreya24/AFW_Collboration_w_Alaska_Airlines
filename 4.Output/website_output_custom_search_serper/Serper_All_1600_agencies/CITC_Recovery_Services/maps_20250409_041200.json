@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "CITC Recovery Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5857238,-149.4288887,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Citc Mat-Su Recovery Services",
+            "address": "777 N Crusey St Ste B112, Wasilla, AK 99654",
+            "latitude": 61.5857238,
+            "longitude": -149.4288887,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "phoneNumber": "(907) 357-5400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yChP9tI7qN8phYNKywfNOA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=94.1566&pitch=0&thumbfov=100",
+            "cid": "11137434766565895256",
+            "fid": "0x56c8de1440f52c8b:0x9a901de95a3eec58",
+            "placeId": "ChIJiyz1QBTeyFYRWOw-WukdkJo"
+        }
+    ],
+    "credits": 3
+}

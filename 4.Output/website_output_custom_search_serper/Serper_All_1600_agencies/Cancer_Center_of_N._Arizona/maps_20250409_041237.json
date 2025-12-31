@@ -1,0 +1,116 @@
+{
+    "searchParameters": {
+        "q": "Cancer Center of N. Arizona",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0328545,-111.7337435,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Radiation Oncology at Cancer Centers of Northern Arizona Healthcare",
+            "address": "1329 N Beaver St, Flagstaff, AZ 86001",
+            "latitude": 35.2097109,
+            "longitude": -111.6459859,
+            "rating": 4.8,
+            "ratingCount": 11,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Mammography service",
+                "Oncologist"
+            ],
+            "website": "https://nahealth.com/cancer-centers-northern-arizona-healthcare",
+            "phoneNumber": "(928) 773-2261",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r4-cEWOJ7kQ0AVK_kA5g4w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.3152&pitch=0&thumbfov=100",
+            "cid": "8048291247816040653",
+            "fid": "0x872d8f4963bcf923:0x6fb1463f8af5e0cd",
+            "placeId": "ChIJI_m8Y0mPLYcRzeD1ij9GsW8"
+        },
+        {
+            "position": 2,
+            "title": "Cancer Centers of Northern Arizona Healthcare - Sedona",
+            "address": "3700 W State Rte 89A, Sedona, AZ 86336",
+            "latitude": 34.8559981,
+            "longitude": -111.823501,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Mammography service",
+                "Oncologist"
+            ],
+            "website": "https://nahealth.com/cancer-centers-northern-arizona-healthcare",
+            "phoneNumber": "(928) 204-4160",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tOSwlbQEp-Rfqd-WwtdQFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=348.56332&pitch=0&thumbfov=100",
+            "cid": "10747863479102357568",
+            "fid": "0x872da0ca1ba7177f:0x952814e3be4a4040",
+            "placeId": "ChIJfxenG8qgLYcRQEBKvuMUKJU"
+        },
+        {
+            "position": 3,
+            "title": "Medical Oncology at Cancer Centers of Northern Arizona Healthcare",
+            "address": "1325 N Beaver St, Flagstaff, AZ 86001",
+            "latitude": 35.209638999999996,
+            "longitude": -111.6457659,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.nahealth.com/cancer-centers/contact-cancer-centers-northern-arizona/",
+            "phoneNumber": "(928) 773-2271",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=azIFbgxZhy9HyaMY9hpRpQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.014&pitch=0&thumbfov=100",
+            "cid": "11066937581835558984",
+            "fid": "0x872d8fa94c5f5345:0x9995a91874baa048",
+            "placeId": "ChIJRVNfTKmPLYcRSKC6dBiplZk"
+        },
+        {
+            "position": 4,
+            "title": "Cancer Center of Northern Az",
+            "address": "1200 N Beaver St, Flagstaff, AZ 86001",
+            "latitude": 35.20832,
+            "longitude": -111.643986,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.nahealth.com/OurServices/CancerCentersNAH/",
+            "phoneNumber": "(928) 773-2261",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZeQGfqiytvvjfzNF35niTjh5-7HOPOj9unZ-S",
+            "cid": "17623554553439212248",
+            "fid": "0x872d8f499c4f60b1:0xf493717e257652d8",
+            "placeId": "ChIJsWBPnEmPLYcR2FJ2JX5xk_Q"
+        }
+    ],
+    "credits": 3
+}

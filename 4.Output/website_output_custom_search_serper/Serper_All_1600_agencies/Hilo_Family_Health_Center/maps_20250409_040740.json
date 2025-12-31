@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Hilo Family Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.714102,-155.0964307,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HICHC Hilo Family Health",
+            "address": "1178 Kinoole St BLDG B, Hilo, HI 96720",
+            "latitude": 19.7103035,
+            "longitude": -155.0797594,
+            "rating": 2.5,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Family practice physician"
+            ],
+            "website": "https://www.hicommunityhealthcenter.org/",
+            "phoneNumber": "(808) 333-3600",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20136\u202fPM",
+                "Thursday": "7:15\u202fAM\u20136\u202fPM",
+                "Friday": "7:15\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWziw2w1uQhXfDGdGRBJqXm_umfWnGMAY3nhot",
+            "cid": "12859280951906971425",
+            "fid": "0x79524b4458c93b07:0xb27557e4f55caf21",
+            "placeId": "ChIJBzvJWERLUnkRIa9c9eRXdbI"
+        },
+        {
+            "position": 2,
+            "title": "Hilo Family Health Clinic Inc",
+            "address": "73 Puuhonu Pl #200, Hilo, HI 96720",
+            "latitude": 19.716742399999998,
+            "longitude": -155.0976847,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(808) 969-7922",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fAM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fAM",
+                "Friday": "8:30\u202fAM\u20134\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tBVz4-FWfznH5Ue0z1XXLw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=241.96255&pitch=0&thumbfov=100",
+            "cid": "8716642281228374653",
+            "fid": "0x7953b4ad6621d74f:0x78f7bbf8d6c4927d",
+            "placeId": "ChIJT9chZq20U3kRfZLE1vi793g"
+        },
+        {
+            "position": 3,
+            "title": "East Hawaii Health Clinic - Primary Care",
+            "address": "1190 Waianuenue Ave First Floor, Hilo, HI 96720",
+            "latitude": 19.7179005,
+            "longitude": -155.113102,
+            "rating": 3.1,
+            "ratingCount": 43,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Pediatrician",
+                "Urgent care center"
+            ],
+            "website": "https://www.easthawaiihealthclinics.org/primary-care/",
+            "phoneNumber": "(808) 932-3730",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOLpY9ft8BdYvpUTYvyZ3KiqXzbG8OoSp4PdS5",
+            "cid": "5920521099782539622",
+            "fid": "0x79524b44abdd8909:0x5229ea926dbe4966",
+            "placeId": "ChIJCYndq0RLUnkRZkm-bZLqKVI"
+        }
+    ],
+    "credits": 3
+}

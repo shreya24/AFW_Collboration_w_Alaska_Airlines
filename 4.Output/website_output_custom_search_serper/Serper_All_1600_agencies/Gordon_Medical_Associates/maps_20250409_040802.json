@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Gordon Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9695835,-122.516982,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gordon Medical Associates",
+            "address": "361 3rd St suite J, San Rafael, CA 94901",
+            "latitude": 37.969589,
+            "longitude": -122.516978,
+            "rating": 4.2,
+            "ratingCount": 24,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://www.gordonmedical.com/",
+            "phoneNumber": "(415) 757-6100",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://gordonmedical.com/discovery-call/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuRGmAlFhTNu9lbPpAQFbveSrzx9ky53fk0Z0Z",
+            "cid": "4406735098937342325",
+            "fid": "0x80859a1fcef9ada3:0x3d27de397f67f975",
+            "placeId": "ChIJo635zh-ahYARdflnfzneJz0"
+        },
+        {
+            "position": 2,
+            "title": "Gordon Medical Associates: Eric Gordon MD",
+            "address": "361 3rd St suite J, San Rafael, CA 94901",
+            "latitude": 37.9695779,
+            "longitude": -122.5169861,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Alternative medicine practitioner",
+                "Medical group"
+            ],
+            "website": "http://www.gordonmedical.com/",
+            "phoneNumber": "(415) 757-6100",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://gordonmedical.com/discovery-call/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipML4i4OlwUHZSNQkMj7ZRxE-iMm3Vbd5fdaot0p",
+            "cid": "12309280918715140785",
+            "fid": "0x80843ebf11a44e47:0xaad359c738828ab1",
+            "placeId": "ChIJR06kEb8-hIARsYqCOMdZ06o"
+        }
+    ],
+    "credits": 3
+}

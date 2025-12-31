@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Jeanne Debord, MSW",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.9981472,-120.7635112,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Debbie L. Beringer, MFT",
+            "address": "Porterville, CA 93257",
+            "latitude": 36.0647082,
+            "longitude": -119.0097122,
+            "type": "Marriage or relationship counselor",
+            "types": [
+                "Marriage or relationship counselor"
+            ],
+            "phoneNumber": "(559) 782-4165",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "11613274721624172515",
+            "fid": "0x80eab84fd8aca55f:0xa12aa3d45d6ea7e3",
+            "placeId": "ChIJX6Ws2E-46oAR46duXdSjKqE"
+        },
+        {
+            "position": 2,
+            "title": "Debbie Duggan, LCSW",
+            "address": "21 Tamal Vista Blvd #160, Corte Madera, CA 94925",
+            "latitude": 37.9315861,
+            "longitude": -122.5173102,
+            "type": "Social worker",
+            "types": [
+                "Social worker",
+                "Family counselor",
+                "Marriage or relationship counselor",
+                "Mental health service"
+            ],
+            "website": "http://www.debbieduggan.com/",
+            "phoneNumber": "(415) 388-2223",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-C-z2Jbf2Tq5Bspz3Q_GtaLQ1Q_YwulbowDoD",
+            "cid": "2177502596253525636",
+            "fid": "0x80859a61d5e14337:0x1e380b130b2ea684",
+            "placeId": "ChIJN0Ph1WGahYARhKYuCxMLOB4"
+        }
+    ],
+    "credits": 3
+}

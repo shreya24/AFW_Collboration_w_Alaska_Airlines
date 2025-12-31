@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Swedish Hospital Cherry Hill Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6072035,-122.3105611,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Hospital Cherry Hill Campus",
+            "address": "500 17th Ave, Seattle, WA 98122",
+            "latitude": 47.6072035,
+            "longitude": -122.3105611,
+            "rating": 3.3,
+            "ratingCount": 222,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus?Is=location&y_source=1_OTU3Njg1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-2000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/cherry-hill-campus#llaid=6645sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0KDbAg2WrbQ7pSlp1kDhl-2PO5qZf3uUC-Okr",
+            "cid": "15972904635050606320",
+            "fid": "0x54906ac5b4da512b:0xddab28233361bef0",
+            "placeId": "ChIJK1HatMVqkFQR8L5hMyMoq90"
+        }
+    ],
+    "credits": 3
+}

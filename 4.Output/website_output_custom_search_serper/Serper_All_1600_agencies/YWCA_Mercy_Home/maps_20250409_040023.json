@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "YWCA Mercy Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5084093,-111.304591,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWCA",
+            "address": "220 2nd St N, Great Falls, MT 59401",
+            "latitude": 47.5084093,
+            "longitude": -111.304591,
+            "rating": 4,
+            "ratingCount": 48,
+            "type": "Women's organization",
+            "types": [
+                "Women's organization"
+            ],
+            "website": "https://greatfallsywca.org/",
+            "phoneNumber": "(406) 452-1315",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "11\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BYFXjzlRw-b0zpkdyMx1Gw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=256.16196&pitch=0&thumbfov=100",
+            "cid": "8642546637038847307",
+            "fid": "0x534237f22ef64113:0x77f07e604f72854b",
+            "placeId": "ChIJE0H2LvI3QlMRS4VyT2B-8Hc"
+        }
+    ],
+    "credits": 3
+}

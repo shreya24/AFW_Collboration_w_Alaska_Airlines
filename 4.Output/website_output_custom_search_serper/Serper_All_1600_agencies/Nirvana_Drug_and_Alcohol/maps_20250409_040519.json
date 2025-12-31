@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Nirvana Drug and Alcohol",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.645729,-121.0234069,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nirvana Drug and Alcohol",
+            "address": "1100 Kansas Ave suite b, Modesto, CA 95351",
+            "latitude": 37.645728999999996,
+            "longitude": -121.0234069,
+            "rating": 4.6,
+            "ratingCount": 24,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://nirvanatx.org/",
+            "phoneNumber": "(209) 579-1151",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7z3kJl-JeA70Me5NHSPtAA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=179.98175&pitch=0&thumbfov=100",
+            "cid": "13723309597910917370",
+            "fid": "0x809053b978a38001:0xbe72fd5ebe3060fa",
+            "placeId": "ChIJAYCjeLlTkIAR-mAwvl79cr4"
+        }
+    ],
+    "credits": 3
+}

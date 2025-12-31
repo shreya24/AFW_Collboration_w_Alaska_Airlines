@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Vacaville",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3878346,-121.9380672,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Vacaville Medical Center",
+            "address": "1 Quality Dr, Vacaville, CA 95688",
+            "latitude": 38.3878346,
+            "longitude": -121.93806719999999,
+            "rating": 4.3,
+            "ratingCount": 938,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Vacaville-Medical-Center-100315",
+            "phoneNumber": "(707) 624-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOufw_PeEb9Ztq3168w2AONRrFCuW3YBNnfyKx4",
+            "cid": "5546128188966847281",
+            "fid": "0x80852324f24b603f:0x4cf7ce3406264331",
+            "placeId": "ChIJP2BL8iQjhYARMUMmBjTO90w"
+        }
+    ],
+    "credits": 3
+}

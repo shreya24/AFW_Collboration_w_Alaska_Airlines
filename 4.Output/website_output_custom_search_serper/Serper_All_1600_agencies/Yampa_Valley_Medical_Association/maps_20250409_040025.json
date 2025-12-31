@@ -1,0 +1,123 @@
+{
+    "searchParameters": {
+        "q": "Yampa Valley Medical Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4633386,-106.8141649,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yampa Valley Medical Associates, P.C. Steamboat Springs Office",
+            "address": "940 Central Park Dr #100, Steamboat Springs, CO 80487",
+            "latitude": 40.463176999999995,
+            "longitude": -106.8150723,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.yvma.com/",
+            "phoneNumber": "(970) 879-3327",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uchealth.org/access-my-health-connection/?mobile=1"
+            ],
+            "cid": "1573705540934950098",
+            "fid": "0x874269352ec13dc3:0x15d6ecda047ddcd2",
+            "placeId": "ChIJwz3BLjVpQocR0tx9BNrs1hU"
+        },
+        {
+            "position": 2,
+            "title": "UCHealth Yampa Valley Medical Center",
+            "address": "1024 Central Park Dr, Steamboat Springs, CO 80487",
+            "latitude": 40.4632879,
+            "longitude": -106.8145583,
+            "rating": 3.7,
+            "ratingCount": 99,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-yampa-valley-medical-center/",
+            "phoneNumber": "(970) 879-1322",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAzDHKEcS6H3WelErain6pC4EOmp_XAT30Db8R",
+            "cid": "9355406353183862470",
+            "fid": "0x874269352ec13dc3:0x81d51482daf4eec6",
+            "placeId": "ChIJwz3BLjVpQocRxu702oIU1YE"
+        },
+        {
+            "position": 3,
+            "title": "UCHealth Outpatient Pavilion - Yampa Valley Medical Center",
+            "address": "1100 Central Park Dr, Steamboat Springs, CO 80487",
+            "latitude": 40.4635002,
+            "longitude": -106.8132576,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-outpatient-pavilion-yampa-valley-medical-center-steamboat-springs/",
+            "phoneNumber": "(970) 879-1322",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBT3bCOn9bZ4R0Dx7KiVcrzCXvxPDC1lxMoZdr",
+            "cid": "1469411278772069074",
+            "fid": "0x87426ecbadf9fff5:0x146465c5d42962d2",
+            "placeId": "ChIJ9f_5rctuQocR0mIp1MVlZBQ"
+        },
+        {
+            "position": 4,
+            "title": "Yampa Valley Medical Center Foundation",
+            "address": "1100 Central Park Dr, Steamboat Springs, CO 80487",
+            "latitude": 40.4633849,
+            "longitude": -106.8132668,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization",
+                "Foundation"
+            ],
+            "website": "https://www.yvmcf.org/",
+            "phoneNumber": "(970) 871-0700",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "cid": "1169661369060097407",
+            "fid": "0x87426ecbadf9fff5:0x103b78d16a52fd7f",
+            "placeId": "ChIJ9f_5rctuQocRf_1SatF4OxA"
+        }
+    ],
+    "credits": 3
+}

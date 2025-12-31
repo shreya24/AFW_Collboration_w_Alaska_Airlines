@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Eugene Mission - Life Change Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0584346,-123.1164315,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eugene Mission",
+            "address": "1542 W 1st Ave, Eugene, OR 97402",
+            "latitude": 44.0584346,
+            "longitude": -123.11643149999999,
+            "rating": 3.9,
+            "ratingCount": 490,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Non-profit organization"
+            ],
+            "website": "https://www.eugenemission.org/?utm_source=gbp&utm_medium=organic",
+            "phoneNumber": "(541) 344-3251",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNb9i_74loDkRdhFrgX2210zneCSvzXQKmyMpcf",
+            "cid": "17616829700883092873",
+            "fid": "0x54c11dd89eae19bb:0xf47b8d4665b01589",
+            "placeId": "ChIJuxmuntgdwVQRiRWwZUaNe_Q"
+        }
+    ],
+    "credits": 3
+}

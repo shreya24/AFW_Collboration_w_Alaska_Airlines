@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pennington County Soc Svcs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0780586,-103.2232201,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pennington County Health & Human Services",
+            "address": "321 Kansas City St, Rapid City, SD 57701",
+            "latitude": 44.0780586,
+            "longitude": -103.22322009999999,
+            "rating": 4,
+            "ratingCount": 31,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.pennco.org/index.asp?SEC=C9B27D6F-468E-4E85-8993-AEC13F8809AD&Type=B_BASIC",
+            "phoneNumber": "(605) 394-2156",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20135\u202fPM",
+                "Thursday": "6:30\u202fAM\u20135\u202fPM",
+                "Friday": "6:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=40ZKqieFf5piUgPtPuSSoQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=184.202&pitch=0&thumbfov=100",
+            "cid": "6455518837304067529",
+            "fid": "0x877d5d3730e07623:0x59969c2e025a05c9",
+            "placeId": "ChIJI3bgMDddfYcRyQVaAi6cllk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "UPMC Presbyterian",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4420854,-79.9607914,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UPMC Presbyterian",
+            "address": "200 Lothrop St, Pittsburgh, PA 15213",
+            "latitude": 40.442085399999996,
+            "longitude": -79.96079139999999,
+            "rating": 3.4,
+            "ratingCount": 459,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.upmc.com/locations/hospitals/presbyterian?utm_source=google&utm_campaign=business-profile&utm_content=upmcpresbyterian-pittsburgh-website",
+            "phoneNumber": "(412) 647-2345",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOV5lvrmk12aSKw_sYgvg3PNQcbTy86vr9-_2WI",
+            "cid": "13524001783967806452",
+            "fid": "0x8834f2260336988f:0xbbaee7f8232673f4",
+            "placeId": "ChIJj5g2AybyNIgR9HMmI_jnrrs"
+        }
+    ],
+    "credits": 3
+}

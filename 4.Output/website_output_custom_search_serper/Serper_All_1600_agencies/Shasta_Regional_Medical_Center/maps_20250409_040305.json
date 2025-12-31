@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Shasta Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5853911,-122.387757,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shasta Regional Medical Center",
+            "address": "1100 Butte St, Redding, CA 96001",
+            "latitude": 40.585391099999995,
+            "longitude": -122.387757,
+            "rating": 4,
+            "ratingCount": 720,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://shastaregional.com/",
+            "phoneNumber": "(530) 244-5400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://shastaregional.com/getcarenow/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuqKcWPtv6spDaWjIrzP9wDequxV_9DZqMjA85",
+            "cid": "3878037286448918186",
+            "fid": "0x54d2ece01b1522a1:0x35d18e5d8481eeaa",
+            "placeId": "ChIJoSIVG-Ds0lQRqu6BhF2O0TU"
+        }
+    ],
+    "credits": 3
+}

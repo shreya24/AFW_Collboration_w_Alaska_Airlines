@@ -1,0 +1,26 @@
+{
+    "searchParameters": {
+        "q": "Sally Foltz, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7389161,-121.8458403,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Foltz Sally J MD",
+            "address": "1166 Esplanade #1, Chico, CA 95926",
+            "latitude": 39.7389161,
+            "longitude": -121.84584029999999,
+            "phoneNumber": "(530) 894-0200",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b-8J3EugbNbafLplZOV9Zw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=120.4164&pitch=0&thumbfov=100",
+            "cid": "848638311410757535",
+            "fid": "0x80832799cd25b6d5:0xbc6f80c466cef9f",
+            "placeId": "ChIJ1bYlzZkng4ARn-9sRgz4xgs"
+        }
+    ],
+    "credits": 3
+}

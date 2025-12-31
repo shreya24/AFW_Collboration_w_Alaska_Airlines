@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "New Mexico Kids Matter Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.053896,-106.620703,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Mexico Kids Matter",
+            "address": "2340 Alamo Ave SE UNIT 112, Albuquerque, NM 87106",
+            "latitude": 35.053896,
+            "longitude": -106.62070299999999,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.nmkidsmatter.org/",
+            "phoneNumber": "(505) 903-0305",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Z_rdbEXQnj2N-mx9S44-w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=13.636775&pitch=0&thumbfov=100",
+            "cid": "1813018050940673173",
+            "fid": "0x87220b8454f4ca1b:0x1929224fc1b09c95",
+            "placeId": "ChIJG8r0VIQLIocRlZywwU8iKRk"
+        }
+    ],
+    "credits": 3
+}

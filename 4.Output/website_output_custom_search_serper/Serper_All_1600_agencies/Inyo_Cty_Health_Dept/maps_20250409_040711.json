@@ -1,0 +1,94 @@
+{
+    "searchParameters": {
+        "q": "Inyo Cty Health Dept",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0905428,-118.2974699,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Inyo County Public Health",
+            "address": "207 W South St A, Bishop, CA 93514",
+            "latitude": 37.3589227,
+            "longitude": -118.3965894,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://www.inyocounty.us/public-health-and-prevention",
+            "phoneNumber": "(760) 873-7868",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KXHkucFfzpGqeRUGov0R3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=351.95004&pitch=0&thumbfov=100",
+            "cid": "15008676092531214806",
+            "fid": "0x80be3dfc309094a9:0xd0498763043889d6",
+            "placeId": "ChIJqZSQMPw9voAR1ok4BGOHSdA"
+        },
+        {
+            "position": 2,
+            "title": "Inyo County-Health & Human Services",
+            "address": "162 Grove St, Bishop, CA 93514",
+            "latitude": 37.364315999999995,
+            "longitude": -118.3960089,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Government"
+            ],
+            "website": "http://www.inyocounty.us/",
+            "phoneNumber": "(760) 872-1727",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5QFQUQt_CSqX0Dg3QA2XRw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.1687&pitch=0&thumbfov=100",
+            "cid": "3171590206063342780",
+            "fid": "0x80be3dff7f1aebcd:0x2c03c07d158374bc",
+            "placeId": "ChIJzesaf_89voARvHSDFX3AAyw"
+        },
+        {
+            "position": 3,
+            "title": "Inyo County Health and Human Services",
+            "address": "1360 N Main St suite 114, Bishop, CA 93514",
+            "latitude": 37.377827599999996,
+            "longitude": -118.39278379999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "https://www.inyocounty.us/HHS",
+            "phoneNumber": "(760) 872-1394",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPpSTV5hQGCtlyZYHk--hKSb4DQB_PRViQlh4ZK",
+            "cid": "2327556380352083500",
+            "fid": "0x80be174b2cd2f49b:0x204d24322d94762c",
+            "placeId": "ChIJm_TSLEsXvoARLHaULTIkTSA"
+        },
+        {
+            "position": 4,
+            "title": "Inyo County Health & Human Services",
+            "address": "155 E Market St, Independence, CA 93526",
+            "latitude": 36.8032579,
+            "longitude": -118.19835049999999,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.inyocounty.us/",
+            "phoneNumber": "(760) 878-0237",
+            "cid": "2973665337844771366",
+            "fid": "0x80bfbde77f92a45d:0x294494de9f212a26",
+            "placeId": "ChIJXaSSf-e9v4ARJiohn96URCk"
+        }
+    ],
+    "credits": 3
+}

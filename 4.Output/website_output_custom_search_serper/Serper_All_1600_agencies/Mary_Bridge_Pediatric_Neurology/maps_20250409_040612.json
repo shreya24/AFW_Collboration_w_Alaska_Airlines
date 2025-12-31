@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mary Bridge Pediatric Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2567136,-122.4535792,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mary Bridge Children's Neurology - Tacoma",
+            "address": "1112 S 6th Ave #100, Tacoma, WA 98405",
+            "latitude": 47.2567136,
+            "longitude": -122.4535792,
+            "rating": 3,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.marybridge.org/services/neurology/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(253) 792-6630",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mTxpO117ZnpD2CjCAGi5Aw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=161.9939&pitch=0&thumbfov=100",
+            "cid": "3438481344385992965",
+            "fid": "0x54905508cd5eed37:0x2fb7f0909aef4905",
+            "placeId": "ChIJN-1ezQhVkFQRBUnvmpDwty8"
+        }
+    ],
+    "credits": 3
+}

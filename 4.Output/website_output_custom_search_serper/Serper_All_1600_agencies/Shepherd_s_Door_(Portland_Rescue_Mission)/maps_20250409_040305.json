@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Shepherd's Door (Portland Rescue Mission)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5337318,-122.5263817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shepherd's Door (Portland Rescue Mission)",
+            "address": "13207 NE Halsey St, Portland, OR 97230",
+            "latitude": 45.5337318,
+            "longitude": -122.52638169999999,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Homeless service",
+                "Social services organization"
+            ],
+            "website": "https://www.portlandrescuemission.org/",
+            "phoneNumber": "(503) 906-7650",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfJhLUnHm-HeALs0tKOrUACGi7GbCa0e-nl75r",
+            "cid": "3933140026781830279",
+            "fid": "0x5495a3d331eb3895:0x3695520404338c87",
+            "placeId": "ChIJlTjrMdOjlVQRh4wzBARSlTY"
+        }
+    ],
+    "credits": 3
+}

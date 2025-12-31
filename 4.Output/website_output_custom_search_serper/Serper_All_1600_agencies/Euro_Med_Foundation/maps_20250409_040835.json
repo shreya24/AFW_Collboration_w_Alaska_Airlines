@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Euro Med Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8021367,-112.1296102,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "EuroMed Foundation - Alternative Cancer Treatment Center",
+            "address": "34975 N Vly Pkwy #138, Phoenix, AZ 85086",
+            "latitude": 33.8021367,
+            "longitude": -112.1296102,
+            "rating": 4.7,
+            "ratingCount": 23,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Foundation"
+            ],
+            "website": "https://euromedfoundation.com/",
+            "phoneNumber": "(602) 404-0400",
+            "menu": "https://euromedfoundation.com/cancers-we-treat",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://euromedfoundation.com/contacts"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxkEOPClQzGwj2gmjFzscCwvyoTw6osD_2cXl6",
+            "cid": "14694073917594744566",
+            "fid": "0x872b63dae0845b7b:0xcbebd660219136f6",
+            "placeId": "ChIJe1uE4NpjK4cR9jaRIWDW68s"
+        }
+    ],
+    "credits": 3
+}

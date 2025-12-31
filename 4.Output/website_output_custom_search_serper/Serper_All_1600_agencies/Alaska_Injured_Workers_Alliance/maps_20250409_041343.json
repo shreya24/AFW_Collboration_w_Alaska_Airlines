@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Alaska Injured Workers Alliance",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.7450091,-142.1485658,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Workers' Compensation",
+            "address": "3301 Eagle St # 304, Anchorage, AK 99503",
+            "latitude": 61.1903776,
+            "longitude": -149.8733595,
+            "rating": 4.3,
+            "ratingCount": 3,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://labor.alaska.gov/wc/home.htm",
+            "phoneNumber": "(907) 269-4980",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6wAiprS_IHE5j2ZwwlN2sw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.75736&pitch=0&thumbfov=100",
+            "cid": "16170263990619306464",
+            "fid": "0x56c897b8402e09ab:0xe068516cfd2779e0",
+            "placeId": "ChIJqwkuQLiXyFYR4Hkn_WxRaOA"
+        },
+        {
+            "position": 2,
+            "title": "Workers' Compensation Division",
+            "address": "1111 W 8th St # 307, Juneau, AK 99801",
+            "latitude": 58.2996406,
+            "longitude": -134.4237721,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "phoneNumber": "(907) 465-2790",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4mRqiDz3fUfafVoOzd04uQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=151.3703&pitch=0&thumbfov=100",
+            "cid": "1054493930432731990",
+            "fid": "0x5400df870068c147:0xea250a48d3f9b56",
+            "placeId": "ChIJR8FoAIffAFQRVps_jaRQog4"
+        }
+    ],
+    "credits": 3
+}

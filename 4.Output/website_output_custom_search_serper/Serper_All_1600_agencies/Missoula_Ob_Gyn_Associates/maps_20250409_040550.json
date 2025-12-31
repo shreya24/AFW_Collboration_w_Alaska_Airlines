@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Missoula Ob/Gyn Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.8471662,-114.0464075,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Missoula OB/GYN",
+            "address": "2825 Fort Missoula Rd STE 304, Missoula, MT 59804",
+            "latitude": 46.8471662,
+            "longitude": -114.0464075,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://missoula-obgyn.com/",
+            "phoneNumber": "(406) 808-6647",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJRP-YurPzvdNuFUoOTbgga3HPM_n6QJTzt2kP",
+            "cid": "16790275655272335664",
+            "fid": "0x535dd3ec75f81c09:0xe9030abff1658930",
+            "placeId": "ChIJCRz4dezTXVMRMIll8b8KA-k"
+        }
+    ],
+    "credits": 3
+}

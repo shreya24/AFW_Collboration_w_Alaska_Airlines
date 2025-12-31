@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Methodist Hospital San Antonio",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.4747532,-98.5313766,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Methodist Hospital",
+            "address": "7700 Floyd Curl Dr, San Antonio, TX 78229",
+            "latitude": 29.5083177,
+            "longitude": -98.5718972,
+            "rating": 4.3,
+            "ratingCount": 6282,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sahealth.com/locations/methodist-hospital?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(210) 575-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrat_h-U0Tt20pcDyAWRpXWxw3v5T6aXfFB_uS",
+            "cid": "4237917064766506362",
+            "fid": "0x865c5dfe2037aab7:0x3ad01b1df0f9457a",
+            "placeId": "ChIJt6o3IP5dXIYRekX58B0b0Do"
+        },
+        {
+            "position": 2,
+            "title": "Methodist Hospital Metropolitan",
+            "address": "1310 McCullough Ave, San Antonio, TX 78212",
+            "latitude": 29.441188699999998,
+            "longitude": -98.4908561,
+            "rating": 4.1,
+            "ratingCount": 2389,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sahealth.com/locations/methodist-hospital-metropolitan?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(210) 757-2200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzGJElWSJ5w-2pB5X6hpKlPjr97LqoVL4ae25f",
+            "cid": "7915791746101699339",
+            "fid": "0x865c5f5bc27a0cc1:0x6dda8aa7465c630b",
+            "placeId": "ChIJwQx6wltfXIYRC2NcRqeK2m0"
+        }
+    ],
+    "credits": 3
+}

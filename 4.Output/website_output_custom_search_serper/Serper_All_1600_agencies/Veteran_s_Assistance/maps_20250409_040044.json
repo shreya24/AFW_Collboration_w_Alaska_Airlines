@@ -1,0 +1,580 @@
+{
+    "searchParameters": {
+        "q": "Veteran's Assistance",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.536936,-98.4335673,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bexar County Military and Veterans Services Center",
+            "address": "1422 E Grayson St Suite 400, San Antonio, TX 78208",
+            "latitude": 29.442523899999998,
+            "longitude": -98.46232599999999,
+            "rating": 4.6,
+            "ratingCount": 101,
+            "type": "Veterans center",
+            "types": [
+                "Veterans center"
+            ],
+            "website": "https://www.bexar.org/509/Military-and-Veterans-Services-Center",
+            "phoneNumber": "(210) 335-6775",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPH5yUAw6vS2oa0IdW5l9vF08Zadl0LeOrgk277",
+            "cid": "16290133793205033686",
+            "fid": "0x865cf51f8e216759:0xe2122e6047929ad6",
+            "placeId": "ChIJWWchjh_1XIYR1pqSR2AuEuI"
+        },
+        {
+            "position": 2,
+            "title": "Clark County Veterans Assistance Center",
+            "address": "1305 Columbia St, Vancouver, WA 98660",
+            "latitude": 45.631347999999996,
+            "longitude": -122.67371829999999,
+            "rating": 4.5,
+            "ratingCount": 140,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization",
+                "Community center",
+                "Non-profit organization"
+            ],
+            "website": "https://ccvac.net/",
+            "phoneNumber": "(360) 693-7030",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-eMoYgnjLDtbg88yKhmmueop53mtW2j8SJhH4dAm_r9geaLpNKsfq2UmCMXwqpLGAnRqp_zoERmF2AvVlYbvTayiJ3x9134jVjOB0eb8EMF81zEwXxF1i-P3RSEmtHF6lcgfDj",
+            "cid": "12956376368790266495",
+            "fid": "0x5495a8b689b83c31:0xb3ce4ba95e02627f",
+            "placeId": "ChIJMTy4ibaolVQRf2ICXqlLzrM"
+        },
+        {
+            "position": 3,
+            "title": "Cuyahoga County Veterans Service Commission",
+            "address": "1835 Prospect Ave E #150, Cleveland, OH 44115",
+            "latitude": 41.5001172,
+            "longitude": -81.6778922,
+            "rating": 4.7,
+            "ratingCount": 215,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "http://www.cuyahogavets.org/",
+            "phoneNumber": "(216) 698-2600",
+            "openingHours": {
+                "Tuesday": "8\u201311:30\u202fAM, 12:30\u20133:30\u202fPM",
+                "Wednesday": "8\u201311:30\u202fAM, 12:30\u20133:30\u202fPM",
+                "Thursday": "8\u201311:30\u202fAM, 12:30\u20133:30\u202fPM",
+                "Friday": "8\u201311:30\u202fAM, 12:30\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u201311:30\u202fAM, 12:30\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9CqqAtB0WX-tjUhL74JBRLTMmi6VkYUrNhl16yPYXJt36v7FYDd5CsGrpqpYYpWswwK_uRvdIvOSuuTkql_nd7EFxWjnMijS2zzxr-3MLRsk7Nd1fAr-zXfNmeEZrhOemPXR_k",
+            "cid": "11417887647773504164",
+            "fid": "0x8830fa628aa48fc3:0x9e747c5232dc32a4",
+            "placeId": "ChIJw4-kimL6MIgRpDLcMlJ8dJ4"
+        },
+        {
+            "position": 4,
+            "title": "Dallas County Veteran Services",
+            "address": "2377 N Stemmons Fwy #631, Dallas, TX 75207",
+            "latitude": 32.803258899999996,
+            "longitude": -96.8353171,
+            "rating": 4.5,
+            "ratingCount": 30,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "https://www.dallascounty.org/departments/veteran-services/",
+            "phoneNumber": "(972) 692-4939",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u_tDe-3E8FDZtBQqys5wdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=24.882874&pitch=0&thumbfov=100",
+            "cid": "13938566715784441327",
+            "fid": "0x864e9c00187f5fc3:0xc16fbc940c6a2def",
+            "placeId": "ChIJw19_GACcToYR7y1qDJS8b8E"
+        },
+        {
+            "position": 5,
+            "title": "Tarrant County Veterans Service Office",
+            "address": "1200 Circle Dr Ste 300, Fort Worth, TX 76119",
+            "latitude": 32.673861599999995,
+            "longitude": -97.3014403,
+            "rating": 3.8,
+            "ratingCount": 30,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "website": "https://www.tarrantcountytx.gov/en/veteran-services.html",
+            "phoneNumber": "(817) 531-5645",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-M8w7Y8gMsZgzbk3Y8fJcjXO636m76c8xQ36IPezkdR_1PvzMaGmXgPTuGI0vhGU7s8BdpjFuZpc8z4eOAQO0kEhbu7ZskflYSs0bM4-FjcEObF-zyQO70geTt1af5FqxPqQRU",
+            "cid": "1014005703499642339",
+            "fid": "0x864e6fd2733751a7:0xe1278d09d50f5e3",
+            "placeId": "ChIJp1E3c9JvToYR4_VQndB4Eg4"
+        },
+        {
+            "position": 6,
+            "title": "Riverside County Veterans Services",
+            "address": "4360 Orange St, Riverside, CA 92501",
+            "latitude": 33.9758871,
+            "longitude": -117.37660319999999,
+            "rating": 3.9,
+            "ratingCount": 101,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization"
+            ],
+            "website": "http://www.rivcoveterans.org/",
+            "phoneNumber": "(951) 955-3060",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ZDvQU-LYtS0C7qbhlNwfBxCT47W__Efv1_3ELvjZQtnM36HC2bQyCEIBcC1mWXX3fd9lkOo22U8uXefwMEh_T_aqbMLsKXih4_Sln4rGJ7Jc8pUecD2ZInTlvv5mBhN5JOJD7",
+            "cid": "11201595677679596296",
+            "fid": "0x80dcae6d3fec2605:0x9b740feb95a4b308",
+            "placeId": "ChIJBSbsP22u3IARCLOklesPdJs"
+        },
+        {
+            "position": 7,
+            "title": "Mecklenburg County Veterans Services",
+            "address": "3205 Freedom Dr suite 2000 bldg d, Charlotte, NC 28208",
+            "latitude": 35.2427195,
+            "longitude": -80.8946239,
+            "rating": 4.1,
+            "ratingCount": 78,
+            "type": "Veterans center",
+            "types": [
+                "Veterans center",
+                "County government office"
+            ],
+            "website": "http://www.mecknc.gov/CommunitySupportServices/VeteransServices/Pages/default.aspx",
+            "phoneNumber": "(704) 336-2102",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8xzg-A43EGdbsgMEd-BQA3g6IzZsPBb0Fwf6qYnFfv1KZlo0a7VmWsb6yLdz24Im3RjvccVmWoKnwgICn3dqViqeP-0Flm7FW-iEIy135RsTlRrALVpn2OtNg4hiWY3VR60MbJ",
+            "cid": "8412851159676339585",
+            "fid": "0x8856a03cf90f8efd:0x74c0738e78bdc581",
+            "placeId": "ChIJ_Y4P-TygVogRgcW9eI5zwHQ"
+        },
+        {
+            "position": 8,
+            "title": "Kane County Veterans Assistance Commission",
+            "address": "719 S Batavia Ave Building A, Geneva, IL 60134",
+            "latitude": 41.8796715,
+            "longitude": -88.3083944,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "http://www.countyofkane.org/pages/veterans.aspx",
+            "phoneNumber": "(630) 232-3550",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5RCu7bb31hkDTcLSXsdwvw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=112.69741&pitch=0&thumbfov=100",
+            "cid": "12589315532396123740",
+            "fid": "0x880efd3c89585271:0xaeb63bc691c7565c",
+            "placeId": "ChIJcVJYiTz9DogRXFbHkcY7tq4"
+        },
+        {
+            "position": 9,
+            "title": "Fresno County Veteran Service Office",
+            "address": "1320 E Shaw Ave #105, Fresno, CA 93710",
+            "latitude": 36.810850699999996,
+            "longitude": -119.76487909999999,
+            "rating": 3.4,
+            "ratingCount": 68,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization",
+                "Veterans center"
+            ],
+            "website": "http://www.co.fresno.ca.us/departments/social-services/veterans-service-office",
+            "phoneNumber": "(559) 600-5436",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCm86xDsEXB2gx1w7_KKj_rRE01lPNNBY3Yay4",
+            "cid": "2646619773948398833",
+            "fid": "0x80945d0ce04971dd:0x24baaea979b80cf1",
+            "placeId": "ChIJ3XFJ4AxdlIAR8Qy4eamuuiQ"
+        },
+        {
+            "position": 10,
+            "title": "Veterans Assistance Commission of Lake County",
+            "address": "1790 Nations Dr Ste 221, Gurnee, IL 60031",
+            "latitude": 42.3848418,
+            "longitude": -87.9430118,
+            "rating": 4.8,
+            "ratingCount": 52,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization",
+                "Non-profit organization"
+            ],
+            "website": "https://www.vaclc.org/",
+            "phoneNumber": "(847) 377-3344",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20133\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20133\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20133\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMzOcTIsPt0ph9YGraCfsOLNHUx0aPyVUB9u59c",
+            "cid": "2408733881217980329",
+            "fid": "0x880fed69f3d20113:0x216d8ab3f47217a9",
+            "placeId": "ChIJEwHS82ntD4gRqRdy9LOKbSE"
+        },
+        {
+            "position": 11,
+            "title": "Georgia Department of Veteran Services",
+            "address": "2100 Comer Ave, Columbus, GA 31904",
+            "latitude": 32.483436499999996,
+            "longitude": -84.9786148,
+            "rating": 3.6,
+            "ratingCount": 117,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization"
+            ],
+            "website": "https://veterans.georgia.gov/locations/columbus",
+            "phoneNumber": "(706) 649-1264",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_BPAUz6JkF7sFMSvkmD649u2jjl03IZTA7vaUmd3FdYz62hrcC_pf_zSrhlkE97T83NDvkKWWg_Nn5Yc9IDdAfEKSowNjXhqXQ-t9u0oWI7v95liofDwALFzMW8e-C_cgJswwl",
+            "cid": "6990811690069940756",
+            "fid": "0x888ccdaeefe26a6b:0x61045a3176445a14",
+            "placeId": "ChIJa2ri767NjIgRFFpEdjFaBGE"
+        },
+        {
+            "position": 12,
+            "title": "Veterans Assistance Commission",
+            "address": "581 William R Latham Senior Dr, Bourbonnais, IL 60914",
+            "latitude": 41.1632882,
+            "longitude": -87.8796802,
+            "rating": 4.8,
+            "ratingCount": 24,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "http://k3countyvac.com/",
+            "phoneNumber": "(815) 937-8489",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_eqZsMbcWx9quvUkHEw2F4TBjG4yZwY_M84S3if70BFQY7tgZeDS83IMKp0rAeUic2pc44JgKY3hH-gP01uZA5Kkm9XgBwhGjwYpbjOWEOsnpj2SYw71fg9hYBgLerS2WQB7NgnQ",
+            "cid": "16663489965291172136",
+            "fid": "0x87b781ec0ab42ea5:0xe7409bd623777128",
+            "placeId": "ChIJpS60CuyBt4cRKHF3I9abQOc"
+        },
+        {
+            "position": 13,
+            "title": "United Veterans Assistance",
+            "address": "7 Randolph Rd, Howell Township, NJ 07731",
+            "latitude": 40.117236,
+            "longitude": -74.1934163,
+            "rating": 4.9,
+            "ratingCount": 74,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization"
+            ],
+            "website": "https://unitedveteransassistance.com/?utm_campaign=gmb",
+            "phoneNumber": "(866) 471-5687",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOcBlqWKQH98XVM7mpfWmR27G4pxRuub5FaAL5G",
+            "cid": "13420955301992588506",
+            "fid": "0x89c181b1392dd10f:0xba40cfbd69a9e4da",
+            "placeId": "ChIJD9EtObGBwYkR2uSpab3PQLo"
+        },
+        {
+            "position": 14,
+            "title": "All American Veterans Assistance",
+            "address": "1516 E Tropicana Ave #121, Las Vegas, NV 89119",
+            "latitude": 36.1011196,
+            "longitude": -115.1312174,
+            "rating": 5,
+            "ratingCount": 12,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization"
+            ],
+            "website": "http://www.aavetassist.com/",
+            "phoneNumber": "(702) 505-4475",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOidJG00wEyPePWFDJRPfyoAUr-wF7KxUReWnU8",
+            "cid": "10487386643272548878",
+            "fid": "0x80c8c5c54b463211:0x918aae96666fc20e",
+            "placeId": "ChIJETJGS8XFyIARDsJvZpauipE"
+        },
+        {
+            "position": 15,
+            "title": "Veterans Assistance Commission of Will County",
+            "address": "2400 Glenwood Ave Ste. 110, Joliet, IL 60435",
+            "latitude": 41.5285224,
+            "longitude": -88.1416091,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "http://www.veteransassistancewillco.org/",
+            "phoneNumber": "(815) 740-8389",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB94XMzpVNaW_VH8T23BZfmwLiZLDcnrPI8dNzR5vTTof50PiDPzAaIC8jWydf13hWf1cyeHhj6J7zTYoh0G65XHUiBREuAgpyaxjftmGYmr5UR40yGRq-EbgasfRuT2sIjZO8CIag",
+            "cid": "1895401369028298745",
+            "fid": "0x880e66c7dc3724a3:0x1a4dd180bbb887f9",
+            "placeId": "ChIJoyQ33MdmDogR-Ye4u4DRTRo"
+        },
+        {
+            "position": 16,
+            "title": "Montgomery County Veterans Services",
+            "address": "350 Pageant Ln Suite 405, Clarksville, TN 37040",
+            "latitude": 36.519951299999995,
+            "longitude": -87.34087509999999,
+            "rating": 4.5,
+            "ratingCount": 85,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "http://www.mcgtn.org/vso",
+            "phoneNumber": "(931) 553-5173",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=51yPBFIxDKuuvWJ2FRCGqw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=9.962353&pitch=0&thumbfov=100",
+            "cid": "8269740312141275840",
+            "fid": "0x8864d90a1caf50fd:0x72c404ffb9e8a2c0",
+            "placeId": "ChIJ_VCvHArZZIgRwKLouf8ExHI"
+        },
+        {
+            "position": 17,
+            "title": "Veterans Service Commission of Summit County",
+            "address": "1060 E Waterloo Rd, Akron, OH 44306",
+            "latitude": 41.0290523,
+            "longitude": -81.4896313,
+            "rating": 4.2,
+            "ratingCount": 63,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization",
+                "County government office",
+                "Local government office"
+            ],
+            "website": "http://www.vscsummitoh.us/",
+            "phoneNumber": "(330) 643-2830",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8DHZc7LZEnsxzWv-LURh9NpPWCiIoDHIZX1RHhOz7F52vkse4U_U3hFeHxkPTkrOf1qseaoo84udptEVe8MAVsl6IuBf2EY6CjoNkJGr21pVqnCr_pznI1rNE8GiiuwrROoSA03g",
+            "cid": "4037532309787269620",
+            "fid": "0x883129d4375e3dd3:0x3808323e760859f4",
+            "placeId": "ChIJ0z1eN9QpMYgR9FkIdj4yCDg"
+        },
+        {
+            "position": 18,
+            "title": "County Veterans Service Office",
+            "address": "5055 Ruffin Rd, San Diego, CA 92123",
+            "latitude": 32.8274931,
+            "longitude": -117.12634159999999,
+            "rating": 2.5,
+            "ratingCount": 46,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department"
+            ],
+            "website": "http://www.sandiegocounty.gov/hhsa/programs/ais/veterans_services/",
+            "phoneNumber": "(858) 694-3222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-TlYmZi7Y0j2J5cpC1GU2e1oWBenesdYYSBGtYBYuK4N6jFoPH8XO6FF7ZUDHyQ4UFTmSPP4yzel28S6sl35m8hAZUHfP68HxMQ8FTjaYgfDOSKyplyUk8DyeKfE8kkdKBHucp",
+            "cid": "7632190239607078465",
+            "fid": "0x80dbffb24f085b23:0x69eafc95f9fbbe41",
+            "placeId": "ChIJI1sIT7L_24ARQb77-ZX86mk"
+        },
+        {
+            "position": 19,
+            "title": "Comal County Veteran Services",
+            "address": "1297 Church Hill Dr #209, New Braunfels, TX 78130",
+            "latitude": 29.7068996,
+            "longitude": -98.09881589999999,
+            "rating": 4.1,
+            "ratingCount": 16,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department",
+                "County government office"
+            ],
+            "website": "https://www.co.comal.tx.us/vet.htm",
+            "phoneNumber": "(830) 221-1170",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "cid": "9304144254276001035",
+            "fid": "0x145e972ee85fab9f:0x811ef5e75f1cdd0b",
+            "placeId": "ChIJn6tf6C6XXhQRC90cX-f1HoE"
+        },
+        {
+            "position": 20,
+            "title": "Veterans Assistance Commission",
+            "address": "667 Ware Rd, Woodstock, IL 60098",
+            "latitude": 42.3425921,
+            "longitude": -88.4402329,
+            "rating": 4.8,
+            "ratingCount": 18,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "https://www.mchenrycountyil.gov/departments/veterans-assistance-commission",
+            "phoneNumber": "(815) 334-4229",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9zMgceZTdWEuLFStrfVclHZgplFz2ToYcORHxYhdXUhTzB5CXkvlRrQDKSComwu-q-9NERwdJrGUjqeb5i1qzJp_8k1k7AMJn6TGrMHtscK5TuOGtIS9Hzf8bRnO2IfPF7bOGQ",
+            "cid": "1876448522269779499",
+            "fid": "0x880f690074e1c659:0x1a0a7bfd3932662b",
+            "placeId": "ChIJWcbhdABpD4gRK2YyOf17Cho"
+        }
+    ],
+    "credits": 3
+}

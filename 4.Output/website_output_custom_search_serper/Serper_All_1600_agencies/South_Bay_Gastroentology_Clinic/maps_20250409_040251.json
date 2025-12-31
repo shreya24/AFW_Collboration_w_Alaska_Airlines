@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "South Bay Gastroentology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8120068,-118.3483214,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Bay Gastroenterology Medical Group",
+            "address": "23456 Hawthorne Blvd STE 300, Torrance, CA 90505",
+            "latitude": 33.8126953,
+            "longitude": -118.3492847,
+            "rating": 4.1,
+            "ratingCount": 302,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "http://www.southbaygastro.com/",
+            "phoneNumber": "(310) 539-2055",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.southbaygastro.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8UuHmjpOYYq5c6hTd5m0nLfgHzeQhtAIlY4jh1_eOzE5v9CxH2wq3u2aFnkR8z8KRUA4PKooDHiU3riS-i4pTPCmocpZFZ7YnfNI4-TvIyk603_A8ylGyiqDoBMhki_TDS8HNNeQ",
+            "cid": "435368075492132175",
+            "fid": "0x80dd4ae44eb37bcd:0x60abcf53e41054f",
+            "placeId": "ChIJzXuzTuRK3YARTwVBPvW8CgY"
+        },
+        {
+            "position": 2,
+            "title": "South Bay Gastroenterology - Endoscopy Center",
+            "address": "23560 Madison St UNIT 109, Torrance, CA 90505",
+            "latitude": 33.811318199999995,
+            "longitude": -118.3473581,
+            "rating": 2.8,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgical center"
+            ],
+            "website": "http://www.southbaygastro.com/endoscopy-center/",
+            "phoneNumber": "(310) 325-6331",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8pkEZqVTAK3tIpBBmn4aP1uep2s3vUppKUNEQswoIxlNUVfnuCVF12os3Fkpf3QtrKWHCYEYiz5aeIPnEk58yjh8PBk1UQcc9bEwt-x1odxp4ByHbpYRbzwgneYx-lWmQsTdrg",
+            "cid": "11540125444207159711",
+            "fid": "0x80dd4b1ddf857d53:0xa026c2f3056a299f",
+            "placeId": "ChIJU32F3x1L3YARnylqBfPCJqA"
+        }
+    ],
+    "credits": 3
+}

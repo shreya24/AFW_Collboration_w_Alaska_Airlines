@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "North Hawaii Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.0232953,-155.6777665,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Hawaii Hospice Inc",
+            "address": "65-1328 Kawaihae Rd, Waimea, HI 96743",
+            "latitude": 20.023295299999997,
+            "longitude": -155.6777665,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://northhawaiihospice.org/",
+            "phoneNumber": "(808) 885-7547",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO1EqLScvDzDgZJYuJn6p6IQOrUoB73j1qhLFBO",
+            "cid": "13581487155677851203",
+            "fid": "0x7953832555faad9f:0xbc7b229c3bb56e43",
+            "placeId": "ChIJn636VSWDU3kRQ261O5wie7w"
+        }
+    ],
+    "credits": 3
+}

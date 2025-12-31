@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Southeast Colorado Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4049034,-102.6130752,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southeast Colorado Medical Clinic",
+            "address": "900 Church St, Springfield, CO 81073",
+            "latitude": 37.404903399999995,
+            "longitude": -102.6130752,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.sechosp.org/",
+            "phoneNumber": "(719) 523-6628",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iX70jC-yh98qGlxHdINAUg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=62.836422&pitch=0&thumbfov=100",
+            "cid": "8313404839501549860",
+            "fid": "0x870ee4b64bfb1283:0x735f25a7bc80d124",
+            "placeId": "ChIJgxL7S7bkDocRJNGAvKclX3M"
+        }
+    ],
+    "credits": 3
+}

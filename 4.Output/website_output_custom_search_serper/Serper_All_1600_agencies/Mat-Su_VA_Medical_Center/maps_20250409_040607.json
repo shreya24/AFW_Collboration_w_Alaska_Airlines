@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Mat-Su VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5900748,-149.3587426,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mat-Su VA Clinic",
+            "address": "865 N Seward Meridian Pkwy #105, Wasilla, AK 99654",
+            "latitude": 61.5900748,
+            "longitude": -149.3587426,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.alaska.va.gov/locations/MatSu.asp",
+            "phoneNumber": "(907) 631-3100",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOCLpH3Yilex6xFduhabXC5hzoa8jdfBtVPMwS7",
+            "cid": "1386045808036038045",
+            "fid": "0x56c8e086b0cf8155:0x133c39519e68459d",
+            "placeId": "ChIJVYHPsIbgyFYRnUVonlE5PBM"
+        }
+    ],
+    "credits": 3
+}

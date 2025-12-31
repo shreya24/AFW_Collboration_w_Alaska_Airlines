@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Molokai Family Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.0898811,-157.0219901,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Molokai Family and Urgent Care Clinic",
+            "address": "39 Ala Malama Ave, Kaunakakai, HI 96748",
+            "latitude": 21.0898811,
+            "longitude": -157.02199009999998,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(808) 553-5353",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3JsaOgscgeLTbCXbF3Ng0g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=112.404045&pitch=0&thumbfov=100",
+            "cid": "11866634219702751347",
+            "fid": "0x7eaab613b2abb39b:0xa4aec0f360e09073",
+            "placeId": "ChIJm7OrshO2qn4Rc5DgYPPArqQ"
+        }
+    ],
+    "credits": 3
+}

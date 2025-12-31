@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Jay D. Makim",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1201856,-110.4667133,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Makim Jay MD",
+            "address": "Anchorage, AK 99503",
+            "latitude": 61.1888271,
+            "longitude": -149.89852869999999,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "phoneNumber": "(907) 561-1541",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QQFQa9CW04l4muGsAGZ9zA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=278.8487&pitch=0&thumbfov=100",
+            "cid": "3871502953230417490",
+            "fid": "0x56c897c2ffffffff:0x35ba576c822cbe52",
+            "placeId": "ChIJ_____8KXyFYRUr4sgmxXujU"
+        },
+        {
+            "position": 2,
+            "title": "McKimmey Marketing and Productions LLC.",
+            "address": "114 N Witte St, Poteau, OK 74953",
+            "latitude": 35.0515441,
+            "longitude": -94.6221855,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Marketing agency",
+            "types": [
+                "Marketing agency"
+            ],
+            "phoneNumber": "(918) 839-8707",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOb3lTyXfOCJ_rTZQSYmPMRpTkUMql_DyW5Cvaz",
+            "cid": "18397050408741481050",
+            "fid": "0x87ca8d93e91b716b:0xff4f73dffffdaa5a",
+            "placeId": "ChIJa3Eb6ZONyocRWqr9_99zT_8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "The Neurosurgery Center of Colorado",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6903919,-104.8302311,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Neurosurgery Center of Colorado",
+            "address": "1444 S Potomac St #170, Aurora, CO 80012",
+            "latitude": 39.6903919,
+            "longitude": -104.83023109999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center",
+                "Medical clinic",
+                "Urgent care center"
+            ],
+            "phoneNumber": "(303) 481-0035",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GtiLrLYsF_Pjm0s4EbEdig&cb_client=search.gws-prod.gps&w=360&h=120&yaw=120.32862&pitch=0&thumbfov=100",
+            "cid": "13941195634303403377",
+            "fid": "0x876c62bb07afe269:0xc1791390d6e18571",
+            "placeId": "ChIJaeKvB7tibIcRcYXh1pATecE"
+        }
+    ],
+    "credits": 3
+}

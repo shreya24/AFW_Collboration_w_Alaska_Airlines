@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Montana Migrant & Seasonal Farmworkers",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7803248,-108.5142046,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montana Migrant Council",
+            "address": "3318 3rd Ave N, Billings, MT 59101",
+            "latitude": 45.780324799999995,
+            "longitude": -108.5142046,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(406) 248-3149",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOs75WKe0Lgi-XZhzvj7D1q1sKLQ0wDhI_SKFad",
+            "cid": "3616834103161205013",
+            "fid": "0x53487b37d05490bd:0x323193743a713115",
+            "placeId": "ChIJvZBU0Dd7SFMRFTFxOnSTMTI"
+        }
+    ],
+    "credits": 3
+}

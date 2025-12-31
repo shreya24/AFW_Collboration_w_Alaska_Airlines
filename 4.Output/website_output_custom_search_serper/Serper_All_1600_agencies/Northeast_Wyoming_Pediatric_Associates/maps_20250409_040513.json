@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Northeast Wyoming Pediatric Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.8067963,-106.9767876,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northeast Wyoming Pediatric Associates, P.C.",
+            "address": "916 Jackson Ave, Sheridan, WY 82801",
+            "latitude": 44.806796299999995,
+            "longitude": -106.9767876,
+            "rating": 4.4,
+            "ratingCount": 39,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Children's hospital",
+                "Emergency care physician",
+                "Medical clinic"
+            ],
+            "website": "https://www.newpakids.com/",
+            "phoneNumber": "(307) 675-5555",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8LD7pacRxJDrrJy-frX5rPXiI7tn4CuGae7AMcPgSyu3npZ3CYqespV9is5qnH_yUyp638vRJ5RrHrlcOjTQHi_f8AlhPFRkBWvV5a28k1INMAJDKoOO4NXHIaH5bkyQuEJd3z",
+            "cid": "11246265804640947000",
+            "fid": "0x5335faefd3e82209:0x9c12c329ff3f0b38",
+            "placeId": "ChIJCSLo0-_6NVMROAs__ynDEpw"
+        }
+    ],
+    "credits": 3
+}

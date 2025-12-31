@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "CCSB",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8111975,-73.9225355,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Catholic Community of South Baltimore",
+            "address": "110 E West St, Baltimore, MD 21230",
+            "latitude": 39.2763087,
+            "longitude": -76.6114226,
+            "rating": 4.7,
+            "ratingCount": 6,
+            "type": "Catholic church",
+            "types": [
+                "Catholic church"
+            ],
+            "website": "http://www.southbaltcatholic.org/home",
+            "phoneNumber": "(410) 752-8498",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HCQpq9leKIlKnaARToaORQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=357.77798&pitch=0&thumbfov=100",
+            "cid": "4487465804551015284",
+            "fid": "0x89c8036f380567dd:0x3e46ae5fa5f9cb74",
+            "placeId": "ChIJ3WcFOG8DyIkRdMv5pV-uRj4"
+        },
+        {
+            "position": 2,
+            "title": "Corpus Christi -St. Bernard Parish",
+            "address": "1523 Washington St, Newton, MA 02465",
+            "latitude": 42.3460864,
+            "longitude": -71.23364839999999,
+            "rating": 4.9,
+            "ratingCount": 17,
+            "type": "Church",
+            "types": [
+                "Church"
+            ],
+            "website": "http://www.ccsbparish.org/",
+            "phoneNumber": "(617) 244-0608",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20133:30\u202fPM",
+                "Thursday": "9\u202fAM\u20133:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-teMHay3Q52brFSvyG29J7S5Sj9dbancwud1b1UTs2KGU60UzC0MnryOxnnXnag4q2BCitmpUaFzyjB4kC-DkSq4MNDESzVQkHlUDM0OfpvJmwaq2PUHmmF1sFL58DU8Bufacs",
+            "cid": "18060909793168264618",
+            "fid": "0x89e382f8cea1ee99:0xfaa53dc41e2b0daa",
+            "placeId": "ChIJme6hzviC44kRqg0rHsQ9pfo"
+        }
+    ],
+    "credits": 3
+}

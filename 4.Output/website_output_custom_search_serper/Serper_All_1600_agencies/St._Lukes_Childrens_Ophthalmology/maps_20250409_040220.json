@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "St. Lukes Childrens Ophthalmology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6058727,-116.2716629,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Children's Ophthalmology: Boise",
+            "address": "305 E Jefferson St, Boise, ID 83712",
+            "latitude": 43.612216499999995,
+            "longitude": -116.19070789999999,
+            "rating": 4.3,
+            "ratingCount": 32,
+            "type": "Pediatric ophthalmologist",
+            "types": [
+                "Pediatric ophthalmologist"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-childrens-ophthalmology-boise",
+            "phoneNumber": "(208) 381-6910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAsLrFDBar7K_HPmcI4FErwzk3C0LXHJhNNCTv",
+            "cid": "1930109049523757668",
+            "fid": "0x54aef8fc534a6c1d:0x1ac91ff452a16264",
+            "placeId": "ChIJHWxKU_z4rlQRZGKhUvQfyRo"
+        },
+        {
+            "position": 2,
+            "title": "St. Luke's Children's Ophthalmology: Meridian",
+            "address": "520 S Eagle Rd #2203, Meridian, ID 83642",
+            "latitude": 43.599528899999996,
+            "longitude": -116.35261799999999,
+            "rating": 5,
+            "ratingCount": 21,
+            "type": "Pediatric ophthalmologist",
+            "types": [
+                "Pediatric ophthalmologist"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-childrens-ophthalmology-meridian",
+            "phoneNumber": "(208) 381-6910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUlYd7sWlIkzbOaqmRmz4_grrFUhjTqkHzFEni",
+            "cid": "11704645083644727316",
+            "fid": "0x54ae56ac3a3e71cf:0xa26f40b090aa9014",
+            "placeId": "ChIJz3E-OqxWrlQRFJCqkLBAb6I"
+        }
+    ],
+    "credits": 3
+}

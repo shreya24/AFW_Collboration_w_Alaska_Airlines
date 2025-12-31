@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Great Falls Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4906,-111.2581932,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Great Falls Clinic",
+            "address": "1400 29th St S, Great Falls, MT 59405",
+            "latitude": 47.4906,
+            "longitude": -111.2581932,
+            "rating": 3.2,
+            "ratingCount": 83,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Endocrinologist",
+                "Laboratory",
+                "Optician",
+                "Pediatrician",
+                "Speech pathologist"
+            ],
+            "website": "http://www.gfclinic.com/",
+            "phoneNumber": "(406) 454-2171",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOt43SyhOLzn8jgYXhe4o-nRLgo8jR3ggDWEGD8",
+            "cid": "613555932467183345",
+            "fid": "0x534237a913bed979:0x883c9deac8a3ef1",
+            "placeId": "ChIJedm-E6k3QlMR8T6KrN7Jgwg"
+        }
+    ],
+    "credits": 3
+}

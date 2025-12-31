@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Cascade Eye Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5634225,-122.3388644,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cascade Eye Care",
+            "address": "1751 Hartnell Ave #1, Redding, CA 96002",
+            "latitude": 40.5634225,
+            "longitude": -122.33886439999999,
+            "rating": 4.8,
+            "ratingCount": 351,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Ophthalmologist",
+                "Optician",
+                "Optometrist"
+            ],
+            "website": "http://www.cascadeeyedoc.com/",
+            "phoneNumber": "(530) 223-2325",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMnMYUd9iC-fv8u3hLoBpgtDzPe22A8crfSLCm5",
+            "cid": "13472371723135196561",
+            "fid": "0x54d2eb3560ed2ab7:0xbaf77ab3d77d9d91",
+            "placeId": "ChIJtyrtYDXr0lQRkZ1917N697o"
+        }
+    ],
+    "credits": 3
+}

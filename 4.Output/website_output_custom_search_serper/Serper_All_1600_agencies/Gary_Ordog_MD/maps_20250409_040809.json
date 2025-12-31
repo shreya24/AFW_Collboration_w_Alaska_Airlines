@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Gary Ordog MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.3793596,-118.5441665,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Gary J. Ordog, MD",
+            "address": "23450 Lyons Ave, Newhall, CA 91321",
+            "latitude": 34.3793596,
+            "longitude": -118.54416649999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Emergency care physician",
+            "types": [
+                "Emergency care physician",
+                "Resume service"
+            ],
+            "phoneNumber": "(661) 799-1689",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F_ha9FhgevLz0NVv_TZshA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=112.086174&pitch=0&thumbfov=100",
+            "cid": "7934458148530607318",
+            "fid": "0x80c28692a3c82aa1:0x6e1cdba5c45ed4d6",
+            "placeId": "ChIJoSrIo5KGwoAR1tRexKXbHG4"
+        }
+    ],
+    "credits": 3
+}

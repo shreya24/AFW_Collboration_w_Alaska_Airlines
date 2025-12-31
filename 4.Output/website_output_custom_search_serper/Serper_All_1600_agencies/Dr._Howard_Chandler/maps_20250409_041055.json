@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr. Howard Chandler",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.315246,-81.663984,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Chandler Howard C MD",
+            "address": "836 Prudential Dr, Jacksonville, FL 32207",
+            "latitude": 30.315246,
+            "longitude": -81.663984,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "http://www.baptistjax.com/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vg1V4Vo6NnPl7Zg9aysXpQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=231.44121&pitch=0&thumbfov=100",
+            "cid": "1080752486709356797",
+            "fid": "0x88e5b70e92585de7:0xeff9aa91c6e68fd",
+            "placeId": "ChIJ511Ykg635YgR_WhuHKma_w4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "NM Comm for the Blind, Farmington",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7575756,-108.1824269,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "N M Commission For the Blind",
+            "address": "1800 E 30th St suite b, Farmington, NM 87401",
+            "latitude": 36.757575599999996,
+            "longitude": -108.1824269,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.cfb.state.nm.us/",
+            "phoneNumber": "(505) 327-3031",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "18397993696270320984",
+            "fid": "0x873b8f38de483def:0xff52cdca3e118558",
+            "placeId": "ChIJ7z1I3jiPO4cRWIURPsrNUv8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Parker Adventist Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5482517,-104.7702808,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AdventHealth Parker",
+            "address": "9395 Crown Crest Blvd, Parker, CO 80138",
+            "latitude": 39.5482517,
+            "longitude": -104.7702808,
+            "rating": 4.3,
+            "ratingCount": 1831,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.adventhealth.com/hospital/adventhealth-parker",
+            "phoneNumber": "(303) 269-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB96Qpx4BK_hpveGdno33plQ3vtUwyA1LbhqY5hX2e2kUFtATesMafx4beRQaiM0Qi0wktLBAEX7wzVT2ljgrocs-gKBsoh1LElnCILIr_czNHTCfg07MXMjwTZYEdKT9xflBhL8Wg",
+            "cid": "5122770396696515305",
+            "fid": "0x876c8e6bf3f21243:0x4717bc88c0fb92e9",
+            "placeId": "ChIJQxLy82uObIcR6ZL7wIi8F0c"
+        }
+    ],
+    "credits": 3
+}

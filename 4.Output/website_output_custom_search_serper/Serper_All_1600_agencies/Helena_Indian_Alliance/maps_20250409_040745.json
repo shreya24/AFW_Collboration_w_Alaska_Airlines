@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Helena Indian Alliance",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5987663,-112.0444793,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Helena Indian Alliance",
+            "address": "501 Euclid Ave, Helena, MT 59601",
+            "latitude": 46.5987663,
+            "longitude": -112.04447929999999,
+            "rating": 4.3,
+            "ratingCount": 15,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Legal services"
+            ],
+            "website": "https://hia-mt.org/",
+            "phoneNumber": "(406) 449-5796",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://hia-mt.org/care#health-records-1"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLoCxRj4Lc-ebrkQYJz3a9krkdyY89BKJz88I1",
+            "cid": "14676967762166405570",
+            "fid": "0x534354e0d9b41bbd:0xcbaf106af3c9d9c2",
+            "placeId": "ChIJvRu02eBUQ1MRwtnJ82oQr8s"
+        }
+    ],
+    "credits": 3
+}

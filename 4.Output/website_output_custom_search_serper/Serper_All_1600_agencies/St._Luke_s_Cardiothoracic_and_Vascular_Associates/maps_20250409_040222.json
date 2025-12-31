@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "St. Luke's Cardiothoracic and Vascular Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6135022,-116.1936464,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Clinic - Cardiothoracic and Vascular Associates: Boise",
+            "address": "333 N 1st St #280, Boise, ID 83702",
+            "latitude": 43.6135022,
+            "longitude": -116.19364639999999,
+            "rating": 5,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-clinic--cardiothoracic-and-vascular-associates",
+            "phoneNumber": "(208) 345-6545",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuqAljSEUeWpU2uDai3LeK7mQ7iYtHblrUl1rs",
+            "cid": "8756437841318882996",
+            "fid": "0x54aef8fd9fc3c3cf:0x79851dd2b599aeb4",
+            "placeId": "ChIJz8PDn_34rlQRtK6ZtdIdhXk"
+        }
+    ],
+    "credits": 3
+}

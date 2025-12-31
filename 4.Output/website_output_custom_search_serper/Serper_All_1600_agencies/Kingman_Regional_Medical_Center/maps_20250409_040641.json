@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kingman Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2196255,-114.0370469,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kingman Regional Medical Center",
+            "address": "3269 Stockton Hill Rd, Kingman, AZ 86409",
+            "latitude": 35.2196255,
+            "longitude": -114.03704689999999,
+            "rating": 2.9,
+            "ratingCount": 370,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "http://www.azkrmc.com/",
+            "phoneNumber": "(928) 757-2101",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0J9FO-J33hi6IsVmj-gWjKM6jaRmTQWG1Wmpd",
+            "cid": "16692463903081840097",
+            "fid": "0x80cddc1816158ae3:0xe7a78b7ab9393de1",
+            "placeId": "ChIJ44oVFhjczYAR4T05uXqLp-c"
+        }
+    ],
+    "credits": 3
+}

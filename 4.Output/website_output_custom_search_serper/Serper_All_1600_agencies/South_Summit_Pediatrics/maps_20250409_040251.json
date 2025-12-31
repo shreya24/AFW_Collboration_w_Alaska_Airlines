@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "South Summit Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4857303,-111.8819714,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Summit Pediatrics",
+            "address": "267 E Traverse Point Rd, Draper, UT 84020",
+            "latitude": 40.4857303,
+            "longitude": -111.8819714,
+            "rating": 4.5,
+            "ratingCount": 365,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.southsummitpediatrics.com/",
+            "phoneNumber": "(801) 553-8300",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyH_tYavLmCVdvdyRGDmDwXyR2Ns5fhv8GYihP",
+            "cid": "4696530886089728020",
+            "fid": "0x875280c05ea27cdb:0x412d6df526076014",
+            "placeId": "ChIJ23yiXsCAUocRFGAHJvVtLUE"
+        }
+    ],
+    "credits": 3
+}

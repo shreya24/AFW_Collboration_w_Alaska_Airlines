@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "Spine Care Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7730926,-106.2464799,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spinecare Medical Group Inc",
+            "address": "151 Ochsner Blvd # H, Gretna, LA 70056",
+            "latitude": 29.882750299999998,
+            "longitude": -90.02564389999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.spinecaremedicalgroup.net/",
+            "phoneNumber": "(504) 392-7123",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-smjHznZdioKUx0kIP2xPh5W5ISMDWE8GvJ1og8XER0YjUmAcnvRbsGfCNQLYD-vm3TsvWqam8TXX0NoMj5DSUKmuHvobpH_rgf_Nddga0Jovb0-38N0vj6KdWReQv_M45_S9XK_1AO_fk",
+            "cid": "1750038917818519773",
+            "fid": "0x8620a38960e90c97:0x1849631fa7ae90dd",
+            "placeId": "ChIJlwzpYImjIIYR3ZCupx9jSRg"
+        },
+        {
+            "position": 2,
+            "title": "SpineCare Medical Group",
+            "address": "Central Lobby, 455 Hickey Blvd #310, Daly City, CA 94015",
+            "latitude": 37.663435,
+            "longitude": -122.46731589999999,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Pain management physician",
+                "Psychologist"
+            ],
+            "phoneNumber": "(650) 985-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNw6PaIBQ8jApNsUuzy21VuEKJ51TD3OPTQb8Ce",
+            "cid": "1863663288044292980",
+            "fid": "0x808f7c75c862ec9d:0x19dd0fe2e8d10b74",
+            "placeId": "ChIJnexiyHV8j4ARdAvR6OIP3Rk"
+        },
+        {
+            "position": 3,
+            "title": "Spinecare Medical Group",
+            "address": "3939 Houma Blvd Suite 18, Metairie, LA 70006",
+            "latitude": 30.011481099999997,
+            "longitude": -90.1806505,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://spinecaremedicalgroup.net/",
+            "phoneNumber": "(504) 300-9019",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RIZaJaRJMZk0jPP4VfmiXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=345.66833&pitch=0&thumbfov=100",
+            "cid": "13629962310334322807",
+            "fid": "0x8620a5afe3baaf13:0xbd275a81b1709877",
+            "placeId": "ChIJE6-646-lIIYRd5hwsYFaJ70"
+        }
+    ],
+    "credits": 3
+}

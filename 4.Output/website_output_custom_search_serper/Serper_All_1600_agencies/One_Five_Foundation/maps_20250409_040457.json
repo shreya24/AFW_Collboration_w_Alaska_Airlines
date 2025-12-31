@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "One Five Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1208899,-88.0368818,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "one-five Foundation",
+            "address": "580 N 1st Bank Dr, Palatine, IL 60067",
+            "latitude": 42.120889899999995,
+            "longitude": -88.03688179999999,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://www.one-five.org/",
+            "phoneNumber": "(847) 963-3208",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IiroBBB3OCCOp0f94VFWBw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=353.09592&pitch=0&thumbfov=100",
+            "cid": "16093102286529963178",
+            "fid": "0x880fa493529aaaab:0xdf562f43c2a524aa",
+            "placeId": "ChIJq6qaUpOkD4gRqiSlwkMvVt8"
+        }
+    ],
+    "credits": 3
+}

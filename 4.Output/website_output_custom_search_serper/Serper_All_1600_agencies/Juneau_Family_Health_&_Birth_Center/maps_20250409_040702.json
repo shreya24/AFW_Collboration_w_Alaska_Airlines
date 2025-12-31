@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Juneau Family Health & Birth Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3317413,-134.4658203,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Juneau Family Birth Center",
+            "address": "1601 Salmon Creek Ln, Juneau, AK 99801",
+            "latitude": 58.3317413,
+            "longitude": -134.4658203,
+            "rating": 5,
+            "ratingCount": 19,
+            "type": "Birth center",
+            "types": [
+                "Birth center",
+                "Massage therapist",
+                "Midwife",
+                "Pregnancy care center"
+            ],
+            "website": "http://www.juneaubirthcenter.org/",
+            "phoneNumber": "(907) 586-1203",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1L2o2PeMNuMFnPYiKv3lEDR8-QXOqbNETAkWT",
+            "cid": "6329295867223300567",
+            "fid": "0x5400e0063445e569:0x57d62d0ea43159d7",
+            "placeId": "ChIJaeVFNAbgAFQR11kxpA4t1lc"
+        }
+    ],
+    "credits": 3
+}

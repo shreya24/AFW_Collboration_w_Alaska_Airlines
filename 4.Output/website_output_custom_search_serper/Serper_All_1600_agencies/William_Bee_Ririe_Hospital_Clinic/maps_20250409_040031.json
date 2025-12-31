@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "William Bee Ririe Hospital Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2556733,-114.8593676,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "William Bee Ririe Hospital",
+            "address": "1500 Ave H, Ely, NV 89301",
+            "latitude": 39.2556733,
+            "longitude": -114.8593676,
+            "rating": 3.1,
+            "ratingCount": 41,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Emergency care service",
+                "General practitioner",
+                "Hospital",
+                "Laboratory",
+                "Medical clinic",
+                "Rehabilitation center"
+            ],
+            "website": "http://wbrhely.org/",
+            "phoneNumber": "(775) 289-3001",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Elx6rJx2UrPODaKxlU6BRO3C2LQfxN-FEmT27DiWjx5YGePqJo6zDF5VTjMp-L7ab94noNBS5LLvNsxcw5HzgPuQhMLNXvXkrDPSMjqX9FJA_rD56hO-wXPluVnQi-ij4Ua6jPw",
+            "cid": "7359053385077329340",
+            "fid": "0x80b1ac87cca2f06d:0x66209c1054ab8dbc",
+            "placeId": "ChIJbfCizIessYARvI2rVBCcIGY"
+        }
+    ],
+    "credits": 3
+}

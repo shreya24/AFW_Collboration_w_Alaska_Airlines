@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Providence Heart Transplant & VAD Clinic - Portland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5099277,-122.7742731,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Heart Transplant & VAD Clinic - Portland",
+            "address": "9427 SW Barnes Rd Suite 599, Portland, OR 97225",
+            "latitude": 45.5099277,
+            "longitude": -122.77427309999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist"
+            ],
+            "website": "https://www.providence.org/locations/or/mother-joseph-plaza/heart-transplant-and-vad-program?ls=location&y_source=1_OTU3NjQxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 216-1182",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/doctors/search?search-term=Center+for+Advanced+Heart+Disease+-+Westside+Portland+-+Ventricular+-+Assist+Device+Clinic+Providence+St.+Vincent+Medical+Center&region=or&reset=true&search-type=practice_group&y_source=1_OTU3NjQxMC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs#llaid=5055"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlg23c0PeiGp3ECG1tUHjv6t-7oDvblbtHSfDs",
+            "cid": "7685751991055595526",
+            "fid": "0x549509447fd503d5:0x6aa946b70a9eb806",
+            "placeId": "ChIJ1QPVf0QJlVQRBrieCrdGqWo"
+        }
+    ],
+    "credits": 3
+}

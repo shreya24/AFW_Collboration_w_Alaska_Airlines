@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "McCloud Healthcare Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2518446,-122.1373091,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shasta Cascade Health Centers - McCloud",
+            "address": "116 W Minnesota Ave, McCloud, CA 96057",
+            "latitude": 41.2518446,
+            "longitude": -122.1373091,
+            "rating": 4.9,
+            "ratingCount": 141,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Non-profit organization"
+            ],
+            "website": "https://www.shastacascadehealth.org/mccloud-healthcare-clinic",
+            "phoneNumber": "(530) 964-2389",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuWIVAgZVDuH0Lp-gp86BJw1lklGvcTDmyPBck",
+            "cid": "1100593587370444239",
+            "fid": "0x54cdc24250698c7b:0xf4618095949c5cf",
+            "placeId": "ChIJe4xpUELCzVQRz8VJWQkYRg8"
+        }
+    ],
+    "credits": 3
+}

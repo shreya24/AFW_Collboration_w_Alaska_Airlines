@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Algeria Shriners",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5869827,-112.0383682,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Algeria Shrine Temple",
+            "address": "15 N Jackson St, Helena, MT 59601",
+            "latitude": 46.5869827,
+            "longitude": -112.0383682,
+            "rating": 4.9,
+            "ratingCount": 10,
+            "type": "Fraternal organization",
+            "types": [
+                "Fraternal organization"
+            ],
+            "website": "http://www.algeriashrinersinternational.org/",
+            "phoneNumber": "(406) 442-5305",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20131:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZgkjf9zmQtVr-qX6ujgpp1nmhGerWVLu5u5AQ",
+            "cid": "18119385864106827323",
+            "fid": "0x5343551874ca5a6b:0xfb74fd715a525e3b",
+            "placeId": "ChIJa1rKdBhVQ1MRO15SWnH9dPs"
+        }
+    ],
+    "credits": 3
+}

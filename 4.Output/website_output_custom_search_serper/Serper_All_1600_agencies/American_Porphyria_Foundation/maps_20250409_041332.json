@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "American Porphyria Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Porphyria Foundation",
+            "address": "4900 Woodway Dr # 780, Houston, TX 77056",
+            "latitude": 29.763638,
+            "longitude": -95.461874,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Research foundation",
+            "types": [
+                "Research foundation",
+                "Charity"
+            ],
+            "website": "http://www.porphyriafoundation.org/",
+            "phoneNumber": "(301) 347-7166",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NHhSUemlu1-z3j58D0TPjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=328.4348&pitch=0&thumbfov=100",
+            "cid": "5298095489637673161",
+            "fid": "0x8640c14bfeb7e18d:0x49869dc6fdf3e8c9",
+            "placeId": "ChIJjeG3_kvBQIYRyejz_cadhkk"
+        }
+    ],
+    "credits": 3
+}

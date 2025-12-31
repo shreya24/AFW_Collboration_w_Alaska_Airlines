@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Peninsula Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4931001,-151.0796858,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Peninsula Internal Medicine",
+            "address": "247 Fireweed St, Soldotna, AK 99669",
+            "latitude": 60.4931001,
+            "longitude": -151.0796858,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Internist"
+            ],
+            "website": "https://pim.cpgh.org/",
+            "phoneNumber": "(907) 714-5730",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMQJxNF3RaibdoeRydPQPjGloXNFZcYZVHT5tf",
+            "cid": "1973315674876329334",
+            "fid": "0x56c663ddd20c997f:0x1b62a026b6b6bd76",
+            "placeId": "ChIJf5kM0t1jxlYRdr22tiagYhs"
+        }
+    ],
+    "credits": 3
+}

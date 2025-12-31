@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "One Wish Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.430656,-75.8776755,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "One Wish Foundation",
+            "address": "85 Kim Winona Ct, Evansville, PA 19522",
+            "latitude": 40.430656,
+            "longitude": -75.8776755,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://onewishfoundation.org/owf/contact-us/",
+            "phoneNumber": "(484) 645-3868",
+            "cid": "12568908189318689274",
+            "fid": "0x89c5d7eab3efffff:0xae6dbb67bed6b1fa",
+            "placeId": "ChIJ___vs-rXxYkR-rHWvme7ba4"
+        }
+    ],
+    "credits": 3
+}

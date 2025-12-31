@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Alaska Children's Eye and Strabismus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1888202,-149.8589069,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Children's EYE & Strabismus",
+            "address": "St. 280, 3500 Latouche St STE 301, Anchorage, AK 99508",
+            "latitude": 61.188820199999995,
+            "longitude": -149.8589069,
+            "rating": 4,
+            "ratingCount": 82,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "http://alaskachildrenseye.com/",
+            "phoneNumber": "(907) 561-1917",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtk52Xmoa90M1bFdY5f1sYJQgpuvr78tkIf8ef",
+            "cid": "2081977187319664089",
+            "fid": "0x56c897b0803b2559:0x1ce4ab3898a7cdd9",
+            "placeId": "ChIJWSU7gLCXyFYR2c2nmDir5Bw"
+        }
+    ],
+    "credits": 3
+}

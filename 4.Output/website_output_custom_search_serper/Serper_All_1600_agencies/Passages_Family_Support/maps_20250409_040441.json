@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Passages Family Support",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6395961,-117.4763454,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Passages Family Support",
+            "address": "1700 S Assembly St, Spokane, WA 99224",
+            "latitude": 47.6395961,
+            "longitude": -117.4763454,
+            "rating": 3.5,
+            "ratingCount": 17,
+            "type": "Family counselor",
+            "types": [
+                "Family counselor"
+            ],
+            "website": "https://passages-spokane.org/",
+            "phoneNumber": "(509) 892-9241",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXKBO9VsqKf1biwbZYi8WbMmCIzNDUFBmPUiTk",
+            "cid": "8251472605077874335",
+            "fid": "0x549e18953c0294dd:0x72831e9dbb88a69f",
+            "placeId": "ChIJ3ZQCPJUYnlQRn6aIu50eg3I"
+        }
+    ],
+    "credits": 3
+}

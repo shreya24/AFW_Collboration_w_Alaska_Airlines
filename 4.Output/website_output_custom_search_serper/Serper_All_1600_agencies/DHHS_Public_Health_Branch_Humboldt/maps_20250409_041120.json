@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "DHHS Public Health Branch Humboldt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8018027,-124.1623898,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Humboldt County Department of Health & Human Services, Public Health",
+            "address": "529 I St, Eureka, CA 95501",
+            "latitude": 40.801802699999996,
+            "longitude": -124.1623898,
+            "rating": 2.8,
+            "ratingCount": 11,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "County government office"
+            ],
+            "website": "http://www.humboldtgov.org/330/Public-Health",
+            "phoneNumber": "(707) 445-6200",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzu1jcWcz20Iw8D2BD3FKLfBE9ifROY6nCCxde",
+            "cid": "4557577692546199815",
+            "fid": "0x54d1557cb8e035c7:0x3f3fc4c3a875f107",
+            "placeId": "ChIJxzXguHxV0VQRB_F1qMPEPz8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Nat Org of Rare Disorders",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9092565,-77.0410083,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Organization For Rare",
+            "address": "1779 Massachusetts Ave NW, Washington, DC 20036",
+            "latitude": 38.9092565,
+            "longitude": -77.0410083,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://rarediseases.org/",
+            "phoneNumber": "(202) 588-5700",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ReVm3EYNkG9Mw3u5Aw0fmEJTZURGAQuft0Qv19iiUhypJ-9PIqBMqVbRAGu5fmuHJrDMT6ERt8suRS9S79KINKuGJfZTU0Wod50Ri-1HE4kz1qmCqoQjCAwpniMkUu7tSX4vf4A",
+            "cid": "15957132316639133254",
+            "fid": "0x89b7b7c71b6c089b:0xdd731f4c272e7e46",
+            "placeId": "ChIJmwhsG8e3t4kRRn4uJ0wfc90"
+        }
+    ],
+    "credits": 3
+}

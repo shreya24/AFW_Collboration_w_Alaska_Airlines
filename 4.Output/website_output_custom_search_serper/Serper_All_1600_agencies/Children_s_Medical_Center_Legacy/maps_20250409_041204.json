@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Children's Medical Center Legacy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0787498,-96.8006283,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Medical Center Plano",
+            "address": "7601 Preston Rd, Plano, TX 75024",
+            "latitude": 33.0787498,
+            "longitude": -96.8006283,
+            "rating": 3.1,
+            "ratingCount": 821,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency care physician",
+                "Emergency room",
+                "Pediatrician"
+            ],
+            "website": "https://www.childrens.com/locations/plano-campus/childrens-medical-center-plano?utm_source=google?utm_medium=yext&utm_campaign=Children's%20Medical%20Center%20Plano%20%7C%20%20%7C%20Brand",
+            "phoneNumber": "(469) 303-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNzcjtkWr45l5Yjc_RvqlJ0g_USsYwFja7gonF",
+            "cid": "14706509076332268777",
+            "fid": "0x864c3cd224efd799:0xcc18041624d7cce9",
+            "placeId": "ChIJmdfvJNI8TIYR6czXJBYEGMw"
+        }
+    ],
+    "credits": 3
+}

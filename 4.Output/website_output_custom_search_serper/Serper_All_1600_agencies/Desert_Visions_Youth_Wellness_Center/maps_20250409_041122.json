@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Desert Visions Youth Wellness Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0752976,-111.7580515,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Desert Visions Youth Wellness Center",
+            "address": "198 Skill Center Rd, Sacaton, AZ 85147",
+            "latitude": 33.0752976,
+            "longitude": -111.7580515,
+            "rating": 2.8,
+            "ratingCount": 4,
+            "type": "Wellness center",
+            "types": [
+                "Wellness center",
+                "Addiction treatment center"
+            ],
+            "website": "https://www.ihs.gov/phoenix/adolescenttreatmentcenters/desertvision/",
+            "phoneNumber": "(888) 431-4096",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DKJ0MSDST0fSNMSPREGAPQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=271.55603&pitch=0&thumbfov=100",
+            "cid": "2425607896032765",
+            "fid": "0x872a50aa7b490837:0x89e13d901e5fd",
+            "placeId": "ChIJNwhJe6pQKocR_eUB2ROeCAA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Northern Ariz",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2994182,-111.8861527,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Arizona University",
+            "address": "S San Francisco St, Flagstaff, AZ 86011",
+            "latitude": 35.180268399999996,
+            "longitude": -111.65403359999999,
+            "rating": 4,
+            "ratingCount": 225,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "School",
+                "University"
+            ],
+            "website": "https://nau.edu/",
+            "phoneNumber": "(928) 523-9011",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPTH3fMlZXLBmmIuF245PHqAM-jmCypA8eS28jC",
+            "cid": "5468885867044428777",
+            "fid": "0x872d8f6564ff20dd:0x4be562b87e565be9",
+            "placeId": "ChIJ3SD_ZGWPLYcR6VtWfrhi5Us"
+        },
+        {
+            "position": 2,
+            "title": "Northern Arizona University",
+            "address": "15451 N 28th Ave #5, Phoenix, AZ 85053",
+            "latitude": 33.6264105,
+            "longitude": -112.11827179999999,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://nau.edu/",
+            "phoneNumber": "(602) 728-9510",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q78hsvDlqpAPeQRlquFMGA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=79.91346&pitch=0&thumbfov=100",
+            "cid": "1275298788188921510",
+            "fid": "0x872b6e95380ff93b:0x11b2c57db47c9ea6",
+            "placeId": "ChIJO_kPOJVuK4cRpp58tH3FshE"
+        },
+        {
+            "position": 3,
+            "title": "Northern Arizona university",
+            "address": "Mesa, AZ 85201",
+            "latitude": 33.4185679,
+            "longitude": -111.82852299999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://nau.edu/",
+            "phoneNumber": "(928) 523-2989",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qIj4MB5wtcneaR4nQ-r0XA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=36.33343&pitch=0&thumbfov=100",
+            "cid": "12300063821141768378",
+            "fid": "0x872ba7c3bbdb7c29:0xaab29ae075c9f8ba",
+            "placeId": "ChIJKXzbu8OnK4cRuvjJdeCasqo"
+        }
+    ],
+    "credits": 3
+}

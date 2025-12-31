@@ -1,0 +1,68 @@
+{
+    "searchParameters": {
+        "q": "UT Southwestern Simmons Comp. Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7401892,-96.8609215,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Harold C. Simmons Comprehensive Cancer Center",
+            "address": "6202 Harry Hines Blvd, Dallas, TX 75235",
+            "latitude": 32.820508,
+            "longitude": -96.84607899999999,
+            "rating": 4,
+            "ratingCount": 33,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://utswmed.org/cancer/?utm_medium=organic&utm_source=google&utm_campaign=gbp&utm_content=website",
+            "phoneNumber": "(214) 645-8300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20133:30\u202fPM",
+                "Sunday": "7\u202fAM\u20133:30\u202fPM",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOT4CV-MHNLovl9t2b6xvXx4q1WaqcSLugg1tKh",
+            "cid": "12905417929584502889",
+            "fid": "0x864e9c1bf35de3ef:0xb319413b2ad76869",
+            "placeId": "ChIJ7-Nd8xucToYRaWjXKjtBGbM"
+        },
+        {
+            "position": 2,
+            "title": "Simmons Cancer Center at UT Southwestern RedBird",
+            "address": "3450 W Camp Wisdom Rd, Dallas, TX 75237",
+            "latitude": 32.6598705,
+            "longitude": -96.87576399999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://utswmed.org/locations/ut-southwestern-medical-center-redbird/cancer-ctr-med-ctr-redbird/",
+            "phoneNumber": "(214) 645-4673",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jUAIeT0hM2v39cqdYqZUaQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=137.31154&pitch=0&thumbfov=100",
+            "cid": "17858367662577615694",
+            "fid": "0x864e914d11ccbf6f:0xf7d5aac57c43034e",
+            "placeId": "ChIJb7_MEU2RToYRTgNDfMWq1fc"
+        }
+    ],
+    "credits": 3
+}

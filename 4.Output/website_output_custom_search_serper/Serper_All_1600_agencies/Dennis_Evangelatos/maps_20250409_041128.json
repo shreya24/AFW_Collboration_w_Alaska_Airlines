@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Dennis Evangelatos",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0672582,-118.3961067,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Dennis W. Evangelatos | MD\u00b2 Beverly Hills",
+            "address": "120 S Spalding Dr #403, Beverly Hills, CA 90212",
+            "latitude": 34.066255999999996,
+            "longitude": -118.4086176,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Internist"
+            ],
+            "website": "https://www.md2.com/offices/beverly-hills-ca",
+            "phoneNumber": "(424) 239-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNvSyBFyhI0vLTV5xeQ04w3zX4XIMKsMAybzOgw",
+            "cid": "12036291241305648774",
+            "fid": "0x80c2bbf6472fbad7:0xa7097f1ceb2b2e86",
+            "placeId": "ChIJ17ovR_a7woARhi4r6xx_Cac"
+        },
+        {
+            "position": 2,
+            "title": "Evangelatos Dennis MD",
+            "address": "150 S Robertson Blvd, Beverly Hills, CA 90211",
+            "latitude": 34.0682603,
+            "longitude": -118.38359589999999,
+            "phoneNumber": "(310) 855-0303",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XuN-nvwQlu_ArtUD-OO6UQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=155.0351&pitch=0&thumbfov=100",
+            "cid": "9394065484117807392",
+            "fid": "0x80c2b95185af2b5f:0x825e6cc931999120",
+            "placeId": "ChIJXyuvhVG5woARIJGZMclsXoI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Ketchikan Indian Community and Tribal He",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3526619,-131.6848485,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ketchikan Indian Community",
+            "address": "2960 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.352661899999994,
+            "longitude": -131.6848485,
+            "rating": 4.3,
+            "ratingCount": 8,
+            "type": "Tribal headquarters",
+            "types": [
+                "Tribal headquarters",
+                "Dental clinic",
+                "Government office",
+                "Laboratory",
+                "Medical clinic",
+                "Pharmacy",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.kictribe.org/",
+            "phoneNumber": "(907) 228-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcA3GZnBVO2OWZA6i9tllTZpE58NRkP4gcVgJc",
+            "cid": "358759266822415516",
+            "fid": "0x540c25bbbfa7c8b3:0x4fa91a702d4649c",
+            "placeId": "ChIJs8inv7slDFQRnGTUAqeR-gQ"
+        }
+    ],
+    "credits": 3
+}

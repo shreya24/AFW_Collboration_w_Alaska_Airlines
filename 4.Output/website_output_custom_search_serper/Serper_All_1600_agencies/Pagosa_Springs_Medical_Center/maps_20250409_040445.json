@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pagosa Springs Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2523609,-107.0783859,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pagosa Springs Medical Center",
+            "address": "95 S Pagosa Blvd, Pagosa Springs, CO 81147",
+            "latitude": 37.2523609,
+            "longitude": -107.0783859,
+            "rating": 3.3,
+            "ratingCount": 127,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.pagosaspringsmedicalcenter.org/",
+            "phoneNumber": "(970) 731-3700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-tQdNDluvZYNTYlA4CWX5mAg6zoILQ6UkxTYUaOitqZWVNolAAxsbMNXYHMD4vLclq10Y4rrAo0ZjtxAGVFgHKO5FLm102xhncLtX_iKAvIef2WFFrimIeOAGwJbjyjW08f32V",
+            "cid": "1277384324283403861",
+            "fid": "0x873ddabf8c047217:0x11ba2e466a908e55",
+            "placeId": "ChIJF3IEjL_aPYcRVY6QakYuuhE"
+        }
+    ],
+    "credits": 3
+}

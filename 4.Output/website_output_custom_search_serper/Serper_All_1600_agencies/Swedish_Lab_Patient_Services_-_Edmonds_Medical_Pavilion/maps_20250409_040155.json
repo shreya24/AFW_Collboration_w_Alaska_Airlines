@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Swedish Lab Patient Services - Edmonds Medical Pavilion",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.8026484,-122.3319505,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Lab Patient Services - Edmonds Medical Pavilion",
+            "address": "7320 216th St SW Suite 130, Edmonds, WA 98026",
+            "latitude": 47.802648399999995,
+            "longitude": -122.33195049999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/lab-patient-services-center-edmonds-medical-pavilion?Is=location&y_source=1_OTU3NjU0NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 640-4179",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20133:45\u202fPM",
+                "Wednesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20133:45\u202fPM",
+                "Thursday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20133:45\u202fPM",
+                "Friday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20133:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20133:45\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/swedish-lab-patient-services-center-edmonds-medical-pavilion#llaid=6943sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFsgX4W1VAHVxmEDrixgEU4j29BUy-p0Xmi15u",
+            "cid": "14006534460928058805",
+            "fid": "0x54901abb6e3d93a9:0xc26134e1e5e265b5",
+            "placeId": "ChIJqZM9brsakFQRtWXi5eE0YcI"
+        }
+    ],
+    "credits": 3
+}

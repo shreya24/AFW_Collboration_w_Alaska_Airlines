@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Helena ENT Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5732498,-111.9798278,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Helena Ear, Nose and Throat Clinic",
+            "address": "3116 Saddle Dr #4, Helena, MT 59601",
+            "latitude": 46.5732498,
+            "longitude": -111.9798278,
+            "rating": 4.3,
+            "ratingCount": 30,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic"
+            ],
+            "website": "http://www.helenaent.com/",
+            "phoneNumber": "(406) 204-2409",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOBU5icgGEdeGnlIbaxZoreqXAdjTJZxRcP9BO",
+            "cid": "24428338783406350",
+            "fid": "0x5343558592ceed75:0x56c971d7a3490e",
+            "placeId": "ChIJde3OkoVVQ1MRDkmj13HJVgA"
+        }
+    ],
+    "credits": 3
+}

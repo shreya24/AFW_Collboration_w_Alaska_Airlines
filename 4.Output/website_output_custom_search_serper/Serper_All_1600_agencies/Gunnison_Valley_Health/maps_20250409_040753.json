@@ -1,0 +1,128 @@
+{
+    "searchParameters": {
+        "q": "Gunnison Valley Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5517225,-106.9254238,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gunnison Valley Health Hospital",
+            "address": "711 N Taylor St, Gunnison, CO 81230",
+            "latitude": 38.551929099999995,
+            "longitude": -106.92486249999999,
+            "rating": 3.1,
+            "ratingCount": 59,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.gunnisonvalleyhealth.org/",
+            "phoneNumber": "(970) 641-1456",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOkLLiN8HdWZlaUJquGLO7-JunUCxkfaLLU4cuy",
+            "cid": "9591329500143038541",
+            "fid": "0x873f92c7cd9e75e1:0x851b3f5d03c0304d",
+            "placeId": "ChIJ4XWezceSP4cRTTDAA10_G4U"
+        },
+        {
+            "position": 2,
+            "title": "Gunnison Valley Health Family Medicine Clinic",
+            "address": "707 N Iowa St, Gunnison, CO 81230",
+            "latitude": 38.5515089,
+            "longitude": -106.92598509999999,
+            "rating": 3.7,
+            "ratingCount": 20,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.gunnisonvalleyhealth.org/Our-Services/Primary-Care/Family-Medicine-Clinic.aspx",
+            "phoneNumber": "(970) 642-8413",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMjlbYrjiV9XuaG3C63IsyHRI4-3xs4JRRWEsvX",
+            "cid": "5291085933420241204",
+            "fid": "0x873f92c7b3c75075:0x496db69f81946134",
+            "placeId": "ChIJdVDHs8eSP4cRNGGUgZ-2bUk"
+        },
+        {
+            "position": 3,
+            "title": "Gunnison Valley Health Hospital Emergency Room",
+            "address": "711 N Taylor St, Gunnison, CO 81230",
+            "latitude": 38.551974699999995,
+            "longitude": -106.9251311,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.gunnisonvalleyhealth.org/",
+            "phoneNumber": "(970) 641-1456",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbV5oSHIRHX7lJNLTN-LT6vomyY591k-4l2Woj",
+            "cid": "1307732689950952394",
+            "fid": "0x873f92c7d2043787:0x1225fff3edb14bca",
+            "placeId": "ChIJhzcE0seSP4cRykux7fP_JRI"
+        },
+        {
+            "position": 4,
+            "title": "Gunnison Valley Health Urgent Care",
+            "address": "707 N Iowa St, Gunnison, CO 81230",
+            "latitude": 38.5514704,
+            "longitude": -106.925946,
+            "rating": 3.6,
+            "ratingCount": 23,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.gunnisonvalleyhealth.org/Our-Services/Urgent-Care.aspx",
+            "phoneNumber": "(970) 648-7105",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20137\u202fPM",
+                "Sunday": "9\u202fAM\u20137\u202fPM",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOYA9y8dR3xSWZwS5JtFu4DleolmgF78kahbyrJ",
+            "cid": "11988209269058464091",
+            "fid": "0x873f93d3f1e63b79:0xa65eacd05f46695b",
+            "placeId": "ChIJeTvm8dOTP4cRW2lGX9CsXqY"
+        }
+    ],
+    "credits": 3
+}

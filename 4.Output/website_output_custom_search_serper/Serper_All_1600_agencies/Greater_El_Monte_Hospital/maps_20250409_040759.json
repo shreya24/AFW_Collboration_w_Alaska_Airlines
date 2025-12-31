@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Greater El Monte Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0480634,-118.0431471,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Greater El Monte Community Hospital",
+            "address": "1701 Santa Anita Ave, South El Monte, CA 91733",
+            "latitude": 34.0480634,
+            "longitude": -118.0431471,
+            "rating": 2.7,
+            "ratingCount": 231,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.ahmchealth.com/gemch//?&sub=redirect-to-ahmchealth.com",
+            "phoneNumber": "(626) 579-7777",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVWeicCsiRB_lY0FEMTraNyzxGI17FEorl_MTw",
+            "cid": "5724130907627587947",
+            "fid": "0x80c2d0e836348b5d:0x4f7032bb94fa096b",
+            "placeId": "ChIJXYs0NujQwoARawn6lLsycE8"
+        }
+    ],
+    "credits": 3
+}

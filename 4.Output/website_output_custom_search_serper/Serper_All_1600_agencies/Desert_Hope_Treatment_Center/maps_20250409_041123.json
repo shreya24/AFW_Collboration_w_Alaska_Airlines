@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Desert Hope Treatment Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1241007,-115.118166,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Desert Hope Treatment Center",
+            "address": "2465 E Twain Ave, Las Vegas, NV 89121",
+            "latitude": 36.121258399999995,
+            "longitude": -115.1172232,
+            "rating": 3.9,
+            "ratingCount": 486,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Alcoholism treatment program",
+                "Counselor",
+                "Psychologist",
+                "Rehabilitation center"
+            ],
+            "website": "https://deserthopetreatment.com/drug-rehab-las-vegas-nv/?utm_source=google&utm_medium=organic&utm_campaign=local",
+            "phoneNumber": "(702) 874-3798",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtjAmHlrGq_a4iFqxE9SiK6eUNqgJuHS9V3EWY",
+            "cid": "14410978535245050877",
+            "fid": "0x80c8c4ddf2348b4b:0xc7fe14a00b0f73fd",
+            "placeId": "ChIJS4s08t3EyIAR_XMPC6AU_sc"
+        },
+        {
+            "position": 2,
+            "title": "Desert Hope Outpatient",
+            "address": "3441 S Eastern Ave, Las Vegas, NV 89169",
+            "latitude": 36.126943,
+            "longitude": -115.11910879999999,
+            "rating": 4.5,
+            "ratingCount": 89,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Alcoholism treatment program",
+                "Counselor",
+                "Rehabilitation center"
+            ],
+            "website": "https://deserthopetreatment.com/las-vegas-outpatient-rehab/?utm_source=google&utm_medium=organic&utm_campaign=local",
+            "phoneNumber": "(702) 919-4758",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcTLXfOZvMUadqNuH5dDeoOzSXb1ziirGpdnsW",
+            "cid": "2979097722935622000",
+            "fid": "0x80c8c4e836f2d4ff:0x2957e19856c0b970",
+            "placeId": "ChIJ_9TyNujEyIARcLnAVpjhVyk"
+        }
+    ],
+    "credits": 3
+}

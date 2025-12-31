@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Parker Hughes Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.0242331,-93.2063106,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Parker Hughes Cancer Center: Gupta Vandana MD",
+            "address": "2848 Patton Rd, St Paul, MN 55113",
+            "latitude": 45.0241932,
+            "longitude": -93.2065726,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.parkerhughes.org/",
+            "phoneNumber": "(651) 796-5400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TnrMRIjutyCUgGkm5gPCJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=318.0931&pitch=0&thumbfov=100",
+            "cid": "10369393202219606202",
+            "fid": "0x52b32c2213ce2f01:0x8fe77c2d92a660ba",
+            "placeId": "ChIJAS_OEyIss1IRumCmki18548"
+        },
+        {
+            "position": 2,
+            "title": "Parker Hughes Cancer Center",
+            "address": "2848 Patton Rd, St Paul, MN 55113",
+            "latitude": 45.0242729,
+            "longitude": -93.2060486,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.parkerhughes.org/",
+            "phoneNumber": "(651) 796-5400",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TnrMRIjutyCUgGkm5gPCJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=51.47506&pitch=0&thumbfov=100",
+            "cid": "9426816028064511459",
+            "fid": "0x52b32c2213ce2f01:0x82d2c73b6bbe75e3",
+            "placeId": "ChIJAS_OEyIss1IR43W-azvH0oI"
+        }
+    ],
+    "credits": 3
+}

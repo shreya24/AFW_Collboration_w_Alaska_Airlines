@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Valley Young Peoples Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6746448,-117.1599168,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Young Peoples Clinic",
+            "address": "23813 E Appleway Ave, Liberty Lake, WA 99019",
+            "latitude": 47.6793257,
+            "longitude": -117.0859928,
+            "rating": 4.4,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/pediatrics-liberty-lake",
+            "phoneNumber": "(509) 928-6383",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CpBF7mHegbDzlCQSeFthjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.5095&pitch=0&thumbfov=100",
+            "cid": "7740122941413139765",
+            "fid": "0x5361dc2b9b7ebedd:0x6b6a70ce68c82535",
+            "placeId": "ChIJ3b5-myvcYVMRNSXIaM5wams"
+        },
+        {
+            "position": 2,
+            "title": "Valley Young Peoples Clinic: Wendt Georgette MD",
+            "address": "1414 N Vercler Rd #1, Spokane Valley, WA 99216",
+            "latitude": 47.6699638,
+            "longitude": -117.23384089999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic"
+            ],
+            "website": "http://phppd.providence.org/BaseSearch/Facility/View/217110608549195?PlanName=PEBB%20Providence%20Choice%20Medical%20Home%20Plan",
+            "phoneNumber": "(509) 928-6383",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oK8kNNfGDofOZ4XgzcLQFg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.146805&pitch=0&thumbfov=100",
+            "cid": "8374622376344343114",
+            "fid": "0x549e200c374d760f:0x7438a2ae3e0ad24a",
+            "placeId": "ChIJD3ZNNwwgnlQRStIKPq6iOHQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Arizona Orthopedic & Fracture Surgeons",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4879535,-112.0803973,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona Orthopedic & Fracture Surgeons",
+            "address": "444 W Osborn Rd # 200, Phoenix, AZ 85013",
+            "latitude": 33.487953499999996,
+            "longitude": -112.0803973,
+            "rating": 4.6,
+            "ratingCount": 81,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.azofs.com/",
+            "phoneNumber": "(602) 230-1400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.azofs.com/appointments-orthopedic-fracture-surgeon-phoenix-az.html#online-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Rgjv1OZSoTXkFvrmMxMgEsLEbQyaKKQBa3mmLM0SSQIaJqLO5U2I82hb3jl0HeorW3un5mBFXn3Ynh16Sff16dRdWtSGKBbIb6ApkYIVLe4P8JMnffLcu6IXa7zSfjZ3twBT-fw",
+            "cid": "4733148755969765910",
+            "fid": "0x872b13e56d72434f:0x41af85b75ca8f216",
+            "placeId": "ChIJT0NybeUTK4cRFvKoXLeFr0E"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "David B Bockoff, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0648918,-118.3765029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "David B Bockoff, MD",
+            "address": "8500 Wilshire Blvd #926, Beverly Hills, CA 90211",
+            "latitude": 34.0648918,
+            "longitude": -118.37650289999999,
+            "rating": 4.7,
+            "ratingCount": 24,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "phoneNumber": "(310) 652-5800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tpiBEs66hPLEJ38QJCitig&cb_client=search.gws-prod.gps&w=360&h=120&yaw=265.4885&pitch=0&thumbfov=100",
+            "cid": "6481795728097979794",
+            "fid": "0x80c2bec0d37e1a1b:0x59f3f6df67ecad92",
+            "placeId": "ChIJGxp-08C-woARkq3sZ9_281k"
+        }
+    ],
+    "credits": 3
+}

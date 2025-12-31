@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Four Corners Nephrology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7252073,-108.2176972,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Four Corners Nephrology",
+            "address": "812 W Maple St, Farmington, NM 87401",
+            "latitude": 36.7252073,
+            "longitude": -108.21769719999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nephrologist"
+            ],
+            "phoneNumber": "(505) 326-6521",
+            "cid": "7368972684045356813",
+            "fid": "0x873b85605988dc37:0x6643d99d18148f0d",
+            "placeId": "ChIJN9yIWWCFO4cRDY8UGJ3ZQ2Y"
+        }
+    ],
+    "credits": 3
+}

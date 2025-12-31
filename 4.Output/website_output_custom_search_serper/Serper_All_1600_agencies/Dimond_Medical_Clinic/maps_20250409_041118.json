@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dimond Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1438154,-149.8766905,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dimond Medical Clinic",
+            "address": "300 E Dimond Blvd #12, Anchorage, AK 99515",
+            "latitude": 61.143815399999994,
+            "longitude": -149.8766905,
+            "rating": 4,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "http://alaskamedicalclinics.com/",
+            "phoneNumber": "(907) 341-7757",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4WLktC6chczlsQxj4S0DquwUAQObRwis_mVXnP0LxFCQk9bYWZ4EeQj9W0pih7oD9K5UEiDdvgZK1FgOkjE4O7KxRJFbBqf8xmgiZdEUPaURHr4Q3nwv-XBCt5d_1MSlq-agl",
+            "cid": "9282813726813169029",
+            "fid": "0x56c899d236d7be33:0x80d32de6eed1a585",
+            "placeId": "ChIJM77XNtKZyFYRhaXR7uYt04A"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,616 @@
+{
+    "searchParameters": {
+        "q": "Honor Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6186792,-111.999345,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HonorHealth Scottsdale Shea Medical Center",
+            "address": "9003 E Shea Blvd, Scottsdale, AZ 85260",
+            "latitude": 33.577990199999995,
+            "longitude": -111.883224,
+            "rating": 4.2,
+            "ratingCount": 1640,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/scottsdale-shea-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=Scottsdale_Shea_Medical_Center",
+            "phoneNumber": "(480) 323-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMxtCJ9iRdchQVqSUPnAlaEo7ALngDZq_OwIXg",
+            "cid": "9540974057210237320",
+            "fid": "0x872b753e8b60627d:0x8468595ad33bd188",
+            "placeId": "ChIJfWJgiz51K4cRiNE701pZaIQ"
+        },
+        {
+            "position": 2,
+            "title": "HonorHealth Deer Valley Medical Center",
+            "address": "19829 N 27th Ave, Phoenix, AZ 85027",
+            "latitude": 33.6655324,
+            "longitude": -112.1164943,
+            "rating": 3.7,
+            "ratingCount": 1351,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/deer-valley-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=Valley_Medical_Center",
+            "phoneNumber": "(623) 879-6100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBwI1j6r1L__JEskbVtUzbQIreBck5_O5OH1AQ",
+            "cid": "15230205930965625593",
+            "fid": "0x872b6f1434d3f4e9:0xd35c8f99e340eaf9",
+            "placeId": "ChIJ6fTTNBRvK4cR-epA45mPXNM"
+        },
+        {
+            "position": 3,
+            "title": "HonorHealth Sonoran Crossing Medical Center",
+            "address": "33400 N 32nd Ave, Phoenix, AZ 85085",
+            "latitude": 33.785340399999995,
+            "longitude": -112.1301787,
+            "rating": 4.2,
+            "ratingCount": 791,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.honorhealth.com/locations/emergency/sonoran-health-and-emergency-center?utm_source=GMB&utm_medium=local&utm_campaign=Sonoran_Health_And_Emergency_Center",
+            "phoneNumber": "(623) 683-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0uZ_moMdnG5991_2IxUwPXs9vruRNG5QlyV_P",
+            "cid": "3182458948059905139",
+            "fid": "0x872b63efa69e4c89:0x2c2a5d8d475fbc73",
+            "placeId": "ChIJiUyepu9jK4cRc7xfR41dKiw"
+        },
+        {
+            "position": 4,
+            "title": "HonorHealth Scottsdale Osborn Medical Center",
+            "address": "7400 E Osborn Rd, Scottsdale, AZ 85251",
+            "latitude": 33.4884353,
+            "longitude": -111.9229549,
+            "rating": 3.8,
+            "ratingCount": 1032,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/scottsdale-osborn-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=Scottsdale_Osborn_Medical_Center",
+            "phoneNumber": "(480) 882-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgbRaAYFoXMHELb0GofdfTQgrmqgQefhktgV9g",
+            "cid": "13325143558524214027",
+            "fid": "0x872b0bc1162e46e5:0xb8ec6b7782eb9b0b",
+            "placeId": "ChIJ5UYuFsELK4cRC5vrgndr7Lg"
+        },
+        {
+            "position": 5,
+            "title": "HonorHealth John C. Lincoln Medical Center",
+            "address": "250 E Dunlap Ave, Phoenix, AZ 85020",
+            "latitude": 33.5692679,
+            "longitude": -112.07086799999999,
+            "rating": 3.4,
+            "ratingCount": 990,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital",
+                "Radiologist"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/john-c-lincoln-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=John_C_Lincoln_Medical_Center",
+            "phoneNumber": "(602) 943-2381",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCa6iJ6lw-rbblGEM0HtTMNotZUgh9uBbdlr02",
+            "cid": "12142764189857656654",
+            "fid": "0x872b6d74d8524ad5:0xa883c3b20fccaf4e",
+            "placeId": "ChIJ1UpS2HRtK4cRTq_MD7LDg6g"
+        },
+        {
+            "position": 6,
+            "title": "HonorHealth Complete Care - Paradise Valley",
+            "address": "5316 E Shea Blvd Suite 150, Scottsdale, AZ 85254",
+            "latitude": 33.5831154,
+            "longitude": -111.9673825,
+            "rating": 4.1,
+            "ratingCount": 152,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Urgent care center"
+            ],
+            "website": "https://www.honorhealth.com/locations/urgent-care/honorhealth-complete-care/paradise-valley",
+            "phoneNumber": "(480) 534-4530",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPErWAESPRPOoWP9l9iLMK7VtHMvyC7RsMh7Awt",
+            "cid": "12198836447096463506",
+            "fid": "0x872b7333af2f340f:0xa94af91dce45e092",
+            "placeId": "ChIJDzQvrzNzK4cRkuBFzh35Sqk"
+        },
+        {
+            "position": 7,
+            "title": "HonorHealth Medical Group Urgent Care - Fountain Hills",
+            "address": "16716 E Palisades Blvd Ste 101A-101B, Fountain Hills, AZ 85268",
+            "latitude": 33.6088065,
+            "longitude": -111.71943069999999,
+            "rating": 4.7,
+            "ratingCount": 395,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/urgent-care/honorhealth-urgent-care-fountain-hills?utm_source=yext&utm_medium=local&utm_campaign=urgent_care_fountain_hills",
+            "phoneNumber": "(480) 587-6910",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAifsSxAODG7alZO27O8hFWSDNkNc0iq9hJhz5",
+            "cid": "16657833547950196202",
+            "fid": "0x872b99a1e79641ad:0xe72c835ad92805ea",
+            "placeId": "ChIJrUGW56GZK4cR6gUo2VqDLOc"
+        },
+        {
+            "position": 8,
+            "title": "HonorHealth Medical Group - Bethany Home - Primary Care",
+            "address": "1515 E Bethany Home Rd Suite 120, Phoenix, AZ 85014",
+            "latitude": 33.5226713,
+            "longitude": -112.0490999,
+            "rating": 4.8,
+            "ratingCount": 580,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-bethany-home?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Bethany_Home",
+            "phoneNumber": "(602) 812-3080",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-bethany-home?utm_source=yext&utm_medium=local&utm_campaign=honorhealth_bethanyhome_online_schedule"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaLr0wrkq69-wsoSzaxPn8S-BFlViAdsQ46T3g",
+            "cid": "1982612988206398019",
+            "fid": "0x872b136daf6026f5:0x1b83a802291e3a43",
+            "placeId": "ChIJ9SZgr20TK4cRQzoeKQKogxs"
+        },
+        {
+            "position": 9,
+            "title": "HonorHealth Medical Group Urgent Care - West Bell Road",
+            "address": "6220 W Bell Rd Suite 100C, Glendale, AZ 85308",
+            "latitude": 33.639330699999995,
+            "longitude": -112.19304079999999,
+            "rating": 4.5,
+            "ratingCount": 1105,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.honorhealth.com/locations/urgent-care/honorhealth-urgent-care-west-bell-road?utm_source=yext&utm_medium=local&utm_campaign=honorhealth_urgent_care_west_bell_road",
+            "phoneNumber": "(602) 547-7335",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2o3QLVLome3RCXjQAX2vTUqG-SscwXpcbgYQO",
+            "cid": "13036700431304382392",
+            "fid": "0x872b69ce73e5b4c1:0xb4eba9f88b1457b8",
+            "placeId": "ChIJwbTlc85pK4cRuFcUi_ip67Q"
+        },
+        {
+            "position": 10,
+            "title": "HonorHealth Medical Group - West Union Hills - Primary Care",
+            "address": "6320 W Union Hills Dr Bldg B, Suite 2300, Glendale, AZ 85308",
+            "latitude": 33.655352199999996,
+            "longitude": -112.1984178,
+            "rating": 4.7,
+            "ratingCount": 653,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-west-union-hills-drive?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_West_Union_Hills_Drive",
+            "phoneNumber": "(623) 561-9113",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4xCgIkJiO6_BkjnlFpxjueTiLLwLh0nQDpN9F",
+            "cid": "8412742094565963774",
+            "fid": "0x872b68675e8bfacb:0x74c0105cc59477fe",
+            "placeId": "ChIJy_qLXmdoK4cR_neUxVwQwHQ"
+        },
+        {
+            "position": 11,
+            "title": "HonorHealth Scottsdale Thompson Peak Medical Center",
+            "address": "7400 E Thompson Peak Pkwy, Scottsdale, AZ 85255",
+            "latitude": 33.6707225,
+            "longitude": -111.922102,
+            "rating": 4.2,
+            "ratingCount": 654,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/scottsdale-thompson-peak-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=Scottsdale_Thompson_Peak_Medical_Center",
+            "phoneNumber": "(480) 324-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwLbNdntH1OiM1YTxTCZdVfrLRzvZunPCD0e-T",
+            "cid": "6693269789209900928",
+            "fid": "0x872b76eecfafa71f:0x5ce345692bb5b780",
+            "placeId": "ChIJH6evz-52K4cRgLe1K2lF41w"
+        },
+        {
+            "position": 12,
+            "title": "HonorHealth Medical Group Urgent Care - Saguaro",
+            "address": "18404 N Tatum Blvd Suite 101C, Phoenix, AZ 85032",
+            "latitude": 33.6540701,
+            "longitude": -111.97842519999999,
+            "rating": 4.7,
+            "ratingCount": 880,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.honorhealth.com/locations/urgent-care/honorhealth-urgent-care-saguaro?utm_source=yext&utm_medium=local&utm_campaign=honorhealth_urgent_care_saguaro",
+            "phoneNumber": "(602) 485-7475",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPttbYmFz7LNOn0wRy9blCGrzkckWOxGg03W-d-",
+            "cid": "1999996726055045558",
+            "fid": "0x872b71a4d9bd8a37:0x1bc16a6d087489b6",
+            "placeId": "ChIJN4q92aRxK4cRtol0CG1qwRs"
+        },
+        {
+            "position": 13,
+            "title": "HonorHealth Medical Group - Del Lago - Primary Care",
+            "address": "10230 W Happy Valley Pkwy Ste 100 & Ste 200, Peoria, AZ 85383",
+            "latitude": 33.7139887,
+            "longitude": -112.27927,
+            "rating": 4.5,
+            "ratingCount": 675,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Surgical oncologist"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-del-lago?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Del_Lago",
+            "phoneNumber": "(623) 561-3030",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-del-lago?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Del_Lago"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4B3rYSjSBF7Ix9T21YMHV9yxebMCt4GVoKUwD",
+            "cid": "14339759531441433666",
+            "fid": "0x872b5d2f3537ce2d:0xc7010f518c16ac42",
+            "placeId": "ChIJLc43NS9dK4cRQqwWjFEPAcc"
+        },
+        {
+            "position": 14,
+            "title": "HonorHealth Medical Group - Paradise Valley - Primary Care",
+            "address": "5316 E Shea Blvd Ste 100, Scottsdale, AZ 85254",
+            "latitude": 33.5833891,
+            "longitude": -111.9675776,
+            "rating": 4.7,
+            "ratingCount": 464,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-paradise-valley?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Paradise_Valley",
+            "phoneNumber": "(480) 882-7420",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-paradise-valley?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Paradise_Valley"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6gxyi_R-CkZpV06IzmS8AORwnGcSsj65koHRB",
+            "cid": "1475548163664527123",
+            "fid": "0x872b7373a70c6559:0x147a333cb0343f13",
+            "placeId": "ChIJWWUMp3NzK4cREz80sDwzehQ"
+        },
+        {
+            "position": 15,
+            "title": "HonorHealth Medical Group - Deer Valley - Primary Care",
+            "address": "19636 N 27th Ave Suite 308, Phoenix, AZ 85027",
+            "latitude": 33.665409499999996,
+            "longitude": -112.11825089999999,
+            "rating": 4.7,
+            "ratingCount": 735,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-deer-valley?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Deer_Valley",
+            "phoneNumber": "(623) 780-1999",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-deer-valley?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Deer_Valley"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhr6m17aIg5uTAzEBeciim8XyydPmfPP1krfDl",
+            "cid": "16990495762911248554",
+            "fid": "0x872b6f15e0e33501:0xebca5de07a1ac0aa",
+            "placeId": "ChIJATXj4BVvK4cRqsAaeuBdyus"
+        },
+        {
+            "position": 16,
+            "title": "HonorHealth Medical Group - McKellips - Primary Care",
+            "address": "1124 E McKellips Rd Ste 110, Mesa, AZ 85203",
+            "latitude": 33.452017999999995,
+            "longitude": -111.80612359999999,
+            "rating": 4.6,
+            "ratingCount": 894,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-mckellips?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Mckellips",
+            "phoneNumber": "(480) 882-7370",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-mckellips?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Mckellips"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoh6NA_lVgh_QZb8tsSUY9q4d_7EHf-lM3T9FK",
+            "cid": "17139423465746845452",
+            "fid": "0x872ba6ffa1d9c547:0xeddb76d562d5cf0c",
+            "placeId": "ChIJR8XZof-mK4cRDM_VYtV22-0"
+        },
+        {
+            "position": 17,
+            "title": "HonorHealth Medical Group - Arcadia - Primary Care",
+            "address": "3311 N 44th St, Phoenix, AZ 85018",
+            "latitude": 33.487187,
+            "longitude": -111.9865813,
+            "rating": 4.8,
+            "ratingCount": 890,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-arcadia-100?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Arcadia_100",
+            "phoneNumber": "(480) 882-7360",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-arcadia-100?utm_source=yext&utm_medium=local&utm_campaign=honorhealth_aracdia_online_schedule"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwzbO95BmZwt41yfWFszVF6FmVSYz1CdcJm6tu",
+            "cid": "10701147523201602694",
+            "fid": "0x872b0c5d67b51371:0x94821cf9a97b9486",
+            "placeId": "ChIJcRO1Z10MK4cRhpR7qfkcgpQ"
+        },
+        {
+            "position": 18,
+            "title": "HonorHealth Medical Group - Thompson Peak - Primary Care",
+            "address": "20745 N Scottsdale Rd Suite 100, Scottsdale, AZ 85255",
+            "latitude": 33.675337,
+            "longitude": -111.923194,
+            "rating": 4.8,
+            "ratingCount": 1203,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-thompson-peak?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Thompson_Peak",
+            "phoneNumber": "(480) 882-7500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-thompson-peak?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Thompson_Peak"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNt5gwwRDfQcaf9-x6cSA0TSIC5cduPiK1I8Etl",
+            "cid": "8355446925629139857",
+            "fid": "0x872b76e8bee4084b:0x73f482b5b5c12b91",
+            "placeId": "ChIJSwjkvuh2K4cRkSvBtbWC9HM"
+        },
+        {
+            "position": 19,
+            "title": "HonorHealth Medical Group - Fountain Hills - Primary Care",
+            "address": "16716 E Palisades Blvd Ste 101A-101B, Fountain Hills, AZ 85268",
+            "latitude": 33.6087987,
+            "longitude": -111.7194201,
+            "rating": 4.6,
+            "ratingCount": 263,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-fountain-hills?utm_source=yext&utm_medium=local&utm_campaign=fountain_hills",
+            "phoneNumber": "(480) 587-6900",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiI7OF_lN7Oerv6ppTT6sBGa19rEXkvwmc1uwI",
+            "cid": "3473652507356006328",
+            "fid": "0x872b99128b06baa5:0x3034e48d1e1987b8",
+            "placeId": "ChIJpboGixKZK4cRuIcZHo3kNDA"
+        },
+        {
+            "position": 20,
+            "title": "HonorHealth Medical Group - Mescal - Primary Care",
+            "address": "10900 N Scottsdale Rd #603, Scottsdale, AZ 85254",
+            "latitude": 33.5862043,
+            "longitude": -111.9266832,
+            "rating": 4.7,
+            "ratingCount": 499,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-mescal?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Mescal",
+            "phoneNumber": "(480) 882-7470",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-mescal?utm_source=yext_powerlisting&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Mescal"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmuMaxNxj9WHJKMrsz5mTq3ko6ypRBFPy8czqQ",
+            "cid": "890631274342337214",
+            "fid": "0x872b74ed1701fd91:0xc5c286cdd074abe",
+            "placeId": "ChIJkf0BF-10K4cRvkoH3WwoXAw"
+        }
+    ],
+    "credits": 3
+}

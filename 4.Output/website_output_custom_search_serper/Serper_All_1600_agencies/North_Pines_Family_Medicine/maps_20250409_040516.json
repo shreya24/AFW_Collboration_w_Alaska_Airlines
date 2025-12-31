@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "North Pines Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6682973,-117.238741,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Family Medicine - North Pines",
+            "address": "1212 N Pines Rd, Spokane Valley, WA 99206",
+            "latitude": 47.6682973,
+            "longitude": -117.23874099999999,
+            "rating": 2.8,
+            "ratingCount": 62,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.providence.org/locations/wa/family-medicine-north-pines?ls=location&y_source=1_OTU3NzAwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 893-8140",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwkkYc5qwwJoml9rseoRJI_bV8Ssghv-OgISgV",
+            "cid": "6392376159224860950",
+            "fid": "0x549e20126a307713:0x58b6483fa1461116",
+            "placeId": "ChIJE3cwahIgnlQRFhFGoT9Itlg"
+        }
+    ],
+    "credits": 3
+}

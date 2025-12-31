@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Susan Hunter-Joerns, M.D. Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3651916,-134.5803087,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hunter-Joerns Susan MD",
+            "address": "2205 Jordan Ave, Juneau, AK 99801",
+            "latitude": 58.365191599999996,
+            "longitude": -134.5803087,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Doctor"
+            ],
+            "phoneNumber": "(907) 790-3224",
+            "isPermanentlyClosed": true,
+            "cid": "8740037345403881124",
+            "fid": "0x54011e1f8d4427d1:0x794ad9a8b07246a4",
+            "placeId": "ChIJ0SdEjR8eAVQRpEZysKjZSnk"
+        }
+    ],
+    "credits": 3
+}

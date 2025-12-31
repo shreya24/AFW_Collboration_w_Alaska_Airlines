@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Dr. Mark J. Sorensen",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2125202,-114.3237305,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sorensen Mark J MD",
+            "address": "75 Claremont St B, Kalispell, MT 59901",
+            "latitude": 48.2125202,
+            "longitude": -114.3237305,
+            "rating": 3,
+            "ratingCount": 2,
+            "phoneNumber": "(406) 752-2277",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ltDm-h3CVUkCaIlwsBgukA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=0.32119355&pitch=0&thumbfov=100",
+            "cid": "290398745047829224",
+            "fid": "0x5366509f2476e01f:0x407b41eb9cb8ae8",
+            "placeId": "ChIJH-B2JJ9QZlMR6IrLuR60BwQ"
+        }
+    ],
+    "credits": 3
+}

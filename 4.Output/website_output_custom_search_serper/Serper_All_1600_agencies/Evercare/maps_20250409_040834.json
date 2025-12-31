@@ -1,0 +1,486 @@
+{
+    "searchParameters": {
+        "q": "Evercare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6459897,-96.7966805,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "EverCare",
+            "address": "31 Cerone Pl, Newburgh, NY 12550",
+            "latitude": 41.4987475,
+            "longitude": -74.0343757,
+            "rating": 4.2,
+            "ratingCount": 10,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Adult day care center"
+            ],
+            "website": "http://www.evercare.org/",
+            "phoneNumber": "(845) 569-0500",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhaD17bKfLAa1SC2P5_YiQXn-lPGodhVzIgN9A",
+            "cid": "10461954593691814376",
+            "fid": "0x89dd2df9dfdb2f55:0x91305445ed4449e8",
+            "placeId": "ChIJVS_b3_kt3YkR6ElE7UVUMJE"
+        },
+        {
+            "position": 2,
+            "title": "EverCare Family Clinic",
+            "address": "1417 FM 1463 #120, Katy, TX 77494",
+            "latitude": 29.768778599999997,
+            "longitude": -95.8391553,
+            "rating": 4.6,
+            "ratingCount": 67,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://ecarefc.com/",
+            "phoneNumber": "(713) 429-5051",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 1\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.ecarefc.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPkmZBcDXcuVY_T93sBKFs_yJgqkT50E-fqWQ9E",
+            "cid": "8517388952691562531",
+            "fid": "0x8641250d9b81b4e5:0x7633d8201b045823",
+            "placeId": "ChIJ5bSBmw0lQYYRI1gEGyDYM3Y"
+        },
+        {
+            "position": 3,
+            "title": "Evercare Protection, LLC",
+            "address": "7150 E Camelback Rd Suite 444, Scottsdale, AZ 85251",
+            "latitude": 33.5027988,
+            "longitude": -111.92667829999999,
+            "rating": 3.2,
+            "ratingCount": 126,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://evercareprotection.com/",
+            "phoneNumber": "(480) 344-2979",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNJRYWKBgfv4rQ3_JV_OS4q29OVGWU6FyYYkvP",
+            "cid": "16454544454020898344",
+            "fid": "0x872b0bbd36900001:0xe45a490042ca1e28",
+            "placeId": "ChIJAQCQNr0LK4cRKB7KQgBJWuQ"
+        },
+        {
+            "position": 4,
+            "title": "EverCare Medical Associates",
+            "address": "52 Stiles Rd STE 110, Salem, NH 03079",
+            "latitude": 42.7716504,
+            "longitude": -71.2510636,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Doctor",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Registered general nurse",
+                "Urgent care center"
+            ],
+            "website": "http://evercaremedicalassociates.com/",
+            "phoneNumber": "(603) 685-4609",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "10161792941012552539",
+            "fid": "0x89e3abd04d6e1e11:0x8d05f0d722200b5b",
+            "placeId": "ChIJER5uTdCr44kRWwsgItfwBY0"
+        },
+        {
+            "position": 5,
+            "title": "Evercare Home Health",
+            "address": "2616 S Loop W, Houston, TX 77054",
+            "latitude": 29.6784492,
+            "longitude": -95.41989219999999,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(713) 352-7366",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pi_obiL7DwQOugEvKwuEDQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=355.82007&pitch=0&thumbfov=100",
+            "cid": "5311873096195503745",
+            "fid": "0x8640c17c936e62d9:0x49b7906ffeaff681",
+            "placeId": "ChIJ2WJuk3zBQIYRgfav_m-Qt0k"
+        },
+        {
+            "position": 6,
+            "title": "Evercare Medical Solutions, Inc.",
+            "address": "2102 Button Ln, La Grange, KY 40031",
+            "latitude": 38.3939591,
+            "longitude": -85.4038645,
+            "rating": 2.4,
+            "ratingCount": 19,
+            "type": "Medical equipment supplier",
+            "types": [
+                "Medical equipment supplier",
+                "Medical supply store",
+                "Oxygen equipment supplier"
+            ],
+            "website": "https://www.evercaremedicalsolutions.net/",
+            "phoneNumber": "(502) 222-9222",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdWydySUN_CrGqsRCyMq4pHG021giqm8FzMF_9",
+            "cid": "3062383693821982834",
+            "fid": "0x88698fd68fae55ad:0x2a7fc5be8c353872",
+            "placeId": "ChIJrVWuj9aPaYgRcjg1jL7Ffyo"
+        },
+        {
+            "position": 7,
+            "title": "Evercare Health Insurance",
+            "address": "801 7th St, Los Angeles, CA 90017",
+            "latitude": 34.048967,
+            "longitude": -118.25883909999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency",
+                "Insurance agency"
+            ],
+            "phoneNumber": "(213) 328-3052",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMom3os3qP8xwDkOWwbyUNYDHVsj__eXwGUnbA7",
+            "cid": "7120878678875205946",
+            "fid": "0x80c2c7b244c27dfd:0x62d2716e2f02713a",
+            "placeId": "ChIJ_X3CRLLHwoAROnECL25x0mI"
+        },
+        {
+            "position": 8,
+            "title": "EverCare Of Connecticut Home Care, LLC",
+            "address": "241 W Main St First Floor, New Britain, CT 06052",
+            "latitude": 41.666236999999995,
+            "longitude": -72.78942599999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://evercarect.com/?y_source=1_MzY5MzQ1MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(860) 438-7722",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO50aoELaZVRlpkpfd0j3GqTdWkuK6A9JaSy6SS",
+            "cid": "5685930541362735916",
+            "fid": "0x89e7b3cfe04ef27d:0x4ee87bb3b7786b2c",
+            "placeId": "ChIJffJO4M-z54kRLGt4t7N76E4"
+        },
+        {
+            "position": 9,
+            "title": "EverCare Behavioral Health",
+            "address": "300 Lenora St Suite 620, Seattle, WA 98121",
+            "latitude": 47.6135302,
+            "longitude": -122.34229739999999,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://evercarebehavioralhealth.com/",
+            "phoneNumber": "(360) 209-2204",
+            "openingHours": {
+                "Tuesday": "4\u20138\u202fPM",
+                "Wednesday": "4\u20138\u202fPM",
+                "Thursday": "4\u20138\u202fPM",
+                "Friday": "4\u20138\u202fPM",
+                "Saturday": "1\u20136\u202fPM",
+                "Sunday": "1\u20136\u202fPM",
+                "Monday": "4\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7SKHH8KU609SAjMMStmfg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=44.71395&pitch=0&thumbfov=100",
+            "cid": "15114419606466095672",
+            "fid": "0x5490159cd88fbe07:0xd1c1348d6d9c6a38",
+            "placeId": "ChIJB76P2JwVkFQROGqcbY00wdE"
+        },
+        {
+            "position": 10,
+            "title": "EverCare Companions LLC",
+            "address": "41 E West Dr, Pittsburgh, PA 15237",
+            "latitude": 40.5073076,
+            "longitude": -80.0215497,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://evercarecompanions.com/",
+            "phoneNumber": "(412) 606-9104",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dne-Qyk9GkUCEzi9TxlDuQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.31482&pitch=0&thumbfov=100",
+            "cid": "1923009421096843932",
+            "fid": "0x8834f530270d144f:0x1aafe6e14434fa9c",
+            "placeId": "ChIJTxQNJzD1NIgRnPo0ROHmrxo"
+        },
+        {
+            "position": 11,
+            "title": "Evercare",
+            "address": "526 Pylon Dr, Raleigh, NC 27606",
+            "latitude": 35.7928597,
+            "longitude": -78.7019356,
+            "type": "Manufacturer",
+            "types": [
+                "Manufacturer"
+            ],
+            "website": "https://www.evercare-zano.com/en/about-us",
+            "phoneNumber": "(805) 946-0040",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O1qGcO82N-xNypi2akvWdg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=293.2359&pitch=0&thumbfov=100",
+            "cid": "16216526527216919344",
+            "fid": "0x89acf5b533e6aaab:0xe10cacf52976a330",
+            "placeId": "ChIJq6rmM7X1rIkRMKN2KfWsDOE"
+        },
+        {
+            "position": 12,
+            "title": "Evercare Medical Solutions",
+            "address": "925 Searcy Way, Bowling Green, KY 42103",
+            "latitude": 36.9570982,
+            "longitude": -86.4179427,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(270) 904-3482",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sD0L5XCCnUcoFZYG8XilGA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=345.6342&pitch=0&thumbfov=100",
+            "cid": "11866508943631168959",
+            "fid": "0x8865e626fe218a15:0xa4ae4f034521b5bf",
+            "placeId": "ChIJFYoh_ibmZYgRv7UhRQNPrqQ"
+        },
+        {
+            "position": 13,
+            "title": "Evercare",
+            "address": "2300 Clayton Rd # 1000, Concord, CA 94520",
+            "latitude": 37.9754115,
+            "longitude": -122.0299764,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(925) 265-8623",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wLp0lvxUa3VXI9hK3HdNVg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=190.13612&pitch=0&thumbfov=100",
+            "cid": "16968411664188649132",
+            "fid": "0x8085672f0c0799cf:0xeb7be8818e8f2eac",
+            "placeId": "ChIJz5kHDC9nhYARrC6PjoHoe-s"
+        },
+        {
+            "position": 14,
+            "title": "Evercare Medical Solutions",
+            "address": "110 Ringgold Rd, Somerset, KY 42503",
+            "latitude": 37.0919424,
+            "longitude": -84.6285565,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(606) 676-2841",
+            "cid": "17896239611011370257",
+            "fid": "0x885d4a2043eb23c9:0xf85c371b9d9b8d11",
+            "placeId": "ChIJySPrQyBKXYgREY2bnRs3XPg"
+        },
+        {
+            "position": 15,
+            "title": "Evercare Hospice & Palliative",
+            "address": "Atlanta, GA 30360",
+            "latitude": 33.936899,
+            "longitude": -84.2752831,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(770) 417-2916",
+            "cid": "17169106247032051043",
+            "fid": "0x88f50a03ffffffff:0xee44eb2a75491563",
+            "placeId": "ChIJ_____wMK9YgRYxVJdSrrRO4"
+        },
+        {
+            "position": 16,
+            "title": "Safeway",
+            "address": "451 E Wonderview Ave, Estes Park, CO 80517",
+            "latitude": 40.3801333,
+            "longitude": -105.5166529,
+            "rating": 3.9,
+            "ratingCount": 2707,
+            "priceLevel": "$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "website": "https://local.safeway.com/safeway/co/estes-park/451-e-wonderview-ave.html",
+            "phoneNumber": "(970) 586-4447",
+            "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXTWtv37mLGRHi5dkrGYAzhdVg9uTeNn1Q9Crj",
+            "cid": "15626029461528852388",
+            "fid": "0x876965f19620342b:0xd8dacf01483737a4",
+            "placeId": "ChIJKzQglvFlaYcRpDc3SAHP2tg"
+        },
+        {
+            "position": 17,
+            "title": "Safeway",
+            "address": "771 Thornton Pkwy, Denver, CO 80229",
+            "latitude": 39.8724047,
+            "longitude": -104.97592089999999,
+            "rating": 4,
+            "ratingCount": 2741,
+            "priceLevel": "$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "website": "https://local.safeway.com/safeway/co/denver/771-thornton-pkwy.html",
+            "phoneNumber": "(303) 280-2245",
+            "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPpzCZADSIKFzFtroDgbVm_2MfWx5KoLoqKhKlO",
+            "cid": "7769331788441479922",
+            "fid": "0x876c76f0433d9a89:0x6bd2361910346af2",
+            "placeId": "ChIJiZo9Q_B2bIcR8mo0EBk20ms"
+        },
+        {
+            "position": 18,
+            "title": "Safeway",
+            "address": "1535 Main St, Windsor, CO 80550",
+            "latitude": 40.4781455,
+            "longitude": -104.9280548,
+            "rating": 4.1,
+            "ratingCount": 761,
+            "priceLevel": "$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "website": "https://local.safeway.com/safeway/co/windsor/1535-main-st.html",
+            "phoneNumber": "(970) 674-1177",
+            "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMzaQ3qwns1ABJ9NixDmBujapIvFHCozYhatjsS",
+            "cid": "5871242256910098112",
+            "fid": "0x876eb1f01a9f6f27:0x517ad7b9b9639ec0",
+            "placeId": "ChIJJ2-fGvCxbocRwJ5jubnXelE"
+        }
+    ],
+    "credits": 3
+}

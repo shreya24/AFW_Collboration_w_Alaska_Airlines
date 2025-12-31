@@ -1,0 +1,485 @@
+{
+    "searchParameters": {
+        "q": "Ocean Park",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.4817777,-95.0526056,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ocean View Park",
+            "address": "2701 Barnard Way, Santa Monica, CA 90405",
+            "latitude": 33.9989112,
+            "longitude": -118.48355169999999,
+            "rating": 4.7,
+            "ratingCount": 2197,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "http://www.smgov.net/Departments/CCS/content.aspx?id=32761",
+            "phoneNumber": "(310) 458-8300",
+            "description": "Busy beachfront park features paddle tennis, basketball & tennis courts, plus a grassy lawn & hill.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqRtn_kBRaOEcbSuvhw_CZwkr7QQWLk9qwkrv9",
+            "cid": "3919518093496455448",
+            "fid": "0x80c2bad258d32897:0x3664ecf085929118",
+            "placeId": "ChIJlyjTWNK6woARGJGShfDsZDY"
+        },
+        {
+            "position": 2,
+            "title": "Ocean Beach Park",
+            "address": "98 Neptune Ave, New London, CT 06320",
+            "latitude": 41.309259499999996,
+            "longitude": -72.0993951,
+            "rating": 4.4,
+            "ratingCount": 5709,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Public beach",
+                "Tourist attraction",
+                "Water park"
+            ],
+            "website": "http://www.ocean-beach-park.com/",
+            "phoneNumber": "(860) 447-3031",
+            "description": "1/2-mile beach boardwalk features an Olympic-size pool, miniature golf course, playgrounds & a cafe.",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310\u202fPM",
+                "Wednesday": "8\u202fAM\u201310\u202fPM",
+                "Thursday": "8\u202fAM\u201310\u202fPM",
+                "Friday": "8\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u201310\u202fPM",
+                "Sunday": "8\u202fAM\u201310\u202fPM",
+                "Monday": "8\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNPeWJU5lITeGyq5lKU-5enNNVMLLDYnTy6mpNP",
+            "cid": "641878464340669722",
+            "fid": "0x89e60f9c0000815d:0x8e8690fffffb51a",
+            "placeId": "ChIJXYEAAJwP5okRGrX__w9p6Ag"
+        },
+        {
+            "position": 3,
+            "title": "Ocean Park Resort in Myrtle Beach by Vacasa",
+            "address": "1905 S Ocean Blvd, Myrtle Beach, SC 29577",
+            "latitude": 33.6698563,
+            "longitude": -78.9046449,
+            "rating": 3.8,
+            "ratingCount": 1749,
+            "type": "Resort hotel",
+            "types": [
+                "Resort hotel",
+                "Hotel",
+                "Self-catering accommodation"
+            ],
+            "website": "https://www.vacasa.com/usa/Ocean-Park-Resort/?utm_source=gmb&utm_medium=organic&utm_campaign=GMB-OceanParkResort",
+            "phoneNumber": "(800) 624-8539",
+            "description": "Classic beachfront resort offering relaxed rooms & suites with balconies, plus 2 pools & a hot tub.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMm9TufnzZmc4X54RYBka4KKj0QPwpz7WphTwfS",
+            "cid": "5208848567777412465",
+            "fid": "0x890069c18d5cab77:0x48498c2cbb2cc571",
+            "placeId": "ChIJd6tcjcFpAIkRccUsuyyMSUg"
+        },
+        {
+            "position": 4,
+            "title": "Ocean Park",
+            "address": "Santa Monica, CA",
+            "latitude": 34.0039259,
+            "longitude": -118.48143499999999,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMx2OmTRrUIh284DYfdjxubZzWxGVbnXYSzu3Tu",
+            "cid": "3687602649356998846",
+            "fid": "0x80c2bad41095bc2f:0x332cff1263b698be",
+            "placeId": "ChIJL7yVENS6woARvpi2YxL_LDM"
+        },
+        {
+            "position": 5,
+            "title": "Ocean Park",
+            "address": "2 Seaview Ave, Oak Bluffs, MA 02557",
+            "latitude": 41.455619299999995,
+            "longitude": -70.555887,
+            "rating": 4.7,
+            "ratingCount": 455,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "7\u202fAM\u201310\u202fPM",
+                "Sunday": "7\u202fAM\u201310\u202fPM",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWpCXhJNu5eGV6R-JhXrdW-MIchWic2W30-5cU",
+            "cid": "9662765689345484363",
+            "fid": "0x89e5290c1c01e877:0x86190a32ed45264b",
+            "placeId": "ChIJd-gBHAwp5YkRSyZF7TIKGYY"
+        },
+        {
+            "position": 6,
+            "title": "Ocean Park",
+            "address": "6851 Ocean Park Rd, Lompoc, CA 93436",
+            "latitude": 34.690505,
+            "longitude": -120.6004608,
+            "rating": 4.4,
+            "ratingCount": 351,
+            "type": "Park",
+            "types": [
+                "Park"
+            ],
+            "website": "https://www.cityoflompoc.com/government/departments/community-development/parks",
+            "phoneNumber": "(805) 875-8100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOvVU0LDPFnVgosaHUkuNtn7VlgF79hZEh-QARB",
+            "cid": "5445245171282065624",
+            "fid": "0x80ec238ad9c371ff:0x4b9165a2152db8d8",
+            "placeId": "ChIJ_3HD2Yoj7IAR2LgtFaJlkUs"
+        },
+        {
+            "position": 7,
+            "title": "Ocean Park",
+            "address": "Washington",
+            "latitude": 46.4914875,
+            "longitude": -124.0501628,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMq5XfCDZgGQKNbFaJBCKEECnSVK7_7wwh1aLJG",
+            "cid": "14635285907165848762",
+            "fid": "0x54930876c378c37d:0xcb1afafdd2e6a4ba",
+            "placeId": "ChIJfcN4w3YIk1QRuqTm0v36Gss"
+        },
+        {
+            "position": 8,
+            "title": "Ocean Park",
+            "address": "Old Orchard Beach, ME",
+            "latitude": 43.5013405,
+            "longitude": -70.3853343,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQhBOLNeD8ooWoOGdWS2_LeeDDUF8Cbn4u-sVC",
+            "cid": "11404214462649151695",
+            "fid": "0x4cb2a6a42c184fc9:0x9e43e8a1b49330cf",
+            "placeId": "ChIJyU8YLKSmskwRzzCTtKHoQ54"
+        },
+        {
+            "position": 9,
+            "title": "Ocean Park",
+            "address": "Ocean Ave, Melbourne Beach, FL 32951",
+            "latitude": 28.0687176,
+            "longitude": -80.557126,
+            "rating": 4.8,
+            "ratingCount": 153,
+            "type": "Park",
+            "types": [
+                "Park"
+            ],
+            "website": "https://www.melbournebeachfl.org/parks-recreation-facility-rental",
+            "phoneNumber": "(321) 724-5860",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "7\u202fAM\u20139\u202fPM",
+                "Sunday": "7\u202fAM\u20139\u202fPM",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsHZY2ccNpVtV2rm9-tT2KGEgW5lm0VaQ2k82f",
+            "cid": "1076288920192068577",
+            "fid": "0x88de11585d3fffff:0xeefbf120bbcabe1",
+            "placeId": "ChIJ__8_XVgR3ogR4au8CxK_7w4"
+        },
+        {
+            "position": 10,
+            "title": "Ocean County Park",
+            "address": "659 Ocean Ave, Lakewood, NJ 08701",
+            "latitude": 40.0931231,
+            "longitude": -74.1834837,
+            "rating": 4.6,
+            "ratingCount": 935,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "https://ocparks.co.ocean.nj.us/frmRegContentPrks?ID=a5a0f978-c83e-49c6-88ac-9968c1e20ea9",
+            "phoneNumber": "(732) 506-9090",
+            "description": "Once the estate of John D. Rockefeller, this large park offers lake activities, picnicking & trails.",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "7\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4itXpm1KmiTbWZ_V4dWwzTmcpQ3aqBg2VbHna",
+            "cid": "3578534001530758359",
+            "fid": "0x89c1823a08bcf1e7:0x31a981b6e9e5e4d7",
+            "placeId": "ChIJ5_G8CDqCwYkR1-Tl6baBqTE"
+        },
+        {
+            "position": 11,
+            "title": "Ocean Park Resort",
+            "address": "25904 R St, Ocean Park, WA 98640",
+            "latitude": 46.4901133,
+            "longitude": -124.0473136,
+            "rating": 4,
+            "ratingCount": 79,
+            "type": "Resort hotel",
+            "types": [
+                "Resort hotel",
+                "Campground",
+                "Motel",
+                "Propane supplier",
+                "RV park"
+            ],
+            "website": "http://opresort.com/",
+            "phoneNumber": "(360) 665-4585",
+            "description": "Unfussy hotel with casual rooms, some with kitchens, plus free Wi-Fi & recreational facilities.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPb_jnIcelGnnb5ssmoiG0sWDa4io0WOEMO2p_d",
+            "cid": "17450160320961999099",
+            "fid": "0x549308e19bab56df:0xf22b6c5b648e70fb",
+            "placeId": "ChIJ31arm-EIk1QR-3COZFtsK_I"
+        },
+        {
+            "position": 12,
+            "title": "Ocean Park",
+            "address": "San Juan, Puerto Rico",
+            "latitude": 18.4532983,
+            "longitude": -66.05081419999999,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPffI6cqGv3pWsgXpfwhFonrVKLUYcdTQrp8Sla",
+            "cid": "1767667189728694560",
+            "fid": "0x8c036f509c5773bd:0x188803f18ce45120",
+            "placeId": "ChIJvXNXnFBvA4wRIFHkjPEDiBg"
+        },
+        {
+            "position": 13,
+            "title": "Ocean Park",
+            "address": "4235 Marsh Landing Blvd, Jacksonville Beach, FL 32250",
+            "latitude": 30.254308499999997,
+            "longitude": -81.3998106,
+            "rating": 4.3,
+            "ratingCount": 39,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Apartment building",
+                "Apartment rental agency"
+            ],
+            "website": "https://www.oceanparkjax.com/?rcstdid=Mg%3D%3D-YRjTEizZPgM%3D&utm_source=GMB&utm_medium=organic",
+            "phoneNumber": "(866) 702-3485",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "1\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.oceanparkjax.com/scheduletour?utm_source=GBP&utm_medium=organic&utm_campaign=appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0PBRCG_VQ_ZeWbgH1AKa91O6_mQd42XzGvlyT",
+            "cid": "16557114068798478512",
+            "fid": "0x88e449db9ff94a99:0xe5c6af85b05b18b0",
+            "placeId": "ChIJmUr5n9tJ5IgRsBhbsIWvxuU"
+        },
+        {
+            "position": 14,
+            "title": "Ocean Breeze Park",
+            "address": "Mason Avenue &, Quintard St, Staten Island, NY 10305",
+            "latitude": 40.5867692,
+            "longitude": -74.0784785,
+            "rating": 4.6,
+            "ratingCount": 744,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "https://www.nycgovparks.org/parks/ocean-breeze-park",
+            "phoneNumber": "(212) 639-9675",
+            "description": "Sand dunes, wetlands, grasslands & shrub forest in a 110-acre park with a track and field complex.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20131\u202fAM",
+                "Wednesday": "6\u202fAM\u20131\u202fAM",
+                "Thursday": "6\u202fAM\u20131\u202fAM",
+                "Friday": "6\u202fAM\u20131\u202fAM",
+                "Saturday": "6\u202fAM\u20131\u202fAM",
+                "Sunday": "6\u202fAM\u20131\u202fAM",
+                "Monday": "6\u202fAM\u20131\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrBSfBCVW76G960kUgHLom63OJEIrPpfZt19NF",
+            "cid": "10449230574641277367",
+            "fid": "0x89c24edf3588771f:0x91031fd861a4e9b7",
+            "placeId": "ChIJH3eINd9OwokRt-mkYdgfA5E"
+        },
+        {
+            "position": 15,
+            "title": "Ocean Avenue Park",
+            "address": "Ventura, CA 93001",
+            "latitude": 34.2743131,
+            "longitude": -119.2784674,
+            "rating": 4.1,
+            "ratingCount": 95,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20139\u202fPM",
+                "Wednesday": "6\u202fAM\u20139\u202fPM",
+                "Thursday": "6\u202fAM\u20139\u202fPM",
+                "Friday": "6\u202fAM\u20139\u202fPM",
+                "Saturday": "6\u202fAM\u20139\u202fPM",
+                "Sunday": "6\u202fAM\u20139\u202fPM",
+                "Monday": "6\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4_qe_ytGMAizJWyGCwj3sRP4_pnYNDWjKiexX",
+            "cid": "17897902767019227404",
+            "fid": "0x80e9ace01e2321e3:0xf8621fbd4ca9790c",
+            "placeId": "ChIJ4yEjHuCs6YARDHmpTL0fYvg"
+        },
+        {
+            "position": 16,
+            "title": "Ocean Cay Park",
+            "address": "2188 Marcinski Rd, Jupiter, FL 33477",
+            "latitude": 26.895549199999998,
+            "longitude": -80.0593901,
+            "rating": 4.8,
+            "ratingCount": 672,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "http://discover.pbcgov.org/parks/Locations/Ocean-Cay.aspx",
+            "phoneNumber": "(561) 966-6600",
+            "description": "Park offering beach access, picnic shelters with BBQ grills, open green space & parking.",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkx4pG5rYYyPpepQDylo3c7aAJ4UL-z_gXSvpx",
+            "cid": "5809619948118492687",
+            "fid": "0x88df2a368324879d:0x509fea8fe7a0460f",
+            "placeId": "ChIJnYckgzYq34gRD0ag54_qn1A"
+        },
+        {
+            "position": 17,
+            "title": "Pacific Park on the Santa Monica Pier",
+            "address": "380 Santa Monica Pier, Santa Monica, CA 90401",
+            "latitude": 34.008576,
+            "longitude": -118.49810099999999,
+            "rating": 4.6,
+            "ratingCount": 14148,
+            "type": "Amusement park",
+            "types": [
+                "Amusement park"
+            ],
+            "website": "https://pacpark.com/",
+            "phoneNumber": "(310) 260-8744",
+            "description": "Oceanfront park with coasters, eateries & games on the pier, including an iconic Ferris wheel.",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20138\u202fPM",
+                "Wednesday": "11\u202fAM\u20138\u202fPM",
+                "Thursday": "11\u202fAM\u20138\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "11\u202fAM\u20139\u202fPM",
+                "Monday": "11\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOvkaZnVCtoDjJslyiH8hatqqvv2qXdIEtfMsfm",
+            "cid": "3128460690087484309",
+            "fid": "0x80c2c0f737432875:0x2b6a866c1e701b95",
+            "placeId": "ChIJdShDN_fAwoARlRtwHmyGais"
+        },
+        {
+            "position": 18,
+            "title": "Ocean Park Association",
+            "address": "14 Temple Ave, Old Orchard Beach, ME 04064",
+            "latitude": 43.500693999999996,
+            "longitude": -70.3852952,
+            "rating": 4.5,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://oceanpark.org/",
+            "phoneNumber": "(207) 934-9068",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoB6trpux13dQIA99EPk9aP27xgymzU2u35ZEQ",
+            "cid": "4344606172037729038",
+            "fid": "0x4cb2a6a5d13eba25:0x3c4b244b75474b0e",
+            "placeId": "ChIJJbo-0aWmskwRDktHdUskSzw"
+        },
+        {
+            "position": 19,
+            "title": "Ocean Park",
+            "address": "8200 Warner Ave, Huntington Beach, CA 92647",
+            "latitude": 33.714759799999996,
+            "longitude": -117.9854125,
+            "rating": 3.1,
+            "ratingCount": 17,
+            "type": "Apartment building",
+            "types": [
+                "Apartment building"
+            ],
+            "website": "https://www.oc-apts.com/oceanpark",
+            "phoneNumber": "(714) 316-0797",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMRM7_zztHYKT1F0rpftS6ebK8WZSB0k5RYReBQ",
+            "cid": "7112065939590070018",
+            "fid": "0x80dd26f0d26768bf:0x62b3224a6c6bbf02",
+            "placeId": "ChIJv2hn0vAm3YARAr9rbEois2I"
+        },
+        {
+            "position": 20,
+            "title": "Ocean View Park",
+            "address": "102 Ocean View Ave, Santa Cruz, CA 95062",
+            "latitude": 36.9695421,
+            "longitude": -122.01394339999999,
+            "rating": 4.6,
+            "ratingCount": 533,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "http://www.cityofsantacruz.com/government/city-departments/parks-recreation/parks-beaches-open-spaces/parks/ocean-view-park",
+            "phoneNumber": "(831) 420-5270",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Thursday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Saturday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Sunday": "6:30\u202fAM\u20137:30\u202fPM",
+                "Monday": "6:30\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5E5a75fio5DZAN5vXAMUOkFaUpYGuoEuUUawb",
+            "cid": "233503965353026380",
+            "fid": "0x808e6aa220e3b759:0x33d929e8c83234c",
+            "placeId": "ChIJWbfjIKJqjoARTCODjJ6SPQM"
+        }
+    ],
+    "credits": 3
+}

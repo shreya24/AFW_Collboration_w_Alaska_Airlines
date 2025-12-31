@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ingalls Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.608975,-87.6597927,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ingalls Memorial Hospital Hospice (North Building)",
+            "address": "1 Ingalls Dr, Harvey, IL 60426",
+            "latitude": 41.608975,
+            "longitude": -87.6597927,
+            "rating": 2.7,
+            "ratingCount": 13,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://www.ingalls.org/Locations-harvey.aspx",
+            "phoneNumber": "(708) 331-1360",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IDYrUGpgQv4drGBqRW-6uw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=51.631157&pitch=0&thumbfov=100",
+            "cid": "449888525765274942",
+            "fid": "0x880e22f794ffc70f:0x63e533b06c36d3e",
+            "placeId": "ChIJD8f_lPciDogRPm3DBjtTPgY"
+        }
+    ],
+    "credits": 3
+}

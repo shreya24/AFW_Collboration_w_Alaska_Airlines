@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Peter Marbarger",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1857462,-149.8373805,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peter Marbarger",
+            "address": "3801 Lake Otis Pkwy # 300, Anchorage, AK 995085234",
+            "latitude": 61.1857462,
+            "longitude": -149.8373805,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner",
+                "Physician assistant"
+            ],
+            "website": "https://opalaska.com/provider/peter-marbarger-pa-c/",
+            "phoneNumber": "(907) 562-2277",
+            "cid": "11594739646011729852",
+            "fid": "0x56c897a8f0e68cb1:0xa0e8ca46c7aae7bc",
+            "placeId": "ChIJsYzm8KiXyFYRvOeqx0bK6KA"
+        }
+    ],
+    "credits": 3
+}

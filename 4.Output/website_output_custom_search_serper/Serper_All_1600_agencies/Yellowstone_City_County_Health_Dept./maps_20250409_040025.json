@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Yellowstone City County Health Dept.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7798537,-108.5012967,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yellowstone County Health Department",
+            "address": "123 S 27th St, Billings, MT 59101",
+            "latitude": 45.7798537,
+            "longitude": -108.5012967,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.riverstonehealth.org/",
+            "phoneNumber": "(406) 256-2770",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sXM5sa81KS0puH-Kvod8aw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=44.170464&pitch=0&thumbfov=100",
+            "cid": "8770634977474605312",
+            "fid": "0x53487b5524febc2d:0x79b78e0b0efd7100",
+            "placeId": "ChIJLbz-JFV7SFMRAHH9DguOt3k"
+        }
+    ],
+    "credits": 3
+}

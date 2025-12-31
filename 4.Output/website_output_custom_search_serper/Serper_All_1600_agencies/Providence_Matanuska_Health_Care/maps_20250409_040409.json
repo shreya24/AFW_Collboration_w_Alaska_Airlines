@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Providence Matanuska Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.559609,-149.2518761,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Mat-Su Behavioral Health",
+            "address": "2250 S Woodworth Loop Suite 202, Palmer, AK 99645",
+            "latitude": 61.559649199999996,
+            "longitude": -149.2518785,
+            "rating": 3.2,
+            "ratingCount": 20,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/behavioral-health-clinic-mat-su?ls=location&y_source=1_OTkxMzkwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(907) 921-5050",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7\u202fAM\u20136:30\u202fPM",
+                "Friday": "7\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_20E9qeinON1PPkKlTS7rXZTVmmD17KciWv4VUBKGYJWFNGiq9xENx6DtoI4m3AT4K9qyGZZxj4Ji68sWMztiZDy8YfPLk_y_AvH0Ee5T0gae0MJ53HmaIok3_zH7ZCmNj7tfS",
+            "cid": "13892926096196744262",
+            "fid": "0x56c8e172d63696f3:0xc0cd96ad368fb446",
+            "placeId": "ChIJ85Y21nLhyFYRRrSPNq2WzcA"
+        },
+        {
+            "position": 2,
+            "title": "Providence Medical Office Building Mat-Su",
+            "address": "2250 S Woodworth Loop, Palmer, AK 99645",
+            "latitude": 61.559568799999994,
+            "longitude": -149.2518737,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://alaska.providence.org/sitecore/content/provalaska/Locations/M/MatSu",
+            "phoneNumber": "(907) 761-5900",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9O6UNRYxJhxT2k11RXuOct7sC7wLM_3zibcPCRGtnkuJ6NqSMLDiUgGdliuH9KYD63UAGLQDBTCgkTUyWXQPwR5gm8kwbS5trtMZNl6odf7a8Nho8HoYX-vcXDVPBSMPgkNVZmBQ",
+            "cid": "15296387577203991307",
+            "fid": "0x56c8e172d63696f3:0xd447af752df1230b",
+            "placeId": "ChIJ85Y21nLhyFYRCyPxLXWvR9Q"
+        }
+    ],
+    "credits": 3
+}

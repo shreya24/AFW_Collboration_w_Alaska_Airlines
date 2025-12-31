@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Sunrise Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1328727,-115.1356453,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sunrise Hospital and Medical Center",
+            "address": "3186 S Maryland Pkwy, Las Vegas, NV 89109",
+            "latitude": 36.1328727,
+            "longitude": -115.1356453,
+            "rating": 3.6,
+            "ratingCount": 6217,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sunrisehealthinfo.com/locations/sunrise-hospital?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(702) 961-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://sunrisehospital.com/physicians/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-az7bF9mHW4_9uuNcbgAEbl3CmCNoqpU9mxypBJr7_QNd3nx1kOyFreODnTuW7qlBiCIflOGF6BM_ojV860JFS_ukwlZcaqwNmIyz8CcFdjT2ScYg_XVMf05zKEixsolghAY6mEw",
+            "cid": "1837394935718176733",
+            "fid": "0x80c8c48b888575db:0x197fbcf5879567dd",
+            "placeId": "ChIJ23WFiIvEyIAR3WeVh_W8fxk"
+        }
+    ],
+    "credits": 3
+}

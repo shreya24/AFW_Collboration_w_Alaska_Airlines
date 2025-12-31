@@ -1,0 +1,635 @@
+{
+    "searchParameters": {
+        "q": "S",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.265213,-119.0730191,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Studio S Salon",
+            "address": "9 W Canon Perdido St, Santa Barbara, CA 93101",
+            "latitude": 34.4200642,
+            "longitude": -119.70095389999999,
+            "rating": 4.9,
+            "ratingCount": 43,
+            "type": "Beauty salon",
+            "types": [
+                "Beauty salon",
+                "Facial spa"
+            ],
+            "website": "https://studio-s-salon.com/",
+            "phoneNumber": "(805) 963-8577",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbY5tMjeR9gdy8wqZ9rObiXuheumqmLd83n2Ft",
+            "cid": "16613234290927990123",
+            "fid": "0x80e91479495182c5:0xe68e10912119f56b",
+            "placeId": "ChIJxYJRSXkU6YARa_UZIZEQjuY"
+        },
+        {
+            "position": 2,
+            "title": "FedEx Office Print & Ship Center",
+            "address": "23 S Hope Ave, Santa Barbara, CA 93105",
+            "latitude": 34.439115,
+            "longitude": -119.746417,
+            "rating": 3.4,
+            "ratingCount": 44,
+            "priceLevel": "$$",
+            "type": "Shipping and mailing service",
+            "types": [
+                "Shipping and mailing service",
+                "Business center",
+                "Fax service",
+                "Office supply store",
+                "Packaging supply store",
+                "Passport photo processor",
+                "Poster store",
+                "Print shop",
+                "Promotional products supplier",
+                "Sign shop"
+            ],
+            "website": "https://local.fedex.com/en-us/ca/santa-barbara/office-0200?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+            "phoneNumber": "(805) 569-5100",
+            "description": "Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "12\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-valyNtHIZ7sbrXYoAqj-y2HWqM1j0Yfd99-NjSyFWkeZVK_SYgiGQ-3k_Z1tGe5ly7poeADNVOOelTItYdkAAFN6XVc8rR-Qzfml2sTNLC9xDjeR1RQuTX0vcz8KB8_LWqlXi",
+            "cid": "9307849176919370379",
+            "fid": "0x80e91526cf06fca9:0x812c1f82e530ea8b",
+            "placeId": "ChIJqfwGzyYV6YARi-ow5YIfLIE"
+        },
+        {
+            "position": 3,
+            "title": "Vons",
+            "address": "163 S Turnpike Rd, Santa Barbara, CA 93111",
+            "latitude": 34.4377214,
+            "longitude": -119.7905418,
+            "rating": 4.3,
+            "ratingCount": 566,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "website": "https://local.vons.com/ca/santa-barbara/163-s-turnpike-rd.html",
+            "phoneNumber": "(805) 681-7474",
+            "description": "Supermarket staple for groceries, produce & deli items, plus personal care, home goods & more.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_sZCEP5Kuo_lho83eEr7O4I0GP1JslrXyLJYGtlOQXUwZ3PrfPj8PLMkRr7AlFCNXCmYAwiJN3axAIPnKID6W7E-wk_bjPq9iFVFcU1PzRGUF9iL2XjgwuFVMZ2A18yKqpSph4Kg",
+            "cid": "4032851646735593801",
+            "fid": "0x80e93ffe05b9ce25:0x37f79134ab863149",
+            "placeId": "ChIJJc65Bf4_6YARSTGGqzSR9zc"
+        },
+        {
+            "position": 4,
+            "title": "S & S Donut & Bake Shop & Deli - Canyon Country",
+            "address": "19425 Soledad Canyon Rd, Canyon Country, CA 91351",
+            "latitude": 34.4163955,
+            "longitude": -118.47485069999999,
+            "rating": 4.5,
+            "ratingCount": 246,
+            "priceLevel": "$1\u201310",
+            "type": "Donut shop",
+            "types": [
+                "Donut shop",
+                "Deli"
+            ],
+            "phoneNumber": "(661) 252-9763",
+            "openingHours": {
+                "Tuesday": "4:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "4:30\u202fAM\u20138\u202fPM",
+                "Thursday": "4:30\u202fAM\u20138\u202fPM",
+                "Friday": "4:30\u202fAM\u20138\u202fPM",
+                "Saturday": "4:30\u202fAM\u20138\u202fPM",
+                "Sunday": "5:30\u202fAM\u20136\u202fPM",
+                "Monday": "4:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG_wezESaRaAGRiGmCqx9YkvFUP5z9d98lXnjZRtWBjuNOAUtCyfrdFqmTBedALdB4rMAKqcXYFnVcutJN2FwRZ6PkP4HrmAM0p8XMzpig_PC4iM8FlTBWbRGNst0Y1mlbl8wySN5WBgO0I2C39eq7qy_x3KXTbJ9DU9Uj8S-QMefns1Tg0uxSl",
+            "cid": "9629668050474447995",
+            "fid": "0x80c288888fc9157d:0x85a374125d75347b",
+            "placeId": "ChIJfRXJj4iIwoARezR1XRJ0o4U"
+        },
+        {
+            "position": 5,
+            "title": "Mercedes Benz Santa Barbara",
+            "address": "402 S Hope Ave Ste D, Santa Barbara, CA 93105",
+            "latitude": 34.434446799999996,
+            "longitude": -119.7470669,
+            "rating": 4.6,
+            "ratingCount": 120,
+            "type": "Mercedes-Benz dealer",
+            "types": [
+                "Mercedes-Benz dealer",
+                "Auto parts store",
+                "Auto repair shop",
+                "Car dealer",
+                "Car finance and loan company",
+                "Car leasing service",
+                "Car repair and maintenance service",
+                "Tire shop",
+                "Transmission shop",
+                "Used car dealer"
+            ],
+            "website": "http://www.mercedessantabarbara.com/",
+            "phoneNumber": "(805) 563-4281",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mercedessantabarbara.com/service/schedule-service/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNq3p-eEMLJgJx3UQuRi2Peb2pEmVmQcbxbGMnk",
+            "cid": "5537592241987844810",
+            "fid": "0x80e91521dc80e665:0x4cd97acdfea4faca",
+            "placeId": "ChIJZeaA3CEV6YARyvqk_s162Uw"
+        },
+        {
+            "position": 6,
+            "title": "J J's Liquor & Wine",
+            "address": "311 Castillo St #3813, Santa Barbara, CA 93101",
+            "latitude": 34.410681,
+            "longitude": -119.6980028,
+            "rating": 3.9,
+            "ratingCount": 53,
+            "type": "Liquor store",
+            "types": [
+                "Liquor store"
+            ],
+            "phoneNumber": "(805) 965-0330",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fAM",
+                "Wednesday": "9\u202fAM\u201312\u202fAM",
+                "Thursday": "9\u202fAM\u201312\u202fAM",
+                "Friday": "9\u202fAM\u201312\u202fAM",
+                "Saturday": "9\u202fAM\u201312\u202fAM",
+                "Sunday": "9\u202fAM\u201311\u202fPM",
+                "Monday": "9\u202fAM\u201312\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ZnHxMIv6Fu07o25Lsb2I4LB6dXgMSpVyoa1oTcq8OB4Gu1YqdIi6XkW3GjSdF4USkKkLb28oRxSQYUKlBE6CucDGHUpe0LEajLoWaXj8T2mLVbBNrKJyKokp8jUIfxlhoaus",
+            "cid": "5124027102858052523",
+            "fid": "0x80e91475e150f313:0x471c3380755403ab",
+            "placeId": "ChIJE_NQ4XUU6YARqwNUdYAzHEc"
+        },
+        {
+            "position": 7,
+            "title": "C & S Automotive",
+            "address": "4159 State St, Santa Barbara, CA 93110",
+            "latitude": 34.4397565,
+            "longitude": -119.7618847,
+            "rating": 4.8,
+            "ratingCount": 31,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "website": "http://www.csautomotive.com/",
+            "phoneNumber": "(805) 692-2618",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-xJArGHAkGH0ycLtybOQSbk7mrlnvGt5VFf-vGL-ho-D_-ClThuTESHH_bpB3JrnkbwciriFb71u9NYgZuB9cAEO-KI2HV6e6Hxz1G1KdyJhKVaASLln6GI53sWz_fHzx95zM3",
+            "cid": "7992020299135279408",
+            "fid": "0x80e91537627001fb:0x6ee95c1e57ab6130",
+            "placeId": "ChIJ-wFwYjcV6YARMGGrVx5c6W4"
+        },
+        {
+            "position": 8,
+            "title": "Tesla",
+            "address": "400 Hitchcock Way, Santa Barbara, CA 93105",
+            "latitude": 34.433615599999996,
+            "longitude": -119.74540209999999,
+            "rating": 4.4,
+            "ratingCount": 234,
+            "type": "Car dealer",
+            "types": [
+                "Car dealer"
+            ],
+            "website": "https://www.tesla.com/",
+            "phoneNumber": "(805) 770-6090",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.tesla.com/drive"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_9kpOqk3BAZmKSrEfis1oEJfYhNAkYz5TqXlFU0BBvHKwXlzt7tJzoBWIUkuuL9hgjxkh1uvkpCLIy8kNJIIYZgLgR7gPT5vWxGIPbVBfjvvMWlaQR-ZJ_tONTVqiO9f5i3JNI",
+            "cid": "5623617527618348636",
+            "fid": "0x80e9151f819505f7:0x4e0b1a589e5a265c",
+            "placeId": "ChIJ9wWVgR8V6YARXCZanlgaC04"
+        },
+        {
+            "position": 9,
+            "title": "Audi Santa Barbara",
+            "address": "402 S Hope Ave ste b, Santa Barbara, CA 93105",
+            "latitude": 34.434111699999995,
+            "longitude": -119.7465902,
+            "rating": 4.5,
+            "ratingCount": 74,
+            "type": "Audi dealer",
+            "types": [
+                "Audi dealer",
+                "Auto parts store",
+                "Auto repair shop",
+                "Car dealer",
+                "Car finance and loan company",
+                "Car leasing service",
+                "Car repair and maintenance service",
+                "Tire shop",
+                "Transmission shop",
+                "Used car dealer"
+            ],
+            "website": "http://www.audisantabarbara.com/",
+            "phoneNumber": "(805) 563-4215",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.audisantabarbara.com/service-vehicle.htm"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjQcQNQyT2LBjnY4MX9tQiUE-sM-Q9HEEzqkUj",
+            "cid": "11248333729007405008",
+            "fid": "0x80e91521dc80e665:0x9c1a1bee288807d0",
+            "placeId": "ChIJZeaA3CEV6YAR0AeIKO4bGpw"
+        },
+        {
+            "position": 10,
+            "title": "S & S Donut & Bake Shop - Newhall (Lyons)",
+            "address": "24266 Lyons Ave, Newhall, CA 91321",
+            "latitude": 34.378231299999996,
+            "longitude": -118.5596238,
+            "rating": 4.5,
+            "ratingCount": 57,
+            "priceLevel": "$1\u201310",
+            "type": "Donut shop",
+            "types": [
+                "Donut shop"
+            ],
+            "phoneNumber": "(661) 255-8007",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6:30\u202fAM\u20136\u202fPM",
+                "Sunday": "6:30\u202fAM\u20132\u202fPM",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-r63wKCMsuHX1lf0hMu464_oHxtuKJT1sq79eMDtrnu07G1uF407h51bfXVdarQ4pETzw-zZIEYFy1miOs7RfPmtVkRkcqzG5ogbCpS_B4uSd2FvOgzuLGeoXrI1UjWpOjA_ZT",
+            "cid": "8294342954140063668",
+            "fid": "0x80c286c058efe071:0x731b6cf8b2c857b4",
+            "placeId": "ChIJceDvWMCGwoARtFfIsvhsG3M"
+        },
+        {
+            "position": 11,
+            "title": "S & S Liquor",
+            "address": "7600 Santa Monica Blvd, West Hollywood, CA 90046",
+            "latitude": 34.0906696,
+            "longitude": -118.3554963,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Liquor store",
+            "types": [
+                "Liquor store"
+            ],
+            "phoneNumber": "(323) 656-5585",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201311\u202fPM",
+                "Wednesday": "8\u202fAM\u201311\u202fPM",
+                "Thursday": "8\u202fAM\u201311\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fAM",
+                "Saturday": "8\u202fAM\u201312\u202fAM",
+                "Sunday": "8\u202fAM\u201311\u202fPM",
+                "Monday": "8\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W7GIm9XOBlbt9z7BtXEM9w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.4499&pitch=0&thumbfov=100",
+            "cid": "11988162328286108042",
+            "fid": "0x80c2bed07b3d70b1:0xa65e821f1f36998a",
+            "placeId": "ChIJsXA9e9C-woARipk2Hx-CXqY"
+        },
+        {
+            "position": 12,
+            "title": "Vons",
+            "address": "2010 Cliff Dr, Santa Barbara, CA 93109",
+            "latitude": 34.402523599999995,
+            "longitude": -119.7237837,
+            "rating": 3.9,
+            "ratingCount": 384,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "website": "https://local.vons.com/ca/santa-barbara/2010-cliff-dr.html",
+            "phoneNumber": "(805) 966-5011",
+            "description": "Supermarket staple for groceries, produce & deli items, plus personal care, home goods & more.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201311\u202fPM",
+                "Wednesday": "6\u202fAM\u201311\u202fPM",
+                "Thursday": "6\u202fAM\u201311\u202fPM",
+                "Friday": "6\u202fAM\u201311\u202fPM",
+                "Saturday": "6\u202fAM\u201311\u202fPM",
+                "Sunday": "6\u202fAM\u201311\u202fPM",
+                "Monday": "6\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLDZQtChz_OqUAJ_yV78Lt1thnCMVM3Ic1sorr",
+            "cid": "3304094472024262928",
+            "fid": "0x80e91441162fabcb:0x2dda806a9d568910",
+            "placeId": "ChIJy6svFkEU6YAREIlWnWqA2i0"
+        },
+        {
+            "position": 13,
+            "title": "Fernando's",
+            "address": "1700 San Andres St, Santa Barbara, CA 93101",
+            "latitude": 34.420815999999995,
+            "longitude": -119.71878699999999,
+            "rating": 4.3,
+            "ratingCount": 33,
+            "type": "Liquor store",
+            "types": [
+                "Liquor store",
+                "Restaurant"
+            ],
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201311\u202fPM",
+                "Wednesday": "8\u202fAM\u201311\u202fPM",
+                "Thursday": "8\u202fAM\u201311\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fAM",
+                "Saturday": "8\u202fAM\u201312\u202fAM",
+                "Sunday": "8\u202fAM\u201311\u202fPM",
+                "Monday": "8\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_JlQzKoT-NM-A3c_7AhmWnxSJOj3fsYLvzalkdX2_Y9jnzs4nAjk4LLZQEJAl03cqL8SPqcfSlSctm2HqRqEA9e1QaVa6c5S9pgd11aX2wx7kaXAt2oyGsaUZ0RlIzGo2KuKRC",
+            "cid": "3774321867089327318",
+            "fid": "0x80e9148aa86a0197:0x346115bdabd934d6",
+            "placeId": "ChIJlwFqqIoU6YAR1jTZq70VYTQ"
+        },
+        {
+            "position": 14,
+            "title": "Macy's",
+            "address": "3805 State St, Santa Barbara, CA 93105",
+            "latitude": 34.439364,
+            "longitude": -119.747852,
+            "rating": 3.9,
+            "ratingCount": 822,
+            "priceLevel": "$$",
+            "type": "Department store",
+            "types": [
+                "Department store",
+                "Beauty supply store",
+                "Children's clothing store"
+            ],
+            "website": "https://www.macys.com/stores/ca/santabarbara/la-cumbre-plaza_497.html",
+            "phoneNumber": "(805) 687-6411",
+            "description": "Department store chain providing brand-name clothing, accessories, home furnishings & housewares.",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20139\u202fPM",
+                "Wednesday": "10\u202fAM\u20139\u202fPM",
+                "Thursday": "10\u202fAM\u20139\u202fPM",
+                "Friday": "10\u202fAM\u20139\u202fPM",
+                "Saturday": "10\u202fAM\u20139\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-O7ps7uaBGNo9d8HIUXW0AzgWf9MpIpFdezralG3e5TENH9-AJO4z_NFeb-YjHCS4JsszMHaQGU1xphKP1aPWfcQ0gIPlykM99r_gaEjPejNAwKqm3VL87TqRsOrlg9eUV-rtCWg",
+            "cid": "9562066961458443339",
+            "fid": "0x80e915242d0e6585:0x84b3493d4c3ab44b",
+            "placeId": "ChIJhWUOLSQV6YARS7Q6TD1Js4Q"
+        },
+        {
+            "position": 15,
+            "title": "Gelson's Santa Barbara",
+            "address": "3305 State St, Santa Barbara, CA 93105",
+            "latitude": 34.439052,
+            "longitude": -119.73509349999999,
+            "rating": 4.4,
+            "ratingCount": 775,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Beer store",
+                "Florist",
+                "Gourmet grocery store",
+                "Organic food store",
+                "Wine store"
+            ],
+            "website": "https://www.gelsons.com/stores/santa-barbara",
+            "phoneNumber": "(805) 687-5810",
+            "description": "Contemporary market with a range of standard, organic & gourmet grocery items, plus prepared fare.",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201310\u202fPM",
+                "Wednesday": "6\u202fAM\u201310\u202fPM",
+                "Thursday": "6\u202fAM\u201310\u202fPM",
+                "Friday": "6\u202fAM\u201310\u202fPM",
+                "Saturday": "6\u202fAM\u201310\u202fPM",
+                "Sunday": "6\u202fAM\u201310\u202fPM",
+                "Monday": "6\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ojLMfioYenPn6RE__a7nRrCbCM0YHRcSQ94mdlGZBK2pz_UK8v5YDaUlm7igsyUHTzID-vhmOccTIfe41RNrFCCbL5aTtlUkqiATNdhbVMoeB5WqAGydTTlgvCUmHIceLCzVi",
+            "cid": "15321695845704422713",
+            "fid": "0x80e914dc42fa9163:0xd4a199319fca5539",
+            "placeId": "ChIJY5H6QtwU6YAROVXKnzGZodQ"
+        },
+        {
+            "position": 16,
+            "title": "Assistance League of Santa Barbara",
+            "address": "1259 Veronica Springs Rd, Santa Barbara, CA 93105",
+            "latitude": 34.4186019,
+            "longitude": -119.7430114,
+            "rating": 4.5,
+            "ratingCount": 61,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Association / Organization",
+                "Thrift store"
+            ],
+            "website": "http://assistanceleaguesb.com/",
+            "phoneNumber": "(805) 687-9717",
+            "description": "Thrift store selling donated apparel, home goods, furniture & books to benefit local charities.",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "10\u202fAM\u20132\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "10\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9o5yWV1TwzxDJ7TtWDjQm9uJoY-5QEuciUoOiroleLNDKf63-woDgybMVoS9s_yrWTbgFm_z89FzmX7XbstpD-C3aKF91Cs0ZBnzAUshjBMlvTdj2wo6kQIWz9p-XHKS5doSqqkQ",
+            "cid": "2984513532795906356",
+            "fid": "0x80e91501f0025b53:0x296b1f3ed5a56934",
+            "placeId": "ChIJU1sC8AEV6YARNGml1T4fayk"
+        },
+        {
+            "position": 17,
+            "title": "Dr. Edward S Bentley MD",
+            "address": "2403 Castillo St # 201, Santa Barbara, CA 93105",
+            "latitude": 34.4305227,
+            "longitude": -119.7246919,
+            "rating": 5,
+            "ratingCount": 40,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist",
+                "Internist"
+            ],
+            "phoneNumber": "(805) 682-3585",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lXLgEZrYD8wr3r0lsla06A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=218.38263&pitch=0&thumbfov=100",
+            "cid": "10618040311416791387",
+            "fid": "0x80e914eddc466d59:0x935adb680cc6a15b",
+            "placeId": "ChIJWW1G3O0U6YARW6HGDGjbWpM"
+        },
+        {
+            "position": 18,
+            "title": "Dr. David S. Thoman, MD",
+            "address": "216 W Pueblo St A, Santa Barbara, CA 93105",
+            "latitude": 34.4313529,
+            "longitude": -119.7213092,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "phoneNumber": "(805) 730-1470",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB88pmDdHWWbXWHFTrDfijvgczB1KwMjTMIGHfntW-Y7BLPqjD6mFYoAz0D_MVUEtJ6GGWlV8hwDVQEEygfkOgur2EZZ9lL2NvAg_hl9rF3TUTd4UYx1l1f13-85AGptDiMcWA9M",
+            "cid": "12288439939848458237",
+            "fid": "0x80e914ee04fe407b:0xaa894f04b263cffd",
+            "placeId": "ChIJe0D-BO4U6YAR_c9jsgRPiao"
+        },
+        {
+            "position": 19,
+            "title": "G & S Building Supplies Inc",
+            "address": "1335 N Ventura Ave, Ventura, CA 93001",
+            "latitude": 34.295316899999996,
+            "longitude": -119.2967321,
+            "rating": 4.8,
+            "ratingCount": 53,
+            "type": "Building materials store",
+            "types": [
+                "Building materials store",
+                "Hardware store",
+                "Lumber store"
+            ],
+            "website": "https://gsbuildingsupplies.com/",
+            "phoneNumber": "(805) 643-5469",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0xpvJxR3r96c6nIKj8kLVZVVfUgux3zcpCYx-",
+            "cid": "5669249512007125888",
+            "fid": "0x80e9ac5c727069fd:0x4ead3864ea3dcb80",
+            "placeId": "ChIJ_Wlwclys6YARgMs96mQ4rU4"
+        },
+        {
+            "position": 20,
+            "title": "J & S East Valley Garage",
+            "address": "1610 E Valley Rd, Santa Barbara, CA 93108",
+            "latitude": 34.437073999999996,
+            "longitude": -119.6265433,
+            "rating": 4.6,
+            "ratingCount": 16,
+            "type": "Car repair and maintenance service",
+            "types": [
+                "Car repair and maintenance service",
+                "Auto machine shop"
+            ],
+            "phoneNumber": "(805) 969-4147",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAlSw_P7zKYoU5K_vBhUV4qja8k04dEFJjJ3mt",
+            "cid": "503194305378104488",
+            "fid": "0x80e9126788562377:0x6fbb48e010fb4a8",
+            "placeId": "ChIJdyNWiGcS6YARqLQPAY60-wY"
+        }
+    ],
+    "credits": 3
+}

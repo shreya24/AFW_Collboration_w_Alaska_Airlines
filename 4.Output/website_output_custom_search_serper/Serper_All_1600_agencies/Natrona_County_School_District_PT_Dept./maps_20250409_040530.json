@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Natrona County School District PT Dept.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8603059,-106.3405777,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Natrona County School District",
+            "address": "970 N Glenn Rd, Casper, WY 82601",
+            "latitude": 42.8603059,
+            "longitude": -106.3405777,
+            "rating": 4.2,
+            "ratingCount": 19,
+            "type": "School district office",
+            "types": [
+                "School district office",
+                "School"
+            ],
+            "website": "http://www.natronaschools.org/",
+            "phoneNumber": "(307) 253-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJFUinHBd5Sq-brOvNiI4yaQo3H3wWhROUG0lR",
+            "cid": "656677365131014150",
+            "fid": "0x8760bcc9ec97b34b:0x91cfc9598ac7006",
+            "placeId": "ChIJS7OX7Mm8YIcRBnCsmJX8HAk"
+        }
+    ],
+    "credits": 3
+}

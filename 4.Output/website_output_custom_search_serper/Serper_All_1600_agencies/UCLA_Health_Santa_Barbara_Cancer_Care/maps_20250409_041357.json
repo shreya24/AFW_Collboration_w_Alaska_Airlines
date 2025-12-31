@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "UCLA Health Santa Barbara Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4260545,-119.7044356,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Health Santa Barbara Cancer Care",
+            "address": "111 E Victoria St Floor 3, Santa Barbara, CA 93101",
+            "latitude": 34.4260545,
+            "longitude": -119.7044356,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uclahealth.org/locations/santa-barbara-cancer-care",
+            "phoneNumber": "(805) 563-0041",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVsseoejNXpe2ODiYQkifD2FuG5GrKdOa_vx3U",
+            "cid": "1964249234693220270",
+            "fid": "0x80e9154ac3f60587:0x1b426a459c38e7ae",
+            "placeId": "ChIJhwX2w0oV6YARruc4nEVqQhs"
+        }
+    ],
+    "credits": 3
+}

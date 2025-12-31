@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Teton Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4806722,-110.7512601,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. John's Health Internal Medicine",
+            "address": "555 E Broadway Ave Suite 201, Jackson, WY 83001",
+            "latitude": 43.4806722,
+            "longitude": -110.7512601,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.tetonhospital.org/services/internal-medicine/",
+            "phoneNumber": "(307) 733-7222",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP54XMvmoHa43dzQ-OykOopII28fQZ523HDxWUp",
+            "cid": "14194078746686177419",
+            "fid": "0x53531a4583d00995:0xc4fb7f6aaa26c08b",
+            "placeId": "ChIJlQnQg0UaU1MRi8Amqmp_-8Q"
+        }
+    ],
+    "credits": 3
+}

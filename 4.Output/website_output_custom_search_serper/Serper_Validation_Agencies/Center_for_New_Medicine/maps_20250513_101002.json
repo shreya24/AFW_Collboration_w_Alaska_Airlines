@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Center for New Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.651643,-117.716005,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Center for New Medicine",
+            "address": "6 Hughes Ste 100, Irvine, CA 92618",
+            "latitude": 33.651643,
+            "longitude": -117.716005,
+            "rating": 4.4,
+            "ratingCount": 128,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Chiropractor",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Medical Center",
+                "Medical group",
+                "Medical office",
+                "Radiotherapist"
+            ],
+            "website": "https://www.cfnmedicine.com/?utm_source=localsearch&utm_medium=organic&utm_campaign=googlemybusiness",
+            "phoneNumber": "(949) 680-1880",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cfnmedicine.com/contact-us/?utm_source=localsearch&utm_medium=organic&utm_campaign=googlemybusiness"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNIi9xmJzByWtRN7DzdX6X1fG8LFlswp2PyzrC",
+            "cid": "8695200275782217420",
+            "fid": "0x80dce8179fa23153:0x78ab8e94e8e0aecc",
+            "placeId": "ChIJUzGinxfo3IARzK7g6JSOq3g"
+        }
+    ],
+    "credits": 3
+}

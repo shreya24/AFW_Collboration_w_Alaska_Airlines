@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Laurie Ross-Brennan and Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1359133,-106.5903126,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Laurie Ross Brennan & Associates",
+            "address": "4811 Hardware Dr NE Suite 1, Albuquerque, NM 87109",
+            "latitude": 35.1359133,
+            "longitude": -106.59031259999999,
+            "rating": 4.7,
+            "ratingCount": 29,
+            "type": "Speech pathologist",
+            "types": [
+                "Speech pathologist",
+                "Audiologist"
+            ],
+            "website": "http://abqspeech.com/",
+            "phoneNumber": "(505) 268-5933",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-3oZN-DMbqiAFphE8Ixz3OouMsWpsCxjj2M8b",
+            "cid": "2994566116462713720",
+            "fid": "0x872274e42606e7c7:0x298ed6045c2e5b78",
+            "placeId": "ChIJx-cGJuR0IocReFsuXATWjik"
+        }
+    ],
+    "credits": 3
+}

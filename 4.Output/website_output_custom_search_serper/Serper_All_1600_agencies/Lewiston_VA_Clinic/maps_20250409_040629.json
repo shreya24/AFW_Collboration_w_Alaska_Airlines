@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Lewiston VA Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.2336726,-93.5986032,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lewiston VA Clinic",
+            "address": "15 Challenger Dr, Lewiston, ME 04240",
+            "latitude": 44.0703947,
+            "longitude": -70.1885057,
+            "rating": 4,
+            "ratingCount": 24,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/maine-health-care/locations/lewiston-va-clinic/",
+            "phoneNumber": "(877) 421-8263 ext. 7490",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8SXLpxIysNDwRrWlOzokjxiDCsApSOHMinX9BLqHqzaMCVaIBxz_jBr27HYCzdPVpyF6riGFgBEv6AXOROceHCpH2ebJLrZmJWWdLxfzm-Qc8I2iBFMOUJMnCTx22KQkYudtYjDw",
+            "cid": "1739724205392715571",
+            "fid": "0x4cb26eb00560abe7:0x1824bdf28594df33",
+            "placeId": "ChIJ56tgBbBuskwRM9-UhfK9JBg"
+        },
+        {
+            "position": 2,
+            "title": "Lewiston VA Clinic",
+            "address": "1630 23rd Ave Bldg. 2, Lewiston, ID 83501",
+            "latitude": 46.396950399999994,
+            "longitude": -117.00870069999999,
+            "rating": 4.4,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.va.gov/walla-walla-health-care/locations/lewiston-va-clinic/",
+            "phoneNumber": "(208) 746-7784",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eO9zmBkbnJSJUCSyr_LlNQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=215.2791&pitch=0&thumbfov=100",
+            "cid": "14970762072723359455",
+            "fid": "0x54a1b553d8a64d27:0xcfc2d4c9619106df",
+            "placeId": "ChIJJ02m2FO1oVQR3waRYcnUws8"
+        }
+    ],
+    "credits": 3
+}

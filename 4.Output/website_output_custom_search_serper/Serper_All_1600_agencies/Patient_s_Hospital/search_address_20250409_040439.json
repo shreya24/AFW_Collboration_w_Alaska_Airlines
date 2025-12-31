@@ -1,0 +1,105 @@
+{
+    "searchParameters": {
+        "q": "Patient's Hospital address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "answerBox": {
+        "title": "Hospital Patient Services / Address",
+        "answer": "2400 W Dunlap Ave # 310, Phoenix, AZ 85021"
+    },
+    "organic": [
+        {
+            "title": "Mayo Clinic Hospital \u2014 Phoenix",
+            "link": "https://www.mayoclinic.org/patient-visitor-guide/arizona/campus-buildings-maps/mayo-clinic-hospital",
+            "snippet": "Contact information. Mayo Clinic Hospital 5777 E. Mayo Blvd. Phoenix, AZ 85054. Phone: 480-342-2000. Campus map. Download a printable map of Mayo Clinic's ...",
+            "position": 1
+        },
+        {
+            "title": "Arizona State Hospital Patient and Medical Library",
+            "link": "https://azlibrary.gov/location/arizona-state-hospital-patient-medical-library-0",
+            "snippet": "Location Address: 2500 E Van Buren St. Phoenix, AZ 85008 ; Phone: 602-220-6045 ; Website: https://www.azdhs.gov/az-state-hospital/index.php#about-library (link is ...",
+            "position": 2
+        },
+        {
+            "title": "Find Healthcare Providers: Compare Care Near You | Medicare",
+            "link": "https://www.medicare.gov/care-compare/?guidedSearch=Hospital",
+            "snippet": "Find Medicare-approved providers near you & compare care quality for nursing homes, doctors, hospitals, hospice centers, more. Official Medicare site.",
+            "position": 3
+        },
+        {
+            "title": "Banner - University Medical Center in Phoenix, AZ",
+            "link": "https://www.bannerhealth.com/locations/phoenix/banner-university-medical-center-phoenix",
+            "snippet": "Banner - University Medical Center in Phoenix, AZ offers a wide range of medical services to those in the surrounding area. Visit today to learn more.",
+            "sitelinks": [
+                {
+                    "title": "Maternity",
+                    "link": "https://www.bannerhealth.com/locations/phoenix/banner-university-medical-center-phoenix/maternity"
+                },
+                {
+                    "title": "Infusion Therapy",
+                    "link": "https://www.bannerhealth.com/locations/phoenix/banner-university-medical-center-phoenix/infusion-therapy"
+                },
+                {
+                    "title": "Imaging",
+                    "link": "https://www.bannerhealth.com/locations/phoenix/banner-university-medical-center-phoenix/medical-imaging"
+                },
+                {
+                    "title": "Pediatrics",
+                    "link": "https://www.bannerhealth.com/locations/phoenix/banner-university-medical-center-phoenix/pediatrics"
+                }
+            ],
+            "position": 4
+        },
+        {
+            "title": "Patients Medical Center - Pasadena, TX - St. Luke's Health",
+            "link": "https://locations.stlukeshealth.org/location/patients-medical-center",
+            "snippet": "St. Luke's Health\u2013Patients Medical Center provides advanced medical care to our communities in Pasadena, Deer Park, La Porte, Baytown, and Clear Lake.",
+            "sitelinks": [
+                {
+                    "title": "Request Patient Records",
+                    "link": "https://www.stlukeshealth.org/locations/patients-medical-center/patients-visitors/patients/request-patient-records"
+                },
+                {
+                    "title": "Billing and insurance",
+                    "link": "https://www.stlukeshealth.org/locations/patients-medical-center/patients-visitors/patients/billing-and-insurance"
+                },
+                {
+                    "title": "Diagnostic Imaging at Patients...",
+                    "link": "https://locations.stlukeshealth.org/location/diagnostic-imaging-patients-medical-center"
+                }
+            ],
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "st joseph's hospital phoenix, az address"
+        },
+        {
+            "query": "St Luke's hospital Pasadena address"
+        },
+        {
+            "query": "Good Samaritan hospital Phoenix address"
+        },
+        {
+            "query": "list of hospitals in phoenix, arizona"
+        },
+        {
+            "query": "banner - university medical center directory"
+        },
+        {
+            "query": "Banner - University Medical Center address"
+        },
+        {
+            "query": "Mayo Clinic Phoenix address"
+        },
+        {
+            "query": "Mayo Clinic Scottsdale AZ address"
+        }
+    ],
+    "credits": 1
+}

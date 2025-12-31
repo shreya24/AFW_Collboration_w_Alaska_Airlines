@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Northern Navajo Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8053474,-108.6914386,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Navajo Medical Center",
+            "address": "US-491, Shiprock, NM 87420",
+            "latitude": 36.805347399999995,
+            "longitude": -108.6914386,
+            "rating": 2.6,
+            "ratingCount": 71,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.ihs.gov/navajo/healthcarefacilities/shiprock/",
+            "phoneNumber": "(505) 368-6001",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_IniX95EYm5GcGw3dbIyU8dixaElQglJmjWXogqQeWWvIYD88QrwruT6delHeZE0OyrRhX4kwuUI8VCuWHtQK-rQ2pPDH5buFToxGSFgpgBA5cEeH1CQjICjUi3exOhJB20QE",
+            "cid": "8227128998189315987",
+            "fid": "0x873bb6170b324729:0x722ca23c1263b793",
+            "placeId": "ChIJKUcyCxe2O4cRk7djEjyiLHI"
+        }
+    ],
+    "credits": 3
+}

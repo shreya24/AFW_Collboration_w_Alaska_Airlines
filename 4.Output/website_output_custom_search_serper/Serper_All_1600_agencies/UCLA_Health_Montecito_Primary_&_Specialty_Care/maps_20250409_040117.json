@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "UCLA Health Montecito Primary & Specialty Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4207816,-119.6449207,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Health Montecito Primary & Specialty Care",
+            "address": "1187 Coast Village Rd Suite 10A & 10B, Montecito, CA 93108",
+            "latitude": 34.4207816,
+            "longitude": -119.6449207,
+            "rating": 3.4,
+            "ratingCount": 25,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Medical laboratory",
+                "Rheumatologist"
+            ],
+            "website": "https://www.uclahealth.org/locations/montecito?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(805) 565-0020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/new-patient-appointment-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN6Kidr9Ab64v6CxhMVtVO0WW8HBv-sEMCJ5UM2",
+            "cid": "16736451656629273833",
+            "fid": "0x80e913414bba3b0b:0xe843d21bb1e2c4e9",
+            "placeId": "ChIJCzu6S0ET6YAR6cTisRvSQ-g"
+        }
+    ],
+    "credits": 3
+}

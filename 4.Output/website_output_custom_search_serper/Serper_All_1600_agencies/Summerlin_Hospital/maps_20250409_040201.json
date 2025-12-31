@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Summerlin Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1809199,-115.3174232,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Summerlin Hospital Medical Center",
+            "address": "657 N Town Center Dr, Las Vegas, NV 89144",
+            "latitude": 36.1809199,
+            "longitude": -115.3174232,
+            "rating": 4.3,
+            "ratingCount": 5556,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.summerlinhospital.com/?utm_source=Google-Business-Yext&utm_medium=organic",
+            "phoneNumber": "(702) 233-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO58u9HlFBAuDSegZ0-1x0esLOMINxFw-HXUZly",
+            "cid": "6787663152339800146",
+            "fid": "0x80c8bfc522f7d661:0x5e329facaa38d052",
+            "placeId": "ChIJYdb3IsW_yIARUtA4qqyfMl4"
+        }
+    ],
+    "credits": 3
+}

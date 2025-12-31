@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Phoenix Family Advocacy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4713599,-112.0746212,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Family Advocacy Center",
+            "address": "2120 N Central Ave # 250, Phoenix, AZ 85004",
+            "latitude": 33.471359899999996,
+            "longitude": -112.0746212,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "City government office"
+            ],
+            "website": "https://www.phoenix.gov/humanservices/programs/victims",
+            "phoneNumber": "(602) 534-2120",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB85-M1XXKyhXWEY-JklfS7F7n9FnpbrOajGSc68QWbcAZqNxIz_mzLRHPvYDH_gaR7wnSuAhBDAwJkzi54RgqeOndY0k5ag3swY7BGgP5qSZQSkTLcuI6693pjqt2p3dH6rEhNBmg",
+            "cid": "5097111897551698808",
+            "fid": "0x872b12423031f567:0x46bc9443e1fc7b78",
+            "placeId": "ChIJZ_UxMEISK4cReHv84UOUvEY"
+        }
+    ],
+    "credits": 3
+}

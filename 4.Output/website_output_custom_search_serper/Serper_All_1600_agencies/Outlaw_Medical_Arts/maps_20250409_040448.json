@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Outlaw Medical Arts",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5310564,-107.7818381,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Outlaw Medical Arts",
+            "address": "220 East Ave, Rifle, CO 81650",
+            "latitude": 39.5310564,
+            "longitude": -107.7818381,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(970) 625-5521",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uRzasj_uWcyzdJzc879r6g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=80.35121&pitch=0&thumbfov=100",
+            "cid": "16612037163508323169",
+            "fid": "0x87413921521b67a1:0xe689cfc92e805361",
+            "placeId": "ChIJoWcbUiE5QYcRYVOALsnPieY"
+        }
+    ],
+    "credits": 3
+}

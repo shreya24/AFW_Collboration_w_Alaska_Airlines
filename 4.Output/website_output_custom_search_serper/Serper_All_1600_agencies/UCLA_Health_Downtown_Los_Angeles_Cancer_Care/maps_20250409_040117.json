@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "UCLA Health Downtown Los Angeles Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0483595,-118.2587597,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Health Downtown Los Angeles Cancer Care",
+            "address": "700 W 7th St Ste S270-B, Los Angeles, CA 90017",
+            "latitude": 34.0483595,
+            "longitude": -118.2587597,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist"
+            ],
+            "website": "https://www.uclahealth.org/locations/downtown-los-angeles-cancer-care?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(213) 988-8340",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/community-cancer-care-appointment-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzTOEfT5dzatlMFWltryZRAk8cTPB7pvgztRpy",
+            "cid": "454947150857346797",
+            "fid": "0x80c2c75f3ce3662b:0x6504c05f66d9eed",
+            "placeId": "ChIJK2bjPF_HwoAR7Z5t9gVMUAY"
+        }
+    ],
+    "credits": 3
+}

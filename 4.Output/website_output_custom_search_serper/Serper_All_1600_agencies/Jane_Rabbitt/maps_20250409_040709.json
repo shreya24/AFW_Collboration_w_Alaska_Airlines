@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Jane Rabbitt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.2129558,-92.0135423,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jane's French Cuisine",
+            "address": "618 E University Ave, Lafayette, LA 70503",
+            "latitude": 30.2129558,
+            "longitude": -92.0135423,
+            "rating": 4.5,
+            "ratingCount": 118,
+            "priceLevel": "$100+",
+            "type": "French restaurant",
+            "types": [
+                "French restaurant"
+            ],
+            "website": "http://janesfrenchcuisine.com/",
+            "phoneNumber": "(337) 534-0442",
+            "menu": "https://janesfrenchcuisine.com/our-menu/",
+            "openingHours": {
+                "Tuesday": "5:30\u20139:30\u202fPM",
+                "Wednesday": "5:30\u20139:30\u202fPM",
+                "Thursday": "5:30\u20139:30\u202fPM",
+                "Friday": "5:30\u20139:30\u202fPM",
+                "Saturday": "5:30\u20139:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://janesfrenchcuisine.com/reservations/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP58MEDCHL8EcQUDKxSawFzVKabTsBtSWUTnWBa",
+            "cid": "2194013318824044951",
+            "fid": "0x86249d86bf05b655:0x1e72b37d34fba997",
+            "placeId": "ChIJVbYFv4adJIYRl6n7NH2zch4"
+        }
+    ],
+    "credits": 3
+}

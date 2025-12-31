@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. John Traynor",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3407289,-122.8656784,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Sean Traynor M.D., f.A.C.S.",
+            "address": "1170 Royal Ave, Medford, OR 97504",
+            "latitude": 42.340728899999995,
+            "longitude": -122.8656784,
+            "rating": 4.5,
+            "ratingCount": 11,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist",
+                "Doctor"
+            ],
+            "website": "http://www.oregonent.com/",
+            "phoneNumber": "(541) 779-7331",
+            "cid": "5931815121040460936",
+            "fid": "0x54cf7a4c9f503b87:0x52520a6caae84c88",
+            "placeId": "ChIJhztQn0x6z1QRiEzoqmwKUlI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Arlene Solis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.216873,-108.2700981,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alfonso and Cynthia Solis Mortgage Consultants",
+            "address": "1060 G St, Reedley, CA 93654",
+            "latitude": 36.5965822,
+            "longitude": -119.4508563,
+            "rating": 4.5,
+            "ratingCount": 4,
+            "type": "Consultant",
+            "types": [
+                "Consultant"
+            ],
+            "phoneNumber": "(559) 351-8738",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMWwUEWN6pC8t5Nh6xylTKmknikaOg_ldwhU_qs",
+            "cid": "5373731611375875779",
+            "fid": "0x8094e2c361d278e1:0x4a93546de658b6c3",
+            "placeId": "ChIJ4XjSYcPilIARw7ZY5m1Uk0o"
+        }
+    ],
+    "credits": 3
+}

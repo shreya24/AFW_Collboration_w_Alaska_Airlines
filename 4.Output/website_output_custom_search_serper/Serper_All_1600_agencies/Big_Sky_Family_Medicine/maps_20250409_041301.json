@@ -1,0 +1,117 @@
+{
+    "searchParameters": {
+        "q": "Big Sky Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.7390139,-112.8132565,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Primary Care - 160 Heritage Way",
+            "address": "160 Heritage Way #202, Kalispell, MT 59901",
+            "latitude": 48.2175559,
+            "longitude": -114.32848349999999,
+            "rating": 3.6,
+            "ratingCount": 107,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.logan.org/location/logan-health-primary-care-160-heritage-way/",
+            "phoneNumber": "(406) 752-8433",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOB2Cm3QzA_7dTAloOUKnC3jHZjRc77p0tCt5eH",
+            "cid": "511175118913751765",
+            "fid": "0x5366509f79f6b423:0x7180f0ff4df4ad5",
+            "placeId": "ChIJI7T2eZ9QZlMR1Urf9A8PGAc"
+        },
+        {
+            "position": 2,
+            "title": "Big Sky Medical Center",
+            "address": "334 Town Center Ave, Big Sky, MT 59716",
+            "latitude": 45.2604718,
+            "longitude": -111.30092379999999,
+            "rating": 3.6,
+            "ratingCount": 68,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Family practice physician",
+                "Hospital"
+            ],
+            "website": "https://www.bigskymedicalcenter.org/",
+            "phoneNumber": "(406) 995-6995",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDL3nF4Y4tWMthqwo_4X29FED2TKIxs_yigbsU",
+            "cid": "8780564993120014805",
+            "fid": "0x5350102cbe75447f:0x79dad556fe2611d5",
+            "placeId": "ChIJf0R1viwQUFMR1REm_lbV2nk"
+        },
+        {
+            "position": 3,
+            "title": "Big Sky Family Health Clinic",
+            "address": "2210 Harrison Ave, Butte, MT 59701",
+            "latitude": 45.991115,
+            "longitude": -112.51056009999999,
+            "rating": 3.6,
+            "ratingCount": 5,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Doctor"
+            ],
+            "phoneNumber": "(406) 792-6239",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "7\u202fAM\u20139:30\u202fPM",
+                "Thursday": "7\u202fAM\u20139:30\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20139:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bUdtXODFhI1cEU5_XHJnww&cb_client=search.gws-prod.gps&w=80&h=92&yaw=107.894646&pitch=0&thumbfov=100",
+            "cid": "7033855002538748310",
+            "fid": "0x535b0868b18fffff:0x619d45db9bed2996",
+            "placeId": "ChIJ__-PsWgIW1MRlintm9tFnWE"
+        },
+        {
+            "position": 4,
+            "title": "Big Sky Family Medicine PC",
+            "address": "401 15th Ave S #201, Great Falls, MT 59405",
+            "latitude": 47.4882363,
+            "longitude": -111.29802959999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(406) 761-3556",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mNmiz2jxxJcbOo-SyL1xiQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=306.37878&pitch=0&thumbfov=100",
+            "cid": "15218138919221256246",
+            "fid": "0x534237dacdbb2431:0xd331b0b7c6bae036",
+            "placeId": "ChIJMSS7zdo3QlMRNuC6xrewMdM"
+        }
+    ],
+    "credits": 3
+}

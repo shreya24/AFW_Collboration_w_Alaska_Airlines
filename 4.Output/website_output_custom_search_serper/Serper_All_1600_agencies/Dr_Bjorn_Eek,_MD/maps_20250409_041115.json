@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr Bjorn Eek, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6653013,-122.4755757,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Bjorn C. Eek, MD",
+            "address": "901 Campus Dr #310, Daly City, CA 94015",
+            "latitude": 37.665301299999996,
+            "longitude": -122.4755757,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(650) 755-0733",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oTIw4LzbweCJBl7Fmszs_g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=145.8041&pitch=0&thumbfov=100",
+            "cid": "12528182439975256367",
+            "fid": "0x808f7b9168efb19d:0xaddd0b8d5003012f",
+            "placeId": "ChIJnbHvaJF7j4ARLwEDUI0L3a0"
+        }
+    ],
+    "credits": 3
+}

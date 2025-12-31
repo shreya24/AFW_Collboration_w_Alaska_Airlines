@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Sanford Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.1985866,-98.7639693,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sanford Children's Hospital",
+            "address": "1600 W 22nd St, Sioux Falls, SD 57105",
+            "latitude": 43.5350819,
+            "longitude": -96.7455521,
+            "rating": 4.1,
+            "ratingCount": 61,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.sanfordhealth.org/locations/sanford-childrens-hospital-sioux-falls/?yxt_info=healthcare-facility-33bea4a8-4a77-4290-8b4a-4dce2df5826b&y_source=1_MTA2MTg4NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(605) 312-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQTvsXeG-J6NSM62ylYiMN0aRa99Dciy6eb9P7",
+            "cid": "3026904193518449421",
+            "fid": "0x878eb5f491667ef3:0x2a01b953a7ceb30d",
+            "placeId": "ChIJ835mkfS1jocRDbPOp1O5ASo"
+        },
+        {
+            "position": 2,
+            "title": "Sanford Children's Hospital",
+            "address": "300 N 7th St, Bismarck, ND 58501",
+            "latitude": 46.8078863,
+            "longitude": -100.7823865,
+            "rating": 4,
+            "ratingCount": 7,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.sanfordhealth.org/locations/sanford-childrens-hospital-bismarck/?yxt_info=healthcare-facility-f2a7095c-588c-44ee-872b-21ede0e16382&y_source=1_MTA2MTg4NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(701) 323-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMh_TTg42dBiYX1DsGuMtLAN5NNiyqUlQsFwtvn",
+            "cid": "18304632739334858499",
+            "fid": "0x52d7831133c69825:0xfe071e7e8c0a2703",
+            "placeId": "ChIJJZjGMxGD11IRAycKjH4eB_4"
+        },
+        {
+            "position": 3,
+            "title": "Sanford Children's Urgent Care Clinic",
+            "address": "2701 13th Ave S, Fargo, ND 58103",
+            "latitude": 46.8620914,
+            "longitude": -96.8227835,
+            "rating": 4.2,
+            "ratingCount": 41,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Pediatrician"
+            ],
+            "website": "https://www.sanfordhealth.org/locations/sanford-childrens-urgent-care-clinic?yxt_info=healthcare-facility-c8241b1c-38a5-4e54-86d1-0ec7c2f708d0&y_source=1_MTA2MTg4NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(701) 234-3620",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "7:30\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN09hHlxvyQYtzf4Bo0zIVN_-tBNyq210UD_4wa",
+            "cid": "66396165959079311",
+            "fid": "0x52c8cb8efdf47187:0xebe2f60e70558f",
+            "placeId": "ChIJh3H0_Y7LyFIRj1VwDvbi6wA"
+        }
+    ],
+    "credits": 3
+}

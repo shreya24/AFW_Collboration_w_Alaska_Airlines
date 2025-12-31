@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "St. Lukes - Nampa",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6173907,-116.5903087,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Nampa Medical Center",
+            "address": "9850 W St Lukes Dr, Nampa, ID 83687",
+            "latitude": 43.6173907,
+            "longitude": -116.5903087,
+            "rating": 3,
+            "ratingCount": 338,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency dental service",
+                "Emergency room",
+                "General practitioner",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/hospitals-and-medical-centers/st-lukes-nampa-medical-center",
+            "phoneNumber": "(208) 505-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_9uIKpE6fLYTDzyA8wta7FcyWL2jd7KDqo3_K",
+            "cid": "3453657069221022357",
+            "fid": "0x54ae4cc855a4b1bb:0x2feddace62ef8a95",
+            "placeId": "ChIJu7GkVchMrlQRlYrvYs7a7S8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Girdwood Health Clinic Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.9636306,-149.1339899,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Girdwood Health Clinic Inc.",
+            "address": "131 Lindblad Ave, Girdwood, AK 99587",
+            "latitude": 60.963630599999995,
+            "longitude": -149.1339899,
+            "rating": 4.2,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Nurse practitioner"
+            ],
+            "website": "https://www.girdwoodhealthclinic.org/",
+            "phoneNumber": "(907) 783-1355",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB811AQ8U_uXzOUTx2RLP4iU6yq0jbpUE4ufQKI7SzMppKd_od4uzU4lICXrNh8NZtmDmucbmnBxDMTPsT9mYmbcrrz0rKdD4IVU9HXDVsHshJY33RVoFFBtPjpsy5HtMk7AxIwvLw",
+            "cid": "17964590454203882565",
+            "fid": "0x56c87b4a37349a81:0xf94f0bd66e321c45",
+            "placeId": "ChIJgZo0N0p7yFYRRRwybtYLT_k"
+        }
+    ],
+    "credits": 3
+}

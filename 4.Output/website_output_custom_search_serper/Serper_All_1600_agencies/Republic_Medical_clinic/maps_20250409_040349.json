@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "Republic Medical clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.6530866,-118.7306205,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Republic Medical Clinic",
+            "address": "36 N Klondike Rd, Republic, WA 99166",
+            "latitude": 48.6530403,
+            "longitude": -118.7311045,
+            "rating": 2.8,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.fcphd.org/rmc.html",
+            "phoneNumber": "(509) 775-3153",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "383220812374452974",
+            "fid": "0x549d6a171e80a633:0x551794c681daaee",
+            "placeId": "ChIJM6aAHhdqnVQR7qodaEx5UQU"
+        },
+        {
+            "position": 2,
+            "title": "Republic Medical Clinic",
+            "address": "10 Ros Cir, Republic, WA 99166",
+            "latitude": 48.653132799999995,
+            "longitude": -118.7301365,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.fcphd.org/rmc.html",
+            "phoneNumber": "(509) 775-3153",
+            "cid": "1313462273163010167",
+            "fid": "0x549d449ffbbb1e53:0x123a5afa79c22077",
+            "placeId": "ChIJUx67-59EnVQRdyDCefpaOhI"
+        }
+    ],
+    "credits": 3
+}

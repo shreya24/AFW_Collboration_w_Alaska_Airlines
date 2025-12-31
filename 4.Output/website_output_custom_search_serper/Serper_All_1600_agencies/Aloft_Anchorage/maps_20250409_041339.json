@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Aloft Anchorage",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1876389,-149.8883293,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Aloft Anchorage",
+            "address": "310 W 36th Ave, Anchorage, AK 99503",
+            "latitude": 61.187638899999996,
+            "longitude": -149.88832929999998,
+            "rating": 4,
+            "ratingCount": 249,
+            "type": "Hotel",
+            "types": [
+                "Hotel",
+                "Meeting planning service"
+            ],
+            "website": "https://www.marriott.com/en-us/hotels/ancal-aloft-anchorage/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+            "phoneNumber": "(907) 273-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_59vWRXl9lm2al7SwgwlB1sYT725OcSV6dvis",
+            "cid": "14612885899518172539",
+            "fid": "0x56c897c13d40d12b:0xcacb664da0185d7b",
+            "placeId": "ChIJK9FAPcGXyFYRe10YoE1my8o"
+        }
+    ],
+    "credits": 3
+}

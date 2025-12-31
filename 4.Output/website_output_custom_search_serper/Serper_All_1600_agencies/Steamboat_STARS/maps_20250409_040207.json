@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Steamboat STARS",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.43647,-106.8182373,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "STARS Steamboat Adaptive Recreational Sports",
+            "address": "35465 U.S. Hwy 40, Steamboat Springs, CO 80487",
+            "latitude": 40.43647,
+            "longitude": -106.81823729999999,
+            "rating": 4.9,
+            "ratingCount": 12,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.steamboatstars.com/",
+            "phoneNumber": "(970) 870-1950",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrlpXrqUR4nEQ6_IflnsmntiUo8QSHDFgLVQsM",
+            "cid": "8902493473615010424",
+            "fid": "0x874268d52773b36f:0x7b8c02a5960e5a78",
+            "placeId": "ChIJb7NzJ9VoQocReFoOlqUCjHs"
+        }
+    ],
+    "credits": 3
+}

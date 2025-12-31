@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Davita Southern Hills",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0718284,-115.2950169,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DaVita Southern Hills Dialysis Center",
+            "address": "9280 W Sunset Rd # 110, Las Vegas, NV 89148",
+            "latitude": 36.0718284,
+            "longitude": -115.2950169,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center",
+                "Local medical services",
+                "Medical Center"
+            ],
+            "website": "https://www.davita.com/locations/nv/las-vegas/9280-w-sunset-rd--2048",
+            "phoneNumber": "(833) 344-2527",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20138\u202fPM",
+                "Wednesday": "5\u202fAM\u20138\u202fPM",
+                "Thursday": "5\u202fAM\u20138\u202fPM",
+                "Friday": "5\u202fAM\u20138\u202fPM",
+                "Saturday": "5\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "5\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNT9wHVn3_A3aLBtqGhX9UPwRl3s5KV9cZ5ndq6",
+            "cid": "5929746268260055017",
+            "fid": "0x80c8b87cc8ac191b:0x524ab0d057d6b7e9",
+            "placeId": "ChIJGxmsyHy4yIAR6bfWV9CwSlI"
+        }
+    ],
+    "credits": 3
+}

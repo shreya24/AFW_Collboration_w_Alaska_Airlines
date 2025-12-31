@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Alaska Fracture & Orthopedic Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1830004,-149.8407371,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Fracture & Orthopedic Clinic",
+            "address": "4100 Lake Otis Pkwy Suite 220, Anchorage, AK 99508",
+            "latitude": 61.1830004,
+            "longitude": -149.84073709999998,
+            "rating": 4.7,
+            "ratingCount": 1029,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "https://afoc.com/",
+            "phoneNumber": "(907) 563-3145",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgd3XiEcSbNChTgXNuun0v2AxZuAaSW2DYd-tV",
+            "cid": "3932259871970128515",
+            "fid": "0x56c897658042b8ff:0x36923185014d7283",
+            "placeId": "ChIJ_7hCgGWXyFYRg3JNAYUxkjY"
+        }
+    ],
+    "credits": 3
+}

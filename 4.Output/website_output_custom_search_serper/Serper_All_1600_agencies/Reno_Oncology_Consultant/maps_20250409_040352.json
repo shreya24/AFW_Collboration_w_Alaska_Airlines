@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Reno Oncology Consultant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4707246,-119.8103362,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Reno Oncology Consultants",
+            "address": "6130 Plumas St, Reno, NV 89519",
+            "latitude": 39.4707246,
+            "longitude": -119.8103362,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.ccsreno.com/",
+            "phoneNumber": "(775) 329-0222",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7fFH-AYcUAssdZySfJEbHQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=220.53745&pitch=0&thumbfov=100",
+            "cid": "9306395175014089104",
+            "fid": "0x809940adde9397bf:0x8126f51ab21fc190",
+            "placeId": "ChIJv5eT3q1AmYARkMEfshr1JoE"
+        }
+    ],
+    "credits": 3
+}

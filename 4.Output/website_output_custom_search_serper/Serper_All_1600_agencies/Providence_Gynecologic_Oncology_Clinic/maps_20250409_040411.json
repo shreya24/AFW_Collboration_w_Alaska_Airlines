@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Providence Gynecologic Oncology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6477986,-117.414234,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Gynecologic Oncology Clinic",
+            "address": "101 W 8th Ave Suites 1300 and 1400, Spokane, WA 99204",
+            "latitude": 47.647798599999994,
+            "longitude": -117.414234,
+            "rating": 3.3,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center/gynecologic-oncology?ls=location&y_source=1_MjA4OTUyNjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 474-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOG_d0OgXf9DMbTPDwaPt3Lx2Z5H51sFVChJOi8",
+            "cid": "14609037120363658528",
+            "fid": "0x549e195a0b411a6b:0xcabdb9dbe5c57d20",
+            "placeId": "ChIJaxpBC1oZnlQRIH3F5du5vco"
+        }
+    ],
+    "credits": 3
+}

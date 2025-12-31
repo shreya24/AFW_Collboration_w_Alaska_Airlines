@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Mary's Place",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7229219,-122.3425004,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marys Place North",
+            "address": "1155 N 130th St, Seattle, WA 98133",
+            "latitude": 47.722921899999996,
+            "longitude": -122.34250039999999,
+            "rating": 4.1,
+            "ratingCount": 76,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter"
+            ],
+            "phoneNumber": "(206) 245-1026",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNZaJBnnCfhaq1JCT-THW4oFF6Ck1vWalQVtgQ",
+            "cid": "685798768073047116",
+            "fid": "0x5490113656ec8d7f:0x98472589664fc4c",
+            "placeId": "ChIJf43sVjYRkFQRTPxkllhyhAk"
+        }
+    ],
+    "credits": 3
+}

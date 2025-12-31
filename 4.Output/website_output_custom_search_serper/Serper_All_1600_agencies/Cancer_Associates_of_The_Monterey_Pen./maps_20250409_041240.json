@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Cancer Associates of The Monterey Pen.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.5785609,-121.9134061,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Comprehensive Cancer Center at Community Hospital of the Monterey Peninsula",
+            "address": "23625 Holman Hwy, Monterey, CA 93940",
+            "latitude": 36.5785609,
+            "longitude": -121.91340609999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Radiologist"
+            ],
+            "website": "https://www.chomp.org/services/cancer-center",
+            "phoneNumber": "(831) 625-4753",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQN_3XIh3UyXba5cHBp_I5mq-7J_vUkNRJYZY5",
+            "cid": "6811404237709272993",
+            "fid": "0x808de753d1980401:0x5e86f810da4067a1",
+            "placeId": "ChIJAQSY0VPnjYARoWdA2hD4hl4"
+        }
+    ],
+    "credits": 3
+}

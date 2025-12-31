@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Straub Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3028027,-157.8508145,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Straub Outpatient Treatment Center",
+            "address": "888 S King St, Honolulu, HI 96813",
+            "latitude": 21.302580799999998,
+            "longitude": -157.8505419,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/straub/services/cancer-center/",
+            "phoneNumber": "(808) 522-4000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-hf88IS1_9jXojmmCDh8FaXcE5O04tBDfKvLLlzl-LjUvw0RezTTZb6us1Ohkid44YQPCGW4J2u7fTWVXcNxD8d5GWPGz_ZmOV89hrBNNpgA1tHTJmS-CXfvNrnOBXknufquHgyQ",
+            "cid": "9261409645317166272",
+            "fid": "0x7c006de0d4efcbd9:0x80872300dc8194c0",
+            "placeId": "ChIJ2cvv1OBtAHwRwJSB3AAjh4A"
+        },
+        {
+            "position": 2,
+            "title": "Straub Benioff Medical Center",
+            "address": "Straub Benioff Medical Center, 888 S King St, Honolulu, HI 96813",
+            "latitude": 21.3028832,
+            "longitude": -157.8505188,
+            "rating": 3.9,
+            "ratingCount": 201,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/straub/locations/straub-medical-center/",
+            "phoneNumber": "(808) 522-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZUHfJoRwpRROuFytJ5El3bEsygwnW7sRI7oE_",
+            "cid": "8441199800764167867",
+            "fid": "0x7c006de0d4efcbd9:0x75252a7ed2a576bb",
+            "placeId": "ChIJ2cvv1OBtAHwRu3al0n4qJXU"
+        },
+        {
+            "position": 3,
+            "title": "Straub Hematology & Oncology",
+            "address": "888 S King St, Honolulu, HI 96813",
+            "latitude": 21.3030246,
+            "longitude": -157.8511103,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "http://www.straubhealth.org/",
+            "phoneNumber": "(808) 522-4000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nbN4_pMhhiZek7IAFeYTsg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=214.08139&pitch=0&thumbfov=100",
+            "cid": "8443139425887203820",
+            "fid": "0x7c006de0d4efcbd9:0x752c0e92fd1a31ec",
+            "placeId": "ChIJ2cvv1OBtAHwR7DEa_ZIOLHU"
+        }
+    ],
+    "credits": 3
+}

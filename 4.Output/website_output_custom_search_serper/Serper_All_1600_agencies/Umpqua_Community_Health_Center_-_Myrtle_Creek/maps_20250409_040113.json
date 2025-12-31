@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Umpqua Community Health Center - Myrtle Creek",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.0166469,-123.2938899,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Umpqua Community Health Center",
+            "address": "790 S Main St, Myrtle Creek, OR 97457",
+            "latitude": 43.0166469,
+            "longitude": -123.2938899,
+            "rating": 3.5,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Care services"
+            ],
+            "website": "http://www.umpquachc.org/",
+            "phoneNumber": "(541) 672-9596",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cpOq0AijevqgHNLFb6gxVg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=265.77826&pitch=0&thumbfov=100",
+            "cid": "16553393537662889351",
+            "fid": "0x54c4343a1fdb710b:0xe5b977b807a4ad87",
+            "placeId": "ChIJC3HbHzo0xFQRh62kB7h3ueU"
+        }
+    ],
+    "credits": 3
+}

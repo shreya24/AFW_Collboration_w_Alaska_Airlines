@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Front Street Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3002319,-134.4063872,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Front Street Clinic",
+            "address": "225 Front St Ste 202, Juneau, AK 99801",
+            "latitude": 58.3002319,
+            "longitude": -134.40638719999998,
+            "rating": 4.4,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Addiction treatment center",
+                "Community health centre",
+                "Dental clinic",
+                "Mental health clinic"
+            ],
+            "website": "https://searhc.org/location/front-street-clinic/",
+            "phoneNumber": "(907) 364-4565",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8euE9w3EdBoBgLkMQZ0Aiscih2dC_u_WMeRatxUPpmmGDzMG5JZsjgFw3KVeSb4Etot8IG11jsxHVBgTrlYze_ICnNgFu6arqerAE6ROBAKW-UUSZe2dY6XXYpH_YPkSC2_KVm",
+            "cid": "2914279503863864222",
+            "fid": "0x5400df83197d0fd9:0x287199c4ac01db9e",
+            "placeId": "ChIJ2Q99GYPfAFQRntsBrMSZcSg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kohler Pavilion",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5000157,-122.684122,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peter O. Kohler Pavilion",
+            "address": "Kohler Pavilion, 808 SW Campus Dr, Portland, OR 97239",
+            "latitude": 45.5000157,
+            "longitude": -122.68412199999999,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.ohsu.edu/visit/peter-o-kohler-pavilion?utm_source=gmb&utm_medium=organic&utm_content=Building-KohlerPavilion",
+            "phoneNumber": "(503) 494-8311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-D_vxY5lMelSx7M1-AcPoYzMkEOfn_89hgKgzO91GcCgk2C9SXvBvgQNS1yccxpOZJDy5-fivUhCJFONI5lK8PsB5iFGHCScz8MSZPj9AM8nSxPUxoDqsTZ2JOWzh9NxFzXJZwVQ",
+            "cid": "6116785560013451430",
+            "fid": "0x54950a414eeb3583:0x54e3300f07d730a6",
+            "placeId": "ChIJgzXrTkEKlVQRpjDXBw8w41Q"
+        }
+    ],
+    "credits": 3
+}

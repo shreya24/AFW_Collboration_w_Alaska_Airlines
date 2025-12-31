@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Seattle Integrative Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4415605,-122.2362834,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Integrative Cancer Center",
+            "address": "1412 SW 43rd St # 200, Renton, WA 98057",
+            "latitude": 47.4415605,
+            "longitude": -122.23628339999999,
+            "rating": 4.9,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.seattleintegrativecancercenter.com/contact/",
+            "phoneNumber": "(206) 588-1722",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fVMFiZCTgF3wPDK57BpWYw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=11.936364&pitch=0&thumbfov=100",
+            "cid": "2558849095767127087",
+            "fid": "0x54905cd638831061:0x2382dbb1fb07742f",
+            "placeId": "ChIJYRCDONZckFQRL3QH-7HbgiM"
+        }
+    ],
+    "credits": 3
+}

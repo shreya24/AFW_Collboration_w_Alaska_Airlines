@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Renown South Meadows Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4359164,-119.7598386,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Renown South Meadows Medical Center",
+            "address": "10101 Double R Blvd, Reno, NV 89521",
+            "latitude": 39.435916399999996,
+            "longitude": -119.7598386,
+            "rating": 3.4,
+            "ratingCount": 141,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Hospital"
+            ],
+            "website": "https://www.renown.org/locations/renown-south-meadows-medical-center/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb",
+            "phoneNumber": "(775) 982-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc0HPOdZgEwWhxQrSB31SRNYbBGbj5UueOSSvZ",
+            "cid": "159812994502871208",
+            "fid": "0x809915198aa3f8c3:0x237c5125fd5c8a8",
+            "placeId": "ChIJw_ijihkVmYARqMjVXxLFNwI"
+        }
+    ],
+    "credits": 3
+}

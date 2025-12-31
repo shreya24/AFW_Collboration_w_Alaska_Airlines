@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Billings Clinic Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7876927,-108.5125809,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Billings Clinic | Cancer Center",
+            "address": "801 N 29th St, Billings, MT 59101",
+            "latitude": 45.7876927,
+            "longitude": -108.51258089999999,
+            "rating": 4.7,
+            "ratingCount": 33,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Pharmacy"
+            ],
+            "website": "https://www.billingsclinic.com/maps-locations/location-profile/?id=3&utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=billings-clinic-cancer-center",
+            "phoneNumber": "(406) 238-2500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9zlK39_hqO3zM5jBbnanANmZm9ibrNMe_2yln",
+            "cid": "14338495972287171905",
+            "fid": "0x534238315a126539:0xc6fc921e418bcd41",
+            "placeId": "ChIJOWUSWjE4QlMRQc2LQR6S_MY"
+        }
+    ],
+    "credits": 3
+}

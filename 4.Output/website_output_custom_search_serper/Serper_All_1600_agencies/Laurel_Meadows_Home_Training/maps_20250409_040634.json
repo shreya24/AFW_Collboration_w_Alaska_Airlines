@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Laurel Meadows Home Training",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.687,-121.671,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DaVita Laurel Meadows Home Training",
+            "address": "3 Rossi Cir Ste B, Salinas, CA 93907",
+            "latitude": 36.687,
+            "longitude": -121.67099999999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center",
+                "Local medical services",
+                "Medical Center"
+            ],
+            "website": "https://www.davita.com/locations/CA/Salinas/3RossiCir--5199",
+            "phoneNumber": "(833) 383-2592",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHl0CApO9C8Uowsa-L54cnVp930MQOB4M13NZ6",
+            "cid": "3156123783265070141",
+            "fid": "0x808df8d4fd49cd3f:0x2bcccddbe8ad2c3d",
+            "placeId": "ChIJP81J_dT4jYARPSyt6NvNzCs"
+        }
+    ],
+    "credits": 3
+}

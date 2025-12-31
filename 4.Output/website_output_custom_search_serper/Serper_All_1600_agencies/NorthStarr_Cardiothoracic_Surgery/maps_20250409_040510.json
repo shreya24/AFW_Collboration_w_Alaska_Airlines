@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "NorthStarr Cardiothoracic Surgery",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1862778,-149.8216278,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NorthStarr Cardiothoracic Surgery",
+            "address": "3841 Piper St suite t3-382, Anchorage, AK 99508",
+            "latitude": 61.1862778,
+            "longitude": -149.8216278,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cardiovascular and thoracic surgeon",
+            "types": [
+                "Cardiovascular and thoracic surgeon"
+            ],
+            "website": "https://northstarrcts.com/",
+            "phoneNumber": "(907) 917-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CrsxpRSlpKvjdbnDnIBKMw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=11.587574&pitch=0&thumbfov=100",
+            "cid": "13722551344459506020",
+            "fid": "0x56c89729a9f75c21:0xbe704bbe1a916164",
+            "placeId": "ChIJIVz3qSmXyFYRZGGRGr5LcL4"
+        }
+    ],
+    "credits": 3
+}

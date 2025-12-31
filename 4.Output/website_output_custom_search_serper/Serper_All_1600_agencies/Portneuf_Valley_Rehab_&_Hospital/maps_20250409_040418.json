@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Portneuf Valley Rehab & Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8744529,-112.420799,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Portneuf Medical Center",
+            "address": "777 Hospital Way, Pocatello, ID 83201",
+            "latitude": 42.8744529,
+            "longitude": -112.42079899999999,
+            "rating": 3.6,
+            "ratingCount": 1077,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital",
+                "Medical clinic",
+                "Psychiatric hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.portneuf.org/",
+            "phoneNumber": "(208) 239-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsNxszNeZRAhRQmzI5qAJRoVE7yqzLGix0mbKX",
+            "cid": "1057223641463155290",
+            "fid": "0x53554f25bee44905:0xeac034ced8e6a5a",
+            "placeId": "ChIJBUnkviVPVVMRWmqO7UwDrA4"
+        }
+    ],
+    "credits": 3
+}

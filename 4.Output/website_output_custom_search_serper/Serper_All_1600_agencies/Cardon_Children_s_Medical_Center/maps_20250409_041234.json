@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "Cardon Children's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3884448,-111.8776726,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Children's at Desert",
+            "address": "1400 S Dobson Rd, Mesa, AZ 85202",
+            "latitude": 33.3899517,
+            "longitude": -111.8773528,
+            "rating": 3,
+            "ratingCount": 261,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.bannerhealth.com/locations/mesa/banner-childrens-at-desert?y_source=1_MTE5MDczMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 412-5437",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMXm5umbAh8u9Dwjj709EqKFCXPvhAHDfeP3iOk",
+            "cid": "3958880602645632281",
+            "fid": "0x872b07e12c895a3b:0x36f0c4eedce09519",
+            "placeId": "ChIJO1qJLOEHK4cRGZXg3O7E8DY"
+        },
+        {
+            "position": 2,
+            "title": "Banner Desert & Cardon Children\u015b Medical Centers",
+            "address": "Mesa, AZ 85202",
+            "latitude": 33.3869379,
+            "longitude": -111.8779924,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TK5ZCA0NGmr0UisO1QE89g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=35.571404&pitch=0&thumbfov=100",
+            "cid": "247640567640959800",
+            "fid": "0x872b07e6530cdec5:0x36fcbc8c2372b38",
+            "placeId": "ChIJxd4MU-YHK4cROCs3wsjLbwM"
+        }
+    ],
+    "credits": 3
+}

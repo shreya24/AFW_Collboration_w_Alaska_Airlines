@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "Western Colorado Pediatric Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1245286,-108.6428448,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Western Colorado Pediatrics",
+            "address": "3150 N 12th St, Grand Junction, CO 81506",
+            "latitude": 39.0965051,
+            "longitude": -108.5514183,
+            "rating": 3.7,
+            "ratingCount": 57,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Doctor",
+                "Medical clinic",
+                "Medical group",
+                "Medical office",
+                "Pediatric clinic"
+            ],
+            "website": "https://www.pcpgj.com/western-colorado-pediatrics/",
+            "phoneNumber": "(970) 243-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoEwb8v1dttebIk6AQ2t6DoQa57pjL0MRQNXSa",
+            "cid": "8119924376944692978",
+            "fid": "0x87471db6b93cfc93:0x70afc4331ad2cef2",
+            "placeId": "ChIJk_w8ubYdR4cR8s7SGjPEr3A"
+        },
+        {
+            "position": 2,
+            "title": "Western Colorado Pediatrics",
+            "address": "456 Kokopelli Dr, Fruita, CO 81521",
+            "latitude": 39.152552,
+            "longitude": -108.73427129999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Doctor",
+                "Medical clinic",
+                "Medical group",
+                "Medical office",
+                "Pediatric clinic"
+            ],
+            "website": "https://www.pcpgj.com/western-colorado-pediatrics/",
+            "phoneNumber": "(970) 243-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6NT1darmj2JfsIylHIqOKsL0NdwSXFsvttuDT",
+            "cid": "16004810653849321993",
+            "fid": "0x8746fe92fb341e65:0xde1c827e18138209",
+            "placeId": "ChIJZR40-5L-RocRCYITGH6CHN4"
+        }
+    ],
+    "credits": 3
+}

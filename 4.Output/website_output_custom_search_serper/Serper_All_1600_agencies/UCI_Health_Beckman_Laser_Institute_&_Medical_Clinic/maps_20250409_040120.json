@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "UCI Health Beckman Laser Institute & Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6440797,-117.8499546,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCI Health Beckman Laser Institute & Medical Clinic",
+            "address": "1002 Health Sciences Rd, Irvine, CA 92612",
+            "latitude": 33.6440797,
+            "longitude": -117.84995459999999,
+            "rating": 4.1,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ucihealth.org/locations/irvine/beckman-laser-institute-and-medical-clinic",
+            "phoneNumber": "(949) 824-7997",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP71A6IBti0LeBHq4UEgPCDZul0JY0Ci8uFo0Hu",
+            "cid": "2587350850708482374",
+            "fid": "0x80dcde16c3b8da95:0x23e81de3edc8a946",
+            "placeId": "ChIJldq4wxbe3IARRqnI7eMd6CM"
+        }
+    ],
+    "credits": 3
+}

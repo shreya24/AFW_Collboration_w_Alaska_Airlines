@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5374705,-122.7080361,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Hospice Volunteers",
+            "address": "2701 NW Vaughn St, Portland, OR 97210",
+            "latitude": 45.5374705,
+            "longitude": -122.7080361,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/html/kaiser/index.shtml",
+            "phoneNumber": "(503) 499-5200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FyU7t0KDwrJMFii62nWd8A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=84.858894&pitch=0&thumbfov=100",
+            "cid": "11348828932012760025",
+            "fid": "0x549509e8141909bf:0x9d7f23c8f54bdbd9",
+            "placeId": "ChIJvwkZFOgJlVQR2dtL9cgjf50"
+        }
+    ],
+    "credits": 3
+}

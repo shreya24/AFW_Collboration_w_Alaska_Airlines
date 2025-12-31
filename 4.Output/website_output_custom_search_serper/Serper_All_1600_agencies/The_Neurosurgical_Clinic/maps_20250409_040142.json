@@ -1,0 +1,582 @@
+{
+    "searchParameters": {
+        "q": "The Neurosurgical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1282096,-151.3345081,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Setagaya Kamimachi Neurological Clinic",
+            "address": "Japan, \u3012154-0017 Tokyo, Setagaya City, Setagaya, 2 Chome\u22124\u22122 \u30b5\u30af\u30e9\u30c6\u30e9\u30b9 4\u968e\u30fb5\u968e",
+            "latitude": 35.6425572,
+            "longitude": 139.6463052,
+            "rating": 4.2,
+            "ratingCount": 33,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://setagayakamimachineuro.com/",
+            "phoneNumber": "+81 3-5477-2020",
+            "openingHours": {
+                "Wednesday": "10\u202fAM\u20131\u202fPM, 3\u20136:30\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "10\u202fAM\u20131\u202fPM, 3\u20136:30\u202fPM",
+                "Saturday": "10\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20131\u202fPM, 3\u20136:30\u202fPM",
+                "Tuesday": "10\u202fAM\u20131\u202fPM, 3\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://patient.digikar-smart.jp/institutions/f3757cc8-852d-493f-aa76-78b21b12738d/reserve?utm_source=digisma&utm_medium=google_map&utm_campaign=inst_f3757cc8-852d-493f-aa76-78b21b12738d&rwg_token=AAiGsoYzTGUDxamMEC-jprHzqd_t-xOaxlEj33YmITPjcA2kbFXIWJ2GUwJ-s4S_o4jdpbUi5AUrAg_NCj1zuWHxIaINTWLQgNUtN8pHIHLJY2IYwKVsVGY%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPk6S9oDxSjsfwJM01OJCjS7z5dLTAfyUej3CC-",
+            "cid": "5440517157098598695",
+            "fid": "0x6018f3809a387e81:0x4b8099877f47b127",
+            "placeId": "ChIJgX44moDzGGARJ7FHf4eZgEs"
+        },
+        {
+            "position": 2,
+            "title": "Raleigh Neurosurgical Clinic",
+            "address": "5241 Six Forks Rd Suite 100, Raleigh, NC 27609",
+            "latitude": 35.8525683,
+            "longitude": -78.6433091,
+            "rating": 4.8,
+            "ratingCount": 1234,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://raleighneurosurgical.com/?utm_medium=RaleighNeurosurgicalClinic&utm_source=GMBSocialClimb",
+            "phoneNumber": "(919) 785-3400",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://raleighneurosurgical.com/for-patients/request-an-appointment/?referralSource=413099"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZEykXDKIOw-DuJkQg2RJNiz0P45Hgpw_RsLDG",
+            "cid": "10228897346507436260",
+            "fid": "0x89ac5866c711c887:0x8df457f10e82f0e4",
+            "placeId": "ChIJh8gRx2ZYrIkR5PCCDvFX9I0"
+        },
+        {
+            "position": 3,
+            "title": "Matsuo Neurology Clinic",
+            "address": "290-1 Ichinocho, Chuo Ward, Hamamatsu, Shizuoka 435-0051, Japan",
+            "latitude": 34.751522699999995,
+            "longitude": 137.77150989999998,
+            "rating": 3.4,
+            "ratingCount": 22,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "+81 53-431-2121",
+            "openingHours": {
+                "Wednesday": "8:30\u202fAM\u201312:20\u202fPM, 2\u20135:50\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "8:30\u202fAM\u201312:20\u202fPM, 2\u20135:50\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312:20\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312:20\u202fPM, 2\u20135:50\u202fPM",
+                "Tuesday": "8:30\u202fAM\u201312:20\u202fPM, 2\u20135:50\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcl5ZORVZOmIMoQdPchUQ8cg2uvsfQs-1vEcsw",
+            "cid": "9413949001010522040",
+            "fid": "0x601ae08798cf935b:0x82a510bd3ae027b8",
+            "placeId": "ChIJW5PPmIfgGmARuCfgOr0QpYI"
+        },
+        {
+            "position": 4,
+            "title": "Atsumi Neurology Clinic",
+            "address": "840-1 Wagocho, Chuo Ward, Hamamatsu, Shizuoka 433-8125, Japan",
+            "latitude": 34.7409944,
+            "longitude": 137.7003273,
+            "rating": 4.1,
+            "ratingCount": 7,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Internist"
+            ],
+            "website": "https://www.atsumi-nc.jp/",
+            "phoneNumber": "+81 53-474-4888",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOY10prsitgH4N1m2-l_1a4mgIJm09BiuAr1XfL",
+            "cid": "180212923350385919",
+            "fid": "0x601adf40afe7184d:0x2803eb2f03c04ff",
+            "placeId": "ChIJTRjnr0DfGmAR_wQ88LI-gAI"
+        },
+        {
+            "position": 5,
+            "title": "Nakahara Neurosurgical & Neurological Clinic",
+            "address": "Japan, \u3012194-0013 Tokyo, Machida, Haramachida, 4 Chome\u221214\u221214 Lifix\u30d3\u30eb 1F",
+            "latitude": 35.5422565,
+            "longitude": 139.4504577,
+            "rating": 4.3,
+            "ratingCount": 100,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Orthopedic surgeon"
+            ],
+            "website": "https://nakahara-nsclinic.jp/",
+            "phoneNumber": "+81 42-709-3851",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM, 3\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u201312:30\u202fPM, 3\u20136\u202fPM",
+                "Friday": "9\u202fAM\u201312:30\u202fPM, 3\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u201312:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312:30\u202fPM, 3\u20137\u202fPM",
+                "Tuesday": "9\u202fAM\u201312:30\u202fPM, 3\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJt5b7amnSf6dTYtMERqo6BnQs_bUAleSmf9gn",
+            "cid": "5288695762334079058",
+            "fid": "0x6018f94a37f15377:0x496538c66f095852",
+            "placeId": "ChIJd1PxN0r5GGARUlgJb8Y4ZUk"
+        },
+        {
+            "position": 6,
+            "title": "Kaminoge Neurosurgical Clinic",
+            "address": "Japan, \u3012158-0093 Tokyo, Setagaya City, Kaminoge, 3 Chome\u221214\u221214 \u30a2\u30fc\u30d0\u30f3\u30d7\u30ec\u30a4\u30b9\u4e0a\u91ce\u6bdb",
+            "latitude": 35.613258099999996,
+            "longitude": 139.6374368,
+            "rating": 4.2,
+            "ratingCount": 28,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://kaminoge-c.com/",
+            "phoneNumber": "+81 3-5758-1150",
+            "openingHours": {
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM",
+                "Tuesday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhvV3DRBMcaOf-CjfK2bExgEuFprfSsSfO15vS",
+            "cid": "6339811662849809360",
+            "fid": "0x6018f443ac758ab1:0x57fb891e1b0a9bd0",
+            "placeId": "ChIJsYp1rEP0GGAR0JsKGx6J-1c"
+        },
+        {
+            "position": 7,
+            "title": "Togoshi Neurosurgical Clinic",
+            "address": "Japan, \u3012142-0041 Tokyo, Shinagawa City, Togoshi, 1 Chome\u22127\u22121 ThePLACE\u6238\u8d8a 1F",
+            "latitude": 35.6166981,
+            "longitude": 139.71764109999998,
+            "rating": 4.2,
+            "ratingCount": 59,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Medical clinic"
+            ],
+            "website": "https://togoshi-nsc.com/",
+            "phoneNumber": "+81 3-5751-7333",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 2:30\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20132\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM, 2:30\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 2:30\u20136\u202fPM",
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 2:30\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://select-type.com/rsv/?id=bYNKZwLaw8U&c_id=85317&w_flg=1"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYqtLrnwF1PtHG5zGztIYFu22uOgy_iybGB19X",
+            "cid": "9445674684926597639",
+            "fid": "0x60188aeebb6560ab:0x8315c714a2f31a07",
+            "placeId": "ChIJq2Blu-6KGGARBxrzohTHFYM"
+        },
+        {
+            "position": 8,
+            "title": "Koyasu Neurosurgical Clinic",
+            "address": "Japan, \u3012241-0821 Kanagawa, Yokohama, Asahi Ward, Futamatagawa, 1 Chome\u22126-1 \u4e8c\u4fe3\u5ddd\u5317\u53e3\u30d3\u30eb \uff12\u968e",
+            "latitude": 35.4634559,
+            "longitude": 139.531114,
+            "rating": 3.7,
+            "ratingCount": 61,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurosurgeon"
+            ],
+            "website": "https://www.koyasuclinic.jp/",
+            "phoneNumber": "+81 45-360-1114",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20136:30\u202fPM",
+                "Thursday": "9\u202fAM\u20136:30\u202fPM",
+                "Friday": "9\u202fAM\u20136:30\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136:30\u202fPM",
+                "Tuesday": "9\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6sdlipflUT3jYGedogVW5ZEy_MUvPVEhYtSCl",
+            "cid": "12492758450102912786",
+            "fid": "0x601859de2fed6353:0xad5f319ef324c712",
+            "placeId": "ChIJU2PtL95ZGGAREsck854xX60"
+        },
+        {
+            "position": 9,
+            "title": "Takizawa Neurosurgical Clinic",
+            "address": "2 Chome-1-10 Muraimachiminami, Matsumoto, Nagano 399-0036, Japan",
+            "latitude": 36.1814757,
+            "longitude": 137.9639135,
+            "rating": 3.3,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.takizawa-clinic.jp/",
+            "phoneNumber": "+81 263-88-7730",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dw0RMyiJvRVhqPbDdc6CPw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=336.11102&pitch=0&thumbfov=100",
+            "cid": "17006546077513531159",
+            "fid": "0x601d0f79d56c85ef:0xec03638d8e81bf17",
+            "placeId": "ChIJ74Vs1XkPHWARF7-Bjo1jA-w"
+        },
+        {
+            "position": 10,
+            "title": "Neurosurgery Clinic - Neuroscience Insitute - Valley Medical Center",
+            "address": "4033 Talbot Road Suite 520 \u2014 Medical Arts Center (MAC, Renton, WA 98055",
+            "latitude": 47.444271,
+            "longitude": -122.21456599999999,
+            "rating": 3.1,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgical center"
+            ],
+            "website": "https://www.valleymed.org/neurosurgery-clinic",
+            "phoneNumber": "(425) 690-3586",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMI3BpPd6sFj4u8aQ8u_EZos5oPw261200sl4ev",
+            "cid": "15376525339171160643",
+            "fid": "0x54905d1aae07e2e5:0xd5646453e1170243",
+            "placeId": "ChIJ5eIHrhpdkFQRQwIX4VNkZNU"
+        },
+        {
+            "position": 11,
+            "title": "Sato\u0304 Internal Medicine & Neurosurgical Clinic",
+            "address": "521-1 Nogisaki, Moriya, Ibaraki 302-0117, Japan",
+            "latitude": 35.946146,
+            "longitude": 139.967559,
+            "rating": 2.2,
+            "ratingCount": 42,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.koumeikai.or.jp/",
+            "phoneNumber": "+81 297-21-1710",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20131\u202fPM, 2\u20136\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u20131\u202fPM, 2\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20131\u202fPM, 2\u20136\u202fPM",
+                "Tuesday": "9\u202fAM\u20131\u202fPM, 2\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOZmCNpKuspQcwqojDonOZQGMIqD1C0rLqih3DM",
+            "cid": "2459963768733785679",
+            "fid": "0x60189efcb29a6e13:0x22238c03a3b55e4f",
+            "placeId": "ChIJE26asvyeGGART161owOMIyI"
+        },
+        {
+            "position": 12,
+            "title": "Yokohama Aoba Neurosurgical Clinic",
+            "address": "Japan, \u3012225-0011 Kanagawa, Yokohama, Aoba Ward, Azamino, 1 Chome\u2212\uff17\u22121 \uff12\u968e",
+            "latitude": 35.570721999999996,
+            "longitude": 139.553464,
+            "rating": 3.9,
+            "ratingCount": 28,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://www.brain-clinic.net/",
+            "phoneNumber": "+81 45-905-2272",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM, 2:30\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u201312:30\u202fPM, 2:30\u20136\u202fPM",
+                "Friday": "9\u202fAM\u201312:30\u202fPM, 2:30\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u201312:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312:30\u202fPM, 2:30\u20136\u202fPM",
+                "Tuesday": "9\u202fAM\u201312:30\u202fPM, 2:30\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOW35nuC_xN92trBojCR21CeuI9xXWXGNdsXaN0",
+            "cid": "17629935436863796239",
+            "fid": "0x6018f70e7ff566b9:0xf4aa1cdf5756740f",
+            "placeId": "ChIJuWb1fw73GGARD3RWV98cqvQ"
+        },
+        {
+            "position": 13,
+            "title": "Kusuno Neurogical & Neurosurgical Clinic",
+            "address": "303 Doiharamachi, Komatsu, Ishikawa 923-0921, Japan",
+            "latitude": 36.400831,
+            "longitude": 136.450799,
+            "rating": 3.9,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.kusuno.net/",
+            "phoneNumber": "+81 761-23-3688",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBmzGIBJdva8VqS97s3CMmy8AUOqf7VQGaJR-q",
+            "cid": "2416297653396368136",
+            "fid": "0x5ff85100f7bd4ec1:0x218869e9e64ceb08",
+            "placeId": "ChIJwU699wBR-F8RCOtM5ulpiCE"
+        },
+        {
+            "position": 14,
+            "title": "Ebina Neurology Clinic",
+            "address": "Japan, \u3012243-0438 Kanagawa, Ebina, Megumicho, 3\u22121 ViNA GARDENS PERCH 601-12",
+            "latitude": 35.4536033,
+            "longitude": 139.3893827,
+            "rating": 4.4,
+            "ratingCount": 199,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Diabetologist",
+                "Hospital",
+                "Internist",
+                "Medical clinic",
+                "Physical examination center"
+            ],
+            "website": "https://www.ebinou.com/?utm_source=google&utm_medium=maps&utm_campaign=meo",
+            "phoneNumber": "+81 46-236-2188",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20131\u202fPM, 2\u20139\u202fPM",
+                "Thursday": "9\u202fAM\u20131\u202fPM, 2\u20139\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM, 2\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM, 2\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20131\u202fPM",
+                "Monday": "9\u202fAM\u20131\u202fPM, 2\u20139\u202fPM",
+                "Tuesday": "9\u202fAM\u20131\u202fPM, 2\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://ssc3.doctorqube.com/ebinou-cl/index.html?_gl=1*wgg45a*_ga*MjY4MDAzMDIzLjE2NzgzNDI0NDQ.*_ga_PFK48QDQWD*MTY4Nzc2MTIzMi43NC4xLjE2ODc3NjQzMzYuNTQuMC4w"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXdsWMsnb-7Rpsvz2t5c7bA38JpZXSYSXBevW2",
+            "cid": "2904266710959160103",
+            "fid": "0x601855592ddfca2d:0x284e072fa7b67b27",
+            "placeId": "ChIJLcrfLVlVGGARJ3u2py8HTig"
+        },
+        {
+            "position": 15,
+            "title": "Neurosurgical Medical Clinic, Inc.",
+            "address": "3750 Convoy St Suite 301, San Diego, CA 92111",
+            "latitude": 32.8121481,
+            "longitude": -117.15347129999999,
+            "rating": 4.8,
+            "ratingCount": 38,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://www.sd-neurosurgeon.com/",
+            "phoneNumber": "(619) 297-4481",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.sd-neurosurgeon.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHjcLEyUotMtJtbh2zaEK719J3RHky90KnuX74",
+            "cid": "8692915710265750296",
+            "fid": "0x80d94f06ed24f481:0x78a370c80ccd7318",
+            "placeId": "ChIJgfQk7QZP2YARGHPNDMhwo3g"
+        },
+        {
+            "position": 16,
+            "title": "Kusatsutanimotonoshinkeigeka Clinic",
+            "address": "7 Chome-1-3 Ogaki, Ritto, Shiga 520-3024, Japan",
+            "latitude": 35.0216609,
+            "longitude": 135.9742929,
+            "rating": 5,
+            "ratingCount": 29,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "General hospital",
+                "Medical clinic"
+            ],
+            "website": "https://tanimoto-neurosurgery.com/",
+            "phoneNumber": "+81 77-551-5515",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u201312\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 2\u20137\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM, 2\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 2\u20137\u202fPM",
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 2\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVL5tBTbRPz0E1VaSiVWsAMA7_-ND-oD7W3K0",
+            "cid": "87154873116898109",
+            "fid": "0x600173d6424edbdb:0x135a2e53493b33d",
+            "placeId": "ChIJ29tOQtZzAWARPbOTNOWiNQE"
+        },
+        {
+            "position": 17,
+            "title": "Nishiharamachi Neurosurgical Clinic",
+            "address": "Japan, \u3012183-0046 Tokyo, Fuchu, Nishiharacho, 2 Chome\u2212\uff11\uff18\u22121 \u30de\u30c4\u30b7\u30de\u30d3\u30eb 2F",
+            "latitude": 35.6836333,
+            "longitude": 139.4590064,
+            "rating": 3.8,
+            "ratingCount": 25,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Medical clinic",
+                "Physical examination center",
+                "Urologist"
+            ],
+            "website": "http://www.nishihara-nouge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11666954784499393294",
+            "phoneNumber": "+81 42-571-9571",
+            "openingHours": {
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u201312:30\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM",
+                "Tuesday": "10\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://qr.digikar-smart.jp/df515bb8-c085-4c49-92d4-c9959908f076/reserve",
+                "https://patient.digikar-smart.jp/institutions/df515bb8-c085-4c49-92d4-c9959908f076/reserve?utm_source=digisma&utm_medium=google_map&utm_campaign=inst_df515bb8-c085-4c49-92d4-c9959908f076&rwg_token=AAiGsoaN1Lo8LjW22s5GiMvgzMEYvAU7horqCcKBoUID7cTz2f0ctvGEE35ps-NFZySVwX2iiapJiAgp2loSQw5_h4piiJmkgw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnY7MxJm180i1zoZI9h6PCLIwNWpECJFwmUwDl",
+            "cid": "16243562250819745876",
+            "fid": "0x6018e46facce2cf5:0xe16cb9ce170e3854",
+            "placeId": "ChIJ9SzOrG_kGGARVDgOF865bOE"
+        },
+        {
+            "position": 18,
+            "title": "Akiyama Neurosurgical Clinic",
+            "address": "1-1 Konanchuodori, Konan Ward, Yokohama, Kanagawa 233-0004, Japan",
+            "latitude": 35.4037453,
+            "longitude": 139.59365889999998,
+            "rating": 3.6,
+            "ratingCount": 20,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://akiyama-neurosurgical-clinic.studio.site/",
+            "phoneNumber": "+81 45-842-1838",
+            "openingHours": {
+                "Wednesday": "9\u201311:30\u202fAM, 2\u20135\u202fPM",
+                "Thursday": "9\u201311:30\u202fAM, 2\u20135\u202fPM",
+                "Friday": "9\u201311:30\u202fAM, 2\u20135\u202fPM",
+                "Saturday": "9\u201311:30\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "9\u201311:30\u202fAM, 2\u20135\u202fPM",
+                "Tuesday": "9\u201311:30\u202fAM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3jSMDYKsBZBmLG2ZRQUOH9pZNCyrarfn_t-Zc",
+            "cid": "2157029139333022496",
+            "fid": "0x60185b48cfbfdc1d:0x1def4e92e41c8320",
+            "placeId": "ChIJHdy_z0hbGGARIIMc5JJO7x0"
+        },
+        {
+            "position": 19,
+            "title": "The Oregon Clinic Neurosurgery & Spine - West",
+            "address": "9155 SW Barnes Rd # 440, Portland, OR 97225",
+            "latitude": 45.510411,
+            "longitude": -122.77011929999999,
+            "rating": 4,
+            "ratingCount": 55,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical clinic"
+            ],
+            "website": "https://www.oregonclinic.com/locations/neurosurgery-west",
+            "phoneNumber": "(503) 935-8500",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpcEe2rRuPI93uvwPqLzaTEf3w6eb9dldez-Zv",
+            "cid": "1830815491264607173",
+            "fid": "0x54950944bc784423:0x19685cfd3e1bf3c5",
+            "placeId": "ChIJI0R4vEQJlVQRxfMbPv1caBk"
+        },
+        {
+            "position": 20,
+            "title": "UW Health University Hospital Neurosurgery Clinic",
+            "address": "600 Highland Ave, Madison, WI 53792",
+            "latitude": 43.0765931,
+            "longitude": -89.4311256,
+            "rating": 4.6,
+            "ratingCount": 49,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uwhealth.org/locations/university-hospital-170/neurosurgery-clinic-47",
+            "phoneNumber": "(608) 915-0900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5oNtxkb-XfCZHzE7dwhtuCtcQAjrbIeJbFlbX",
+            "cid": "1362580182837893109",
+            "fid": "0x8807ac8cacacc2cb:0x12e8db75000a17f5",
+            "placeId": "ChIJy8KsrIysB4gR9RcKAHXb6BI"
+        }
+    ],
+    "credits": 3
+}

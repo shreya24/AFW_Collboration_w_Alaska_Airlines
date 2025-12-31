@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "MHN Services/Tricare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Health Net Federal Services LLC",
+            "address": "2025 Aerojet Rd, Rancho Cordova, CA 95742",
+            "latitude": 38.6277135,
+            "longitude": -121.2061191,
+            "rating": 1.7,
+            "ratingCount": 14,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.hnfs.com/",
+            "phoneNumber": "(844) 866-9378",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "cid": "4094709511697116636",
+            "fid": "0x809ae6433276f1fd:0x38d3549b2f1eaddc",
+            "placeId": "ChIJ_fF2MkPmmoAR3K0eL5tU0zg"
+        },
+        {
+            "position": 2,
+            "title": "Managed Health Network Inc",
+            "address": "2370 Kerner Blvd, San Rafael, CA 94901",
+            "latitude": 37.9488092,
+            "longitude": -122.4878195,
+            "rating": 2.8,
+            "ratingCount": 11,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "website": "https://www.mhn.com/",
+            "phoneNumber": "(800) 327-2133",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=frQWpJrWK6Z3LQMP2fZ-MA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=114.66558&pitch=0&thumbfov=100",
+            "cid": "17966617515233870384",
+            "fid": "0x80859bada6c2d94f:0xf9563f705ad38230",
+            "placeId": "ChIJT9nCpq2bhYARMILTWnA_Vvk"
+        },
+        {
+            "position": 3,
+            "title": "Managed Health Services",
+            "address": "429 N Pennsylvania St Suite 109, Indianapolis, IN 46204",
+            "latitude": 39.7735327,
+            "longitude": -86.15556579999999,
+            "rating": 3.9,
+            "ratingCount": 451,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "website": "http://www.mhsindiana.com/",
+            "phoneNumber": "(877) 647-4848",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN31n25bxddJ5rEls9r5FteS4J37X3cRhl06vv_",
+            "cid": "9002317824641696064",
+            "fid": "0x886b50c25994a945:0x7ceea85d7cef8140",
+            "placeId": "ChIJRamUWcJQa4gRQIHvfF2o7nw"
+        }
+    ],
+    "credits": 3
+}

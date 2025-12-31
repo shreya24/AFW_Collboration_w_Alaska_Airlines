@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Colorado Springs Osteopathic Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8251676,-104.8233002,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colorado Springs Osteopathic",
+            "address": "605 S Tejon St, Colorado Springs, CO 80903",
+            "latitude": 38.8251676,
+            "longitude": -104.82330019999999,
+            "type": "Foundation",
+            "types": [
+                "Foundation"
+            ],
+            "website": "http://www.csof.org/",
+            "phoneNumber": "(719) 635-9057",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f8I7WurltNKCampGz77qOg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=282.65158&pitch=0&thumbfov=100",
+            "cid": "8476387219424238520",
+            "fid": "0x871345233e092739:0x75a22d4428715bb8",
+            "placeId": "ChIJOScJPiNFE4cRuFtxKEQtonU"
+        }
+    ],
+    "credits": 3
+}

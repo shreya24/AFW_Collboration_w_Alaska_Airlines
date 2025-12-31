@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "Maplewood Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.0281846,-93.0336073,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Minnesota Oncology - Maplewood",
+            "address": "1580 Beam Ave, Maplewood, MN 55109",
+            "latitude": 45.0274064,
+            "longitude": -93.0334676,
+            "rating": 4.8,
+            "ratingCount": 137,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://mnoncology.com/locations/minnesota-oncology-maplewood?utm_source=local-listings&utm_medium=google&utm_campaign=rio-listings",
+            "phoneNumber": "(651) 779-7978",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-zG3kzAJlcnxtYpy8SKK5zqH5N__YKOQFaQjh0rCmvm9kEoW6foP7vjyokJBDS5iivXVcL6vJrbz6AwNyL_dAsRT6OFe5ynoUSwtwePHE7HSNvlbxFG_1OHxn0FvbM8mItY05r",
+            "cid": "1290885816875368952",
+            "fid": "0x52b2d5a1e01d31df:0x11ea25cfa07241f8",
+            "placeId": "ChIJ3zEd4KHVslIR-EFyoM8l6hE"
+        },
+        {
+            "position": 2,
+            "title": "M Health Fairview Cancer Care - Maplewood",
+            "address": "1575 Beam Ave, Maplewood, MN 55109",
+            "latitude": 45.0289627,
+            "longitude": -93.03374699999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital department"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-Cancer-Center---Maplewood",
+            "phoneNumber": "(651) 232-7970",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U9ATTsrLGBhaZ1_2Q2e5sA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=144.4837&pitch=0&thumbfov=100",
+            "cid": "4155502903992225373",
+            "fid": "0x52b2d404b9f467b3:0x39ab4fdfd78f8e5d",
+            "placeId": "ChIJs2f0uQTUslIRXY6P199Pqzk"
+        }
+    ],
+    "credits": 3
+}

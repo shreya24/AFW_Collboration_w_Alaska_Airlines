@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Mt Shasta Cardiology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.3140489,-122.314316,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mt Shasta Cardiology",
+            "address": "110 W Castle St STE 200, Mt Shasta, CA 96067",
+            "latitude": 41.314048899999996,
+            "longitude": -122.31431599999999,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "phoneNumber": "(530) 926-4067",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qZM54eFxe3qrpt6qKCfkGA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=296.73126&pitch=0&thumbfov=100",
+            "cid": "3281863988217739584",
+            "fid": "0x54cde7281377f6b9:0x2d8b85e8c2dd7940",
+            "placeId": "ChIJufZ3EyjnzVQRQHndwuiFiy0"
+        }
+    ],
+    "credits": 3
+}

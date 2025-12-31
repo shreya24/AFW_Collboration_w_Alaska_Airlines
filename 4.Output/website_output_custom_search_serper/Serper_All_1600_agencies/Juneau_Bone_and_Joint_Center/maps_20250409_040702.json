@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Juneau Bone and Joint Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3299119,-134.4710244,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Juneau Bone & Joint Center",
+            "address": "3220 Hospital Dr, Juneau, AK 99801",
+            "latitude": 58.3299119,
+            "longitude": -134.4710244,
+            "rating": 3.5,
+            "ratingCount": 49,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Nurse practitioner",
+                "Orthopedic surgeon",
+                "Physiatrist",
+                "Physical therapist",
+                "Sports medicine clinic",
+                "Sports medicine physician"
+            ],
+            "website": "http://jbjcortho.com/",
+            "phoneNumber": "(907) 364-2663",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1VFVtjGuRcog5CPcN6aj6azX8klgyurBCf3fC",
+            "cid": "6698996595408198475",
+            "fid": "0x5400e006405bf6d5:0x5cf79de924db5b4b",
+            "placeId": "ChIJ1fZbQAbgAFQRS1vbJOmd91w"
+        }
+    ],
+    "credits": 3
+}

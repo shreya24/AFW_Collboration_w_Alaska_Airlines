@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Guide Dogs of the Desert International",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9240187,-116.6023145,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Guide Dogs of the Desert",
+            "address": "60735 Dillon Rd, Whitewater, CA 92282",
+            "latitude": 33.9240187,
+            "longitude": -116.60231449999999,
+            "rating": 4.3,
+            "ratingCount": 52,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://guidedogsofthedesert.org/",
+            "phoneNumber": "(760) 329-6257",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_O91Fn6g2WFRUGjhmM-91R8XDsOmRlXtjshO-XvLIp_6c0R5fsQAttKX7eNHkk_28VlRu5IQOdu5TEK94NKRX45VlTEnbDrdUSVmmFFzl4v2rdZycheJmJxoEw3cM-DI4wjeV_",
+            "cid": "6438971751597299477",
+            "fid": "0x80db1800cb9af105:0x595bd2b164bb5715",
+            "placeId": "ChIJBfGaywAY24ARFVe7ZLHSW1k"
+        }
+    ],
+    "credits": 3
+}

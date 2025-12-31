@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Anchorage Oncology Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1946963,-149.8860255,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anchorage Radiation Oncology Center",
+            "address": "188 W Northern Lights Blvd #100, Anchorage, AK 99503",
+            "latitude": 61.1946963,
+            "longitude": -149.8860255,
+            "rating": 5,
+            "ratingCount": 53,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.anchorageradonc.com/",
+            "phoneNumber": "(907) 562-2002",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOfjxMKvReWd2Z-LwlvwaYQbfWn1Rq83u-KwovM",
+            "cid": "8891348787177640857",
+            "fid": "0x56c896451d57c9db:0x7b646a9d11d2d399",
+            "placeId": "ChIJ28lXHUWWyFYRmdPSEZ1qZHs"
+        }
+    ],
+    "credits": 3
+}

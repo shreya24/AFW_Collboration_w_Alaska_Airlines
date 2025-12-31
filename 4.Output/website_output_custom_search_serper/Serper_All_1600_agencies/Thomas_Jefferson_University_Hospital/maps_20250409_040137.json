@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Thomas Jefferson University Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.9493361,-75.1580218,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Thomas Jefferson University Hospital",
+            "address": "111 S 11th St, Philadelphia, PA 19107",
+            "latitude": 39.9493361,
+            "longitude": -75.1580218,
+            "rating": 3,
+            "ratingCount": 606,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Diagnostic center",
+                "Emergency care service",
+                "Specialized clinic",
+                "Specialized hospital"
+            ],
+            "website": "https://www.jeffersonhealth.org/locations/thomas-jefferson-university-hospital?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+            "phoneNumber": "(215) 955-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKz-hQN8cBBc-eH4TRSu2EbRZ-1toCNWS9hpXX",
+            "cid": "8538058415648513887",
+            "fid": "0x89c6c62894fe77ff:0x767d46e478439f5f",
+            "placeId": "ChIJ_3f-lCjGxokRX59DeORGfXY"
+        }
+    ],
+    "credits": 3
+}

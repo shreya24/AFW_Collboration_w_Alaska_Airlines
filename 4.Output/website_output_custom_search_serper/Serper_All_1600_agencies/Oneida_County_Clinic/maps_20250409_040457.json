@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Oneida County Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1895344,-112.2513274,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oneida County Clinic",
+            "address": "220 Bannock St # A, Malad City, ID 83252",
+            "latitude": 42.1895344,
+            "longitude": -112.2513274,
+            "rating": 2.3,
+            "ratingCount": 7,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.oneidacountyhospital.com/getpage.php?name=medical_specialist_clinic",
+            "phoneNumber": "(208) 766-2600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8t74XA6SlN1VXld80BY1UcMKHaQtR1DP4D3gb",
+            "cid": "18152680508547135259",
+            "fid": "0x875520087bcfc733:0xfbeb46bed91bf71b",
+            "placeId": "ChIJM8fPewggVYcRG_cb2b5G6_s"
+        }
+    ],
+    "credits": 3
+}

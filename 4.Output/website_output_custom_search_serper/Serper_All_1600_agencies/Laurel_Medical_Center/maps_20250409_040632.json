@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Laurel Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0851027,-76.8829678,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UM Laurel Medical Center",
+            "address": "7150 Contee Rd, Laurel, MD 20707",
+            "latitude": 39.0851027,
+            "longitude": -76.8829678,
+            "rating": 1.9,
+            "ratingCount": 255,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Community health centre",
+                "Diabetes center",
+                "Emergency room",
+                "General hospital",
+                "Medical clinic",
+                "Pulmonologist",
+                "Surgical center"
+            ],
+            "website": "https://www.umms.org/capital/locations/um-laurel-medical-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(240) 677-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3FwYgUX4GoWb3RUQtOdEBYmAjOPH9BFr9LDGF",
+            "cid": "675519953058770700",
+            "fid": "0x89b7dcdb107cd7d5:0x95fedd178c1af0c",
+            "placeId": "ChIJ1dd8ENvct4kRDK_BeNHtXwk"
+        }
+    ],
+    "credits": 3
+}

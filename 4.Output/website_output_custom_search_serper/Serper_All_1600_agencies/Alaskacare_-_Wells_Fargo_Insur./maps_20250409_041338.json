@@ -1,0 +1,55 @@
+{
+    "searchParameters": {
+        "q": "Alaskacare - Wells Fargo Insur.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.169849,-149.4491109,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AK Benefits LLC",
+            "address": "3212 Greenland Dr, Anchorage, AK 99517",
+            "latitude": 61.190725699999994,
+            "longitude": -149.91539319999998,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "phoneNumber": "(907) 276-7100",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FfFeL5NKegZeUzm247bQ3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.08948&pitch=0&thumbfov=100",
+            "cid": "16279463705741926918",
+            "fid": "0x56c897dde2f59af1:0xe1ec45fcf29ca206",
+            "placeId": "ChIJ8Zr14t2XyFYRBqKc8vxF7OE"
+        },
+        {
+            "position": 2,
+            "title": "Alaska Employee Benefit Spec",
+            "address": "425 G St, Anchorage, AK 99501",
+            "latitude": 61.217859399999995,
+            "longitude": -149.8950908,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "website": "https://drb.alaska.gov/employee/",
+            "phoneNumber": "(907) 272-9278",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H2MXCTLY8W2o2tqAmzMjqQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=90.85383&pitch=0&thumbfov=100",
+            "cid": "7020497688749008636",
+            "fid": "0x56c8bd8739d2fa8f:0x616dd173a455e6fc",
+            "placeId": "ChIJj_rSOYe9yFYR_OZVpHPRbWE"
+        }
+    ],
+    "credits": 3
+}

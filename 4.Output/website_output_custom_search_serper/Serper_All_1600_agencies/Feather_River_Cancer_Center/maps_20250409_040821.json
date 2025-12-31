@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Feather River Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7464325,-121.6398966,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health Feather River",
+            "address": "5974 Pentz Rd, Paradise, CA 95969",
+            "latitude": 39.7464325,
+            "longitude": -121.6398966,
+            "rating": 3.3,
+            "ratingCount": 147,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventisthealth.org/feather-river/",
+            "phoneNumber": "(530) 872-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB92m32_L4b4wic46UmsWT-5PQdHsSTxudZSAYtWSGczwa8mRmH0XplpjUHEN1UI4NjeWXk8lgapEyj0oY1GZCEbE2ypM6FmnfmDzIAdAkltyctRHR_IKjfVNkrR_TNM2AsIDJbm",
+            "cid": "10551924561814378398",
+            "fid": "0x809cd38f77e10827:0x926ff77b83aa579e",
+            "placeId": "ChIJJwjhd4_TnIARnleqg3v3b5I"
+        }
+    ],
+    "credits": 3
+}

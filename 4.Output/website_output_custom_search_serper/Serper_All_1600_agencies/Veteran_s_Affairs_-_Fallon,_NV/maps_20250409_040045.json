@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Veteran's Affairs - Fallon, NV",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4644842,-118.7617132,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lahontan Valley VA Clinic",
+            "address": "1020 New River Parkway STE 304, Fallon, NV 89406",
+            "latitude": 39.4644842,
+            "longitude": -118.76171319999999,
+            "rating": 3.2,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans affairs department",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/sierra-nevada-health-care/locations/lahontan-valley-va-clinic/",
+            "phoneNumber": "(775) 428-6161",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "15258306287705025334",
+            "fid": "0x809886da4dff2a01:0xd3c064ba08c46b36",
+            "placeId": "ChIJASr_TdqGmIARNmvECLpkwNM"
+        }
+    ],
+    "credits": 3
+}

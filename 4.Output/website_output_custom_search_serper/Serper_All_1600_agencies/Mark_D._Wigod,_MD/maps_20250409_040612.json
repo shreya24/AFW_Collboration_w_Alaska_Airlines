@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mark D. Wigod, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6033008,-116.3500339,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mark D. Wigod, MD, PA",
+            "address": "3630 E Louise Dr, Meridian, ID 83642",
+            "latitude": 43.6033008,
+            "longitude": -116.3500339,
+            "rating": 4.5,
+            "ratingCount": 28,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon"
+            ],
+            "website": "http://www.wigod.com/",
+            "phoneNumber": "(208) 377-9515",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuKljN161plzWuOkoXvPg3zQOUVapClNxNP5LY",
+            "cid": "15983555287556813912",
+            "fid": "0x54ae56a89e16e5ad:0xddd0fed97aa3f458",
+            "placeId": "ChIJreUWnqhWrlQRWPSjetn-0N0"
+        }
+    ],
+    "credits": 3
+}

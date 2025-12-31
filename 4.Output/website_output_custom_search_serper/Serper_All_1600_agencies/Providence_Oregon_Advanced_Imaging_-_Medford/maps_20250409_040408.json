@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Providence Oregon Advanced Imaging - Medford",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3394789,-122.8620012,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Advanced Imaging - Providence Medford Medical Center",
+            "address": "1107 Crater Lake Ave, Medford, OR 97504",
+            "latitude": 42.339478899999996,
+            "longitude": -122.8620012,
+            "rating": 2.9,
+            "ratingCount": 8,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "http://www.oaimaging.com/",
+            "phoneNumber": "(800) 462-1098",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u201311\u202fPM",
+                "Wednesday": "6:30\u202fAM\u201311\u202fPM",
+                "Thursday": "6:30\u202fAM\u201311\u202fPM",
+                "Friday": "6:30\u202fAM\u201311\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KSqtI-XZvI_DM7NR9AgPJQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=337.27393&pitch=0&thumbfov=100",
+            "cid": "2472104221578280495",
+            "fid": "0x54cf7a4c68c6190b:0x224eadb116eabe2f",
+            "placeId": "ChIJCxnGaEx6z1QRL77qFrGtTiI"
+        }
+    ],
+    "credits": 3
+}

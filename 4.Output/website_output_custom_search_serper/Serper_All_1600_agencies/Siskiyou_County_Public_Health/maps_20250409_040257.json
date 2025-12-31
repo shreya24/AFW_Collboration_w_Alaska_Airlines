@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Siskiyou County Public Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7252865,-122.6380188,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Siskiyou County Department Public Health",
+            "address": "Yreka, CA 96097",
+            "latitude": 41.725286499999996,
+            "longitude": -122.6380188,
+            "rating": 3.2,
+            "ratingCount": 5,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "website": "https://www.co.siskiyou.ca.us/publichealth",
+            "phoneNumber": "(530) 841-2134",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SHupLCd4hLUsjMNV3DXN5g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=104.3411&pitch=0&thumbfov=100",
+            "cid": "14719261763425053188",
+            "fid": "0x54ce45d0b34752eb:0xcc4552967cf0aa04",
+            "placeId": "ChIJ61JHs9BFzlQRBKrwfJZSRcw"
+        }
+    ],
+    "credits": 3
+}

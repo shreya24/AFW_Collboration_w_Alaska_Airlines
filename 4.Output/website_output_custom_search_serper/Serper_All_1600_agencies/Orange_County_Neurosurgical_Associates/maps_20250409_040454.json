@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Orange County Neurosurgical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6102913,-117.7099379,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Orange County Neurosurgical Associates",
+            "address": "23961 Calle De La Magdalena #405, Laguna Hills, CA 92653",
+            "latitude": 33.6102913,
+            "longitude": -117.7099379,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.ocneurosurgery.com/",
+            "phoneNumber": "(949) 588-5800",
+            "openingHours": {
+                "Tuesday": "1\u202fAM\u20135\u202fPM",
+                "Wednesday": "1\u202fAM\u20135\u202fPM",
+                "Thursday": "1\u202fAM\u20135\u202fPM",
+                "Friday": "1\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "1\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2acSvxgW7wbrP2zyNegIOo_Gh50nrlbMPBybs",
+            "cid": "2992023290519345491",
+            "fid": "0x80dce8ec4b417c9d:0x2985cd548f19d953",
+            "placeId": "ChIJnXxBS-zo3IARU9kZj1TNhSk"
+        }
+    ],
+    "credits": 3
+}

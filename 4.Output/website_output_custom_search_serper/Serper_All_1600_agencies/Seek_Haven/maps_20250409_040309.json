@@ -1,0 +1,54 @@
+{
+    "searchParameters": {
+        "q": "Seek Haven",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3174082,-116.0350488,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seekhaven Family Crisis",
+            "address": "81 N 300 E, Moab, UT 84532",
+            "latitude": 38.574436299999995,
+            "longitude": -109.54525849999999,
+            "rating": 3.3,
+            "ratingCount": 6,
+            "type": "Family counselor",
+            "types": [
+                "Family counselor"
+            ],
+            "website": "http://www.seekhaven.org/",
+            "phoneNumber": "(435) 259-2229",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zo9r4IyAqHv9U9AYfnZPQA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=275.96945&pitch=0&thumbfov=100",
+            "cid": "2187040986035371920",
+            "fid": "0x8747e19354aac755:0x1e59ee3079dbbf90",
+            "placeId": "ChIJVceqVJPhR4cRkL_beTDuWR4"
+        },
+        {
+            "position": 2,
+            "title": "SeekHaven",
+            "address": "44 Brookline Dr, Novato, CA 94949",
+            "latitude": 38.0603802,
+            "longitude": -122.5248391,
+            "website": "https://goseekhaven.com/contact/",
+            "phoneNumber": "(415) 449-7402",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ib1iPcDaYrfuZ_AH-uiA6g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=29.032562&pitch=0&thumbfov=100",
+            "cid": "15244590988581840467",
+            "fid": "0x8085a2b9cb5c0001:0xd38faabc1c8aa653",
+            "placeId": "ChIJAQBcy7mihYARU6aKHLyqj9M"
+        }
+    ],
+    "credits": 3
+}

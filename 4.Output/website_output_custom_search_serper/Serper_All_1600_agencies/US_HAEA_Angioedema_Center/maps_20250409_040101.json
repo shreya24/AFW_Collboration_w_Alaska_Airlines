@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "US HAEA Angioedema Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8697829,-117.2275286,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angioedema Center at UC San Diego",
+            "address": "8899 University Center Ln Suite 230, San Diego, CA 92122",
+            "latitude": 32.8697829,
+            "longitude": -117.2275286,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Immunologist"
+            ],
+            "phoneNumber": "(858) 657-5350",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uW6CVL4h_ztc8eQnLkiE6w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=115.857506&pitch=0&thumbfov=100",
+            "cid": "5707610038108932093",
+            "fid": "0x80dc06d39149a455:0x4f358116e5efc7fd",
+            "placeId": "ChIJVaRJkdMG3IAR_cfv5RaBNU8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "MultiCare Allenmore Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2418973,-122.4800536,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MultiCare Allenmore Hospital",
+            "address": "1901 S Union Ave, Tacoma, WA 98405",
+            "latitude": 47.2418973,
+            "longitude": -122.48005359999999,
+            "rating": 3.2,
+            "ratingCount": 284,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospice",
+                "Hospital"
+            ],
+            "website": "https://www.multicare.org/location/allenmore-hospital/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(253) 459-6200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJF1Omf-62-N3xGZCfB_xt3oaszs6S4pgXCkQm",
+            "cid": "6712208660564230912",
+            "fid": "0x54905539d47a5979:0x5d268e36c73b4300",
+            "placeId": "ChIJeVl61DlVkFQRAEM7xzaOJl0"
+        }
+    ],
+    "credits": 3
+}

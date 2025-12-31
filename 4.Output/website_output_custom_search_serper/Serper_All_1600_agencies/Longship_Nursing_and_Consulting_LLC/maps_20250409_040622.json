@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Longship Nursing and Consulting LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.6838495,-116.9927358,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Andrea Lewis",
+            "address": "17025 Snowmobile Ln, Eagle River, AK 995777044",
+            "latitude": 61.340743399999994,
+            "longitude": -149.5643541,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner",
+                "Nurse practitioner",
+                "Registered general nurse"
+            ],
+            "website": "https://longshipnursing.com/",
+            "phoneNumber": "(907) 694-9553",
+            "cid": "11148243107914545257",
+            "fid": "0x56c8eba1ea655555:0x9ab6840a6cf17869",
+            "placeId": "ChIJVVVl6qHryFYRaXjxbAqEtpo"
+        },
+        {
+            "position": 2,
+            "title": "Longship",
+            "address": "2376 Sir Barton Way, Lexington, KY 40509",
+            "latitude": 38.026955699999995,
+            "longitude": -84.4211176,
+            "rating": 4,
+            "ratingCount": 792,
+            "type": "Logistics service",
+            "types": [
+                "Logistics service"
+            ],
+            "website": "http://longship.us/",
+            "phoneNumber": "(855) 440-2828",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_eP_Tlhxms9gvq-4cmWxzoYM6684YHagquoc-",
+            "cid": "18171157964657805735",
+            "fid": "0x884244441dda0e45:0xfc2cebe4d8f049a7",
+            "placeId": "ChIJRQ7aHUREQogRp0nw2OTrLPw"
+        }
+    ],
+    "credits": 3
+}

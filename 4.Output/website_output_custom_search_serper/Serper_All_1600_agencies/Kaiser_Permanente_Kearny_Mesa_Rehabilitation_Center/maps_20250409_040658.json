@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Kearny Mesa Rehabilitation Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8229146,-117.1251631,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Kearny Mesa Rehabilitation Center",
+            "address": "4510 Viewridge Ave, San Diego, CA 92123",
+            "latitude": 32.8229146,
+            "longitude": -117.1251631,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Physical therapist"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkCoWs7ctFLjH9VVVS5ZytRHlYUlTJavH3tmuq",
+            "cid": "8278932451044720208",
+            "fid": "0x80dbfe34aff9fa69:0x72e4ad3357f97e50",
+            "placeId": "ChIJafr5rzT-24ARUH75VzOt5HI"
+        }
+    ],
+    "credits": 3
+}

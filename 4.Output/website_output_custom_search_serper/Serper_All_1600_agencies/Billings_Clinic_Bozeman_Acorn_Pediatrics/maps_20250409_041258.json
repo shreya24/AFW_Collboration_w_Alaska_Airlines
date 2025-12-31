@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Billings Clinic Bozeman Acorn Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7212184,-111.0784809,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Billings Clinic Bozeman Pediatrics",
+            "address": "3905 Wellness Wy, Bozeman, MT 59718",
+            "latitude": 45.7212184,
+            "longitude": -111.07848089999999,
+            "rating": 4.4,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatrician"
+            ],
+            "website": "https://www.billingsclinic.com/billings-clinic-bozeman/pediatrics/?utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=126L",
+            "phoneNumber": "(406) 898-1950",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP2jrb8K7cOd5inv8A1eht2DGlxfwnPNhOy_IRe",
+            "cid": "4967722404372443850",
+            "fid": "0x5345451cf8ba760b:0x44f0e534e75e72ca",
+            "placeId": "ChIJC3a6-BxFRVMRynJe5zTl8EQ"
+        }
+    ],
+    "credits": 3
+}

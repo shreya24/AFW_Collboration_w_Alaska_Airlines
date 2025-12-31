@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Northwest Children's Heart Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.1850598,-123.26058,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Childrens Heart Care",
+            "address": "1911 Cooks Hill Rd, Centralia, WA 98531",
+            "latitude": 46.7143498,
+            "longitude": -122.9860353,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatric cardiologist"
+            ],
+            "phoneNumber": "(360) 623-1104",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Dqe6uvuulqHP9MoTlpthg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=339.995&pitch=0&thumbfov=100",
+            "cid": "12495882558548980345",
+            "fid": "0x549160735b6cc25b:0xad6a4afb214fb279",
+            "placeId": "ChIJW8JsW3NgkVQRebJPIftKaq0"
+        },
+        {
+            "position": 2,
+            "title": "Northwest Congenital Heart Care",
+            "address": "1780 NW Myhre Rd # G220, Silverdale, WA 98383",
+            "latitude": 47.655769799999995,
+            "longitude": -122.67524789999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.nwchc.com/",
+            "phoneNumber": "(253) 396-4868",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "cid": "18230370135457756603",
+            "fid": "0x54903ae8d025e66f:0xfcff490cafd975bb",
+            "placeId": "ChIJb-Yl0Og6kFQRu3XZrwxJ__w"
+        },
+        {
+            "position": 3,
+            "title": "Northwest Childrens Heart Care",
+            "address": "1100 Basich Blvd, Aberdeen, WA 98520",
+            "latitude": 46.981736,
+            "longitude": -123.84591209999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatric cardiologist"
+            ],
+            "phoneNumber": "(253) 396-4868",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7M2EFyxev0i8yDOluhk1kg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=154.45537&pitch=0&thumbfov=100",
+            "cid": "6471155102383308265",
+            "fid": "0x5492398676c41479:0x59ce2947ac037de9",
+            "placeId": "ChIJeRTEdoY5klQR6X0DrEcpzlk"
+        }
+    ],
+    "credits": 3
+}

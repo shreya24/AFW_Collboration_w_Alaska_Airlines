@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Salvation Army - Clitheroe Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2036994,-149.8112045,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clitheroe Center- The Salvation Army",
+            "address": "3600 E 20th Ave, Anchorage, AK 99508",
+            "latitude": 61.2017489,
+            "longitude": -149.8146818,
+            "rating": 3.8,
+            "ratingCount": 32,
+            "priceLevel": "$",
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Social services organization"
+            ],
+            "website": "https://clitheroe.salvationarmy.org/",
+            "phoneNumber": "(907) 276-2898",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_pbf_mtCH7eHCilwRZPRlS6mE9WDJsHq-Ktp8IGoJyYYqb6DQeUs5zGyWGKQgvfmSQ_CdnpoPKhdZRvXIAWXk0t76c3ddGMsqzjQZ5cSd6UYA313ENvTK4e1y3MB2KiEN1uWTA",
+            "cid": "7817183854863441195",
+            "fid": "0x56c8963abc560b47:0x6c7c374c7d0ddd2b",
+            "placeId": "ChIJRwtWvDqWyFYRK90NfUw3fGw"
+        },
+        {
+            "position": 2,
+            "title": "Salvation Army Clitheroe Center",
+            "address": "1709 Bragaw St # B, Anchorage, AK 99508",
+            "latitude": 61.2056499,
+            "longitude": -149.8077272,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center"
+            ],
+            "website": "https://clitheroe.salvationarmy.org/",
+            "phoneNumber": "(907) 243-1181",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dt_CoM5EcrxETXwn756vUQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=79.687584&pitch=0&thumbfov=100",
+            "cid": "7681651375507331803",
+            "fid": "0x56c89658feb36153:0x6a9ab53a15815adb",
+            "placeId": "ChIJU2Gz_liWyFYR21qBFTq1mmo"
+        }
+    ],
+    "credits": 3
+}

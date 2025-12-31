@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Women's Center High Desert",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6210226,-117.669734,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Womens Center High Desert",
+            "address": "134 S China Lake Blvd, Ridgecrest, CA 93555",
+            "latitude": 35.621022599999996,
+            "longitude": -117.66973399999999,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Women's shelter",
+            "types": [
+                "Women's shelter",
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.wc-hdinc.org/",
+            "phoneNumber": "(760) 371-1969",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsP2NyhKiZdxtpyu52C3lg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=98.31488&pitch=0&thumbfov=100",
+            "cid": "13199259107835747538",
+            "fid": "0x80c16cc7273c50e5:0xb72d3039d4e39cd2",
+            "placeId": "ChIJ5VA8J8dswYAR0pzj1DkwLbc"
+        }
+    ],
+    "credits": 3
+}

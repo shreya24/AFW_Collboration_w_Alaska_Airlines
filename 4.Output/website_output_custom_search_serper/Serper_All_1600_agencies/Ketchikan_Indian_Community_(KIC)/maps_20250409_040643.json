@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "Ketchikan Indian Community (KIC)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3461238,-131.6609849,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ketchikan Indian Community \u2014 Education & Training and Elders' Cafe",
+            "address": "615 Stedman St, Ketchikan, AK 99901",
+            "latitude": 55.339585799999995,
+            "longitude": -131.63712139999998,
+            "rating": 4.3,
+            "ratingCount": 8,
+            "type": "Education center",
+            "types": [
+                "Education center",
+                "Cafe",
+                "Educational institution",
+                "Property maintenance",
+                "Training centre"
+            ],
+            "phoneNumber": "(907) 228-9365",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObliJcp6ogvDoV1n59X_ve8ERUD21-Aalc6QV6",
+            "cid": "13977498651878196317",
+            "fid": "0x540c251b4fd4bafd:0xc1fa0cf7c9b3845d",
+            "placeId": "ChIJ_brUTxslDFQRXYSzyfcM-sE"
+        },
+        {
+            "position": 2,
+            "title": "Ketchikan Indian Community",
+            "address": "2960 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.352661899999994,
+            "longitude": -131.6848485,
+            "rating": 4.3,
+            "ratingCount": 8,
+            "type": "Tribal headquarters",
+            "types": [
+                "Tribal headquarters",
+                "Dental clinic",
+                "Government office",
+                "Laboratory",
+                "Medical clinic",
+                "Pharmacy",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.kictribe.org/",
+            "phoneNumber": "(907) 228-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_RnAZmJqqmSF16EVxH5Y2ogXj5laY9YWZEFv4",
+            "cid": "358759266822415516",
+            "fid": "0x540c25bbbfa7c8b3:0x4fa91a702d4649c",
+            "placeId": "ChIJs8inv7slDFQRnGTUAqeR-gQ"
+        }
+    ],
+    "credits": 3
+}

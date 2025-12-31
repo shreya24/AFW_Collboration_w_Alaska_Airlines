@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Sierra Health Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9112732,-96.8858286,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra Healthcare Network Llc",
+            "address": "2727 Lyndon B Johnson Fwy #326, Dallas, TX 75234",
+            "latitude": 32.9112732,
+            "longitude": -96.8858286,
+            "type": "Health",
+            "types": [
+                "Health",
+                "Family practice physician",
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(214) 935-5777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=usZ72ioWMlwkdzniNLLkkw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=182.87468&pitch=0&thumbfov=100",
+            "cid": "17259446616749839958",
+            "fid": "0x864c279886300001:0xef85df40e3311656",
+            "placeId": "ChIJAQAwhpgnTIYRVhYx40Dfhe8"
+        }
+    ],
+    "credits": 3
+}

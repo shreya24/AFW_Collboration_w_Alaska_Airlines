@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Pueblo Pulmonary Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2819218,-104.6109636,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pueblo Pulmonary Associates",
+            "address": "1600 N Grand Ave #140, Pueblo, CO 81003",
+            "latitude": 38.2819218,
+            "longitude": -104.61096359999999,
+            "rating": 2.2,
+            "ratingCount": 44,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://www.pueblopulmonary.com/",
+            "phoneNumber": "(719) 564-1542",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oO3tCzy2I9eqNXc6q6pqRA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=180.63052&pitch=0&thumbfov=100",
+            "cid": "14985644814056910409",
+            "fid": "0x8713a2d32b044301:0xcff7b48fa0096e49",
+            "placeId": "ChIJAUMEK9OiE4cRSW4JoI-0988"
+        }
+    ],
+    "credits": 3
+}

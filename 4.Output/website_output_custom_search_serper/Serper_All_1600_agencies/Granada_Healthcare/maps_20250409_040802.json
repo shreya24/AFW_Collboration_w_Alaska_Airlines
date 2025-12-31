@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Granada Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7810066,-124.1353769,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Granada Rehabilitation & Wellness Center",
+            "address": "2885 Harris St, Eureka, CA 95503",
+            "latitude": 40.7810066,
+            "longitude": -124.1353769,
+            "rating": 3.6,
+            "ratingCount": 43,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://granadarehabwc.com/",
+            "phoneNumber": "(707) 443-1627",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7gaeVYgyulK_u24mpvEJ2Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=3.406638&pitch=0&thumbfov=100",
+            "cid": "8242729513694222692",
+            "fid": "0x54d3ffba83bd282b:0x72640ed2235f5964",
+            "placeId": "ChIJKyi9g7r_01QRZFlfI9IOZHI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "The Palestine Children's Relief Fund",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9245413,-96.4565223,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Relief International",
+            "address": "505 E Boydstun Ave #6, Rockwall, TX 75087",
+            "latitude": 32.9245413,
+            "longitude": -96.45652229999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.childrensrelief.org/",
+            "phoneNumber": "(800) 570-2217",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ABbBAKUq9Tum25WLiZb-pw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=8.374416&pitch=0&thumbfov=100",
+            "cid": "12826207287086896669",
+            "fid": "0x864c01ce1108b0b3:0xb1ffd7924a57561d",
+            "placeId": "ChIJs7AIEc4BTIYRHVZXSpLX_7E"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "St. Anthony Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.0161654,-106.6042962,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Anthony's Pediatrics",
+            "address": "1265 Anthony Dr, Anthony, NM 88021",
+            "latitude": 32.0161654,
+            "longitude": -106.6042962,
+            "rating": 3.5,
+            "ratingCount": 13,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic"
+            ],
+            "phoneNumber": "(575) 882-2956",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNopjp8B_QLoI962z0CoXyMx_rMBU1ZSD5vFyM6",
+            "cid": "9011958469570965078",
+            "fid": "0x86de011fc5067f29:0x7d10e87b0d59ae56",
+            "placeId": "ChIJKX8GxR8B3oYRVq5ZDXvoEH0"
+        }
+    ],
+    "credits": 3
+}

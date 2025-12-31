@@ -1,0 +1,623 @@
+{
+    "searchParameters": {
+        "q": "St. Joseph Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2606423,-98.1857215,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Joseph Medical Center",
+            "address": "1401 St Joseph Pkwy, Houston, TX 77002",
+            "latitude": 29.748275999999997,
+            "longitude": -95.3660561,
+            "rating": 4,
+            "ratingCount": 1836,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sjmctx.org/",
+            "phoneNumber": "(713) 757-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.steward.org/physician-appointment-request-form?physician=St.%20Joseph%20Medical%20Center"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMbD1uD8nev6kK2pCUVEhe20k4ZcppWPxOWiSxY",
+            "cid": "3973618259673318845",
+            "fid": "0x8640bf16441c2297:0x372520c108d585bd",
+            "placeId": "ChIJlyIcRBa_QIYRvYXVCMEgJTc"
+        },
+        {
+            "position": 2,
+            "title": "St. Joseph Medical Center",
+            "address": "1717 S J St, Tacoma, WA 98405",
+            "latitude": 47.245494099999995,
+            "longitude": -122.4479997,
+            "rating": 4.2,
+            "ratingCount": 2295,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Family practice physician",
+                "Infectious disease physician"
+            ],
+            "website": "https://www.vmfh.org/our-hospitals/st-joseph-medical-center",
+            "phoneNumber": "(253) 426-4101",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-OSLYu6N-l2IxSyrBV9E1K6nyMMysTuK_Pizf",
+            "cid": "1086247563015510942",
+            "fid": "0x5490557261dfd6f1:0xf13206743ac5b9e",
+            "placeId": "ChIJ8dbfYXJVkFQRnlusQ2cgEw8"
+        },
+        {
+            "position": 3,
+            "title": "St. Joseph Medical Center",
+            "address": "1000 Carondelet Dr, Kansas City, MO 64114",
+            "latitude": 38.936776099999996,
+            "longitude": -94.6044651,
+            "rating": 4.3,
+            "ratingCount": 1254,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://stjosephkc.com/",
+            "phoneNumber": "(816) 942-4400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOB-lgmVQiM8f7G82IzWYcwAgWEN9wljESQCk5v",
+            "cid": "7339372022043256229",
+            "fid": "0x87c0e8552efcd08f:0x65daaff7e85425a5",
+            "placeId": "ChIJj9D8LlXowIcRpSVU6Pev2mU"
+        },
+        {
+            "position": 4,
+            "title": "University of Maryland St. Joseph Medical Center",
+            "address": "7601 Osler Dr, Towson, MD 21204",
+            "latitude": 39.3873256,
+            "longitude": -76.6111596,
+            "rating": 3.7,
+            "ratingCount": 303,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.umms.org/sjmc/locations/um-st-joseph-medical-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(410) 337-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0OaX9r7_sQYdVbCQN7Zd4w_r-b5KMFMyBH9A3",
+            "cid": "16022781256503827276",
+            "fid": "0x89c80f963f6061c3:0xde5c5aa913b29b4c",
+            "placeId": "ChIJw2FgP5YPyIkRTJuyE6laXN4"
+        },
+        {
+            "position": 5,
+            "title": "St. Joseph's University Medical Center",
+            "address": "703 Main St, Paterson, NJ 07503",
+            "latitude": 40.9027672,
+            "longitude": -74.1656275,
+            "rating": 2.5,
+            "ratingCount": 978,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://stjosephshealth.org/",
+            "phoneNumber": "(973) 754-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvNSuO7Eu5YXJ09BlYS0VFXsluVBziDMArDGtp",
+            "cid": "14077924109247299327",
+            "fid": "0x89c2fc2bdda7d94f:0xc35ed563aa97beff",
+            "placeId": "ChIJT9mn3Sv8wokR_76XqmPVXsM"
+        },
+        {
+            "position": 6,
+            "title": "Providence Saint Joseph Medical Center",
+            "address": "501 S Buena Vista St, Burbank, CA 91505",
+            "latitude": 34.1560974,
+            "longitude": -118.3287263,
+            "rating": 3.1,
+            "ratingCount": 609,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/socal/saint-joseph-medical-center?Is=location&y_source=1_OTU3NTczMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(818) 843-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://california.providence.org/saint-joseph/#llaid=6017sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPB2MsXCKdmYbJItToJvzjvsQYODt7paVsKGWPq",
+            "cid": "17779095136853404730",
+            "fid": "0x80c2bfc3893aafa3:0xf6bc08d44c05ac3a",
+            "placeId": "ChIJo686icO_woAROqwFTNQIvPY"
+        },
+        {
+            "position": 7,
+            "title": "St. Joseph's Hospital and Medical Center",
+            "address": "350 W Thomas Rd, Phoenix, AZ 85013",
+            "latitude": 33.4820196,
+            "longitude": -112.0790595,
+            "rating": 4.1,
+            "ratingCount": 2142,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/st-joseph's-hospital-and-medical-center",
+            "phoneNumber": "(602) 406-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPSg_CsDGUAiNZSKwCVio9sUOk-gHv4xKTMlLWj",
+            "cid": "16691754161655818328",
+            "fid": "0x872b12591826f565:0xe7a505f92ba4a858",
+            "placeId": "ChIJZfUmGFkSK4cRWKikK_kFpec"
+        },
+        {
+            "position": 8,
+            "title": "Penn State Health St. Joseph Medical Center",
+            "address": "2500 Bernville Rd, Reading, PA 19605",
+            "latitude": 40.3754722,
+            "longitude": -75.9784176,
+            "rating": 2.8,
+            "ratingCount": 431,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic",
+                "Physician assistant"
+            ],
+            "website": "https://www.pennstatehealth.org/locations/st-joseph?id=28&?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(610) 378-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.pennstatehealth.org/locations/st-joseph?id=28&?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNd26QBwhLlnVZ0aNL-kdp8qPNpDsXwD0jpsxvD",
+            "cid": "8413170880738100129",
+            "fid": "0x89c6768ee5cd43d3:0x74c19657550e03a1",
+            "placeId": "ChIJ00PN5Y52xokRoQMOVVeWwXQ"
+        },
+        {
+            "position": 9,
+            "title": "Saint Joseph's Medical Center",
+            "address": "127 S Broadway, Yonkers, NY 10701",
+            "latitude": 40.9295654,
+            "longitude": -73.8975296,
+            "rating": 2.7,
+            "ratingCount": 297,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "General hospital",
+                "Obstetrician-gynecologist",
+                "Hospital",
+                "Nurse practitioner",
+                "Nursing home",
+                "Pathologist",
+                "Pediatrician",
+                "Psychiatrist",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "http://www.saintjosephs.org/",
+            "phoneNumber": "(914) 378-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/saint-josephs-medical-practice-pc-106170?LocIdent=256020&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_tTzi_FTEt06Y0WxoAJqEPh-lo_MVoiR8JA-Um8jj_xz3TKmh-entity&rwg_token=AAiGsoa37FgF2v_L_ekTbEio8hdV15PZVc0H_0qiYKQ3P2hgdClww3uBgpSdx4gBxaWsba_qfIFpX9J7wX8St_hBERQelIk0Ag%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRNthy42VITzb5ktIVCOL4bQRYmwg5crQLxTmn",
+            "cid": "13974307327506681908",
+            "fid": "0x89c2f265696d97ef:0xc1eeb679ae2c9034",
+            "placeId": "ChIJ75dtaWXywokRNJAsrnm27sE"
+        },
+        {
+            "position": 10,
+            "title": "Dignity Health - St. Joseph's Medical Center",
+            "address": "1800 N California St, Stockton, CA 95204",
+            "latitude": 37.9701328,
+            "longitude": -121.28855349999999,
+            "rating": 4,
+            "ratingCount": 2169,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-st-josephs-medical-center",
+            "phoneNumber": "(209) 943-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORtXTcs_TgbKnyEtgm1n-TnCpihLoLLdQAjHfP",
+            "cid": "14530416190174753584",
+            "fid": "0x80900d6862c39fe1:0xc9a6688a1df37330",
+            "placeId": "ChIJ4Z_DYmgNkIARMHPzHYpopsk"
+        },
+        {
+            "position": 11,
+            "title": "St. Joseph's Health Centre",
+            "address": "30 The Queensway, Toronto, ON M6R 1B5, Canada",
+            "latitude": 43.6401647,
+            "longitude": -79.4500637,
+            "rating": 3.1,
+            "ratingCount": 1242,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://unityhealth.to/",
+            "phoneNumber": "+1 416-530-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBTrdH-tQxGomdSG59Imsg5VuUa3fGoCpc9QQL",
+            "cid": "10346908521899417429",
+            "fid": "0x882b35c9a4194d6b:0x8f979a7afb46df55",
+            "placeId": "ChIJa00ZpMk1K4gRVd9G-3qal48"
+        },
+        {
+            "position": 12,
+            "title": "St. Joseph Regional Medical Center",
+            "address": "415 6th St, Lewiston, ID 83501",
+            "latitude": 46.4167274,
+            "longitude": -117.0244388,
+            "rating": 3.8,
+            "ratingCount": 387,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center"
+            ],
+            "website": "https://www.sjrmc.org/",
+            "phoneNumber": "(208) 743-2511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_StQTwrCFTe4DP8YpG_SbJpoMh4hkYPN99GW5",
+            "cid": "1947026430258929968",
+            "fid": "0x54a0354c85b3c007:0x1b053a38f7e16130",
+            "placeId": "ChIJB8CzhUw1oFQRMGHh9zg6BRs"
+        },
+        {
+            "position": 13,
+            "title": "Saint Joseph Health System",
+            "address": "5215 Holy Cross Pkwy, Mishawaka, IN 46545",
+            "latitude": 41.7067895,
+            "longitude": -86.1742222,
+            "rating": 2.7,
+            "ratingCount": 408,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Internist",
+                "Neonatal physician",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.sjmed.com/",
+            "phoneNumber": "(574) 335-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrR3KhC4JxkMs4H6f_NDE-HYcaLLsqW60C1HCd",
+            "cid": "10827304285558671742",
+            "fid": "0x8816cd6bffffffff:0x96424fe1d7ca097e",
+            "placeId": "ChIJ_____2vNFogRfgnK1-FPQpY"
+        },
+        {
+            "position": 14,
+            "title": "UM St. Joseph Medical Center Emergency Department",
+            "address": "7601 Osler Dr, Towson, MD 21204",
+            "latitude": 39.388477,
+            "longitude": -76.61163119999999,
+            "rating": 2.2,
+            "ratingCount": 257,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.umms.org/sjmc/locations/emergency-department?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(410) 337-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN27-NDa34meWD2jC08j6C7i11YD8OkEvhBVZmc",
+            "cid": "9081489653090721208",
+            "fid": "0x89c80f966a4194d7:0x7e07eeb943db9db8",
+            "placeId": "ChIJ15RBapYPyIkRuJ3bQ7nuB34"
+        },
+        {
+            "position": 15,
+            "title": "Providence St. Joseph Medical Center",
+            "address": "6 13th Ave E, Polson, MT 59860",
+            "latitude": 47.682241999999995,
+            "longitude": -114.1623635,
+            "rating": 3,
+            "ratingCount": 72,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/mt/st-joseph-medical-center?ls=location&y_source=1_OTU3NjA2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(406) 883-8400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtkpBNhmM6VW0SG4ImcKtypRBhOsF9PVyBh6LO",
+            "cid": "10781834514032723146",
+            "fid": "0x536773ec490b85f9:0x95a0c55dabf784ca",
+            "placeId": "ChIJ-YULSexzZ1MRyoT3q13FoJU"
+        },
+        {
+            "position": 16,
+            "title": "St. Joseph's Health Hospital",
+            "address": "301 Prospect Ave, Syracuse, NY 13203",
+            "latitude": 43.0559034,
+            "longitude": -76.1493326,
+            "rating": 2.6,
+            "ratingCount": 423,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.sjhsyr.org/",
+            "phoneNumber": "(315) 448-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmWYeWXSlNRryS3K7Ae19pzebgk7-Ieh-b9rxU",
+            "cid": "7860111365534161918",
+            "fid": "0x89d9f3b14b6e5265:0x6d14b9a46dac9bfe",
+            "placeId": "ChIJZVJuS7Hz2YkR_pusbaS5FG0"
+        },
+        {
+            "position": 17,
+            "title": "PeaceHealth St. Joseph Medical Center",
+            "address": "2901 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.7730086,
+            "longitude": -122.4739134,
+            "rating": 2.5,
+            "ratingCount": 429,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-st-joseph-medical-center?utm_source=gbp&utm_medium=organic&utm_content=BELL-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 734-5400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNIXH0McVTQ-4qCUfykvdTMyY4L8ACJMua2P4Ef",
+            "cid": "7587223542453861314",
+            "fid": "0x5485a37bde4011c3:0x694b3b9cef717bc2",
+            "placeId": "ChIJwxFA3nujhVQRwntx75w7S2k"
+        },
+        {
+            "position": 18,
+            "title": "Saint Joseph Plymouth Medical Center",
+            "address": "1915 Lake Ave, Plymouth, IN 46563",
+            "latitude": 41.3336239,
+            "longitude": -86.3314102,
+            "rating": 2.7,
+            "ratingCount": 123,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sjmed.com/",
+            "phoneNumber": "(574) 948-4911",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMl4EagMIWoLR9dcaY-MD1OHEgVfIjAUoDk0wig",
+            "cid": "3983334006844435732",
+            "fid": "0x881153d758706d8b:0x3747a52cb3b22d14",
+            "placeId": "ChIJi21wWNdTEYgRFC2ysyylRzc"
+        },
+        {
+            "position": 19,
+            "title": "St. Joseph Health Regional Hospital - Bryan, TX",
+            "address": "2801 Franciscan Dr, Bryan, TX 77802",
+            "latitude": 30.6557948,
+            "longitude": -96.34602819999999,
+            "rating": 4.5,
+            "ratingCount": 2909,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency care service",
+                "Emergency room",
+                "Internist",
+                "Medical laboratory",
+                "Neurosurgeon",
+                "Nursing home",
+                "Orthopedic surgeon",
+                "Pain management physician",
+                "Surgical center"
+            ],
+            "website": "https://stjoseph.stlukeshealth.org/locations/chi-st-joseph-health-regional-hospital?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=CHIStJosephRegionalHealthCareCenter",
+            "phoneNumber": "(979) 776-3777",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNO7w0phM2UcAL_GHrzHtyZglBeR_FLLdePuMjH",
+            "cid": "5668787061942211286",
+            "fid": "0x8646816127a6fce1:0x4eab93cc5e6552d6",
+            "placeId": "ChIJ4fymJ2GBRoYR1lJlXsyTq04"
+        },
+        {
+            "position": 20,
+            "title": "Saint Joseph Medical Center - Joliet",
+            "address": "333 Madison St, Joliet, IL 60435",
+            "latitude": 41.527194699999995,
+            "longitude": -88.1361294,
+            "rating": 2.5,
+            "ratingCount": 1020,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://saintjosephmedicalcenter.com/",
+            "phoneNumber": "(815) 725-7133",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqTziPdah8TNHb6XCRm5zXEDNLv2k4kZ22TVmH",
+            "cid": "3739461338484008487",
+            "fid": "0x880e61bda58cb7e7:0x33e53c465ba56627",
+            "placeId": "ChIJ57eMpb1hDogRJ2alW0Y85TM"
+        }
+    ],
+    "credits": 3
+}

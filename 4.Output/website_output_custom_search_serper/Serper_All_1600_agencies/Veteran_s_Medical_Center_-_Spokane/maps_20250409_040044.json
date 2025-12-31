@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "Veteran's Medical Center - Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7026122,-117.4770532,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Va Medical Center",
+            "address": "N Assembly St, Spokane, WA 99205",
+            "latitude": 47.7023516,
+            "longitude": -117.47756629999999,
+            "rating": 4.1,
+            "ratingCount": 14,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.va.gov/spokane-health-care/contact-us/",
+            "phoneNumber": "(509) 434-7000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Kbi-4zQmLI_8v49B-VHe1BNByTDRFpCivvdE4hskWhdvRCM5fHTTJ--DdLV0Dpd1gl9NTaTSde1CaQ9Y7bVUY-bXHb274jkzRxXUBOwtOgvpwj0JKqp53G1cBsEWwXMlC1vwVtg",
+            "cid": "3516918202998808573",
+            "fid": "0x549e1985b1d722f7:0x30ce9a78e1d95ffd",
+            "placeId": "ChIJ9yLXsYUZnlQR_V_Z4XiazjA"
+        },
+        {
+            "position": 2,
+            "title": "Mann-Grandstaff VA Medical Center",
+            "address": "4815 N Assembly St, Spokane, WA 99205",
+            "latitude": 47.7027274,
+            "longitude": -117.47654019999999,
+            "rating": 3.7,
+            "ratingCount": 277,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/spokane-health-care",
+            "phoneNumber": "(509) 434-7000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-71Z20kM8VyjCNXC2d6vOlKBi-2soXWVwGziC9j4CGizwb1RluZqWpz4rvpTJmRDu_-UgHuEa2BkgQgRlW7gCmMvioEF0ibZcSE1jLWDKtYOtEv7Q5Vj-0oUSXoKfeQE6dmr5qjA",
+            "cid": "1277442455378263321",
+            "fid": "0x549e1985c08d6a53:0x11ba63251dd2fd19",
+            "placeId": "ChIJU2qNwIUZnlQRGf3SHSVjuhE"
+        },
+        {
+            "position": 3,
+            "title": "Spokane VA Medical Center - Veterans Health Adm-Finnce Office",
+            "address": "4815 N Assembly St, Spokane, WA 99205",
+            "latitude": 47.702872799999994,
+            "longitude": -117.47725659999999,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Financial consultant",
+            "types": [
+                "Financial consultant",
+                "Hospital department"
+            ],
+            "website": "https://www.va.gov/health/",
+            "phoneNumber": "(509) 434-7365",
+            "cid": "8532728610851372671",
+            "fid": "0x549e19843b0cb617:0x766a5776969bbe7f",
+            "placeId": "ChIJF7YMO4QZnlQRf76blnZXanY"
+        }
+    ],
+    "credits": 3
+}

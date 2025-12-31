@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "University of Texas SW Medical Ctr.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8157389,-96.8448134,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UT Southwestern Medical Center",
+            "address": "5323 Harry Hines Blvd, Dallas, TX 75390",
+            "latitude": 32.8157389,
+            "longitude": -96.84481339999999,
+            "rating": 3.1,
+            "ratingCount": 734,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical school"
+            ],
+            "website": "https://www.utswmed.org/",
+            "phoneNumber": "(214) 648-3111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9fRfquVy1wzq3jmErXvoy8NZRS9DRlcWXVtf3aG6nKi_S0yEV39vMPDs6Nuaew1loskT1tmnA4TbqtpiSgwPSx3zlhinA_WtycAS38jhzrtwO09kt8922PO4Do0Os5ol0QPCd-Ew",
+            "cid": "3342772861670659339",
+            "fid": "0x864e9c04b088e599:0x2e63ea34f8b2150b",
+            "placeId": "ChIJmeWIsAScToYRCxWy-DTqYy4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Freedom Arthritis & Osteoporosis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4116377,-118.5034286,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Freedom Arthritis & Osteoporosis Center",
+            "address": "21060 Centre Pointe Pkwy, Santa Clarita, CA 91350",
+            "latitude": 34.4116377,
+            "longitude": -118.50342859999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Rheumatologist"
+            ],
+            "phoneNumber": "(661) 254-1202",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnXfK8k_1A8Su2963lV3KOkhV7FOhNyq8O7sDI",
+            "cid": "1444172201895081173",
+            "fid": "0x80c2873e8537cbff:0x140abaf7507334d5",
+            "placeId": "ChIJ_8s3hT6HwoAR1TRzUPe6ChQ"
+        }
+    ],
+    "credits": 3
+}

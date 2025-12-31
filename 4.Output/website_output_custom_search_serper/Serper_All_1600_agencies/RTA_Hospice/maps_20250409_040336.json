@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "RTA Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.9145582,-122.9844597,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Riverside Home Health Care & Hospice",
+            "address": "402 SE G St, Grants Pass, OR 97526",
+            "latitude": 42.437938599999995,
+            "longitude": -123.32277669999999,
+            "rating": 4.9,
+            "ratingCount": 192,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Hospice",
+                "Occupational therapist",
+                "Pain management physician",
+                "Physical therapist",
+                "Speech pathologist"
+            ],
+            "website": "http://riversidehh.com/",
+            "phoneNumber": "(541) 476-1583",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHNNhbY8GqKft-gcjty4XzFUEetMG7RgVxisdL",
+            "cid": "14191042174278259910",
+            "fid": "0x54c57a2fff70c01f:0xc4f0b5ab8e7154c6",
+            "placeId": "ChIJH8Bw_y96xVQRxlRxjqu18MQ"
+        },
+        {
+            "position": 2,
+            "title": "Royal Hospice Care - Oregon Office",
+            "address": "18615 Willamette Dr #100, West Linn, OR 97068",
+            "latitude": 45.391177899999995,
+            "longitude": -122.64614279999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://royalhospice.com/",
+            "phoneNumber": "(503) 406-2256",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPOSHsH_BdgBP5Qehl8oQkBoglNXyYZ4szYeuZY",
+            "cid": "6516483456715408290",
+            "fid": "0x5495735e7dbdbb03:0x5a6f332d963b43a2",
+            "placeId": "ChIJA7u9fV5zlVQRokM7li0zb1o"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "PMS Catron County Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7133279,-108.7607109,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Catron County Medical Clinic",
+            "address": "1 Foster Dr, Reserve, NM 87830",
+            "latitude": 33.713256099999995,
+            "longitude": -108.76058979999999,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dentist",
+                "Family practice physician",
+                "Mental health clinic"
+            ],
+            "website": "https://www.pmsnm.org/locations/catron-county-medical-center/",
+            "phoneNumber": "(575) 533-6456",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7rU9SY9iQF_Clu0ZVJLSizi7wOX891xPs00j8",
+            "cid": "8934873394455767124",
+            "fid": "0x872700554fea4ed5:0x7bff0c03659fe854",
+            "placeId": "ChIJ1U7qT1UAJ4cRVOifZQMM_3s"
+        },
+        {
+            "position": 2,
+            "title": "Catron County EMS",
+            "address": "1 Foster Dr, Reserve, NM 87830",
+            "latitude": 33.713399599999995,
+            "longitude": -108.760832,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "cid": "17091184929812540117",
+            "fid": "0x87270100411757fb:0xed30162403fc6ad5",
+            "placeId": "ChIJ-1cXQQABJ4cR1Wr8AyQWMO0"
+        }
+    ],
+    "credits": 3
+}

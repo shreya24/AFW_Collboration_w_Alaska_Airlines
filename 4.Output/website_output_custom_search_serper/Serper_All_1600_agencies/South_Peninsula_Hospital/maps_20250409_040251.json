@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "South Peninsula Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.652592,-151.5501469,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Peninsula Hospital",
+            "address": "4300 Bartlett St, Homer, AK 99603",
+            "latitude": 59.652592,
+            "longitude": -151.5501469,
+            "rating": 4.1,
+            "ratingCount": 34,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.sphosp.org/",
+            "phoneNumber": "(907) 235-8101",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Xr1A78bcmGc2QVq2EMgZuPf5YvLMm0w_VB0w4us0uoJ27OfmiSQM0PwovzQu6w8F23H1pX6k0Q_FjRORovNwnDtlyrBUvPM5cTGyMplyJLQcEJ-QjLS8wocFwIgvuc0MeMBs",
+            "cid": "2210102556520297750",
+            "fid": "0x56c132718bdfb72b:0x1eabdc90c6933516",
+            "placeId": "ChIJK7ffi3EywVYRFjWTxpDcqx4"
+        }
+    ],
+    "credits": 3
+}

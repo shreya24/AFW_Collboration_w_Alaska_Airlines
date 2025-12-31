@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Southern California Food Allergy Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8061331,-118.1720815,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Food Allergy Institute - Atlantic Clinic",
+            "address": "701 E 28th St #419, Long Beach, CA 90806",
+            "latitude": 33.8083976,
+            "longitude": -118.1845816,
+            "rating": 3.8,
+            "ratingCount": 20,
+            "type": "Diagnostic center",
+            "types": [
+                "Diagnostic center",
+                "Medical clinic"
+            ],
+            "website": "https://foodallergyinstitute.com/",
+            "phoneNumber": "(562) 490-9900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.socalfoodallergy.org/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPF0insyAgSvhZayx39YvIj5eG-Q56Nn7Zw0p8O",
+            "cid": "14998636034720345703",
+            "fid": "0x80dd33e9b2155555:0xd025dc01e4e12e67",
+            "placeId": "ChIJVVUVsukz3YARZy7h5AHcJdA"
+        },
+        {
+            "position": 2,
+            "title": "Food Allergy Institute - Willow Clinic",
+            "address": "2704 E Willow St, Signal Hill, CA 90755",
+            "latitude": 33.8038685,
+            "longitude": -118.1595814,
+            "rating": 5,
+            "ratingCount": 188,
+            "type": "Allergist",
+            "types": [
+                "Allergist"
+            ],
+            "website": "https://foodallergyinstitute.com/",
+            "phoneNumber": "(562) 490-9900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUoOx8rinz1QNwDhPIO9R1-TiLC2948IWptJGr",
+            "cid": "13365151269431709768",
+            "fid": "0x80dd330cb5005769:0xb97a8e4497d69048",
+            "placeId": "ChIJaVcAtQwz3YARSJDWl0SOerk"
+        }
+    ],
+    "credits": 3
+}

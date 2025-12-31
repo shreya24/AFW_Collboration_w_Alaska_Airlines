@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Park Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.955667,-98.671374,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Park Clinic",
+            "address": "310 W Alameda St, Iowa Park, TX 76367",
+            "latitude": 33.955667,
+            "longitude": -98.671374,
+            "rating": 4.3,
+            "ratingCount": 14,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.electrahospital.com/",
+            "phoneNumber": "(940) 592-4141",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdWE7tHCGy7qcsdgRDDF4jVxxJrJOGkaankDkJ",
+            "cid": "6377304158952084001",
+            "fid": "0x86533b462b5e433f:0x5880bc581af5d221",
+            "placeId": "ChIJP0NeK0Y7U4YRIdL1Gli8gFg"
+        }
+    ],
+    "credits": 3
+}

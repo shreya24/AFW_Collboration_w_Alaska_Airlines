@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "VA Southern Nevada HCS",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9353437,-119.7406171,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Carson Valley VA Clinic",
+            "address": "1330 Waterloo Ln #101, Gardnerville, NV 89410",
+            "latitude": 38.9353437,
+            "longitude": -119.7406171,
+            "rating": 3.7,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.reno.va.gov/",
+            "phoneNumber": "(775) 782-5265",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z5d2ezw7W-ySjqUqwjGSDg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.50413&pitch=0&thumbfov=100",
+            "cid": "11654960550138623907",
+            "fid": "0x40772e9bd4624ab9:0xa1bebcdea63437a3",
+            "placeId": "ChIJuUpi1Jsud0ARozc0pt68vqE"
+        }
+    ],
+    "credits": 3
+}

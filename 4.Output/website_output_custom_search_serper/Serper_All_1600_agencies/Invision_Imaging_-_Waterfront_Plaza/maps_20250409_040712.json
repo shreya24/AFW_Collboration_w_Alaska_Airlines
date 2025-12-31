@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Invision Imaging - Waterfront Plaza",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3011427,-157.8626622,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "InVision Imaging at Waterfront",
+            "address": "500 Ala Moana Blvd #5b, Honolulu, HI 96813",
+            "latitude": 21.3011427,
+            "longitude": -157.8626622,
+            "rating": 3.3,
+            "ratingCount": 12,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.invisionhawaii.com/",
+            "phoneNumber": "(808) 275-2008",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8-_DPIxO5qwkypqgsAFHBqjU4nZ3LWk1gpXiWgwo9RfzvG9uidJ60e6PaN8b97nyJxtX9PUtQdoUEaxRx0RfIRp8EHLLsuwicA4MLFa6gJCNIQKxNqVLXBgrRcbO0NsEA7uIzA",
+            "cid": "12913198348773809840",
+            "fid": "0x7c006e09522334e7:0xb334e57b2cd2deb0",
+            "placeId": "ChIJ5zQjUgluAHwRsN7SLHvlNLM"
+        }
+    ],
+    "credits": 3
+}

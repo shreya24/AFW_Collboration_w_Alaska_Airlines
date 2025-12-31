@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Organ Transplant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7714519,-111.8365424,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "U of U Health Transplant Center",
+            "address": "50 Medical Dr N Level 5, Salt Lake City, UT 84132",
+            "latitude": 40.771451899999995,
+            "longitude": -111.8365424,
+            "rating": 4.1,
+            "ratingCount": 23,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Organ donation and tissue bank",
+                "Surgeon",
+                "Transplant surgeon"
+            ],
+            "website": "https://healthcare.utah.edu/locations/transplant-center/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 581-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoJ15U219Z4uOQbghqY5UzuV5XBWHkILjvlz_V",
+            "cid": "4230594821997534206",
+            "fid": "0x87525f97100c035d:0x3ab6179371c51bfe",
+            "placeId": "ChIJXQMMEJdfUocR_hvFcZMXtjo"
+        }
+    ],
+    "credits": 3
+}

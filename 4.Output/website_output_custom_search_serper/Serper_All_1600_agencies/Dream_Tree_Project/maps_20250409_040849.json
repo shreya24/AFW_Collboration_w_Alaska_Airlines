@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dream Tree Project",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3943436,-105.5833991,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DreamTree Project",
+            "address": "128 La Posta Rd, Taos, NM 87571",
+            "latitude": 36.3943436,
+            "longitude": -105.5833991,
+            "rating": 4.2,
+            "ratingCount": 9,
+            "type": "Youth organization",
+            "types": [
+                "Youth organization",
+                "Non-profit organization"
+            ],
+            "website": "http://dreamtreeproject.org/",
+            "phoneNumber": "(575) 758-9595",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMTne2ubaL0c5g0VhNFyy4A9dGs8vE61w4sW8iz",
+            "cid": "6211829858023517550",
+            "fid": "0x87176521963ddead:0x5634da581ca82d6e",
+            "placeId": "ChIJrd49liFlF4cRbi2oHFjaNFY"
+        }
+    ],
+    "credits": 3
+}

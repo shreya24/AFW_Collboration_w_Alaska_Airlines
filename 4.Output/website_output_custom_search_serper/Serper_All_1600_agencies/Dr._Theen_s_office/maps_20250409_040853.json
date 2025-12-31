@@ -1,0 +1,26 @@
+{
+    "searchParameters": {
+        "q": "Dr. Theen's office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3391297,-122.8688823,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. James W. Theen, MD",
+            "address": "935 Town Centre Dr, Medford, OR 97504",
+            "latitude": 42.3391297,
+            "longitude": -122.8688823,
+            "phoneNumber": "(541) 245-6050",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eehimVKL5OVbqKnw7Umvvg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=232.30229&pitch=0&thumbfov=100",
+            "cid": "11512383195405722408",
+            "fid": "0x54cf7a4ac382d75f:0x9fc433856055a328",
+            "placeId": "ChIJX9eCw0p6z1QRKKNVYIUzxJ8"
+        }
+    ],
+    "credits": 3
+}

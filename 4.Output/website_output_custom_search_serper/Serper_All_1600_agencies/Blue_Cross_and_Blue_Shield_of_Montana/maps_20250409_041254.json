@@ -1,0 +1,106 @@
+{
+    "searchParameters": {
+        "q": "Blue Cross and Blue Shield of Montana",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.6219428,-111.2838699,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Blue Cross Blue Shield of Montana",
+            "address": "3645 S Alice St, Helena, MT 59601",
+            "latitude": 46.5863132,
+            "longitude": -111.9524922,
+            "rating": 1.3,
+            "ratingCount": 47,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.bcbsmt.com/contact-us",
+            "phoneNumber": "(800) 447-7828",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Uud3-67YJUft-awfcIiDSflMv7DC3rgaSUeFuWm3_1S_A0X-xqAh2GREjT2URcCu61U8rl-Xz-x3fAL2IzCHlvaLQkrp2LXW6rpLY2MXUzfZINlgMV-2F38qjEwNzKU3d-Bnd",
+            "cid": "5587208473236263085",
+            "fid": "0x535dcd9b2c319b97:0x4d89c0810d4cd0ad",
+            "placeId": "ChIJl5sxLJvNXVMRrdBMDYHAiU0"
+        },
+        {
+            "position": 2,
+            "title": "Blue Cross & Blue Shield of MT",
+            "address": "2180 Overland Ave # 103, Billings, MT 59102",
+            "latitude": 45.7502394,
+            "longitude": -108.57043499999999,
+            "rating": 1.3,
+            "ratingCount": 13,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.bcbsmt.com/",
+            "phoneNumber": "(406) 437-5000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AMKIjYHMm28jsPKNnR7bTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=148.90422&pitch=0&thumbfov=100",
+            "cid": "17729833052095307311",
+            "fid": "0x5348632436d16eeb:0xf60d0539651ede2f",
+            "placeId": "ChIJ627RNiRjSFMRL94eZTkFDfY"
+        },
+        {
+            "position": 3,
+            "title": "Healthcary Insurance Co.",
+            "address": "708 US-12, Missoula, MT 59801",
+            "latitude": 46.8645491,
+            "longitude": -113.9973048,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "phoneNumber": "(406) 306-0332",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zPykruBfUDeHsj87FhsMGA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=96.18594&pitch=0&thumbfov=100",
+            "cid": "8821074840260200157",
+            "fid": "0x535dcc32fb68c317:0x7a6ac0d4c6d846dd",
+            "placeId": "ChIJF8No-zLMXVMR3UbYxtTAano"
+        },
+        {
+            "position": 4,
+            "title": "Blue Cross and Blue Shield of Montana",
+            "address": "3320 10th Ave S, Great Falls, MT 59405",
+            "latitude": 47.493646299999995,
+            "longitude": -111.2478582,
+            "rating": 3,
+            "ratingCount": 7,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "website": "https://www.bcbsmt.com/",
+            "phoneNumber": "(800) 826-5802",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vQgCrzeRjKsUgUR69mNBg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=168.04147&pitch=0&thumbfov=100",
+            "cid": "528256208844848049",
+            "fid": "0x5342382456aaeccd:0x754be391e977bb1",
+            "placeId": "ChIJzeyqViQ4QlMRsXuXHjm-VAc"
+        }
+    ],
+    "credits": 3
+}

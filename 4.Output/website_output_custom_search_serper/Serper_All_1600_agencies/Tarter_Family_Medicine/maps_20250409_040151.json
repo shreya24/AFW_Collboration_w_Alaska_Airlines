@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Tarter Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6190023,-116.4007836,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tarter Family Medicine",
+            "address": "1560 N Crestmont Dr a, Meridian, ID 83642",
+            "latitude": 43.6190023,
+            "longitude": -116.4007836,
+            "rating": 4.5,
+            "ratingCount": 22,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(208) 650-4888",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f5V5AtEuU8xGfMvOkl4OGA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=43.208992&pitch=0&thumbfov=100",
+            "cid": "6123013914659396318",
+            "fid": "0x54ae53917a1e72d9:0x54f950b6da0c1ade",
+            "placeId": "ChIJ2XIeepFTrlQR3hoM2rZQ-VQ"
+        }
+    ],
+    "credits": 3
+}

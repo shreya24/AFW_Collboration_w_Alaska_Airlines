@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Dr. Megan Clancy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1888996,-149.8592438,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Megan J. Clancy, MD",
+            "address": "3500 Latouche St STE 200, Anchorage, AK 99508",
+            "latitude": 61.1888996,
+            "longitude": -149.8592438,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Infectious disease physician",
+            "types": [
+                "Infectious disease physician",
+                "Doctor",
+                "Internist"
+            ],
+            "phoneNumber": "(907) 561-4362",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6C_KNXnvEyu190tbjU9wBQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=286.64502&pitch=0&thumbfov=100",
+            "cid": "2711716219562101854",
+            "fid": "0x56c89701a788454f:0x25a1f388ceaa0c5e",
+            "placeId": "ChIJT0WIpwGXyFYRXgyqzojzoSU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "VA Black Hills Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.4128062,-103.4705951,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Black Hills Health Care System",
+            "address": "113 Comanche Rd, FORT MEADE, SD 57741",
+            "latitude": 44.4128062,
+            "longitude": -103.4705951,
+            "rating": 4,
+            "ratingCount": 49,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.blackhills.va.gov/",
+            "phoneNumber": "(605) 347-2511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ETQzXHRawV17yzx-Nh7vCLlG5LzhHnhNEWd75LIUqdP8aM2IL3SSks67N7OKPCHkJzD2TT5Hl1cWD7_2BuddanK-CH1JFeYHUpTZcD7QhF7LsNeSv3Voe0QGCl_W2i8cCcEOg",
+            "cid": "11383865832835600551",
+            "fid": "0x532d5b4389643ec9:0x9dfb9da920df50a7",
+            "placeId": "ChIJyT5kiUNbLVMRp1DfIKmd-50"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Hillside Medical Surgery Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.1651277,-122.2927338,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hill Side Surgery Center",
+            "address": "104 27th Ave SE, Puyallup, WA 98374",
+            "latitude": 47.1651277,
+            "longitude": -122.2927338,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Plastic surgeon"
+            ],
+            "phoneNumber": "(253) 770-4099",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CosCS6EoFBkpW6zXxALiBQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=97.661705&pitch=0&thumbfov=100",
+            "cid": "10477900465041967017",
+            "fid": "0x5490fc41b5987c11:0x9168faf56aba07a9",
+            "placeId": "ChIJEXyYtUH8kFQRqQe6avX6aJE"
+        }
+    ],
+    "credits": 3
+}

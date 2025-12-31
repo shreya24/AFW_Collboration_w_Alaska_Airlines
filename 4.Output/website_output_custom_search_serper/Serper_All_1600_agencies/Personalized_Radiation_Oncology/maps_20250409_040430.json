@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Personalized Radiation Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4665851,-119.7653642,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Personalized Radiation Oncology",
+            "address": "5470 Reno Corporate Dr, Reno, NV 89511",
+            "latitude": 39.466585099999996,
+            "longitude": -119.7653642,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.ccsreno.com/",
+            "phoneNumber": "(775) 229-4330",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPp-8zRNGH9zRIDTCsmYZcopek-vn-Fy5QEss-U",
+            "cid": "6643768004390609897",
+            "fid": "0x80993fb5ad081a65:0x5c3367ccbfcee3e9",
+            "placeId": "ChIJZRoIrbU_mYAR6ePOv8xnM1w"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Nevada Internal Medicine Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1146217,-115.1144076,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nevada Internal Medicine Center",
+            "address": "2605 E Flamingo Rd, Las Vegas, NV 89121",
+            "latitude": 36.1146217,
+            "longitude": -115.11440759999999,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://burtmd.com/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPY0SHvrg0m5oREwA-b9XC5n_yBn-r1rSdHMskJ",
+            "cid": "3198998576390623438",
+            "fid": "0x80c8c5d1ae4f89e3:0x2c65204196be50ce",
+            "placeId": "ChIJ44lPrtHFyIARzlC-lkEgZSw"
+        }
+    ],
+    "credits": 3
+}

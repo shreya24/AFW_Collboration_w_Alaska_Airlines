@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Vegas Muscle Therapy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1949359,-115.2566779,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Vegas Muscle Therapy",
+            "address": "7477 W Lake Mead Blvd, Las Vegas, NV 89128",
+            "latitude": 36.1949359,
+            "longitude": -115.2566779,
+            "type": "Massage therapist",
+            "types": [
+                "Massage therapist"
+            ],
+            "website": "https://www.vegasmuscletherapy.com/",
+            "phoneNumber": "(702) 445-6244",
+            "menu": "https://www.vegasmuscletherapy.com/treatments",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.vegasmuscletherapy.com/book-online"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNvyUH4zohT06LZMLX-z4U6XaLnRClm270tGx1l",
+            "cid": "17542895972395160449",
+            "fid": "0x80c8c03cdbe55555:0xf374e2f0ce3e9381",
+            "placeId": "ChIJVVXl2zzAyIARgZM-zvDidPM"
+        }
+    ],
+    "credits": 3
+}

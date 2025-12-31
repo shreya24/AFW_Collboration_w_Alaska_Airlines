@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Integrative Medical Institute of Orange County",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7875382,-117.8381765,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Integrative Medical Institute",
+            "address": "1440 E Chapman Ave, Orange, CA 92866",
+            "latitude": 33.7875382,
+            "longitude": -117.83817649999999,
+            "rating": 5,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Addiction treatment center",
+                "Mental health clinic",
+                "Women's health clinic",
+                "Psychologist",
+                "Psychotherapist",
+                "Wellness center"
+            ],
+            "website": "http://www.integrative-med.org/",
+            "phoneNumber": "(714) 771-2880",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://integrative-med.org/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJUXUqhF9cP1EJlS6i_CipaJmGC5yXAKDvRA5x",
+            "cid": "14768545571966210891",
+            "fid": "0x80dcd9e5aed81269:0xccf469f35a36d34b",
+            "placeId": "ChIJaRLYruXZ3IARS9M2WvNp9Mw"
+        }
+    ],
+    "credits": 3
+}

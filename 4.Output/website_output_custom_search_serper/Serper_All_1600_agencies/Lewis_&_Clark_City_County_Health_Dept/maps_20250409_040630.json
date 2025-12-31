@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "Lewis & Clark City County Health Dept",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.593464,-112.0041767,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lewis and Clark Public Health",
+            "address": "1930 9th Ave, Helena, MT 59601",
+            "latitude": 46.589367599999996,
+            "longitude": -112.0061743,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.lccountymt.gov/government/Public-Health",
+            "phoneNumber": "(406) 457-8900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m3nfgf5144Q82IXyhW8hlA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=198.56767&pitch=0&thumbfov=100",
+            "cid": "8826672421554664812",
+            "fid": "0x534355a701ef2c23:0x7a7ea3cd3b80b56c",
+            "placeId": "ChIJIyzvAadVQ1MRbLWAO82jfno"
+        },
+        {
+            "position": 2,
+            "title": "lewis & clark county department of health",
+            "address": "Helena, MT 59601",
+            "latitude": 46.5975603,
+            "longitude": -112.0021792,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RiHaUWYhwNtkXiEIXHkQ3g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.89644&pitch=0&thumbfov=100",
+            "cid": "16450710565975863958",
+            "fid": "0x534355ae044ac167:0xe44caa19a3c1b296",
+            "placeId": "ChIJZ8FKBK5VQ1MRlrLBoxmqTOQ"
+        }
+    ],
+    "credits": 3
+}

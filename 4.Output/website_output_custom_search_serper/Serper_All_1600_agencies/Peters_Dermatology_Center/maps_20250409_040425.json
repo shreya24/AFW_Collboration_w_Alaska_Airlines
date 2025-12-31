@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Peters Dermatology Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0720672,-121.2683792,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peters Dermatology Center",
+            "address": "2353 NE Conners Ave, Bend, OR 97701",
+            "latitude": 44.0720672,
+            "longitude": -121.2683792,
+            "rating": 4.4,
+            "ratingCount": 29,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist"
+            ],
+            "website": "http://petersderm.com/",
+            "phoneNumber": "(541) 323-7546",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9bby9bSHqgkq3fPrkwRTgmZbDxLKTBVdHc8p8PFKOCPO22Q70ZFKOjqfGt_A0qB-PV9jxudx-fPoBoUYpgIQ3FmgrTuBGcBk19BrylkY3v87A-vsjRbQbDLewG5pQgkKOy2Mla",
+            "cid": "8155250165664333099",
+            "fid": "0x54b8c6074d811c9f:0x712d44d13ade3d2b",
+            "placeId": "ChIJnxyBTQfGuFQRKz3eOtFELXE"
+        }
+    ],
+    "credits": 3
+}

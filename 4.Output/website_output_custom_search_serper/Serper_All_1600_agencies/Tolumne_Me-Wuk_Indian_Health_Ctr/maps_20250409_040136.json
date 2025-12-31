@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "Tolumne Me-Wuk Indian Health Ctr",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.975151,-120.3033522,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tuolumne Me-Wuk Indian Health Center",
+            "address": "18880 Cherry Valley Blvd N, Tuolumne, CA 95379",
+            "latitude": 37.965317899999995,
+            "longitude": -120.2404097,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre",
+                "Cosmetics industry",
+                "Dermatologist",
+                "Nurse practitioner",
+                "Pediatrician",
+                "Pharmacy",
+                "Physician assistant",
+                "Psychiatrist",
+                "Psychologist"
+            ],
+            "website": "http://www.tmwihc.org/",
+            "phoneNumber": "(209) 928-5400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOxiO1lkabv_iZ2rgyTkITD1tbjwfUnOOqzS8lI",
+            "cid": "12397038924861156763",
+            "fid": "0x8090cd529a548185:0xac0b2138470a2d9b",
+            "placeId": "ChIJhYFUmlLNkIARmy0KRzghC6w"
+        },
+        {
+            "position": 2,
+            "title": "Tuolumne Me-Wuk Indian Health Center: Behavioral Health",
+            "address": "19969 Greenley Rd Ste A, Sonora, CA 95370",
+            "latitude": 37.984984,
+            "longitude": -120.3662947,
+            "rating": 2.9,
+            "ratingCount": 8,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Family counselor",
+                "Family practice physician",
+                "Psychotherapist"
+            ],
+            "website": "http://www.tmwihc.org/",
+            "phoneNumber": "(209) 928-5400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUnDjKvRPMeNYD8UkS2Iy00saGqBa6EoMlakLc",
+            "cid": "6084472968679476461",
+            "fid": "0x8090c5e8211934a7:0x547063ed979b4ced",
+            "placeId": "ChIJpzQZIejFkIAR7Uybl-1jcFQ"
+        }
+    ],
+    "credits": 3
+}

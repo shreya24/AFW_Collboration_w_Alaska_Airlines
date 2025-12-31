@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Bay Area Pediatric Pulmonary",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7864421,-122.4563058,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bay Area Pediatric Pulmonary",
+            "address": "3700 California St, San Francisco, CA 94118",
+            "latitude": 37.786442099999995,
+            "longitude": -122.4563058,
+            "type": "Pediatric pulmonologist",
+            "types": [
+                "Pediatric pulmonologist"
+            ],
+            "phoneNumber": "(510) 428-3305",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z5ku90Io42IplL_THdVL_A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=268.24698&pitch=0&thumbfov=100",
+            "cid": "17832154708319136648",
+            "fid": "0x808587311fa22ac3:0xf7788a3a792beb88",
+            "placeId": "ChIJwyqiHzGHhYARiOsreTqKePc"
+        }
+    ],
+    "credits": 3
+}

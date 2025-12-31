@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sansum Clinic Solvang",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6012207,-120.1274912,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sansum Country Clinic",
+            "address": "2027 Village Ln STE 102, Solvang, CA 93463",
+            "latitude": 34.6012207,
+            "longitude": -120.1274912,
+            "rating": 3.2,
+            "ratingCount": 21,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Internal medicine ward"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/sansum-country-clinic",
+            "phoneNumber": "(805) 688-3440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JfSs2FC4r36QV4kL5ieymw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=337.98605&pitch=0&thumbfov=100",
+            "cid": "12834975029422406475",
+            "fid": "0x80e9549a543eabcd:0xb21efdc961bb3b4b",
+            "placeId": "ChIJzas-VJpU6YARSzu7Ycn9HrI"
+        }
+    ],
+    "credits": 3
+}

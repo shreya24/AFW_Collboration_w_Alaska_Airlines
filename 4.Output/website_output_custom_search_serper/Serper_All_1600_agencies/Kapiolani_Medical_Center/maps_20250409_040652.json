@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Kapiolani Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2998428,-157.8334591,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kapi\u02bbolani Medical Center for Women & Children",
+            "address": "1319 Punahou St, Honolulu, HI 96826",
+            "latitude": 21.2998428,
+            "longitude": -157.8334591,
+            "rating": 3.7,
+            "ratingCount": 345,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Children's hospital",
+                "Emergency room",
+                "Obstetrician-gynecologist",
+                "Hospital",
+                "Pediatrician",
+                "Pharmacy"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/kapiolani/",
+            "phoneNumber": "(808) 983-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Ftl_4q37FykqO4UePs6mPecVRuMzXDb4tJKTid-IO9mV3pegPbAHWDWHzpNPNi6n0Oze0z-q4izxGkls3zfTZD2IWlSJFW30iYFY2rocdPWGKNs-SjKfmcfLCidf_rSD7XMeX",
+            "cid": "7973376752075212734",
+            "fid": "0x7c006deb22f366ff:0x6ea71fe947cd07be",
+            "placeId": "ChIJ_2bzIuttAHwRvgfNR-kfp24"
+        }
+    ],
+    "credits": 3
+}

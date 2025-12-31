@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Syringa Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.9270423,-116.1272338,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Syringa Hospital Emergency Room",
+            "address": "607 W Main St, Grangeville, ID 83530",
+            "latitude": 45.9270423,
+            "longitude": -116.1272338,
+            "rating": 2.8,
+            "ratingCount": 6,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.syringahospital.org/?utm_source=GMBSocialClimb&utm_medium=SyringaHospitalEmergencyRoom",
+            "phoneNumber": "(208) 983-1700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO7xRTV1FM7FRCFbD3ciMC5xQrBwBgXHU0ZiH4E",
+            "cid": "14451007398985262954",
+            "fid": "0x54a0c181f586349d:0xc88c4aaa270ee76a",
+            "placeId": "ChIJnTSG9YHBoFQRaucOJ6pKjMg"
+        },
+        {
+            "position": 2,
+            "title": "Syringa Hospital and Clinics",
+            "address": "607 W Main St, Grangeville, ID 83530",
+            "latitude": 45.9270423,
+            "longitude": -116.1272338,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Hospital department"
+            ],
+            "website": "https://www.syringahospital.org/?utm_source=GMBSocialClimb&utm_medium=SyringaHospitalandClinics",
+            "phoneNumber": "(208) 983-1700",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20133\u202fPM",
+                "Sunday": "9\u202fAM\u20133\u202fPM",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP50HIv2PH0eR0b7Oqy5eyC1pK-TV26JM8yxwkR",
+            "cid": "17171435192872442236",
+            "fid": "0x54a0c181f7d6830d:0xee4d31546acd997c",
+            "placeId": "ChIJDYPW94HBoFQRfJnNalQxTe4"
+        }
+    ],
+    "credits": 3
+}

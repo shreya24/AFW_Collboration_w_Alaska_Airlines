@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Interstate",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5479375,-122.6800786,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Interstate Medical Office East",
+            "address": "3550 N Interstate Ave, Portland, OR 97227",
+            "latitude": 45.5476196,
+            "longitude": -122.6795489,
+            "rating": 4.2,
+            "ratingCount": 634,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Interstate-Medical-Office-East-100268",
+            "phoneNumber": "(800) 813-2000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkyQJO6mCzw4WYnG4lQVRJXH4U61ziHxd1lydN",
+            "cid": "17175030152572181398",
+            "fid": "0x5495a76829dad73b:0xee59f6ed32b01b96",
+            "placeId": "ChIJO9faKWinlVQRlhuwMu32We4"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Interstate Medical Office South",
+            "address": "3500 N Interstate Ave, Portland, OR 97227",
+            "latitude": 45.5476992,
+            "longitude": -122.68060829999999,
+            "rating": 4.2,
+            "ratingCount": 175,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Interstate-Medical-Office-South-100267",
+            "phoneNumber": "(800) 813-2000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20136\u202fPM",
+                "Sunday": "7\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-bfNn8ODyaBXyD_13KC_AwFLgpF24Z2B84znW",
+            "cid": "9644880281907897309",
+            "fid": "0x5495a76821044b39:0x85d97f84004a23dd",
+            "placeId": "ChIJOUsEIWinlVQR3SNKAIR_2YU"
+        },
+        {
+            "position": 3,
+            "title": "Kaiser Permanente Interstate Medical Office Central",
+            "address": "3600 N Interstate Ave, Portland, OR 97227",
+            "latitude": 45.548255499999996,
+            "longitude": -122.68044529999999,
+            "rating": 4.6,
+            "ratingCount": 284,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Interstate-Medical-Office-Central-100269",
+            "phoneNumber": "(800) 813-2000",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "6\u202fAM\u20135:30\u202fPM",
+                "Thursday": "6\u202fAM\u20135:30\u202fPM",
+                "Friday": "6\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMi7otyMjeV5Cm8BN8nSW6kImCt7_-AijeYQDE",
+            "cid": "13704403281307307042",
+            "fid": "0x5495a768245dc941:0xbe2fd22ce1050c22",
+            "placeId": "ChIJQcldJGinlVQRIgwF4SzSL74"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Mile High Recovery Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7402329,-104.9718795,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mile High Recovery Center",
+            "address": "1201 E Colfax Ave, Denver, CO 80218",
+            "latitude": 39.740232899999995,
+            "longitude": -104.9718795,
+            "rating": 4.6,
+            "ratingCount": 119,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Alcoholism treatment program",
+                "Mental health clinic",
+                "Mental health service"
+            ],
+            "website": "https://milehighrecoverycenter.com/",
+            "phoneNumber": "(303) 268-2996",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQL5MPsRu1WfJeh0c5-30YU8PgSL5k3FsWH2jR",
+            "cid": "11085861582569542114",
+            "fid": "0x876c796889641e5d:0x99d8e45fba3511e2",
+            "placeId": "ChIJXR5kiWh5bIcR4hE1ul_k2Jk"
+        }
+    ],
+    "credits": 3
+}

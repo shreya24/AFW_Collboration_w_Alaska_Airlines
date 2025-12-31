@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Peace Health St. Joseph Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7730086,-122.4739134,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth St. Joseph Medical Center",
+            "address": "2901 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.7730086,
+            "longitude": -122.4739134,
+            "rating": 2.5,
+            "ratingCount": 429,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-st-joseph-medical-center?utm_source=gbp&utm_medium=organic&utm_content=BELL-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 734-5400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMU3zkOls8zZ8N5z25d_iYDlyNseu1-9gFMcoHg",
+            "cid": "7587223542453861314",
+            "fid": "0x5485a37bde4011c3:0x694b3b9cef717bc2",
+            "placeId": "ChIJwxFA3nujhVQRwntx75w7S2k"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,114 @@
+{
+    "searchParameters": {
+        "q": "North County Health Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.1262123,-117.2575598,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North County Health Services",
+            "address": "2210 Mesa Dr #12, Oceanside, CA 92054",
+            "latitude": 33.208250299999996,
+            "longitude": -117.3580947,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre",
+                "Medical clinic"
+            ],
+            "website": "https://truecare.org/",
+            "phoneNumber": "(760) 966-3306",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNmzRoPHk-kcdOH3qJpr605rSmk0G-3k_FAyCL",
+            "cid": "17415079902847391565",
+            "fid": "0x80dc71d4f03efc47:0xf1aecae71043574d",
+            "placeId": "ChIJR_w-8NRx3IARTVdDEOfKrvE"
+        },
+        {
+            "position": 2,
+            "title": "North County Health Services",
+            "address": "629 2nd St, Encinitas, CA 92024",
+            "latitude": 33.0441743,
+            "longitude": -117.2942903,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre"
+            ],
+            "phoneNumber": "(760) 753-7842",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WcxeVM9f-yMP4dVvpj-19A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=247.08041&pitch=0&thumbfov=100",
+            "cid": "14712495138553127251",
+            "fid": "0x80dc0de6335abc3b:0xcc2d4860dd1ee153",
+            "placeId": "ChIJO7xaM-YN3IARU-Ee3WBILcw"
+        },
+        {
+            "position": 3,
+            "title": "North County Health Services: Simms Tressa MD",
+            "address": "150 Valpreda Rd, San Marcos, CA 92069",
+            "latitude": 33.140233,
+            "longitude": -117.15702499999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(760) 736-6767",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LFUXzpjcqFbkDp9LAcjZgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=260.73242&pitch=0&thumbfov=100",
+            "cid": "8699088460453352867",
+            "fid": "0x80db8ab12c2e270f:0x78b95edd730595a3",
+            "placeId": "ChIJDycuLLGK24ARo5UFc91euXg"
+        },
+        {
+            "position": 4,
+            "title": "North County Health Services",
+            "address": "610 Thunder Dr, Oceanside, CA 92056",
+            "latitude": 33.1903296,
+            "longitude": -117.2883904,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(760) 566-1760",
+            "openingHours": {
+                "Tuesday": "1\u202fAM\u20135\u202fPM",
+                "Wednesday": "1\u202fAM\u20135\u202fPM",
+                "Thursday": "1\u202fAM\u20135\u202fPM",
+                "Friday": "1\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "1\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wfIl-pJ9C73Auf7mawEkZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=278.08972&pitch=0&thumbfov=100",
+            "cid": "13688530276651100503",
+            "fid": "0x80dc715e7fc89af9:0xbdf76dc2fcf7e957",
+            "placeId": "ChIJ-ZrIf15x3IARV-n3_MJt970"
+        }
+    ],
+    "credits": 3
+}

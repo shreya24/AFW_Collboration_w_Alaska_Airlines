@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Lompoc Health - North Third Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6401159,-120.4444848,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lompoc Health - North Third Center",
+            "address": "136 N Third St, Lompoc, CA 93436",
+            "latitude": 34.6401159,
+            "longitude": -120.4444848,
+            "rating": 2.7,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Internist",
+                "Nephrologist",
+                "Women's health clinic",
+                "Pediatrician"
+            ],
+            "website": "https://www.lompocvmc.com/locations/lompoc-health-north-third-center/",
+            "phoneNumber": "(805) 736-1253",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaJwJvDornVTc5gpNdH-tAAew_KBWjPv_qI8dG",
+            "cid": "3658773482249714892",
+            "fid": "0x80ec1e9aff8cb0ef:0x32c69318db1cfccc",
+            "placeId": "ChIJ77CM_5oe7IARzPwc2xiTxjI"
+        }
+    ],
+    "credits": 3
+}

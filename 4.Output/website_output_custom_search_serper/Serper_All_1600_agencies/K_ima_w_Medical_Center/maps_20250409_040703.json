@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "K'ima:w Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.041759,-123.664626,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "K'ima:w Medical Center",
+            "address": "535 Airport Rd, Hoopa, CA 95546",
+            "latitude": 41.041759,
+            "longitude": -123.664626,
+            "rating": 2,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Wellness center"
+            ],
+            "website": "https://kimaw.org/",
+            "phoneNumber": "(530) 625-4261",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrjFFizi1giyzdJwpre5GGfrcA134N2qSTLG1J",
+            "cid": "4518790323080351603",
+            "fid": "0x54d17b843ed0dd35:0x3eb5f7db75ad4f73",
+            "placeId": "ChIJNd3QPoR70VQRc0-tddv3tT4"
+        }
+    ],
+    "credits": 3
+}

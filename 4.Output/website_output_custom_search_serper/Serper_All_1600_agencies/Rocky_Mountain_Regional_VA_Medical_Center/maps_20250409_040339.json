@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mountain Regional VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7424419,-104.8299343,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Regional VA Medical Center",
+            "address": "1700 N Wheeling St, Aurora, CO 80045",
+            "latitude": 39.742441899999996,
+            "longitude": -104.82993429999999,
+            "rating": 3.3,
+            "ratingCount": 666,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.denver.va.gov/",
+            "phoneNumber": "(303) 399-8020",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_V3QedoRhoT6AMTLKM5yV6AcUGy3E10_iFW0rmKLIOUNdFawcutljTRCn6fneeQ6-amxu7FGThvDe9UV8kCFFTi47E2COjEiTEgs8MMJxgTkjCWq1si6keMhT5-jEa07mmuwh3",
+            "cid": "2236053604677622973",
+            "fid": "0x876c7c1dac400001:0x1f080ee8058a9cbd",
+            "placeId": "ChIJAQBArB18bIcRvZyKBegOCB8"
+        }
+    ],
+    "credits": 3
+}

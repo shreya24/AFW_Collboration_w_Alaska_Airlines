@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "John Joo",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7633913,-122.34434,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "John Y. Joo, DPM",
+            "address": "1130 N 185th St Suite 101, Shoreline, WA 98133",
+            "latitude": 47.763391299999995,
+            "longitude": -122.34433999999999,
+            "rating": 3,
+            "ratingCount": 8,
+            "type": "Podiatrist",
+            "types": [
+                "Podiatrist"
+            ],
+            "phoneNumber": "(206) 542-5323",
+            "bookingLinks": [
+                "https://schedule.swedish.org/directory/podiatry/1130-north-185th-street-203547-787201?plyext=yes&y_source=1_MTQ2NjQ0MDItNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lAr1TABhaGbCK6J77G7_Ig&cb_client=search.gws-prod.gps&w=360&h=120&yaw=223.77234&pitch=0&thumbfov=100",
+            "cid": "8925215734337874431",
+            "fid": "0x549010f332312131:0x7bdcbc6c2cefa9ff",
+            "placeId": "ChIJMSExMvMQkFQR_6nvLGy83Hs"
+        }
+    ],
+    "credits": 3
+}

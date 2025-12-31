@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Petaluma Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3111641,-122.6835841,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Petaluma Health Center",
+            "address": "1179 N McDowell Blvd, Petaluma, CA 94954",
+            "latitude": 38.2684423,
+            "longitude": -122.6606005,
+            "rating": 3.3,
+            "ratingCount": 138,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Obstetrician-gynecologist",
+                "Optometrist"
+            ],
+            "website": "http://phealthcenter.org/",
+            "phoneNumber": "(707) 559-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20136:30\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipME26cURyIYTtOGubn_w1ZNKrlyffP9fpCdaViN",
+            "cid": "2620231578255983730",
+            "fid": "0x8085b4f796926dad:0x245ceebce3358472",
+            "placeId": "ChIJrW2Slve0hYARcoQ147zuXCQ"
+        },
+        {
+            "position": 2,
+            "title": "Petaluma Health Center",
+            "address": "5900 State Farm Dr 2nd floor, Rohnert Park, CA 94928",
+            "latitude": 38.3538859,
+            "longitude": -122.70656779999999,
+            "rating": 2.9,
+            "ratingCount": 85,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Doctor",
+                "Obstetrician-gynecologist",
+                "Optometrist"
+            ],
+            "website": "http://phealthcenter.org/locations/rohnert-park/",
+            "phoneNumber": "(707) 559-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ck_q4tr00Sc3sPqDjnusSg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=35.81378&pitch=0&thumbfov=100",
+            "cid": "4383841773937160385",
+            "fid": "0x80844a11d4b5aba7:0x3cd688dde70af0c1",
+            "placeId": "ChIJp6u11BFKhIARwfAK592I1jw"
+        }
+    ],
+    "credits": 3
+}

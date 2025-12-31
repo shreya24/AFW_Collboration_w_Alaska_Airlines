@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Seattle Children's Pediatric Cardiology of Helena, Montana",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.6214049,-112.0232625,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Children's Pediatric Cardiology of Helena, Montana",
+            "address": "1005 Partridge Pl, Helena, MT 59602",
+            "latitude": 46.621404899999995,
+            "longitude": -112.0232625,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Pediatric cardiologist",
+            "types": [
+                "Pediatric cardiologist"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/heart/pediatric-cardiology-montana/",
+            "phoneNumber": "(406) 771-3223",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20132:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20132:30\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20132:30\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhx8eBolAk_Oq0qfgG0XtB5Rj3GPgcecHIAvoI",
+            "cid": "15088286602521203704",
+            "fid": "0x534237ad999bf91f:0xd1645cb94c8fd3f8",
+            "placeId": "ChIJH_mbma03QlMR-NOPTLlcZNE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,658 @@
+{
+    "searchParameters": {
+        "q": "Valley Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2908215,-104.266253,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Medical Clinic",
+            "address": "17567 Imperial Valley Dr, Houston, TX 77060",
+            "latitude": 29.9528993,
+            "longitude": -95.40046749999999,
+            "rating": 4.4,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(281) 877-0187",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9:30\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6rpTLxHpbQRBJhaimalLsjYB7-zZ4MZq_VJ0G",
+            "cid": "11013484715929709819",
+            "fid": "0x8640c9f93a07216f:0x98d7c1ff482f2cfb",
+            "placeId": "ChIJbyEHOvnJQIYR-ywvSP_B15g"
+        },
+        {
+            "position": 2,
+            "title": "Valley Medical Clinic",
+            "address": "7812 Gtwy Blvd E # 230, El Paso, TX 79915",
+            "latitude": 31.7574184,
+            "longitude": -106.3553012,
+            "rating": 2.9,
+            "ratingCount": 27,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Family practice physician",
+                "Gynecologist",
+                "Medical clinic",
+                "Medical office",
+                "Pediatrician",
+                "Sports medicine clinic",
+                "Sports medicine physician",
+                "STD clinic",
+                "STD testing service"
+            ],
+            "phoneNumber": "(915) 592-8223",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JoWN5qyKXOGyWg8oSQ2Byw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=203.72208&pitch=0&thumbfov=100",
+            "cid": "12429704183205003019",
+            "fid": "0x86e75b491e4a19f7:0xac7f2e19671eff0b",
+            "placeId": "ChIJ9xlKHklb54YRC_8eZxkuf6w"
+        },
+        {
+            "position": 3,
+            "title": "Valley Medical Arts Clinic, PA",
+            "address": "5201 N 10th St, McAllen, TX 78504",
+            "latitude": 26.2506485,
+            "longitude": -98.22240839999999,
+            "rating": 4.6,
+            "ratingCount": 939,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Weight loss service"
+            ],
+            "website": "http://mcallenmedicalarts.com/",
+            "phoneNumber": "(956) 631-5411",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPt5D6GHB-eo-7wZSBK5ji4yQVUd0P5S5vFPv_F",
+            "cid": "1775180915062715654",
+            "fid": "0x8665a6cb3d8c414b:0x18a2b5a30e5db506",
+            "placeId": "ChIJS0GMPcumZYYRBrVdDqO1ohg"
+        },
+        {
+            "position": 4,
+            "title": "Valley Medical Center",
+            "address": "400 S 43rd St, Renton, WA 98055",
+            "latitude": 47.4428037,
+            "longitude": -122.21388839999999,
+            "rating": 2.9,
+            "ratingCount": 746,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "http://www.valleymed.org/",
+            "phoneNumber": "(425) 690-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQpPm7-uOlpPrt43cKOFaQv0OdO0HKq1YCXMyH",
+            "cid": "6634061436974118693",
+            "fid": "0x54906ad3695b2f31:0x5c10ebba68f5b725",
+            "placeId": "ChIJMS9badNqkFQRJbf1aLrrEFw"
+        },
+        {
+            "position": 5,
+            "title": "Valley Family Medicine Clinic - Primary Care - Valley Medical Center",
+            "address": "Valley Professional Center North, 3915 Talbot Rd S #401, Renton, WA 98055",
+            "latitude": 47.4443735,
+            "longitude": -122.2123379,
+            "rating": 2.3,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://www.valleymed.org/vfm/",
+            "phoneNumber": "(425) 690-3445",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMt6aF1-Jl1ytljF4C0zM2XtYBdh2c8cCkDBws",
+            "cid": "1220782217521010775",
+            "fid": "0x54905d1aae07e2e5:0x10f116f577741857",
+            "placeId": "ChIJ5eIHrhpdkFQRVxh0d_UW8RA"
+        },
+        {
+            "position": 6,
+            "title": "Valley Health Center Downtown",
+            "address": "777 E Santa Clara St, San Jose, CA 95112",
+            "latitude": 37.343928999999996,
+            "longitude": -121.87519309999999,
+            "rating": 4.2,
+            "ratingCount": 683,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Laboratory",
+                "Pediatrician",
+                "Pharmacy",
+                "Urgent care center"
+            ],
+            "website": "https://www.scvmc.org/clinics-and-locations/Downtown/Pages/overview.aspx",
+            "phoneNumber": "(888) 334-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310\u202fPM",
+                "Wednesday": "8\u202fAM\u201310\u202fPM",
+                "Thursday": "8\u202fAM\u201310\u202fPM",
+                "Friday": "8\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u201310\u202fPM",
+                "Sunday": "8\u202fAM\u201310\u202fPM",
+                "Monday": "8\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNF3_P5yR3srUwAX46PCCX4zfTO3PDMyjvHU5FO",
+            "cid": "8746853502491389186",
+            "fid": "0x808fccea74dec8ff:0x796310eaee616d02",
+            "placeId": "ChIJ_8jedOrMj4ARAm1h7uoQY3k"
+        },
+        {
+            "position": 7,
+            "title": "Valley Health Center East Valley",
+            "address": "1993 McKee Rd, San Jose, CA 95116",
+            "latitude": 37.364616399999996,
+            "longitude": -121.8516885,
+            "rating": 4,
+            "ratingCount": 308,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Laboratory",
+                "Pediatrician",
+                "Pharmacy",
+                "Radiologist"
+            ],
+            "website": "https://www.scvmc.org/clinics-and-locations/Downtown/Pages/overview.aspx",
+            "phoneNumber": "(888) 334-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7PFW7b9geQ9uj4SSkixblyfp12wTxHt2Nkn0u",
+            "cid": "11873906690426563942",
+            "fid": "0x808fcd03dddf83a5:0xa4c897396b026d66",
+            "placeId": "ChIJpYPf3QPNj4ARZm0CazmXyKQ"
+        },
+        {
+            "position": 8,
+            "title": "Valley Medical Group - Primary & Walk-In Care, Wayne",
+            "address": "759 Hamburg Tpke, Wayne, NJ 07470",
+            "latitude": 40.956554499999996,
+            "longitude": -74.2244163,
+            "rating": 3.3,
+            "ratingCount": 155,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Cancer treatment center",
+                "Cardiologist",
+                "Emergency room",
+                "Family practice physician",
+                "Hospital",
+                "Orthopedic surgeon",
+                "Pediatrician",
+                "Urgent care center"
+            ],
+            "website": "https://www.valleyhealth.com/locations/vmg-primary-walk-care-wayne",
+            "phoneNumber": "(973) 709-0099",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20132\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/vmg-primary-and-walk-in-care-wayne-37263?LocIdent=61663&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_0VzhsCZFP0SSxVj58x2RDh-lo_KfaOKHWokUOklHpYag521R-entity&rwg_token=AAiGsobW6jljINRpAMwsNcyNSu3ZmURrHgowBcSUMF6eAUPwCC681yYuoHif61V-tCPqLaAZW8NSALaeyhFRSQEOGrLjzr-zWA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN6MCZeI1vQw_WH8MdHAX9TO1TXA2prV1c4gz-7",
+            "cid": "13903472693875328059",
+            "fid": "0x89c30284c41ba5bf:0xc0f30ec056c8443b",
+            "placeId": "ChIJv6UbxIQCw4kRO0TIVsAO88A"
+        },
+        {
+            "position": 9,
+            "title": "Valley Medical Clinic",
+            "address": "27230 216th Ave SE, Maple Valley, WA 98038",
+            "latitude": 47.3571338,
+            "longitude": -122.05586219999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.valleymed.org/lakesawyerpc/",
+            "phoneNumber": "(425) 690-3425",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Thursday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Friday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6zTRjPAfmRPBkNTuedX5Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.86118&pitch=0&thumbfov=100",
+            "cid": "12020191525388074999",
+            "fid": "0x54905ffc1b20cacf:0xa6d04c81b2eabff7",
+            "placeId": "ChIJz8ogG_xfkFQR97_qsoFM0KY"
+        },
+        {
+            "position": 10,
+            "title": "Santa Clara Valley Medical Center",
+            "address": "751 S Bascom Ave, San Jose, CA 95128",
+            "latitude": 37.3139499,
+            "longitude": -121.9340007,
+            "rating": 2.9,
+            "ratingCount": 953,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Allergist",
+                "Dermatologist",
+                "Dialysis center",
+                "Emergency care physician",
+                "Emergency care service",
+                "General hospital",
+                "Hospital",
+                "Hospital department",
+                "Internist",
+                "Medical laboratory",
+                "Pathologist",
+                "Pediatrician",
+                "Sports medicine physician",
+                "Surgical center"
+            ],
+            "website": "https://www.scvmc.org/",
+            "phoneNumber": "(408) 885-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVqiE_LenuYc_AE2sF9d8irPs0u3cAdEzm39NN",
+            "cid": "16193186071065437632",
+            "fid": "0x808fcb31a15c82e7:0xe0b9c0efbba8a5c0",
+            "placeId": "ChIJ54JcoTHLj4ARwKWou-_AueA"
+        },
+        {
+            "position": 11,
+            "title": "Kent Clinic - Primary Care - Valley Medical Center",
+            "address": "24920 104th Ave SE, Kent, WA 98030",
+            "latitude": 47.378555899999995,
+            "longitude": -122.20146559999999,
+            "rating": 3.6,
+            "ratingCount": 49,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "https://www.valleymed.org/KentPC/",
+            "phoneNumber": "(425) 690-3420",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Thursday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Friday": "7:15\u202fAM\u20135:15\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPPNtBZz5uwGeLx6OIwHKt96FslVWvh5OgGsZL",
+            "cid": "15218378467232948700",
+            "fid": "0x54905eba63679a31:0xd3328a95e4dfa1dc",
+            "placeId": "ChIJMZpnY7pekFQR3KHf5JWKMtM"
+        },
+        {
+            "position": 12,
+            "title": "Valley Medical Care",
+            "address": "1801 Salmon Creek Ln, Juneau, AK 99801",
+            "latitude": 58.330994399999994,
+            "longitude": -134.4650089,
+            "rating": 4.8,
+            "ratingCount": 304,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Children's hospital",
+                "Family practice physician",
+                "Women's health clinic",
+                "Pregnancy care center"
+            ],
+            "website": "http://www.valleymedicalcare.com/",
+            "phoneNumber": "(907) 586-2434",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnzpWTRttysCCPdrx5FW8QBT2weIr-waBtiAbO",
+            "cid": "17309287875252307597",
+            "fid": "0x5400e007e24fa32d:0xf036f19d2f63c68d",
+            "placeId": "ChIJLaNP4gfgAFQRjcZjL53xNvA"
+        },
+        {
+            "position": 13,
+            "title": "Valley Health Center Gilroy",
+            "address": "7475 Camino Arroyo Dr, Gilroy, CA 95020",
+            "latitude": 37.011203099999996,
+            "longitude": -121.5570473,
+            "rating": 4.1,
+            "ratingCount": 203,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist",
+                "Laboratory",
+                "Pediatrician",
+                "Pharmacy",
+                "Radiologist"
+            ],
+            "website": "https://scvmc.scvh.org/hospitals-clinics/valley-health-center-gilroy",
+            "phoneNumber": "(888) 334-1000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEfCvFu4u9vNrIYDS8BhUj-91VctWJKT64xwJw",
+            "cid": "7654290519641032629",
+            "fid": "0x8091e39500118497:0x6a3980ac66d807b5",
+            "placeId": "ChIJl4QRAJXjkYARtQfYZqyAOWo"
+        },
+        {
+            "position": 14,
+            "title": "Valley Medical Center",
+            "address": "168th Pl SE, Covington, WA 98042",
+            "latitude": 47.3549608,
+            "longitude": -122.1169371,
+            "rating": 3.6,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General hospital"
+            ],
+            "website": "http://valleymed.org/",
+            "phoneNumber": "(425) 690-3435",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "cid": "5934793102897738766",
+            "fid": "0x54905fa00a665e03:0x525c9ee219a8740e",
+            "placeId": "ChIJA15mCqBfkFQRDnSoGeKeXFI"
+        },
+        {
+            "position": 15,
+            "title": "Fairwood Clinic - Primary Care - Valley Medical Center",
+            "address": "14410 SE Petrovitsky Rd #104, Renton, WA 98058",
+            "latitude": 47.4444218,
+            "longitude": -122.14863509999999,
+            "rating": 3.4,
+            "ratingCount": 48,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "https://www.valleymed.org/fairwoodpc/",
+            "phoneNumber": "(425) 690-3405",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAo1ppIb1D86WrxmoTviyVOZlZ40mKjxX4uYGU",
+            "cid": "3733091053484434949",
+            "fid": "0x5490677cfa877de7:0x33ce9a88cd20e605",
+            "placeId": "ChIJ532H-nxnkFQRBeYgzYiazjM"
+        },
+        {
+            "position": 16,
+            "title": "Maple Valley Clinic - Primary Care - Valley Medical Center",
+            "address": "26458 Maple Valley Black Diamond Rd SE, Maple Valley, WA 98038",
+            "latitude": 47.363870999999996,
+            "longitude": -122.020664,
+            "rating": 3.4,
+            "ratingCount": 37,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "https://www.valleymed.org/maplevalleypc/",
+            "phoneNumber": "(425) 690-3460",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:15\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:15\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO9Z1g2pBhy4VG9mtvVRquP0L1zVyXtv3sYCqVJ",
+            "cid": "12150674522110514975",
+            "fid": "0x5490601e4e8256cd:0xa89fde19cfc9571f",
+            "placeId": "ChIJzVaCTh5gkFQRH1fJzxnen6g"
+        },
+        {
+            "position": 17,
+            "title": "Valley Medical Group Montvale",
+            "address": "85 Chestnut Ridge Rd, Montvale, NJ 07645",
+            "latitude": 41.053098299999995,
+            "longitude": -74.0674971,
+            "rating": 2.6,
+            "ratingCount": 52,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center",
+                "Cardiologist",
+                "Emergency care service",
+                "Family practice physician",
+                "Women's health clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.valleyhealth.com/locations/vmg-primary-walk-care-montvale",
+            "phoneNumber": "(201) 930-1700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20132\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMams-D5qCXlPs0RLL381y-Oe5IVcuWYmEp128N",
+            "cid": "17842149976352171621",
+            "fid": "0x89c2e6652f001d8d:0xf79c0cdf29b72665",
+            "placeId": "ChIJjR0AL2XmwokRZSa3Kd8MnPc"
+        },
+        {
+            "position": 18,
+            "title": "Covington Clinic South - Urgent Care - Valley Medical Center",
+            "address": "27500 168th Pl SE, Covington, WA 98042",
+            "latitude": 47.354938,
+            "longitude": -122.11687549999999,
+            "rating": 3.4,
+            "ratingCount": 104,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.valleymed.org/find-a-location/c/covington-clinic-south",
+            "phoneNumber": "(425) 690-3435",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.valleymed.org/wait-times"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOg7Srb4NFhfuRX6JG96g69jnxdUlGpJ5KWwncV",
+            "cid": "1895016496446718615",
+            "fid": "0x54905fa0d90d080b:0x1a4c73769a364297",
+            "placeId": "ChIJCwgN2aBfkFQRl0I2mnZzTBo"
+        },
+        {
+            "position": 19,
+            "title": "Valley Health Center Milpitas",
+            "address": "143 N Main St, Milpitas, CA 95035",
+            "latitude": 37.4321722,
+            "longitude": -121.90793049999999,
+            "rating": 3.7,
+            "ratingCount": 113,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://scvmc.scvh.org/hospitals-clinics/valley-health-center-milpitas",
+            "phoneNumber": "(408) 885-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBvaVyAKAKbwbDUh9ip6yyk1SUc5SZF0ApSMyz",
+            "cid": "3385061556546241110",
+            "fid": "0x808fc8d68039a655:0x2efa278d04c50256",
+            "placeId": "ChIJVaY5gNbIj4ARVgLFBI0n-i4"
+        },
+        {
+            "position": 20,
+            "title": "Valley Community Healthcare",
+            "address": "6801 Coldwater Canyon Ave, North Hollywood, CA 91605",
+            "latitude": 34.1945672,
+            "longitude": -118.4148567,
+            "rating": 2.4,
+            "ratingCount": 220,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Women's health clinic",
+                "Optician",
+                "Pediatrician"
+            ],
+            "website": "https://valleycommunityhealthcare.org/",
+            "phoneNumber": "(818) 763-8836",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://valleycommunityhealthcare.org/patients/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuPWx1u2fXdNnJ3DOt-qe_eXVnLCQdhMfjNap-",
+            "cid": "685936001646178210",
+            "fid": "0x80c2968b7c163a91:0x984ef28c4c5afa2",
+            "placeId": "ChIJkToWfIuWwoARoq_FxCjvhAk"
+        }
+    ],
+    "credits": 3
+}

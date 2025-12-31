@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kelli Miller",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.290592,-96.1449683,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Psychic/Medium Kelli Miller",
+            "address": "3506 N 147th St #102, Omaha, NE 68116",
+            "latitude": 41.290592,
+            "longitude": -96.1449683,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Store",
+            "types": [
+                "Store"
+            ],
+            "website": "http://www.psychickelli.com/",
+            "phoneNumber": "(402) 289-9999",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20133\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "10\u202fAM\u20133\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpspsl1wnAXtWliPtC13EHBSoXX1eGr6TLvvUS",
+            "cid": "8986262519447168117",
+            "fid": "0x8793ede1a3226f5b:0x7cb59e26720e2475",
+            "placeId": "ChIJW28io-Htk4cRdSQOciaetXw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Gila Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7970919,-108.2609134,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gila Regional Medical Center",
+            "address": "1313 E 32nd St, Silver City, NM 88061",
+            "latitude": 32.7970919,
+            "longitude": -108.26091339999999,
+            "rating": 2.7,
+            "ratingCount": 121,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://www.grmc.org/",
+            "phoneNumber": "(575) 538-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9E4Qr67_ralCbatP-vowekaxBfc1mBBIJMGr9JbVTUlBUpfGmpadxNEs0C-GarN9OPNVdHxiXMftYrg0q9jI1SJLQnq10oXLZQB2bI4qSFbReSk015BuriJYZ-iu6WMsV9kR6PSQ",
+            "cid": "9570954170125338558",
+            "fid": "0x86d8b80cabc18b9b:0x84d2dc1bcfdd47be",
+            "placeId": "ChIJm4vBqwy42IYRvkfdzxvc0oQ"
+        }
+    ],
+    "credits": 3
+}

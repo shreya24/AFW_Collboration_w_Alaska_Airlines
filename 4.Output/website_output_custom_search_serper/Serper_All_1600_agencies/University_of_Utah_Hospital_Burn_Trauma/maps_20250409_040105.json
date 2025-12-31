@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Hospital Burn Trauma",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7716842,-111.8369268,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Utah Health Care -Intermountain Burn Center",
+            "address": "50 Medical Dr N #4, Salt Lake City, UT 84132",
+            "latitude": 40.771684199999996,
+            "longitude": -111.8369268,
+            "rating": 4.5,
+            "ratingCount": 17,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "http://healthcare.utah.edu/burncenter/",
+            "phoneNumber": "(801) 581-2700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VcvNCteyb7hcKC7LoLf1g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=157.61769&pitch=0&thumbfov=100",
+            "cid": "7895444513637367682",
+            "fid": "0x87525f9083f81b79:0x6d9240f40b297f82",
+            "placeId": "ChIJeRv4g5BfUocRgn8pC_RAkm0"
+        }
+    ],
+    "credits": 3
+}

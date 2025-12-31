@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Surgicare of Hawaii",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3016749,-157.8627365,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Surgicare of Hawaii",
+            "address": "500 Ala Moana Blvd #1b, Honolulu, HI 96813",
+            "latitude": 21.3016749,
+            "longitude": -157.86273649999998,
+            "rating": 4,
+            "ratingCount": 25,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "http://www.surgicareofhawaii.com/",
+            "phoneNumber": "(808) 528-2511",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "6\u202fAM\u20135\u202fPM",
+                "Friday": "6\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_kYr2BQJhGebvnwy6AQOPlHAYBDbSc5ooesDUH4DrtHcQ_Cs-m6vnNzduws4g4yVjj6MW2xPQMbvMxJmEC8X-A9n8AfbPtwHWV29IhzAwEKugJOFtCqIi3RYQ6NYFlazc9KB_m",
+            "cid": "12136039714143636872",
+            "fid": "0x7c006ddfd1f5fd41:0xa86bdfd20d908d88",
+            "placeId": "ChIJQf310d9tAHwRiI2QDdLfa6g"
+        }
+    ],
+    "credits": 3
+}

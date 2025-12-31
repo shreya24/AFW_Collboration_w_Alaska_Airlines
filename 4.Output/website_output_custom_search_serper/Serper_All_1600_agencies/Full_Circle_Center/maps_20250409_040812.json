@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Full Circle Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.6542785,-121.8055511,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Full Circle Center for Integrative Medicine",
+            "address": "4641 Valley E Blvd, Arcata, CA 95521",
+            "latitude": 40.900611,
+            "longitude": -124.08212909999999,
+            "rating": 5,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Nurse practitioner"
+            ],
+            "website": "http://fullcirclemed.org/",
+            "phoneNumber": "(707) 840-4701",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20133\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqBZOY9feI5yhcq2RU5H9LJ90lSvSsxUJtlkBI",
+            "cid": "12595805321969434218",
+            "fid": "0x54d159fffa4f0e3d:0xaecd4a3473f67e6a",
+            "placeId": "ChIJPQ5P-v9Z0VQRan72czRKza4"
+        },
+        {
+            "position": 2,
+            "title": "Full Circle Health and Wellness Center",
+            "address": "208 S Main St, Omak, WA 98841",
+            "latitude": 48.407945999999995,
+            "longitude": -119.5289732,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(509) 861-0777",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcxMqjAo_lJFFM14ev_BzY9Zgv_rSpac8HOOmP",
+            "cid": "10876637914648257830",
+            "fid": "0x549ce9a6d4522867:0x96f1948e7527a526",
+            "placeId": "ChIJZyhS1KbpnFQRJqUndY6U8ZY"
+        }
+    ],
+    "credits": 3
+}

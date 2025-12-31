@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Shining Stars Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5924022,-106.3323435,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shining Stars Foundation",
+            "address": "24 County Rd 524, Tabernash, CO 80478",
+            "latitude": 39.9927235,
+            "longitude": -105.8455863,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.shiningstarsfoundation.org/",
+            "phoneNumber": "(970) 726-8009",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaHbJOaoEZ9kdSrC4mX_N2Xl3eCWTKe2HSSkut",
+            "cid": "10031492023966048925",
+            "fid": "0x876a324f10aef1a5:0x8b3704d8bfa9229d",
+            "placeId": "ChIJpfGuEE8yaocRnSKpv9gEN4s"
+        },
+        {
+            "position": 2,
+            "title": "Shining Stars Foundation",
+            "address": "225 N Mill St, Aspen, CO 81611",
+            "latitude": 39.1920808,
+            "longitude": -106.8191008,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "https://www.shiningstarsfoundation.org/",
+            "phoneNumber": "(970) 925-7827",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vgH2z2TvGWcQTtm_8BqCdw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=257.33664&pitch=0&thumbfov=100",
+            "cid": "9233694045882887269",
+            "fid": "0x8740397d98c417b9:0x8024abd0017d2c65",
+            "placeId": "ChIJuRfEmH05QIcRZSx9AdCrJIA"
+        }
+    ],
+    "credits": 3
+}

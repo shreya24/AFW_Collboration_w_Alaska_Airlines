@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Surprise Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.637244,-112.3670883,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Surprise Pediatrics",
+            "address": "14239 W Bell Rd UNIT 112, Surprise, AZ 85374",
+            "latitude": 33.637243999999995,
+            "longitude": -112.36708829999999,
+            "rating": 3.6,
+            "ratingCount": 115,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.arbormedicalpartners.com/surprise-pediatrics.html",
+            "phoneNumber": "(623) 876-9983",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ryA8-svEzpi7nSfa6fdJ4QQ-ixtthl4DSIotgJIU8kz7qmweYdXC6nk2YHwxYGiq5zkJK0yq55YDT4zpgqgFKeLlhav8LXNDF7UWzsZt6rUg71Au4mENAIQFJ3bE1XM0wH8iF",
+            "cid": "13851358308362147755",
+            "fid": "0x872b44ce985006a5:0xc039e8fe6a94d7ab",
+            "placeId": "ChIJpQZQmM5EK4cRq9eUav7oOcA"
+        }
+    ],
+    "credits": 3
+}

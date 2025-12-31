@@ -1,0 +1,577 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.045359,-119.9833274,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Fontana Medical Center",
+            "address": "9961 Sierra Ave., Fontana, CA 92335",
+            "latitude": 34.0723364,
+            "longitude": -117.43229369999999,
+            "rating": 3.2,
+            "ratingCount": 1151,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Fontana-Medical-Center-100127",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20138:30\u202fPM",
+                "Thursday": "7\u202fAM\u20138:30\u202fPM",
+                "Friday": "7\u202fAM\u20138:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrDaQjEh_dRHWIjj0TWEmX6Bf7YnWDn4S-Kd5X",
+            "cid": "7750946147371055019",
+            "fid": "0x80c34cc7f8652ead:0x6b90e4746b3bf7ab",
+            "placeId": "ChIJrS5l-MdMw4ARq_c7a3TkkGs"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Antioch Medical Center",
+            "address": "4501 Sand Creek Rd, Antioch, CA 94531",
+            "latitude": 37.9508418,
+            "longitude": -121.7749286,
+            "rating": 4.3,
+            "ratingCount": 694,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Antioch-Medical-Center-100382",
+            "phoneNumber": "(925) 813-6500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5KaongQOCFAji_k5ADWX6Hs0eI1ftlJBj5XI",
+            "cid": "14346654416529329887",
+            "fid": "0x808ff867ba2ed567:0xc7198e2e14850edf",
+            "placeId": "ChIJZ9Uuumf4j4AR3w6FFC6OGcc"
+        },
+        {
+            "position": 3,
+            "title": "Kaiser Permanente Woodland Hills Medical Center",
+            "address": "5601 De Soto Ave, Woodland Hills, CA 91367",
+            "latitude": 34.1712224,
+            "longitude": -118.59006509999999,
+            "rating": 3.5,
+            "ratingCount": 712,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Woodland-Hills-Medical-Center-100045",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4QAth2q_VGnJZBDG92V8GzlLDN5EdDy4v_c7L",
+            "cid": "2099125755858744386",
+            "fid": "0x80c29eb0c65d69c3:0x1d2197c0d8d57442",
+            "placeId": "ChIJw2ldxrCewoARQnTV2MCXIR0"
+        },
+        {
+            "position": 4,
+            "title": "Kaiser Permanente San Diego Medical Center",
+            "address": "9455 Clairemont Mesa Blvd, San Diego, CA 92123",
+            "latitude": 32.830009499999996,
+            "longitude": -117.12491419999999,
+            "rating": 3.8,
+            "ratingCount": 536,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Kaiser-Permanente-San-Diego-Medical-Center-331581?utm_source=GMB_listing",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNE_NTs-Eirq6RVHxR46Ryv00HJYI1NF_QpneMi",
+            "cid": "13901917293918604633",
+            "fid": "0x80dbfe4b20b72401:0xc0ed881f90e0cd59",
+            "placeId": "ChIJASS3IEv-24ARWc3gkB-I7cA"
+        },
+        {
+            "position": 5,
+            "title": "Kaiser Permanente Downey Medical Center",
+            "address": "9333 Imperial Hwy., Downey, CA 90242",
+            "latitude": 33.9195971,
+            "longitude": -118.12897179999999,
+            "rating": 3.4,
+            "ratingCount": 935,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Downey-Medical-Center-300025",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2Dd6zCM3dTWRjjEJEB8ME9BorOSgRLLCs2SI3",
+            "cid": "16972245138918775306",
+            "fid": "0x80c2cd6f28ceb537:0xeb898707f21a9a0a",
+            "placeId": "ChIJN7XOKG_NwoARCpoa8geHies"
+        },
+        {
+            "position": 6,
+            "title": "Kaiser Permanente San Jose Medical Center",
+            "address": "250 Hospital Pkwy, San Jose, CA 95119",
+            "latitude": 37.2395632,
+            "longitude": -121.80122449999999,
+            "rating": 4.5,
+            "ratingCount": 1466,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Jose-Medical-Center-100322",
+            "phoneNumber": "(408) 972-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM32xJVcQN0xk-cA_vW7sr5RYxmVLmXa76PCSW_",
+            "cid": "7859136197275045095",
+            "fid": "0x808e2e2fc0e2382f:0x6d1142bb5ffe4ce7",
+            "placeId": "ChIJLzjiwC8ujoAR50z-X7tCEW0"
+        },
+        {
+            "position": 7,
+            "title": "Kaiser Permanente Riverside Medical Center",
+            "address": "10800 Magnolia Ave, Riverside, CA 92505",
+            "latitude": 33.904771499999995,
+            "longitude": -117.4695038,
+            "rating": 3.8,
+            "ratingCount": 1101,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Riverside-Medical-Center-100062",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPtQoVzBcDzvTGRW4UN99BxGt6gPPHw0yrZZfpO",
+            "cid": "12120603487399181666",
+            "fid": "0x80dcb74641224f9d:0xa83508a771c9fd62",
+            "placeId": "ChIJnU8iQUa33IARYv3JcacINag"
+        },
+        {
+            "position": 8,
+            "title": "Kaiser Permanente Fresno Medical Center",
+            "address": "7300 N Fresno St, Fresno, CA 93720",
+            "latitude": 36.842435099999996,
+            "longitude": -119.78044,
+            "rating": 4.2,
+            "ratingCount": 1029,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Fresno-Medical-Center-100363",
+            "phoneNumber": "(559) 448-4500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUBBMgHbkT_kqPMZ5GCHp39gf97JNBWF3E-loT",
+            "cid": "5581824098127312197",
+            "fid": "0x809442aeb48b0813:0x4d769f718797f545",
+            "placeId": "ChIJEwiLtK5ClIARRfWXh3Gfdk0"
+        },
+        {
+            "position": 9,
+            "title": "Kaiser Permanente Los Angeles Medical Center",
+            "address": "4867 W Sunset Blvd, Los Angeles, CA 90027",
+            "latitude": 34.0983837,
+            "longitude": -118.29391249999999,
+            "rating": 3.9,
+            "ratingCount": 966,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Los-Angeles-Medical-Center-100099",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1LJ4Fy_IkbuOhDMQ_mau2kTXi3KOKqkUhG5vi",
+            "cid": "4159859768528668954",
+            "fid": "0x80c2c0ac9b14ae13:0x39baca6b6a97091a",
+            "placeId": "ChIJE64Um6zAwoARGgmXamvKujk"
+        },
+        {
+            "position": 10,
+            "title": "Kaiser Permanente San Francisco Medical Center",
+            "address": "2425 Geary Blvd, San Francisco, CA 94115",
+            "latitude": 37.7826471,
+            "longitude": -122.44323779999999,
+            "rating": 4.5,
+            "ratingCount": 976,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Francisco-Medical-Center-100328",
+            "phoneNumber": "(415) 833-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3vqoedByau17H1zQBfO7vuRhbzUpe94I8V92M",
+            "cid": "10224845796173486538",
+            "fid": "0x808580b5bc0ddfd1:0x8de5f313fc1119ca",
+            "placeId": "ChIJ0d8NvLWAhYARyhkR_BPz5Y0"
+        },
+        {
+            "position": 11,
+            "title": "Kaiser Permanente South Bay Medical Center",
+            "address": "25825 Vermont Ave, Harbor City, CA 90710",
+            "latitude": 33.787828999999995,
+            "longitude": -118.296258,
+            "rating": 3.8,
+            "ratingCount": 496,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/South-Bay-Medical-Center-100049",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtmV3xN17m0pY-CgBfvfjevhxj2QeHkR3VYx11",
+            "cid": "14722162992259945324",
+            "fid": "0x80dd358b2e72528b:0xcc4fa13d770e536c",
+            "placeId": "ChIJi1JyLos13YARbFMOdz2hT8w"
+        },
+        {
+            "position": 12,
+            "title": "Kaiser Permanente Santa Rosa Medical Center",
+            "address": "401 Bicentennial Way, Santa Rosa, CA 95403",
+            "latitude": 38.4719809,
+            "longitude": -122.7270056,
+            "rating": 4.5,
+            "ratingCount": 1011,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Santa-Rosa-Medical-Center-100324",
+            "phoneNumber": "(707) 393-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMII7KkYQtEpGbJDVlYvLa_HDKNAnZHcXtnTVzb",
+            "cid": "8865419000570946307",
+            "fid": "0x8084387d9f0ef9c5:0x7b084b9c2a07a303",
+            "placeId": "ChIJxfkOn304hIARA6MHKpxLCHs"
+        },
+        {
+            "position": 13,
+            "title": "Kaiser Permanente Ontario Medical Center",
+            "address": "2295 S Vineyard Ave, Ontario, CA 91761",
+            "latitude": 34.03245,
+            "longitude": -117.60886029999999,
+            "rating": 3.5,
+            "ratingCount": 453,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Ontario-Medical-Center-300511",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiMluLgTpKgJUEKRnUxvVIx_nDL_gadNlh-64a",
+            "cid": "12327027376119634915",
+            "fid": "0x80c334db2e17e835:0xab12661652205be3",
+            "placeId": "ChIJNegXLts0w4AR41sgUhZmEqs"
+        },
+        {
+            "position": 14,
+            "title": "Kaiser Permanente Modesto Medical Center and Medical Offices",
+            "address": "4601 Dale Rd, Modesto, CA 95356",
+            "latitude": 37.7063291,
+            "longitude": -121.0523642,
+            "rating": 4.2,
+            "ratingCount": 1047,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Modesto-Medical-Center-and-Medical-Offices-100301",
+            "phoneNumber": "(209) 735-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhCB6NIMShoIXMiuZtlolTKVSYYA0q5I42dRa_",
+            "cid": "551636152449206235",
+            "fid": "0x8090506b917c73b3:0x7a7ce286fff87db",
+            "placeId": "ChIJs3N8kWtQkIAR24f_byjOpwc"
+        },
+        {
+            "position": 15,
+            "title": "Kaiser Permanente Tacoma Medical Center",
+            "address": "209 M.L.K. Jr Way, Tacoma, WA 98405",
+            "latitude": 47.2607085,
+            "longitude": -122.45283529999999,
+            "rating": 4.2,
+            "ratingCount": 776,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/washington/facilities/Tacoma-Medical-Center-339021",
+            "phoneNumber": "(253) 596-3300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZeFdMtDQrscp1E1MMxzmucZ9zZBKkxF9Z4ctr",
+            "cid": "685566142872905464",
+            "fid": "0x54905507b23fcaed:0x9839ec64ff966f8",
+            "placeId": "ChIJ7co_sgdVkFQR-Gb5T8aegwk"
+        },
+        {
+            "position": 16,
+            "title": "Kaiser Permanente Walnut Creek Medical Center",
+            "address": "1425 S Main St, Walnut Creek, CA 94596",
+            "latitude": 37.8924625,
+            "longitude": -122.0590297,
+            "rating": 4.3,
+            "ratingCount": 907,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.kaiserpermanente.org/",
+            "phoneNumber": "(925) 295-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTI1lXDLR46X5_0YM0HxWcZgsa1BAWo56QEZpl",
+            "cid": "4287247234803163934",
+            "fid": "0x808561dd4a436133:0x3b7f5ca52eb7e31e",
+            "placeId": "ChIJM2FDSt1hhYARHuO3LqVcfzs"
+        },
+        {
+            "position": 17,
+            "title": "Kaiser Permanente Orange County - Anaheim Medical Center",
+            "address": "3440 E La Palma Ave, Anaheim, CA 92806",
+            "latitude": 33.8529573,
+            "longitude": -117.84564859999999,
+            "rating": 4,
+            "ratingCount": 551,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Orange-County-Anaheim-Medical-Center-100173",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrqRaj2sTDprOmxV_cGzeVlO4B_YyTDK01-j2s",
+            "cid": "14816483578349144330",
+            "fid": "0x88929364c44d9767:0xcd9eb9503be8c90a",
+            "placeId": "ChIJZ5dNxGSTkogRCsnoO1C5ns0"
+        },
+        {
+            "position": 18,
+            "title": "Kaiser Permanente Moreno Valley Medical Center",
+            "address": "27300 Iris Ave, Moreno Valley, CA 92555",
+            "latitude": 33.896938999999996,
+            "longitude": -117.18586189999999,
+            "rating": 3.2,
+            "ratingCount": 427,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Medical-Center-300019",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDSwWM5Ysp93vTpMFBEpvC21QMLLqfOdz7VRZW",
+            "cid": "15010169944161353901",
+            "fid": "0x80dca76888617ffd:0xd04ed60973fb80ad",
+            "placeId": "ChIJ_X9hiGin3IARrYD7cwnWTtA"
+        },
+        {
+            "position": 19,
+            "title": "Kaiser Permanente Panorama City Medical Center",
+            "address": "13651 Willard St, Panorama City, CA 91402",
+            "latitude": 34.218598799999995,
+            "longitude": -118.43027749999999,
+            "rating": 3.6,
+            "ratingCount": 776,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Panorama-City-Medical-Center-100071",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO7QcGZeJkwI4oColqZKBpHoZ1LQDQpsYBJCZTo",
+            "cid": "17558028380709231404",
+            "fid": "0x80c296d1a9071787:0xf3aaa5c92c669b2c",
+            "placeId": "ChIJhxcHqdGWwoARLJtmLMmlqvM"
+        },
+        {
+            "position": 20,
+            "title": "Kaiser Permanente Olympia Medical Center",
+            "address": "700 Lilly Rd NE, Olympia, WA 98506",
+            "latitude": 47.0569073,
+            "longitude": -122.8417406,
+            "rating": 4.1,
+            "ratingCount": 719,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://wa.kaiserpermanente.org/html/public/locations/olympia",
+            "phoneNumber": "(360) 923-7000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "7\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEcTyMLELmL7GQk880diPvWOr-UH_AAuCc8Ky5",
+            "cid": "12550980891470285902",
+            "fid": "0x54905d2614939681:0xae2e0a9f72cd4c4e",
+            "placeId": "ChIJgZaTFCZdkFQRTkzNcp8KLq4"
+        }
+    ],
+    "credits": 3
+}

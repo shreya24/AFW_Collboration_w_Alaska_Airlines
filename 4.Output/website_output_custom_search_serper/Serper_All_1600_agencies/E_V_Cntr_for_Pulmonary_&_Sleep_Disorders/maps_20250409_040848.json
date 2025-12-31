@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "E V Cntr for Pulmonary & Sleep Disorders",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3933562,-111.7627189,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The East Valley Center for Pulmonary & Sleep Disorders",
+            "address": "3155 E Southern Ave #103, Mesa, AZ 85204",
+            "latitude": 33.3933562,
+            "longitude": -111.7627189,
+            "rating": 2.4,
+            "ratingCount": 62,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Intensivist",
+                "Pulmonologist"
+            ],
+            "website": "http://www.eastvalleypulmonary.com/",
+            "phoneNumber": "(480) 325-8173",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a4x3AY1e-eCZ2JGv5gNAqg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=140.11473&pitch=0&thumbfov=100",
+            "cid": "1736705066802386202",
+            "fid": "0x872ba8cabf7fbc11:0x181a040e8a60951a",
+            "placeId": "ChIJEbx_v8qoK4cRGpVgig4EGhg"
+        }
+    ],
+    "credits": 3
+}

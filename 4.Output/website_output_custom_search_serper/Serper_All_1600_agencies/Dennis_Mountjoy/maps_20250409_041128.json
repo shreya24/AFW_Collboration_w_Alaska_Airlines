@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dennis Mountjoy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4035006,-117.0572375,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mountjoy Dennis MD",
+            "address": "1271 Highland Ave # A, Clarkston, WA 99403",
+            "latitude": 46.4035006,
+            "longitude": -117.0572375,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(509) 758-2343",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i7sSokQGw9p62wN0pkvSiw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=186.92801&pitch=0&thumbfov=100",
+            "cid": "14091863829251682659",
+            "fid": "0x54a1ca8fcda63dc1:0xc3905b7da5b8f163",
+            "placeId": "ChIJwT2mzY_KoVQRY_G4pX1bkMM"
+        }
+    ],
+    "credits": 3
+}

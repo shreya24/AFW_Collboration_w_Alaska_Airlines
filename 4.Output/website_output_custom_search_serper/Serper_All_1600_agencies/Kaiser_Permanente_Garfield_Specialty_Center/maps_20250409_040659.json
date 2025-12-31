@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Garfield Specialty Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8452281,-117.1736235,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Garfield Specialty Center",
+            "address": "5893 Copley Dr, San Diego, CA 92111",
+            "latitude": 32.8452281,
+            "longitude": -117.17362349999999,
+            "rating": 3.9,
+            "ratingCount": 114,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Garfield-Specialty-Center-300303",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-LBotKdzy4ASMf-ozjQGZPVq8THol2O-5vLG8_ekbGN8XB083ldIXqiv_Daq0bc5mRjf8d3WdKnQF9FL2xDamfaUCMc2Eeqq8iH_kJVLgknKLeVuc7UAAhd0e8Nhz3sp8h6pUf",
+            "cid": "346484150751001204",
+            "fid": "0x80dbff7df0201ba7:0x4cef57fd5d0fa74",
+            "placeId": "ChIJpxsg8H3_24ARdPrQ1X_1zgQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Pacific Clearvision Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.9278519,-123.057338,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific ClearVision Institute",
+            "address": "360 S Garden Way #250, Eugene, OR 97401",
+            "latitude": 44.056124,
+            "longitude": -123.0544063,
+            "rating": 4.6,
+            "ratingCount": 191,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Ophthalmology clinic",
+                "Optometrist"
+            ],
+            "website": "https://pcvi.com/our-locations/eugene-location/",
+            "phoneNumber": "(541) 343-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:15\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOk-d8aVmOjQ6j_BsBjRk4qCwdFnqVy0MkmbUrr",
+            "cid": "16121033213213308244",
+            "fid": "0x54c11d8b8d89bb71:0xdfb96a4b65da7554",
+            "placeId": "ChIJcbuJjYsdwVQRVHXaZUtqud8"
+        },
+        {
+            "position": 2,
+            "title": "Pacific ClearVision Institute",
+            "address": "257 N 8th St, Cottage Grove, OR 97424",
+            "latitude": 43.7995798,
+            "longitude": -123.0602698,
+            "rating": 3.6,
+            "ratingCount": 11,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Ophthalmology clinic"
+            ],
+            "website": "https://pcvi.com/our-locations/cottage-grove-location/",
+            "phoneNumber": "(541) 942-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://growpractice.net/requestappointment?ID=pcvionline"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPi-KQY02PAZJ6N85RtK3tRY8oFH3ClE04DihdP",
+            "cid": "3668013914594413909",
+            "fid": "0x54c1304f1c59a0d1:0x32e76738aa970d55",
+            "placeId": "ChIJ0aBZHE8wwVQRVQ2Xqjhn5zI"
+        }
+    ],
+    "credits": 3
+}

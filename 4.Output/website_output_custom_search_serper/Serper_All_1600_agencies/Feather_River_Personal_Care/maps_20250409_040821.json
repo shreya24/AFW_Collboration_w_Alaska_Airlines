@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Feather River Personal Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5081481,-121.5406376,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Feather River Care Center",
+            "address": "1 Gilmore Ln, Oroville, CA 95966",
+            "latitude": 39.5081481,
+            "longitude": -121.5406376,
+            "rating": 4.7,
+            "ratingCount": 7,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "https://feathercarecenter.org/",
+            "phoneNumber": "(530) 534-1354",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rAvR-4r8sAFt26DLtH4GBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=10.873417&pitch=0&thumbfov=100",
+            "cid": "17810723373088654488",
+            "fid": "0x809cb5d83de17bb7:0xf72c668ae5b24498",
+            "placeId": "ChIJt3vhPdi1nIARmESy5YpmLPc"
+        }
+    ],
+    "credits": 3
+}

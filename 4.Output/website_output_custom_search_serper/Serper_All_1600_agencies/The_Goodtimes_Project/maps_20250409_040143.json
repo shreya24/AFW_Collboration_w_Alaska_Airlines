@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "The Goodtimes Project",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6820703,-122.2633075,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Goodtimes Project",
+            "address": "7400 Sand Point Way NE #101S, Seattle, WA 98115",
+            "latitude": 47.6820703,
+            "longitude": -122.2633075,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.thegoodtimesproject.org/",
+            "phoneNumber": "(206) 556-3489",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7VUEnvECbaWgPq0a6Ql-EA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=208.29431&pitch=0&thumbfov=100",
+            "cid": "13693529201645001707",
+            "fid": "0x54901323f0e07087:0xbe093041e97d1beb",
+            "placeId": "ChIJh3Dg8CMTkFQR6xt96UEwCb4"
+        }
+    ],
+    "credits": 3
+}

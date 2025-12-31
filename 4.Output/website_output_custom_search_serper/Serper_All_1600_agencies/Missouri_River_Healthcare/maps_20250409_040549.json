@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Missouri River Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4920019,-111.2665578,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Missouri River Healthcare",
+            "address": "2300 12th Ave S #101, Great Falls, MT 59405",
+            "latitude": 47.4920019,
+            "longitude": -111.2665578,
+            "rating": 4.3,
+            "ratingCount": 21,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://missouririverhealthcare.com/",
+            "phoneNumber": "(406) 761-5252",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPls1ZxIIwv0-OuvGQiD18eFCkWFIm-_h5z9Gd6",
+            "cid": "8912573614583801869",
+            "fid": "0x534237c69a671963:0x7bafd27b4bc9680d",
+            "placeId": "ChIJYxlnmsY3QlMRDWjJS3vSr3s"
+        }
+    ],
+    "credits": 3
+}

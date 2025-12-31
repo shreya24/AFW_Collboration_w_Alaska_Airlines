@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Alamo Area Resource Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.4283288,-98.5041636,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alamo Area Resource Center",
+            "address": "303 N Frio St, San Antonio, TX 78207",
+            "latitude": 29.4283288,
+            "longitude": -98.5041636,
+            "rating": 3.8,
+            "ratingCount": 55,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "HIV testing center",
+                "Medical clinic",
+                "Pediatric clinic",
+                "Social services organization"
+            ],
+            "website": "https://www.aarcsa.com/",
+            "phoneNumber": "(210) 625-7200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8cEoKfSuMQRIbbj0cn8HkNyfd8BGQBqE9QsZPImo8zgyvQJ7LAi4wGRlT1WhR-Ifkciwwy0VRFBLlHGeY1yZMtptdJidHMBH0vRRBmK21AjkUbvQzdj2zkceeYYNet1t7Q1MQz",
+            "cid": "12353442771438289485",
+            "fid": "0x865c5f496f8da84f:0xab703ebfd0b2424d",
+            "placeId": "ChIJT6iNb0lfXIYRTUKy0L8-cKs"
+        }
+    ],
+    "credits": 3
+}

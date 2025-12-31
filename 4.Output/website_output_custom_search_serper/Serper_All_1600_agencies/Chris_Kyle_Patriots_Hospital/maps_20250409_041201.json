@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Chris Kyle Patriots Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.205553,-149.8097735,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Chris Kyle Patriots Hospital",
+            "address": "1650 Bragaw St, Anchorage, AK 99508",
+            "latitude": 61.205552999999995,
+            "longitude": -149.8097735,
+            "rating": 4.2,
+            "ratingCount": 23,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://chriskylepatriotshospital.com/",
+            "phoneNumber": "(907) 258-7575",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_btfM1l2V2lH2AqGd31YXngl4L9mJCdz_3iVy",
+            "cid": "9875317545931679486",
+            "fid": "0x56c89659aa14272d:0x890c2cfc8170a6fe",
+            "placeId": "ChIJLScUqlmWyFYR_qZwgfwsDIk"
+        }
+    ],
+    "credits": 3
+}

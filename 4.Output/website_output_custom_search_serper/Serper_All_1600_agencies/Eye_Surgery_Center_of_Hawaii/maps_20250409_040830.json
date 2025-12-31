@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Eye Surgery Center of Hawaii",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3170302,-157.8703842,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eye Surgery Center of Hawaii",
+            "address": "650 Iwilei Rd Suite 225, Honolulu, HI 96817",
+            "latitude": 21.317030199999998,
+            "longitude": -157.8703842,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.eyesurgeryhi.com/",
+            "phoneNumber": "(808) 356-4300",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "6\u202fAM\u20134:30\u202fPM",
+                "Thursday": "6\u202fAM\u20134:30\u202fPM",
+                "Friday": "6\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9n5-uGO2YzAU9asCneNwPKN6L42xzVjGnnP0RHTxxpF6QEzQ-kNQEe21m9vSD71SYBkACoASuJcD3XwD0So33xpKMiqbQA0v8vdKZ_GiT344iOtZegO79yyWBodhF7ZJwCaLI",
+            "cid": "12315347221453468223",
+            "fid": "0x7c006e6fca00c209:0xaae8e70c6453f23f",
+            "placeId": "ChIJCcIAym9uAHwRP_JTZAzn6Ko"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "University of Kansas Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0557754,-94.6093162,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The University of Kansas Hospital",
+            "address": "4000 Cambridge St, Kansas City, KS 66160",
+            "latitude": 39.0557754,
+            "longitude": -94.6093162,
+            "rating": 3.6,
+            "ratingCount": 641,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.kansashealthsystem.com/locations/main-campus-main-hospital-kansas-city-ks?utm_source=gmb&utm_medium=web&utm_term=&utm_content=&utm_campaign=kyruus_brandify",
+            "phoneNumber": "(913) 588-1227",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFO4OvJGTWg1tmuhtxwTc9TsKqavW2VJaCuC0i",
+            "cid": "13611292166222622032",
+            "fid": "0x87c0ee2e9019bfed:0xbce5061c05c1ad50",
+            "placeId": "ChIJ7b8ZkC7uwIcRUK3BBRwG5bw"
+        }
+    ],
+    "credits": 3
+}

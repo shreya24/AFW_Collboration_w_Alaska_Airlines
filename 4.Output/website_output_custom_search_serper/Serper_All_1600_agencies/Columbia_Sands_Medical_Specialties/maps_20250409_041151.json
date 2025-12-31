@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Columbia Sands Medical Specialties",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.2698141,-121.176746,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Columbia Sands Medical Specialties",
+            "address": "813 SW Highland Ave, Redmond, OR 97756",
+            "latitude": 44.2698141,
+            "longitude": -121.176746,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stcharleshealthcare.org/locations/columbia-sands-medical-specialties-llc",
+            "phoneNumber": "(541) 548-3153",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dfNKsoba7xSnInGlecQ4hQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=33.373024&pitch=0&thumbfov=100",
+            "cid": "6716671461184974941",
+            "fid": "0x54bf2b8036bb7775:0x5d36691b84ef305d",
+            "placeId": "ChIJdXe7NoArv1QRXTDvhBtpNl0"
+        }
+    ],
+    "credits": 3
+}

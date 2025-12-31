@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Umpqua Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.2378601,-123.3706245,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Umpqua Medical Group",
+            "address": "2460 NW Stewart Pkwy, Roseburg, OR 97471",
+            "latitude": 43.2378601,
+            "longitude": -123.37062449999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(541) 464-6260",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jywu3ObIkYt_0cypYxC7fA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=219.22066&pitch=0&thumbfov=100",
+            "cid": "4620481776915533219",
+            "fid": "0x54c422a373db3945:0x401f3fb21c374da3",
+            "placeId": "ChIJRTnbc6MixFQRo003HLI_H0A"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Graham Greenlee Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.2298516,-110.950521,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Graham-Greenlee Dorm",
+            "address": "610 N Highland Ave, Tucson, AZ 85719",
+            "latitude": 32.229851599999996,
+            "longitude": -110.950521,
+            "rating": 4.3,
+            "ratingCount": 14,
+            "type": "Student dormitory",
+            "types": [
+                "Student dormitory"
+            ],
+            "website": "http://www.housing.arizona.edu/",
+            "phoneNumber": "(520) 626-8552",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeV5b89QXU2422zt-mfFyEL0EPOqc8Ophy4LBL",
+            "cid": "16055794317858673770",
+            "fid": "0x86d671009d2e3d4b:0xded1a3dd66b3946a",
+            "placeId": "ChIJSz0unQBx1oYRapSzZt2j0d4"
+        }
+    ],
+    "credits": 3
+}

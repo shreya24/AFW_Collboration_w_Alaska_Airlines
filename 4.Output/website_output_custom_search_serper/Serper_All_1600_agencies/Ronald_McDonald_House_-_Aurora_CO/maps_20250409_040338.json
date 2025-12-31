@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Ronald McDonald House - Aurora CO",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7324034,-104.8260361,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Aurora Ronald McDonald House",
+            "address": "932 N Potomac Cir, Aurora, CO 80011",
+            "latitude": 39.732403399999995,
+            "longitude": -104.8260361,
+            "rating": 4.7,
+            "ratingCount": 183,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "phoneNumber": "(720) 324-2400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Hyyp0QdanLxNHog0-1DMCpBLAigsDC08eLlPDqrZ0Qcp1U0Dhj_LrS6zplOh1CCVR0TsWBCgeyJCSOq39ZqP6lHCRD26OWAtHOAQRb_EoDbfZPPHnutayrK_t8YtdVhdnzJWCYg",
+            "cid": "5341155528478247725",
+            "fid": "0x876c633c43a6c997:0x4a1f98a78d0f4b2d",
+            "placeId": "ChIJl8mmQzxjbIcRLUsPjaeYH0o"
+        }
+    ],
+    "credits": 3
+}

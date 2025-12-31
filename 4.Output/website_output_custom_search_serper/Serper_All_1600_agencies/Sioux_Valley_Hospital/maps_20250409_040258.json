@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "Sioux Valley Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.5624448,-96.7292607,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sioux Valley Hospital Ucd Med Center: Krabben Kelby MD",
+            "address": "1305 18th St, Sioux Falls, SD 57105",
+            "latitude": 43.5356179,
+            "longitude": -96.7431672,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.sanfordhealth.org/",
+            "phoneNumber": "(605) 333-6688",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lHiHsy3wSqGrbmVziyqeFA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=226.90503&pitch=0&thumbfov=100",
+            "cid": "6542392670066650507",
+            "fid": "0x878eb58cbbe17ef7:0x5acb3f7868712d8b",
+            "placeId": "ChIJ937hu4y1jocRiy1xaHg_y1o"
+        },
+        {
+            "position": 2,
+            "title": "Sanford USD Medical Center and Hospital",
+            "address": "1305 W 18th St, Sioux Falls, SD 57105",
+            "latitude": 43.5351478,
+            "longitude": -96.7425075,
+            "rating": 3.8,
+            "ratingCount": 428,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Dialysis center",
+                "Hospital"
+            ],
+            "website": "https://www.sanfordhealth.org/locations/sanford-usd-medical-center/?yxt_info=healthcare-facility-6151dfab-0d52-42f8-9e4a-c0157414f192&y_source=1_MTA2MTkxNzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(605) 333-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRXtm_6zSGdrDNOInU0EW_5nHX1WNyO5sWvTIu",
+            "cid": "9906275754497417827",
+            "fid": "0x878eb58c83737ed1:0x897a295021e22263",
+            "placeId": "ChIJ0X5zg4y1jocRYyLiIVApeok"
+        },
+        {
+            "position": 3,
+            "title": "Sioux Valley County Hospital",
+            "address": "900 E 48th St, Sioux Falls, SD 57104",
+            "latitude": 43.5897418,
+            "longitude": -96.7153543,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "phoneNumber": "(605) 339-8906",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zoI7cBJ7MDPu7SrWI6yHfA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=347.56522&pitch=0&thumbfov=100",
+            "cid": "1879785321193971297",
+            "fid": "0x878eb533cdf9aa17:0x1a1656ca43c29e61",
+            "placeId": "ChIJF6r5zTO1jocRYZ7CQ8pWFho"
+        }
+    ],
+    "credits": 3
+}

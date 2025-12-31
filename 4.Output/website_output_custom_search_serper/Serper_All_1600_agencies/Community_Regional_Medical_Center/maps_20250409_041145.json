@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Community Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.742835,-119.7848543,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Regional Medical Center",
+            "address": "2823 Fresno St, Fresno, CA 93721",
+            "latitude": 36.742835,
+            "longitude": -119.78485429999999,
+            "rating": 2.9,
+            "ratingCount": 702,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.communitymedical.org/hospitals-facilities/Community-Regional-Medical-Center",
+            "phoneNumber": "(559) 459-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQwN0QZX2s5g44Ui2d29sMHSIMfFflpZUUypOR",
+            "cid": "16587210051088017997",
+            "fid": "0x80945e0a451bde4b:0xe6319ba89de3ea4d",
+            "placeId": "ChIJS94bRQpelIARTerjnaibMeY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "University of Utah",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7649368,-111.8421021,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The University of Utah",
+            "address": "201 Presidents' Cir, Salt Lake City, UT 84112",
+            "latitude": 40.7649368,
+            "longitude": -111.84210209999999,
+            "rating": 4.4,
+            "ratingCount": 1417,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "http://www.utah.edu/",
+            "phoneNumber": "(801) 581-7200",
+            "description": "This research university near the Wasatch Mountains features 100 acres of gardens plus an arboretum.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9fFM1VwySlHHY6eWUaf5N21b25lAQ-OMiH1y0uSfZOIBzicxvKcgWbuShqWhZcrImEblj1gtztl-FHecpHq62M3ysY89p_wBQzXmoQY2X7H8iPmYHCuNj1pxZATOmPvlzxanAe",
+            "cid": "15966664552946993518",
+            "fid": "0x87525feae84df31b:0xdd94fcd0de3a096e",
+            "placeId": "ChIJG_NN6OpfUocRbgk63tD8lN0"
+        }
+    ],
+    "credits": 3
+}

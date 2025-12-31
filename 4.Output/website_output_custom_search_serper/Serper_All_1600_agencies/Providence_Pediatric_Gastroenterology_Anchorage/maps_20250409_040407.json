@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Providence Pediatric Gastroenterology Anchorage",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1861757,-149.8229331,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Alaska Children's Hospital - Pediatric Gastroenterology",
+            "address": "3831 Piper St S Tower, Ste S-220, Anchorage, AK 99508",
+            "latitude": 61.1861757,
+            "longitude": -149.8229331,
+            "rating": 3,
+            "ratingCount": 14,
+            "type": "Pediatric gastroenterologist",
+            "types": [
+                "Pediatric gastroenterologist"
+            ],
+            "website": "https://www.providence.org/locations/ak/alaska-childrens-hospital/pediatric-gastroenterology?ls=location&y_source=1_MjU0NTc0NTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 212-2240",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/doctors/searchresults.aspx?region=ak&search-term=Providence+Medical+Group+Pediatric+Gastroenterology+-+Anchorage&search-type=practice_group&y_source=1_OTU3NTY5NC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIIY1z-HlONy83VPrPBIBigfJiq2s29OuxlfeB",
+            "cid": "11844117425990744027",
+            "fid": "0x56c897eab271d489:0xa45ec20bce3137db",
+            "placeId": "ChIJidRxsuqXyFYR2zcxzgvCXqQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "First Lutheran Church of Gypsum",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.645457,-106.953474,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "First Lutheran Church",
+            "address": "148 Eagle St, Gypsum, CO 81637",
+            "latitude": 39.645457,
+            "longitude": -106.953474,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Church",
+            "types": [
+                "Church"
+            ],
+            "phoneNumber": "(970) 524-7919",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8_fE23bupsgjXit1bwn4lyyZ4DhvwWhW_5Fu5l0fFr8NX2edfjjTP0AT7YGSz-N_0RvBtvnLGBKsZqk2vnkQ_yu1bkp6JADUUP4_-D4-XPzpNMBulreN73YYMdlM3IfpjcrCDmNg",
+            "cid": "1718972775669069716",
+            "fid": "0x8741bf192b607b4b:0x17db04a1c8527794",
+            "placeId": "ChIJS3tgKxm_QYcRlHdSyKEE2xc"
+        }
+    ],
+    "credits": 3
+}

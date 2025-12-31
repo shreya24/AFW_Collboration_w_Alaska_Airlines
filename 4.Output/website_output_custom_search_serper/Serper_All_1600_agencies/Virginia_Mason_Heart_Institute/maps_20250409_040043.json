@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Virginia Mason Heart Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6103439,-122.3280212,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Virginia Mason Heart Institute: Hill Mark E MD",
+            "address": "Lindeman Pavilion, 1201 Terry Ave Level 3, Seattle, WA 98101",
+            "latitude": 47.6103512,
+            "longitude": -122.3279443,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.vmfh.org/our-services/center-for-cardiovascular-health/cardiology",
+            "phoneNumber": "(206) 341-1111",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a8Gon-kP83_bBm-f-9HaIQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.75426&pitch=0&thumbfov=100",
+            "cid": "11473803625703045128",
+            "fid": "0x54906ab60b4835ed:0x9f3b239b549e7808",
+            "placeId": "ChIJ7TVIC7ZqkFQRCHieVJsjO58"
+        },
+        {
+            "position": 2,
+            "title": "Virginia Mason Heart Institute",
+            "address": "Lindeman Pavilion, 1201 Terry Ave Level 3, Seattle, WA 98101",
+            "latitude": 47.610336499999995,
+            "longitude": -122.328098,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.vmfh.org/our-services/center-for-cardiovascular-health",
+            "phoneNumber": "(206) 341-1111",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5r2BiyuTyC1QEcJoJkNmEjcqsaQZa1FoAUZg0",
+            "cid": "6076137612026623215",
+            "fid": "0x54906ab5fa711873:0x5452c6f7233cb4ef",
+            "placeId": "ChIJcxhx-rVqkFQR77Q8I_fGUlQ"
+        }
+    ],
+    "credits": 3
+}

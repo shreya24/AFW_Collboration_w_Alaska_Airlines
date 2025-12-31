@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Whole Earth Ministries",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.5740552,-99.4407391,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Whole World Ministries",
+            "address": "6565 Ever Green Ln, Gloucester, VA 23061",
+            "latitude": 37.479104899999996,
+            "longitude": -76.5266189,
+            "type": "Training centre",
+            "types": [
+                "Training centre"
+            ],
+            "website": "http://www.wholeworldministries.org/",
+            "phoneNumber": "(804) 693-3622",
+            "cid": "11266329521455214368",
+            "fid": "0x89b09ec00e33b31d:0x9c5a0b0218d5af20",
+            "placeId": "ChIJHbMzDsCesIkRIK_VGAILWpw"
+        },
+        {
+            "position": 2,
+            "title": "Earth Ministry",
+            "address": "5515 Phinney Ave N, Seattle, WA 98103",
+            "latitude": 47.6690056,
+            "longitude": -122.3548593,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.earthministry.org/",
+            "phoneNumber": "(206) 632-2426",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9IxcB2gD7OhdgVz5e4A45A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=76.489784&pitch=0&thumbfov=100",
+            "cid": "9366647869185594675",
+            "fid": "0x549015d1a5481111:0x81fd049c42fa1533",
+            "placeId": "ChIJERFIpdEVkFQRMxX6QpwE_YE"
+        },
+        {
+            "position": 3,
+            "title": "Until The Whole World Knows Ministry",
+            "address": "110 Grant Ave, Vandergrift, PA 15690",
+            "latitude": 40.6036758,
+            "longitude": -79.5639982,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Place of worship",
+            "types": [
+                "Place of worship"
+            ],
+            "website": "http://www.utwwkministry.org/",
+            "phoneNumber": "(724) 552-9290",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "6:30\u20138\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "9:30\u202fAM\u20131\u202fAM",
+                "Monday": "6\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQwZcOZXTAvBcjAW3uqfMGRuuF7gmOQT2twQfp",
+            "cid": "13399416818923248964",
+            "fid": "0x8834bb322f2736ed:0xb9f44a9a89509d44",
+            "placeId": "ChIJ7TYnLzK7NIgRRJ1QiZpK9Lk"
+        }
+    ],
+    "credits": 3
+}

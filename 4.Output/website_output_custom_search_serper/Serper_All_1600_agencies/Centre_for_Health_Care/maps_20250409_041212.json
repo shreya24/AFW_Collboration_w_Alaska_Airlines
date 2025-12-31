@@ -1,0 +1,289 @@
+{
+    "searchParameters": {
+        "q": "Centre for Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2932754,-114.3102048,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centre For Health Care",
+            "address": "15611 Pomerado Rd, Poway, CA 92064",
+            "latitude": 32.9964144,
+            "longitude": -117.0545374,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Registered general nurse"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L9dbsvViis__lfU6f90x9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.28887&pitch=0&thumbfov=100",
+            "cid": "1113602756410661534",
+            "fid": "0x80dbf0988e3598df:0xf744fce8cc0da9e",
+            "placeId": "ChIJ35g1jpjw24ARntrAjM5PdA8"
+        },
+        {
+            "position": 2,
+            "title": "Valleywise Community Health Center",
+            "address": "2025 W Northern Ave, Phoenix, AZ 85021",
+            "latitude": 33.5526695,
+            "longitude": -112.1024169,
+            "rating": 4.1,
+            "ratingCount": 164,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Obstetrician-gynecologist",
+                "Laboratory",
+                "Pediatrician",
+                "Pharmacy",
+                "Radiologist"
+            ],
+            "website": "https://valleywisehealth.org/locations/community-health-center-north-phoenix/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+            "phoneNumber": "(602) 655-6300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u201311\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5ifrgxtcG4uWJ7MQEyh17WP35ZMaEduB870ft",
+            "cid": "15120618972800961579",
+            "fid": "0x872b6d7b4950cb23:0xd1d73ad7e1d54c2b",
+            "placeId": "ChIJI8tQSXttK4cRK0zV4dc619E"
+        },
+        {
+            "position": 3,
+            "title": "Mountain Park Health Center Maryvale Clinic",
+            "address": "6601 W Thomas Rd, Phoenix, AZ 85033",
+            "latitude": 33.4794354,
+            "longitude": -112.2011586,
+            "rating": 4.6,
+            "ratingCount": 2488,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "http://mountainparkhealth.org/",
+            "phoneNumber": "(602) 243-7277",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20138\u202fPM",
+                "Thursday": "7:30\u202fAM\u20138\u202fPM",
+                "Friday": "7:30\u202fAM\u20138\u202fPM",
+                "Saturday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaPZo2SnwoOGhhH9n_poQIPQmN87GMrWOYwtUs",
+            "cid": "10956944875887553669",
+            "fid": "0x872b1519c0d1cf63:0x980ee34feed06c85",
+            "placeId": "ChIJY8_RwBkVK4cRhWzQ7k_jDpg"
+        },
+        {
+            "position": 4,
+            "title": "NHW Community Health Center",
+            "address": "8800 N 22nd Ave, Phoenix, AZ 85021",
+            "latitude": 33.5650299,
+            "longitude": -112.10646229999999,
+            "rating": 3.2,
+            "ratingCount": 37,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Medical laboratory"
+            ],
+            "website": "https://www.nativehealthphoenix.org/locations/nhw-community-health-center/",
+            "phoneNumber": "(602) 279-5262",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEwxuWaojiWrtRHToEIydpX3AVEmdhTxg9VUnC",
+            "cid": "11322563707693064595",
+            "fid": "0x872b6c58de03aea9:0x9d21d3b3dfc66193",
+            "placeId": "ChIJqa4D3lhsK4cRk2HG37PTIZ0"
+        },
+        {
+            "position": 5,
+            "title": "Valleywise Comprehensive Health Center \u2013 Peoria",
+            "address": "8088 W Whitney Dr Suite 2A, Peoria, AZ 85345",
+            "latitude": 33.5765266,
+            "longitude": -112.2328659,
+            "rating": 4.2,
+            "ratingCount": 312,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Community health centre",
+                "Dental clinic",
+                "Dialysis center",
+                "Laboratory",
+                "Pediatrician",
+                "Pharmacy",
+                "Radiologist"
+            ],
+            "website": "https://valleywisehealth.org/locations/comprehensive-health-center-peoria/",
+            "phoneNumber": "(833) 855-9973",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u201312\u202fAM",
+                "Friday": "12\u20136\u202fAM, 7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN9vsW95zst35dXN7lk5tlm9-VpsDdRwLudkbEv",
+            "cid": "6000794679019313487",
+            "fid": "0x872b6b40f523b0d7:0x53471af78d00194f",
+            "placeId": "ChIJ17Aj9UBrK4cRTxkAjfcaR1M"
+        },
+        {
+            "position": 6,
+            "title": "Apache Junction Health Center",
+            "address": "2012 W Southern Ave, Apache Junction, AZ 85120",
+            "latitude": 33.394270999999996,
+            "longitude": -111.5658722,
+            "rating": 3.7,
+            "ratingCount": 146,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://apachejunctionhc.com/",
+            "phoneNumber": "(480) 983-0700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "8\u202fAM\u20137\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPpB2omGfY_GQVnJvwfH3hZtEW8RfrjwaGGhnI7",
+            "cid": "17849861626322836871",
+            "fid": "0x872bb6cc149a8c3d:0xf7b7729396d95d87",
+            "placeId": "ChIJPYyaFMy2K4cRh13ZlpNyt_c"
+        },
+        {
+            "position": 7,
+            "title": "Coronado Healthcare Center",
+            "address": "11411 N 19th Ave, Phoenix, AZ 85029",
+            "latitude": 33.5901364,
+            "longitude": -112.09891599999999,
+            "rating": 4.1,
+            "ratingCount": 409,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "http://coronadocare.com/",
+            "phoneNumber": "(602) 256-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJDxDPgJEm3AOTMarrdOVwopxQpcd24Wv4K1Bm",
+            "cid": "6151480212889014719",
+            "fid": "0x872b6c35a335dfb1:0x555e72a9641811bf",
+            "placeId": "ChIJsd81ozVsK4cRvxEYZKlyXlU"
+        },
+        {
+            "position": 8,
+            "title": "Wesley Community & Health Centers at Golden Gate",
+            "address": "1625 N 39th Ave, Phoenix, AZ 85009",
+            "latitude": 33.4668676,
+            "longitude": -112.1423482,
+            "rating": 4.3,
+            "ratingCount": 49,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Community center",
+                "Family counselor",
+                "Non-profit organization"
+            ],
+            "website": "http://wesleychc.org/",
+            "phoneNumber": "(602) 257-4323",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsQrGjRg4D7NMZEOuRi6f6prmoFjCQhvBE2j5f",
+            "cid": "3457358176947437330",
+            "fid": "0x872b13876b6da1ff:0x2ffb00f1ae3e7f12",
+            "placeId": "ChIJ_6Fta4cTK4cREn8-rvEA-y8"
+        },
+        {
+            "position": 9,
+            "title": "Valleywise Community Health Center - McDowell",
+            "address": "1101 N Central Ave #204, Phoenix, AZ 85004",
+            "latitude": 33.460484799999996,
+            "longitude": -112.0734396,
+            "rating": 4.2,
+            "ratingCount": 230,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Dental clinic",
+                "Dentist",
+                "Diabetes center",
+                "Obstetrician-gynecologist",
+                "HIV testing center",
+                "Laboratory",
+                "Medical clinic",
+                "Nutritionist",
+                "Women's health clinic",
+                "Pharmacy",
+                "Wellness program"
+            ],
+            "website": "https://valleywisehealth.org/locations/community-health-center-mcdowell/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+            "phoneNumber": "(602) 344-6550",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://valleywisehealth.org/book-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSaSBSZP4kEZayLAzwF7b-qnpv2WQ21J9cWKVJ",
+            "cid": "1649680788729049151",
+            "fid": "0x872b120d03ee1f97:0x16e4d7efdcfb303f",
+            "placeId": "ChIJlx_uAw0SK4cRPzD73O_X5BY"
+        }
+    ],
+    "credits": 3
+}

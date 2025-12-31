@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Grand Junction VAMC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0765969,-108.5400905,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grand Junction VA Medical Center",
+            "address": "2121 North Ave, Grand Junction, CO 81501",
+            "latitude": 39.0765969,
+            "longitude": -108.54009049999999,
+            "rating": 3.5,
+            "ratingCount": 140,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/western-colorado-health-care/locations/grand-junction-va-medical-center/",
+            "phoneNumber": "(970) 242-0731",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6ORb1ESleXaEuGtp2dRSCtTt7rN06_QQ6Hqni",
+            "cid": "2926189827878462809",
+            "fid": "0x87471c3ea42f12bb:0x289bea25140ea559",
+            "placeId": "ChIJuxIvpD4cR4cRWaUOFCXqmyg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Turley Dental Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7690418,-108.5601619,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Turley Dental Care",
+            "address": "315 N 25th St #101, Billings, MT 59101",
+            "latitude": 45.7864108,
+            "longitude": -108.504296,
+            "rating": 4.7,
+            "ratingCount": 447,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Dental clinic"
+            ],
+            "website": "http://www.turleydentalcare.com/",
+            "phoneNumber": "(406) 248-6177",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuUszzjmSnK6ulXBSyZy8VoqR4XCzh88hGC-A7",
+            "cid": "11803716726361906088",
+            "fid": "0x53487b2527082c89:0xa3cf39d2e8235ba8",
+            "placeId": "ChIJiSwIJyV7SFMRqFsj6NI5z6M"
+        },
+        {
+            "position": 2,
+            "title": "Turley Dental Care",
+            "address": "1002 Shiloh Crossing Blvd, Billings, MT 59102",
+            "latitude": 45.7516727,
+            "longitude": -108.6160278,
+            "rating": 4,
+            "ratingCount": 54,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Dental hygienist"
+            ],
+            "website": "http://www.turleydentalcare.com/",
+            "phoneNumber": "(406) 248-6177",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_3bUNQmN5ycjWZYjlugxzQPYuBaG08OwijIRGMA3oxtdzCswso1qzt-sxsrZ1GFrPGhy6KUk4k9ugSDJhslEZkj6BwFmcr0m4izQWrOWCny-kJmXatGWOGSjgzb8UxVju8o9h6",
+            "cid": "17909991845418853350",
+            "fid": "0x534862b392e46a53:0xf88d12b1345563e6",
+            "placeId": "ChIJU2rkkrNiSFMR5mNVNLESjfg"
+        }
+    ],
+    "credits": 3
+}

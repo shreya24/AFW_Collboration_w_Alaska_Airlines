@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Hospice of Siouxland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6259854,-96.2978101,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hospice of Siouxland",
+            "address": "3220 Plaza Dr D, South Sioux City, NE 68776",
+            "latitude": 42.4587806,
+            "longitude": -96.4269915,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://hospiceofsiouxland.com/",
+            "phoneNumber": "(402) 404-8323",
+            "cid": "16192267903371951022",
+            "fid": "0x878e0747df61ba41:0xe0b67dde2871bbae",
+            "placeId": "ChIJQbph30cHjocRrrtxKN59tuA"
+        },
+        {
+            "position": 2,
+            "title": "Hospice of Siouxland",
+            "address": "151 Plymouth Street, Le Mars, IA 51031",
+            "latitude": 42.792425699999995,
+            "longitude": -96.2255599,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(712) 546-4848",
+            "cid": "1564488130750768421",
+            "fid": "0x878dc420817bae3f:0x15b62daa78b6e525",
+            "placeId": "ChIJP657gSDEjYcRJeW2eKotthU"
+        },
+        {
+            "position": 3,
+            "title": "Hospice Of Siouxland",
+            "address": "151-199 Plymouth St W, Le Mars, IA 51031",
+            "latitude": 42.7931901,
+            "longitude": -96.1686288,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://hospiceofsiouxland.com/",
+            "phoneNumber": "(712) 546-4848",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J8DFi1-g3aU2vwAylp51qw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=337.19223&pitch=0&thumbfov=100",
+            "cid": "10930550566224817737",
+            "fid": "0x878dc415d6195319:0x97b11dd3d3466e49",
+            "placeId": "ChIJGVMZ1hXEjYcRSW5G09MdsZc"
+        },
+        {
+            "position": 4,
+            "title": "Hospice of Siouxland",
+            "address": "309 Cook St, Sioux City, IA 51103",
+            "latitude": 42.4996529,
+            "longitude": -96.41991569999999,
+            "rating": 4,
+            "ratingCount": 14,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Nurse practitioner",
+                "Physician referral service",
+                "Registered general nurse"
+            ],
+            "website": "http://www.hospiceofsiouxland.com/",
+            "phoneNumber": "(712) 233-4144",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8txHfnsOIgsOdbevDorW9ZtR-ETC90Nt3OD5JVRRHKSScsT4VSkJXqew9kXUiLSDP4b39Nl6_NWAoEW2s081X5W3wbp1DcUhQwQn8MnuRRTNEaD3wdded4OgIXDg_7Cvb6o0P8",
+            "cid": "5188095289553479102",
+            "fid": "0x878de2a0abe4fda7:0x47ffd12d9ab665be",
+            "placeId": "ChIJp_3kq6DijYcRvmW2mi3R_0c"
+        }
+    ],
+    "credits": 3
+}

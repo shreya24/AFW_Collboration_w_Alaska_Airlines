@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Salem Pediatric Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9172198,-123.0288932,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Salem Pediatric Clinic",
+            "address": "2478 13th St SE, Salem, OR 97302",
+            "latitude": 44.9172198,
+            "longitude": -123.0288932,
+            "rating": 3.3,
+            "ratingCount": 125,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical Center"
+            ],
+            "website": "http://salempediatricclinic.com/",
+            "phoneNumber": "(503) 362-2481",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20137\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "8\u202fAM\u201312\u202fPM",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8EvFXXl3nK3Iori2Fz-_sIMYGvZ4AJoffVRYAT6oo1ANbwzj0P0k8DVLUucLbTmzJ-yS9luA2luKjxbR-SHKsNqZA5h0MprB-Cj6rMVePZBq8upjZG8thHJmTUtZBdogi3q0PL",
+            "cid": "10757389792970109134",
+            "fid": "0x54bfff51f48ddc2b:0x9549ed05886570ce",
+            "placeId": "ChIJK9yN9FH_v1QRznBliAXtSZU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,567 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mountain Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9931297,-95.1934989,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Medical Clinic",
+            "address": "4088 W 1820 S, Salt Lake City, UT 84104",
+            "latitude": 40.7313105,
+            "longitude": -111.98902129999999,
+            "rating": 2.4,
+            "ratingCount": 75,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://rmcareclinic.com/",
+            "phoneNumber": "(801) 975-7799",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-xv28HmHZEYBMMt7tvMBmiLCb_QIJhxLhgnuU-9782QnUpBdIhJ77kP2X-YVaSVsCjpFFJ0VXaCGAuRsO4k517nTkDcYXJ8x2C5Li3SVXLdT_WJMH-K1pNyO0Fiw2B10LPhqwPeg",
+            "cid": "16750215745393632985",
+            "fid": "0x8752f322c18a1c5f:0xe874b8795757a6d9",
+            "placeId": "ChIJXxyKwSLzUocR2aZXV3m4dOg"
+        },
+        {
+            "position": 2,
+            "title": "Rocky Mountain Internal Medicine",
+            "address": "4505, 1360 S Potomac St, Aurora, CO 80012",
+            "latitude": 39.692458699999996,
+            "longitude": -104.830438,
+            "rating": 2.5,
+            "ratingCount": 229,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Diagnostic center",
+                "Internist",
+                "Women's health clinic",
+                "Physical therapy clinic",
+                "Sleep clinic"
+            ],
+            "website": "http://www.rmimpc.com/",
+            "phoneNumber": "(303) 337-5575",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/rocky-mountain-internal-medicine-17199?LocIdent=28358&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_1K4uOk6ZJ0GRDiZUJCg-bx-lo_iLYUNseDiEeNsT5-vPQgXB-entity&rwg_token=AAiGsoaZ3a6M9J7SXDt-ZYnm07IXOMhvonQyirqwjH0icZPtTzh1kzsGSP3E4FvQomaGCx2iTWHhiXP8Syqi1jqy1nzF3Ff0JQ%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_hKnlzqT_y7j1gTWNtzs--a41Tp4np0vckUS7tJkDa91GClCH0J-12WRNOG1JNYOCIFj5QEuqxAeuz1DM-ZPxmdEI43x72DlkmNHeIxxiF1TMzc4V06YzLKAbgIi7JSEn7Ls5S",
+            "cid": "3491592011631240231",
+            "fid": "0x876c62bbcf150f29:0x3074a06f71df2427",
+            "placeId": "ChIJKQ8Vz7tibIcRJyTfcW-gdDA"
+        },
+        {
+            "position": 3,
+            "title": "Rocky Mountain Health Center",
+            "address": "14001 E Iliff Ave, Aurora, CO 80014",
+            "latitude": 39.675244299999996,
+            "longitude": -104.8117766,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic"
+            ],
+            "website": "https://rmhcpeds.com/",
+            "phoneNumber": "(303) 996-9601",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ro3RQ9EySqJCkNek-gpabA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=3.1834455&pitch=0&thumbfov=100",
+            "cid": "10429906341530477437",
+            "fid": "0x876c8825e098ce99:0x90be788ebf84a37d",
+            "placeId": "ChIJmc6Y4CWIbIcRfaOEv454vpA"
+        },
+        {
+            "position": 4,
+            "title": "Rocky Mountain Family Medicine",
+            "address": "5840 E 2nd St # 200, Casper, WY 82609",
+            "latitude": 42.844660999999995,
+            "longitude": -106.237352,
+            "rating": 4.3,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.rockymountainfamilymed.com/",
+            "phoneNumber": "(307) 315-6133",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdk8ArGchq3Xoomm39nGZwvHmwYStrAqotKxAR",
+            "cid": "3559217339804680102",
+            "fid": "0x8760bb9d317ba80b:0x3164e1502177ffa6",
+            "placeId": "ChIJC6h7MZ27YIcRpv93IVDhZDE"
+        },
+        {
+            "position": 5,
+            "title": "Rocky Mountain Primary Care - Westminster",
+            "address": "7625 W 92nd Ave, Westminster, CO 80021",
+            "latitude": 39.8640859,
+            "longitude": -105.08238949999999,
+            "rating": 4.6,
+            "ratingCount": 492,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.rmpc.info/?utm_source=GMBSocialClimb&utm_medium=RockyMountainPrimaryCare-Westminster",
+            "phoneNumber": "(303) 252-7790",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrCGxGzQqmNYPURvmxk0ZBxbDAUPvXYtXPxJfu",
+            "cid": "2424654469887505910",
+            "fid": "0x876b890b00c4fe97:0x21a61a64dcb535f6",
+            "placeId": "ChIJl_7EAAuJa4cR9jW13GQapiE"
+        },
+        {
+            "position": 6,
+            "title": "Rocky Mount Family Medical Center",
+            "address": "804 English Rd # 100, Rocky Mount, NC 27804",
+            "latitude": 35.9777027,
+            "longitude": -77.8413788,
+            "rating": 2.7,
+            "ratingCount": 167,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family service center",
+                "Laboratory",
+                "Medical clinic",
+                "Women's health clinic",
+                "STD testing service",
+                "Urgent care center",
+                "X-ray lab"
+            ],
+            "website": "https://rmfmc.com/",
+            "phoneNumber": "(252) 254-2706",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.rmfmc.com/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONLYiMBuhPbsnu8VLOUINmsWHxwNONsh8KVWSt",
+            "cid": "3113627090854457319",
+            "fid": "0x89ae80adf7d843fd:0x2b35d357a969afe7",
+            "placeId": "ChIJ_UPY962ArokR569pqVfTNSs"
+        },
+        {
+            "position": 7,
+            "title": "Rocky Mountain Primary Care - Arvada",
+            "address": "5730 Ward Rd, Arvada, CO 80002",
+            "latitude": 39.8002651,
+            "longitude": -105.1374345,
+            "rating": 4.5,
+            "ratingCount": 412,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "http://rmpc.info/?utm_source=GMBSocialClimb&utm_medium=RockyMountainPrimaryCare-Arvada",
+            "phoneNumber": "(303) 422-6331",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOe2WG26whMeZUQ1GgPJnTyyqRJ1mmO3v5aC3GP",
+            "cid": "6865046653572936663",
+            "fid": "0x876b8f578bf68377:0x5f458b8f10b2f3d7",
+            "placeId": "ChIJd4P2i1ePa4cR1_OyEI-LRV8"
+        },
+        {
+            "position": 8,
+            "title": "Rocky Mountain Primary Care",
+            "address": "131 S Main St, Pueblo, CO 81003",
+            "latitude": 38.2639048,
+            "longitude": -104.61265379999999,
+            "rating": 3.3,
+            "ratingCount": 38,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.rmpcc.com/",
+            "phoneNumber": "(719) 924-9398",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-oVzxv1DMoam2INk76saVA_7Zu4erK0dfZJnPFNtdPe3iVrFlXUYvmsRjSGt3mFRbzUh_SX588WamvEdz-vpWx2TiKsz9XjPKlZARKRJLQ78N2TIHeI4_kHwWb94C17a6kvWif",
+            "cid": "18181905673701149625",
+            "fid": "0x8713a30101e6c2fb:0xfc531ae0dc9dcbb9",
+            "placeId": "ChIJ-8LmAQGjE4cRucud3OAaU_w"
+        },
+        {
+            "position": 9,
+            "title": "Rocky Mountain Medical",
+            "address": "6850 E Evans Ave, Denver, CO 80224",
+            "latitude": 39.6782646,
+            "longitude": -104.9090042,
+            "rating": 3.2,
+            "ratingCount": 26,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(303) 691-5009",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "9\u202fAM\u20133\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQAS8Py2_EhPcfKRgT_I8wwAlulfM6nNfX12Ej",
+            "cid": "11004209429537044753",
+            "fid": "0x876c7d91fcf3a183:0x98b6ce2c618f3911",
+            "placeId": "ChIJg6Hz_JF9bIcRETmPYSzOtpg"
+        },
+        {
+            "position": 10,
+            "title": "Rocky Mountain Men's Clinic",
+            "address": "12000 N Pecos St Suite 252, Westminster, CO 80234",
+            "latitude": 39.9147805,
+            "longitude": -105.00502019999999,
+            "rating": 4.7,
+            "ratingCount": 110,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://rockymountainmensclinic.com/",
+            "phoneNumber": "(877) 317-4400",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5dRmtcl7GfRNtzboMw1K_aMaMsM4LtBWlZiFT",
+            "cid": "5391972940232078166",
+            "fid": "0x876c75225f73412d:0x4ad422d23d0d3356",
+            "placeId": "ChIJLUFzXyJ1bIcRVjMNPdIi1Eo"
+        },
+        {
+            "position": 11,
+            "title": "Rocky Mountain Health Centers South PC",
+            "address": "3540 S Poplar St # 200, Denver, CO 80237",
+            "latitude": 39.652211,
+            "longitude": -104.9043469,
+            "rating": 3.4,
+            "ratingCount": 19,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(303) 226-0013",
+            "openingHours": {
+                "Tuesday": "8:40\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:40\u202fAM\u20135\u202fPM",
+                "Thursday": "8:40\u202fAM\u20135\u202fPM",
+                "Friday": "8:40\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:40\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=behHzdAAFLf_xsP0jyy6kQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=87.11595&pitch=0&thumbfov=100",
+            "cid": "12352208966093202918",
+            "fid": "0x876c876df430aa6d:0xab6bdc9c1f6165e6",
+            "placeId": "ChIJbaow9G2HbIcR5mVhH5zca6s"
+        },
+        {
+            "position": 12,
+            "title": "Rocky Mountain Primary Care",
+            "address": "4860 8585 W 14th Ave Ste B-2, Lakewood, CO 80215",
+            "latitude": 39.738900199999996,
+            "longitude": -105.0928763,
+            "rating": 4.3,
+            "ratingCount": 267,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "http://www.rmpc.info/?utm_source=GMBSocialClimb&utm_medium=RockyMountainPrimaryCare-Lakewood",
+            "phoneNumber": "(303) 238-1201",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM88r1z70m2uqHKIDY6GCvxJJ6au-N6098rt12m",
+            "cid": "18341368173928003609",
+            "fid": "0x876b86c497a4cadb:0xfe89a12d6da23819",
+            "placeId": "ChIJ28qkl8SGa4cRGTiibS2hif4"
+        },
+        {
+            "position": 13,
+            "title": "Rocky Mountain Health Care Services",
+            "address": "310 S 14th St, Colorado Springs, CO 80904",
+            "latitude": 38.836296,
+            "longitude": -104.84905239999999,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB91bV9BlvILEYZ-cL__o_zrcAvIHsEFiwXY7dH_4YsETaQjUE5GZMH5XQvvci_htirrSuVzVlLJscOvU_nWKtSwqUqbL_n1cPtAKeaujCfQFNSHroIknQHZ6OAL78XVnOVTcoa6",
+            "cid": "5799593926315419415",
+            "fid": "0x87135acc658deb39:0x507c4bf2cb8b2717",
+            "placeId": "ChIJOeuNZcxaE4cRFyeLy_JLfFA"
+        },
+        {
+            "position": 14,
+            "title": "Rocky Mountain Men's Clinic",
+            "address": "1780 S Bellaire St #355, Denver, CO 80222",
+            "latitude": 39.6846263,
+            "longitude": -104.937044,
+            "rating": 4.1,
+            "ratingCount": 128,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.rockymountainmensclinic.com/",
+            "phoneNumber": "(877) 317-4400",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXtjoG9FfJ7Aign3qz15yFOyfQEECPydSL6e6L",
+            "cid": "2419803728450171526",
+            "fid": "0x876c7ddfdb923627:0x2194deab9c703286",
+            "placeId": "ChIJJzaS2999bIcRhjJwnKvelCE"
+        },
+        {
+            "position": 15,
+            "title": "Rocky Mountain Health Centers Pediatrics, P.C.",
+            "address": "14001 E Iliff Ave #210, Aurora, CO 80014",
+            "latitude": 39.6760818,
+            "longitude": -104.826448,
+            "rating": 3.9,
+            "ratingCount": 102,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.rmhcpeds.com/",
+            "phoneNumber": "(303) 996-9601",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyzNjTa4mFA6VqOCpIqb1nplYeEdtvvmY47brh",
+            "cid": "2172455249940678288",
+            "fid": "0x876c881e5fdb360f:0x1e261c8a27258690",
+            "placeId": "ChIJDzbbXx6IbIcRkIYlJ4ocJh4"
+        },
+        {
+            "position": 16,
+            "title": "Rocky Mountain Wellness Clinic",
+            "address": "2065 E 17th St A, Idaho Falls, ID 83404",
+            "latitude": 43.4832435,
+            "longitude": -111.99203539999999,
+            "rating": 4.9,
+            "ratingCount": 32,
+            "type": "Medical spa",
+            "types": [
+                "Medical spa",
+                "IV therapy service",
+                "Men's health physician",
+                "Women's health clinic",
+                "Reproductive health clinic",
+                "Weight loss service"
+            ],
+            "website": "http://rockymountainwomensclinic.com/",
+            "phoneNumber": "(208) 497-0541",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHkP8UQWxOT_cb8urtt7LexWJzPLb1jK5jHbS0",
+            "cid": "12747406792903506900",
+            "fid": "0x53545f859b4bbb2f:0xb0e7e2f0826a3bd4",
+            "placeId": "ChIJL7tLm4VfVFMR1DtqgvDi57A"
+        },
+        {
+            "position": 17,
+            "title": "Rocky Mountain Primary Care",
+            "address": "3520 W 92nd Ave, Westminster, CO 80031",
+            "latitude": 39.863063,
+            "longitude": -105.03323089999999,
+            "rating": 2.1,
+            "ratingCount": 21,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Internist",
+                "Pediatrician"
+            ],
+            "website": "https://rmpc.info/locations/rmpc-partners-in-health/",
+            "phoneNumber": "(303) 429-6600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HR-vY2yCov1sy_PXEVNo8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=72.039375&pitch=0&thumbfov=100",
+            "cid": "8187969634046224653",
+            "fid": "0x876b89d7f7b37e5b:0x71a183001d02a90d",
+            "placeId": "ChIJW36z99eJa4cRDakCHQCDoXE"
+        },
+        {
+            "position": 18,
+            "title": "Rocky Mountain Clinic",
+            "address": "811 E 3000 N, Ogden, UT 84414",
+            "latitude": 41.3155364,
+            "longitude": -111.9538022,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZZ94fwXV7G1dAF6MLOa9wQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=183.97562&pitch=0&thumbfov=100",
+            "cid": "17037302621998197961",
+            "fid": "0x87530c9fb7b6de89:0xec70a8779b08acc9",
+            "placeId": "ChIJid62t58MU4cRyawIm3eocOw"
+        },
+        {
+            "position": 19,
+            "title": "Intermountain Health Butte Clinic - Family Medicine",
+            "address": "435 S Crystal St #300, Butte, MT 59701",
+            "latitude": 46.0085568,
+            "longitude": -112.54561899999999,
+            "rating": 3.8,
+            "ratingCount": 29,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/butte-clinic-family-medicine?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 496-3600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/butte-clinic-family-medicine?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krWuMC7TF-WIF6Q0VPPh3Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=275.07034&pitch=0&thumbfov=100",
+            "cid": "15895768111172164382",
+            "fid": "0x535b0834b5c53275:0xdc991ce0b2661b1e",
+            "placeId": "ChIJdTLFtTQIW1MRHhtmsuAcmdw"
+        },
+        {
+            "position": 20,
+            "title": "Rocky Mountain Physician Services",
+            "address": "1801 N Williams St, Denver, CO 80218",
+            "latitude": 39.745071599999996,
+            "longitude": -104.96632939999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(303) 316-0900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ziTJQc1KvKJxCIfg7cAYXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=96.65641&pitch=0&thumbfov=100",
+            "cid": "7091326875613029963",
+            "fid": "0x876c79343c133781:0x62697438cf18664b",
+            "placeId": "ChIJgTcTPDR5bIcRS2YYzzh0aWI"
+        }
+    ],
+    "credits": 3
+}

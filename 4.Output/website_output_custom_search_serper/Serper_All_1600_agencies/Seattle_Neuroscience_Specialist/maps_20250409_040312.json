@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Seattle Neuroscience Specialist",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.668368,-122.380854,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Neuroscience Specialists - Ballard",
+            "address": "5350 Tallman Ave NW Suite 400, Seattle, WA 98107",
+            "latitude": 47.668368,
+            "longitude": -122.380854,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "https://www.swedish.org/services/neuroscience-institute?y_source=1_OTU3Njg3Ny03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D#llaid=6967",
+            "phoneNumber": "(206) 781-6320",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VP-FpVPl1QP-bp7Ll9LW8w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=57.479824&pitch=0&thumbfov=100",
+            "cid": "12158681582593333915",
+            "fid": "0x549015c898f9b66d:0xa8bc507adb8f5a9b",
+            "placeId": "ChIJbbb5mMgVkFQRm1qP23pQvKg"
+        }
+    ],
+    "credits": 3
+}

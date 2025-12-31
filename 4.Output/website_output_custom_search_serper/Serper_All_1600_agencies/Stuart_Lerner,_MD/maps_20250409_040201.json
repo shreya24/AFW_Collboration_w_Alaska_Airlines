@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Stuart Lerner, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.4211017,-157.747301,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stuart Lerner, MD",
+            "address": "970 N Kalaheo Ave c316, Kailua, HI 96734",
+            "latitude": 21.421101699999998,
+            "longitude": -157.747301,
+            "rating": 4.5,
+            "ratingCount": 68,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Emergency care physician",
+                "Holistic medicine practitioner"
+            ],
+            "website": "http://www.dr-lerner.com/",
+            "phoneNumber": "(808) 954-4463",
+            "menu": "https://www.dr-lerner.com/services?utm_source=google_menu",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.dr-lerner.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.tebra.com/care/practice/stuart-lerner-md-848996?lid=1904584528&rwg_token=AAiGsoZ2fr3d3Ej6mwH4N3ZiSTj_TF0pGvTWUdeXqvvEUIHLnUzpcUGBGhGhBTOYaleKx5g-U7ht6C3PRaAQQIKrtTRa8Pi62g%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCiKw-sJ6anzvlbl0iNDLKHgTQvnYVCfvGWvM_",
+            "cid": "12306321141151148371",
+            "fid": "0x7c0014e1658d36e9:0xaac8d5e04e31a953",
+            "placeId": "ChIJ6TaNZeEUAHwRU6kxTuDVyKo"
+        }
+    ],
+    "credits": 3
+}

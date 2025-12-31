@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "North Starr",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@51.510306,-0.094009,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Starr",
+            "address": "Vintners Place, 68 Upper Thames St., City of London, London EC4V 3BJ, United Kingdom",
+            "latitude": 51.510306,
+            "longitude": -0.094009,
+            "rating": 4.8,
+            "ratingCount": 10,
+            "type": "Recruiter",
+            "types": [
+                "Recruiter"
+            ],
+            "website": "https://www.thenorthstarr.com/",
+            "phoneNumber": "+44 20 3800 0983",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfJcGd3cTAlXLTnlpW52j3xSXQRsxuseny-aHj",
+            "cid": "16530101225526213922",
+            "fid": "0x487604aa07c1e3a5:0xe566b77c00bd3d22",
+            "placeId": "ChIJpePBB6oEdkgRIj29AHy3ZuU"
+        }
+    ],
+    "credits": 3
+}

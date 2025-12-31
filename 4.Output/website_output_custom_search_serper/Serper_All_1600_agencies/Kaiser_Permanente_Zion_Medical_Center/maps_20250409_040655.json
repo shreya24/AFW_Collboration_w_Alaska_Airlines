@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Zion Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7913535,-117.0954412,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Zion Medical Center",
+            "address": "4647 Zion Ave, San Diego, CA 92120",
+            "latitude": 32.7913535,
+            "longitude": -117.0954412,
+            "rating": 3.7,
+            "ratingCount": 409,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Kaiser-Permanente-Zion-Medical-Center-100084",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbLlX3ktqMNib8x2iTLcuH_D15C2jrVH9Uly4E",
+            "cid": "16884578483617548433",
+            "fid": "0x80d955c2423fcdaf:0xea5212ac2a3a4891",
+            "placeId": "ChIJr80_QsJV2YARkUg6KqwSUuo"
+        }
+    ],
+    "credits": 3
+}

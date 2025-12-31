@@ -1,0 +1,232 @@
+{
+    "searchParameters": {
+        "q": "Stanford Orthopedic Shoulder and Elbow",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6360883,-122.2260242,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shoulder and Elbow Clinic",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.4855915,
+            "longitude": -122.2030599,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/shoulder-elbow-clinic.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-5643",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-sL2G81eJLDJ4csx8t-AQXG1UqaPlWsErsgobEOt4SJqwk66MZN2YP7b3B__eMm8CLEaJFo7m2MnuFhqO5omxWH2ODNhflij0C-WZJpivcCEJrqUfr4JLGq-y3hiJFN1YPllsrFg",
+            "cid": "16621611553758574978",
+            "fid": "0x808fa319f587beeb:0xe6abd3a4a04ef982",
+            "placeId": "ChIJ676H9Rmjj4ARgvlOoKTTq-Y"
+        },
+        {
+            "position": 2,
+            "title": "Stanford Medicine Department of Orthopaedic Surgery",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.4857417,
+            "longitude": -122.2029766,
+            "rating": 4.1,
+            "ratingCount": 13,
+            "type": "Academic department",
+            "types": [
+                "Academic department"
+            ],
+            "website": "http://ortho.stanford.edu/contacts.html",
+            "phoneNumber": "(650) 721-7669",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_-p3-TWtukNjmHATg6TK7gEAlpukB0QlAUJrQvCVeFuBblzBFxEdpIIfzhvPe_WmksMsjo9Lq7N49u8LyvWMs4vqw0sTn6CxdjO9UJlwoW00mjfuyLGeCxLJ1pGYHxgxtEYBHsBA",
+            "cid": "8062611277517243546",
+            "fid": "0x808fa4d2fef5deb7:0x6fe4263d4679449a",
+            "placeId": "ChIJt971_tKkj4ARmkR5Rj0m5G8"
+        },
+        {
+            "position": 3,
+            "title": "Stanford Hand Surgery",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.485707999999995,
+            "longitude": -122.2028014,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Hand surgeon"
+            ],
+            "website": "https://med.stanford.edu/",
+            "phoneNumber": "(650) 723-5643",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PM_0ux2u2JaLVUpeW9YVXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=11.9593525&pitch=0&thumbfov=100",
+            "cid": "8713911003157878030",
+            "fid": "0x808fa319e1e7269d:0x78ee07e39b97d50e",
+            "placeId": "ChIJnSbn4Rmjj4ARDtWXm-MH7ng"
+        },
+        {
+            "position": 4,
+            "title": "James M. Hartford, M.D.",
+            "address": "795 El Camino Real Lee, Building, Level 3, Palo Alto, CA 94301",
+            "latitude": 37.4401946,
+            "longitude": -122.1614372,
+            "rating": 4.9,
+            "ratingCount": 89,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.sutterhealth.org/find-provider/dr-james-m-hartford-1046236765",
+            "phoneNumber": "(650) 853-2951",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QDP4pC331NOxfsYamRIzOA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=73.78988&pitch=0&thumbfov=100",
+            "cid": "14206678661224608745",
+            "fid": "0x808fbb3acd917773:0xc52842f8e06a33e9",
+            "placeId": "ChIJc3eRzTq7j4AR6TNq4PhCKMU"
+        },
+        {
+            "position": 5,
+            "title": "Stanford Sports Medicine",
+            "address": "341 Galvez St, Stanford, CA 94305",
+            "latitude": 37.429983,
+            "longitude": -122.16402339999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://ortho.stanford.edu/",
+            "phoneNumber": "(650) 725-8202",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NA0jLxdq1r53pRDeNRkiGQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.685356&pitch=0&thumbfov=100",
+            "cid": "10903814880606495922",
+            "fid": "0x808fbb2803254cb5:0x975221dcef2b24b2",
+            "placeId": "ChIJtUwlAyi7j4ARsiQr79whUpc"
+        },
+        {
+            "position": 6,
+            "title": "Stanford Orthopaedic Surgery Emeryville",
+            "address": "6121 Hollis St, Emeryville, CA 94608",
+            "latitude": 37.8421936,
+            "longitude": -122.2906112,
+            "rating": 1.8,
+            "ratingCount": 5,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/orthopaedics-sports-medicine-emeryville.html",
+            "phoneNumber": "(510) 974-2800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "18139211988009539181",
+            "fid": "0x80857fb37b14d3c7:0xfbbb6d328ad0d66d",
+            "placeId": "ChIJx9MUe7N_hYARbdbQijJtu_s"
+        },
+        {
+            "position": 7,
+            "title": "Stanford Orthopaedic and Sports Medicine Physical Therapy Clinic",
+            "address": "450 Broadway 3rd floor, Redwood City, CA 94063",
+            "latitude": 37.485725599999995,
+            "longitude": -122.2027313,
+            "rating": 3.4,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital department",
+                "Sports medicine clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/orthopaedic-sports-medicine-physical-therapy.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 725-5106",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOFxVi0xIghzHI6lAJlUnlCMB21_7bqR9GWl0s5",
+            "cid": "7954842529357925577",
+            "fid": "0x808fa319e1e7269d:0x6e654722468c8cc9",
+            "placeId": "ChIJnSbn4Rmjj4ARyYyMRiJHZW4"
+        },
+        {
+            "position": 8,
+            "title": "Emilie Cheung, MD",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.485748,
+            "longitude": -122.203069,
+            "rating": 5,
+            "ratingCount": 19,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "website": "https://stanfordhealthcare.org/doctors/c/emilie-cheung.html?cid=provider%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-5256",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB90R3BvUk990YAC3x3Wvhfu96jXGHRl27JflopbXO6nRkwLKi2-Rwsubg5eoLTjCGAfFt9iwa-sKa4Gb_Pk1SUzfWgd_4XUrfGphUTq0v4CNV1DELSf5sESx50awemyuTHJLlM",
+            "cid": "4471002977178860684",
+            "fid": "0x808fa319e1e7269d:0x3e0c3184f475bc8c",
+            "placeId": "ChIJnSbn4Rmjj4ARjLx19IQxDD4"
+        },
+        {
+            "position": 9,
+            "title": "Stanford Robert A. Chase Hand & Upper Limb Center",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.4857136,
+            "longitude": -122.20306269999999,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital department"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/hand-upper-limb-center.html?ecid=glocalsearch-ls-google-clinicpage-all-HandUpperLimbCenter?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-5256",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_02RMwXz0LI_NdkccoX3zEzugNroADwmHe8MpcCkDmBSrcPtiIJTUezuqj0Nz3hzbuUJcONmu9s6keYBCC_ZQKizFfvN_aTT6j2SxuvswxB63kFQLUy7Q8c5JmL2-8eQTCwCdv",
+            "cid": "17870871778223282326",
+            "fid": "0x808fa31c00000001:0xf8021732c78d5896",
+            "placeId": "ChIJAQAAAByjj4ARlliNxzIXAvg"
+        }
+    ],
+    "credits": 3
+}

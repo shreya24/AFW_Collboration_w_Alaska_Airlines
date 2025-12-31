@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "UNM Cancer Research & Treatment Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0925694,-106.6232208,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Comprehensive Cancer Center",
+            "address": "1201 Camino de Salud NE, Albuquerque, NM 87102",
+            "latitude": 35.095576099999995,
+            "longitude": -106.6272534,
+            "rating": 3.6,
+            "ratingCount": 70,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://unmhealth.org/cancer/",
+            "phoneNumber": "(505) 272-4946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://unmhealth.org/cancer/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpNASFH3dXjBzqobvvYAH-l032--mf-JXwv7l4",
+            "cid": "17444617878087057336",
+            "fid": "0x87220b5628575ab7:0xf217bb88d9cebfb8",
+            "placeId": "ChIJt1pXKFYLIocRuL_O2Yi7F_I"
+        },
+        {
+            "position": 2,
+            "title": "UNM Cancer Research Facility",
+            "address": "2325 Camino de Salud, Albuquerque, NM 87131",
+            "latitude": 35.0895627,
+            "longitude": -106.6191882,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Research institute",
+            "types": [
+                "Research institute"
+            ],
+            "website": "https://unmhealth.org/cancer/research/programs/",
+            "phoneNumber": "(505) 272-4946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOgu-ggxoHi5_W8-dU65Pz58V5Xq2mAaUYkv34Q",
+            "cid": "5717172553676776701",
+            "fid": "0x87220ca9a2dbb729:0x4f577a258d8464fd",
+            "placeId": "ChIJKbfboqkMIocR_WSEjSV6V08"
+        }
+    ],
+    "credits": 3
+}

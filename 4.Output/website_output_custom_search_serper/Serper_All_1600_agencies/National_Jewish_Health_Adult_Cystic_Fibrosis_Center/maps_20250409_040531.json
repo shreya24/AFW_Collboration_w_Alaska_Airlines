@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "National Jewish Health Adult Cystic Fibrosis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7390914,-104.9421121,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Jewish Health",
+            "address": "1400 Jackson St, Denver, CO 80206",
+            "latitude": 39.7390914,
+            "longitude": -104.94211209999999,
+            "rating": 3.3,
+            "ratingCount": 409,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.nationaljewish.org/?utm_source=gmb&utm_medium=yext&utm_id=1&y_source=1_MTIyNzk2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(303) 398-1355",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORAZ0_d4zCBJtZdCzmG7e8tbQhFldBJeL3auKX",
+            "cid": "1987703094369308485",
+            "fid": "0x876c7eabd53b35c7:0x1b95bd6edad3cf45",
+            "placeId": "ChIJxzU71at-bIcRRc_T2m69lRs"
+        }
+    ],
+    "credits": 3
+}

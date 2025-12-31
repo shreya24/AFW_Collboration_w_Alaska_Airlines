@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "St. Mary's Medical Center San Francisco",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7739514,-122.4538523,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Health St. Mary's Hospital",
+            "address": "450 Stanyan St, San Francisco, CA 94117",
+            "latitude": 37.7739514,
+            "longitude": -122.4538523,
+            "rating": 4.2,
+            "ratingCount": 479,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://sfcommunityhospitals.ucsfhealth.org/st-marys",
+            "phoneNumber": "(415) 668-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNvg-acGxzQLCurLo8bf_Izq043ckkGsvjZrIBX",
+            "cid": "9633658465290855862",
+            "fid": "0x8085874eef7c68f3:0x85b1a1553718a5b6",
+            "placeId": "ChIJ82h8706HhYARtqUYN1WhsYU"
+        }
+    ],
+    "credits": 3
+}

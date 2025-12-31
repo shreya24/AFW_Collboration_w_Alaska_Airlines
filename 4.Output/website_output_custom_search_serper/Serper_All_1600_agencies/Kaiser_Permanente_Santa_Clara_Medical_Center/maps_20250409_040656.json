@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Santa Clara Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.335928,-121.9994844,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Santa Clara Medical Center",
+            "address": "700 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.335927999999996,
+            "longitude": -121.9994844,
+            "rating": 4.4,
+            "ratingCount": 2043,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Santa-Clara-Medical-Center-100305",
+            "phoneNumber": "(408) 851-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8QhiQs0Zu0K2x5_D7PJpxyzfrTPOREl_XIOXvGAKc-6mMGiameWyIr6PR3Je5rtvCLnRdvhYvK7xlPb1glZGw8jq3x4erJLPyeovSH3qV7K2UXEH1bUo91vndThu7wySrQCNUSPA",
+            "cid": "5221244211082759908",
+            "fid": "0x808fb58f52973dcd:0x487595f257270ee4",
+            "placeId": "ChIJzT2XUo-1j4AR5A4nV_KVdUg"
+        }
+    ],
+    "credits": 3
+}

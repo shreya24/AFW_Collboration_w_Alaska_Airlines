@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "Arlington Police Department",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4266056,-99.6051705,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arlington Police Department - Main Station / North District Service Center",
+            "address": "620 W Division St, Arlington, TX 76011",
+            "latitude": 32.7386869,
+            "longitude": -97.1139055,
+            "type": "Police department",
+            "types": [
+                "Police department"
+            ],
+            "website": "http://www.arlingtonpd.org/",
+            "phoneNumber": "(817) 459-5700",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNIWZ9yoXYGwCkr1Ss9Pm-DMr7LdyasKn4dleCV",
+            "cid": "17555079155626331978",
+            "fid": "0x864e7d74cc42e3e3:0xf3a02b7b32f8cf4a",
+            "placeId": "ChIJ4-NCzHR9ToYRSs_4MnsroPM"
+        },
+        {
+            "position": 2,
+            "title": "Arlington VIRGINIA Police Department",
+            "address": "1425 N Courthouse Rd, Arlington, VA 22201",
+            "latitude": 38.8897592,
+            "longitude": -77.0832557,
+            "type": "Police department",
+            "types": [
+                "Police department",
+                "County government office"
+            ],
+            "phoneNumber": "(703) 558-2222",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHxoybCOkxK2Nolb_6DpXPwxFcBgtwaxEe5GV5",
+            "cid": "2917060398007693602",
+            "fid": "0x89b7b68a6bc5e6c3:0x287b7afa0b9bb122",
+            "placeId": "ChIJw-bFa4q2t4kRIrGbC_p6eyg"
+        },
+        {
+            "position": 3,
+            "title": "Arlington Police Department - South District Service Center",
+            "address": "1030 SW Green Oaks Blvd, Arlington, TX 76017",
+            "latitude": 32.658628799999995,
+            "longitude": -97.1284773,
+            "type": "Police department",
+            "types": [
+                "Police department"
+            ],
+            "website": "http://www.arlingtonpd.org/",
+            "phoneNumber": "(817) 459-6640",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKCj65K-dB8rP7XaFmyA5h4oofkO3wW0EYTlew",
+            "cid": "5920294978663721306",
+            "fid": "0x864e62fba6037663:0x52291cea80c7a95a",
+            "placeId": "ChIJY3YDpvtiToYRWqnHgOocKVI"
+        },
+        {
+            "position": 4,
+            "title": "Arlington Police Department",
+            "address": "110 E 3rd St, Arlington, WA 98223",
+            "latitude": 48.194582499999996,
+            "longitude": -122.12708529999999,
+            "type": "Police department",
+            "types": [
+                "Police department"
+            ],
+            "website": "http://www.arlingtonwa.gov/police",
+            "phoneNumber": "(360) 403-3400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qDd4qNAvqw_hWuHA5OnNPA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=203.75322&pitch=0&thumbfov=100",
+            "cid": "17262857515339614705",
+            "fid": "0x54854f9b23864997:0xef91fd729a0009f1",
+            "placeId": "ChIJl0mGI5tPhVQR8QkAmnL9ke8"
+        }
+    ],
+    "credits": 3
+}

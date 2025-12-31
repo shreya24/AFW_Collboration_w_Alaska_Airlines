@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Los Angeles",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0983837,-118.2939125,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Los Angeles Medical Center",
+            "address": "4867 W Sunset Blvd, Los Angeles, CA 90027",
+            "latitude": 34.0983837,
+            "longitude": -118.29391249999999,
+            "rating": 3.9,
+            "ratingCount": 966,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Los-Angeles-Medical-Center-100099",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwtNPeNKrxEp1tuYAWMj6TzcKZDkB9CvLZd-dW",
+            "cid": "4159859768528668954",
+            "fid": "0x80c2c0ac9b14ae13:0x39baca6b6a97091a",
+            "placeId": "ChIJE64Um6zAwoARGgmXamvKujk"
+        }
+    ],
+    "credits": 3
+}

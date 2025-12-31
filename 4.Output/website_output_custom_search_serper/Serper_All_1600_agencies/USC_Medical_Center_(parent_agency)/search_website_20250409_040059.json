@@ -1,0 +1,106 @@
+{
+    "searchParameters": {
+        "q": "USC Medical Center (parent agency) website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "LA General Medical Center - Health Services Los Angeles County",
+            "link": "https://dhs.lacounty.gov/lageneral/",
+            "snippet": "Access your medical record, which includes your medications, lab results, visit care summaries, and future appointments. learn more.",
+            "attributes": {
+                "Missing": "(parent | Show results with:(parent"
+            },
+            "position": 1
+        },
+        {
+            "title": "Keck Medicine of USC",
+            "link": "https://www.keckmedicine.org/",
+            "snippet": "We are dedicated to assist patients through the process of receiving care at Keck Medicine of USC for international patients. Learn more about our services.",
+            "attributes": {
+                "Missing": "agency) | Show results with:agency)"
+            },
+            "sitelinks": [
+                {
+                    "title": "placeFind a Location",
+                    "link": "https://www.keckmedicine.org/locations/"
+                },
+                {
+                    "title": "Career Opportunities at USC",
+                    "link": "https://www.keckmedicine.org/career-opportunities-at-usc/"
+                },
+                {
+                    "title": "USC Healthcare Center 1",
+                    "link": "https://www.keckmedicine.org/locations/1510-san-pablo-st-los-angeles/"
+                }
+            ],
+            "position": 2
+        },
+        {
+            "title": "USC Care Medical Group Inc. \u2013 Departments Directory",
+            "link": "https://departmentsdirectory.usc.edu/usc-care-medical-group-inc/",
+            "snippet": "USC Care Medical Group Inc. 1510 San Pablo Street, 6th Floor, Los Angeles 90033 Main Phone: 1-800-USC CARE, (800) 872-2273 Main Fax: (323)",
+            "position": 3
+        },
+        {
+            "title": "Career Opportunities at USC - Keck Medicine of USC",
+            "link": "https://www.keckmedicine.org/career-opportunities-at-usc/",
+            "snippet": "With more than 40 outpatient facilities throughout Southern California, you can be part of a world-class medical team right in your community. We're Hiring.",
+            "position": 4
+        },
+        {
+            "title": "Who We Are - LA General Medical Center",
+            "link": "https://dhs.lacounty.gov/lageneral/who-we-are/",
+            "snippet": "LAC+USC Medical Center is now Los Angeles General Medical Center, still offering the same world-class care to our communities. The origin of LA General ...",
+            "attributes": {
+                "Missing": "(parent | Show results with:(parent"
+            },
+            "sitelinks": [
+                {
+                    "title": "Medical Staff Leadership / ASO",
+                    "link": "https://dhs.lacounty.gov/lageneral/who-we-are/attending-staff/medical-staff-leadership-aso/"
+                },
+                {
+                    "title": "Volunteer Services",
+                    "link": "https://dhs.lacounty.gov/lageneral/who-we-are/volunteer-services/"
+                },
+                {
+                    "title": "Contact Information",
+                    "link": "https://dhs.lacounty.gov/lageneral/who-we-are/attending-staff/contact-information/"
+                }
+            ],
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "LAC+USC Medical Center"
+        },
+        {
+            "query": "lac+usc medical center address"
+        },
+        {
+            "query": "Los Angeles General Medical Center"
+        },
+        {
+            "query": "USC Keck departments"
+        },
+        {
+            "query": "Keck Medicine of USC locations"
+        },
+        {
+            "query": "USC Keck directory"
+        },
+        {
+            "query": "Keck Hospital of USC"
+        },
+        {
+            "query": "lac+usc medical center phone number"
+        }
+    ],
+    "credits": 1
+}

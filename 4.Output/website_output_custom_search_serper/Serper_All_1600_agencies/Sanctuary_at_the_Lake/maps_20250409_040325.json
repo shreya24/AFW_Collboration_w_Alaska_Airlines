@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "Sanctuary at the Lake",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.2079757,-86.8859683,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Sanctuary of Lake Villa",
+            "address": "851 Sanctuary Dr, Lake Villa, IL 60046",
+            "latitude": 42.4135077,
+            "longitude": -88.0611931,
+            "rating": 4.3,
+            "ratingCount": 80,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex",
+                "Apartment building",
+                "Apartment rental agency"
+            ],
+            "website": "https://www.sanctuaryoflakevilla.com/?rcstdid=Mg%3D%3D-YRjTEizZPgM%3D&utm_source=GMB&utm_medium=organic",
+            "phoneNumber": "(224) 643-4092",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "11\u202fAM\u20135\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuFgiBYtSRoZQtvo40kvF_AyG_XmfVZrRIP_E_",
+            "cid": "2799657978870069004",
+            "fid": "0x880f84f7665b7cd7:0x26da62193b23770c",
+            "placeId": "ChIJ13xbZveED4gRDHcjOxli2iY"
+        },
+        {
+            "position": 2,
+            "title": "Sanctuary at Mallard Lake by Fischer Homes",
+            "address": "141 Mallard Lake Blvd, Shepherdsville, KY 40165",
+            "latitude": 38.0024438,
+            "longitude": -85.71074349999999,
+            "rating": 4.2,
+            "ratingCount": 37,
+            "type": "Home builder",
+            "types": [
+                "Home builder"
+            ],
+            "website": "https://www.fischerhomes.com/find-new-homes/communities/722/enclave-mallard-lake/?y_source=1_MTAwMzI1MjgwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(502) 806-8466",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20136\u202fPM",
+                "Wednesday": "11\u202fAM\u20136\u202fPM",
+                "Thursday": "11\u202fAM\u20136\u202fPM",
+                "Friday": "12\u20136\u202fPM",
+                "Saturday": "11\u202fAM\u20136\u202fPM",
+                "Sunday": "12\u20136\u202fPM",
+                "Monday": "11\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fischerhomes.com/find-new-homes/decorated-models/355/153-mallard-lake-blvd/?y_source=1_MTAwMzI1MjgwMC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYfs2bbhBAbq6gcb3sHp9sdUQ5DEoTeqYgcScd",
+            "cid": "17351115990628251309",
+            "fid": "0x886904690e7f9acf:0xf0cb8c1035ff36ad",
+            "placeId": "ChIJz5p_DmkEaYgRrTb_NRCMy_A"
+        }
+    ],
+    "credits": 3
+}

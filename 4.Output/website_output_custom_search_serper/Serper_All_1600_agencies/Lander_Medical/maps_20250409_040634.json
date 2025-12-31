@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Lander Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5423762,-56.8932316,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lander Medical Clinic, P.C.",
+            "address": "745 Buena Vista Dr, Lander, WY 82520",
+            "latitude": 42.824771999999996,
+            "longitude": -108.73116789999999,
+            "rating": 3.5,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Gynecologist",
+                "Internist",
+                "Mammography service",
+                "Pediatric clinic"
+            ],
+            "website": "https://landermedicalclinic.com/",
+            "phoneNumber": "(307) 332-2941",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSNfBA7Qe_ZwYs7ZK5fdlUf0FAlNDu0g08fxD8",
+            "cid": "11135801315598273246",
+            "fid": "0x875901eb3e1bd803:0x9a8a504be9900ade",
+            "placeId": "ChIJA9gbPusBWYcR3gqQ6UtQipo"
+        },
+        {
+            "position": 2,
+            "title": "Lander Medical Practice",
+            "address": "Truro Health Park, Infirmary Hill, Truro TR1 2JA, United Kingdom",
+            "latitude": 50.2599805,
+            "longitude": -5.055295399999999,
+            "rating": 3.1,
+            "ratingCount": 47,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "General practitioner"
+            ],
+            "website": "http://www.landermedicalpractice.co.uk/",
+            "phoneNumber": "+44 1872 243700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMW4wgPDRFkxxhQI03luWKy94JYlZrpMGktZo4X",
+            "cid": "14685401948275007663",
+            "fid": "0x486b164a8777e907:0xcbcd0743eec2e0af",
+            "placeId": "ChIJB-l3h0oWa0gRr-DC7kMHzcs"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Amedisys Hospice of Omak",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3971117,-119.5455082,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Enhabit Hospice - Omak",
+            "address": "800 Jasmine St #2, Omak, WA 98841",
+            "latitude": 48.397111699999996,
+            "longitude": -119.5455082,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.ehab.com/?utm_source=gmb&utm_medium=yext",
+            "phoneNumber": "(509) 422-8621",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8cHSgK9CzyqIPg4uO3GowkUVlf1VOz_Y3JM6k",
+            "cid": "11949008938510745173",
+            "fid": "0x549ce9252a20dfa3:0xa5d368522de67e55",
+            "placeId": "ChIJo98gKiXpnFQRVX7mLVJo06U"
+        }
+    ],
+    "credits": 3
+}

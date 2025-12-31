@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Colorado Springs Neurological Associate",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8659218,-104.8205893,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colorado Springs Neurological Associates",
+            "address": "2312 N Nevada Ave #100, Colorado Springs, CO 80907",
+            "latitude": 38.865921799999995,
+            "longitude": -104.8205893,
+            "rating": 4.6,
+            "ratingCount": 1454,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.csneuro.com/",
+            "phoneNumber": "(719) 473-3272",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.csneuro.com/contact/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_2Uqa7yTbLirD0b3VvZNGz0yqj8XVcyinNaJm",
+            "cid": "1951378169364731753",
+            "fid": "0x8713451155555555:0x1b14b01b2f6fd769",
+            "placeId": "ChIJVVVVVRFFE4cRaddvLxuwFBs"
+        }
+    ],
+    "credits": 3
+}

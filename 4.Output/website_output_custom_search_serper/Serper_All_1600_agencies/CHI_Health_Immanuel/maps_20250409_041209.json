@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "CHI Health Immanuel",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.3219266,-96.0204008,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHI Health Immanuel",
+            "address": "6901 N 72nd St, Omaha, NE 68122",
+            "latitude": 41.3219266,
+            "longitude": -96.02040079999999,
+            "rating": 4,
+            "ratingCount": 804,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.chihealth.com/locations/immanuel",
+            "phoneNumber": "(402) 572-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOW9chxwPUyi4_x8CdmP1zt5jX7PGMf7JEOAHXy",
+            "cid": "3408098927642457104",
+            "fid": "0x87939251e4f1fe19:0x2f4bffeaf584b410",
+            "placeId": "ChIJGf7x5FGSk4cRELSE9er_Sy8"
+        }
+    ],
+    "credits": 3
+}

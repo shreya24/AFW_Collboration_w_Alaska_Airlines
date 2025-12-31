@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "White Mountain Safe House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2084994,-110.0220529,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "White Mountain SAFE House Thrift",
+            "address": "4551 S White Mountain Rd, Show Low, AZ 85901",
+            "latitude": 34.2084994,
+            "longitude": -110.02205289999999,
+            "rating": 4.8,
+            "ratingCount": 29,
+            "type": "Thrift store",
+            "types": [
+                "Thrift store"
+            ],
+            "phoneNumber": "(928) 892-5900",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "10\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4f2coWxbTVxEuEPKfKFrTWD10sL6DcKY0EeHi",
+            "cid": "3530822611659665340",
+            "fid": "0x872f35c89c9e17e9:0x310000754ce42fbc",
+            "placeId": "ChIJ6ReenMg1L4cRvC_kTHUAADE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Phoenix Children's Scottsdale Specialty Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5829724,-111.930684,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Phoenix Children's Specialty Care",
+            "address": "6990 E Shea Blvd, Scottsdale, AZ 85254",
+            "latitude": 33.582972399999996,
+            "longitude": -111.930684,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Specialized clinic",
+            "types": [
+                "Specialized clinic"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Scottsdale/6990-E-Shea-Blvd-Specialty-Care",
+            "phoneNumber": "(602) 933-0004",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNcczivuqkyZTRuTTOJzzqAHLCSiMgPAmphogaQ",
+            "cid": "13318823315803099515",
+            "fid": "0x872b755a4ac95cab:0xb8d5f73d54a2517b",
+            "placeId": "ChIJq1zJSlp1K4cRe1GiVD331bg"
+        }
+    ],
+    "credits": 3
+}

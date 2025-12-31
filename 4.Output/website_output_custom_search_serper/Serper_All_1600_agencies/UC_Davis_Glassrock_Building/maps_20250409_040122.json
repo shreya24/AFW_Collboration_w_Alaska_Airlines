@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "UC Davis Glassrock Building",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5520687,-121.4553293,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UC Davis Outpatient Clinic Glassrock Building",
+            "address": "Glassrock Building, 2521 Stockton Blvd, Sacramento, CA 95817",
+            "latitude": 38.5520687,
+            "longitude": -121.45532929999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://health.ucdavis.edu/patients-visitors/locations/primary-care/glassrock-bldg-2521-stockton-blvd",
+            "phoneNumber": "(916) 734-6900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7mf0K_sdZXfPUi3AwfH9yA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=88.318474&pitch=0&thumbfov=100",
+            "cid": "2811267442143716666",
+            "fid": "0x809ad07b1740c7c5:0x2703a0d80998e53a",
+            "placeId": "ChIJxcdAF3vQmoAROuWYCdigAyc"
+        }
+    ],
+    "credits": 3
+}

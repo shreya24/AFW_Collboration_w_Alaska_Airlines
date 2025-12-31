@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "California Cancer Care Med. Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6625043,-120.9874299,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "California Cancer Care Group",
+            "address": "1325 Melrose Ave A, Modesto, CA 95350",
+            "latitude": 37.662504299999995,
+            "longitude": -120.9874299,
+            "rating": 4.3,
+            "ratingCount": 3,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(209) 524-7000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOh35ake4bzi3wqg5Uzt2TRZcFxis-nFStl3aDT",
+            "cid": "8022711844592334624",
+            "fid": "0x809053fff61c4b77:0x6f5665eaa03eb720",
+            "placeId": "ChIJd0sc9v9TkIARILc-oOplVm8"
+        }
+    ],
+    "credits": 3
+}

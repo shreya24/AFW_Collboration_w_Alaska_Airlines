@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Sacred Heart Home Health Agency",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8404907,-96.2072671,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sacred Heart Home Healthcare",
+            "address": "4400 E Broadway Blvd Suite 405, Tucson, AZ 85711",
+            "latitude": 32.2209684,
+            "longitude": -110.8981805,
+            "rating": 4.8,
+            "ratingCount": 73,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Occupational therapist",
+                "Physical therapist",
+                "Speech pathologist"
+            ],
+            "website": "https://sacredhearthh.com/",
+            "phoneNumber": "(520) 577-4630",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUAmSjchLXRtnysVGQKHwxNXbgchijmJi_IkJI",
+            "cid": "14622880118074782528",
+            "fid": "0x86d6723a6de5fb85:0xcaeee7fdf6f83340",
+            "placeId": "ChIJhfvlbTpy1oYRQDP49v3n7so"
+        },
+        {
+            "position": 2,
+            "title": "Sacred Hearts Home Care",
+            "address": "3681 Green Rd UNIT 210, Beachwood, OH 44122",
+            "latitude": 41.460013,
+            "longitude": -81.5163537,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "http://sacredheartshomecare.com/",
+            "phoneNumber": "(216) 395-2121",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO9CB5eTRJgmtO6yoMrO9_qn0wVumAfbQqkrRL1",
+            "cid": "13492694984512934071",
+            "fid": "0x8830e386ebb625b9:0xbb3fae99de9690b7",
+            "placeId": "ChIJuSW264bjMIgRt5CW3pmuP7s"
+        }
+    ],
+    "credits": 3
+}

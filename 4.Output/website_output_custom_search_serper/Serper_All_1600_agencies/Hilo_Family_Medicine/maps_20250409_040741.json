@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Hilo Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.7152502,-155.0960134,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hilo Family Medicine",
+            "address": "670 Ponahawai St #216, Hilo, HI 96720",
+            "latitude": 19.7143923,
+            "longitude": -155.0966937,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://hilofamilymedicine.org/",
+            "phoneNumber": "(808) 934-8989",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_gDMVnY18IJ1BZZEWJ8L8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=57.218327&pitch=0&thumbfov=100",
+            "cid": "9998593932144764988",
+            "fid": "0x7953b4b2b944b421:0x8ac22434dadd683c",
+            "placeId": "ChIJIbREubK0U3kRPGjd2jQkwoo"
+        },
+        {
+            "position": 2,
+            "title": "Hilo Family Health Clinic Inc",
+            "address": "73 Puuhonu Pl #200, Hilo, HI 96720",
+            "latitude": 19.716742399999998,
+            "longitude": -155.0976847,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(808) 969-7922",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fAM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fAM",
+                "Friday": "8:30\u202fAM\u20134\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tBVz4-FWfznH5Ue0z1XXLw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=241.96255&pitch=0&thumbfov=100",
+            "cid": "8716642281228374653",
+            "fid": "0x7953b4ad6621d74f:0x78f7bbf8d6c4927d",
+            "placeId": "ChIJT9chZq20U3kRfZLE1vi793g"
+        },
+        {
+            "position": 3,
+            "title": "The Family Medicine Center",
+            "address": "615 Ponahawai St, Hilo, HI 96720",
+            "latitude": 19.7137581,
+            "longitude": -155.0943421,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://fmchawaii.com/",
+            "phoneNumber": "(808) 933-9187",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8jtMOHypNG1tfwQSCQpvOYhCldUJumdcsF2VH",
+            "cid": "1129493632331961550",
+            "fid": "0x79524be10223aa1f:0xfacc4796b3654ce",
+            "placeId": "ChIJH6ojAuFLUnkRzlQ2a3nErA8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Teton Cancer Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4833056,-111.9949779,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Teton Cancer Institute",
+            "address": "1957 E 17th St, Idaho Falls, ID 83404",
+            "latitude": 43.4833056,
+            "longitude": -111.9949779,
+            "rating": 4,
+            "ratingCount": 29,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist",
+                "Radiologist"
+            ],
+            "website": "http://tetoncancer.com/",
+            "phoneNumber": "(208) 523-1100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBNyntL9Qby56Zx6YbYa_QqQYH76jSjC7QPMq7",
+            "cid": "1181995602903241366",
+            "fid": "0x53545edd72c3a18f:0x10674abd051f1296",
+            "placeId": "ChIJj6HDct1eVFMRlhIfBb1KZxA"
+        }
+    ],
+    "credits": 3
+}

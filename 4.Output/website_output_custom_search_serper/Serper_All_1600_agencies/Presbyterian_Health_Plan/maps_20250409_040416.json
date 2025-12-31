@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian Health Plan",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1972347,-106.5873739,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Presbyterian Turquoise Care",
+            "address": "9521 San Mateo Blvd NE, Albuquerque, NM 87113",
+            "latitude": 35.1973991,
+            "longitude": -106.5871519,
+            "rating": 2.1,
+            "ratingCount": 78,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency",
+                "Insurance agency"
+            ],
+            "website": "https://www.phs.org/health-plans/turquoise-care-medicaid?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=php_centennialcare",
+            "phoneNumber": "(505) 923-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoC0Gv43nYEanh2j1Gju0csIyu5ruaMVAwxp6R",
+            "cid": "10861430795154305081",
+            "fid": "0x87227683d06f4b9d:0x96bb8dc309a93039",
+            "placeId": "ChIJnUtv0IN2IocROTCpCcONu5Y"
+        },
+        {
+            "position": 2,
+            "title": "Presbyterian Health Plans",
+            "address": "9521 San Mateo Blvd NE, Albuquerque, NM 87113",
+            "latitude": 35.1970702,
+            "longitude": -106.58759599999999,
+            "rating": 1,
+            "ratingCount": 11,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency",
+                "Health consultant",
+                "Insurance agency"
+            ],
+            "website": "https://www.phs.org/health-plans/?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=php_plans",
+            "phoneNumber": "(505) 923-5678",
+            "isPermanentlyClosed": true,
+            "cid": "12617203781050213747",
+            "fid": "0x8722778a0642c4ad:0xaf194ffd7436a573",
+            "placeId": "ChIJrcRCBop3IocRc6U2dP1PGa8"
+        }
+    ],
+    "credits": 3
+}

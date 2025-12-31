@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Thomas J. Smith MD, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7416532,-104.8349444,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Thomas J. Smith, MD",
+            "address": "13123 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.741653199999995,
+            "longitude": -104.8349444,
+            "type": "Pediatric hematologist",
+            "types": [
+                "Pediatric hematologist"
+            ],
+            "phoneNumber": "(720) 777-8357",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-wj9FED69uYnauZy5rWXMQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=330.15417&pitch=0&thumbfov=100",
+            "cid": "3671162823595849185",
+            "fid": "0x876c6348bea1c887:0x32f297232d0cf5e1",
+            "placeId": "ChIJh8ihvkhjbIcR4fUMLSOX8jI"
+        }
+    ],
+    "credits": 3
+}

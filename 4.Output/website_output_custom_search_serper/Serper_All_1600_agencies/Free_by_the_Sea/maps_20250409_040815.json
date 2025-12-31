@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Free by the Sea",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4878858,-124.0538507,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Free by the Sea",
+            "address": "25517 Park Ave, Ocean Park, WA 98640",
+            "latitude": 46.4878858,
+            "longitude": -124.0538507,
+            "rating": 4.6,
+            "ratingCount": 215,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Alcoholism treatment program",
+                "Mental health clinic"
+            ],
+            "website": "https://freebythesea.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+            "phoneNumber": "(360) 777-7050",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtznVa9s4FycOVJd7STmQslm79PyMvlgeIF0ym",
+            "cid": "3477651466089769021",
+            "fid": "0x549308de33ae3f8b:0x3043199540e5a83d",
+            "placeId": "ChIJiz-uM94Ik1QRPajlQJUZQzA"
+        }
+    ],
+    "credits": 3
+}

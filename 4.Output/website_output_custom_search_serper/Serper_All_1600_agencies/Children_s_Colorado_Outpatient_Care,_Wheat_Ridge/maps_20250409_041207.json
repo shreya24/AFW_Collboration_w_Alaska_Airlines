@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Children's Colorado Outpatient Care, Wheat Ridge",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7660373,-105.0896201,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Colorado Outpatient Care, Wheat Ridge",
+            "address": "3455 N Lutheran Pkwy Suite 230, Wheat Ridge, CO 80033",
+            "latitude": 39.7660373,
+            "longitude": -105.08962009999999,
+            "rating": 4.7,
+            "ratingCount": 102,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Pediatric cardiologist",
+                "Pediatric gastroenterologist",
+                "Pediatric pulmonologist"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/outpatient-urgent-care-wheat-ridge/",
+            "phoneNumber": "(720) 777-0436",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rDLHI9Uk41QDPy5fH_yAfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.40685&pitch=0&thumbfov=100",
+            "cid": "15243173717345612307",
+            "fid": "0x876b87f0b338da21:0xd38aa1bbeff4b213",
+            "placeId": "ChIJIdo4s_CHa4cRE7L077uhitM"
+        },
+        {
+            "position": 2,
+            "title": "Children's Colorado Urgent Care, Wheat Ridge",
+            "address": "3455 N Lutheran Pkwy Suite 230, #230, Wheat Ridge, CO 80033",
+            "latitude": 39.7660373,
+            "longitude": -105.08962009999999,
+            "rating": 3.3,
+            "ratingCount": 87,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Pediatric cardiologist",
+                "Pediatric clinic",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/outpatient-urgent-care-wheat-ridge/",
+            "phoneNumber": "(720) 777-1370",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20138\u202fPM",
+                "Wednesday": "11\u202fAM\u20138\u202fPM",
+                "Thursday": "11\u202fAM\u20138\u202fPM",
+                "Friday": "11\u202fAM\u20138\u202fPM",
+                "Saturday": "11\u202fAM\u20138\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "11\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe9T79zig-kxHVpKQF2LRogQ5AxzpzG4PpuFQY",
+            "cid": "12868729648725362567",
+            "fid": "0x876b8657e51edaf5:0xb296e96f1ed00787",
+            "placeId": "ChIJ9doe5VeGa4cRhwfQHm_plrI"
+        }
+    ],
+    "credits": 3
+}

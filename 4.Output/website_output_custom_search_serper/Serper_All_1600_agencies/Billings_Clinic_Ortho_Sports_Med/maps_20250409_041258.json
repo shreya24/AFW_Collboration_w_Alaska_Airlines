@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Billings Clinic Ortho Sports Med",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7903059,-108.5143672,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Orthopedics & Sports Medicine",
+            "address": "2702 8th Ave N, Billings, MT 59101",
+            "latitude": 45.787997999999995,
+            "longitude": -108.51036429999999,
+            "rating": 3.9,
+            "ratingCount": 17,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Medical Center",
+                "Medical clinic",
+                "Sports medicine clinic"
+            ],
+            "website": "https://www.billingsclinic.com/maps-locations/location-profile/?id=145&utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=49L",
+            "phoneNumber": "(406) 238-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_PjWLbt2gmtiq1UH11M76bwsHqFe9pHrbryfOYInv_palR_inQIN_VVDFzHyVxYJrSqDPmyMcJ0cZ8xjHMz6gx007cA0QTZwPvLwZWlLI5H52dRt2vFt-GhSgRtOCIakkMY5vAWg",
+            "cid": "11314416114096451643",
+            "fid": "0x53487b3c66cf169f:0x9d04e18269acb03b",
+            "placeId": "ChIJnxbPZjx7SFMRO7CsaYLhBJ0"
+        },
+        {
+            "position": 2,
+            "title": "Billings Orthopedics And Sports",
+            "address": "2900 12th Ave N, Billings, MT 59101",
+            "latitude": 45.7926138,
+            "longitude": -108.5183701,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.billingsclinic.com/services-specialties/ortho-sports-medicine/",
+            "phoneNumber": "(406) 237-5750",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FfP_W95_anthVw8UChNsWg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.3312&pitch=0&thumbfov=100",
+            "cid": "16783823301409089317",
+            "fid": "0x53487b15b96234b3:0xe8ec1e5e3d69a725",
+            "placeId": "ChIJszRiuRV7SFMRJadpPV4e7Og"
+        }
+    ],
+    "credits": 3
+}

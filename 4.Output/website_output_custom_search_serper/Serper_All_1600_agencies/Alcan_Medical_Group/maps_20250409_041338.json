@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Alcan Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8181813,-147.6900106,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alcan Medical Group",
+            "address": "751 Old Richardson Hwy # 101, Fairbanks, AK 99701",
+            "latitude": 64.81818129999999,
+            "longitude": -147.6900106,
+            "rating": 3.3,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Diabetes center",
+                "Disability services and support organization",
+                "Family practice physician",
+                "Nutritionist",
+                "Weight loss service"
+            ],
+            "website": "http://alcanclinics.com/",
+            "phoneNumber": "(907) 328-0844",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMl6Wf_ZGauI1fUResD4H8gF2YCT-LQoEGf2a6P",
+            "cid": "6611300823966127213",
+            "fid": "0x513251a41788247b:0x5bc00f123bbf946d",
+            "placeId": "ChIJeySIF6RRMlERbZS_OxIPwFs"
+        }
+    ],
+    "credits": 3
+}

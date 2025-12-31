@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Walla Walla Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0488379,-118.3307002,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Walla Walla Clinic: Main Campus",
+            "address": "55 W Tietan St, Walla Walla, WA 99362",
+            "latitude": 46.048837899999995,
+            "longitude": -118.3307002,
+            "rating": 2.9,
+            "ratingCount": 65,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.wallawallaclinic.com/",
+            "phoneNumber": "(509) 525-3720",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8pwy9R1dphp_PipMMYt-etXxBY4Dtsz818evQ7JEjiMQTKx80ej8aut98Hn7fGbVvwT2NaL6j8SZ7s41wlWJYGcLJBBP3d5wC3DiXIj_FKKof-VDoN5nEZN4uGqu3gIGzIo-Qr",
+            "cid": "11777314759561089079",
+            "fid": "0x54a241d07f695675:0xa3716d5ffb9a9037",
+            "placeId": "ChIJdVZpf9BBolQRN5Ca-19tcaM"
+        }
+    ],
+    "credits": 3
+}

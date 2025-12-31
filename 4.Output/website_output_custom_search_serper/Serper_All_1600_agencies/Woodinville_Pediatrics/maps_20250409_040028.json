@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Woodinville Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7511139,-122.1519526,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Woodinville Pediatrics",
+            "address": "17000 140th Ave NE #102, Woodinville, WA 98072",
+            "latitude": 47.7511139,
+            "longitude": -122.1519526,
+            "rating": 3.1,
+            "ratingCount": 120,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Medical clinic",
+                "Pediatrician"
+            ],
+            "website": "http://www.woodinvillepediatrics.com/",
+            "phoneNumber": "(425) 483-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPYlO1-kSYDfQX0llKYsqn_5Md1WoDj7dtSikR9",
+            "cid": "3485174219920774801",
+            "fid": "0x54900c2ee9925cc9:0x305dd37cdeba1691",
+            "placeId": "ChIJyVyS6S4MkFQRkRa63nzTXTA"
+        }
+    ],
+    "credits": 3
+}

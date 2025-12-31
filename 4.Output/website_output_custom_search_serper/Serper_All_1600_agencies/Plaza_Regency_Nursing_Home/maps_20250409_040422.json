@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Plaza Regency Nursing Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.2163105,-115.2275418,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marquis Plaza Regency",
+            "address": "6021 W Cheyenne Ave, Las Vegas, NV 89108",
+            "latitude": 36.2163105,
+            "longitude": -115.2275418,
+            "rating": 3.5,
+            "ratingCount": 43,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center"
+            ],
+            "website": "https://www.marquiscompanies.com/facility/marquis-plaza-regency/",
+            "phoneNumber": "(702) 658-9494",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNjFYxxf3wvupE2dra9z1E1sBKCjr7T5By8R6pv",
+            "cid": "11921355279427431682",
+            "fid": "0x80c8ea79a748c975:0xa5712976ef7fed02",
+            "placeId": "ChIJdclIp3nqyIARAu1_73YpcaU"
+        }
+    ],
+    "credits": 3
+}

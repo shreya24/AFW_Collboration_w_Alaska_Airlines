@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "Delete //////",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@51.2072,-121.9883,2z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Data Delete of Oregon",
+            "address": "527 NW Elm Ave suite 3 527, Redmond, OR 97756",
+            "latitude": 44.280408,
+            "longitude": -121.1734267,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Shredding service",
+            "types": [
+                "Shredding service"
+            ],
+            "website": "http://datadeleteor.com/",
+            "phoneNumber": "(541) 884-0500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzNre9HVKsbslDSsAPOMWg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=55.41076&pitch=0&thumbfov=100",
+            "cid": "17719460646816271029",
+            "fid": "0x54c8d5a5c90b4d8b:0xf5e82b9398ff4ab5",
+            "placeId": "ChIJi00LyaXVyFQRtUr_mJMr6PU"
+        },
+        {
+            "position": 2,
+            "title": "Delete",
+            "address": "601 Lancaster Dr NE, Salem, OR 97301",
+            "latitude": 44.9380289,
+            "longitude": -122.98327789999999,
+            "rating": null,
+            "ratingCount": null,
+            "priceLevel": "$",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant",
+                "Catering",
+                "Fast food restaurant",
+                "Food delivery",
+                "Sandwich shop"
+            ],
+            "phoneNumber": "(503) 363-8160",
+            "description": "Known for toasted, build-your-own subs, this counter-serve chain also sells soups, salads & more.",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGWuc406l_Ia7Z7ByeoMdniM9nJ-bnzMPTg7o56ixDyXPJeL0MUx0uDO3JMMbXEmQcRLKVOb6GG3b2GFyYK6HE4wdCPwCQJ3eNe-PFIsZNvaVzO1ZcGaU69zEGsBwFdkpbZ-EmY6GTnHy3kNRT3_iNCRJqtN066vqPOmke2R-8tANebnmORZleELva_mp6TRlKD_5Y",
+            "cid": "5328507607048255583",
+            "fid": "0x54bffedab7728fdd:0x49f2a96fdd13f85f",
+            "placeId": "ChIJ3Y9yt9r-v1QRX_gT3W-p8kk"
+        },
+        {
+            "position": 3,
+            "title": "Delete",
+            "address": "2200 N Maple Ave Unit 606, Rapid City, SD 57701",
+            "latitude": 44.104929999999996,
+            "longitude": -103.21153,
+            "rating": null,
+            "ratingCount": null,
+            "priceLevel": "$",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant",
+                "Catering",
+                "Fast food restaurant",
+                "Food delivery",
+                "Sandwich shop"
+            ],
+            "phoneNumber": "(605) 388-1164",
+            "description": "Known for toasted, build-your-own subs, this counter-serve chain also sells soups, salads & more.",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rhC0I6h-eznJAqm8blMTKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=332.9802&pitch=0&thumbfov=100",
+            "cid": "8534777818890565836",
+            "fid": "0x877d5d1977d61f37:0x76719f3503daf8cc",
+            "placeId": "ChIJNx_WdxldfYcRzPjaAzWfcXY"
+        }
+    ],
+    "credits": 3
+}

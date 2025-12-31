@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "YWCA Clark County Safe Choice Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6476226,-122.6676139,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWCA Clark County",
+            "address": "3609 Main St, Vancouver, WA 98663",
+            "latitude": 45.6476226,
+            "longitude": -122.66761389999999,
+            "rating": 4.5,
+            "ratingCount": 100,
+            "type": "Women's organization",
+            "types": [
+                "Women's organization",
+                "Crisis center",
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "https://ywcaclarkcounty.org/",
+            "phoneNumber": "(360) 696-0167",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-yVmkw6yTVtD8uutetSGKDH6t1ATXVeqs61DJEvtEbySYp-OBw8Y4aVgXF5UZeQGAxebrGuRHCqH-AKTHPn5fkauS1CXE86FlNRbhka31qNXCHD0jceUFqVMycVgP_p48ssMrq",
+            "cid": "4418313518513489542",
+            "fid": "0x5495af2feb897019:0x3d5100bc614d8686",
+            "placeId": "ChIJGXCJ6y-vlVQRhoZNYbwAUT0"
+        }
+    ],
+    "credits": 3
+}

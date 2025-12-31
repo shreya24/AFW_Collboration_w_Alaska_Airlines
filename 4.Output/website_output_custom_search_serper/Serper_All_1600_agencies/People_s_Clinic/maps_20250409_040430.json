@@ -1,0 +1,127 @@
+{
+    "searchParameters": {
+        "q": "People's Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9521711,-117.205868,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "People's Community Clinic of Newberg",
+            "address": "1014 N Springbrook Rd Ste B STE B, Newberg, OR 97132",
+            "latitude": 45.3081362,
+            "longitude": -122.9446538,
+            "rating": 4.1,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner",
+                "Home health care service",
+                "Laboratory",
+                "Legal services",
+                "Medical examiner",
+                "Men's health physician",
+                "Nurse practitioner",
+                "Wellness center"
+            ],
+            "website": "http://www.peoplesccn.org/",
+            "phoneNumber": "(503) 449-8988",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://www.peoplesccn.org/contact"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNl4D4Dz2Sm_LJZnkZXyysIYjFdxo9Q5exCyyl5",
+            "cid": "1744940275741916819",
+            "fid": "0x54956a7db725fe4d:0x183745ef89de7e93",
+            "placeId": "ChIJTf4lt31qlVQRk37eie9FNxg"
+        },
+        {
+            "position": 2,
+            "title": "Peoples Medical Clinic",
+            "address": "22214 Dewdney Trunk Rd #7, Maple Ridge, BC V2X 0E6, Canada",
+            "latitude": 49.220362099999996,
+            "longitude": -122.60632389999999,
+            "rating": 3.7,
+            "ratingCount": 86,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.peoplesmedicalclinic.com/",
+            "phoneNumber": "+1 604-479-1604",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://medimap.ca/Peoples-Medical-Clinic"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMnJ96e6HkOENJmfy6aaXBDdp1krcTWrUV6LI3T",
+            "cid": "16698547512691248256",
+            "fid": "0x5485d335bfba7177:0xe7bd287d76f1cc80",
+            "placeId": "ChIJd3G6vzXThVQRgMzxdn0ovec"
+        },
+        {
+            "position": 3,
+            "title": "People's Acupuncture",
+            "address": "17 148th Ave SE, Bellevue, WA 98007",
+            "latitude": 47.6092812,
+            "longitude": -122.1435193,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(425) 881-2856",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7f-DfDOx82V0LALMOimyxA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.46996&pitch=0&thumbfov=100",
+            "cid": "7653180135570670267",
+            "fid": "0x54906c4a391e3af1:0x6a358ec8f6c402bb",
+            "placeId": "ChIJ8ToeOUpskFQRuwLE9siONWo"
+        },
+        {
+            "position": 4,
+            "title": "People's Health Clinic",
+            "address": "650 Round Valley Dr, Park City, UT 84060",
+            "latitude": 40.6839801,
+            "longitude": -111.4670823,
+            "rating": 3.9,
+            "ratingCount": 25,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://peopleshealthclinic.org/",
+            "phoneNumber": "(435) 333-1850",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOYQR2Fqa7OAxVh4N_xZArKilEjplRC6dqDkhhi",
+            "cid": "5350581721092527880",
+            "fid": "0x875212c9a81e9e6f:0x4a4115ba0b6b1708",
+            "placeId": "ChIJb54eqMkSUocRCBdrC7oVQUo"
+        }
+    ],
+    "credits": 3
+}

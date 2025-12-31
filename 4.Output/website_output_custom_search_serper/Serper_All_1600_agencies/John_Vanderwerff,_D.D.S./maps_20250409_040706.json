@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "John Vanderwerff, D.D.S.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5737559,-122.3617798,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "John Van Der Werff, D.D.S.",
+            "address": "2315 Bechelli Ln STE D, Redding, CA 96002",
+            "latitude": 40.573755899999995,
+            "longitude": -122.3617798,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "phoneNumber": "(530) 242-6017",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "9\u202fAM\u20133\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "cid": "10924309663303432052",
+            "fid": "0x54d2ecb8d13c684d:0x979af1c261917774",
+            "placeId": "ChIJTWg80bjs0lQRdHeRYcLxmpc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,183 @@
+{
+    "searchParameters": {
+        "q": "Public Health Department Santa Barbara",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6893148,-120.0753847,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Santa Barbara County Public Health Department",
+            "address": "300 N San Antonio Rd, Santa Barbara, CA 93110",
+            "latitude": 34.4437825,
+            "longitude": -119.780953,
+            "rating": 2.3,
+            "ratingCount": 12,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Doctor",
+                "County government office"
+            ],
+            "website": "http://www.sbcphd.org/",
+            "phoneNumber": "(805) 681-5100",
+            "openingHours": {
+                "Tuesday": "8\u201311:45\u202fAM, 1\u20134:30\u202fPM",
+                "Wednesday": "8\u201311:45\u202fAM, 1\u20134:30\u202fPM",
+                "Thursday": "8\u201311:45\u202fAM, 1\u20134:30\u202fPM",
+                "Friday": "8\u201311:45\u202fAM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u201311:45\u202fAM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VQ5-TsttViApuUsCFptNkw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=81.93554&pitch=0&thumbfov=100",
+            "cid": "15056838995356917999",
+            "fid": "0x80e91553480d65af:0xd0f4a34aae7fa0ef",
+            "placeId": "ChIJr2UNSFMV6YAR76B_rkqj9NA"
+        },
+        {
+            "position": 2,
+            "title": "Santa Barbara County Public Health: Lompoc Health Care Center",
+            "address": "301 N R St, Lompoc, CA 93436",
+            "latitude": 34.643126099999996,
+            "longitude": -120.47118239999999,
+            "rating": 3.1,
+            "ratingCount": 29,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Medical Center"
+            ],
+            "website": "https://countyofsb.org/phd/lhcc",
+            "phoneNumber": "(805) 737-6400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMciVxTtXA7rQt_L6ePNRLQEeSqb-cD2UFbpxv0",
+            "cid": "2725118109209604446",
+            "fid": "0x80ec1edd2d8e83c9:0x25d1907b666c315e",
+            "placeId": "ChIJyYOOLd0e7IARXjFsZnuQ0SU"
+        },
+        {
+            "position": 3,
+            "title": "Santa Barbara County Public Health: SB Health Care Center",
+            "address": "345 Camino del Remedio, Santa Barbara, CA 93110",
+            "latitude": 34.4439987,
+            "longitude": -119.7804692,
+            "rating": 3.2,
+            "ratingCount": 26,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Doctor",
+                "Mental health clinic",
+                "Women's health clinic",
+                "Pregnancy care center",
+                "Psychiatric hospital",
+                "Medical clinic",
+                "STD clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.countyofsb.org/410/Public-Health",
+            "phoneNumber": "(805) 681-5488",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5ecl7MUIfS5IAGUyluTnaB8Cg4a9l5FducMjP",
+            "cid": "4742292448214410421",
+            "fid": "0x80e9139c1478925f:0x41d001db1cd664b5",
+            "placeId": "ChIJX5J4FJwT6YARtWTWHNsB0EE"
+        },
+        {
+            "position": 4,
+            "title": "Santa Barbara County Health Department",
+            "address": "2115 S Centerpointe Pkwy, Santa Maria, CA 93455",
+            "latitude": 34.951392,
+            "longitude": -120.431733,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://www.countyofsb.org/410/Public-Health",
+            "phoneNumber": "(805) 346-7230",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mAylFvVZQBzc2g0_1HqcaQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=286.07373&pitch=0&thumbfov=100",
+            "cid": "14363973461253045919",
+            "fid": "0x80ec6c809946663f:0xc75715c269203e9f",
+            "placeId": "ChIJP2ZGmYBs7IARnz4gacIVV8c"
+        },
+        {
+            "position": 5,
+            "title": "Santa Barbara County Public Health: Franklin Health Care Center",
+            "address": "1136 E Montecito St, Santa Barbara, CA 93103",
+            "latitude": 34.4272376,
+            "longitude": -119.679587,
+            "rating": 3,
+            "ratingCount": 10,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Community health centre",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://countyofsb.org/phd/fhcc",
+            "phoneNumber": "(805) 568-2099",
+            "openingHours": {
+                "Tuesday": "7:40\u202fAM\u201312\u202fPM, 12:45\u20135\u202fPM",
+                "Wednesday": "7:40\u202fAM\u201312\u202fPM, 12:45\u20135\u202fPM",
+                "Thursday": "7:40\u202fAM\u201312\u202fPM, 12:45\u20135\u202fPM",
+                "Friday": "7:40\u202fAM\u201312\u202fPM, 12:45\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:40\u202fAM\u201312\u202fPM, 12:45\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3RuI_Ro-HGZzrKpAFruEiw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=121.84762&pitch=0&thumbfov=100",
+            "cid": "7843989633300595630",
+            "fid": "0x80e9139c1478925f:0x6cdb730322ba83ae",
+            "placeId": "ChIJX5J4FJwT6YARroO6IgNz22w"
+        },
+        {
+            "position": 6,
+            "title": "Santa Barbara County Public Health: Environmental Health Services",
+            "address": "225 Camino del Remedio, Santa Barbara, CA 93110",
+            "latitude": 34.4429703,
+            "longitude": -119.78019809999999,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Environmental health service"
+            ],
+            "website": "https://www.countyofsb.org/414/Environmental-Health",
+            "phoneNumber": "(805) 681-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M5LVixI9YvQCdZeJ7vQquQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.7063&pitch=0&thumbfov=100",
+            "cid": "8182118141934081502",
+            "fid": "0x80e91552e296836f:0x718cb919704295de",
+            "placeId": "ChIJb4OW4lIV6YAR3pVCcBm5jHE"
+        }
+    ],
+    "credits": 3
+}

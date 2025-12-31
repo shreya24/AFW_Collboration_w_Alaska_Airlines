@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Eastside Oncology / Hematology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.8780989,-82.3177421,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eastside Hematology/Oncology",
+            "address": "4210 E North St, Greenville, SC 29615",
+            "latitude": 34.8780989,
+            "longitude": -82.31774209999999,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist"
+            ],
+            "website": "https://www.bonsecours.com/find-a-doctor/physicians/pinjai-r-ravichander/1860496",
+            "phoneNumber": "(864) 244-6777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2ajo3wJuzmefRb_E7ozJo1Qg1WM5KSkNtMzTS",
+            "cid": "15414084455971207851",
+            "fid": "0x88582ea403237b7f:0xd5e9d4253808baab",
+            "placeId": "ChIJf3sjA6QuWIgRq7oIOCXU6dU"
+        }
+    ],
+    "credits": 3
+}

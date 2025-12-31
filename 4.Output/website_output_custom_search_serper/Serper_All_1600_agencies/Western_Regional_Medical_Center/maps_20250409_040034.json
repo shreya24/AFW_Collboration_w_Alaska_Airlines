@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Western Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2821847,-113.4595733,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Western Arizona Regional Medical Center",
+            "address": "2735 Silver Creek Rd, Bullhead City, AZ 86442",
+            "latitude": 35.1103607,
+            "longitude": -114.55479729999999,
+            "rating": 4.4,
+            "ratingCount": 3240,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.warmc.com/?utm_source=gmb&utm_medium=homepage&utm_campaign=biz-listings",
+            "phoneNumber": "(928) 763-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPT6DFABF9IkeYiWSBvjQ497qCX-ygnKBYU2By6",
+            "cid": "5848924651818757497",
+            "fid": "0x80ce41966b9cc08d:0x512b8dfb5daead79",
+            "placeId": "ChIJjcCca5ZBzoARea2uXfuNK1E"
+        },
+        {
+            "position": 2,
+            "title": "Western Regional Medical Center",
+            "address": "14200 Celebrate Life Way, Goodyear, AZ 85338",
+            "latitude": 33.4540086,
+            "longitude": -112.3643493,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cancer treatment center",
+                "Pharmacy"
+            ],
+            "phoneNumber": "(623) 207-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bX95qe2_lN42imrRoGSYWA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.12054&pitch=0&thumbfov=100",
+            "cid": "13692649803116018237",
+            "fid": "0x872b38935ad334f1:0xbe061072fc8d7a3d",
+            "placeId": "ChIJ8TTTWpM4K4cRPXqN_HIQBr4"
+        }
+    ],
+    "credits": 3
+}

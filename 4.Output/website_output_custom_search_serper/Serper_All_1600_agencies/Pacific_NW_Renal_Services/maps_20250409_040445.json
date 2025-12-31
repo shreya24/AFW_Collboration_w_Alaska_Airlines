@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "Pacific NW Renal Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4252649,-120.4708149,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific Northwest Renal Services",
+            "address": "2824 NE Wasco St, Portland, OR 97232",
+            "latitude": 45.532074699999995,
+            "longitude": -122.63677519999999,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "phoneNumber": "(503) 493-8227",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ILz8VaKpB9EvHQcQEXcTvg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.88974&pitch=0&thumbfov=100",
+            "cid": "14080768034403363540",
+            "fid": "0x5495a0c8daafc0d5:0xc368efec9749aad4",
+            "placeId": "ChIJ1cCv2siglVQR1KpJl-zvaMM"
+        },
+        {
+            "position": 2,
+            "title": "Pacific Northwest Renal Services",
+            "address": "7780 SW Mohawk St, Tualatin, OR 97062",
+            "latitude": 45.3759557,
+            "longitude": -122.75677329999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dialysis center"
+            ],
+            "phoneNumber": "(971) 224-4000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xmAVzR_zbpKnDkpqYtx-eQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=356.1933&pitch=0&thumbfov=100",
+            "cid": "2454169990980825117",
+            "fid": "0x549572879ca0fa3f:0x220ef69aa2d5f01d",
+            "placeId": "ChIJP_qgnIdylVQRHfDVopr2DiI"
+        },
+        {
+            "position": 3,
+            "title": "Pacific NW Renal Services",
+            "address": "710 Sunset Dr A, La Grande, OR 97850",
+            "latitude": 45.318455,
+            "longitude": -118.1052342,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(541) 663-8420",
+            "cid": "17629573833213777950",
+            "fid": "0x54a3773f5d1b2035:0xf4a8d3feee3a981e",
+            "placeId": "ChIJNSAbXT93o1QRHpg67v7TqPQ"
+        },
+        {
+            "position": 4,
+            "title": "Pacific Northwest Renal Services",
+            "address": "2715 SW 153rd Dr, Beaverton, OR 97006",
+            "latitude": 45.4998747,
+            "longitude": -122.83639559999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(503) 726-2961",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2Mo8VcD59yn-bp8OVrYcAQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=292.64288&pitch=0&thumbfov=100",
+            "cid": "14879000152172545821",
+            "fid": "0x54950eed07a4e4c5:0xce7cd3ce5b3a471d",
+            "placeId": "ChIJxeSkB-0OlVQRHUc6W87TfM4"
+        }
+    ],
+    "credits": 3
+}

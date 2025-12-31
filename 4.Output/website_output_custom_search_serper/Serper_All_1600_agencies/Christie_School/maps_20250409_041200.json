@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Christie School",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4023812,-122.6519381,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Christie School",
+            "address": "2507 Christie Dr, Lake Oswego, OR 97034",
+            "latitude": 45.4023812,
+            "longitude": -122.6519381,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "School",
+            "types": [
+                "School"
+            ],
+            "phoneNumber": "(503) 635-0821",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yz6qYqhbQd9O2No_MM56gQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=303.88528&pitch=0&thumbfov=100",
+            "cid": "11688063672077808134",
+            "fid": "0x5495747bd9952aa1:0xa23457fbd6587206",
+            "placeId": "ChIJoSqV2Xt0lVQRBnJY1vtXNKI"
+        }
+    ],
+    "credits": 3
+}

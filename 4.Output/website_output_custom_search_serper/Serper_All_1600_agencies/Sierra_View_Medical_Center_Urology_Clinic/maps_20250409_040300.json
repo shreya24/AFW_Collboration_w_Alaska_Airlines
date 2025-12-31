@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sierra View Medical Center Urology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0730962,-119.0304777,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra View Medical Center Urology Clinic in alliance with Keck Medicine of USC",
+            "address": "386 N Villa St suite b, Porterville, CA 93257",
+            "latitude": 36.073096199999995,
+            "longitude": -119.03047769999999,
+            "rating": 4.4,
+            "ratingCount": 74,
+            "type": "Urology clinic",
+            "types": [
+                "Urology clinic"
+            ],
+            "website": "https://www.sierra-view.com/hospital-services/urology/",
+            "phoneNumber": "(559) 791-3914",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqSzKBgMa0ssAIekt0cmTyJICAjEkng4qQDWQ",
+            "cid": "1837787421500023",
+            "fid": "0x80eab813b8d481cd:0x687753a6e6277",
+            "placeId": "ChIJzYHUuBO46oARd2JuOnWHBgA"
+        }
+    ],
+    "credits": 3
+}

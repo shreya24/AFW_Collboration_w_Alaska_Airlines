@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "Todd Gienapp DO",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.3826091,-105.333647,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Todd Gienapp DO",
+            "address": "700 NE 87th Ave, Vancouver, WA 98664",
+            "latitude": 45.6253247,
+            "longitude": -122.5846665,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Doctor"
+            ],
+            "website": "https://tvc.org/providers/todd-gienapp-do/",
+            "phoneNumber": "(360) 882-2778",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPynSsyIz1rUUen0a_Vb1UUr7BRl3BICG1wZpXH",
+            "cid": "9310221008601808645",
+            "fid": "0x5495a59e09be3441:0x81348cadfe16ff05",
+            "placeId": "ChIJQTS-CZ6llVQRBf8W_q2MNIE"
+        },
+        {
+            "position": 2,
+            "title": "Todd Gienapp, DO",
+            "address": "2525 NE 139th St, Vancouver, WA 98686",
+            "latitude": 45.720749,
+            "longitude": -122.6448156,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.tvc.org/clinician/todd-gienapp-do/",
+            "phoneNumber": "(360) 882-2778",
+            "cid": "6377234397679135425",
+            "fid": "0x5495adf10e7aaaab:0x58807ce58b112ac1",
+            "placeId": "ChIJq6p6DvGtlVQRwSoRi-V8gFg"
+        },
+        {
+            "position": 3,
+            "title": "Gienapp Todd W DO",
+            "address": "8701 W Watertown Plank Rd, Milwaukee, WI 53226",
+            "latitude": 43.0444691,
+            "longitude": -88.0224784,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.mcw.edu/",
+            "phoneNumber": "(414) 456-8296",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=elr76DVjmNTQ2tfUYIfSYA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=305.17508&pitch=0&thumbfov=100",
+            "cid": "848922201363399112",
+            "fid": "0x880504d79dc73905:0xbc7fa3e8e3541c8",
+            "placeId": "ChIJBTnHndcEBYgRyEE1jj76xws"
+        }
+    ],
+    "credits": 3
+}

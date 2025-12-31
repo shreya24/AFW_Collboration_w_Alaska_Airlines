@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pediatric Partners of the Southwest",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2645482,-107.8730633,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Partners of the Southwest",
+            "address": "810 E 3rd St #301, Durango, CO 81301",
+            "latitude": 37.2645482,
+            "longitude": -107.8730633,
+            "rating": 4.7,
+            "ratingCount": 99,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.ppswdurango.com/",
+            "phoneNumber": "(970) 375-0100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vtETjtxCqbGV58m1yWUZw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=94.62657&pitch=0&thumbfov=100",
+            "cid": "18441154504579037618",
+            "fid": "0x873c02ba4b11eaeb:0xffec2451058739b2",
+            "placeId": "ChIJ6-oRS7oCPIcRsjmHBVEk7P8"
+        }
+    ],
+    "credits": 3
+}

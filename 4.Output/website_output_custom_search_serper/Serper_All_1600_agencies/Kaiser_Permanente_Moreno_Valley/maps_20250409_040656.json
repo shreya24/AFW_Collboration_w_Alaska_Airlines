@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Moreno Valley",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9157841,-117.2155759,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Moreno Valley Medical Center",
+            "address": "27300 Iris Ave, Moreno Valley, CA 92555",
+            "latitude": 33.896938999999996,
+            "longitude": -117.18586189999999,
+            "rating": 3.2,
+            "ratingCount": 427,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Medical-Center-300019",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNs11Ogrtu-ZBYcWllJvWIXrsHO0ro5S0sNn23Q",
+            "cid": "15010169944161353901",
+            "fid": "0x80dca76888617ffd:0xd04ed60973fb80ad",
+            "placeId": "ChIJ_X9hiGin3IARrYD7cwnWTtA"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Moreno Valley Medical Center Medical Office Building 2",
+            "address": "27200 Iris Ave, Moreno Valley, CA 92555",
+            "latitude": 33.896681199999996,
+            "longitude": -117.1875912,
+            "rating": 4.7,
+            "ratingCount": 79,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Medical-Center-Medical-Office-Building-2-Iris-301783",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20137\u202fPM",
+                "Thursday": "6:30\u202fAM\u20137\u202fPM",
+                "Friday": "6:30\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "9:30\u202fAM\u20137\u202fPM",
+                "Monday": "6:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUuSrnEWjxnEIpNcp8Dcm0V408bC2jSzfRfm-v",
+            "cid": "912522319389623466",
+            "fid": "0x80dca768ffb146f9:0xca9ee36f8d584aa",
+            "placeId": "ChIJ-Uax_2in3IARqoTV-DbuqQw"
+        },
+        {
+            "position": 3,
+            "title": "Kaiser Permanente Moreno Valley Heacock Medical Offices",
+            "address": "12815 Heacock St, Moreno Valley, CA 92553",
+            "latitude": 33.9348871,
+            "longitude": -117.24528989999999,
+            "rating": 4.4,
+            "ratingCount": 263,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Heacock-Medical-Offices-100088",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0Sv93bwYQhoRwterkN7lNTcTvxFEK6-Z11_uX",
+            "cid": "5672440380386131813",
+            "fid": "0x80dca618bd5fd88b:0x4eb88e78da7f3f65",
+            "placeId": "ChIJi9hfvRim3IARZT9_2niOuE4"
+        }
+    ],
+    "credits": 3
+}

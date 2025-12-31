@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Kootenai Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6959716,-116.7932817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kootenai Health",
+            "address": "2003 Kootenai Health Way, Coeur d'Alene, ID 83814",
+            "latitude": 47.6959716,
+            "longitude": -116.7932817,
+            "rating": 4.5,
+            "ratingCount": 6639,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "http://www.kh.org/",
+            "phoneNumber": "(208) 625-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_wqg1LakMczTejyEL7aNVM39t1q8VZTtQIAsE",
+            "cid": "10361599186749356378",
+            "fid": "0x5361c6c16978b66b:0x8fcbcb8fef2bf95a",
+            "placeId": "ChIJa7Z4acHGYVMRWvkr74_Ly48"
+        }
+    ],
+    "credits": 3
+}

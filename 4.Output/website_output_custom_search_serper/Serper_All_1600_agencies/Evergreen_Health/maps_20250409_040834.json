@@ -1,0 +1,456 @@
+{
+    "searchParameters": {
+        "q": "Evergreen Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.5825013,-122.1742853,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Evergreen Medical Center",
+            "address": "2365 Quimby Rd #100, San Jose, CA 95122",
+            "latitude": 37.3250579,
+            "longitude": -121.80944059999999,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPpkcef3_us8TjC6QucAFsxMyenhS0DskR_Do7J",
+            "cid": "3458521223473032097",
+            "fid": "0x808e2d5fe7a6e807:0x2fff22ba8d426ba1",
+            "placeId": "ChIJB-im518tjoARoWtCjboi_y8"
+        },
+        {
+            "position": 2,
+            "title": "Evergreen Health",
+            "address": "20311 Stevens Creek Blvd Suite B, Cupertino, CA 95014",
+            "latitude": 37.323345499999995,
+            "longitude": -122.02909419999999,
+            "type": "Acupuncture clinic",
+            "types": [
+                "Acupuncture clinic"
+            ],
+            "website": "https://www.evergreenhealthsanjose.com/",
+            "phoneNumber": "(415) 307-9788",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20137\u202fPM",
+                "Wednesday": "10\u202fAM\u20137\u202fPM",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "10\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20137\u202fPM",
+                "Monday": "10\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqUunKx2ldGdaeJWSc2sD3Dzv6ljPE0_G1daFK",
+            "cid": "11898171631358316403",
+            "fid": "0x808fb537068ab8b9:0xa51ecc0f3bbe0f73",
+            "placeId": "ChIJubiKBje1j4ARcw--Ow_MHqU"
+        },
+        {
+            "position": 3,
+            "title": "Evergreen Health Center",
+            "address": "5870 Stoneridge Mall Rd, Pleasanton, CA 94588",
+            "latitude": 37.695863599999996,
+            "longitude": -121.93235639999999,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(925) 293-0747",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uyN6GT48p1C3rwhF_13IfQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=108.76573&pitch=0&thumbfov=100",
+            "cid": "17953914898579167015",
+            "fid": "0x808fedcca6ba2091:0xf9291e79f1679727",
+            "placeId": "ChIJkSC6psztj4ARJ5dn8XkeKfk"
+        },
+        {
+            "position": 4,
+            "title": "Evergreen Family Practice",
+            "address": "2728 Aborn Rd, San Jose, CA 95121",
+            "latitude": 37.313263899999995,
+            "longitude": -121.79370069999999,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(408) 270-2100",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xayHvC03g91blKN_4NoWEg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=126.61135&pitch=0&thumbfov=100",
+            "cid": "6547076632972441010",
+            "fid": "0x808e2d7425ab2171:0x5adbe382819535b2",
+            "placeId": "ChIJcSGrJXQtjoARsjWVgYLj21o"
+        },
+        {
+            "position": 5,
+            "title": "Evergreen Urgent Care",
+            "address": "2365 Quimby Rd #160, San Jose, CA 95122",
+            "latitude": 37.3251876,
+            "longitude": -121.80955499999999,
+            "rating": 2.7,
+            "ratingCount": 42,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "phoneNumber": "(408) 550-2750",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOGARVrBhT15jPgE3tTjD4-2Z_2q1Bt5WhzjS0i",
+            "cid": "1037126981570017322",
+            "fid": "0x808e2d5fe0d0b4a5:0xe649d7eab74382a",
+            "placeId": "ChIJpbTQ4F8tjoARKjh0q36dZA4"
+        },
+        {
+            "position": 6,
+            "title": "Evergreen Wellness Clinic: Vasantha Natarajan, MD",
+            "address": "2690 S White Rd suite #95, San Jose, CA 95148",
+            "latitude": 37.3290673,
+            "longitude": -121.7977265,
+            "rating": 5,
+            "ratingCount": 128,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.evwellnessclinic.com/",
+            "phoneNumber": "(669) 260-5846",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.evwellnessclinic.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHSh93LXJxVNosWO2oea8vxiiemC9dXUuvqJ_X",
+            "cid": "3496069043105300854",
+            "fid": "0x808e2daf09e1cfc9:0x3084884590880176",
+            "placeId": "ChIJyc_hCa8tjoARdgGIkEWIhDA"
+        },
+        {
+            "position": 7,
+            "title": "EvergreenHealth Medical Center Kirkland",
+            "address": "12040 NE 128th St, Kirkland, WA 98034",
+            "latitude": 47.7156418,
+            "longitude": -122.1795593,
+            "rating": 3,
+            "ratingCount": 588,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.evergreenhealth.com/?utm_source=EH-MEDCENTER&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+            "phoneNumber": "(425) 899-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP68GPG4uOeJbNFlTjj2vNQW9JOKbpoRuvKpVeo",
+            "cid": "14406417902947637237",
+            "fid": "0x54900d8549deee6b:0xc7ede0c1170597f5",
+            "placeId": "ChIJa-7eSYUNkFQR9ZcFF8Hg7cc"
+        },
+        {
+            "position": 8,
+            "title": "Evergreen Acupuncture",
+            "address": "70 N El Camino Real Suite D, San Mateo, CA 94401",
+            "latitude": 37.5669757,
+            "longitude": -122.3295799,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Acupuncture clinic",
+            "types": [
+                "Acupuncture clinic"
+            ],
+            "website": "https://evergreen-aims.com/",
+            "phoneNumber": "(650) 369-3727",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u201312\u202fAM",
+                "Saturday": "12\u20136\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uFSpgL45yIT8g9rkUF3Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=38.15865&pitch=0&thumbfov=100",
+            "cid": "13128544812710219798",
+            "fid": "0x808f9f4461d8acd3:0xb631f5f2fb63d016",
+            "placeId": "ChIJ06zYYUSfj4ARFtBj-_L1MbY"
+        },
+        {
+            "position": 9,
+            "title": "Evergreen Clinic",
+            "address": "505 San Marin Dr # A200, Novato, CA 94945",
+            "latitude": 38.121719399999996,
+            "longitude": -122.5834915,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(415) 892-1590",
+            "cid": "13321554828414988867",
+            "fid": "0x8085bba067eee0ef:0xb8dfab892b90b243",
+            "placeId": "ChIJ7-DuZ6C7hYARQ7KQK4mr37g"
+        },
+        {
+            "position": 10,
+            "title": "Evergreen Physical Therapy",
+            "address": "1624 E Capitol Expy, San Jose, CA 95121",
+            "latitude": 37.3052239,
+            "longitude": -121.81126409999999,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic",
+                "Physical therapist"
+            ],
+            "website": "http://www.evergreenptonline.com/",
+            "phoneNumber": "(408) 270-2280",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.evergreenptonline.com/mobilear"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMnZurtlG_id1XLliXJ3sqhfCLnjlRLYlSsBnpi",
+            "cid": "2743564047872010386",
+            "fid": "0x808e2d7fd652b9ad:0x261318f72bf1a892",
+            "placeId": "ChIJrblS1n8tjoARkqjxK_cYEyY"
+        },
+        {
+            "position": 11,
+            "title": "Evergreen Counseling",
+            "address": "2140 Shattuck Ave. Suites 804 and 401, Berkeley, CA 94704",
+            "latitude": 37.870408399999995,
+            "longitude": -122.268485,
+            "rating": 4.5,
+            "ratingCount": 15,
+            "type": "Psychotherapist",
+            "types": [
+                "Psychotherapist",
+                "Child psychologist",
+                "Counselor",
+                "Family counselor",
+                "Life coach",
+                "Mental health clinic",
+                "Mental health service",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "https://evergreencounseling.com/",
+            "phoneNumber": "(510) 373-2723",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "6\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://evergreencounseling.as.me/jennifer-voss"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrIo7Wg53-exK2l3chuNwLY8nESO1XzmmeIY1W",
+            "cid": "2973657786109288400",
+            "fid": "0x80857e808b10315f:0x29448e00589e5fd0",
+            "placeId": "ChIJXzEQi4B-hYAR0F-eWACORCk"
+        },
+        {
+            "position": 12,
+            "title": "Evergreen Valley College",
+            "address": "3095 Yerba Buena Rd, San Jose, CA 95135",
+            "latitude": 37.3011274,
+            "longitude": -121.76507919999999,
+            "rating": 4.4,
+            "ratingCount": 167,
+            "type": "College",
+            "types": [
+                "College",
+                "Community college"
+            ],
+            "website": "http://www.evc.edu/",
+            "phoneNumber": "(408) 274-7900",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPTm7CfkrvvJ0ESQNDVslo0qseQIY8k5iQq3UM",
+            "cid": "5206916305708911404",
+            "fid": "0x808e2c4acc189bef:0x4842aecae8f80b2c",
+            "placeId": "ChIJ75sYzEosjoARLAv46MquQkg"
+        },
+        {
+            "position": 13,
+            "title": "EvergreenHealth Monroe",
+            "address": "14701 179th Ave SE, Monroe, WA 98272",
+            "latitude": 47.863875199999995,
+            "longitude": -121.98940479999999,
+            "rating": 2.5,
+            "ratingCount": 187,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.evergreenhealth.com/locations/locations-profile/evergreenhealth-monroe?utm_source=EH-HOSP-MON&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+            "phoneNumber": "(360) 794-7497",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCRg0TdbmOk8FdXf9QxgGz8eKOrXXEtFKW2VPJ",
+            "cid": "14982306051348579222",
+            "fid": "0x549aa651d4302c39:0xcfebd7f95ad14396",
+            "placeId": "ChIJOSww1FGmmlQRlkPRWvnX688"
+        },
+        {
+            "position": 14,
+            "title": "Freedom Choice Clinic",
+            "address": "2690 S White Rd #20, San Jose, CA 95148",
+            "latitude": 37.329062,
+            "longitude": -121.7977121,
+            "rating": 3,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(408) 223-8080",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLwvKYx9jbH78L1DDu0iTm-BR6u5JlT62OrbYe",
+            "cid": "8122583633590701206",
+            "fid": "0x808e2d3b3cce1f4d:0x70b936c78a934c96",
+            "placeId": "ChIJTR_OPDstjoARlkyTisc2uXA"
+        },
+        {
+            "position": 15,
+            "title": "Evergreen Surgery Center LLC",
+            "address": "2365 Quimby Rd Suite 180, San Jose, CA 95122",
+            "latitude": 37.3250548,
+            "longitude": -121.80941759999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "phoneNumber": "(408) 620-5675",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20132\u202fPM",
+                "Wednesday": "8\u202fAM\u20132\u202fPM",
+                "Thursday": "8\u202fAM\u20132\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IuMXQAV0y06FatZQ6hAIIQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=251.2608&pitch=0&thumbfov=100",
+            "cid": "10717650948382561047",
+            "fid": "0x808e2d378ddaf8db:0x94bcbec0c4f89317",
+            "placeId": "ChIJ2_jajTctjoARF5P4xMC-vJQ"
+        },
+        {
+            "position": 16,
+            "title": "One Medical: Evergreen Park",
+            "address": "2515 El Camino Real Ste 201, Palo Alto, CA 94306",
+            "latitude": 37.4246558,
+            "longitude": -122.14431309999999,
+            "rating": 4.1,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://onemedical.com/locations/sf/evergreen-park",
+            "phoneNumber": "(888) 663-6331",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "8\u202fAM\u20139\u202fPM",
+                "Sunday": "8\u202fAM\u20139\u202fPM",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNi0Oa2hROxpu_IFxv2Pf6NV7-0qldk_wvujwU-",
+            "cid": "16397363837838464650",
+            "fid": "0x808fbbe0c8b8dc3f:0xe38f23889732968a",
+            "placeId": "ChIJP9y4yOC7j4ARipYyl4gjj-M"
+        },
+        {
+            "position": 17,
+            "title": "Evergreen Medicine",
+            "address": "2801 Pinole Valley Rd # 202, Pinole, CA 94564",
+            "latitude": 37.9940741,
+            "longitude": -122.28509349999999,
+            "type": "Acupuncture clinic",
+            "types": [
+                "Acupuncture clinic"
+            ],
+            "phoneNumber": "(510) 235-5166",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3AQqywqTq-Dd-A1Eyr7DnQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=95.71404&pitch=0&thumbfov=100",
+            "cid": "8468247774621254012",
+            "fid": "0x8085773d2aab4f09:0x7585427bfc4ac17c",
+            "placeId": "ChIJCU-rKj13hYARfMFK_HtChXU"
+        }
+    ],
+    "credits": 3
+}

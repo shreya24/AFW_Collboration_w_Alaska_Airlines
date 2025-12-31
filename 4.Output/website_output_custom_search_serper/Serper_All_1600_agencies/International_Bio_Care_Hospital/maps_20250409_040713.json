@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "International Bio Care Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.50986,-116.9891397,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "BioCare Hospital and Wellness Center",
+            "address": "Azucena 3966, El Prado, 22105 Tijuana, B.C., Mexico",
+            "latitude": 32.509859999999996,
+            "longitude": -116.9891397,
+            "rating": 4.6,
+            "ratingCount": 28,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Wellness center"
+            ],
+            "website": "https://biocarehospital.com/",
+            "phoneNumber": "(800) 701-7345",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNlOjbxO5LBrAvKAmKKJSiFmRQA-oJQpxbpWunQ",
+            "cid": "7753159676547335078",
+            "fid": "0x80d937f58cb99729:0x6b98c1a5d77c83a6",
+            "placeId": "ChIJKZe5jPU32YARpoN816XBmGs"
+        }
+    ],
+    "credits": 3
+}

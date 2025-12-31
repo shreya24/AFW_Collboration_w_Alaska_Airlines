@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Age Smart Advocacy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.878638,-122.4203375,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Age Smart Advocates",
+            "latitude": 37.878637999999995,
+            "longitude": -122.42033749999999,
+            "rating": 5,
+            "ratingCount": 8,
+            "type": "Patients support association",
+            "types": [
+                "Patients support association",
+                "Service establishment",
+                "Home health care service",
+                "Aged care"
+            ],
+            "website": "https://agesmartadvocates.com/",
+            "phoneNumber": "(925) 471-6060",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM51F23ygt2oorX1Ih9om26xDiy4o4mJz5apr0O",
+            "cid": "14539115033960602363",
+            "fid": "0x808561161a4487ad:0xc9c5501783c35afb",
+            "placeId": "ChIJrYdEGhZhhYAR-1rDgxdQxck"
+        }
+    ],
+    "credits": 3
+}

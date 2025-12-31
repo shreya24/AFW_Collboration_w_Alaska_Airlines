@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Berryessa Dental",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3884086,-121.8561706,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Berryessa Dental Spa",
+            "address": "2664 Berryessa Rd #104, San Jose, CA 95132",
+            "latitude": 37.3884086,
+            "longitude": -121.8561706,
+            "rating": 4.8,
+            "ratingCount": 72,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "https://berryessadentalspa.com/",
+            "phoneNumber": "(408) 254-1760",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20132\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.berryessadentalspa.com/appointment-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-LTJWq6RndRYB_oq8JkDCyKSnMRTBoWHGBNgizfC8Ayw2m72HSaXtOStTQjiJze4mRVpmXJcpN3_j-Yyr-zPemJQlshtrHHOxlBKaqwHdyZhO5VqWhPZGs8JtxMz9g-nBQZ27MHA",
+            "cid": "5924288786623727754",
+            "fid": "0x808fcc355298928d:0x52374d436189888a",
+            "placeId": "ChIJjZKYUjXMj4ARioiJYUNNN1I"
+        }
+    ],
+    "credits": 3
+}

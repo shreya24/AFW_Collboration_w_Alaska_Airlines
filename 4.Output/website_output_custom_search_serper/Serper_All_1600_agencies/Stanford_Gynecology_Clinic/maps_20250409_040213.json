@@ -1,0 +1,106 @@
+{
+    "searchParameters": {
+        "q": "Stanford Gynecology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.693824,-122.2542576,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gynecology Clinic",
+            "address": "900 Blake Wilbur Dr W0050, Palo Alto, CA 94304",
+            "latitude": 37.435545399999995,
+            "longitude": -122.1774195,
+            "rating": 2.6,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/gynecology-clinic.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 725-6079",
+            "cid": "729490009042280356",
+            "fid": "0x808fa4cd78124b07:0xa1fab4c58295fa4",
+            "placeId": "ChIJB0sSeM2kj4ARpF8pWEyrHwo"
+        },
+        {
+            "position": 2,
+            "title": "Obstetric Care at Stanford Children's Health",
+            "address": "770 Welch Rd, Palo Alto, CA 94304",
+            "latitude": 37.438166599999995,
+            "longitude": -122.1760496,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Pregnancy care center"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/service/obstetrics?utm_source=local&utm_medium=Yext&utm_campaign=GMB",
+            "phoneNumber": "(650) 498-4069",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gzlDg9dmK4ePhbSOVyKUaw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=307.54807&pitch=0&thumbfov=100",
+            "cid": "886877810433496994",
+            "fid": "0x808fa5ed6c470ddd:0xc4ed2ab721097a2",
+            "placeId": "ChIJ3Q1HbO2lj4ARopcQcqvSTgw"
+        },
+        {
+            "position": 3,
+            "title": "Stanford University School of Medicine Department of Obstetrics and Gynecology",
+            "address": "300 Pasteur Dr, Stanford, CA 94305",
+            "latitude": 37.4332299,
+            "longitude": -122.1756173,
+            "rating": 1.8,
+            "ratingCount": 5,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Academic department"
+            ],
+            "website": "http://obgyn.stanford.edu/",
+            "phoneNumber": "(650) 725-6079",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U6TamNpxDNV4JjR1vPrOhg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=107.09683&pitch=0&thumbfov=100",
+            "cid": "2922939356775965904",
+            "fid": "0x808fa4cdfddd328b:0x28905ddbcca3e4d0",
+            "placeId": "ChIJizLd_c2kj4AR0OSjzNtdkCg"
+        },
+        {
+            "position": 4,
+            "title": "Stanford Medicine Partners Gynecology San Pablo",
+            "address": "100 San Pablo Towne Center, San Pablo, CA 94806",
+            "latitude": 37.954418,
+            "longitude": -122.332898,
+            "rating": 3.5,
+            "ratingCount": 4,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/stanford-medicine-partners-obstetrics-gynecology-san-pablo.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(510) 893-1700",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-y2iBzBgLakLDzce2w0RjyZo3LwUB6QNNv2eHeImGiSCdk5xjMur7ZcQt9Ctg6R8Rh1qs7GkL7BkGbJ4_EZjX5uzW9icy4-wG8w1S4hsMhaOT49BAR5CcCCzXQtOkcQRiie6uz",
+            "cid": "14881206743794652945",
+            "fid": "0x8085778b36fc2281:0xce84aab081071711",
+            "placeId": "ChIJgSL8Not3hYARERcHgbCqhM4"
+        }
+    ],
+    "credits": 3
+}

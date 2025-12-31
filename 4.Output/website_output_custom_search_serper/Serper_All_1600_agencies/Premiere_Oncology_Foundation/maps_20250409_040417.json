@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Premiere Oncology Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.785388,-95.519788,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Premier Oncology Consultants | Houston Oncology Consultants",
+            "address": "9230 Katy Fwy #410, Houston, TX 77024",
+            "latitude": 29.785387999999998,
+            "longitude": -95.51978799999999,
+            "rating": 4.9,
+            "ratingCount": 144,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Cancer treatment center",
+                "Doctor"
+            ],
+            "website": "http://premieroncology.com/",
+            "phoneNumber": "(281) 556-6622",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://premieroncology.com/request-a-call-back/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-z3Uu1J2PpRp7zczdNKGf8eOmdXSQjvVQcM5TBIhBRsJDOtiBJ0hP85B0BTYjml8JOfwnBFG_B19TZ5g5MERKb1NYgavv154jhpILjZkgmJ8NDxB90Ge06r3gqqA3_xcZEWJ5n",
+            "cid": "16791009947999977825",
+            "fid": "0x8640c48a754d0f67:0xe905a695ca96c161",
+            "placeId": "ChIJZw9NdYrEQIYRYcGWypWmBek"
+        }
+    ],
+    "credits": 3
+}

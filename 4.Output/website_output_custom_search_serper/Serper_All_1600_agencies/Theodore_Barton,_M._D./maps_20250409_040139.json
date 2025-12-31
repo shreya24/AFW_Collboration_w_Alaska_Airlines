@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Theodore Barton, M. D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4937695,-151.078629,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Theodore D. Barton, MD",
+            "address": "250 Hospital Pl, Soldotna, AK 99669",
+            "latitude": 60.4937695,
+            "longitude": -151.078629,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://drbartonobgyn.com/",
+            "phoneNumber": "(907) 262-2602",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20133:30\u202fPM",
+                "Thursday": "8\u202fAM\u20133:30\u202fPM",
+                "Friday": "8\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6CelbeaIokWpDHvmNxt09w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=230.37694&pitch=0&thumbfov=100",
+            "cid": "14719032842736818424",
+            "fid": "0x56c663de0b57b40b:0xcc448262bca2d8f8",
+            "placeId": "ChIJC7RXC95jxlYR-NiivGKCRMw"
+        }
+    ],
+    "credits": 3
+}

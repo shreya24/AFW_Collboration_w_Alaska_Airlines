@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "UCHealth Mountain Crest Behavioral Health Center - Fort Collins",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5220128,-105.0284598,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Mountain Crest Behavioral Health Center - Fort Collins",
+            "address": "4601 Corbett Dr, Fort Collins, CO 80528",
+            "latitude": 40.5220128,
+            "longitude": -105.0284598,
+            "rating": 3.7,
+            "ratingCount": 152,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Mental health service"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-mountain-crest-behavioral-health-center/",
+            "phoneNumber": "(970) 207-4800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM59h2uoYc7OvvbvnAFhj8dJmirsnv-cBzBsGaL",
+            "cid": "310098623770726894",
+            "fid": "0x876eb34dba079df7:0x44db10e2b3111ee",
+            "placeId": "ChIJ950Huk2zbocR7hExKw6xTQQ"
+        }
+    ],
+    "credits": 3
+}

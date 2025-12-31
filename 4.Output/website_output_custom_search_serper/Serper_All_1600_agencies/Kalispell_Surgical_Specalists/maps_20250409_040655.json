@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Kalispell Surgical Specalists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2333087,-114.3266503,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Surgical Clinic",
+            "address": "1333 Surgical Services Dr, Kalispell, MT 59901",
+            "latitude": 48.213976699999996,
+            "longitude": -114.3250941,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Surgeon"
+            ],
+            "website": "https://www.logan.org/location/logan-health-surgical-clinic/",
+            "phoneNumber": "(406) 752-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "721730199315990499",
+            "fid": "0x5366509fa709e70b:0xa0419cad9e6c7e3",
+            "placeId": "ChIJC-cJp59QZlMR48fm2coZBAo"
+        },
+        {
+            "position": 2,
+            "title": "Logan Health Outpatient Surgery Center",
+            "address": "111 Sunnyview Ln STE 101, Kalispell, MT 59901",
+            "latitude": 48.2160666,
+            "longitude": -114.3282065,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.logan.org/location/logan-health-outpatient-surgery-center/",
+            "phoneNumber": "(406) 858-8205",
+            "cid": "10854135293176129349",
+            "fid": "0x53665a7560955555:0x96a1a28a9dcb2745",
+            "placeId": "ChIJVVWVYHVaZlMRRSfLnYqioZY"
+        },
+        {
+            "position": 3,
+            "title": "Rocky Mountain Surgical Suites",
+            "address": "1400 Pondera St, Kalispell, MT 59901",
+            "latitude": 48.2526407,
+            "longitude": -114.3251774,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.rockymountainss.com/",
+            "phoneNumber": "(406) 756-6887",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "cid": "1600584400560674891",
+            "fid": "0x53665b22fc1e4471:0x16366b083473584b",
+            "placeId": "ChIJcUQe_CJbZlMRS1hzNAhrNhY"
+        }
+    ],
+    "credits": 3
+}

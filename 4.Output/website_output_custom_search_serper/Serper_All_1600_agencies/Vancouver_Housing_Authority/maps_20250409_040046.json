@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Vancouver Housing Authority",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6320234,-122.6379331,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Vancouver Housing Authority",
+            "address": "2500 Main St STE 100, Vancouver, WA 98660",
+            "latitude": 45.6399465,
+            "longitude": -122.67179159999999,
+            "rating": 3.8,
+            "ratingCount": 56,
+            "type": "Housing authority",
+            "types": [
+                "Housing authority"
+            ],
+            "website": "https://www.hud.gov/program_offices/public_indian_housing/programs/ph/mtw/vancouver",
+            "phoneNumber": "(360) 694-2501",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_w8Pe0ULUDMyvpZHWVmPIGDqbBmok9CUEOqSKcMDyBtS6LFlzkHjCvxBQaFQkKydtIHgw8nDgQ84-zBwT2xnIjrlq51njhDQIBnbMFW4NROwSwczaDUVpRJv9Z8qEvq7iT2w25",
+            "cid": "16287576234607563846",
+            "fid": "0x5495af34a083b1c7:0xe209184a43e0d446",
+            "placeId": "ChIJx7GDoDSvlVQRRtTgQ0oYCeI"
+        },
+        {
+            "position": 2,
+            "title": "Vancouver Housing Authority",
+            "address": "500 Omaha Way, Vancouver, WA 98661",
+            "latitude": 45.624100299999995,
+            "longitude": -122.60407459999999,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Housing authority",
+            "types": [
+                "Housing authority"
+            ],
+            "website": "https://www.hud.gov/",
+            "phoneNumber": "(360) 694-2501",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2HFb39c-zCSZTy0IlWqJNQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=283.33972&pitch=0&thumbfov=100",
+            "cid": "3151454706439373652",
+            "fid": "0x5495a591b863391f:0x2bbc375bbf0d4354",
+            "placeId": "ChIJHzljuJGllVQRVEMNv1s3vCs"
+        }
+    ],
+    "credits": 3
+}

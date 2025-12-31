@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "OHSU - Gastroenterology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.499231,-122.6786195,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "OHSU Gastroenterology Clinic, Marquam Hill",
+            "address": "Multnomah Pavilion, 3161 SW Pavilion Loop, Portland, OR 97239",
+            "latitude": 45.500174099999995,
+            "longitude": -122.68592679999999,
+            "rating": 2.3,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ohsu.edu/digestive-health/ohsu-gastroenterology-clinic-marquam-hill?utm_source=gmb&utm_medium=organic&utm_content=clinic-gastroenterology-marquamhill",
+            "phoneNumber": "(503) 494-4373",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gKjh8LD5DsUZHGl2jmqKKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=281.83536&pitch=0&thumbfov=100",
+            "cid": "11985863994252097114",
+            "fid": "0x54950a443abfaeef:0xa65657cc878a765a",
+            "placeId": "ChIJ766_OkQKlVQRWnaKh8xXVqY"
+        },
+        {
+            "position": 2,
+            "title": "OHSU Digestive Health Center, South Waterfront",
+            "address": "3485 S Bond Ave Building 2 8th Floor, Portland, OR 97239",
+            "latitude": 45.498287999999995,
+            "longitude": -122.67131219999999,
+            "rating": 2.5,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "https://www.ohsu.edu/digestive-health/ohsu-digestive-health-center-south-waterfront?utm_source=gmb&utm_medium=organic&utm_content=a2b3dd36-9c65-55b4-ad29-894dd03df2c0",
+            "phoneNumber": "(503) 494-4373",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB87Dlrb8F17BsksoeBcR0m4vPRuGYhY7Dj-4DiXi9cOGKaLp3Y8vgd6VOKfEo6SGZOn6Py0-do-wOJ-XDOlTBg5effRV5u0w9d1Go4jxfwcG0jV1Frx_xRfobOJEyEOWZwagL7F",
+            "cid": "16323247763568674728",
+            "fid": "0x54950a686522e1df:0xe287d35b503347a8",
+            "placeId": "ChIJ3-EiZWgKlVQRqEczUFvTh-I"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Endoscopy and Fertility Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4365393,-122.1783288,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fertility & Endoscopy Center",
+            "address": "900 Welch Rd # 403, Palo Alto, CA 94304",
+            "latitude": 37.4365393,
+            "longitude": -122.17832879999999,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "phoneNumber": "(650) 327-8778",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JndWO6_-1hmW-e8s8wxKuw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=159.47404&pitch=0&thumbfov=100",
+            "cid": "2784294469659931012",
+            "fid": "0x808fa4cdb0300889:0x26a3cd117e2a3184",
+            "placeId": "ChIJiQgwsM2kj4ARhDEqfhHNoyY"
+        }
+    ],
+    "credits": 3
+}

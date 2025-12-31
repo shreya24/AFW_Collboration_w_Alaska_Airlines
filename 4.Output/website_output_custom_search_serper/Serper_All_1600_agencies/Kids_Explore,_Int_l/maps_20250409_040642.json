@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Kids Explore, Int'l",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@0,0,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Explore kids World",
+            "rating": 4.7,
+            "ratingCount": 6,
+            "type": "Education center",
+            "types": [
+                "Education center",
+                "Service establishment"
+            ],
+            "website": "http://www.explorekidsworld.com/",
+            "phoneNumber": "+91 86000 72469",
+            "openingHours": {
+                "Wednesday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Thursday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Friday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Saturday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Sunday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Monday": "8:01\u202fAM\u20138:32\u202fPM",
+                "Tuesday": "8:01\u202fAM\u20138:32\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNmJWEJrpwaPq3evgRh6Y-kPaKdUrivwsmg5ytd",
+            "cid": "2841738400858372740",
+            "fid": "0x3bc2eb5049c5ad27:0x276fe204f7bffa84",
+            "placeId": "ChIJJ63FSVDrwjsRhPq_9wTibyc"
+        }
+    ],
+    "credits": 3
+}

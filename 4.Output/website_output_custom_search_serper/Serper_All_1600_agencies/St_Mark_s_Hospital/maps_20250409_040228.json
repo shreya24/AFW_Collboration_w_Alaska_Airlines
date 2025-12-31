@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "St Mark's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6860556,-111.8570285,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Mark's Hospital",
+            "address": "1200 E 3900 S, Millcreek, UT 84124",
+            "latitude": 40.686055599999996,
+            "longitude": -111.8570285,
+            "rating": 4.5,
+            "ratingCount": 6677,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.mountainstar.com/locations/st-marks-hospital?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(801) 268-7111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.mountainstar.com/locations/st-marks-hospital/physicians"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWYsgb69CTAFOR3kIrhpvCfk03RIvRqPg6ewvg",
+            "cid": "12805511169938469049",
+            "fid": "0x8752614520b91f55:0xb1b65090037ab0b9",
+            "placeId": "ChIJVR-5IEVhUocRubB6A5BQtrE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Dr. Al Jecius",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7360434,-112.030637,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Al Jecius, MD",
+            "address": "340 S Willard St, Cottonwood, AZ 86326",
+            "latitude": 34.7360434,
+            "longitude": -112.030637,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "website": "https://providers.nahealth.com/provider/Algimantas+Jecius/2624493",
+            "phoneNumber": "(928) 649-7969",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMGOUOt0hSiWz0PysmqPOS2iEHHpxNCp7IIIQuf",
+            "cid": "8305578095566358877",
+            "fid": "0x872d0f8b8d3ca91b:0x73435745e87f895d",
+            "placeId": "ChIJG6k8jYsPLYcRXYl_6EVXQ3M"
+        }
+    ],
+    "credits": 3
+}

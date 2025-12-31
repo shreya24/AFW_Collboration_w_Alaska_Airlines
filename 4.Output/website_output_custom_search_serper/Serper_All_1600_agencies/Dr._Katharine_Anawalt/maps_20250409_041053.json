@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Dr. Katharine Anawalt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6491428,-122.3069798,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anawalt Bradley D MD",
+            "address": "1959 NE Pacific St, Seattle, WA 98195",
+            "latitude": 47.6491428,
+            "longitude": -122.3069798,
+            "type": "Endocrinologist",
+            "types": [
+                "Endocrinologist",
+                "Internist"
+            ],
+            "phoneNumber": "(206) 598-3300",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bUdKqQO7CyoMB4VO6UzbKg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=219.77728&pitch=0&thumbfov=100",
+            "cid": "4874991536273778974",
+            "fid": "0x549014eb89e67f45:0x43a772f932a2691e",
+            "placeId": "ChIJRX_miesUkFQRHmmiMvlyp0M"
+        }
+    ],
+    "credits": 3
+}

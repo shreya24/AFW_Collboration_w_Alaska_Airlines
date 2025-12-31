@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Asante Spears Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4206192,-123.3439527,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Asante Spears Cancer Center",
+            "address": "510 SW Ramsey Ave, Grants Pass, OR 97527",
+            "latitude": 42.4206192,
+            "longitude": -123.34395269999999,
+            "rating": 4.3,
+            "ratingCount": 10,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.asante.org/Locations/location-detail/helen-k-spears-cancer-center/?utm_source=704097527&utm_medium=site-link&utm_campaign=google-my-business",
+            "phoneNumber": "(541) 789-4673",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Mc0nUIvoeEYGNKssZ8126LbcfAZuX8X_GE5MfdHbCOD1FgWn2E9zV0UKNSkotYvmheg8FibwI-my_iS29QM4LuFizj-6jb8jz9SRLEQfngV0cl_aZ-XBFpJK2NFUeHoi8UUU",
+            "cid": "4197613041107524063",
+            "fid": "0x54c57bab615873b9:0x3a40ead22bc2d9df",
+            "placeId": "ChIJuXNYYat7xVQR39nCK9LqQDo"
+        }
+    ],
+    "credits": 3
+}

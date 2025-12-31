@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Madsen Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7580466,-111.836165,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "U of U Health Madsen Health Center",
+            "address": "555 Foothill Dr, Salt Lake City, UT 84112",
+            "latitude": 40.7580466,
+            "longitude": -111.836165,
+            "rating": 4.3,
+            "ratingCount": 227,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Pharmacy"
+            ],
+            "website": "https://healthcare.utah.edu/locations/madsen/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 581-8000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healthcare.utah.edu/locations/madsen/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPA936dL1cHZ1wrJwvf0YDQ56pTYA3J-nx2mBiJ",
+            "cid": "10383378342635716811",
+            "fid": "0x87525fe99fd28215:0x90192b96d14940cb",
+            "placeId": "ChIJFYLSn-lfUocRy0BJ0ZYrGZA"
+        }
+    ],
+    "credits": 3
+}

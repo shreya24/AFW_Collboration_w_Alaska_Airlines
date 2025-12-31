@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "University of Minnesota Amplate Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9672596,-93.2371727,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "M Health Fairview Masonic Children's Hospital",
+            "address": "2450 Riverside Ave, Minneapolis, MN 55454",
+            "latitude": 44.966713,
+            "longitude": -93.2372371,
+            "rating": 4.3,
+            "ratingCount": 243,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.mhealthfairviewpeds.org/resources/Get-to-Know-M-Health-Fairview-Masonic-Childrens-Hospital",
+            "phoneNumber": "(612) 365-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMVxC06CiW1r6ZrpSA0YLOb3lZPyE7Wr7OnzHCC",
+            "cid": "17504372724993765568",
+            "fid": "0x52b32d3d2a39139f:0xf2ec0640514a30c0",
+            "placeId": "ChIJnxM5Kj0ts1IRwDBKUUAG7PI"
+        },
+        {
+            "position": 2,
+            "title": "University of Minnesota Department of Pediatrics",
+            "address": "2450 Riverside Ave, Minneapolis, MN 55454",
+            "latitude": 44.9678061,
+            "longitude": -93.2371084,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://med.umn.edu/pediatrics",
+            "phoneNumber": "(612) 365-6777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8W0GhgFybEHmMzlnxfDfi8veLwl8OUvMbTS0056U0z6MMBIFFUOEgd6SRjtuwkb85iXe4Y974B2YbIPUo79RodfwM_TMetAUucwEc77DnPDFCwghStVmH2T46HZiQp-oRs-iGONw",
+            "cid": "10758838218540568252",
+            "fid": "0x52b32d391fa06113:0x954f125b6401cebc",
+            "placeId": "ChIJE2GgHzkts1IRvM4BZFsST5U"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,68 @@
+{
+    "searchParameters": {
+        "q": "The Pain Center - Tempe",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3860955,-111.891842,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "East Valley Pain Management",
+            "address": "2600 E Southern Ave # I1, Tempe, AZ 85282",
+            "latitude": 33.393464,
+            "longitude": -111.882432,
+            "rating": 3.8,
+            "ratingCount": 13,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician",
+                "Doctor",
+                "Pain control clinic",
+                "Physiatrist",
+                "Sports medicine physician"
+            ],
+            "website": "https://paindoctorarizona.com/",
+            "phoneNumber": "(480) 420-3600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOSJOqUJ1aC8jo-HdfjojUojsCK-qcvat5gpQTX",
+            "cid": "2594395161466682403",
+            "fid": "0x872b07df8dbb2f21:0x240124a75636bc23",
+            "placeId": "ChIJIS-7jd8HK4cRI7w2VqckASQ"
+        },
+        {
+            "position": 2,
+            "title": "The Pain Center - Tempe",
+            "address": "1976 E Baseline Rd STE 102, Tempe, AZ 85283",
+            "latitude": 33.378727,
+            "longitude": -111.901252,
+            "rating": 4.4,
+            "ratingCount": 86,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Doctor",
+                "Medical clinic",
+                "Pain management physician"
+            ],
+            "website": "https://www.thepaincenter.com/locations/tempe/",
+            "phoneNumber": "(623) 241-6130",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNkh6I9iQHsis_ChOakUVP7yZ-YJzbbvpMjcLA2",
+            "cid": "13356254160987689177",
+            "fid": "0x872b07cd9eef6bed:0xb95af2651b8110d9",
+            "placeId": "ChIJ7Wvvns0HK4cR2RCBG2XyWrk"
+        }
+    ],
+    "credits": 3
+}

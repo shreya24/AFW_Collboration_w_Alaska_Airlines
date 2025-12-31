@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Nathan Adelson Hospice Pediatric Palliat",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.2167567,-115.2494756,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nathan Adelson Hospice",
+            "address": "3150 N Tenaya Wy #350, Las Vegas, NV 89128",
+            "latitude": 36.2167567,
+            "longitude": -115.2494756,
+            "rating": 4.1,
+            "ratingCount": 40,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.nah.org/",
+            "phoneNumber": "(702) 733-0320",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqTIlpcrXPmEvnMB4gLz9P_D1pntrvN75MHJPQ",
+            "cid": "18341909373713134394",
+            "fid": "0x80c8ea9abf16960d:0xfe8b8d655294333a",
+            "placeId": "ChIJDZYWv5rqyIAROjOUUmWNi_4"
+        }
+    ],
+    "credits": 3
+}

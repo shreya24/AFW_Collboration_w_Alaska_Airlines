@@ -1,0 +1,128 @@
+{
+    "searchParameters": {
+        "q": "Valley Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2956734,-118.0308958,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Children's Hospital",
+            "address": "9300 Valley Children's Pl, Madera, CA 93636",
+            "latitude": 36.884588699999995,
+            "longitude": -119.80074619999999,
+            "rating": 3.9,
+            "ratingCount": 952,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Dialysis center"
+            ],
+            "website": "https://www.valleychildrens.org/",
+            "phoneNumber": "(559) 353-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoG9pLLVwpSaBtplODXTDoz6QWc5BE0KuNcXt4",
+            "cid": "14461014688717879823",
+            "fid": "0x809469c4ca5f1761:0xc8afd83ddcbc3a0f",
+            "placeId": "ChIJYRdfysRplIARDzq83D3Yr8g"
+        },
+        {
+            "position": 2,
+            "title": "Valley Children's Healthcare",
+            "address": "9300 Valley Children's Pl, Madera, CA 93636",
+            "latitude": 36.884036699999996,
+            "longitude": -119.80031849999999,
+            "rating": 2.9,
+            "ratingCount": 19,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.valleychildrens.org/",
+            "phoneNumber": "(559) 353-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sw9-DkXDD5KDA0VAVG_lXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.10861&pitch=0&thumbfov=100",
+            "cid": "17476906849222984853",
+            "fid": "0x809469db34ffffff:0xf28a722ec8870495",
+            "placeId": "ChIJ____NNtplIARlQSHyC5yivI"
+        },
+        {
+            "position": 3,
+            "title": "Valley Children's Hospital Emergency Room",
+            "address": "9300 Valley Children's Pl, Madera, CA 93636",
+            "latitude": 36.883980699999995,
+            "longitude": -119.80109549999999,
+            "rating": 2.5,
+            "ratingCount": 70,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.valleychildrens.org/",
+            "phoneNumber": "(559) 353-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB82EaIu9ptn9yLivcmuqsIDdAWY5bmqyF6XVDeDZzjko4WABRiy-QwsaB9dnH_Z4CZpzTacU8rZVPGDKiZDlURQpuNtdeXtcc6QgatMdOKKT4RL08TW4aElhv8CkDco6iWGh3fGCg",
+            "cid": "14326324610204649523",
+            "fid": "0x809469db350164a3:0xc6d15454302f4833",
+            "placeId": "ChIJo2QBNdtplIARM0gvMFRU0cY"
+        },
+        {
+            "position": 4,
+            "title": "Valley Children\u2019s Medical Center",
+            "address": "80495 CA-111, Indio, CA 92201",
+            "latitude": 33.7067581,
+            "longitude": -116.2606962,
+            "rating": 3.3,
+            "ratingCount": 9,
+            "type": "Child health care centre",
+            "types": [
+                "Child health care centre",
+                "Children's hospital",
+                "Pediatrician"
+            ],
+            "website": "http://valleycmc.com/",
+            "phoneNumber": "(760) 347-2887",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fc8ilSj2LpOCyn-rsdCUnA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.44803&pitch=0&thumbfov=100",
+            "cid": "3100090073169203235",
+            "fid": "0x80daf84f2922cfb3:0x2b05bb7f1ef71023",
+            "placeId": "ChIJs88iKU_42oARIxD3Hn-7BSs"
+        }
+    ],
+    "credits": 3
+}

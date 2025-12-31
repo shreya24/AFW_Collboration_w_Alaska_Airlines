@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Los Ninos Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4799837,-112.0289911,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Los Ninos Innovative Home Health",
+            "address": "2601 E Thomas Rd # 230, Phoenix, AZ 85016",
+            "latitude": 33.480003599999996,
+            "longitude": -112.025516,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "phoneNumber": "(602) 305-9500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DNoiRqXmWtp8USHjW1occg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=328.2321&pitch=0&thumbfov=100",
+            "cid": "11620859281736714262",
+            "fid": "0x872b0d966e38ef47:0xa14595f260b7c816",
+            "placeId": "ChIJR-84bpYNK4cRFsi3YPKVRaE"
+        },
+        {
+            "position": 2,
+            "title": "Los Ninos Clinic",
+            "address": "2601 E Thomas Rd, Phoenix, AZ 85016",
+            "latitude": 33.4800392,
+            "longitude": -112.02554909999999,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(602) 424-2146",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DNoiRqXmWtp8USHjW1occg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=327.84283&pitch=0&thumbfov=100",
+            "cid": "10310222007886360389",
+            "fid": "0x872b0d9673575967:0x8f15444a4f7b2f45",
+            "placeId": "ChIJZ1lXc5YNK4cRRS97T0pEFY8"
+        },
+        {
+            "position": 3,
+            "title": "Los Ninos Hospital",
+            "address": "2303 E Thomas Rd, Phoenix, AZ 85016",
+            "latitude": 33.479928099999995,
+            "longitude": -112.0324662,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital"
+            ],
+            "website": "https://www.haciendahealthcare.org/",
+            "phoneNumber": "(602) 954-7311",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hV9fkifVo2CrEQegcQFPug&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.36575&pitch=0&thumbfov=100",
+            "cid": "8440989191125298943",
+            "fid": "0x872b0d910c94dd1f:0x75246af271ef6eff",
+            "placeId": "ChIJH92UDJENK4cR_27vcfJqJHU"
+        }
+    ],
+    "credits": 3
+}

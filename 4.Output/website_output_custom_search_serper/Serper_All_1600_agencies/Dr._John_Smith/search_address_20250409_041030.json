@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Dr. John Smith address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "John E Smith, MD, Family Medicine - Oneonta, AL - Ascension",
+            "link": "https://healthcare.ascension.org/find-care/provider/1760553978/john-smith",
+            "snippet": "Location. Provider's primary location. St. Vincent's Blount Primary Care Oneonta. 150 Gilbreath Dr Oneonta, AL 35121(1 out of 1 locations). HoursCall us for ...",
+            "position": 1
+        },
+        {
+            "title": "John L Smith, MD | Nebraska Medicine Omaha, NE",
+            "link": "https://www.nebraskamed.com/doctors/john-l-smith",
+            "snippet": "4400 Emile St. Omaha, NE 68105. 402.559.7200 \u00b7 Get Directions.",
+            "position": 2
+        },
+        {
+            "title": "John Q. Smith, MD - Orthopedic Surgeon",
+            "link": "https://westidahoorthopedics.com/johnsmithmd",
+            "snippet": "Dr. Smith is board certified and trained at the St. Louis University School of Medicine. He is experienced at diagnosing and treating sports injuries, fractures ...",
+            "position": 3
+        },
+        {
+            "title": "Dr. John M. Smith, MD - Lafayette, LA - Cardiology",
+            "link": "https://doctors.lourdesrmc.com/provider/john-m-smith/3197556",
+            "snippet": "Find information about and book an appointment with Dr. John M. Smith, MD in Lafayette, LA. Specialties: Cardiology.",
+            "position": 4
+        },
+        {
+            "title": "John Smith III, MD | Provider Profile - Novant Health",
+            "link": "https://www.novanthealth.org/pf/providers/1477540466/john-smith",
+            "snippet": "Dr. Jack Smith treats all urological conditions with a special interest in bladder dysfunction, sphincter function and pelvic floor disorders.",
+            "rating": 4.9,
+            "ratingCount": 327,
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Dr John Smith Urology"
+        },
+        {
+            "query": "John Smith orthopedic surgeon"
+        }
+    ],
+    "credits": 1
+}

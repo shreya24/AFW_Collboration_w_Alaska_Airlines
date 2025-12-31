@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Gillette Children's Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.956105,-93.0958151,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gillette Children's Hospital and Clinics",
+            "address": "640 Jackson St, St Paul, MN 55101",
+            "latitude": 44.956105,
+            "longitude": -93.0958151,
+            "rating": 4.1,
+            "ratingCount": 133,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.gillettechildrens.org/st-paul",
+            "phoneNumber": "(651) 291-2848",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.gillettechildrens.org/care-team?utm_source=GMB&utm_medium=organic&utm_campaign=appt-link&utm_term=Main-Hospital"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMdcXLnIOJwbHHnN5NYpcTz93iCZQm8brNeHq-C",
+            "cid": "16854903539389583232",
+            "fid": "0x87f7d5550a55609b:0xe9e8a577ccca4f80",
+            "placeId": "ChIJm2BVClXV94cRgE_KzHel6Ok"
+        }
+    ],
+    "credits": 3
+}

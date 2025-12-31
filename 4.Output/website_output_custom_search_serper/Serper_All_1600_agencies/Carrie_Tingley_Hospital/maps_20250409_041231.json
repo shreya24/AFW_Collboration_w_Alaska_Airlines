@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Carrie Tingley Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.093544,-106.6269763,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Carrie Tingley Hospital",
+            "address": "1127 University Blvd NE, Albuquerque, NM 87102",
+            "latitude": 35.093544,
+            "longitude": -106.6269763,
+            "rating": 3.4,
+            "ratingCount": 81,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://hsc.unm.edu/health/locations/carrie-tingley-hospital.html",
+            "phoneNumber": "(505) 272-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-5oZhFGGLAJADdOJMHMxim2yH6Xk7uhCuSBShlgMBRYMsuslakMuSe4tjso9X0r0HTGERbmf_crFuU2Gih8JiZgy9CiGHDNbRnmJUp6iytGJYNlasq_GNiAdjRWKgAYY07hfc",
+            "cid": "14542042978684675274",
+            "fid": "0x87220b5787cde477:0xc9cfb70ac4f6a4ca",
+            "placeId": "ChIJd-TNh1cLIocRyqT2xAq3z8k"
+        }
+    ],
+    "credits": 3
+}

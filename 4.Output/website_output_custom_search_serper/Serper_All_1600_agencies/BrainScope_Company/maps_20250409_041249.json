@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "BrainScope Company",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9851298,-77.0874739,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "BrainScope",
+            "address": "4330 East-West Hwy Suite 1000, Bethesda, MD 20814",
+            "latitude": 38.985129799999996,
+            "longitude": -77.08747389999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical technology manufacturer",
+            "types": [
+                "Medical technology manufacturer"
+            ],
+            "website": "https://www.brainscope.com/",
+            "phoneNumber": "(240) 752-7680",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKcINudZ9it-0yYcxpTd3uis_1Th60L65Ldzo_",
+            "cid": "7500065123884564539",
+            "fid": "0x89b7c96fcf451477:0x6815957e3d6f803b",
+            "placeId": "ChIJdxRFz2_Jt4kRO4BvPX6VFWg"
+        }
+    ],
+    "credits": 3
+}

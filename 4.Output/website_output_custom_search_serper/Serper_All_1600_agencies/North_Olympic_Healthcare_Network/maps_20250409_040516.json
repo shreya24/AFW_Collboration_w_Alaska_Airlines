@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "North Olympic Healthcare Network",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1210787,-123.436483,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Olympic Healthcare Network",
+            "address": "240 W Front St, Port Angeles, WA 98362",
+            "latitude": 48.1210787,
+            "longitude": -123.436483,
+            "rating": 4.7,
+            "ratingCount": 459,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor"
+            ],
+            "website": "https://www.nohn-pa.org/",
+            "phoneNumber": "(360) 452-7891",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO7-NEFsduZEDTP6A4EjgMCS3tyBoMdvHAaAjcg",
+            "cid": "17978590089250282385",
+            "fid": "0x548fb1b8095ca283:0xf980c86e781f1b91",
+            "placeId": "ChIJg6JcCbixj1QRkRsfeG7IgPk"
+        }
+    ],
+    "credits": 3
+}

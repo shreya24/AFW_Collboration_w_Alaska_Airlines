@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Hawaii Family Dental - Kihei",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.7340453,-156.4522141,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hawaii Family Dental - Kihei",
+            "address": "1847 S Kihei Rd Suite 270, Kihei, HI 96753",
+            "latitude": 20.7340453,
+            "longitude": -156.4522141,
+            "rating": 4.7,
+            "ratingCount": 750,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Dental hygienist",
+                "Dental implants periodontist",
+                "Endodontist",
+                "Oral surgeon",
+                "Orthodontist",
+                "Pediatric dentist",
+                "Periodontist"
+            ],
+            "website": "https://hawaiifamilydental.com/kihei/",
+            "phoneNumber": "(808) 856-4625",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://hawaiifamilydental.com/schedule-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSh34A1CVhX4TmNuT-puw6k7Ahr6UwxDGKBWn3",
+            "cid": "15728757631178441906",
+            "fid": "0x7954d07316f26933:0xda47c5bb249b04b2",
+            "placeId": "ChIJM2nyFnPQVHkRsgSbJLvFR9o"
+        }
+    ],
+    "credits": 3
+}

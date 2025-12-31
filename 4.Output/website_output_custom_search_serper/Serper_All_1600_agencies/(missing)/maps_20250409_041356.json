@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "(missing)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Center for Missing & Exploited Children",
+            "address": "333 John Carlyle St Suite # 125, Alexandria, VA 22314",
+            "latitude": 38.803867,
+            "longitude": -77.0621328,
+            "rating": 4.8,
+            "ratingCount": 28,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.missingkids.com/",
+            "phoneNumber": "(800) 843-5678",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20135\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135\u202fPM",
+                "Friday": "9:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOV0b7o2lpYeBCU9AGrZ1mV5nfqmRWHvvq8r4ea",
+            "cid": "10586368080962981758",
+            "fid": "0x89b7b057c4e84b71:0x92ea55ae3f550f7e",
+            "placeId": "ChIJcUvoxFewt4kRfg9VP65V6pI"
+        },
+        {
+            "position": 2,
+            "title": "Missing People In America",
+            "address": "5012 Buchanan Trail E #145, Zullinger, PA 17272",
+            "latitude": 39.7676789,
+            "longitude": -77.62186299999999,
+            "type": "Mission",
+            "types": [
+                "Mission"
+            ],
+            "website": "http://www.missingpeopleinamerica.org/",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsQuRvcyvxy7hMRoAPqmmQvxFp8JZ4gtQa6aRz",
+            "cid": "13281318416845727044",
+            "fid": "0x89c997a5d1c69d39:0xb850b8bb90f16544",
+            "placeId": "ChIJOZ3G0aWXyYkRRGXxkLu4ULg"
+        }
+    ],
+    "credits": 3
+}

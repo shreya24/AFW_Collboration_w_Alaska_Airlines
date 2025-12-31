@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mercy Care LTC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.404567,-111.989307,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mercy Care",
+            "address": "4350 E Cotton Center Blvd unit d, Phoenix, AZ 85040",
+            "latitude": 33.404567,
+            "longitude": -111.989307,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.mercycareaz.org/",
+            "phoneNumber": "(602) 263-3000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=asB0UCqQ-n42KYQle87ROw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=352.07214&pitch=0&thumbfov=100",
+            "cid": "13563878742936249510",
+            "fid": "0x872b0f0fc6d43fb9:0xbc3c93da292fe4a6",
+            "placeId": "ChIJuT_Uxg8PK4cRpuQvKdqTPLw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Scarlet Road",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5727745,-122.6300165,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scarlet Road",
+            "address": "1222 Park Ave, Bremerton, WA 98337",
+            "latitude": 47.5727745,
+            "longitude": -122.6300165,
+            "rating": 4.8,
+            "ratingCount": 12,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.scarletroad.org/",
+            "phoneNumber": "(360) 850-9718",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8zHUkl_Re7FkBlzMrNpQcIad0qdeSj5IGvYrCih9C3qKXMJMwf20mm4z3L-uTApSJFEFzm1QwalQ5QxA9IJeVfN6Lg9IO6BaXLxG-FBT35gnjHposdwAUTwc6S_0KODCwy_nS_GQ",
+            "cid": "10263643033980748300",
+            "fid": "0x5490377c98e65541:0x8e6fc8f5d5d5c20c",
+            "placeId": "ChIJQVXmmHw3kFQRDMLV1fXIb44"
+        }
+    ],
+    "credits": 3
+}

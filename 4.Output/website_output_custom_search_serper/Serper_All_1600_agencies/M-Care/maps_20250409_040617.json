@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "M-Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7591378,-90.0428664,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "M-Care Healthcare",
+            "address": "731 N McLean Blvd, Wichita, KS 67203",
+            "latitude": 37.6968908,
+            "longitude": -97.372379,
+            "rating": 4.7,
+            "ratingCount": 88,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gay & lesbian organization"
+            ],
+            "website": "http://mcarehc.com/",
+            "phoneNumber": "(316) 461-0339",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mcarehc.com/contact/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s_wxb_eFvnNphU-ZNsPpXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=35.024788&pitch=0&thumbfov=100",
+            "cid": "1825526728233542991",
+            "fid": "0x87bae52685920ccd:0x195592e32457654f",
+            "placeId": "ChIJzQyShSbluocRT2VXJOOSVRk"
+        },
+        {
+            "position": 2,
+            "title": "MCare Compounding Pharmacy",
+            "address": "5853 54th Ave N, Kenneth City, FL 33709",
+            "latitude": 27.821384899999998,
+            "longitude": -82.7133539,
+            "rating": 5,
+            "ratingCount": 204,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy"
+            ],
+            "website": "http://www.mcarepharmacy.com/",
+            "phoneNumber": "(727) 202-6684",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhQ-mSrhZIXHJEAB7-zPPBgH20uO8nV5YArQyt",
+            "cid": "11602795928622845648",
+            "fid": "0x88c2e35e04768a6f:0xa105696c3ee9ced0",
+            "placeId": "ChIJb4p2BF7jwogR0M7pPmxpBaE"
+        },
+        {
+            "position": 3,
+            "title": "M Care",
+            "address": "1717 Main St #5200, Dallas, TX 75201",
+            "latitude": 32.781616,
+            "longitude": -96.79642489999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(214) 712-2448",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lg_sguivUbvRhZF5fdompQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.08398&pitch=0&thumbfov=100",
+            "cid": "462173483308336617",
+            "fid": "0x864e991f42e0ddd1:0x669f8559932c5e9",
+            "placeId": "ChIJ0d3gQh-ZToYR6cUymVX4aQY"
+        }
+    ],
+    "credits": 3
+}

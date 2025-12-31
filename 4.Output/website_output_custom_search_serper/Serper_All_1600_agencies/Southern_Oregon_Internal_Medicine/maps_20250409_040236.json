@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Southern Oregon Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.318265,-122.8278569,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southern Oregon Internal Medicine",
+            "address": "2900 Doctors Park Dr Ste 200, Medford, OR 97504",
+            "latitude": 42.318265,
+            "longitude": -122.8278569,
+            "rating": 4.1,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Endocrinologist",
+                "Medical diagnostic imaging center"
+            ],
+            "website": "http://www.roguevalleyphysicians.com/soim",
+            "phoneNumber": "(541) 282-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rSNjJaydStsKuKa1Yk3GNw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=188.64539&pitch=0&thumbfov=100",
+            "cid": "2987548525590597940",
+            "fid": "0x54cf7a7758977879:0x2975e78e2911d134",
+            "placeId": "ChIJeXiXWHd6z1QRNNERKY7ndSk"
+        }
+    ],
+    "credits": 3
+}

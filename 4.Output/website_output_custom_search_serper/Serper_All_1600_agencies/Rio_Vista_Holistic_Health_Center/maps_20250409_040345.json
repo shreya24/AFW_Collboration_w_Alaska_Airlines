@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Rio Vista Holistic Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.1586636,-121.6940421,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rio Vista Holistic Health Center",
+            "address": "500 Main St, Rio Vista, CA 94571",
+            "latitude": 38.1586636,
+            "longitude": -121.69404209999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.rvhhc.com/",
+            "phoneNumber": "(707) 374-3142",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 2\u20134\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u201312\u202fPM, 2\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 2\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxQz-Bg7TkHr5_4024p7Zzxos5HfukdhZ7rp7h",
+            "cid": "7969910991761913155",
+            "fid": "0x80854d93f55e9763:0x6e9acfd213733543",
+            "placeId": "ChIJY5de9ZNNhYARQzVzE9LPmm4"
+        }
+    ],
+    "credits": 3
+}

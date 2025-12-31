@@ -1,0 +1,605 @@
+{
+    "searchParameters": {
+        "q": "UC Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7055308,-94.7296108,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "West Chester Hospital",
+            "address": "7700 University Dr, West Chester Township, OH 45069",
+            "latitude": 39.3581171,
+            "longitude": -84.36769699999999,
+            "rating": 2.8,
+            "ratingCount": 455,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Medical clinic"
+            ],
+            "website": "http://www.uchealth.com/WestChesterHospital",
+            "phoneNumber": "(513) 475-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMskk3VQMd5KVVPaFz3MChOYuhD7vIbwgdrsJlk",
+            "cid": "3509749055065962226",
+            "fid": "0x88405a0e57b2db57:0x30b5222b8df836f2",
+            "placeId": "ChIJV9uyVw5aQIgR8jb4jSsitTA"
+        },
+        {
+            "position": 2,
+            "title": "UCHealth University of Colorado Hospital (UCH)",
+            "address": "12605 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.7421191,
+            "longitude": -104.8414959,
+            "rating": 3.1,
+            "ratingCount": 1506,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-university-of-colorado-hospital-uch/",
+            "phoneNumber": "(720) 848-0000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJ8QhOJGk4XJGDsXlJ_kB0HKUA6pFyr4faS972",
+            "cid": "975602612854654780",
+            "fid": "0x876c7cb367cdd00d:0xd8a09684d25073c",
+            "placeId": "ChIJDdDNZ7N8bIcRPAclTWgJig0"
+        },
+        {
+            "position": 3,
+            "title": "UCHealth Urgent Care - Thornton",
+            "address": "13631 Colorado Blvd, Thornton, CO 80602",
+            "latitude": 39.9435024,
+            "longitude": -104.94203329999999,
+            "rating": 4.4,
+            "ratingCount": 565,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/urgent-care-thornton/",
+            "phoneNumber": "(303) 252-2960",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uchealth.org/locations/urgent-care-thornton/",
+                "https://clockwisemd.com/hospitals/1604/visits/new?rwg_token=AAiGsoaSVLQtRSE6GuPhzJ30Lf14y3wxU2TWcTO9DSPuFJbBwwlIIWyAN-ZuK5ttFSdNgnfWho4bGrBVXN08LB73BtEcU8PYI89Gnx0RlfWVSf2wL-RqqBE%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-_9nXWB9rHtoWcPD4QxiHkCToKUldaoXF4LXvwmtuF1TD4I97B7wGWgJtdhdEW7RjIBNp0V__ViP7EvkJKclU2FKJQTgz5kjYGhNhhXQpMOqiatCfTqMAiNtQkJV257ngKS77v",
+            "cid": "15125386106364801413",
+            "fid": "0x876c747e5340ab37:0xd1e82a86a880b185",
+            "placeId": "ChIJN6tAU350bIcRhbGAqIYq6NE"
+        },
+        {
+            "position": 4,
+            "title": "UCHealth Urgent Care - Main Street",
+            "address": "2101 Main St, Longmont, CO 80501",
+            "latitude": 40.1963806,
+            "longitude": -105.10295099999999,
+            "rating": 3.8,
+            "ratingCount": 578,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-longmont/",
+            "phoneNumber": "(720) 745-8030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1624/visits/new?rwg_token=AAiGsobSRmLdBUSgrNU-EbEH0lPO25_7oW_6wbH3mh3g0L0iUTq_pMrFKJnvJZ5-zKjPXH-Z6c8SP6m0ejAxwi13CmJUnIznKxoHPKEnegwgM_YUzrRTZXE%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9-VLc_1P3vpH7HtNt89cbbQlEC-ppImH5UsUn64ditHgMcV_tG1cm_tMDUhJAyTSUTqk08WMxielHb4Dmzai5PKqxg_p4rPJPoF3YuNEGYWOzDtaZXNiqDM-_D_xp0nhosIA8p",
+            "cid": "517140405618877740",
+            "fid": "0x876bf9601093c0d5:0x72d40757fea252c",
+            "placeId": "ChIJ1cCTEGD5a4cRLCXqf3VALQc"
+        },
+        {
+            "position": 5,
+            "title": "UC Health Holmes Hospital",
+            "address": "200 Albert Sabin Way, Cincinnati, OH 45220",
+            "latitude": 39.139945999999995,
+            "longitude": -84.5050792,
+            "rating": 3.2,
+            "ratingCount": 112,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital"
+            ],
+            "website": "http://uchealth.com/locations/uc-health-holmes-hospital/",
+            "phoneNumber": "(513) 475-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1nzOCe9oxTFeKyfzE6x7xnbRGOk5lXcs8nPuv",
+            "cid": "14759074764871625114",
+            "fid": "0x8841b399dfd2948f:0xccd2c44d3d9ae99a",
+            "placeId": "ChIJj5TS35mzQYgRmumaPU3E0sw"
+        },
+        {
+            "position": 6,
+            "title": "UC Health Ridgeway Tower",
+            "address": "3200 Burnet Ave, Cincinnati, OH 45229",
+            "latitude": 39.1369415,
+            "longitude": -84.49971269999999,
+            "rating": 3.7,
+            "ratingCount": 355,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "University hospital"
+            ],
+            "website": "http://www.uchealth.com/",
+            "phoneNumber": "(513) 475-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-_rIH28i1GHPPpteq2e8Ov8_j3Q-ZkRAWYp06v4dH60jiN69TzXETiULw0GnvAI75bqZ4s4G4DPYOOerq5YJx8wygv6k2SrBUUpv_Qkrmxjt2d6mFqxy4pEw3gQj-l2SyqpF1u",
+            "cid": "761575037471347935",
+            "fid": "0x8841b3bd0dcd6a8b:0xa91a8762a48d4df",
+            "placeId": "ChIJi2rNDb2zQYgR39RIKnaokQo"
+        },
+        {
+            "position": 7,
+            "title": "UCHealth Memorial Hospital Central",
+            "address": "1400 E Boulder St, Colorado Springs, CO 80909",
+            "latitude": 38.8397642,
+            "longitude": -104.7994092,
+            "rating": 2.7,
+            "ratingCount": 983,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-central/",
+            "phoneNumber": "(719) 365-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORxEY3OVprYkrKu4n8Si8dye4dqHMB9YX-zTX-",
+            "cid": "13025990946729059480",
+            "fid": "0x87134572ff53c32d:0xb4c59dc05b3d6498",
+            "placeId": "ChIJLcNT_3JFE4cRmGQ9W8CdxbQ"
+        },
+        {
+            "position": 8,
+            "title": "UCHealth Medical Center of the Rockies",
+            "address": "2500 Rocky Mountain Ave, Loveland, CO 80538",
+            "latitude": 40.415608399999996,
+            "longitude": -104.99681389999999,
+            "rating": 3.4,
+            "ratingCount": 492,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-medical-center-of-the-rockies/",
+            "phoneNumber": "(970) 624-2500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ccNJbJHkt6C6USPt8Nrl71whEfAAf6nl4OiPzI5P3XBekYQkUQHXOrbfjSfUaqbB0SyehjRRFblDTn8EJecmdd5AHv9FqX7fUT97zMxKG0rZcM3cvr7tsH6XPOhopS8C9YUFZJw",
+            "cid": "1662421262322690243",
+            "fid": "0x876ead12ff34b1d3:0x17121b5487cce8c3",
+            "placeId": "ChIJ07E0_xKtbocRw-jMh1QbEhc"
+        },
+        {
+            "position": 9,
+            "title": "UCHealth Urgent Care - Orchards",
+            "address": "221 E 29th St Suite 102, Loveland, CO 80538",
+            "latitude": 40.4229766,
+            "longitude": -105.075268,
+            "rating": 4.3,
+            "ratingCount": 429,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-orchards/",
+            "phoneNumber": "(970) 624-5150",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1626/visits/new?rwg_token=AAiGsoZDtXKtQpjETrpBf3iwXTs0spNaVzTDm1oAr44pA4tQMckZqHnoEc7ydIxaBJXCdtLU769Zi87VTtaYCiS2YtzkcqUxbA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3IgI_2hBLp4Z5WGuDDxQ54hmGfAlLpeLEhP2k",
+            "cid": "6886525504236085222",
+            "fid": "0x8769528a0c13923d:0x5f91da75b0a8dfe6",
+            "placeId": "ChIJPZITDIpSaYcR5t-osHXakV8"
+        },
+        {
+            "position": 10,
+            "title": "UCHealth Greeley Hospital",
+            "address": "6767 W 29th St, Greeley, CO 80634",
+            "latitude": 40.3909431,
+            "longitude": -104.7903343,
+            "rating": 3.3,
+            "ratingCount": 265,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-greeley-hospital/",
+            "phoneNumber": "(970) 652-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlnhHymeZvzIsa4ghALh_XHrVpCPaG2JgYCSwW",
+            "cid": "9540393764049878795",
+            "fid": "0x876ea784b33f0e53:0x84664994cb8b7f0b",
+            "placeId": "ChIJUw4_s4SnbocRC3-Ly5RJZoQ"
+        },
+        {
+            "position": 11,
+            "title": "UC Medical Center",
+            "address": "3188 Bellevue Ave, Cincinnati, OH 45219",
+            "latitude": 39.1368223,
+            "longitude": -84.50354829999999,
+            "rating": 2.5,
+            "ratingCount": 200,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.uchealth.com/university-of-cincinnati-medical-center/",
+            "phoneNumber": "(513) 584-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_qM_FYNQxCXHkBKSkvrp0BBn_1ncotMsDe5Y49THXFu1oP2gZ4K07afi8hpiGYLxQK9SksuqoYZK2IcLckd6uRwJHuDp123b4l0ghycbjvX8CdUYVaakoTzgY2MQhaAVOw3742PA",
+            "cid": "14647213610337479831",
+            "fid": "0x8841b397a39c9457:0xcb455b2ca16eac97",
+            "placeId": "ChIJV5Sco5ezQYgRl6xuoSxbRcs"
+        },
+        {
+            "position": 12,
+            "title": "UCHealth Urgent Care - Quincy",
+            "address": "16951 E Quincy Ave, Aurora, CO 80015",
+            "latitude": 39.6388537,
+            "longitude": -104.79045099999999,
+            "rating": 4.2,
+            "ratingCount": 372,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-quincy/",
+            "phoneNumber": "(303) 752-5480",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/3628/visits/new?rwg_token=AAiGsoZ7N9m_L77UsDctU0VxakFbipGY0AvxZ0Olgn5Ku10fCutJUejNmayhJjzs7zm3mCmQ2jUFIHQ0mh2Mj2XqrVztgAbMOx70qqTvzpE47ObL3XEw0VA%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMauItgC5enRrPgDVT-EC-XBxhytF_6YaE8lcyX",
+            "cid": "17533792606360527832",
+            "fid": "0x876c89d82d625001:0xf3548b7a3b7d63d8",
+            "placeId": "ChIJAVBiLdiJbIcR2GN9O3qLVPM"
+        },
+        {
+            "position": 13,
+            "title": "UCHealth Poudre Valley Hospital",
+            "address": "1024 S Lemay Ave, Fort Collins, CO 80524",
+            "latitude": 40.5712974,
+            "longitude": -105.0560392,
+            "rating": 3,
+            "ratingCount": 530,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-poudre-valley-hospital/",
+            "phoneNumber": "(970) 495-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9KEVLLqdR85zizu4Kwh0iTzpVqzLzncdeXdZCvnEqKjtZjAfHYd2JqusblPfIs8aCYb1l3oMEKXD0zaJD57ysW-FsILSWF0JGMOtzEE4UQVAlrEgQLMCVMruWWojY5XrBemDrV0w",
+            "cid": "872340695785897680",
+            "fid": "0x87694ae071b76365:0xc1b2d3daf6f7ed0",
+            "placeId": "ChIJZWO3ceBKaYcR0H5vrz0tGww"
+        },
+        {
+            "position": 14,
+            "title": "UCHealth Highlands Ranch Medical Center",
+            "address": "9475 S University Blvd, Highlands Ranch, CO 80126",
+            "latitude": 39.5442728,
+            "longitude": -104.94467739999999,
+            "rating": 2.4,
+            "ratingCount": 19,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-highlands-ranch-medical-center/",
+            "phoneNumber": "(303) 470-4071",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_d1-xW91xrZ1mwvdqEeR8VQUrFcd4z-RgRMoHBeY5Ku7rC8yeiA7XowVQm-vnP5qZ-iMJl3fFy045dkk8yDRggs_GB56-8ccuUWq4v2Lm7aMRX0luAhOb9PT_n2ZQZXdmEDXo",
+            "cid": "9396843366517519775",
+            "fid": "0x876c83ee305652e5:0x82684b415743359f",
+            "placeId": "ChIJ5VJWMO6DbIcRnzVDV0FLaII"
+        },
+        {
+            "position": 15,
+            "title": "UCHealth Memorial Hospital North",
+            "address": "4050 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.967079999999996,
+            "longitude": -104.75482509999999,
+            "rating": 3.1,
+            "ratingCount": 572,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-north/",
+            "phoneNumber": "(719) 364-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOgW4rG3V_sBs5azTo9ELAhpj5TzmYGBnCSxgk",
+            "cid": "4884588321556751190",
+            "fid": "0x87134c088741ac53:0x43c98b32e4696356",
+            "placeId": "ChIJU6xBhwhME4cRVmNp5DKLyUM"
+        },
+        {
+            "position": 16,
+            "title": "UCHealth Highlands Ranch Hospital",
+            "address": "1500 Park Central Dr, Highlands Ranch, CO 80129",
+            "latitude": 39.5520463,
+            "longitude": -105.0054225,
+            "rating": 3.7,
+            "ratingCount": 312,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-highlands-ranch-hospital/",
+            "phoneNumber": "(720) 516-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOLKSJWhBNHwWk4O7J-aggkvGKQPAiEvNqfPlVf",
+            "cid": "12076574744773727897",
+            "fid": "0x876c819abf56808b:0xa7989cbef5b11699",
+            "placeId": "ChIJi4BWv5qBbIcRmRax9b6cmKc"
+        },
+        {
+            "position": 17,
+            "title": "UCHealth Longs Peak Hospital",
+            "address": "1750 E Ken Pratt Blvd, Longmont, CO 80504",
+            "latitude": 40.1621443,
+            "longitude": -105.0583182,
+            "rating": 3.2,
+            "ratingCount": 341,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-longs-peak-hospital/",
+            "phoneNumber": "(720) 718-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8IvlQ-xnNEDp9ebg4iAZaK_33LigsUQ3sNyz4ZwT8FjBkDvAASLKDMCzI6gv0bs850Bg1GC_V_aQRo8cNM0HPCFf53GDdTHdw1I4JhEYJ-sxLXoCDPMUpPqsHXHg6lym0GqbAA",
+            "cid": "6347399965871250889",
+            "fid": "0x876bf85cc654bc41:0x58167ea395151dc9",
+            "placeId": "ChIJQbxUxlz4a4cRyR0VlaN-Flg"
+        },
+        {
+            "position": 18,
+            "title": "UCHealth Urgent Care - Johnstown",
+            "address": "4846 Larimer Pkwy, Johnstown, CO 80534",
+            "latitude": 40.4066359,
+            "longitude": -104.9759114,
+            "rating": 4.4,
+            "ratingCount": 71,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-johnstown/",
+            "phoneNumber": "(970) 624-2834",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/6047/visits/new?rwg_token=AAiGsobtatDKkUAEMX_r44Mt60nJavzixG2Q9aUksUf58S-xkAAVGc8lwC1HunFv1KNtSj3jrZSinDrbs59aRBZ8Md0UuvhNpUa75myuAwkU4xBH9ajc9n4%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMz-vVY6U680x7xr_bRnPF13UY50J0jF7VDd1YH",
+            "cid": "5244713970015653130",
+            "fid": "0x876eaddbb45714cf:0x48c8f7916b4fcd0a",
+            "placeId": "ChIJzxRXtNutbocRCs1Pa5H3yEg"
+        },
+        {
+            "position": 19,
+            "title": "UC Health Montgomery",
+            "address": "9275 Montgomery Rd, Cincinnati, OH 45242",
+            "latitude": 39.2244627,
+            "longitude": -84.3562707,
+            "rating": 3.9,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.com/en/locations/montgomery-building",
+            "phoneNumber": "(513) 936-4510",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-NMigRgsxBYhWavChQinfCn0I8VN38FiYR_2R3H8GeIuyRvxL0SyGvQ2iBDLwoAqvih0kGuqZT9EYFfY3E59yzZ4wcOx4xtET73JpsxPbNJHncGFNyc-824ApSA87qgEqA20oI",
+            "cid": "6337259843817222936",
+            "fid": "0x8840537e6012d1cd:0x57f278407012b318",
+            "placeId": "ChIJzdESYH5TQIgRGLMScEB48lc"
+        },
+        {
+            "position": 20,
+            "title": "UCHealth Broomfield Hospital",
+            "address": "11820 Destination Dr, Broomfield, CO 80021",
+            "latitude": 39.9104107,
+            "longitude": -105.091616,
+            "rating": 2.9,
+            "ratingCount": 230,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-broomfield-hospital/",
+            "phoneNumber": "(303) 464-4500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDoxKKvK0uiVSgOTGr3U1pW10g3JY2Dal1PR31",
+            "cid": "7782162309731185344",
+            "fid": "0x876b8bb9fa1a2b23:0x6bffcb6397f5f2c0",
+            "placeId": "ChIJIysa-rmLa4cRwPL1l2PL_2s"
+        }
+    ],
+    "credits": 3
+}

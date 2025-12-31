@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Aim High LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1832804,-149.8502429,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Aim High LLC",
+            "address": "1605 E 41st Ct, Anchorage, AK 99508",
+            "latitude": 61.183280399999994,
+            "longitude": -149.85024289999998,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://weaimhighllc.com/?page_id=583",
+            "phoneNumber": "(907) 903-2312",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsCWATpBg2RCnSvcY6n2YQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=354.8814&pitch=0&thumbfov=100",
+            "cid": "15405221796139071435",
+            "fid": "0x56c897a44b0ed6cf:0xd5ca579a6cf977cb",
+            "placeId": "ChIJz9YOS6SXyFYRy3f5bJpXytU"
+        }
+    ],
+    "credits": 3
+}

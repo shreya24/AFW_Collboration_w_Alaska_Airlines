@@ -1,0 +1,35 @@
+{
+    "searchParameters": {
+        "q": "Sutter Neuroscience Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5718094,-121.4696026,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sutter Neuroscience Institute",
+            "address": "2800 L St #500, Sacramento, CA 95816",
+            "latitude": 38.5718094,
+            "longitude": -121.46960259999999,
+            "rating": 3.3,
+            "ratingCount": 6,
+            "type": "Psychoneurological specialized clinic",
+            "types": [
+                "Psychoneurological specialized clinic",
+                "Pain control clinic",
+                "Research institute",
+                "Sleep clinic"
+            ],
+            "website": "http://www.sutterneuro.org/",
+            "phoneNumber": "(888) 287-2270",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2g9vTtffNG7dC820PiOdkqpTi4ZTIdFzLN6SX",
+            "cid": "17121530116942820397",
+            "fid": "0x809ad0eadc1ff393:0xed9be4ed7787742d",
+            "placeId": "ChIJk_Mf3OrQmoARLXSHd-3km-0"
+        }
+    ],
+    "credits": 3
+}

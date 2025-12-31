@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Cohenmehr Bijan OD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0426146,-118.4686494,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cohenmehr Bijan OD",
+            "address": "12222 Wilshire Blvd, Los Angeles, CA 90025",
+            "latitude": 34.0426146,
+            "longitude": -118.46864939999999,
+            "rating": 4.9,
+            "ratingCount": 124,
+            "type": "Optometrist",
+            "types": [
+                "Optometrist",
+                "Optician"
+            ],
+            "website": "http://cohenmehreye.com/",
+            "phoneNumber": "(310) 828-2010",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://appointments.prod.barti.com/request?org=cffd4514-3b47-4d04-bb10-73523c79fdc6"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Z8GA2wnw5MUF2fD5MFyFYib5RLwVDkRpdPaBJd7goxnfX0p48RuuGes1S8Kgyo4sFH-6GpbJqxU3IbT2uyE8H3Bm8AXQm_Dp2-rOGZcr3bkC3_mdM27uF0WHsh7gvgvvtU5AxjA",
+            "cid": "13919310732523775357",
+            "fid": "0x80c2bb45188e89a5:0xc12b535d125ca57d",
+            "placeId": "ChIJpYmOGEW7woARfaVcEl1TK8E"
+        }
+    ],
+    "credits": 3
+}

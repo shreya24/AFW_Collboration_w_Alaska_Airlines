@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Arthritis Center of Riverside",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9027755,-117.4934634,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arthritis Center of Riverside",
+            "address": "11725 Slate Ave # 200, Riverside, CA 92505",
+            "latitude": 33.9027755,
+            "longitude": -117.4934634,
+            "rating": 4.7,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Rheumatologist"
+            ],
+            "website": "https://www.thearthritiscenter.com/",
+            "phoneNumber": "(951) 352-1700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=quLJV20JnY4r-jUcYnx02g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=308.78354&pitch=0&thumbfov=100",
+            "cid": "7028336168735095122",
+            "fid": "0x80dcb70d2c6680c5:0x6189aa81fb7c3952",
+            "placeId": "ChIJxYBmLA233IARUjl8-4GqiWE"
+        }
+    ],
+    "credits": 3
+}

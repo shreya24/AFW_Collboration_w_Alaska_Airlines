@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "VA Eastern Colorado Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7197095,-104.8312911,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Regional VA Medical Center",
+            "address": "1700 N Wheeling St, Aurora, CO 80045",
+            "latitude": 39.742441899999996,
+            "longitude": -104.82993429999999,
+            "rating": 3.3,
+            "ratingCount": 666,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.denver.va.gov/",
+            "phoneNumber": "(303) 399-8020",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNprS9yRyZfxnFY7DX4PU8N0AuH7R6K7OoeabIU",
+            "cid": "2236053604677622973",
+            "fid": "0x876c7c1dac400001:0x1f080ee8058a9cbd",
+            "placeId": "ChIJAQBArB18bIcRvZyKBegOCB8"
+        },
+        {
+            "position": 2,
+            "title": "VA Eastern Colorado Health Care System",
+            "address": "Gateway Medical Bldg, 13701 E Mississippi Ave STE 200, Aurora, CO 80012",
+            "latitude": 39.6969771,
+            "longitude": -104.8326479,
+            "rating": 2.6,
+            "ratingCount": 23,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "http://www.denver.va.gov/",
+            "phoneNumber": "(303) 398-6340",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9tVWVCRVE54kbTfI7Vsq_BHuOUO5HzDalQwrwL2lu4J3P98CS5CIc8sGe7TBD92Ep_nM5btfSLxnlzqeHyIhru8pUpytEEn0i0GTPGDWnTAFYGa14ZdMdmVM-z-1qzT2ck4VL3",
+            "cid": "9896588332331232574",
+            "fid": "0x876c62b8140f639f:0x8957bea764e0ed3e",
+            "placeId": "ChIJn2MPFLhibIcRPu3gZKe-V4k"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Flagstaff Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2092899,-111.6444477,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Flagstaff Medical Center",
+            "address": "1200 N Beaver St, Flagstaff, AZ 86001",
+            "latitude": 35.2092899,
+            "longitude": -111.6444477,
+            "rating": 4.5,
+            "ratingCount": 1827,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://nahealth.com/contact-us",
+            "phoneNumber": "(928) 779-3366",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_C1dxDhCUwOyfP_Sd_EBKC_l7HVHWsucgPxVDulJcbjETXx_QHeFKAL8UdAG4o4pXJJwaio_hUT4fU-GWmGfBC04BFBW7UltRRlBpig0sT41oXnUaGpBr7zK8-HSX1GZ7Kpx6dFQ",
+            "cid": "10950168704778172630",
+            "fid": "0x872d8f4984ea112b:0x97f6d06ba6e6f8d6",
+            "placeId": "ChIJKxHqhEmPLYcR1vjmpmvQ9pc"
+        }
+    ],
+    "credits": 3
+}

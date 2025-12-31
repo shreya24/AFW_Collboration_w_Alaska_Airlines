@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. Donato Perez Garcia",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.5235218,-117.0126963,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Doctor Donato P\u00e9rez Garc\u00eda. I.P.T.",
+            "address": "Av. Diego Rivera 2351, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C., Mexico",
+            "latitude": 32.5235218,
+            "longitude": -117.0126963,
+            "rating": 4.8,
+            "ratingCount": 24,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.donatoperezgarcia.com/",
+            "phoneNumber": "+52 664 616 4878",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20132\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20132\u202fPM",
+                "Thursday": "9:30\u202fAM\u20132\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlK1uZ2XLLcxLkAMZjt6Ng5Zp8u86Nx9ZP9PW8",
+            "cid": "16985143519256593599",
+            "fid": "0x80d949a99ff85045:0xebb75a0a245144bf",
+            "placeId": "ChIJRVD4n6lJ2YARv0RRJApat-s"
+        }
+    ],
+    "credits": 3
+}

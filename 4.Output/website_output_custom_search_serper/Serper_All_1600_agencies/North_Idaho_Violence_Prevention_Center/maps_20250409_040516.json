@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "North Idaho Violence Prevention Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6817795,-116.7805534,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Safe Passage",
+            "address": "850 N 4th St, Coeur d'Alene, ID 83814",
+            "latitude": 47.6817795,
+            "longitude": -116.78055339999999,
+            "rating": 4.6,
+            "ratingCount": 32,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.safepassageid.org/",
+            "phoneNumber": "(208) 664-9303",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:45\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:45\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:45\u202fPM",
+                "Friday": "8:30\u202fAM\u20132:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:45\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlx_Nsb9S1g4dRpCCZuH7kDDp6J1RSPBOVecCe",
+            "cid": "7416997185377470342",
+            "fid": "0x5361c6f3a32967cb:0x66ee77a4a67f0786",
+            "placeId": "ChIJy2cpo_PGYVMRhgd_pqR37mY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Robert S Barry MD, inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.9364885,-120.4312805,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barry Robert S MD",
+            "address": "1420 S Miller St # A, Santa Maria, CA 93454",
+            "latitude": 34.936488499999996,
+            "longitude": -120.4312805,
+            "rating": 3,
+            "ratingCount": 43,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://barry-robert-s-md.jany.io/",
+            "phoneNumber": "(805) 922-3573",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8lC-V0uaIeUI9ZKOvYhMFMqKM-7aDaLUH9fjFJrl67uz3k5tlTGQ8fRxwL9liU9oS5xDr7MjNByoSB08T8OBN1RaBk0-FPgQhfUzTx4tpa-aREBBgVQZKWY98mXJqrlAHJGARIRA",
+            "cid": "1286334271348615669",
+            "fid": "0x80ec6c9ebb52e0d7:0x11d9fa345a2529f5",
+            "placeId": "ChIJ1-BSu55s7IAR9SklWjT62RE"
+        }
+    ],
+    "credits": 3
+}

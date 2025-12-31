@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Barton Memorial Hospital Comm. Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9125629,-119.9983115,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barton Community Health Center",
+            "address": "2201 South Ave, South Lake Tahoe, CA 96150",
+            "latitude": 38.9125441,
+            "longitude": -119.9963313,
+            "rating": 2.3,
+            "ratingCount": 44,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.bartonhealth.org/find-a-location/locations-profile/barton-community-health-center/",
+            "phoneNumber": "(530) 543-5623",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMdFkfVolWABSQ9HIsU8fdqwqBEk7gSM1E4fkTW",
+            "cid": "3605183959657174507",
+            "fid": "0x80998fc9cdc95025:0x32082fb5d14d55eb",
+            "placeId": "ChIJJVDJzcmPmYAR61VN0bUvCDI"
+        },
+        {
+            "position": 2,
+            "title": "Barton Memorial Hospital Comm Clinic",
+            "address": "2101 South Ave, South Lake Tahoe, CA 96150",
+            "latitude": 38.9125817,
+            "longitude": -120.0002916,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(530) 541-1916",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=64Xg1ugkUxdGJxrQPFnL_Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=29.515629&pitch=0&thumbfov=100",
+            "cid": "8764390353615751705",
+            "fid": "0x80998fb70ba18651:0x79a15e9744208a19",
+            "placeId": "ChIJUYahC7ePmYARGYogRJdeoXk"
+        }
+    ],
+    "credits": 3
+}

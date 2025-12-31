@@ -1,0 +1,121 @@
+{
+    "searchParameters": {
+        "q": "Orange County Burn Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7336658,-117.9247931,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Orange County Professional Firefighters Association",
+            "address": "1342 Bell Ave # 3A, Tustin, CA 92780",
+            "latitude": 33.7151162,
+            "longitude": -117.8378283,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Labor union",
+            "types": [
+                "Labor union"
+            ],
+            "website": "http://www.ocfirefighters.org/",
+            "phoneNumber": "(949) 486-3631",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUywsPzIKVfkOpi8i5aLYnH02zmvepUBMWxyrh",
+            "cid": "9524576735039621128",
+            "fid": "0x80dcdeada0eef361:0x842e1813bffc8808",
+            "placeId": "ChIJYfPuoK3e3IARCIj8vxMYLoQ"
+        },
+        {
+            "position": 2,
+            "title": "Orange County Fire Services Association",
+            "address": "1425 E Lincoln Ave # E, Anaheim, CA 92805",
+            "latitude": 33.8394025,
+            "longitude": -117.8985483,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "http://ocfsa.com/",
+            "phoneNumber": "(714) 284-0623",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oirEr1YeNuHIQ9KXMPVwtw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=91.362885&pitch=0&thumbfov=100",
+            "cid": "5095807582948888458",
+            "fid": "0x80dcd64720b60829:0x46b7f1ff79690f8a",
+            "placeId": "ChIJKQi2IEfW3IARig9pef_xt0Y"
+        },
+        {
+            "position": 3,
+            "title": "OCFABA",
+            "address": "1 Fire Authority Bldg AE163, Irvine, CA 92602",
+            "latitude": 33.7473327,
+            "longitude": -117.7669573,
+            "rating": 5,
+            "ratingCount": 9,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://www.ocfabenevolent.org/",
+            "phoneNumber": "(714) 573-6240",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJLe-MLiToUK04Ls7bQ9_QJwo_MpHyS8EqqFul",
+            "cid": "14209010703635467167",
+            "fid": "0x80dcdb6eb5bd65dd:0xc5308bf3cfea4b9f",
+            "placeId": "ChIJ3WW9tW7b3IARn0vqz_OLMMU"
+        },
+        {
+            "position": 4,
+            "title": "Orange County Fire Chiefs Association",
+            "address": "2400 E Orangewood Ave, Anaheim, CA 92806",
+            "latitude": 33.7954522,
+            "longitude": -117.881461,
+            "type": "Fire station",
+            "types": [
+                "Fire station"
+            ],
+            "website": "https://ocfca.net/contact-us/",
+            "phoneNumber": "(714) 288-2531",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oJi0Rjq24aBYuw8kQ2A-HA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=174.66066&pitch=0&thumbfov=100",
+            "cid": "2178954439560559868",
+            "fid": "0x80dcd78307100001:0x1e3d3384a7c47cfc",
+            "placeId": "ChIJAQAQB4PX3IAR_HzEp4QzPR4"
+        },
+        {
+            "position": 5,
+            "title": "Greenpeace Orange County",
+            "address": "2183 Fairview Rd #222, Costa Mesa, CA 92627",
+            "latitude": 33.6537112,
+            "longitude": -117.9080372,
+            "rating": 3.8,
+            "ratingCount": 14,
+            "type": "Environmental protection organization",
+            "types": [
+                "Environmental protection organization"
+            ],
+            "website": "http://www.greenpeace.org/usa/en/about/jobs/frontline1/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNmZj4DEYG9MT_VLsgpEt2iK0IIFgLW7oGnkBX0",
+            "cid": "526680244872335111",
+            "fid": "0x80dcdf9f8bd72831:0x74f24e469d4cf07",
+            "placeId": "ChIJMSjXi5_f3IARB8_UaeQkTwc"
+        }
+    ],
+    "credits": 3
+}

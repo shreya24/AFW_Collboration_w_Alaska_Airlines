@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Buena Park Nursing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.838718,-118.002023,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Buena Park Nursing Center",
+            "address": "8520 Western Ave, Buena Park, CA 90620",
+            "latitude": 33.838718,
+            "longitude": -118.002023,
+            "rating": 4.2,
+            "ratingCount": 83,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://buenaparknc.com/",
+            "phoneNumber": "(714) 828-8222",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRvYN7ra_k8F7bU8ewUOyTOXBCsDT0KGOZG0Bu",
+            "cid": "10446509776639879093",
+            "fid": "0x80dd2958c5b1bda7:0x90f9754b3b43e7b5",
+            "placeId": "ChIJp72xxVgp3YARtedDO0t1-ZA"
+        }
+    ],
+    "credits": 3
+}

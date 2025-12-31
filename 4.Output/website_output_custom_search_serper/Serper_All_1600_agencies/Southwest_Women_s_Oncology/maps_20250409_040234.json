@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Southwest Women's Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1523238,-106.5850177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southwest Women's Oncology & Health",
+            "address": "5700 Harper Dr NE UNIT 410, Albuquerque, NM 87109",
+            "latitude": 35.1523238,
+            "longitude": -106.5850177,
+            "rating": 4.2,
+            "ratingCount": 37,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor",
+                "Family planning center",
+                "Gynecologist",
+                "Women's health clinic",
+                "Reproductive health clinic"
+            ],
+            "website": "https://swwomensoncology.com/",
+            "phoneNumber": "(505) 843-7813",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://swwomensoncology.com/contact/schedule-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBO3RcZ01lpSzHHKD-zMJqgYdXOUio4iHS_eaj",
+            "cid": "14375637934289833092",
+            "fid": "0x87220c9f53ec5f85:0xc78086892cf9cc84",
+            "placeId": "ChIJhV_sU58MIocRhMz5LImGgMc"
+        }
+    ],
+    "credits": 3
+}

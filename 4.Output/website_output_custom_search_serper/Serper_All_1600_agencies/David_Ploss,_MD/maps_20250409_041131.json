@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "David Ploss, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1509814,-123.2031189,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "David Ploss, MD",
+            "address": "115 Hospital Dr, Ukiah, CA 95482",
+            "latitude": 39.1509814,
+            "longitude": -123.20311889999999,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://doctors.adventisthealth.org/provider/David+R+Ploss/1340700",
+            "phoneNumber": "(707) 463-2400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TWE5O8fw7e9bXi5tJ0T_cA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=83.79084&pitch=0&thumbfov=100",
+            "cid": "14913807605660786557",
+            "fid": "0x808164fa7a7215bd:0xcef87d0027ee1f7d",
+            "placeId": "ChIJvRVyevpkgYARfR_uJwB9-M4"
+        }
+    ],
+    "credits": 3
+}

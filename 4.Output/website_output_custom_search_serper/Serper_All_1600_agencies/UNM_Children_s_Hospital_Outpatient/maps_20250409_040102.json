@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "UNM Children's Hospital: Outpatient",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0931224,-106.6241837,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Carrie Tingley Hospital",
+            "address": "1127 University Blvd NE, Albuquerque, NM 87102",
+            "latitude": 35.093544,
+            "longitude": -106.6269763,
+            "rating": 3.4,
+            "ratingCount": 81,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://hsc.unm.edu/health/locations/carrie-tingley-hospital.html",
+            "phoneNumber": "(505) 272-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-61H9OwNfjMwBbvNYT2qbJUOnsLoMSOAQbiZHzxxtEwri15cDLDYUNAsr89pb8esToKBjLi7Sk-iVie6R0wg-QitiscqgoyhzXXGWrNttaOvNunmE7RYzLaKHbpflXhACUmUuE",
+            "cid": "14542042978684675274",
+            "fid": "0x87220b5787cde477:0xc9cfb70ac4f6a4ca",
+            "placeId": "ChIJd-TNh1cLIocRyqT2xAq3z8k"
+        },
+        {
+            "position": 2,
+            "title": "UNM Children's Psychiatric Center",
+            "address": "1001 Yale Blvd NE, Albuquerque, NM 87106",
+            "latitude": 35.0927007,
+            "longitude": -106.62139119999999,
+            "rating": 3.4,
+            "ratingCount": 27,
+            "type": "Psychiatric hospital",
+            "types": [
+                "Psychiatric hospital",
+                "Mental health service"
+            ],
+            "website": "https://unmhealth.org/locations/childrens-psychiatric-center.html",
+            "phoneNumber": "(505) 272-2890",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8RTypO850Ni8-MDY2vdhp1UJMLs7KRcreXwTcxn5Ic-LpDCbSfUY5mvsR1AeWfsA5WPW_2oh_q7xzJvSdL0ZJGQYZ8eVe9vi-YM9y2jXYDif7z1k7Lyul_qJ3YfvD4U49cuLKAsA",
+            "cid": "16372519607074823192",
+            "fid": "0x87220b5a6bdd7d65:0xe336dfd659d01c18",
+            "placeId": "ChIJZX3da1oLIocRGBzQWdbfNuM"
+        }
+    ],
+    "credits": 3
+}

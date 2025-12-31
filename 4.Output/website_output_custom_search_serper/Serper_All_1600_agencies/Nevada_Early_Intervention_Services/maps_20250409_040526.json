@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Nevada Early Intervention Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.50068,-117.5032312,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nevada Early Intervention Services",
+            "address": "2667 Enterprise Rd, Reno, NV 89512",
+            "latitude": 39.5513136,
+            "longitude": -119.8150438,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "https://dhhs.nv.gov/programs/idea/early_intervention_programs/",
+            "phoneNumber": "(775) 688-1341",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yeT520xArgijx_WMOqJf8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=168.16159&pitch=0&thumbfov=100",
+            "cid": "11959270179831152334",
+            "fid": "0x80994713c894d21d:0xa5f7dcdd99c1fece",
+            "placeId": "ChIJHdKUyBNHmYARzv7Bmd3c96U"
+        },
+        {
+            "position": 2,
+            "title": "Nevada Early Intervention Services",
+            "address": "1161 S Valley View Blvd, Las Vegas, NV 89102",
+            "latitude": 36.157098999999995,
+            "longitude": -115.19141859999999,
+            "rating": 3.9,
+            "ratingCount": 18,
+            "type": "Child health care centre",
+            "types": [
+                "Child health care centre"
+            ],
+            "website": "http://health.nv.gov/",
+            "phoneNumber": "(702) 486-7670",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9A579loPr6IA3lXG90IPdwxLp6cqr-FWyercSlucrDMUsPUGCpbY_XarxxUMw1bPvDh_BZn5TI9PIsqwhUNIxVhUEtN7dfir2qNabbnFRQFFbZBktdwkld2yDxyXdpNVPDr1vFgw",
+            "cid": "11837237044610912410",
+            "fid": "0x80c8c15f07fa086f:0xa44650602e20d09a",
+            "placeId": "ChIJbwj6B1_ByIARmtAgLmBQRqQ"
+        },
+        {
+            "position": 3,
+            "title": "Nevada Early Intervention Services",
+            "address": "1020 Ruby Vista Dr # 102, Elko, NV 89801",
+            "latitude": 40.844260999999996,
+            "longitude": -115.7726057,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "https://dhhs.nv.gov/programs/idea/early_intervention_programs/",
+            "phoneNumber": "(775) 753-1214",
+            "cid": "15232463523100310036",
+            "fid": "0x80a606d901c400a5:0xd36494de847d3a14",
+            "placeId": "ChIJpQDEAdkGpoARFDp9hN6UZNM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Ronald McDonald House - Las Vegas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1463578,-115.2140168,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ronald McDonald House Charities of Greater Las Vegas",
+            "address": "2323 Potosi St, Las Vegas, NV 89146",
+            "latitude": 36.1463578,
+            "longitude": -115.2140168,
+            "rating": 4.8,
+            "ratingCount": 122,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity",
+                "Social services organization"
+            ],
+            "website": "http://rmhlv.org/",
+            "phoneNumber": "(702) 252-4663",
+            "description": "Classic, long-running fast-food chain known for its burgers, fries & shakes.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20139\u202fPM",
+                "Wednesday": "9\u202fAM\u20139\u202fPM",
+                "Thursday": "9\u202fAM\u20139\u202fPM",
+                "Friday": "9\u202fAM\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20139\u202fPM",
+                "Sunday": "9\u202fAM\u20137\u202fPM",
+                "Monday": "9\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMnklTpTS2VVSe8xbNvDO-Cov8vonB43Wk0yw0",
+            "cid": "1688081743721510109",
+            "fid": "0x80c8c1386e59fcb9:0x176d4566ee57b4dd",
+            "placeId": "ChIJufxZbjjByIAR3bRX7mZFbRc"
+        }
+    ],
+    "credits": 3
+}

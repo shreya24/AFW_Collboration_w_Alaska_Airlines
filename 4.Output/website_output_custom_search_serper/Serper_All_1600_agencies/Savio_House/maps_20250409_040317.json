@@ -1,0 +1,55 @@
+{
+    "searchParameters": {
+        "q": "Savio House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2861977,-104.9241111,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Savio House",
+            "address": "325 King St, Denver, CO 80219",
+            "latitude": 39.7223447,
+            "longitude": -105.0340962,
+            "rating": 2.9,
+            "ratingCount": 13,
+            "type": "Family counselor",
+            "types": [
+                "Family counselor",
+                "Foster care service",
+                "Youth social services organization"
+            ],
+            "website": "https://www.saviohouse.org/",
+            "phoneNumber": "(303) 225-4100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_o2vjfBT_b2kM405rf53p1B3pNwe5GHJ6KCYB0RGxzbavDUjg4uxjG_cfPtkkgVdsYCjAPdgXZjJzXRU41pT2c5ZsyQy9Lc_PeGTau_Szyj4M-ZOS0yN53PZtCXa-NWw7xPUMV",
+            "cid": "1472150625606524478",
+            "fid": "0x876b80a87111b2a3:0x146e2131b7255e3e",
+            "placeId": "ChIJo7IRcaiAa4cRPl4ltzEhbhQ"
+        },
+        {
+            "position": 2,
+            "title": "Savio",
+            "address": "525 E Uintah St, Colorado Springs, CO 80903",
+            "latitude": 38.8500507,
+            "longitude": -104.814126,
+            "rating": 3.6,
+            "ratingCount": 44,
+            "type": "Youth social services organization",
+            "types": [
+                "Youth social services organization",
+                "Foster care service",
+                "Social services organization"
+            ],
+            "website": "http://www.saviohouse.org/",
+            "phoneNumber": "(303) 225-4100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8okVcl-XzAeO_9b1wDh2Ac7rnX__OKBC34RV4PlEZdiYaknNBnB0Tgpei7TYyuXAffiBA3ge6YhMaSY3fFHJMSMCjpwSxqjb3Z0uVbupO36YnTY4fDVA6u4flcUVuJyvo3pBIT",
+            "cid": "40701681353663294",
+            "fid": "0x8713456c4e3139a3:0x9099f6aad8a33e",
+            "placeId": "ChIJozkxTmxFE4cRPqPYqvaZkAA"
+        }
+    ],
+    "credits": 3
+}

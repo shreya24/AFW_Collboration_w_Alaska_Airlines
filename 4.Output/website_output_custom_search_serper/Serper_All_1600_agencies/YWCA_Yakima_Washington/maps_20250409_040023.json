@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "YWCA Yakima Washington",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.598484,-120.521069,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWCA of Yakima",
+            "address": "818 W Yakima Ave, Yakima, WA 98902",
+            "latitude": 46.598484,
+            "longitude": -120.521069,
+            "rating": 4.2,
+            "ratingCount": 59,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Social services organization"
+            ],
+            "website": "http://ywcayakima.org/",
+            "phoneNumber": "(509) 248-7796",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-S4MOmDIuXwFPfww7KJB2Std_l77uW5BdkRJPtYhSbgM6qsXJxYQhdYYpef5X37kt9nL-IldQZUt09LzSRLCnFcpHCvwkEbf8Jrf8I8Q68YLNFvgnNz5Izk2LLNjrFNAhZhdez",
+            "cid": "1520599932626389104",
+            "fid": "0x5499d7e4354e3b4b:0x151a41950dadc870",
+            "placeId": "ChIJSztONeTXmVQRcMitDZVBGhU"
+        }
+    ],
+    "credits": 3
+}

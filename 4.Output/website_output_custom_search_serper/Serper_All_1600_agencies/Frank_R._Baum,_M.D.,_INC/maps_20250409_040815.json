@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Frank R. Baum, M.D., INC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8871974,-156.4613952,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Frank R. Baum MD, Inc.",
+            "address": "200 Kalepa Pl, Kahului, HI 96732",
+            "latitude": 20.887197399999998,
+            "longitude": -156.4613952,
+            "rating": 5,
+            "ratingCount": 242,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.frankbaummd.com/",
+            "phoneNumber": "(808) 871-7116",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1:15\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1:15\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1:15\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1:15\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJKiQIPGGuHtqPBhrD4zqFgo_xyCh9YzMJIUbn",
+            "cid": "14838025758909706956",
+            "fid": "0x7954d2c31ff9827d:0xcdeb41cfffe8b2cc",
+            "placeId": "ChIJfYL5H8PSVHkRzLLo_89B680"
+        }
+    ],
+    "credits": 3
+}

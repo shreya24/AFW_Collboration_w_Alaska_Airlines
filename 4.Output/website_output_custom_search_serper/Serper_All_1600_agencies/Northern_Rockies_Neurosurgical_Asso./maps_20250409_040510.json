@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Northern Rockies Neurosurgical Asso.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7925721,-108.5182078,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Rockies Neuro Surgeons",
+            "address": "2900 12th Ave N Ste 315W, Billings, MT 59101",
+            "latitude": 45.7925721,
+            "longitude": -108.5182078,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(406) 237-5760",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PxOY2Lw6o8fGJSkTGoN3tg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=263.70255&pitch=0&thumbfov=100",
+            "cid": "15605137401467217858",
+            "fid": "0x53487b15b96234b3:0xd89095c97d9da7c2",
+            "placeId": "ChIJszRiuRV7SFMRwqedfcmVkNg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "Open Door McKinleyville Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8685313,-124.1163747,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "McKinleyville Community Health Center",
+            "address": "1644 Central Ave, McKinleyville, CA 95519",
+            "latitude": 40.9350357,
+            "longitude": -124.10198589999999,
+            "rating": 2.9,
+            "ratingCount": 43,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor"
+            ],
+            "website": "http://www.opendoorhealth.com/",
+            "phoneNumber": "(707) 839-3068",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrEPl5PQK-BX2f61WKHD07u7jLCI3Lyzj6zdBp",
+            "cid": "12983814111201068686",
+            "fid": "0x54d15a8a1a16a5cd:0xb42fc62497d8068e",
+            "placeId": "ChIJzaUWGopa0VQRjgbYlyTGL7Q"
+        },
+        {
+            "position": 2,
+            "title": "Humboldt Open Door Clinic",
+            "address": "1150 Foster Ave, Arcata, CA 95521",
+            "latitude": 40.8799146,
+            "longitude": -124.0865872,
+            "rating": 2.8,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "http://opendoorhealth.com/opendoor/locations/humboldt-open-door-clinic/",
+            "phoneNumber": "(707) 826-8610",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyV1u6g3MVBchk93Jpf-ktTDe7ZuNmHso4_Khp",
+            "cid": "14670749829952606280",
+            "fid": "0x54d1570fb10074c3:0xcb98f93dcaf29048",
+            "placeId": "ChIJw3QAsQ9X0VQRSJDyyj35mMs"
+        },
+        {
+            "position": 3,
+            "title": "Open Door Pediatrics",
+            "address": "2200 Tydd St, Eureka, CA 95501",
+            "latitude": 40.8020268,
+            "longitude": -124.1461623,
+            "rating": 3.5,
+            "ratingCount": 14,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://opendoorhealth.com/services/pediatrics/",
+            "phoneNumber": "(707) 269-7051",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoADIFyN7E1aGCRqaz2ZpjDeAlxjqQPjFu2S-q",
+            "cid": "9100862767803947165",
+            "fid": "0x54d3fe2ac59e8fd5:0x7e4cc2780888589d",
+            "placeId": "ChIJ1Y-exSr-01QRnViICHjCTH4"
+        }
+    ],
+    "credits": 3
+}

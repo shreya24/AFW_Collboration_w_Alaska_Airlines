@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Able Kids Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5271602,-105.0658726,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Able Kids Foundation",
+            "address": "724 Whalers Way bldg i suite 101, Fort Collins, CO 80525",
+            "latitude": 40.5271602,
+            "longitude": -105.06587259999999,
+            "rating": 5,
+            "ratingCount": 20,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.ablekidsfoundation.org/",
+            "phoneNumber": "(970) 226-2253",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMx5YEhkCQLluouYP3cf4TpnJqp5ShhTwVvqqyc",
+            "cid": "17977264214861282996",
+            "fid": "0x87694a5fca2d3fe9:0xf97c128e4825feb4",
+            "placeId": "ChIJ6T8tyl9KaYcRtP4lSI4SfPk"
+        }
+    ],
+    "credits": 3
+}

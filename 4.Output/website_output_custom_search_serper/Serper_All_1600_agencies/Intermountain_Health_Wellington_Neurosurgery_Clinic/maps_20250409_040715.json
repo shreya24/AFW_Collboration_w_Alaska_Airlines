@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Intermountain Health Wellington Neurosurgery Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0910758,-108.5595813,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health Wellington Neurosurgery Clinic",
+            "address": "750 Wellington Ave #3A, Grand Junction, CO 81501",
+            "latitude": 39.0910758,
+            "longitude": -108.55958129999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/wellington-neurosurgery-clinic?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(970) 298-3188",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/wellington-neurosurgery-clinic?utm_campaign=gmb&utm_source=local"
+            ],
+            "cid": "10372472548616303801",
+            "fid": "0x87471d0365c32fb3:0x8ff26cd3c6c3f4b9",
+            "placeId": "ChIJsy_DZQMdR4cRufTDxtNs8o8"
+        }
+    ],
+    "credits": 3
+}

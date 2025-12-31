@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Behavior Therapy Center of Tacoma",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2708062,-122.4886852,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Behavior Therapy Center of Tacoma",
+            "address": "2517 N Proctor St STE 1, Tacoma, WA 98406",
+            "latitude": 47.270806199999996,
+            "longitude": -122.48868519999999,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "http://behaviortherapytacoma.com/",
+            "phoneNumber": "(253) 212-0750",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2QWVxXrUGJnJeCX7SXONxw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=85.09339&pitch=0&thumbfov=100",
+            "cid": "1604156883946358049",
+            "fid": "0x54905457b07ce363:0x16431c2fcf9ec521",
+            "placeId": "ChIJY-N8sFdUkFQRIcWezy8cQxY"
+        }
+    ],
+    "credits": 3
+}

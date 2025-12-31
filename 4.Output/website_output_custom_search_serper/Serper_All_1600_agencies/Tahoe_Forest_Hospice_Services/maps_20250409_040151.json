@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Tahoe Forest Hospice Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.334475,-120.181741,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tahoe Forest Hospice Services",
+            "address": "10875 Pioneer Trail, Truckee, CA 96161",
+            "latitude": 39.334475,
+            "longitude": -120.18174099999999,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.tfhd.com/hospice-services",
+            "phoneNumber": "(530) 582-6378",
+            "cid": "10945328820750570514",
+            "fid": "0x809bdfcb0ea7c06d:0x97e59e9256aed412",
+            "placeId": "ChIJbcCnDsvfm4AREtSuVpKe5Zc"
+        }
+    ],
+    "credits": 3
+}

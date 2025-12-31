@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Nevada Center for Alternative and Anti",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.190948,-119.7780087,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Nevada Center of Alternative & Anti-Aging Medicine",
+            "address": "1231 Country Club Dr, Carson City, NV 89703",
+            "latitude": 39.190948,
+            "longitude": -119.7780087,
+            "rating": 3.8,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "https://www.antiagingmedicine.com/",
+            "phoneNumber": "(775) 884-3990",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxfscxBFvgrIzMUU5DJaAw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=168.99774&pitch=0&thumbfov=100",
+            "cid": "16477352650234232902",
+            "fid": "0x80990ad751dfc0a3:0xe4ab50ef440d8046",
+            "placeId": "ChIJo8DfUdcKmYARRoANRO9Qq-Q"
+        }
+    ],
+    "credits": 3
+}

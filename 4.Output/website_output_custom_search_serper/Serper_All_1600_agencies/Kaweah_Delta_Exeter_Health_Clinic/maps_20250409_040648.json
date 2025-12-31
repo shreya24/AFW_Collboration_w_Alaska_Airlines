@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Kaweah Delta Exeter Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.29861,-119.1316941,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaweah Health Exeter Clinic",
+            "address": "1014 San Juan Ave, Exeter, CA 93221",
+            "latitude": 36.29861,
+            "longitude": -119.13169409999999,
+            "rating": 3.7,
+            "ratingCount": 203,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Women's health clinic",
+                "Pediatric clinic"
+            ],
+            "website": "https://www.kaweahhealth.org/locations/kaweah-health-exeter-clinic/",
+            "phoneNumber": "(559) 592-7300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.kaweahhealth.org/patients-visitors/for-patients/online-patient-pre-registration/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoedhzO2LgYPAPN3hQEUDAPoTlmrVllMfF20iO",
+            "cid": "9136695090719216343",
+            "fid": "0x8095340231b17a31:0x7ecc0fc6d75fd2d7",
+            "placeId": "ChIJMXqxMQI0lYAR19Jf18YPzH4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Congress Woman Heather Wilson District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.4154667,-78.6066656,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rep Frederica Wilson",
+            "address": "18425 NW 2nd Ave, Miami, FL 33169",
+            "latitude": 25.9437283,
+            "longitude": -80.20483589999999,
+            "rating": 3.3,
+            "ratingCount": 20,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "https://wilson.house.gov/",
+            "phoneNumber": "(305) 690-5905",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQ1bOCFKnuW8c5DWxylsYi-rNu7EhPFwDAWIAW",
+            "cid": "3018915201849656463",
+            "fid": "0x88d9ae61ed2022a7:0x29e557619546848f",
+            "placeId": "ChIJpyIg7WGu2YgRj4RGlWFX5Sk"
+        },
+        {
+            "position": 2,
+            "title": "Congresswoman Nan Hayworth",
+            "address": "Longworth House Office Building, 1440, Washington, DC 20515",
+            "latitude": 38.887205,
+            "longitude": -77.00849529999999,
+            "type": "City government office",
+            "types": [
+                "City government office",
+                "Doctor",
+                "Government",
+                "Social worker"
+            ],
+            "website": "http://history.house.gov/People/Detail/15602",
+            "phoneNumber": "(202) 225-5441",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "2068970395854909626",
+            "fid": "0x89b7b82a3b14a431:0x1cb6759cf7bb30ba",
+            "placeId": "ChIJMaQUOyq4t4kRujC795x1thw"
+        }
+    ],
+    "credits": 3
+}

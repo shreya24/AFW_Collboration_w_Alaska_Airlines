@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "St John's Living Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.1308066,-77.6091763,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. John's Home",
+            "address": "150 Highland Ave, Rochester, NY 14620",
+            "latitude": 43.1308066,
+            "longitude": -77.6091763,
+            "rating": 3.2,
+            "ratingCount": 54,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Occupational therapist",
+                "Pharmacy",
+                "Physical therapist",
+                "Rehabilitation center",
+                "Speech pathologist"
+            ],
+            "website": "https://www.stjohnsliving.org/community/st-johns-home/?utm_source=google&utm_medium=organic&utm_campaign=gmb-website",
+            "phoneNumber": "(585) 760-1300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.stjohnsliving.org/schedule-a-visit/?utm_source=google&utm_medium=organic&utm_campaign=gmb-website"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUzbYRrcBbXZgcwxF0Z4Htg0t7Uuta2gv37ZV7",
+            "cid": "9835694650402134924",
+            "fid": "0x89d6b4d8b6822201:0x887f682c3c6ddb8c",
+            "placeId": "ChIJASKCtti01okRjNttPCxof4g"
+        }
+    ],
+    "credits": 3
+}

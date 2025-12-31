@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Spokane VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7027274,-117.4765402,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mann-Grandstaff VA Medical Center",
+            "address": "4815 N Assembly St, Spokane, WA 99205",
+            "latitude": 47.7027274,
+            "longitude": -117.47654019999999,
+            "rating": 3.7,
+            "ratingCount": 277,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/spokane-health-care",
+            "phoneNumber": "(509) 434-7000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_tEogGg7mOUt1RkLrlMyM5K7ZIK3qOdATGBYZdpgmZDWxosN6M3A2ivSOiC9hsqr3mL7KuJVhFo9EejC_fFPg4qsQPUShnTD4TQooyxpYoOp8D7_9tVmWRBvVcR8BerpyS4Y2eSg",
+            "cid": "1277442455378263321",
+            "fid": "0x549e1985c08d6a53:0x11ba63251dd2fd19",
+            "placeId": "ChIJU2qNwIUZnlQRGf3SHSVjuhE"
+        }
+    ],
+    "credits": 3
+}

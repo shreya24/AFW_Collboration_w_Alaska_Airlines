@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Peace Island Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.5268368,-123.0296645,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Deanna J. Anderson Cancer Care and Specialty Center at PeaceHealth Peace Island Medical Center",
+            "address": "1117 Spring St, Friday Harbor, WA 98250",
+            "latitude": 48.526703399999995,
+            "longitude": -123.0295282,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.peacehealth.org/locations/friday-harbor/deanna-j-anderson-cancer-care-and-specialty-center-peacehealth-peace-island?utm_source=gbp&utm_medium=organic&utm_content=FRID-002&utm_campaign=gmb",
+            "phoneNumber": "(360) 378-1738",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "2977283497899775410",
+            "fid": "0x548f7f7f6a2b5059:0x29516f9127f2d5b2",
+            "placeId": "ChIJWVAran9_j1QRstXyJ5FvUSk"
+        },
+        {
+            "position": 2,
+            "title": "PeaceHealth Peace Island Medical Center",
+            "address": "1117 Spring St, Friday Harbor, WA 98250",
+            "latitude": 48.5269702,
+            "longitude": -123.02980079999999,
+            "rating": 3.9,
+            "ratingCount": 41,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-peace-island-medical-center?utm_source=gbp&utm_medium=organic&utm_content=FRID-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 378-2141",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNy8wuY7YwryuHPdvKtjxSspZ8zMPuymenlXHHf",
+            "cid": "16098604880955861091",
+            "fid": "0x548f7e893c779b69:0xdf69bbd85cbe6863",
+            "placeId": "ChIJaZt3PIl-j1QRY2i-XNi7ad8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Multnomah County Aging, Disability, and Veterans Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5621391,-122.6618422,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Multnomah County Aging, Disability and Veterans Services",
+            "address": "5325 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+            "latitude": 45.562139099999996,
+            "longitude": -122.6618422,
+            "rating": 4.2,
+            "ratingCount": 20,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department"
+            ],
+            "website": "https://multco.us/veterans-services",
+            "phoneNumber": "(503) 988-5470",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8M4qXawY4l5V86Z55m4MvyuPq8_K6lj9irklgrilWoFETq6-xJU0xSrPKnuy7ttjr9dCXj0Grzagz2fUiKFoCu0kS0taO5lzUUXLqW7-vzxjd4qzhCadZHg4xVqn9xtHkg0DYY",
+            "cid": "6436843271854836925",
+            "fid": "0x5495a71ae540a613:0x595442da15c54cbd",
+            "placeId": "ChIJE6ZA5RqnlVQRvUzFFdpCVFk"
+        }
+    ],
+    "credits": 3
+}

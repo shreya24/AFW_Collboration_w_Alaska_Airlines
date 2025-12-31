@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "McKinleyville Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9350357,-124.1019859,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "McKinleyville Community Health Center",
+            "address": "1644 Central Ave, McKinleyville, CA 95519",
+            "latitude": 40.9350357,
+            "longitude": -124.10198589999999,
+            "rating": 2.9,
+            "ratingCount": 43,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor"
+            ],
+            "website": "http://www.opendoorhealth.com/",
+            "phoneNumber": "(707) 839-3068",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrEPl5PQK-BX2f61WKHD07u7jLCI3Lyzj6zdBp",
+            "cid": "12983814111201068686",
+            "fid": "0x54d15a8a1a16a5cd:0xb42fc62497d8068e",
+            "placeId": "ChIJzaUWGopa0VQRjgbYlyTGL7Q"
+        }
+    ],
+    "credits": 3
+}

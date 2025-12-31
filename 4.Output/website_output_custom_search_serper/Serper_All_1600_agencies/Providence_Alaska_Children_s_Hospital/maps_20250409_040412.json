@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Providence Alaska Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1879049,-149.8169137,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Alaska Children's Hospital",
+            "address": "3200 Providence Dr, Anchorage, AK 99508",
+            "latitude": 61.1879049,
+            "longitude": -149.8169137,
+            "rating": 3.8,
+            "ratingCount": 5,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.providence.org/locations/ak/alaska-childrens-hospital?ls=location&y_source=1_MjUxNDY2MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 562-2211",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7PDCTJ5ZBnPmN3OTm5_aUcpUpqMz8BjmfCC9D",
+            "cid": "1690814803980491207",
+            "fid": "0x56c89701b53bd119:0x1776fb1b1c3a99c7",
+            "placeId": "ChIJGdE7tQGXyFYRx5k6HBv7dhc"
+        }
+    ],
+    "credits": 3
+}

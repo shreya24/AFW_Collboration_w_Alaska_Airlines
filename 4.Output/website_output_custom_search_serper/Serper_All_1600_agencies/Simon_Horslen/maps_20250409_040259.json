@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Simon Horslen",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0649982,-101.1175571,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Simon Peter Horslen, MD",
+            "address": "4401 Penn Ave, Pittsburgh, PA 15224",
+            "latitude": 40.4675656,
+            "longitude": -79.9531074,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Doctor"
+            ],
+            "website": "https://providers.upmc.com/provider/Simon+Peter+Horslen/1963565?utm_source=google&utm_campaign=business-profile&utm_content=chp_specialist_simon_horslen_penn",
+            "phoneNumber": "(412) 692-5180",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCx5HTKs6Rlp6tp5BI-mivKV1v7BLxl_hWiLY7",
+            "cid": "4130097529591490961",
+            "fid": "0x8834f24f7c6aaaab:0x39510dd22b04e991",
+            "placeId": "ChIJq6pqfE_yNIgRkekEK9INUTk"
+        },
+        {
+            "position": 2,
+            "title": "Simon P. Horslen, MB ChB",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6624309,
+            "longitude": -122.2820069,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "phoneNumber": "(206) 987-2521",
+            "cid": "5478628188555868332",
+            "fid": "0x54901482cb40d9f3:0x4c07ff4f7b5078ac",
+            "placeId": "ChIJ89lAy4IUkFQRrHhQe0__B0w"
+        }
+    ],
+    "credits": 3
+}

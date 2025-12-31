@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "BVESA",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2056741,-73.6401893,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bedford Village Elementary School",
+            "address": "45 Court Rd, Bedford, NY 10506",
+            "latitude": 41.205674099999996,
+            "longitude": -73.6401893,
+            "type": "Elementary school",
+            "types": [
+                "Elementary school",
+                "Middle school",
+                "School"
+            ],
+            "website": "https://www.bcsdny.org/domain/228",
+            "phoneNumber": "(914) 234-4178",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VZ9nV8JimYaSVxjdnqTX1g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=114.326195&pitch=0&thumbfov=100",
+            "cid": "13029056674796438312",
+            "fid": "0x89c2a54594d25241:0xb4d08203cbac8328",
+            "placeId": "ChIJQVLSlEWlwokRKIOsywOC0LQ"
+        }
+    ],
+    "credits": 3
+}

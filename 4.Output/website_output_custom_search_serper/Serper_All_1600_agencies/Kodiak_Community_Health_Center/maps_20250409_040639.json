@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Kodiak Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.8009642,-152.3746608,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kodiak Community Health Center",
+            "address": "1911 E Rezanof Dr, Kodiak, AK 99615",
+            "latitude": 57.800964199999996,
+            "longitude": -152.3746608,
+            "rating": 4.1,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.kodiakchc.org/",
+            "phoneNumber": "(907) 481-5000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "7310626742653282296",
+            "fid": "0x56eac43e49967b55:0x6574904a0151e7f8",
+            "placeId": "ChIJVXuWST7E6lYR-OdRAUqQdGU"
+        }
+    ],
+    "credits": 3
+}

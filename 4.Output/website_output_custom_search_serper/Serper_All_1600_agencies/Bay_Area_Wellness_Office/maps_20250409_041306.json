@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Bay Area Wellness Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3813965,-79.6900137,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bay Area Wellness Center",
+            "address": "3600 1st Ave N, St. Petersburg, FL 33713",
+            "latitude": 27.771617,
+            "longitude": -82.6823695,
+            "rating": 4.9,
+            "ratingCount": 241,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.bayareawellnesscenter.com/",
+            "phoneNumber": "(727) 327-4522",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136\u202fPM",
+                "Thursday": "9:30\u202fAM\u20137\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.bayareawellnesscenter.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.zocdoc.com/practice/bay-area-wellness-center-39444?LocIdent=64993&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_DIIwtdVcTU67ex3CFLPleR-lo_uNq-hYCC3UyKYObGglXFph-entity&rwg_token=AAiGsoZHkyxPUKgEUHvzObO5pd8VpudB4l2kvrxbgT3GQYWcS6ftq9uSdlFyhQ8FfylxzMWkQz4DRJk6HmmQSFZw9IiU2TBavA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO24WJeyrtkyQaaf26sqwQbA_oI7wJZPSNHBvrL",
+            "cid": "7723562995199895494",
+            "fid": "0x88c2e2518e1903d1:0x6b2f9b9f793de7c6",
+            "placeId": "ChIJ0QMZjlHiwogRxuc9eZ-bL2s"
+        },
+        {
+            "position": 2,
+            "title": "Bay Area Wellness & Chiropractic",
+            "address": "2110 Priest Bridge Dr #6, Crofton, MD 21114",
+            "latitude": 38.991175999999996,
+            "longitude": -76.69765799999999,
+            "rating": 5,
+            "ratingCount": 167,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Nutritionist",
+                "Pain control clinic",
+                "Wellness center"
+            ],
+            "website": "https://www.bayareawellnessgroup.com/",
+            "phoneNumber": "(410) 721-5050",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201312\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.bayareawellnessgroup.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfvXKrG8UZYjafFDsVnyHE1AEe_UF5ARNERfb4",
+            "cid": "13308505164435601533",
+            "fid": "0x89b7eef2b5179d17:0xb8b14eef81a2b87d",
+            "placeId": "ChIJF50XtfLut4kRfbiige9Osbg"
+        }
+    ],
+    "credits": 3
+}

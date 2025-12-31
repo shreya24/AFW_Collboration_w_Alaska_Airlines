@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Banner Page Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.9177177,-111.4635547,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Page Hospital",
+            "address": "501 N Navajo Dr, Page, AZ 86040",
+            "latitude": 36.9177177,
+            "longitude": -111.46355469999999,
+            "rating": 4,
+            "ratingCount": 45,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/page/page-hospital?y_source=1_MTE5MDczNTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(928) 645-2424",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAeltQuCnkuloJpR95ZQuioqPm7bMUQvizaBjY",
+            "cid": "8580859038807197105",
+            "fid": "0x87341559cc441fdf:0x771555d51bcd85b1",
+            "placeId": "ChIJ3x9EzFkVNIcRsYXNG9VVFXc"
+        }
+    ],
+    "credits": 3
+}

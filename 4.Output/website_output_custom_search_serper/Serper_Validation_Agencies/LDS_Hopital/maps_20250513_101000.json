@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "LDS Hopital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7784879,-111.8803369,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health LDS Hospital",
+            "address": "8th Ave, C St E, Salt Lake City, UT 84143",
+            "latitude": 40.778487899999995,
+            "longitude": -111.88033689999999,
+            "rating": 3.7,
+            "ratingCount": 581,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/lds-hospital",
+            "phoneNumber": "(801) 408-1100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/lds-hospital?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPXRJqc5vQDEy6VivOEFSjT5DaYDg1T_BMdZe7xaVShP__zTVNTiaPiO20pgA9QOdF5Qtra4wgU6N2jvzEk-HaqiLjmOkps4hJvu2Z5vR4ZBl-vcUCkwv5aNbH0BdYO2TL3WlB",
+            "cid": "2659205804862327663",
+            "fid": "0x8752f59f58e48fd7:0x24e765972779cb6f",
+            "placeId": "ChIJ14_kWJ_1UocRb8t5J5dl5yQ"
+        }
+    ],
+    "credits": 3
+}

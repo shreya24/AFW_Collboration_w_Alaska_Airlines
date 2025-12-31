@@ -1,0 +1,524 @@
+{
+    "searchParameters": {
+        "q": "North County Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0164289,-102.4987081,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Country HealthCare - Lake Havasu City",
+            "address": "2090 Smoketree Ave N, Lake Havasu City, AZ 86403",
+            "latitude": 34.4797929,
+            "longitude": -114.32986869999999,
+            "rating": 4.4,
+            "ratingCount": 196,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/lake-havasu-city",
+            "phoneNumber": "(928) 854-1800",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XM_8D7qajGbuII36O0aAlw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=180.0547&pitch=0&thumbfov=100",
+            "cid": "8230583214825847858",
+            "fid": "0x80d1f3640ead1e97:0x7238e7d38dfcbc32",
+            "placeId": "ChIJlx6tDmTz0YARMrz8jdPnOHI"
+        },
+        {
+            "position": 2,
+            "title": "North County Health Services",
+            "address": "2210 Mesa Dr #12, Oceanside, CA 92054",
+            "latitude": 33.208250299999996,
+            "longitude": -117.3580947,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Medical Center"
+            ],
+            "website": "https://truecare.org/",
+            "phoneNumber": "(760) 966-3306",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_H-ZUfdAAgRSBWDTrw9diz8c4auUaEUGFC_u-kanQSCeiLYuFD4CIbHaRtKVlnYlDkRJ2hdUOnCArGXnBL32F70tK28lUv4uqBZKL6u1qfvK9VA9ZglUgn5t3nLxhQkXmY9dg3",
+            "cid": "17415079902847391565",
+            "fid": "0x80dc71d4f03efc47:0xf1aecae71043574d",
+            "placeId": "ChIJR_w-8NRx3IARTVdDEOfKrvE"
+        },
+        {
+            "position": 3,
+            "title": "North Coast Family Medical Group",
+            "address": "477 N El Camino Real #A306, Encinitas, CA 92024",
+            "latitude": 33.0574282,
+            "longitude": -117.2612772,
+            "rating": 4.5,
+            "ratingCount": 47,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner"
+            ],
+            "website": "http://ncfmg.com/",
+            "phoneNumber": "(760) 942-0118",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9oYeah32JwU6FeqPpFA64cGsOp7xFKvdvUCIxZrmkIf6srAlvnjSxQl69X8pXM7jVqO5Day4QAZ2ErlGp7qHw1-0H--kDab6ecF1rwI2_1NUY4UOYormvAuysMTkRcxHpXwhgT",
+            "cid": "12521207670420330572",
+            "fid": "0x80dc0b860f9fbad7:0xadc444093a4cd84c",
+            "placeId": "ChIJ17qfD4YL3IARTNhMOglExK0"
+        },
+        {
+            "position": 4,
+            "title": "North County Health Center",
+            "address": "380 90th St, Daly City, CA 94015",
+            "latitude": 37.6914367,
+            "longitude": -122.47386549999999,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.smchealth.org/location/daly-city-health-center",
+            "phoneNumber": "(650) 301-8600",
+            "openingHours": {
+                "Tuesday": "8:15\u202fAM\u20134:45\u202fPM",
+                "Wednesday": "8:15\u202fAM\u20134:45\u202fPM",
+                "Thursday": "8:15\u202fAM\u20134:45\u202fPM",
+                "Friday": "8:15\u202fAM\u20134:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:15\u202fAM\u20134:45\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-89KQ1UetxsCUiak_oyAWSe_y_xzKQ8Eb2vThio4dUkWX-YITgJ8_NJ6J-D491LFlOeytLuB1CkUbfYoYGdMgyeJLsH0G0OCe8U_M-MI7CGXMbDP7XxzUh3378NptsW4LUC2kJ",
+            "cid": "16747736660379528414",
+            "fid": "0x808f7c6c36e1a5fb:0xe86be9c261b56cde",
+            "placeId": "ChIJ-6XhNmx8j4AR3my1YcLpa-g"
+        },
+        {
+            "position": 5,
+            "title": "North Country HealthCare - Show Low",
+            "address": "2650 E Show Low Lake Rd #1, Show Low, AZ 85901",
+            "latitude": 34.2024474,
+            "longitude": -110.01348069999999,
+            "rating": 4.2,
+            "ratingCount": 126,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/show-low",
+            "phoneNumber": "(928) 537-4300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrZuwjQdUDlzldOThnSqmhU24v6u-01VatFKJv",
+            "cid": "6852505704077167306",
+            "fid": "0x8728cb0e5f7aa029:0x5f18fda1b8db8aca",
+            "placeId": "ChIJKaB6Xw7LKIcRyorbuKH9GF8"
+        },
+        {
+            "position": 6,
+            "title": "North Country HealthCare - Bullhead City",
+            "address": "2585 Miracle Mile STE 116, Bullhead City, AZ 86442",
+            "latitude": 35.0925588,
+            "longitude": -114.5969502,
+            "rating": 4,
+            "ratingCount": 113,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/bullhead-city",
+            "phoneNumber": "(928) 704-1221",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-9iP1ECviOIbrR1Us1NJv0-8S5Eg3cnKzt-2Wqp95dXqRzhpPPj0layRIFhUXgOqJpF-1pW7TkHiTAzWsGZhz64W4nSEEukFEijEDpCeThUO6PKgU6mtaSQbZ631_mzhA_HYof",
+            "cid": "7458458418715030809",
+            "fid": "0x80ce413d71d06ea5:0x6781c46a4b87f519",
+            "placeId": "ChIJpW7QcT1BzoARGfWHS2rEgWc"
+        },
+        {
+            "position": 7,
+            "title": "North Country HealthCare - Kingman",
+            "address": "1510 Stockton Hill Rd, Kingman, AZ 86401",
+            "latitude": 35.2019109,
+            "longitude": -114.03267679999999,
+            "rating": 4.1,
+            "ratingCount": 469,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Pharmacy"
+            ],
+            "website": "https://northcountryhealthcare.org/services/pharmacy/",
+            "phoneNumber": "(928) 753-1177",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_J7jhvh2PBo4ZzUGPRGeVwiu-Uzc7NAKC4hBazsnZwdGXjMJyEkiXVPWGQcJtxpAHK_WZlgk4y-xkn4fCPeNb3hXFcdgYiyi5WIi5IejaOmlpOeL4q7hq5ULPrkxz9_M0h7Yo",
+            "cid": "14889155585196379252",
+            "fid": "0x80cddc330a3403fd:0xcea0e81e5d274c74",
+            "placeId": "ChIJ_QM0CjPczYARdEwnXR7ooM4"
+        },
+        {
+            "position": 8,
+            "title": "North County Healthcare Center",
+            "address": "170 N Lime Ave, Sarasota, FL 34237",
+            "latitude": 27.3381042,
+            "longitude": -82.5235508,
+            "rating": 2.9,
+            "ratingCount": 54,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dentist",
+                "Family practice physician",
+                "Internist",
+                "Pediatrician",
+                "Pharmacy"
+            ],
+            "website": "https://mcr.health/location/north-county-healthcare-center/",
+            "phoneNumber": "(941) 373-7844",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mcr.health/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-_2icF8ot0U8jtn9zlZZwe5Yq13AJCAwFTlzS0UPW6uAJROQGCy4X-xiUgZMm66pjIbpRDQ9U0a8jsBfV5WaEc96N8m-cnfbSpYeuSIOBprcoQEU0HFkJYilVHBVBtwfBYRk4",
+            "cid": "14898017715046558235",
+            "fid": "0x88c33f96342f8c31:0xcec0642dc2d3aa1b",
+            "placeId": "ChIJMYwvNJY_w4gRG6rTwi1kwM4"
+        },
+        {
+            "position": 9,
+            "title": "Medical Group of North County",
+            "address": "910 Sycamore Ave #270, Vista, CA 92081",
+            "latitude": 33.159458199999996,
+            "longitude": -117.21990199999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(760) 598-1776",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8vaYU1S2YwiCX7HAxeGVuSwUlrYOGzWFLpCTX1QmGbfAYCwPhpRu8YWVXs5Z2XCrScRM3OnkAf0hcjvlWlpr-pZAG05cKSrZyCzTH9GzORma6y1puoSbouKMQN6h0ywrzJ9ZlK1Q",
+            "cid": "3220440052208277608",
+            "fid": "0x80dc75aaac46e4f5:0x2cb14d2a34509868",
+            "placeId": "ChIJ9eRGrKp13IARaJhQNCpNsSw"
+        },
+        {
+            "position": 10,
+            "title": "North Country HealthCare - Holbrook",
+            "address": "2109 Navajo Blvd, Holbrook, AZ 86025",
+            "latitude": 34.9262503,
+            "longitude": -110.1444473,
+            "rating": 4,
+            "ratingCount": 89,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/holbrook",
+            "phoneNumber": "(928) 524-2851",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwDudwCX950wRuzJ3GTQPJ1Vte0wrprtx7MzCb",
+            "cid": "13211420717497362272",
+            "fid": "0x872fa8772f76eb75:0xb75865253caaa760",
+            "placeId": "ChIJdet2L3eoL4cRYKeqPCVlWLc"
+        },
+        {
+            "position": 11,
+            "title": "North Country HealthCare - Williams",
+            "address": "300 S 6th St, Williams, AZ 86046",
+            "latitude": 35.2470794,
+            "longitude": -112.1921648,
+            "rating": 3.9,
+            "ratingCount": 180,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/williams",
+            "phoneNumber": "(928) 635-4441",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ZzacyS6tDwxpI8k-nR5s9MYJ3aEKN8Cc9KruQOZ_ub_nxcEjmhAfRZMYX6gjqqnSeVmNxYZwb8rsHcksaeuBg4z10IdLkRM3-GhJTKKreecJ2IE3bcWvKdqN12bHMVUhyfdLisQ",
+            "cid": "12004270169938063904",
+            "fid": "0x87329f02d2168d57:0xa697bc1e42f9f220",
+            "placeId": "ChIJV40W0gKfMocRIPL5Qh68l6Y"
+        },
+        {
+            "position": 12,
+            "title": "North County Health Services",
+            "address": "629 2nd St, Encinitas, CA 92024",
+            "latitude": 33.0441743,
+            "longitude": -117.2942903,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre"
+            ],
+            "phoneNumber": "(760) 753-7842",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WcxeVM9f-yMP4dVvpj-19A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=247.08041&pitch=0&thumbfov=100",
+            "cid": "14712495138553127251",
+            "fid": "0x80dc0de6335abc3b:0xcc2d4860dd1ee153",
+            "placeId": "ChIJO7xaM-YN3IARU-Ee3WBILcw"
+        },
+        {
+            "position": 13,
+            "title": "North County Health Services: Simms Tressa MD",
+            "address": "150 Valpreda Rd, San Marcos, CA 92069",
+            "latitude": 33.140233,
+            "longitude": -117.15702499999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(760) 736-6767",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LFUXzpjcqFbkDp9LAcjZgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=260.73242&pitch=0&thumbfov=100",
+            "cid": "8699088460453352867",
+            "fid": "0x80db8ab12c2e270f:0x78b95edd730595a3",
+            "placeId": "ChIJDycuLLGK24ARo5UFc91euXg"
+        },
+        {
+            "position": 14,
+            "title": "North County Health Care",
+            "address": "3505 Western Ave A, Kingman, AZ 86409",
+            "latitude": 35.2254213,
+            "longitude": -114.04090289999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a4JsjyooJdZGUvK1-iHr1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=96.98637&pitch=0&thumbfov=100",
+            "cid": "14058209222687915193",
+            "fid": "0x80cddc1bbbc00001:0xc318cacdf06efcb9",
+            "placeId": "ChIJAQDAuxvczYARufxu8M3KGMM"
+        },
+        {
+            "position": 15,
+            "title": "North County Health Services",
+            "address": "610 Thunder Dr, Oceanside, CA 92056",
+            "latitude": 33.1903296,
+            "longitude": -117.2883904,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(760) 566-1760",
+            "openingHours": {
+                "Tuesday": "1\u202fAM\u20135\u202fPM",
+                "Wednesday": "1\u202fAM\u20135\u202fPM",
+                "Thursday": "1\u202fAM\u20135\u202fPM",
+                "Friday": "1\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "1\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wfIl-pJ9C73Auf7mawEkZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=278.08972&pitch=0&thumbfov=100",
+            "cid": "13688530276651100503",
+            "fid": "0x80dc715e7fc89af9:0xbdf76dc2fcf7e957",
+            "placeId": "ChIJ-ZrIf15x3IARV-n3_MJt970"
+        },
+        {
+            "position": 16,
+            "title": "North Country HealthCare - Payson",
+            "address": "126 E Main St Suite B, Payson, AZ 85541",
+            "latitude": 34.2301527,
+            "longitude": -111.3230794,
+            "rating": 4.2,
+            "ratingCount": 118,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/payson",
+            "phoneNumber": "(928) 468-8610",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB994OdJhONNPRHbdPJFNKlESFPmUWgrYlmtHVeQ0C4NjY2yE84N_lu86VdKLCn7bNnoJej1mgBGnrqUNO-iv3fpJbc0E0m2VNi-VxGT6h7WQKOBsEysq8QVwz3XXB7M28bv7uYD",
+            "cid": "16914127482452468579",
+            "fid": "0x872c10e5512a060d:0xeabb0d5495406363",
+            "placeId": "ChIJDQYqUeUQLIcRY2NAlVQNu-o"
+        },
+        {
+            "position": 17,
+            "title": "North Central Community Health Center",
+            "address": "4000 Jennings Station Rd, St. Louis, MO 63121",
+            "latitude": 38.6947536,
+            "longitude": -90.2744657,
+            "rating": 2.7,
+            "ratingCount": 46,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "website": "http://www.stlouisco.com/",
+            "phoneNumber": "(314) 615-9700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8F0mXFNIbJD9_Eel1Wm97SQKb6d_RupY_c6R8GVJiblu741YcsdZ8GTd0OZqy8eW7Y7GTuv_ViwM0HgYaoa6sg1RXwKk7AugDkRNbJW_JVOJk8F4hDig7JB1GCJMVWC6cWwEMACg",
+            "cid": "17946595537059767491",
+            "fid": "0x87df4a588dd66d4b:0xf90f1d8e4a0ee4c3",
+            "placeId": "ChIJS23WjVhK34cRw-QOSo4dD_k"
+        },
+        {
+            "position": 18,
+            "title": "North Coast Health Center",
+            "address": "477 N El Camino Real, Encinitas, CA 92024",
+            "latitude": 33.0571136,
+            "longitude": -117.2614593,
+            "rating": 4.9,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.northcoasthealthcenter.com/",
+            "phoneNumber": "(858) 792-0795",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-VZiog1QDksLZoLzVm_g0wCJ_m3lDtLNiTk2koDLd0TBhRIdAz-UeI2I-0FTYZ2Vm_0xtH99qTBJ3xff0qb6AgzYCRM6yotP-0sKL2esTlytIxcNBSBlf2VUqVo-jXf8gpCXz6",
+            "cid": "12922805103932979235",
+            "fid": "0x80dc0b85e32299df:0xb35706c62987b823",
+            "placeId": "ChIJ35ki44UL3IARI7iHKcYGV7M"
+        },
+        {
+            "position": 19,
+            "title": "North Country HealthCare - Round Valley/Springerville",
+            "address": "488 S Mountain Ave, Springerville, AZ 85938",
+            "latitude": 34.1257418,
+            "longitude": -109.2895775,
+            "rating": 4.4,
+            "ratingCount": 45,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/round-valley",
+            "phoneNumber": "(928) 333-0127",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPudCxhbKn1_JbdBHUwEahXHHdfIIJ7YoLh7RQJ",
+            "cid": "13446363070325908591",
+            "fid": "0x872611640067c8ff:0xba9b13f877b4e46f",
+            "placeId": "ChIJ_8hnAGQRJocRb-S0d_gTm7o"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Nexus Childrens Hospital Houston",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.732405,-95.5800097,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nexus Children's Hospital - Houston",
+            "address": "2929 Woodland Park Dr, Houston, TX 77082",
+            "latitude": 29.732405,
+            "longitude": -95.58000969999999,
+            "rating": 4.2,
+            "ratingCount": 93,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://nexushealthsystems.com/",
+            "phoneNumber": "(281) 293-7774",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCY9S690FKeJ85JsInp3Vs3HJuP13XcZxqImaQ",
+            "cid": "280914214490756025",
+            "fid": "0x8640dcc3ab338923:0x3e601fd5f1453b9",
+            "placeId": "ChIJI4kzq8PcQIYRuVMUX_0B5gM"
+        }
+    ],
+    "credits": 3
+}

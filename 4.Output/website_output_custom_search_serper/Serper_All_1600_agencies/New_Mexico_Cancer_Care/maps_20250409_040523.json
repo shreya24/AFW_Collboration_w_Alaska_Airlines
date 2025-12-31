@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "New Mexico Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1347039,-106.608995,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Mexico Cancer Center",
+            "address": "4901 Lang Ave NE, Albuquerque, NM 87109",
+            "latitude": 35.1738316,
+            "longitude": -106.590154,
+            "rating": 3.7,
+            "ratingCount": 109,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical diagnostic imaging center",
+                "Pain control clinic",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Urologist"
+            ],
+            "website": "https://nmcancercenter.org/?utm_source=GMBSocialClimb&utm_medium=NewMexicoCancerCenter",
+            "phoneNumber": "(505) 842-8171",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "1\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://nmcancercenter.org/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZKB84QJSM8G9g-nvoLEZ-7gTVY9AoSDXDkohX",
+            "cid": "4664001070577954667",
+            "fid": "0x872274362066408d:0x40b9dc4343d72f6b",
+            "placeId": "ChIJjUBmIDZ0IocRay_XQ0PcuUA"
+        },
+        {
+            "position": 2,
+            "title": "UNM Comprehensive Cancer Center",
+            "address": "1201 Camino de Salud NE, Albuquerque, NM 87102",
+            "latitude": 35.095576099999995,
+            "longitude": -106.6272534,
+            "rating": 3.6,
+            "ratingCount": 70,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://unmhealth.org/cancer/",
+            "phoneNumber": "(505) 272-4946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://unmhealth.org/cancer/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4YNilKXC-1rwhhKnkxkx0OdOB7PfgdPzr3NWJ",
+            "cid": "17444617878087057336",
+            "fid": "0x87220b5628575ab7:0xf217bb88d9cebfb8",
+            "placeId": "ChIJt1pXKFYLIocRuL_O2Yi7F_I"
+        },
+        {
+            "position": 3,
+            "title": "New Mexico Cancer Care Alliance",
+            "address": "1201 Camino de Salud 2nd floor, Albuquerque, NM 87106",
+            "latitude": 35.0959862,
+            "longitude": -106.627836,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://nmcca.org/",
+            "phoneNumber": "(505) 272-7813",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HzsPRIjiAsb28YS9NsZG1A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=199.79396&pitch=0&thumbfov=100",
+            "cid": "1969716321528708134",
+            "fid": "0x87220c9c55555555:0x1b55d68ef501fc26",
+            "placeId": "ChIJVVVVVZwMIocRJvwB9Y7WVRs"
+        }
+    ],
+    "credits": 3
+}

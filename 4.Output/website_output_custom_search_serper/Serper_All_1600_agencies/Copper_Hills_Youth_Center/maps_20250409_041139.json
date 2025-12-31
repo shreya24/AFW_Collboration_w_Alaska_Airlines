@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Copper Hills Youth Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.588323,-112.0313567,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Copper Hills Youth Center",
+            "address": "5899 Rivendell Dr, West Jordan, UT 84081",
+            "latitude": 40.588322999999995,
+            "longitude": -112.03135669999999,
+            "rating": 2.8,
+            "ratingCount": 104,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://copperhillsyouthcenter.com/",
+            "phoneNumber": "(800) 776-7116",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPh3s1xgiquLJfPHOhLduLSEzyLatOL5gMaNwxC",
+            "cid": "13598721112287616257",
+            "fid": "0x87528fccd84c746d:0xbcb85ccd71821d01",
+            "placeId": "ChIJbXRM2MyPUocRAR2Ccc1cuLw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Paton Whimple DO. LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8216389,-115.7302504,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Whimple Paton DO",
+            "address": "1995 Errecart Blvd # 107, Elko, NV 89801",
+            "latitude": 40.821638899999996,
+            "longitude": -115.73025039999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(775) 777-1895",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PMBQkRTYADp7kpas_IYPjQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=311.90997&pitch=0&thumbfov=100",
+            "cid": "4686463292947914642",
+            "fid": "0x80a60099a3aab811:0x4109a988f5115f92",
+            "placeId": "ChIJEbiqo5kApoARkl8R9YipCUE"
+        }
+    ],
+    "credits": 3
+}

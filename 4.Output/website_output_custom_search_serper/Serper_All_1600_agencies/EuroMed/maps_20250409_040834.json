@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "EuroMed",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Euromed USA, Inc.",
+            "address": "80 Emerson Ln #1304a, Bridgeville, PA 15017",
+            "latitude": 40.348577899999995,
+            "longitude": -80.1216803,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://www.euromedusa.com/",
+            "phoneNumber": "(412) 279-8808",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRzoZ0MhAbZBHjmrHmSFvqF_MDKbBfPXLL0oIU",
+            "cid": "6076500200009587948",
+            "fid": "0x883457c75c377de3:0x545410bcbb295cec",
+            "placeId": "ChIJ4303XMdXNIgR7Fwpu7wQVFQ"
+        },
+        {
+            "position": 2,
+            "title": "EuroMed Global",
+            "address": "110 Tallapoosa St, Bremen, GA 30110",
+            "latitude": 33.7203606,
+            "longitude": -85.14841849999999,
+            "type": "Consultant",
+            "types": [
+                "Consultant"
+            ],
+            "website": "http://www.euromedglobal.com/",
+            "phoneNumber": "(770) 823-2888",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzJmCBimD3DHbdxEMAY62KxmYC8S-KWgBI_T3P",
+            "cid": "3734118184739937343",
+            "fid": "0x888ad8883d354e5f:0x33d240b46ec01c3f",
+            "placeId": "ChIJX041PYjYiogRPxzAbrRA0jM"
+        }
+    ],
+    "credits": 3
+}

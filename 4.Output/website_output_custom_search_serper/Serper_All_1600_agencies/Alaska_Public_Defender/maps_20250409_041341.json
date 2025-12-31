@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Alaska Public Defender",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2172623,-149.9002066,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Public Defender",
+            "address": "900 W 5th Ave #200, Anchorage, AK 99501",
+            "latitude": 61.217262299999994,
+            "longitude": -149.9002066,
+            "rating": 2.7,
+            "ratingCount": 7,
+            "type": "State government office",
+            "types": [
+                "State government office",
+                "Attorney"
+            ],
+            "website": "https://doa.alaska.gov/pda/",
+            "phoneNumber": "(907) 334-4400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=muvjr21FjoRLDXQTZNN3VA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=244.70126&pitch=0&thumbfov=100",
+            "cid": "1703909518604171978",
+            "fid": "0x56c8bd8125bee79f:0x17a580adf1cefaca",
+            "placeId": "ChIJn-e-JYG9yFYRyvrO8a2ApRc"
+        }
+    ],
+    "credits": 3
+}

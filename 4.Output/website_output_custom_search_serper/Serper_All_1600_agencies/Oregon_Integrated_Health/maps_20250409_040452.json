@@ -1,0 +1,147 @@
+{
+    "searchParameters": {
+        "q": "Oregon Integrated Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.7610809,-123.3932533,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Integrated Health - Primary Care Providers",
+            "address": "923 NW 14th Ave, Portland, OR 97209",
+            "latitude": 45.5297079,
+            "longitude": -122.68553259999999,
+            "rating": 4.2,
+            "ratingCount": 308,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Acupuncture clinic",
+                "Chiropractor",
+                "Massage therapist",
+                "Medical clinic",
+                "Mental health service",
+                "Naturopathic practitioner",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.oregonih.com/",
+            "phoneNumber": "(503) 972-0235",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.oregonih.com/portland-providers"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjhEOS-qigOZbCzfV66c6YAmkmSU55R-azdKcU",
+            "cid": "14563095712123001348",
+            "fid": "0x549509f88dd3256d:0xca1a82643f1b1a04",
+            "placeId": "ChIJbSXTjfgJlVQRBBobP2SCGso"
+        },
+        {
+            "position": 2,
+            "title": "Oregon Integrated Health - Primary Care Providers",
+            "address": "3 River Ave, Eugene, OR 97404",
+            "latitude": 44.095875299999996,
+            "longitude": -123.1277011,
+            "rating": 2.6,
+            "ratingCount": 90,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Acupuncturist",
+                "Chiropractor",
+                "Family practice physician",
+                "Mental health service",
+                "Naturopathic practitioner",
+                "Physical therapist"
+            ],
+            "website": "https://www.oregonih.com/",
+            "phoneNumber": "(503) 972-0235",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.oregonih.com/eugene"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMPhDCloI8U1AI6-MQuT2ImpNTE_7dIdxuUI7h2",
+            "cid": "15025765545642618614",
+            "fid": "0x54c11d936effa71b:0xd0863e276254eef6",
+            "placeId": "ChIJG6f_bpMdwVQR9u5UYic-htA"
+        },
+        {
+            "position": 3,
+            "title": "Oregon Integrated Health - Primary Care Providers",
+            "address": "374 Owens St SE, Salem, OR 97302",
+            "latitude": 44.9300813,
+            "longitude": -123.0429398,
+            "rating": 2.3,
+            "ratingCount": 25,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://www.oregonih.com/",
+            "phoneNumber": "(503) 972-0235",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SKold-XaJedlgK5kfnfHXw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.99146&pitch=0&thumbfov=100",
+            "cid": "1177056883337288248",
+            "fid": "0x54bfff886c9aaeb1:0x1055beffc3bf5a38",
+            "placeId": "ChIJsa6abIj_v1QROFq_w_--VRA"
+        },
+        {
+            "position": 4,
+            "title": "Oregon Integrated Health - Primary Care Providers",
+            "address": "2970 US-101, Florence, OR 97439",
+            "latitude": 43.992453999999995,
+            "longitude": -124.100974,
+            "rating": 2.8,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.oregonih.com/",
+            "phoneNumber": "(503) 972-0235",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.oregonih.com/florence"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwUzWuXBxbCvh3K19ceSaXU0NTaP59jRcY7QrO",
+            "cid": "8244959003959905642",
+            "fid": "0x54c3d5b7022c64f9:0x726bfa87cab04d6a",
+            "placeId": "ChIJ-WQsArfVw1QRak2wyof6a3I"
+        }
+    ],
+    "credits": 3
+}

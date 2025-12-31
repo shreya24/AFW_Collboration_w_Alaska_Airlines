@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Dr. Marra",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2703902,-113.5140067,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Naehal Marra",
+            "address": "5861 N Oracle Rd, Tucson, AZ 85704",
+            "latitude": 32.3136855,
+            "longitude": -110.9784658,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Practitioner service location"
+            ],
+            "website": "https://www.cmctmed.com/provider/dr-naehal-patel-marra",
+            "phoneNumber": "(520) 293-6686",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=omEuthym2Fvm-JMxJbd0MA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=356.6794&pitch=0&thumbfov=100",
+            "cid": "15365142303902932736",
+            "fid": "0x86d6737476500001:0xd53bf38473761f00",
+            "placeId": "ChIJAQBQdnRz1oYRAB92c4TzO9U"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Edward Marra",
+            "address": "78 N Cooper Rd, Gilbert, AZ 85233",
+            "latitude": 33.3512638,
+            "longitude": -111.8078317,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "http://cooperfamilydentistryaz.com/",
+            "phoneNumber": "(480) 964-1000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ti0w5PwMOjwn5EbN8-xg7Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=243.17007&pitch=0&thumbfov=100",
+            "cid": "16518316910189433555",
+            "fid": "0x872ba909c9a11bff:0xe53cd9b6472b52d3",
+            "placeId": "ChIJ_xuhyQmpK4cR01IrR7bZPOU"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Janelle M. Marra, DO",
+            "address": "1145 Sturgis Rd, Twentynine Palms, CA 92277",
+            "latitude": 34.2270949,
+            "longitude": -116.04954769999999,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(760) 830-2190",
+            "cid": "13904087399516040582",
+            "fid": "0x80dac8041f82ff0b:0xc0f53dd2a6236d86",
+            "placeId": "ChIJC_-CHwTI2oARhm0jptI99cA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "St Charles Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.1789612,-121.2195669,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Charles Cancer Center - Bend",
+            "address": "2500 NE Neff Rd, Bend, OR 97701",
+            "latitude": 44.0674791,
+            "longitude": -121.27044289999999,
+            "rating": 3.1,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.stcharleshealthcare.org/locations/bend-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(541) 706-5800",
+            "bookingLinks": [
+                "https://www.stcharleshealthcare.org/locations/bend-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2Uqly6vQEErEeHOd857130wsreHPluZz83Jjg",
+            "cid": "17225265328885474474",
+            "fid": "0x54bf2a9339e297c1:0xef0c6f8da21224aa",
+            "placeId": "ChIJwZfiOZMqv1QRqiQSoo1vDO8"
+        },
+        {
+            "position": 2,
+            "title": "St. Charles Cancer Center - Redmond",
+            "address": "1541 NW Canal Blvd, Redmond, OR 97756",
+            "latitude": 44.2904433,
+            "longitude": -121.168691,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.stcharleshealthcare.org/locations/redmond-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(541) 706-5800",
+            "bookingLinks": [
+                "https://www.stcharleshealthcare.org/locations/redmond-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM6vJ4nnYdu6YXgqyVO2X5HDN67gVNzrSfBC9iU",
+            "cid": "15721646897054334623",
+            "fid": "0x54b8c5fc0b5945ad:0xda2e828e570bbe9f",
+            "placeId": "ChIJrUVZC_zFuFQRn74LV46CLto"
+        }
+    ],
+    "credits": 3
+}

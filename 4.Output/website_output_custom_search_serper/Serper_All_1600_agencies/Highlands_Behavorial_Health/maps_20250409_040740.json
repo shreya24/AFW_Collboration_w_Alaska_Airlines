@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Highlands Behavorial Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.56276,-104.9076504,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Highlands Behavioral Health",
+            "address": "8565 Poplar Way, Littleton, CO 80130",
+            "latitude": 39.56276,
+            "longitude": -104.9076504,
+            "rating": 2.2,
+            "ratingCount": 329,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://highlandsbhs.com/",
+            "phoneNumber": "(720) 348-2800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUlXwg7LOqq21i8VBLYgnfZtQQcgJkX3yj7njp",
+            "cid": "6628601401965193207",
+            "fid": "0x876c839955555555:0x5bfd85daf1caa7f7",
+            "placeId": "ChIJVVVVVZmDbIcR96fK8dqF_Vs"
+        }
+    ],
+    "credits": 3
+}

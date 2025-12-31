@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Swedish Endocrinology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6086439,-122.3236997,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Endocrinology - First Hill",
+            "address": "1124 Columbia St, Seattle, WA 98104",
+            "latitude": 47.6086439,
+            "longitude": -122.32369969999999,
+            "rating": 1.6,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Endocrinologist"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/endocrinology?Is=location&y_source=1_OTU3Njc5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 215-2440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQ4ck93WI7CWvnAXiPpmD7bjVHFZdgccynSgL6",
+            "cid": "5523006508169609911",
+            "fid": "0x54906ac9d258197f:0x4ca5a928339ec2b7",
+            "placeId": "ChIJfxlY0slqkFQRt8KeMyippUw"
+        }
+    ],
+    "credits": 3
+}

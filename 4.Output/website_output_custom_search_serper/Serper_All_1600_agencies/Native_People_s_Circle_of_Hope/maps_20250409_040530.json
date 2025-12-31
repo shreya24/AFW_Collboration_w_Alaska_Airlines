@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Native People's Circle of Hope",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.2125315,-100.2471755,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lakota Circles of Hope",
+            "latitude": 44.2125315,
+            "longitude": -100.24717559999999,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Service establishment"
+            ],
+            "website": "https://www.lakotacirclesofhope.org/",
+            "phoneNumber": "(605) 348-6086",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "cid": "15476749209044139566",
+            "fid": "0x66face2b4fdd7b69:0xd6c8756802e23e2e",
+            "placeId": "ChIJaXvdTyvO-mYRLj7iAmh1yNY"
+        }
+    ],
+    "credits": 3
+}

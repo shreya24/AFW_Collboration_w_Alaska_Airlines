@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Rancho Springs Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5585934,-117.1840396,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southwest Healthcare Rancho Springs Hospital",
+            "address": "25500 Medical Center Dr, Murrieta, CA 92562",
+            "latitude": 33.5585934,
+            "longitude": -117.18403959999999,
+            "rating": 4.2,
+            "ratingCount": 2907,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.swhranchosprings.com/",
+            "phoneNumber": "(951) 696-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsq7fMDYM1aMv6iAZ1fAf6g5fVrYva1EH5xnVC",
+            "cid": "104160065856899593",
+            "fid": "0x80dc820dd9efe9f1:0x1720d072d2e8a09",
+            "placeId": "ChIJ8env2Q2C3IARCYouLQcNcgE"
+        }
+    ],
+    "credits": 3
+}

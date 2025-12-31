@@ -1,0 +1,94 @@
+{
+    "searchParameters": {
+        "q": "Dr. Donald Mansell",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.936788,-121.4639381,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Donald Mansell, MD",
+            "address": "999 S Fairmont Ave #50, Lodi, CA 95240",
+            "latitude": 38.120759799999995,
+            "longitude": -121.2871524,
+            "rating": 4.7,
+            "ratingCount": 18,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://doctors.adventisthealth.org/provider/Donald+E+Mansell/1342680",
+            "phoneNumber": "(209) 334-8514",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:35\u202fPM",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "8\u202fAM\u20136:35\u202fPM",
+                "Friday": "8\u202fAM\u20136:35\u202fPM",
+                "Saturday": "8\u202fAM\u20136:35\u202fPM",
+                "Sunday": "8\u202fAM\u20136:35\u202fPM",
+                "Monday": "8\u202fAM\u20136:35\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNM6-t-qXUESbcREKX29LlL64FdioVJMDEUeQy2",
+            "cid": "6814829551322023404",
+            "fid": "0x809cd48d4db52d43:0x5e93235ed36245ec",
+            "placeId": "ChIJQy21TY3UnIAR7EVi014jk14"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Donald E. Mansell, MD",
+            "address": "5125 Skyway 2nd Floor, Paradise, CA 95969",
+            "latitude": 39.7464271,
+            "longitude": -121.6407239,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "http://www.adventisthealth.org/",
+            "phoneNumber": "(530) 872-2000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2vMqq9ug2gUO8r9DYSGqmQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=284.54507&pitch=0&thumbfov=100",
+            "cid": "4747008346712124525",
+            "fid": "0x80832b59c02612b9:0x41e0c2f0cb972c6d",
+            "placeId": "ChIJuRImwFkrg4ARbSyXy_DC4EE"
+        },
+        {
+            "position": 3,
+            "title": "Donald Everett Mansell",
+            "address": "999 S Fairmont Ave #50, Lodi, CA 95240",
+            "latitude": 38.1206129,
+            "longitude": -121.2872235,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "phoneNumber": "(209) 334-8514",
+            "cid": "14469271666477917943",
+            "fid": "0x809aa072e1155555:0xc8cd2deb4f0a66f7",
+            "placeId": "ChIJVVUV4XKgmoAR92YKT-stzcg"
+        },
+        {
+            "position": 4,
+            "title": "Donald E Md Mansell",
+            "address": "153 Pearson Rd, Paradise, CA 95969",
+            "latitude": 39.752963199999996,
+            "longitude": -121.625413,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHTapJMtYcbXBDiqiB1adW7DZ3vQM5G7TDbho9",
+            "cid": "11586491539468104544",
+            "fid": "0x809cd4ac7d5aaaab:0xa0cb7caad310b360",
+            "placeId": "ChIJq6pafazUnIARYLMQ06p8y6A"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "QT Imaging",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.0569949,-122.5129338,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "QT Imaging",
+            "address": "Three Hamilton Landing Suite 160, Novato, CA 94949",
+            "latitude": 38.057152699999996,
+            "longitude": -122.51308019999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://qtimaging.com/",
+            "phoneNumber": "(415) 842-7250",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SXvwOgTi7jyGLwD3DEWM-Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=142.97662&pitch=0&thumbfov=100",
+            "cid": "4909753562285841182",
+            "fid": "0x8085a297e5101cf9:0x4422f2da16c19b1e",
+            "placeId": "ChIJ-RwQ5ZeihYARHpvBFtryIkQ"
+        },
+        {
+            "position": 2,
+            "title": "QT Imaging Center",
+            "address": "3 Hamilton Landing #180, Novato, CA 94949",
+            "latitude": 38.0568659,
+            "longitude": -122.51298519999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.qtimaging.com/",
+            "phoneNumber": "(415) 842-7403",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMd4MbeF5JKFRDElt0fU1UHZjN0YyrlRkqad8Yw",
+            "cid": "1473822324160425213",
+            "fid": "0x8085a31f935a5c3b:0x147411985d9f6cfd",
+            "placeId": "ChIJO1xakx-jhYAR_WyfXZgRdBQ"
+        },
+        {
+            "position": 3,
+            "title": "QTbreasthealth Marin",
+            "address": "3 Hamilton Landing #180a, Novato, CA 94949",
+            "latitude": 38.056837099999996,
+            "longitude": -122.5127873,
+            "rating": 4.9,
+            "ratingCount": 13,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "phoneNumber": "(415) 497-4800",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.qtbreasthealth.com/contact/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpyjVyWZfRBu4MOrdkCau70aJ0osAMr87ObHTH",
+            "cid": "9159613950819255573",
+            "fid": "0x8085a3e33ead2597:0x7f1d7c5bca4b4515",
+            "placeId": "ChIJlyWtPuOjhYARFUVLylt8HX8"
+        }
+    ],
+    "credits": 3
+}

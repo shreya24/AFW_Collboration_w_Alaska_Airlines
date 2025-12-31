@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Western Montana Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.874625,-114.0006229,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Western Montana Clinic",
+            "address": "500 W Broadway St, Missoula, MT 59802",
+            "latitude": 46.874624999999995,
+            "longitude": -114.0006229,
+            "rating": 3.5,
+            "ratingCount": 96,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Medical laboratory",
+                "Pediatrician",
+                "Rheumatologist"
+            ],
+            "website": "http://www.westernmontanaclinic.com/",
+            "phoneNumber": "(406) 721-5600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMWHQmBbVPbOsVEFJHz16D_LQcZeTAs2AaNYEB",
+            "cid": "6589722221950879887",
+            "fid": "0x535dce808b5629bf:0x5b7365726fe1488f",
+            "placeId": "ChIJvylWi4DOXVMRj0jhb3Jlc1s"
+        }
+    ],
+    "credits": 3
+}

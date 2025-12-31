@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Union Square Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6588117,-74.2032165,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Union Square Medical Associates",
+            "address": "824 Elizabeth Ave, Elizabeth, NJ 07201",
+            "latitude": 40.6588117,
+            "longitude": -74.2032165,
+            "rating": 3,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.usmapc.com/",
+            "phoneNumber": "(908) 352-9556",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-3Jbv-EZdWWLmNLIla9GTCl-P6LOE8wCzh_eU5-0MPkOVe5DC2O1dCdFzoajm1Z4jI2q4ImZbtKJlqGHfyLA5cZJz-3rp2FpqE7XLkiNbR86C9UGlo4XOjk6xfJW5cn9oRgjSGvg",
+            "cid": "9536792143143981283",
+            "fid": "0x89c24d5ae1cdc23b:0x84597ded14d550e3",
+            "placeId": "ChIJO8LN4VpNwokR41DVFO19WYQ"
+        }
+    ],
+    "credits": 3
+}

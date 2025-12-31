@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Mt Sinai Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7900948,-73.953917,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mount Sinai Kravis Children's Hospital",
+            "address": "1184 5th Ave, New York, NY 10029",
+            "latitude": 40.7900948,
+            "longitude": -73.95391699999999,
+            "rating": 4,
+            "ratingCount": 67,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Pediatric cardiologist",
+                "Pediatric endocrinologist",
+                "Pediatric gastroenterologist",
+                "Pediatric hematologist",
+                "Pediatric neurologist",
+                "Pediatric rheumatologist",
+                "Pediatric surgeon",
+                "Pediatric urologist"
+            ],
+            "website": "https://www.mountsinai.org/locations/kravis-childrens?utm_source=Yext&utm_medium=local_listing&utm_campaign=MSKCH&y_source=1_MTA1NjUxMjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(212) 241-9500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnYCipk-nJh-sxqrGMKnceNW-thsKlxQzpv9wL",
+            "cid": "2807495355057391785",
+            "fid": "0x89c258a0afc597ef:0x26f63a2692c148a9",
+            "placeId": "ChIJ75fFr6BYwokRqUjBkiY69iY"
+        }
+    ],
+    "credits": 3
+}

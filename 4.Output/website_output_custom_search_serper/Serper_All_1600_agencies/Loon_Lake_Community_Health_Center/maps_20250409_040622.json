@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Loon Lake Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.0629403,-117.6302277,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NEW Health Loon Lake Medical",
+            "address": "3994 Colville Rd, Loon Lake, WA 99148",
+            "latitude": 48.0629403,
+            "longitude": -117.63022769999999,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre"
+            ],
+            "website": "https://newhealth.org/location/loon-lake-medical/",
+            "phoneNumber": "(509) 935-6004",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOO9SKAhQTvhswqb4Q4gMrSRVX9goFORGKabCwu",
+            "cid": "17664579639733386703",
+            "fid": "0x5362078784d0c51b:0xf525319764e7fdcf",
+            "placeId": "ChIJG8XQhIcHYlMRz_3nZJcxJfU"
+        }
+    ],
+    "credits": 3
+}

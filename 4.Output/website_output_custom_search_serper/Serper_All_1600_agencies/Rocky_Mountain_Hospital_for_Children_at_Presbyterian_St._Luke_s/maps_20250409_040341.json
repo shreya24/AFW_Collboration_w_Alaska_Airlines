@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mountain Hospital for Children at Presbyterian/St. Luke's",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.746698,-104.9653732,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HCA HealthONE Rocky Mountain Children's at Presbyterian St. Luke's",
+            "address": "2001 High St, Denver, CO 80205",
+            "latitude": 39.746697999999995,
+            "longitude": -104.9653732,
+            "rating": 4.1,
+            "ratingCount": 156,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/rocky-mountain-childrens?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(720) 754-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_S0ojEPbRE5qtOzak0MtwI_y6wCrN8RRyyEXWDPeDZM0gxI-d2jNoKew1Cb2MKGwbFsqYK0QsQi-F1x_jHGGc9yY8SzhpRfarazPJJ2dU_eh36JX6TDy6TjYTS9dOy-e12oEv3",
+            "cid": "10434540658106232348",
+            "fid": "0x876c7936a175e7ed:0x90ceef71a8caee1c",
+            "placeId": "ChIJ7ed1oTZ5bIcRHO7KqHHvzpA"
+        }
+    ],
+    "credits": 3
+}

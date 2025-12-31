@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Barlett Regional Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3287359,-134.4651751,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bartlett Regional Hospital",
+            "address": "3260 Hospital Dr, Juneau, AK 99801",
+            "latitude": 58.3287359,
+            "longitude": -134.46517509999998,
+            "rating": 3.7,
+            "ratingCount": 39,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Addiction treatment center",
+                "Emergency care physician",
+                "Hospital"
+            ],
+            "website": "https://www.bartletthospital.org/",
+            "phoneNumber": "(907) 796-8900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOY0GHYoZTEHJZZhlC2iP8mqjYBschCYw3oxgeM",
+            "cid": "9867043632844307332",
+            "fid": "0x5400e007fbeadd47:0x88eec7e7fef6fb84",
+            "placeId": "ChIJR93q-wfgAFQRhPv2_ufH7og"
+        }
+    ],
+    "credits": 3
+}

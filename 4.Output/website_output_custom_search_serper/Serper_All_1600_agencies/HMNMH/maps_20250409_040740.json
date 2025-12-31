@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "HMNMH",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.3980741,-118.5532722,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Henry Mayo Newhall Hospital",
+            "address": "23845 McBean Pkwy, Valencia, CA 91355",
+            "latitude": 34.398074099999995,
+            "longitude": -118.5532722,
+            "rating": 2.8,
+            "ratingCount": 398,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital",
+                "Hospital department",
+                "Nursing home"
+            ],
+            "website": "http://www.henrymayo.com/",
+            "phoneNumber": "(661) 200-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaf41UrmRho-lvRBcRHav6r0XldI5w8x15firD",
+            "cid": "14521873810164913690",
+            "fid": "0x80c286e1c9478dfb:0xc9880f4a47ed961a",
+            "placeId": "ChIJ-41HyeGGwoARGpbtR0oPiMk"
+        }
+    ],
+    "credits": 3
+}

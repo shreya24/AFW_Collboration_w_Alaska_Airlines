@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "Northwest Resources II Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.1246749,-123.01925,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Resources Inc",
+            "address": "2708 Westmoor Ct SW, Olympia, WA 98502",
+            "latitude": 47.037849099999995,
+            "longitude": -122.9354067,
+            "rating": 3.1,
+            "ratingCount": 22,
+            "type": "Alcoholism treatment program",
+            "types": [
+                "Alcoholism treatment program",
+                "Care services",
+                "Counselor",
+                "Family counselor",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.nwrii.com/",
+            "phoneNumber": "(360) 943-8810",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZtiKalwaqSl02iSSdLBNaA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=336.0596&pitch=0&thumbfov=100",
+            "cid": "2425844881673012070",
+            "fid": "0x549175afea715b31:0x21aa55113451c366",
+            "placeId": "ChIJMVtx6q91kVQRZsNRNBFVqiE"
+        },
+        {
+            "position": 2,
+            "title": "Northwest Resources Inc",
+            "address": "235 S 3rd St, Shelton, WA 98584",
+            "latitude": 47.2115006,
+            "longitude": -123.1030933,
+            "rating": 3.8,
+            "ratingCount": 19,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Care services",
+                "Counselor",
+                "Nurse practitioner"
+            ],
+            "website": "https://www.nwrii.com/shelton-location",
+            "phoneNumber": "(360) 426-0890",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/northwest-resources-ii-inc-81633?LocIdent=196940&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_XD6X0pcmd06ky005k5v7KR-lo_6f6H4ScecEaVPIJanaaQcR-entity&rwg_token=AAiGsoYuqLVJPHeolKbfLrPvBV6sVibR1C0m9tTz6CQCiByRCNl5SKPhWQiFj6ZxyE7rEa-PniTjUZUkCg5r80DOwbRc516urV9ZPT5sfU7wZBmmMK2cg_I%3D"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pdjoJULuwS1LSF8FWy5yfQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=231.3476&pitch=0&thumbfov=100",
+            "cid": "9738063345557727798",
+            "fid": "0x549197ea57f10c4b:0x87248d04b0386a36",
+            "placeId": "ChIJSwzxV-qXkVQRNmo4sASNJIc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "Seattle Breast Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.66149,-122.3301409,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Breast Imaging Clinic at UW Medical Center - Northwest (Seattle Mammograms)",
+            "address": "Medical Office Building, 1560 N 115th St, Seattle, WA 98133",
+            "latitude": 47.7137185,
+            "longitude": -122.3355194,
+            "rating": 3.5,
+            "ratingCount": 10,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist",
+                "Oncologist"
+            ],
+            "website": "https://www.uwmedicine.org/locations/breast-center-northwest?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDE3NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 668-1749",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uwmedicine.org/locations/breast-center-northwest?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBdml_tZbTNltLq7aOig9dmIVxZIejaU9gaDes",
+            "cid": "13539318109898376515",
+            "fid": "0x5490114d92e16851:0xbbe5521629818543",
+            "placeId": "ChIJUWjhkk0RkFQRQ4WBKRZS5bs"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Breast Imaging Center - First Hill",
+            "address": "1101 Madison St #310, Seattle, WA 98104",
+            "latitude": 47.609261499999995,
+            "longitude": -122.32476249999999,
+            "rating": 3.8,
+            "ratingCount": 18,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/breast-imaging-center?Is=location&y_source=1_OTU3Njc4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 215-8100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/swedish-breast-imaging-center-first-hill#llaid=6847sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPtVoSZTu6qMUXAHrJwzi6LTqtdH_YfQgF1uJ1K",
+            "cid": "6769791813882622823",
+            "fid": "0x54906ac9dd353b65:0x5df321c96dd23367",
+            "placeId": "ChIJZTs13clqkFQRZzPSbckh810"
+        },
+        {
+            "position": 3,
+            "title": "Breast Health Clinic at Fred Hutch Cancer Center",
+            "address": "1354 Aloha St 3rd floor, Seattle, WA 98109",
+            "latitude": 47.6264168,
+            "longitude": -122.32993099999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Women's health clinic"
+            ],
+            "website": "https://www.fredhutch.org/en/diseases/breast-cancer/breast-health-clinic.html?utm_source=gbp&utm_medium=organic&utm_content=clinic_breast_health",
+            "phoneNumber": "(206) 598-3300",
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/diseases/breast-cancer/breast-health-clinic.html"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krlEQHK9azsA6msloxc0TQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.04195&pitch=0&thumbfov=100",
+            "cid": "6899276859420782002",
+            "fid": "0x549014ec48704f11:0x5fbf27bfecd92db2",
+            "placeId": "ChIJEU9wSOwUkFQRsi3Z7L8nv18"
+        }
+    ],
+    "credits": 3
+}

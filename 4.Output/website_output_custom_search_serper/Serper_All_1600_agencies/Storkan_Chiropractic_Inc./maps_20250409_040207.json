@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Storkan Chiropractic Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.8819055,-106.3062201,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Storkan Chiropractic",
+            "address": "2610 Trinity Dr Suite 22, Los Alamos, NM 87544",
+            "latitude": 35.881905499999995,
+            "longitude": -106.30622009999999,
+            "rating": 4.2,
+            "ratingCount": 10,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Allergist",
+                "Mental health service",
+                "Pain management physician",
+                "Wellness center"
+            ],
+            "website": "https://storkanchiropractic.com/",
+            "phoneNumber": "(505) 662-2077",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20131\u202fPM, 2:30\u20135:30\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "10\u202fAM\u20131\u202fPM, 2:30\u20135:30\u202fPM",
+                "Friday": "10\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20131\u202fPM, 2:30\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://storkanchiropractic.com/contact"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpZFBwSozrXBOw-0tSnpdSbG6UVAqLrKw6JSHs",
+            "cid": "16330021410914158852",
+            "fid": "0x871812519d78b28d:0xe29fe3f3fc0fc904",
+            "placeId": "ChIJjbJ4nVESGIcRBMkP_PPjn-I"
+        }
+    ],
+    "credits": 3
+}

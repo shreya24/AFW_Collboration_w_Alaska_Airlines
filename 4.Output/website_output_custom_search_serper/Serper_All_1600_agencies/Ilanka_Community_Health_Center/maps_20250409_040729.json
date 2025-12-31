@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ilanka Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.5426707,-145.7575195,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ilanka Community Health Center",
+            "address": "705 2nd St, Cordova, AK 99574",
+            "latitude": 60.542670699999995,
+            "longitude": -145.7575195,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "website": "https://www.eyak-nsn.gov/ichc/about-ichc/",
+            "phoneNumber": "(907) 424-3622",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-E-mYXrssZ1nzoLGm9q_HEq24kcUvSWuWzmMgUAlImTKkAIFMcdYU5hPGnmqa8ytpGbsSmwgcMpTXd-aXn_OY2eGQBvAlFbuSnmvFmdkfD7SrmX7MBlwbBBKp1CiOXiSHbxe3G",
+            "cid": "14492362006670653842",
+            "fid": "0x56b718e500000001:0xc91f367613f8b992",
+            "placeId": "ChIJAQAAAOUYt1YRkrn4E3Y2H8k"
+        }
+    ],
+    "credits": 3
+}

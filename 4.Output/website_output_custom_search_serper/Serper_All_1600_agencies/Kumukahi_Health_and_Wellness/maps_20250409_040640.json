@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Kumukahi Health and Wellness",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.6804572,-155.536642,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kumukahi Health + Wellness East Hawai\u2018i - A New Day for HIHAF",
+            "address": "101 Aupuni St ph 1014c, Hilo, HI 96720",
+            "latitude": 19.717451399999998,
+            "longitude": -155.07654159999998,
+            "rating": 4.7,
+            "ratingCount": 18,
+            "type": "STD clinic",
+            "types": [
+                "STD clinic",
+                "HIV testing center",
+                "Non-profit organization",
+                "STD testing service"
+            ],
+            "website": "https://www.kumukahihealth.org/",
+            "phoneNumber": "(808) 982-8800",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpCVcdzLA4-JYOxSDiEnsGTYmvG1H0LIhZS0A",
+            "cid": "10473803246434801740",
+            "fid": "0x79524a7e745c61f7:0x915a6c8f5f14584c",
+            "placeId": "ChIJ92FcdH5KUnkRTFgUX49sWpE"
+        },
+        {
+            "position": 2,
+            "title": "Kumukahi Health + Wellness West Hawai\u2018i - A New Day for HIHAF",
+            "address": "74-5620 Palani Rd #101, Kailua-Kona, HI 96740",
+            "latitude": 19.643463,
+            "longitude": -155.9967424,
+            "rating": 4.9,
+            "ratingCount": 10,
+            "type": "STD clinic",
+            "types": [
+                "STD clinic",
+                "HIV testing center",
+                "Non-profit organization",
+                "STD testing service"
+            ],
+            "website": "https://www.kumukahihealth.org/",
+            "phoneNumber": "(808) 331-8177",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmvPSy3VePBakUbfSQKAWqsm8P8wt6XLSv3gv6",
+            "cid": "13771474860936708816",
+            "fid": "0x79540ef754c5d30d:0xbf1e1b6bef5ac2d0",
+            "placeId": "ChIJDdPFVPcOVHkR0MJa72sbHr8"
+        }
+    ],
+    "credits": 3
+}

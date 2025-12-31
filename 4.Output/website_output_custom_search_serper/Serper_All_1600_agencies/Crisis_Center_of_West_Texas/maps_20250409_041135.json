@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Crisis Center of West Texas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.8365504,-102.3626554,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Crisis Center of West Texas",
+            "address": "910 S Grant Ave # B, Odessa, TX 79761",
+            "latitude": 31.8365504,
+            "longitude": -102.3626554,
+            "rating": 4.1,
+            "ratingCount": 33,
+            "type": "Crisis center",
+            "types": [
+                "Crisis center",
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "https://ccwtx.org/",
+            "phoneNumber": "(432) 333-2527",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNI2eavfe03mHrv1NtNokkc45wlPxDo2rot2feZ",
+            "cid": "4301020098806474435",
+            "fid": "0x86fbc9678df4cff1:0x3bb04afdf92ce6c3",
+            "placeId": "ChIJ8c_0jWfJ-4YRw-Ys-f1KsDs"
+        }
+    ],
+    "credits": 3
+}

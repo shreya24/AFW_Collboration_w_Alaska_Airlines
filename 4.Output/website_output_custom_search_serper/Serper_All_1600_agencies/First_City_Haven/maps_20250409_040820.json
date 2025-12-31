@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "First City Haven",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3434407,-131.6442523,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "First City Haven",
+            "address": "632 Park Ave, Ketchikan, AK 99901",
+            "latitude": 55.343440699999995,
+            "longitude": -131.6442523,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i0AVnN0Q8d0F64_3x9mzNg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=107.27057&pitch=0&thumbfov=100",
+            "cid": "5096641994214769255",
+            "fid": "0x540c254b79a7d069:0x46bae8e3fc828267",
+            "placeId": "ChIJadCneUslDFQRZ4KC_OPoukY"
+        }
+    ],
+    "credits": 3
+}

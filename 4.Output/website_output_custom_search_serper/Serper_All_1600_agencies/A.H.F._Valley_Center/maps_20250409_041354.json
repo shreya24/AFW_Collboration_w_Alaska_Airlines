@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "A.H.F. Valley Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1605937,-118.4483849,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AHF Healthcare Center - Valley",
+            "address": "4940 Van Nuys Blvd #200, Sherman Oaks, CA 91403",
+            "latitude": 34.1605937,
+            "longitude": -118.4483849,
+            "rating": 4.4,
+            "ratingCount": 29,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Blood testing service",
+                "HIV testing center"
+            ],
+            "website": "https://hivcare.org/",
+            "phoneNumber": "(818) 380-2626",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO0VFP1wErbG5deQE0pvifzSZ9xZUVD9sdQSEyF",
+            "cid": "369534005490416134",
+            "fid": "0x80c297c84781e3af:0x520d93859aefa06",
+            "placeId": "ChIJr-OBR8iXwoARBvquWTjZIAU"
+        }
+    ],
+    "credits": 3
+}

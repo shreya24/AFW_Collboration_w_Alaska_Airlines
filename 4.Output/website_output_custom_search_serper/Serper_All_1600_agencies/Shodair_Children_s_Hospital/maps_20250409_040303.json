@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Shodair Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5824905,-111.9891981,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shodair Childrens Hospital",
+            "address": "2755 Colonial Dr, Helena, MT 59601",
+            "latitude": 46.5824905,
+            "longitude": -111.9891981,
+            "rating": 2.6,
+            "ratingCount": 71,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://shodair.org/",
+            "phoneNumber": "(406) 444-7500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-Nchg_9lUAgTB4UcmiTRoVwxjm4lMn2hWags",
+            "cid": "4212896465148040715",
+            "fid": "0x53435599d904489b:0x3a773703a0a5d60b",
+            "placeId": "ChIJm0gE2ZlVQ1MRC9aloAM3dzo"
+        }
+    ],
+    "credits": 3
+}

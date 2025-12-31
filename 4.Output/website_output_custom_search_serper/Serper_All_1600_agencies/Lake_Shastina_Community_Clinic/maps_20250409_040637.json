@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Lake Shastina Community Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.5276629,-122.3634017,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mercy Lake Shastina Community Clinic",
+            "address": "16337 Everhart Dr, Weed, CA 96094",
+            "latitude": 41.527662899999996,
+            "longitude": -122.3634017,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/mercy-lake-shastina-community-clinic",
+            "phoneNumber": "(530) 938-2297",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM33TtYE_m-o0gQ2ydZ40vTcj7mJips2bEk2AaC",
+            "cid": "14036066618776295533",
+            "fid": "0x54ce71e7ae1cd439:0xc2ca203937e1186d",
+            "placeId": "ChIJOdQcrudxzlQRbRjhNzkgysI"
+        }
+    ],
+    "credits": 3
+}

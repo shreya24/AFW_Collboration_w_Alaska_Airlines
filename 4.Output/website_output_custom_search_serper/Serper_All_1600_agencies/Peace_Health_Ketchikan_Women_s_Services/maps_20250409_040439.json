@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Peace Health Ketchikan Women's Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3536571,-131.6866346,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Obstetrics and Gynecology at PeaceHealth Ketchikan Medical Center",
+            "address": "Clinic Entrance, 3100 Tongass Ave 2nd Floor, Ketchikan, AK 99901",
+            "latitude": 55.3536571,
+            "longitude": -131.6866346,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "https://www.peacehealth.org/locations/ketchikan/obstetrics-and-gynecology-peacehealth-ketchikan-medical-center?utm_source=gbp&utm_medium=organic&utm_content=KETC-005&utm_campaign=gmb",
+            "phoneNumber": "(907) 228-7688",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IFO3RhS-p4bkOk5hDxUNdQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=147.51086&pitch=0&thumbfov=100",
+            "cid": "8567391857606640911",
+            "fid": "0x540c25b9616fb0cd:0x76e57d80a437c50f",
+            "placeId": "ChIJzbBvYbklDFQRD8U3pIB95XY"
+        }
+    ],
+    "credits": 3
+}

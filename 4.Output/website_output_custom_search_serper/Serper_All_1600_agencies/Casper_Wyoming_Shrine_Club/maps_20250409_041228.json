@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Casper Wyoming Shrine Club",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8115057,-106.3460278,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Casper Shrine Club",
+            "address": "1501 W 39th St, Casper, WY 82604",
+            "latitude": 42.8117423,
+            "longitude": -106.3459357,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "cid": "3419609718975671379",
+            "fid": "0x8760bb2d55ffee93:0x2f74e4ebea04ac53",
+            "placeId": "ChIJk-7_VS27YIcRU6wE6uvkdC8"
+        },
+        {
+            "position": 2,
+            "title": "Shriners Temple",
+            "address": "1501 W 39th St #1501, Casper, WY 82604",
+            "latitude": 42.811268999999996,
+            "longitude": -106.34612,
+            "rating": 4.8,
+            "ratingCount": 22,
+            "type": "Fraternal organization",
+            "types": [
+                "Fraternal organization"
+            ],
+            "phoneNumber": "(307) 234-6154",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8lVPcq7jzaYz84WucFKkzYNFKqJk86YDoiL1m4ryoBVmP3yAfIZx6S_lFpNY52aqMNedPGUXgDol1qLyPVExFbhmZLHA-ZB9Ge7MppjqCB5YErBLQMUsIuJ6mhoJzh3-5A8Qqe",
+            "cid": "9642242824384599821",
+            "fid": "0x8760bb32a6b767c5:0x85d020c31180d70d",
+            "placeId": "ChIJxWe3pjK7YIcRDdeAEcMg0IU"
+        }
+    ],
+    "credits": 3
+}

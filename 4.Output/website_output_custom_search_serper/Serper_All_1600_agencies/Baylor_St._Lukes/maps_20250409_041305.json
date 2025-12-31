@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Baylor St. Lukes",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.7032809,-95.3974712,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Health - Baylor St. Luke's Medical Center - Houston, TX",
+            "address": "1101 Bates Ave, Houston, TX 77030",
+            "latitude": 29.7076745,
+            "longitude": -95.4004595,
+            "rating": 4.2,
+            "ratingCount": 2316,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/baylor-st-lukes-medical-center",
+            "phoneNumber": "(832) 355-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxR3NLZeD3aQ4GCbHWBHCw9jBJWXEBTu2veLk1",
+            "cid": "15890358944730080748",
+            "fid": "0x8640c073e82154fd:0xdc85e544fe1665ec",
+            "placeId": "ChIJ_VQh6HPAQIYR7GUW_kTlhdw"
+        },
+        {
+            "position": 2,
+            "title": "CHI St. Luke's Health\u2013Baylor St. Luke's Medical Center Emergency Room",
+            "address": "6720 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.7073459,
+            "longitude": -95.40015,
+            "rating": 2.5,
+            "ratingCount": 101,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.chistlukeshealth.org/",
+            "phoneNumber": "(832) 355-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Xm6XBM7bSADBU54CE7vqzbA3OoK9b-yFWqPfkhsDManOvQJJKhzGudm_i8QYazKJK5VLBZ2RVFnV9jCRTl17qMk-m7iUpvcEYRnU04A0xyyBqtp2cuY_Z1JSbk2DVXF3WHnyU9Q",
+            "cid": "8481196057040100444",
+            "fid": "0x8640c073dda4e7b9:0x75b342e0ea519c5c",
+            "placeId": "ChIJueek3XPAQIYRXJxR6uBCs3U"
+        },
+        {
+            "position": 3,
+            "title": "Baylor St. Luke's Medical Center - McNair Campus - Houston, TX",
+            "address": "7200 Cambridge St, Houston, TX 77030",
+            "latitude": 29.698887199999998,
+            "longitude": -95.3944829,
+            "rating": 3.2,
+            "ratingCount": 31,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/baylor-st-lukes-medical-center-mcnair",
+            "phoneNumber": "(832) 354-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNi5qHqFqRBZeroGazbQmWTMWkR_wzw2ZP2iFta",
+            "cid": "3797651824694928739",
+            "fid": "0x8640c14439ce23f1:0x34b3f836b78e2563",
+            "placeId": "ChIJ8SPOOUTBQIYRYyWOtzb4szQ"
+        }
+    ],
+    "credits": 3
+}

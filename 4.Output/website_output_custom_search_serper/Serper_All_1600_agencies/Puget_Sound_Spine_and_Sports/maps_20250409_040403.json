@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Puget Sound Spine and Sports",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6345078,-122.3396029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Puget Sound Spine & Sports Medicine",
+            "address": "1700 Westlake Ave N #400, Seattle, WA 98109",
+            "latitude": 47.634507799999994,
+            "longitude": -122.33960289999999,
+            "type": "Sports medicine physician",
+            "types": [
+                "Sports medicine physician"
+            ],
+            "website": "https://soundspineandsport.com/",
+            "phoneNumber": "(206) 776-2888",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vNzGMz4-OyCC1rCHIZnQMA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=94.76905&pitch=0&thumbfov=100",
+            "cid": "10623637989541791310",
+            "fid": "0x5490158b64263f07:0x936ebe770cfbc64e",
+            "placeId": "ChIJBz8mZIsVkFQRTsb7DHe-bpM"
+        }
+    ],
+    "credits": 3
+}

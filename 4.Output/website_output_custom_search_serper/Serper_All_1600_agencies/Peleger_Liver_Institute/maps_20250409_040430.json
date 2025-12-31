@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Peleger Liver Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0657262,-118.4459555,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Pfleger Liver Institute",
+            "address": "100 UCLA, Medical Plaza #700, Los Angeles, CA 90095",
+            "latitude": 34.0657262,
+            "longitude": -118.4459555,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Hepatologist",
+            "types": [
+                "Hepatologist",
+                "Gastroenterologist",
+                "Surgeon",
+                "Transplant surgeon",
+                "Weight loss service"
+            ],
+            "website": "https://www.uclahealth.org/locations/pfleger-liver-institute?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 794-7788",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/digestive-diseases-gastro-referral-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvrmiv93mtxNmx-jS6RiMapE0lmS_Gr6a69t3R",
+            "cid": "6765331121704182894",
+            "fid": "0x80c2bc88aaf75899:0x5de348cf9912a46e",
+            "placeId": "ChIJmVj3qoi8woARbqQSmc9I410"
+        }
+    ],
+    "credits": 3
+}

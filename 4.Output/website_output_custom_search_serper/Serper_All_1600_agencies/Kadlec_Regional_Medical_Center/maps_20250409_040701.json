@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kadlec Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2809429,-119.2818472,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kadlec Regional Medical Center",
+            "address": "888 Swift Blvd, Richland, WA 99352",
+            "latitude": 46.2809429,
+            "longitude": -119.2818472,
+            "rating": 2.6,
+            "ratingCount": 362,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/kadlec/regional-medical-center?ls=location&y_source=1_OTU3Njc3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 946-4611",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMU18Hii28rRmCU064tUM6ikb4IBbFYJGFK8hOV",
+            "cid": "5536777803791043751",
+            "fid": "0x54987ac705517d93:0x4cd69613d33b8ca7",
+            "placeId": "ChIJk31RBcd6mFQRp4w70xOW1kw"
+        }
+    ],
+    "credits": 3
+}

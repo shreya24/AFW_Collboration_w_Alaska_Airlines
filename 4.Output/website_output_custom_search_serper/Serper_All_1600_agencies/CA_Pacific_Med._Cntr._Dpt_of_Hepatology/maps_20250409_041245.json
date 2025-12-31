@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "CA Pacific Med. Cntr. Dpt of Hepatology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7885689,-122.4269768,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Liver Disease Management and Transplant: California Pacific Medical Center",
+            "address": "2340 Clay St 3rd floor, San Francisco, CA 94115",
+            "latitude": 37.791198,
+            "longitude": -122.43176799999999,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/services/liver",
+            "phoneNumber": "(415) 600-1001",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R7UmQNp6yJeEbQoMmLVdWw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=354.1085&pitch=0&thumbfov=100",
+            "cid": "8690860899975426918",
+            "fid": "0x808580c6922296b3:0x789c23f13f5df366",
+            "placeId": "ChIJs5YiksaAhYARZvNdP_EjnHg"
+        },
+        {
+            "position": 2,
+            "title": "Interventional Endoscopy Ctr: California Pacific Medical Center: Pacific Campus",
+            "address": "1101 Van Ness Ave, San Francisco, CA 94109",
+            "latitude": 37.7859397,
+            "longitude": -122.42218559999999,
+            "rating": 4.9,
+            "ratingCount": 12,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical Center"
+            ],
+            "website": "http://www.cpmc.org/advanced/endoscopy/",
+            "phoneNumber": "(415) 600-1151",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uZhXmPVWgDuBHmXA10KGtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=356.7979&pitch=0&thumbfov=100",
+            "cid": "10137512196463933337",
+            "fid": "0x808580c6603572ab:0x8cafada1c06c3799",
+            "placeId": "ChIJq3I1YMaAhYARmTdswKGtr4w"
+        }
+    ],
+    "credits": 3
+}

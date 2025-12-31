@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "swedish pediatric specialty care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5727184,-122.1730817,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Pediatric Specialty Care - Seattle",
+            "address": "1101 Madison St # 800, Seattle, WA 98104",
+            "latitude": 47.6091997,
+            "longitude": -122.3241094,
+            "rating": 3.4,
+            "ratingCount": 15,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/pediatric-specialty-care-seattle?Is=location&y_source=1_OTU3Njc4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 215-2700",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkEtl274cAHRnY7fLB25Um5Z2YUIuxJ-578KfW",
+            "cid": "1150713325903413853",
+            "fid": "0x54906ac9dd353b65:0xff827ac54c8025d",
+            "placeId": "ChIJZTs13clqkFQRXQLIVKwn-A8"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Pediatric Specialty Care - Issaquah",
+            "address": "751 NE Blakely Dr 5th Floor, Issaquah, WA 98029",
+            "latitude": 47.536237,
+            "longitude": -122.02205389999999,
+            "rating": 2.7,
+            "ratingCount": 7,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/issaquah-campus/pediatric-specialty-care?Is=location&y_source=1_OTU3NjU5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 313-7088",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_JnVBvqhiAJ5KY4QyqQ65nIV5qqMWtCoe1QhA",
+            "cid": "7243527030826574414",
+            "fid": "0x549065629eb6ca31:0x64862d74e95ba24e",
+            "placeId": "ChIJMcq2nmJlkFQRTqJb6XQthmQ"
+        }
+    ],
+    "credits": 3
+}

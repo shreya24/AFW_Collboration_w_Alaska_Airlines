@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Barbra David Center for Childhood Diabetes",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7440305,-104.8383611,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barbara Davis Center for Childhood Diabetes - Anschutz",
+            "address": "1775 Aurora Ct # A140, Aurora, CO 80045",
+            "latitude": 39.7440305,
+            "longitude": -104.8383611,
+            "rating": 3.5,
+            "ratingCount": 57,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center"
+            ],
+            "website": "https://www.cumedicine.us/locations/cu-medicine-nephrology-longmont",
+            "phoneNumber": "(303) 724-2323",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1cJVyCCiPMsfSc6I9_24kifq3HDCLAf7h7PrN",
+            "cid": "14040684325016332613",
+            "fid": "0x876c634ec46162bf:0xc2da8800bbfe6945",
+            "placeId": "ChIJv2JhxE5jbIcRRWn-uwCI2sI"
+        }
+    ],
+    "credits": 3
+}

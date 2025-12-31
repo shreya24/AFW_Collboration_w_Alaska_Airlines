@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Marjaree Mason Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.5970641,-119.4517894,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marjaree Mason Center (Reedley)",
+            "address": "1015 G St, Reedley, CA 93654",
+            "latitude": 36.5970641,
+            "longitude": -119.4517894,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center"
+            ],
+            "website": "http://mmcenter.org/",
+            "phoneNumber": "(559) 237-4706",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMjOFillB6_PMSrfOn74D71AlsMwukuI9cCEfAo",
+            "cid": "16712076498823294643",
+            "fid": "0x8094e3768813db09:0xe7ed390803842eb3",
+            "placeId": "ChIJCdsTiHbjlIARsy6EAwg57ec"
+        }
+    ],
+    "credits": 3
+}

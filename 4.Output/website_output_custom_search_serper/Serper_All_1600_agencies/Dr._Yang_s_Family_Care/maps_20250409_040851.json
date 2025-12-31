@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Dr. Yang's Family Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8153953,-116.9972011,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Yang's Family Care",
+            "address": "10201 Mission Gorge Rd # L, Santee, CA 92071",
+            "latitude": 32.838394199999996,
+            "longitude": -116.97591209999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(619) 596-4963",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Br7nvgVOmY7wIcGSAjQ9MA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=124.98464&pitch=0&thumbfov=100",
+            "cid": "13231921490631885785",
+            "fid": "0x80d9580665cdcd55:0xb7a13a7d70f883d9",
+            "placeId": "ChIJVc3NZQZY2YAR2YP4cH06obc"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Yang's Family Care",
+            "address": "6280 Jackson Dr, San Diego, CA 92119",
+            "latitude": 32.792396499999995,
+            "longitude": -117.01849019999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(931) 492-6467",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IcqZFBp2Dly_yF7kQ4vnxA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=8.711397&pitch=0&thumbfov=100",
+            "cid": "9579647039920193172",
+            "fid": "0x80d957a64d3aaaab:0x84f1be3a4810be94",
+            "placeId": "ChIJq6o6TaZX2YARlL4QSDq-8YQ"
+        }
+    ],
+    "credits": 3
+}

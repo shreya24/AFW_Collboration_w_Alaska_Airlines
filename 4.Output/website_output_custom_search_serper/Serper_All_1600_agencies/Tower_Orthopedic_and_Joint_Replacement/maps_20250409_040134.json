@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Tower Orthopedic and Joint Replacement",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1828986,-149.8356909,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Stephen Tower, Tower Orthopedic and Joint Replacement",
+            "address": "2401 E 42nd Ave #101, Anchorage, AK 99508",
+            "latitude": 61.182898599999994,
+            "longitude": -149.8356909,
+            "rating": 4.6,
+            "ratingCount": 8,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "http://www.towerorthopedic.com/",
+            "phoneNumber": "(907) 222-2924",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYnOakQsjBP_Zji_F0orng&cb_client=search.gws-prod.gps&w=360&h=120&yaw=322.67496&pitch=0&thumbfov=100",
+            "cid": "15203315816112159283",
+            "fid": "0x56c897a63460c8cb:0xd2fd072f23717a33",
+            "placeId": "ChIJy8hgNKaXyFYRM3pxIy8H_dI"
+        }
+    ],
+    "credits": 3
+}

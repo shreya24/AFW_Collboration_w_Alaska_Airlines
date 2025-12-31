@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Cherish Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3426968,-131.6442376,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cherish Health Clinic",
+            "address": "320 Bawden St Suite 313, Ketchikan, AK 99901",
+            "latitude": 55.3426968,
+            "longitude": -131.6442376,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 220-9982",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KbkIOGUBsw8DrVPWZcYBxw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=91.221375&pitch=0&thumbfov=100",
+            "cid": "11413685540747982377",
+            "fid": "0x540c250412df9cfb:0x9e658e86ea4bb629",
+            "placeId": "ChIJ-5zfEgQlDFQRKbZL6oaOZZ4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Soluna Health, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6566794,-117.4219411,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Soluna Health Inc",
+            "address": "111 2nd St, Sausalito, CA 94965",
+            "latitude": 37.8486318,
+            "longitude": -122.48096919999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.solunahealth.com/",
+            "phoneNumber": "(415) 332-2600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hv12ptsRP623uXzUGfX27Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=281.4447&pitch=0&thumbfov=100",
+            "cid": "15312944739003781776",
+            "fid": "0x8085844800f598b7:0xd482821bd181d290",
+            "placeId": "ChIJt5j1AEiEhYARkNKB0RuCgtQ"
+        },
+        {
+            "position": 2,
+            "title": "Soluna Holistic Healthcare, Inc. Sarah Larson, Nurse Practitioner",
+            "address": "14122 W McDowell Rd Ste102B, Goodyear, AZ 85395",
+            "latitude": 33.464726999999996,
+            "longitude": -112.36291299999999,
+            "rating": 4.8,
+            "ratingCount": 51,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.solunahealthcare.com/",
+            "phoneNumber": "(623) 236-8720",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnpkXfo3sTnRHNPaZHfM0UUh4ManbUPVIUiixv",
+            "cid": "16801588326087563859",
+            "fid": "0x872b3899faa3c767:0xe92b3b905ecc9a53",
+            "placeId": "ChIJZ8ej-pk4K4cRU5rMXpA7K-k"
+        }
+    ],
+    "credits": 3
+}

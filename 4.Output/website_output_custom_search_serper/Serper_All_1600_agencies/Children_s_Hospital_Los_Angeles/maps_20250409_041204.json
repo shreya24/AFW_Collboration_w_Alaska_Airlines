@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Los Angeles",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0975778,-118.2910878,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Los Angeles",
+            "address": "4650 W Sunset Blvd, Los Angeles, CA 90027",
+            "latitude": 34.097577799999996,
+            "longitude": -118.2910878,
+            "rating": 3.8,
+            "ratingCount": 1347,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital"
+            ],
+            "website": "https://www.chla.org/",
+            "phoneNumber": "(323) 660-2450",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiZPH-z_QB9a2FnHUwfrl5A6SSAIpRyUoVaf1c",
+            "cid": "2526873176661460626",
+            "fid": "0x80c2c0ad3063a419:0x231141c4275e8692",
+            "placeId": "ChIJGaRjMK3AwoARkoZeJ8RBESM"
+        }
+    ],
+    "credits": 3
+}

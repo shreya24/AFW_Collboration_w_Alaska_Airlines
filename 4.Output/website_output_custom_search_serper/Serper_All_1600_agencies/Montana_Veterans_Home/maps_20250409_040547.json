@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Montana Veterans Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3589311,-114.2097748,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montana Veterans Home",
+            "address": "400 Veteran Dr, Columbia Falls, MT 59912",
+            "latitude": 48.3589311,
+            "longitude": -114.20977479999999,
+            "rating": 4.4,
+            "ratingCount": 9,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://mt.gov/",
+            "phoneNumber": "(406) 892-3256",
+            "cid": "4574466951129755003",
+            "fid": "0x53664170d5ce87d7:0x3f7bc5749ada6d7b",
+            "placeId": "ChIJ14fO1XBBZlMRe23amnTFez8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "UCSF Benioff Children's Hospital - Oakland Outpatient",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8181428,-122.2737301,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oakland Pediatric Outpatient Center | UCSF Benioff Children's Hospital Oakland",
+            "address": "744 52nd St, Oakland, CA 94609",
+            "latitude": 37.8376322,
+            "longitude": -122.26775939999999,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.ucsfbenioffchildrens.org/locations/oakland-outpatient-center",
+            "phoneNumber": "(510) 428-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOE3jICZJuoB9JQ6ObAw6RRCZhwMYgi4m4u2KsU",
+            "cid": "14710996397486094220",
+            "fid": "0x80857e0ad08c4db7:0xcc27f5480435b78c",
+            "placeId": "ChIJt02M0Ap-hYARjLc1BEj1J8w"
+        },
+        {
+            "position": 2,
+            "title": "UCSF Benioff Children's Hospital - Oakland",
+            "address": "747 52nd St, Oakland, CA 94609",
+            "latitude": 37.8371901,
+            "longitude": -122.2670282,
+            "rating": 4.1,
+            "ratingCount": 614,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.ucsfbenioffchildrens.org/?utm_source=GMBSocialClimb&utm_medium=UCSFBenioffChildren'sHospital-Oakland",
+            "phoneNumber": "(510) 428-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNFF-ZyRIPtl2hdQVS3jTVrXM3Y_rZQLQlW03e",
+            "cid": "3977740232343904016",
+            "fid": "0x80857e0ac10ba31f:0x3733c5aa95a35f10",
+            "placeId": "ChIJH6MLwQp-hYAREF-jlarFMzc"
+        },
+        {
+            "position": 3,
+            "title": "Third Street Outpatient Clinic: UCSF Benioff Children's Hospital Oakland",
+            "address": "638 3rd St, Oakland, CA 94607",
+            "latitude": 37.7986533,
+            "longitude": -122.28043199999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(510) 428-3407",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8KLhFOwPbtbLlyrDCqWb7OkD-SyhnqrCuDSf00WPbWs3YdlPJUjYq9Za_UNFlqcNgjNvhlzUavGjjSNeBLsRt3sKgCUTIt9qYiSkTZzI9mqmcan2wUjG5dYiQfPtddj67wlcUB",
+            "cid": "5122887933174442139",
+            "fid": "0x808f80b9107ed401:0x4718276ed8ff689b",
+            "placeId": "ChIJAdR-ELmAj4ARm2j_2G4nGEc"
+        }
+    ],
+    "credits": 3
+}

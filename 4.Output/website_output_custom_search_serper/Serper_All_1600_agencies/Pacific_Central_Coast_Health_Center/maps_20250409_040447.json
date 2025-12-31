@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Pacific Central Coast Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2858547,-120.6528457,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific Central Coast Health Center",
+            "address": "1555 Higuera St, San Luis Obispo, CA 93401",
+            "latitude": 35.2858547,
+            "longitude": -120.6528457,
+            "rating": 1.6,
+            "ratingCount": 8,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre"
+            ],
+            "website": "https://www.dignityhealth.org/central-coast/medical-group/phc",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1jd60-vDOKYEqeh-g6nESg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=270.32736&pitch=0&thumbfov=100",
+            "cid": "13366389189854237433",
+            "fid": "0x80ecf108c02fb0f9:0xb97ef42666e212f9",
+            "placeId": "ChIJ-bAvwAjx7IAR-RLiZib0frk"
+        }
+    ],
+    "credits": 3
+}

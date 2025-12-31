@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Show Low Veterans Affairs Health Care Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2030783,-110.0214423,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Show Low VA Clinic",
+            "address": "5171 Cub Lake Rd, Show Low, AZ 85901",
+            "latitude": 34.2030783,
+            "longitude": -110.02144229999999,
+            "rating": 3.5,
+            "ratingCount": 28,
+            "type": "Veterans center",
+            "types": [
+                "Veterans center",
+                "Medical clinic"
+            ],
+            "website": "http://www.phoenix.va.gov/",
+            "phoneNumber": "(928) 532-1069",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB88q61EOtrQIZG1cjIgd0bB6VH3sKb7zxrUME7P_9KIOlFqDN3IxbMDwgGrAQ-4EcPum9UwkoDRfvzmGsZEHgavAfQIk2malyO_pNlLZoWQ24HPrtfbTpK4-tKd1S6DcDS9Ibw",
+            "cid": "14760298793763377231",
+            "fid": "0x8728cb0d3368ac93:0xccd71d8cace4904f",
+            "placeId": "ChIJk6xoMw3LKIcRT5DkrIwd18w"
+        }
+    ],
+    "credits": 3
+}

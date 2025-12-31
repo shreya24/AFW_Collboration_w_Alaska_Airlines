@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Indiana University Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7749987,-86.1778125,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Indiana University Melvin and Bren Simon Comprehensive Cancer Center",
+            "address": "535 Barnhill Dr, Indianapolis, IN 46202",
+            "latitude": 39.7750349,
+            "longitude": -86.1777839,
+            "rating": 4.2,
+            "ratingCount": 57,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.cancer.iu.edu/",
+            "phoneNumber": "(888) 600-4822",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDnQnbAsFsOCTSb-wVrdskYzcH7SiRf3RLuICt",
+            "cid": "1639840337232834905",
+            "fid": "0x886b57359b3441e9:0x16c1e219351eb159",
+            "placeId": "ChIJ6UE0mzVXa4gRWbEeNRniwRY"
+        },
+        {
+            "position": 2,
+            "title": "IU Health Simon Cancer Center",
+            "address": "1030 W Michigan St, Indianapolis, IN 46202",
+            "latitude": 39.7749624,
+            "longitude": -86.1778411,
+            "rating": 3.3,
+            "ratingCount": 39,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://iuhealth.org/find-locations/iu-health-simon-cancer-center?utm_source=Google&utm_medium=Yext&y_source=1_MTE5NDI0MjAtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(888) 600-4822",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOV_Q4Ak0YlIjvGvUKoFRIA6flh6xgv15zooxiR",
+            "cid": "18267869652618991598",
+            "fid": "0x886b57546f3c99a9:0xfd8482a9677e57ee",
+            "placeId": "ChIJqZk8b1RXa4gR7ld-Z6mChP0"
+        }
+    ],
+    "credits": 3
+}

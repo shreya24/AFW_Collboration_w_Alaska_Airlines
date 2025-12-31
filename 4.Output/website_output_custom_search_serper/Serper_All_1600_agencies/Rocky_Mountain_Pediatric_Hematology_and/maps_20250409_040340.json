@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mountain Pediatric Hematology and",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7476302,-104.9652172,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HCA HealthONE Rocky Mountain Pediatric Hematology Oncology - Denver",
+            "address": "2055 High St #340, Denver, CO 80205",
+            "latitude": 39.747630199999996,
+            "longitude": -104.9652172,
+            "rating": 4.9,
+            "ratingCount": 42,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://www.healthonephysiciangroup.com/locations/rocky-mountain-pediatric-hematology-oncology/denver?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(303) 832-2344",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.healthonephysiciangroup.com/locations/rocky-mountain-pediatric-hematology-oncology/physicians"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_axb1cKBhJmwY5CJB3-OYg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=3.450633&pitch=0&thumbfov=100",
+            "cid": "15010740775923135350",
+            "fid": "0x876c79365c2348bd:0xd050dd34945eb376",
+            "placeId": "ChIJvUgjXDZ5bIcRdrNelDTdUNA"
+        }
+    ],
+    "credits": 3
+}

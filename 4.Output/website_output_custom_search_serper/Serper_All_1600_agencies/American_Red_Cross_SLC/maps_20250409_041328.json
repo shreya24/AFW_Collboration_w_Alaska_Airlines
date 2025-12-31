@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "American Red Cross SLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6970313,-111.8710895,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Red Cross",
+            "address": "6616 900 E, Salt Lake City, UT 84121",
+            "latitude": 40.630846999999996,
+            "longitude": -111.8673207,
+            "rating": 4.1,
+            "ratingCount": 181,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity",
+                "Volunteer organization"
+            ],
+            "website": "https://www.redcross.org/local/utah/about-us.html?CID=organic_gmb_listings",
+            "phoneNumber": "(801) 892-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMyL6WQe1IdItWXMJBqtyDo8N2-Xlsglrc5SnV",
+            "cid": "7664813426328309547",
+            "fid": "0x875289d06b4f9df7:0x6a5ee33389f18f2b",
+            "placeId": "ChIJ951Pa9CJUocRK4_xiTPjXmo"
+        },
+        {
+            "position": 2,
+            "title": "American Red Cross",
+            "address": "555 E 300 S, Salt Lake City, UT 84102",
+            "latitude": 40.763215699999996,
+            "longitude": -111.8748583,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://redcross.org/",
+            "phoneNumber": "(801) 323-7000",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_0juWH1UL0NL60h7CmjPZjnIbSoaGdSaj_xrM5rWqEpnSThd162bQX75SX3StOPEVv73dyaua4WAJ72cP3mTBM2-hjxSKz98R4HsKqcSTQAybZK4l-dlOLLZ0evIDE9OtND1JbIQ",
+            "cid": "7206541976869830703",
+            "fid": "0x8752f56e8207062b:0x6402c7befe44802f",
+            "placeId": "ChIJKwYHgm71UocRL4BE_r7HAmQ"
+        }
+    ],
+    "credits": 3
+}

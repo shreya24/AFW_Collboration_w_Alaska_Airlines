@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Huckleberry Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4999143,-111.2526125,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Huckleberry Healthcare",
+            "address": "3125 5th Ave S, Great Falls, MT 59405",
+            "latitude": 47.4999143,
+            "longitude": -111.2526125,
+            "rating": 4.2,
+            "ratingCount": 19,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(406) 315-3503",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqTINq6GVL5GsC-5FnFEjX3Bln_gvMFVRd2KLL",
+            "cid": "7542834471652705",
+            "fid": "0x534237a6d1b258e1:0x1acc2b01484d61",
+            "placeId": "ChIJ4Viy0aY3QlMRYU1IASvMGgA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Total Life Change Treatment Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1116547,-115.8002051,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "TLC Treatment Center",
+            "address": "32 S MacDonald, Mesa, AZ 85210",
+            "latitude": 33.4140649,
+            "longitude": -111.83441669999999,
+            "rating": 4.5,
+            "ratingCount": 22,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Psychiatrist"
+            ],
+            "website": "https://www.tlctreatmentcenter.org/",
+            "phoneNumber": "(480) 969-1471",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "7\u202fAM\u20135\u202fPM",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZEPmLzpTtSPCTSQVVFxuzvz33NvFwHUY8gaom",
+            "cid": "12132161750301700508",
+            "fid": "0x872ba7e811fbe03b:0xa85e18d53c50719c",
+            "placeId": "ChIJO-D7EeinK4cRnHFQPNUYXqg"
+        },
+        {
+            "position": 2,
+            "title": "TLC (Total Life Change)",
+            "address": "1300 E Shaw Ave #121, Fresno, CA 93710",
+            "latitude": 36.8092445,
+            "longitude": -119.7659935,
+            "rating": 5,
+            "ratingCount": 17,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Counselor",
+                "Life coach",
+                "Non-profit organization"
+            ],
+            "website": "http://www.totallifechange.org/",
+            "phoneNumber": "(559) 272-4065",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNiKHTP6kqM_DKbxKqmbYYiEGGqI_dyHNK-SoVM",
+            "cid": "12919804799735834325",
+            "fid": "0x80945d72d45f9cf9:0xb34c5e0367a426d5",
+            "placeId": "ChIJ-Zxf1HJdlIAR1SakZwNeTLM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Six Rivers Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9462182,-123.6361457,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Six Rivers Medical Center",
+            "address": "850 CA-96, Willow Creek, CA 95573",
+            "latitude": 40.9462182,
+            "longitude": -123.6361457,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(530) 629-3116",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-K5_jIqil-RmU5sdWP4sreXDhX9NFx8W3lrvKQHZZjWtCcNVyUXIxQPSStV325bb6VC_aLJvm2jQ6w1w8OwQwq9Mxv91dHbVFt2V3xnGXh2_I9vggV7dkzdzUZkD4OQgBMFU8u",
+            "cid": "14479705433591793982",
+            "fid": "0x54d17d51039df911:0xc8f23f600588493e",
+            "placeId": "ChIJEfmdA1F90VQRPkmIBWA_8sg"
+        }
+    ],
+    "credits": 3
+}

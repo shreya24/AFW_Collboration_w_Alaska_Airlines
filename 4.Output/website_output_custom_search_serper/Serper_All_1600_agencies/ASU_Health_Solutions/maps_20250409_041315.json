@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "ASU Health Solutions",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4542069,-112.0701235,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ASU College of Health Solutions",
+            "address": "Health North Building, 550 N 3rd St Suite 501, Phoenix, AZ 85004",
+            "latitude": 33.454206899999996,
+            "longitude": -112.0701235,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Academic department",
+            "types": [
+                "Academic department"
+            ],
+            "website": "https://chs.asu.edu/",
+            "phoneNumber": "(602) 496-3300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOA59Gs2pxLpXh8z5tCBdPePfc5Xt7W7ZHtcPqm",
+            "cid": "6704133543647942974",
+            "fid": "0x872b12186b58dc49:0x5d09ddf01bea993e",
+            "placeId": "ChIJSdxYaxgSK4cRPpnqG_DdCV0"
+        }
+    ],
+    "credits": 3
+}

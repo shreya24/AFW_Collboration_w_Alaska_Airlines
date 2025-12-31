@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "UCSF Dental Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.76194,-122.4609508,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Dental Center",
+            "address": "707 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7618746,
+            "longitude": -122.46110739999999,
+            "rating": 2.5,
+            "ratingCount": 146,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "http://www.ucsfdentalcenter.org/",
+            "phoneNumber": "(415) 502-5800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgx62s8VpYdgNOgLDvpmVrYD64mJ247iySzmAK",
+            "cid": "8566590786709892275",
+            "fid": "0x80858759d9647de7:0x76e2a4eec9fa2cb3",
+            "placeId": "ChIJ531k2VmHhYARsyz6ye6k4nY"
+        },
+        {
+            "position": 2,
+            "title": "UCSF School of Dentistry",
+            "address": "707 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7620654,
+            "longitude": -122.4610907,
+            "rating": 4.3,
+            "ratingCount": 59,
+            "type": "Dental school",
+            "types": [
+                "Dental school"
+            ],
+            "website": "http://dentistry.ucsf.edu/",
+            "phoneNumber": "(415) 502-5800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-UUjb4igLdOEQugHg23VIALk1KBDNeNLzaZfDJJ90v68pcamOFlkYq-8Mji49pB2rpXA5Wwv7fUL8_O4fNetlkydOEm3SuE6oN2Fme1lJMsoEZVUb7vPCADaiWJC2Q6hHAmdNeng",
+            "cid": "2753671657288904007",
+            "fid": "0x808f7e4a6131d2d1:0x263701c860c42d47",
+            "placeId": "ChIJ0dIxYUp-j4ARRy3EYMgBNyY"
+        },
+        {
+            "position": 3,
+            "title": "UCSF Dental Center Oral Medicine Clinic",
+            "address": "707 Parnassus Ave, San Francisco, CA 94122",
+            "latitude": 37.7618146,
+            "longitude": -122.4607942,
+            "rating": 2,
+            "ratingCount": 8,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/sol-silverman-oral-medicine-clinic",
+            "phoneNumber": "(415) 476-2045",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l8Q2EmTPZqaqLAVFIDChXw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=357.44022&pitch=0&thumbfov=100",
+            "cid": "15347912543015877394",
+            "fid": "0x80858759d90d43f3:0xd4febd2422393b12",
+            "placeId": "ChIJ80MN2VmHhYAREjs5IiS9_tQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Marias Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.5099669,-111.8490223,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marias Medical Center",
+            "address": "670 W Park Dr, Shelby, MT 59474",
+            "latitude": 48.509966899999995,
+            "longitude": -111.8490223,
+            "rating": 3.6,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://mariashealth.org/",
+            "phoneNumber": "(406) 434-3100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1qCBBuC2xX1xfgaCdHBgUngmSNRSayyLoyW2X",
+            "cid": "9460083166234670323",
+            "fid": "0x53698338abdc778b:0x8348f7849d11f4f3",
+            "placeId": "ChIJi3fcqziDaVMR8_QRnYT3SIM"
+        }
+    ],
+    "credits": 3
+}

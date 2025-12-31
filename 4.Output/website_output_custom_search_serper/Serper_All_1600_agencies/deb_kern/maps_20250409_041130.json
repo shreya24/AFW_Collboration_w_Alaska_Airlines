@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "deb kern",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.2328259,-97.8029149,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Deb Kern",
+            "address": "Bldg 200, 4544 S Lamar Blvd, Austin, TX 78745",
+            "latitude": 30.232825899999998,
+            "longitude": -97.80291489999999,
+            "type": "Life coach",
+            "types": [
+                "Life coach"
+            ],
+            "website": "http://drdebkern.com/",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=edvPHIGAVXQVbof3Ki6feQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=150.1705&pitch=0&thumbfov=100",
+            "cid": "7137865315434326219",
+            "fid": "0x865b4b3c22c3fc75:0x630ecaafb50b68cb",
+            "placeId": "ChIJdfzDIjxLW4YRy2gLta_KDmM"
+        }
+    ],
+    "credits": 3
+}

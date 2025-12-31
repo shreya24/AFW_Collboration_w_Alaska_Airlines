@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "Blue Mountain Orthopedics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4905384,-96.7465446,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mountain Valley Orthopedics",
+            "address": "120 Burrus Blvd Suite 120, Brodheadsville, PA 18322",
+            "latitude": 40.9259487,
+            "longitude": -75.3840637,
+            "rating": 4.5,
+            "ratingCount": 157,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Doctor",
+                "Medical office",
+                "Sports medicine clinic",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.mountainvalleyortho.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+            "phoneNumber": "(570) 421-7020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mountainvalleyortho.com/patient-appointment?utm_source=google&utm_medium=organic&utm_campaign=gmbappointment-brodheadsville"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcpV5VL6BlOiC1beetP5P6BAtwCqmBhPBf1o--",
+            "cid": "17333808272605531888",
+            "fid": "0x89c45e5e3a57d657:0xf08e0ec915614ef0",
+            "placeId": "ChIJV9ZXOl5exIkR8E5hFckOjvA"
+        },
+        {
+            "position": 2,
+            "title": "Mountain Valley Orthopedics",
+            "address": "600 Plaza Ct C, East Stroudsburg, PA 18301",
+            "latitude": 41.0045681,
+            "longitude": -75.1620305,
+            "rating": 4.5,
+            "ratingCount": 546,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Medical office",
+                "MRI center",
+                "Physical therapy clinic",
+                "Sports medicine clinic",
+                "Sports medicine physician",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.mountainvalleyortho.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+            "phoneNumber": "(570) 421-7020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mountainvalleyortho.com/patient-appointment?utm_source=google&utm_medium=organic&utm_campaign=gmbappointment-eaststroudsburg"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN45-pY4alffzEIQSsJsxAb7qYCt-tzl9LyLBmw",
+            "cid": "2770634254764678634",
+            "fid": "0x89c48884c9dd08fb:0x2673452cddc71dea",
+            "placeId": "ChIJ-wjdyYSIxIkR6h3H3SxFcyY"
+        },
+        {
+            "position": 3,
+            "title": "Blue Mountain Orthopaedics",
+            "address": "1017 S 2nd Ave #1, Walla Walla, WA 99362",
+            "latitude": 46.055127999999996,
+            "longitude": -118.3310587,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "phoneNumber": "(509) 525-4900",
+            "cid": "6221051629268560004",
+            "fid": "0x54a241d6544e3843:0x56559d7f0beae884",
+            "placeId": "ChIJQzhOVNZBolQRhOjqC3-dVVY"
+        }
+    ],
+    "credits": 3
+}

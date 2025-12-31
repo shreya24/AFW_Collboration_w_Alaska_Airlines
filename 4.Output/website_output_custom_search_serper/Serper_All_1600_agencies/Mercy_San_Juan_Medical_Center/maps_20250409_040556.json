@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Mercy San Juan Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6696173,-121.3140834,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mercy San Juan Medical Center",
+            "address": "6501 Coyle Ave, Carmichael, CA 95608",
+            "latitude": 38.6696173,
+            "longitude": -121.3140834,
+            "rating": 3.9,
+            "ratingCount": 2345,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency room",
+                "General hospital",
+                "Hospital",
+                "Rehabilitation center"
+            ],
+            "website": "https://locations.dignityhealth.org/mercy-san-juan-medical-center",
+            "phoneNumber": "(916) 537-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9lnI8VHYoDGxKPZT4DcEbkubHzrCSQErsiWxv5LqUiKfLcM8d4H29KAWiwdX0JJDLI9Cdk3ns6HKHPtv8dV2xkL_SNdvKYfnoNmJZNwT2U8ea9XzdFEH3kuO4Cuu-eWlc8sY_0",
+            "cid": "323581014851310780",
+            "fid": "0x809adef99dc7b1a9:0x47d9737f645d4bc",
+            "placeId": "ChIJqbHHnfnemoARvNRF9jeXfQQ"
+        }
+    ],
+    "credits": 3
+}

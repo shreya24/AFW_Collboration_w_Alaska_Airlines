@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Loma Linda University Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0492644,-117.2631149,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Loma Linda University Children's Hospital",
+            "address": "11234 Anderson St, Loma Linda, CA 92354",
+            "latitude": 34.0492644,
+            "longitude": -117.26311489999999,
+            "rating": 3.9,
+            "ratingCount": 651,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "General hospital"
+            ],
+            "website": "https://lluch.org/?utm_source=google-local&utm_medium=organic&utm_campaign=yext",
+            "phoneNumber": "(909) 558-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6HIo-5IfS-HiX87_NXymf2rlICcczIuO6imMJ",
+            "cid": "5457929326092902379",
+            "fid": "0x80dcab862f872d17:0x4bbe75ce02f45feb",
+            "placeId": "ChIJFy2HL4ar3IAR61_0As51vks"
+        }
+    ],
+    "credits": 3
+}

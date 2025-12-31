@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Mid South Neurological Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1108742,-89.787779,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mid-South Neurological Clinic",
+            "address": "234 Germantown Bend Cove, Cordova, TN 38018",
+            "latitude": 35.1243441,
+            "longitude": -89.7977463,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(901) 757-4199",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RMqv6dUMH0Mbm7SCCm1Xdw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.06908&pitch=0&thumbfov=100",
+            "cid": "1117949711211388527",
+            "fid": "0x887f9b8a48368831:0xf83c156d5815e6f",
+            "placeId": "ChIJMYg2SIqbf4gRb16B1VbBgw8"
+        },
+        {
+            "position": 2,
+            "title": "Midsouth Neurology: Dick Maroun T MD",
+            "address": "8577 Cordes Cir, Germantown, TN 38139",
+            "latitude": 35.097404399999995,
+            "longitude": -89.7778118,
+            "rating": 4,
+            "ratingCount": 15,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Neurophysiologist"
+            ],
+            "phoneNumber": "(901) 590-0886",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IwxPFS0tmS1k02Kq24nmnw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=270.62973&pitch=0&thumbfov=100",
+            "cid": "14527798685537121279",
+            "fid": "0x887f9bd8ffcd7113:0xc99d1beed3d3b3ff",
+            "placeId": "ChIJE3HN_9ibf4gR_7PT0-4bnck"
+        }
+    ],
+    "credits": 3
+}

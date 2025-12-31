@@ -1,0 +1,120 @@
+{
+    "searchParameters": {
+        "q": "City of Hope Irvine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6557077,-117.7511411,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "City of Hope Sand Canyon",
+            "address": "16300 Sand Canyon Ave # 207, Irvine, CA 92618",
+            "latitude": 33.660478399999995,
+            "longitude": -117.77321459999999,
+            "rating": 2.8,
+            "ratingCount": 9,
+            "type": "Specialized clinic",
+            "types": [
+                "Specialized clinic",
+                "Cancer treatment center",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/irvine-sand-canyon?invsrc=local_search_x_facility_coh_irvine_sand_canyon",
+            "phoneNumber": "(949) 333-7580",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM7Qd6A-NQLLB-23Pp8NY9H87XoR8DaV4J-fOmS",
+            "cid": "5589120895703168801",
+            "fid": "0x80dcddc9f57b475b:0x4d908bd79b19b721",
+            "placeId": "ChIJW0d79cnd3IARIbcZm9eLkE0"
+        },
+        {
+            "position": 2,
+            "title": "City of Hope Orange County",
+            "address": "2000 Fivepoint Suite 230, Irvine, CA 92618",
+            "latitude": 33.650199199999996,
+            "longitude": -117.7290675,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.cityofhope.org/oc",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMHXuxGblz_Dnsz6WG3OLdzQDBxmwUTbwdq7LV",
+            "cid": "6776533808166898452",
+            "fid": "0x80dce9215206d4ef:0x5e0b15984c368b14",
+            "placeId": "ChIJ79QGUiHp3IARFIs2TJgVC14"
+        },
+        {
+            "position": 3,
+            "title": "City of Hope Orange County Lennar Foundation Cancer Center",
+            "address": "1000 Fivepoint, Irvine, CA 92618",
+            "latitude": 33.651559999999996,
+            "longitude": -117.73105729999999,
+            "rating": 4.4,
+            "ratingCount": 28,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Diabetes center",
+                "Medical Center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/orange-county-lennar-foundation-cancer-center?invsrc=local_search_x_facility_oc_orange_county_lennar",
+            "phoneNumber": "(847) 342-6842",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "7:30\u202fAM\u20133\u202fPM",
+                "Sunday": "7:30\u202fAM\u20133\u202fPM",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMorNq4Ta_D5pWunYGjUwVjL8phTuuikEmpRoHE",
+            "cid": "17891778872244113265",
+            "fid": "0x80dce98c070d2309:0xf84c5e16eff30f71",
+            "placeId": "ChIJCSMNB4zp3IARcQ_z7xZeTPg"
+        },
+        {
+            "position": 4,
+            "title": "CITY OF HOPE",
+            "address": "115 Technology Dr, Irvine, CA 92618",
+            "latitude": 33.6612162,
+            "longitude": -117.74498279999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cityofhope.org/locations/orange-county-lennar-foundation-cancer-center",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AYX8V9_fxZ5xKw-_3o4vbg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=60.62076&pitch=0&thumbfov=100",
+            "cid": "9636095027948487950",
+            "fid": "0x80dcdd0059bdee73:0x85ba495faac7050e",
+            "placeId": "ChIJc-69WQDd3IARDgXHql9JuoU"
+        }
+    ],
+    "credits": 3
+}

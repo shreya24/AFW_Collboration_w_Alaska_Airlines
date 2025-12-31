@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "Memorial Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0321027,-118.7858979,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Torrance Memorial Hospice",
+            "address": "3121 Skypark Dr Suite 3126, Torrance, CA 90505",
+            "latitude": 33.809329,
+            "longitude": -118.34233669999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Hospice"
+            ],
+            "website": "https://www.torrancememorial.org/medical-services/hospice/",
+            "phoneNumber": "(310) 784-3751",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIcDKWaEM9A8XjORbpk1iFAefWDp9UDGdUau-e",
+            "cid": "12905364377702304953",
+            "fid": "0x80dd4b1f11f028fb:0xb3191086a5ed0cb9",
+            "placeId": "ChIJ-yjwER9L3YARuQztpYYQGbM"
+        },
+        {
+            "position": 2,
+            "title": "Livingston Memorial Visiting Nurse Association",
+            "address": "1996 Eastman Ave #101, Ventura, CA 93003",
+            "latitude": 34.2548764,
+            "longitude": -119.2294592,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Home health care service"
+            ],
+            "website": "http://lmvna.org/",
+            "phoneNumber": "(805) 642-0239",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlKAqx_ZvQmk_W8Tb4qNEg54M_ETfd9ci-Gl_a",
+            "cid": "5885838369878969658",
+            "fid": "0x80e84d5832f267c5:0x51aeb2d01a000d3a",
+            "placeId": "ChIJxWfyMlhN6IAROg0AGtCyrlE"
+        },
+        {
+            "position": 3,
+            "title": "Torrance Memorial Palliative Care",
+            "address": "3330 Lomita Blvd, Torrance, CA 90505",
+            "latitude": 33.811894599999995,
+            "longitude": -118.34354669999999,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.torrancememorial.org/medical-services/palliative/",
+            "phoneNumber": "(310) 784-4880",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBMTVhLZM1Ac1GBnK3j6oHENl0hb4eCeTasMNZ",
+            "cid": "12219488347554486737",
+            "fid": "0x80dd4b19553172ed:0xa99457e9150299d1",
+            "placeId": "ChIJ7XIxVRlL3YAR0ZkCFelXlKk"
+        }
+    ],
+    "credits": 3
+}

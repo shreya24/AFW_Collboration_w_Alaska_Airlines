@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Office of Homeless Solutions",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7762816,-96.7973669,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dallas Homeless Services Department",
+            "address": "1500 Marilla St, Dallas, TX 75201",
+            "latitude": 32.7762816,
+            "longitude": -96.7973669,
+            "rating": 2,
+            "ratingCount": 2,
+            "type": "City government office",
+            "types": [
+                "City government office"
+            ],
+            "phoneNumber": "(214) 670-4838",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t5ZgezsboTBmvPptUKLS_w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=283.64114&pitch=0&thumbfov=100",
+            "cid": "17670059848181224112",
+            "fid": "0x864e991eaadd9a31:0xf538a9cfdabc12b0",
+            "placeId": "ChIJMZrdqh6ZToYRsBK82s-pOPU"
+        }
+    ],
+    "credits": 3
+}

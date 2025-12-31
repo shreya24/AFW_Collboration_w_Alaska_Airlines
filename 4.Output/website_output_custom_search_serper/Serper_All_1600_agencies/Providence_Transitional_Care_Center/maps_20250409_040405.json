@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Providence Transitional Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5259085,-134.0682082,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Transitional Care Center",
+            "address": "4320 Maricopa St, Torrance, CA 90503",
+            "latitude": 33.839402,
+            "longitude": -118.359586,
+            "rating": 3.5,
+            "ratingCount": 40,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/socal/plcm-torrance/transitional-care-center?Is=location&y_source=1_OTU3NjAxOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(310) 303-5900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8bibIUcHCVmysb5UcUsY1BHQ7JxYkhpD27tI8Qrv05p__Ig7Rb03eprRQy8pqPBBL3dKDo-L_njLMlktAkDRmO9QS_eYqPC53JWcLMw1bCLNl5LxYy6oTPurpIVcaL0j_955g8",
+            "cid": "17164044196991952438",
+            "fid": "0x80c2b4cdd8aca489:0xee32ef4216cf6636",
+            "placeId": "ChIJiaSs2M20woARNmbPFkLvMu4"
+        },
+        {
+            "position": 2,
+            "title": "Providence Transitional Care Center",
+            "address": "910 Compassion Cir, Anchorage, AK 99504",
+            "latitude": 61.212415099999994,
+            "longitude": -149.7768304,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/transitional-care-center?ls=location&y_source=1_OTU3NTcwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(907) 212-9100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "9:30\u202fAM\u20139\u202fPM",
+                "Sunday": "9:30\u202fAM\u20139\u202fPM",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_GPeOihldwke2dFO-nyiq7HCE1XbwVUyR7L-oVT1btUz4Bbx9q431O92ObE6wnYSwldtlNyywx75ISnde_HH6oKEQ0nS2HzbAeQt8dcK00tj3oYfyfoAWSZvTtwUHbxvedMt9G",
+            "cid": "13450598067186423778",
+            "fid": "0x56c8968c1062e4a7:0xbaaa1fad8333d7e2",
+            "placeId": "ChIJp-RiEIyWyFYR4tczg60fqro"
+        }
+    ],
+    "credits": 3
+}

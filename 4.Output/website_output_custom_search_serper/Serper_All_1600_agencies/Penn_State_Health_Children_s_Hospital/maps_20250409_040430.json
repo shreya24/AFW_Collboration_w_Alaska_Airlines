@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Penn State Health Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.2639652,-76.6739177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Penn State Health Children's Hospital",
+            "address": "600 University Dr, Hershey, PA 17033",
+            "latitude": 40.2639652,
+            "longitude": -76.67391769999999,
+            "rating": 4,
+            "ratingCount": 94,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cardiovascular and thoracic surgeon",
+                "Hospice",
+                "Nurse practitioner",
+                "Oncologist",
+                "Physician assistant",
+                "Physical therapy clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.pennstatehealth.org/locations/penn-state-health-childrens-hospital?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(800) 243-1455",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.pennstatehealth.org/locations/penn-state-health-childrens-hospital?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxm9vr50hj6QcxXV2_o9eUUYihGQtaHc6WS66H",
+            "cid": "11856491864835449401",
+            "fid": "0x89c8bc9d2d03853b:0xa48ab8885dd36239",
+            "placeId": "ChIJO4UDLZ28yIkROWLTXYi4iqQ"
+        }
+    ],
+    "credits": 3
+}

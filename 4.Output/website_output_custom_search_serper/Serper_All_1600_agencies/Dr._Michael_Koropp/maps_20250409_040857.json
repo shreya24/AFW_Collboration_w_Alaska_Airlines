@@ -1,0 +1,105 @@
+{
+    "searchParameters": {
+        "q": "Dr. Michael Koropp",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7061621,-122.3890969,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Knecht Orthodontics - Mont Belvieu",
+            "address": "9115 Eagle Dr Suite 300, Mont Belvieu, TX 77523",
+            "latitude": 29.828201399999998,
+            "longitude": -94.8481967,
+            "rating": 5,
+            "ratingCount": 175,
+            "type": "Orthodontist",
+            "types": [
+                "Orthodontist",
+                "Cosmetic dentist",
+                "Dental clinic",
+                "Dentist",
+                "Oral surgeon"
+            ],
+            "website": "https://knechtorthodontics.com/",
+            "phoneNumber": "(832) 982-1281",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://knechtorthodontics.com/lp/free-consultation/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyAQR-MJUbNycZL-fhs4w5GgUnoJCO507pUAli",
+            "cid": "18307779861315036046",
+            "fid": "0x863f4506e617ef4d:0xfe124cc8fbbba38e",
+            "placeId": "ChIJTe8X5gZFP4YRjqO7-8hMEv4"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Michael Koropp",
+            "address": "1001 E Usa Cir, Wasilla, AK 99654",
+            "latitude": 61.584122799999996,
+            "longitude": -149.4253722,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(907) 373-0620",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XRTHWyNGl4U4FMju3Cf8zw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=82.91755&pitch=0&thumbfov=100",
+            "cid": "2854883732894922578",
+            "fid": "0x56c8de15b8255557:0x279e95a1163e3752",
+            "placeId": "ChIJV1UluBXeyFYRUjc-FqGVnic"
+        },
+        {
+            "position": 3,
+            "title": "Koropp Orthodontics- Michael Koropp DMD",
+            "address": "2700 W Dimond Blvd, Anchorage, AK 99502",
+            "latitude": 61.1372267,
+            "longitude": -149.9299972,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Orthodontist",
+            "types": [
+                "Orthodontist"
+            ],
+            "website": "http://www.koropporthodontics.com/",
+            "phoneNumber": "(907) 248-8999",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jfJdDZgOK51UbzGppFCXxA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=27.493952&pitch=0&thumbfov=100",
+            "cid": "620275114574276062",
+            "fid": "0x56c89846f68958c1:0x89ba8ee2b36e5de",
+            "placeId": "ChIJwViJ9kaYyFYR3uU2K-6omwg"
+        },
+        {
+            "position": 4,
+            "title": "Koropp Orthodontics - Michael Koropp DMD",
+            "address": "2601 Boniface Pkwy #5, Anchorage, AK 99504",
+            "latitude": 61.1968281,
+            "longitude": -149.7777535,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Orthodontist",
+            "types": [
+                "Orthodontist"
+            ],
+            "website": "http://www.koropporthodontics.com/",
+            "phoneNumber": "(907) 338-8999",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XEirbnNvc9YHAo5-czHJTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=181.93044&pitch=0&thumbfov=100",
+            "cid": "7881149128081630607",
+            "fid": "0x56c896ef3d682c57:0x6d5f7760392f658f",
+            "placeId": "ChIJVyxoPe-WyFYRj2UvOWB3X20"
+        }
+    ],
+    "credits": 3
+}

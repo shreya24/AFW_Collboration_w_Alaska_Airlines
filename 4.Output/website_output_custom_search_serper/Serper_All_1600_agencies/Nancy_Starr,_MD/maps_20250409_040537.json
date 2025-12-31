@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Nancy Starr, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6489885,-117.4130451,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Nancy T. Starr, MD",
+            "address": "101 W 8th Ave, Spokane, WA 99204",
+            "latitude": 47.648988499999994,
+            "longitude": -117.41304509999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Pediatric urologist",
+            "types": [
+                "Pediatric urologist",
+                "Doctor",
+                "Urologist"
+            ],
+            "website": "http://www.providence.org/doctors/profile.aspx?region=wa&reset=true&name=starr+nancy+t&id=201692",
+            "phoneNumber": "(509) 474-5489",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gQyuEUAm-nGmwWOSuPD8uQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=62.486866&pitch=0&thumbfov=100",
+            "cid": "17326881980274164050",
+            "fid": "0x549e187bba58e517:0xf075735bfb5bc152",
+            "placeId": "ChIJF-VYunsYnlQRUsFb-1tzdfA"
+        }
+    ],
+    "credits": 3
+}

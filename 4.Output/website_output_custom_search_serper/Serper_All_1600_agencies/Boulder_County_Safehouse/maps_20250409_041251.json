@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Boulder County Safehouse",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.011464,-105.1861462,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Safehouse Progressive Alliance for Nonviolence",
+            "address": "835 North St, Boulder, CO 80304",
+            "latitude": 40.0248487,
+            "longitude": -105.28592959999999,
+            "rating": 3.7,
+            "ratingCount": 15,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.safehousealliance.org/",
+            "phoneNumber": "(303) 444-2424",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=42Qaj7Buw-sndS5NzzJilw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.2911&pitch=0&thumbfov=100",
+            "cid": "16297558036476594025",
+            "fid": "0x876bee9ed0221bbf:0xe22c8eaf9e800769",
+            "placeId": "ChIJvxsi0J7ua4cRaQeAnq-OLOI"
+        },
+        {
+            "position": 2,
+            "title": "Safehouse Progressive Alliance",
+            "address": "400 E Simpson St # 201, Lafayette, CO 80026",
+            "latitude": 39.9980793,
+            "longitude": -105.0863629,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter"
+            ],
+            "phoneNumber": "(303) 673-9000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-SIWxr1WXhHFWBVqpg5w1y_g0Tm9k0gh-rMG312wI7HXGz1WonsU8YxHe-vwDAbZ1zbTqYTeujC1mm8Zl7kY6vu2Ow3K6O-y1KEuhhVt-aa2BGFIJzGtvOrlG5S0PHiKD8SCA0",
+            "cid": "7919530023989843826",
+            "fid": "0x876bf4fb13e4def9:0x6de7d298ebf49772",
+            "placeId": "ChIJ-d7kE_v0a4cRcpf065jS520"
+        },
+        {
+            "position": 3,
+            "title": "Safehouse Progressive Alliance",
+            "address": "Boulder, CO 80302",
+            "latitude": 40.0149468,
+            "longitude": -105.2705184,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Counselor"
+            ],
+            "phoneNumber": "(303) 449-8623",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=51qaSaw9DwR1_0ExlPyTXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=264.12558&pitch=0&thumbfov=100",
+            "cid": "16586247073490727073",
+            "fid": "0x876bec2c4a2629cb:0xe62e2fd5ec46f0a1",
+            "placeId": "ChIJyykmSizsa4cRofBG7NUvLuY"
+        }
+    ],
+    "credits": 3
+}

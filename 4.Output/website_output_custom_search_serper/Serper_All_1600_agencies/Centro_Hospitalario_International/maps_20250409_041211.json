@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Centro Hospitalario International",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@26.7518259,-103.3685435,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centro Hospitalario Internacional P\u00e1cifico",
+            "address": "De Las Nubes 449, Playas de Tijuana, Jardines del Sol, 22505 Tijuana, B.C., Mexico",
+            "latitude": 32.5183245,
+            "longitude": -117.1169149,
+            "rating": 3.8,
+            "ratingCount": 6,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "+52 664 680 2910",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMovrCPPgxFuIpySnHafWjC4O1ElJ6wiwRviMek",
+            "cid": "16554810016611551725",
+            "fid": "0x80d94bac66b518c1:0xe5be7fffbc35c9ed",
+            "placeId": "ChIJwRi1ZqxL2YAR7ck1vP9_vuU"
+        },
+        {
+            "position": 2,
+            "title": "Centro Internacional de Intervencionismo Oncologico",
+            "address": "C. 60 329B, entre 35 Y, Av. Col\u00f3n, Centro, 97000 M\u00e9rida, Yuc., Mexico",
+            "latitude": 20.985327299999998,
+            "longitude": -89.62017209999999,
+            "rating": 5,
+            "ratingCount": 9,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKwyuaHOZbFpskKK8bn1fXUJyx_t5eOLJ4YsJR",
+            "cid": "866809759660743840",
+            "fid": "0x8f56718a0ef5cfb3:0xc0786e2446b9ca0",
+            "placeId": "ChIJs8_1DopxVo8RoJxrROKGBww"
+        }
+    ],
+    "credits": 3
+}

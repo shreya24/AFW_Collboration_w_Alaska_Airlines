@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Camelot Family Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@27.9651906,-82.5010871,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camelot Primary Care",
+            "address": "2707 N Himes Ave, Tampa, FL 33607",
+            "latitude": 27.9651906,
+            "longitude": -82.50108709999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(813) 514-4564",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QdbEDUfOw8CrSDoSglT-OQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=178.81953&pitch=0&thumbfov=100",
+            "cid": "1079721682706970977",
+            "fid": "0x88c2c3a340f52f3f:0xefbf1265a093961",
+            "placeId": "ChIJPy_1QKPDwogRYTkJWibx-w4"
+        }
+    ],
+    "credits": 3
+}

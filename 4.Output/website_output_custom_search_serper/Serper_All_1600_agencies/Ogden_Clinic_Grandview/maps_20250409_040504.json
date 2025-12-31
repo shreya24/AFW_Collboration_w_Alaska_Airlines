@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Ogden Clinic Grandview",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1686329,-112.0639263,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ogden Clinic | Grand View",
+            "address": "3485 W 5200 S, Roy, UT 84067",
+            "latitude": 41.1686329,
+            "longitude": -112.06392629999999,
+            "rating": 4.5,
+            "ratingCount": 2013,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Dermatologist",
+                "Family practice physician",
+                "Pediatrician",
+                "Radiologist"
+            ],
+            "website": "https://www.ogdenclinic.com/locations/ogden-clinic-grand-view/",
+            "phoneNumber": "(801) 475-3900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.ogdenclinic.com/Appointment/RequestAppointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-BXEygMMv5BHJAX5yPHANDmLZWEcKVz3r10iGvpfxdVXISjtc7-kOCw3lqjHTXdfrRrgYm-xGhvBT1PmPR9MgG8fQubrk065R0Oh9ZGkiAxN6Rdmh5bTIhlX1sCaQD-H8Tzq0",
+            "cid": "16915107710675098909",
+            "fid": "0x8753100e5da7a791:0xeabe88d7c0429d1d",
+            "placeId": "ChIJkaenXQ4QU4cRHZ1CwNeIvuo"
+        }
+    ],
+    "credits": 3
+}

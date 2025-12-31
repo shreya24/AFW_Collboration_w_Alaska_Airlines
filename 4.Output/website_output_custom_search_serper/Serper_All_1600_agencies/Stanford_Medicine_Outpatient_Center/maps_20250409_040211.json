@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Stanford Medicine Outpatient Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4853527,-122.2016531,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Medicine Outpatient Center in Redwood City",
+            "address": "420 Broadway, Redwood City, CA 94063",
+            "latitude": 37.4853527,
+            "longitude": -122.2016531,
+            "rating": 4.4,
+            "ratingCount": 68,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/outpatient-redwood-city.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 721-7332",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9NORwY0AtVg7XrEUnrP7Ifd2ovbQcuVeHHgOKVWhN1r-h1_yLERWcpbLYYSFxst1umwa8q0op23_7Yhd65yc5b5rRhHgIpBX_Y7NA8tT8Q5A-I0H8ha86ehRH3V1hmKmm8W-1U",
+            "cid": "2502907454403331755",
+            "fid": "0x808fa24ca2d0ccdb:0x22bc1d119d6346ab",
+            "placeId": "ChIJ28zQokyij4ARq0ZjnREdvCI"
+        }
+    ],
+    "credits": 3
+}

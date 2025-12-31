@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "St. Luke's Children's Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6122165,-116.1907079,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Children's Neurology: Boise",
+            "address": "305 E Jefferson St, Boise, ID 83712",
+            "latitude": 43.612216499999995,
+            "longitude": -116.19070789999999,
+            "rating": 5,
+            "ratingCount": 29,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-childrens-neurology-boise",
+            "phoneNumber": "(208) 381-5180",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Pn2KPJGz9rWj3hzU2UZbaCvgDEU4Xcu3uF4TTkUplAs5Dqi5ayQV_Ryk4wlKm0FjK_6bFe14nOZTwLfSwNDvEGZR0XoeLoPKnPqLMp3FFUKG8mj_ZBnNcAt-kAUE7FIu7IjRE",
+            "cid": "2244794405294426054",
+            "fid": "0x54aef8fdcd952c7d:0x1f271c9e415bc7c6",
+            "placeId": "ChIJfSyVzf34rlQRxsdbQZ4cJx8"
+        }
+    ],
+    "credits": 3
+}

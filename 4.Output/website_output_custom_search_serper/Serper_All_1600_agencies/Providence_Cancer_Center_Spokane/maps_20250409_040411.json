@@ -1,0 +1,92 @@
+{
+    "searchParameters": {
+        "q": "Providence Cancer Center Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6793465,-117.410624,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Regional Cancer Center",
+            "address": "105 W 8th Ave, Spokane, WA 99204",
+            "latitude": 47.648362999999996,
+            "longitude": -117.4141801,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Oncologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/cancer-care-inwa?Is=location&y_source=1_OTU3Njk1OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-5490",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/doctors/search?search-term=cancer&location=99201&range=50&region=wa&search-type=clinical_experience%3Fls%3Dlocation&y_source=1_OTU3Njk1OS03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMj9t5-lZw8rF-TESWtkUEkZJIOIGBmKAMAPruq",
+            "cid": "14858371704672350773",
+            "fid": "0x549e187c67c64875:0xce338a57a5b5f235",
+            "placeId": "ChIJdUjGZ3wYnlQRNfK1pVeKM84"
+        },
+        {
+            "position": 2,
+            "title": "Providence Oncology & Hematology",
+            "address": "212 E Central Ave Suite 315, Spokane, WA 99208",
+            "latitude": 47.7103299,
+            "longitude": -117.40739239999999,
+            "rating": 3,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/oncology-hematology-north-spokane?ls=location&y_source=1_MjUyNTUyNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 482-2235",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3wFPzzGPkaWa1gT-iKpWQg2y6l45wd613oAyf",
+            "cid": "13813009020169341020",
+            "fid": "0x549e19d1f45a0491:0xbfb1aa84f675c85c",
+            "placeId": "ChIJkQRa9NEZnlQRXMh19oSqsb8"
+        },
+        {
+            "position": 3,
+            "title": "Providence Cancer Center at Holy Family Hospital",
+            "address": "5633 N Lidgerwood St, Spokane, WA 99208",
+            "latitude": 47.709678499999995,
+            "longitude": -117.407068,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.providence.org/locations/wa/holy-family-hospital/cancer-services?ls=location&y_source=1_MjA0MzA2NDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 482-0111",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSoEImUPxKAqGZ0uVfojQp0iz6kBDSqfdJ4IQF",
+            "cid": "811225626924940808",
+            "fid": "0x549e194bb852ea87:0xb420d68dd8dfe08",
+            "placeId": "ChIJh-pSuEsZnlQRCP6N3WgNQgs"
+        }
+    ],
+    "credits": 3
+}

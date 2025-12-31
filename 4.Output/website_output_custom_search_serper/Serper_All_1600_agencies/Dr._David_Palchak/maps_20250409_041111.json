@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. David Palchak",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1296295,-120.5995308,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Palchak David MD",
+            "address": "584 Camino Mercado, Arroyo Grande, CA 93420",
+            "latitude": 35.1296295,
+            "longitude": -120.5995308,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://www.pcroncology.com/",
+            "phoneNumber": "(805) 474-9143",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WF9sNsH-yH7BeoY4fDCvnw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=190.94168&pitch=0&thumbfov=100",
+            "cid": "17145624742745258114",
+            "fid": "0x80ec5edb01552597:0xedf17edcb37ab882",
+            "placeId": "ChIJlyVVAdte7IARgrh6s9x-8e0"
+        }
+    ],
+    "credits": 3
+}

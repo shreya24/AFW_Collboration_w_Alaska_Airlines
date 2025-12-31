@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "Haider",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.248051,136.8472775,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Haider trading Co. Ltd",
+            "address": "Irisaki-71-1 Ushidacho, Tsushima, Aichi 496-0018, Japan",
+            "latitude": 35.1670504,
+            "longitude": 136.76008539999998,
+            "type": "Auto body shop",
+            "types": [
+                "Auto body shop"
+            ],
+            "phoneNumber": "+81 80-2501-4503",
+            "openingHours": {
+                "Wednesday": "12\u20136\u202fAM, 8\u202fAM\u201312\u202fAM",
+                "Thursday": "12\u20136\u202fAM, 8\u202fAM\u201312\u202fAM",
+                "Friday": "12\u20136\u202fAM, 8\u202fAM\u201312\u202fAM",
+                "Saturday": "12\u20136\u202fAM, 8\u202fAM\u201312\u202fAM",
+                "Sunday": "12\u20136\u202fAM",
+                "Monday": "8\u202fAM\u201312\u202fAM",
+                "Tuesday": "12\u20136\u202fAM, 8\u202fAM\u201312\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNoYq2JDIZHC9sW-eiPMXraTubVIgfma-WhJme0",
+            "cid": "16737643256585966836",
+            "fid": "0x60039ff4346a5d3d:0xe8480ddcae04d4f4",
+            "placeId": "ChIJPV1qNPSfA2AR9NQErtwNSOg"
+        },
+        {
+            "position": 2,
+            "title": "HAIDER TRADING\u682a\u5f0f\u4f1a\u793e",
+            "address": "\u5c4b\u6577-83-6 \u5b57\u591a\u5409, Inuyama, Aichi 484-0961, Japan",
+            "latitude": 35.3290515,
+            "longitude": 136.9344695,
+            "type": "Used car dealer",
+            "types": [
+                "Used car dealer"
+            ],
+            "phoneNumber": "+81 90-8598-7564",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135:30\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM",
+                "Tuesday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P_5qH33nidqlRCAg7Atrsw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=127.21468&pitch=0&thumbfov=100",
+            "cid": "13065177938166383846",
+            "fid": "0x60030de13ee14075:0xb550d61ccbad84e6",
+            "placeId": "ChIJdUDhPuENA2AR5oStyxzWULU"
+        },
+        {
+            "position": 3,
+            "title": "Haider Trading",
+            "address": "Nagare-45 Sebe, Ichinomiya, Aichi 491-0001, Japan",
+            "latitude": 35.328753899999995,
+            "longitude": 136.8294738,
+            "type": "Auto body shop",
+            "types": [
+                "Auto body shop"
+            ],
+            "phoneNumber": "+81 80-2623-9085",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20137:30\u202fPM",
+                "Thursday": "8\u202fAM\u20137:30\u202fPM",
+                "Friday": "8\u202fAM\u20137:30\u202fPM",
+                "Saturday": "8\u202fAM\u20137:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137:30\u202fPM",
+                "Tuesday": "8\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP3m1aZzsYDkrAOD4dcszkrpMRqOwC1Nv0L7jeR",
+            "cid": "465571580224174798",
+            "fid": "0x600309003d09f995:0x6760ae2b0c77ace",
+            "placeId": "ChIJlfkJPQAJA2ARznrHsOIKdgY"
+        }
+    ],
+    "credits": 3
+}

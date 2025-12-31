@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr. Robert Lyell",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.896414,-124.09257,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lyell Robert MD",
+            "address": "3798 Janes Rd # 9, Arcata, CA 95521",
+            "latitude": 40.896414,
+            "longitude": -124.09257,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(707) 826-7080",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BQqUXojg0QqYE57WXVXYFg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=123.14619&pitch=0&thumbfov=100",
+            "cid": "13846171731012726898",
+            "fid": "0x54d1574d61c1742d:0xc0277bd44611b072",
+            "placeId": "ChIJLXTBYU1X0VQRcrARRtR7J8A"
+        }
+    ],
+    "credits": 3
+}

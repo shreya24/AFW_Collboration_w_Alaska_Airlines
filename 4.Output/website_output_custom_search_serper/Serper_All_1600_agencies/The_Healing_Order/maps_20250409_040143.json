@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "The Healing Order",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.463916,-122.2577328,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Healing Order",
+            "address": "39420 SE Gordon Creek Rd, Corbett, OR 97019",
+            "latitude": 45.463916,
+            "longitude": -122.2577328,
+            "rating": 4.9,
+            "ratingCount": 22,
+            "type": "Chinese medicine clinic",
+            "types": [
+                "Chinese medicine clinic",
+                "Home help",
+                "Naturopathic practitioner"
+            ],
+            "website": "http://thehealingorder.com/",
+            "phoneNumber": "(503) 695-2977",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.thehealingorder.com/book-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMTtxgHwPgs5E3793vu3Y2LdgeVc1uxfQ8fCiYe",
+            "cid": "17515961680561788617",
+            "fid": "0x549591d4ef0b8c4b:0xf31532584d3d56c9",
+            "placeId": "ChIJS4wL79SRlVQRyVY9TVgyFfM"
+        }
+    ],
+    "credits": 3
+}

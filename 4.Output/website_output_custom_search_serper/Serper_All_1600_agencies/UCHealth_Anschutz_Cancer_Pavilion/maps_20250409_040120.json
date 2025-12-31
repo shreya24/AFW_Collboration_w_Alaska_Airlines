@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "UCHealth Anschutz Cancer Pavilion",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7427323,-104.8391914,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Cancer Care - Anschutz Medical Campus - University of Colorado Cancer Center",
+            "address": "Anschutz Cancer Pavilion, 1665 Aurora Ct, Aurora, CO 80045",
+            "latitude": 39.7427323,
+            "longitude": -104.83919139999999,
+            "rating": 3.9,
+            "ratingCount": 69,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-university-of-colorado-cancer-center-anschutz/",
+            "phoneNumber": "(720) 848-0300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8xI15x09wRQzKtTcQCtahyDpkkxdQk57n20VxCoBqBFeQcON80mmQZmzxg5hUjfVl5WjhWDx-SoAivcCainXkZNq_QNDrXb3CiWLX5beFDmdmaR2gsRt9SGaaV-kQVIIEpBbqx",
+            "cid": "13651315112086762432",
+            "fid": "0x876c634eac1e9fdd:0xbd7336c444da73c0",
+            "placeId": "ChIJ3Z8erE5jbIcRwHPaRMQ2c70"
+        },
+        {
+            "position": 2,
+            "title": "UCHealth Lung Cancer Clinic - Anschutz Medical Campus",
+            "address": "Anschutz Cancer Pavilion, 1665 Aurora Ct 2nd floor, Aurora, CO 80045",
+            "latitude": 39.7427323,
+            "longitude": -104.83919139999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-lung-cancer-clinic-anschutz/",
+            "phoneNumber": "(720) 848-9264",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpYYOAYsi6MU5yivWekCHbfZNRgRvQb-0bcmVz",
+            "cid": "17921900192704409043",
+            "fid": "0x876c634eac1e9fdd:0xf8b761455e26add3",
+            "placeId": "ChIJ3Z8erE5jbIcR060mXkVht_g"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Redwood Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4577695,-123.3266731,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Redwood Family Practice",
+            "address": "1619 NW Hawthorne Ave #204, Grants Pass, OR 97526",
+            "latitude": 42.4577695,
+            "longitude": -123.3266731,
+            "rating": 3.9,
+            "ratingCount": 16,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Chiropractor"
+            ],
+            "website": "http://redwoodfamilypractice-gp.com/",
+            "phoneNumber": "(541) 474-5665",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-OG_tgKAgkbBBuY8px9OuLwvPx6N0a-b-BGTdGoG3zMfaLGRXwbSgLb7BSYnR60P9ysTLqDSsRImo5gcjNw8AvpP5uTh8FPo3qaDkpOaPegECvQbVebhxyGm5FSie7dKZT3PM",
+            "cid": "3267025961993669263",
+            "fid": "0x54c57bc471827e43:0x2d56cecd909c8a8f",
+            "placeId": "ChIJQ36CccR7xVQRj4qckM3OVi0"
+        }
+    ],
+    "credits": 3
+}

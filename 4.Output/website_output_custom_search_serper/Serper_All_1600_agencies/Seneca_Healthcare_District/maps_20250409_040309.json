@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Seneca Healthcare District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.305719,-121.2348282,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seneca Healthcare District",
+            "address": "130 Brentwood Dr, Chester, CA 96020",
+            "latitude": 40.305718999999996,
+            "longitude": -121.2348282,
+            "rating": 4.7,
+            "ratingCount": 152,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.senecahospital.org/",
+            "phoneNumber": "(833) 227-3743",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOo3Cyi4e2d6CyKzC4uYLhe8c9QSRSeD-ifXi1l",
+            "cid": "2884406026905641149",
+            "fid": "0x809d6a23e2f17cc3:0x280777ffcdb4e0bd",
+            "placeId": "ChIJw3zx4iNqnYARveC0zf93Byg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Oster Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6147465,-116.2099664,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oster Medical Group",
+            "address": "403 S 11th St #310, Boise, ID 83702",
+            "latitude": 43.614746499999995,
+            "longitude": -116.2099664,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.saintalphonsus.org/provider/sharon-oster",
+            "phoneNumber": "(208) 344-2928",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuU9sBSI2Z6daA7qFBOE3gqGXMS_sZg43Mrl28",
+            "cid": "17300217470200926006",
+            "fid": "0x54aef8ef9f8aab63:0xf016b820f0554f36",
+            "placeId": "ChIJY6uKn-_4rlQRNk9V8CC4FvA"
+        }
+    ],
+    "credits": 3
+}

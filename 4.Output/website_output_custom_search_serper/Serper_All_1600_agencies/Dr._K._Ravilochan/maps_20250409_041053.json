@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Dr. K. Ravilochan",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5744366,-104.9999504,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kamasamudram Ravilochan",
+            "address": "1001 W Mineral Ave Suite 200, Littleton, CO 80120",
+            "latitude": 39.5744366,
+            "longitude": -104.99995039999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "phoneNumber": "(303) 589-4757",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mwzcLGzMJmUPT37-3wwagg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=70.95196&pitch=0&thumbfov=100",
+            "cid": "17577017529341827844",
+            "fid": "0x876c822783155555:0xf3ee1c50df3bdb04",
+            "placeId": "ChIJVVUVgyeCbIcRBNs731Ac7vM"
+        },
+        {
+            "position": 2,
+            "title": "Kamasamudram Ravilochan",
+            "address": "465 St Michaels Dr UNIT 116, Santa Fe, NM 87505",
+            "latitude": 35.6595036,
+            "longitude": -105.94713,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "website": "https://www.christushealth.org/find-a-doctor/kamasamudram-ravilochan-35273?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_Njg4NzMxMzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(505) 913-4780",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMw1hbSuPcbkE1HgQIp5MOLPb1Lk0LxpzpqHNs",
+            "cid": "6719150019976364365",
+            "fid": "0x8718518fa096fea1:0x5d3f3757f540014d",
+            "placeId": "ChIJof6WoI9RGIcRTQFA9Vc3P10"
+        }
+    ],
+    "credits": 3
+}

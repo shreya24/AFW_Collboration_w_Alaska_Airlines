@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "University of New Mexico Truman Health Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0896586,-106.631603,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Truman Health Services",
+            "address": "801 Encino Pl NE, Albuquerque, NM 87102",
+            "latitude": 35.0896586,
+            "longitude": -106.631603,
+            "rating": 3.5,
+            "ratingCount": 38,
+            "type": "STD clinic",
+            "types": [
+                "STD clinic",
+                "HIV testing center",
+                "STD testing service"
+            ],
+            "website": "https://unmhealth.org/services/hiv-aids/",
+            "phoneNumber": "(505) 272-1312",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gVOuL_w5GiO2MXDWHYzMPw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=293.27524&pitch=0&thumbfov=100",
+            "cid": "3189359259805901959",
+            "fid": "0x87220b21f5e383b3:0x2c42e1594dd56487",
+            "placeId": "ChIJs4Pj9SELIocRh2TVTVnhQiw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Wallowa Mt. Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3592414,-117.2293014,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wallowa Memorial Medical Clinic - JOSEPH",
+            "address": "800 N Main St, Joseph, OR 97846",
+            "latitude": 45.359241399999995,
+            "longitude": -117.2293014,
+            "rating": 5,
+            "ratingCount": 47,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Medical Center",
+                "Nurse practitioner",
+                "Osteopath",
+                "Physician assistant",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.wallowamemorialmedicalclinics.org/",
+            "phoneNumber": "(541) 426-7900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://wallowamemorialmedicalclinics.org/mychart/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVDlJw3IeLK6h9LblGso3jQTEM9AAdBRp3IXFB",
+            "cid": "7017253729144906451",
+            "fid": "0x54a407ee8d5b063d:0x61624b167077a2d3",
+            "placeId": "ChIJPQZbje4HpFQR06J3cBZLYmE"
+        }
+    ],
+    "credits": 3
+}

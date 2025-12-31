@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Stanford Sleep Disorders Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4471947,-122.176273,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Sleep Medicine Center",
+            "address": "450 Broadway 2nd floor, Redwood City, CA 94063",
+            "latitude": 37.4857271,
+            "longitude": -122.2027413,
+            "rating": 2.5,
+            "ratingCount": 42,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/sleep-medicine-center.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6601",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-lkwS1rjwFC_sxP3N2uJx5YVD5b_aL8uWbMAqBiAX3v4UOHIxcFEgAjSbpis1SY0ygM5-q2nSwIdGJXfxnvXbBK5BEmXbip89zW6ooFLGdNyolCR7aZxisJCllf2lYfZH68oP6",
+            "cid": "7825849623463011518",
+            "fid": "0x808fa319e1d87c8b:0x6c9b00c4f82324be",
+            "placeId": "ChIJi3zY4Rmjj4ARviQj-MQAm2w"
+        },
+        {
+            "position": 2,
+            "title": "Stanford Center for Sleep Sciences And Medicine",
+            "address": "3165 Porter Dr, Palo Alto, CA 94304",
+            "latitude": 37.408662299999996,
+            "longitude": -122.14980469999999,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Research institute",
+            "types": [
+                "Research institute"
+            ],
+            "website": "http://med.stanford.edu/sleepdivision.html",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a2c1UtZyMi1_TcWHRCkRXw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=36.142044&pitch=0&thumbfov=100",
+            "cid": "8398586619525008523",
+            "fid": "0x808fba966863ed8b:0x748dc60868230c8b",
+            "placeId": "ChIJi-1jaJa6j4ARiwwjaAjGjXQ"
+        }
+    ],
+    "credits": 3
+}

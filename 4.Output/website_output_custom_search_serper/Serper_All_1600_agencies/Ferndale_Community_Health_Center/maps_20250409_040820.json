@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Ferndale Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5783989,-124.2616173,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ferndale Community Health Center",
+            "address": "638 Main St, Ferndale, CA 95536",
+            "latitude": 40.578398899999996,
+            "longitude": -124.2616173,
+            "rating": 3.3,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Obstetrician-gynecologist"
+            ],
+            "website": "http://opendoorhealth.com/opendoor/ferndale-community-health-center/",
+            "phoneNumber": "(707) 786-4028",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMXQ7-NrE2oub3QjUTx8AmEQKDQnlBO9IjwxUSC",
+            "cid": "17009854796181417210",
+            "fid": "0x54d410e25244c739:0xec0f24d0a75e2cfa",
+            "placeId": "ChIJOcdEUuIQ1FQR-ixep9AkD-w"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Medicine of HOPE",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4854528,-111.9227143,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Medicine of HOPE",
+            "address": "3295 N Drinkwater Blvd, Scottsdale, AZ 85251",
+            "latitude": 33.4854528,
+            "longitude": -111.9227143,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(480) 668-1448",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S2cPy_juv6JLnmgT7WR0zw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=156.5845&pitch=0&thumbfov=100",
+            "cid": "8786661984113394555",
+            "fid": "0x872b0bc381f9bf69:0x79f07e855482037b",
+            "placeId": "ChIJab_5gcMLK4cRewOCVIV-8Hk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Waikiki Health, PATH Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2709481,-157.7912908,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Waikiki Health Center's PATH Clinic",
+            "address": "845 22nd Ave, Honolulu, HI 96816",
+            "latitude": 21.2709481,
+            "longitude": -157.79129079999998,
+            "rating": 4.3,
+            "ratingCount": 9,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Community health centre",
+                "Family planning center",
+                "Medical clinic",
+                "Pregnancy care center"
+            ],
+            "website": "http://waikikihc.org/",
+            "phoneNumber": "(808) 791-9390",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9A2YSO1iEdNQNWXglTmm4AQGjstqJZny-MDeCVwiy5h_KYFh3tfxsASUH9rCJzIKu80-hIRaLW3yJYAmnclnG4TKHgwtUIc_GGNTR948HgwFutpU4LYbLkwBrtVd3xiySf_rU",
+            "cid": "5096794859410432182",
+            "fid": "0x7c00729e839e3b4b:0x46bb73ebb03220b6",
+            "placeId": "ChIJSzueg55yAHwRtiAysOtzu0Y"
+        }
+    ],
+    "credits": 3
+}

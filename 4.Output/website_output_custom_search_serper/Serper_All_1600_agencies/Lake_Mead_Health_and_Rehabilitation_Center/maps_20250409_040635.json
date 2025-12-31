@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Lake Mead Health and Rehabilitation Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0615252,-114.9622546,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Henderson Health and Rehab",
+            "address": "1180 E Lake Mead Pkwy, Henderson, NV 89015",
+            "latitude": 36.0615252,
+            "longitude": -114.9622546,
+            "rating": 4.2,
+            "ratingCount": 68,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "https://hendersonhealth.net/",
+            "phoneNumber": "(702) 565-8555",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHL4ZRmUCYplT2WhALBEwNQvXqOp7T0PUMRzCc",
+            "cid": "3401252371551756454",
+            "fid": "0x80c8d77a487826f7:0x2f33ad02e5cc20a6",
+            "placeId": "ChIJ9yZ4SHrXyIARpiDM5QKtMy8"
+        }
+    ],
+    "credits": 3
+}

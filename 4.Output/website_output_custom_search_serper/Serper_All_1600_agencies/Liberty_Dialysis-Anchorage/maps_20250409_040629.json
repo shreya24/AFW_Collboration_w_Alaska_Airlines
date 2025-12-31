@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Liberty Dialysis-Anchorage",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1456718,-149.8652039,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Liberty Dialysis AHP LLC",
+            "address": "901 E Dimond Blvd G, Anchorage, AK 99515",
+            "latitude": 61.145671799999995,
+            "longitude": -149.86520389999998,
+            "rating": 4.4,
+            "ratingCount": 5,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "phoneNumber": "(907) 522-9009",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YpnnbRbD1wEOsFdTbNzXWA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=23.435911&pitch=0&thumbfov=100",
+            "cid": "5961706490915948963",
+            "fid": "0x56c899d6d4861c39:0x52bc3c778e2f89a3",
+            "placeId": "ChIJORyG1NaZyFYRo4kvjnc8vFI"
+        }
+    ],
+    "credits": 3
+}

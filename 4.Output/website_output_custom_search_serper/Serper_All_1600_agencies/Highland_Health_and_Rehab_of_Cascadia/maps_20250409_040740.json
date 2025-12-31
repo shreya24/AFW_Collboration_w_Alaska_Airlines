@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Highland Health and Rehab of Cascadia",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1799237,-119.8191268,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Highland Health and Rehabilitation",
+            "address": "2400 Samish Way, Bellingham, WA 98229",
+            "latitude": 48.709356199999995,
+            "longitude": -122.4643861,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Hospice"
+            ],
+            "website": "https://highlandrehabofcascadia.com/",
+            "phoneNumber": "(360) 734-4800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPSbYUKxyikk-V1HjNhia2t8GKGFFYlDTea0fa6",
+            "cid": "1530586584745351784",
+            "fid": "0x5485a16efb2d4b09:0x153dbc63b1b99a68",
+            "placeId": "ChIJCUst-26hhVQRaJq5sWO8PRU"
+        },
+        {
+            "position": 2,
+            "title": "Spokane Valley Health and Rehab of Cascadia",
+            "address": "17121 E 8th Ave, Spokane Valley, WA 99016",
+            "latitude": 47.6504912,
+            "longitude": -117.1738675,
+            "rating": 4,
+            "ratingCount": 80,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Hospice",
+                "Rehabilitation center"
+            ],
+            "website": "https://spokanehealthandrehabofcascadia.com/",
+            "phoneNumber": "(509) 924-6161",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNR7ZGJs0kT1aRHsTLDhNoTQXQMiNVVm9FNkted",
+            "cid": "725493666352661037",
+            "fid": "0x5361df726d4d1429:0xa1178a54dbf022d",
+            "placeId": "ChIJKRRNbXLfYVMRLQK_TaV4EQo"
+        }
+    ],
+    "credits": 3
+}

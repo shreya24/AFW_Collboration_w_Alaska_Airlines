@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Kadlec West Richland Primary Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2624591,-119.339695,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kadlec Clinic - West Richland Primary Care",
+            "address": "3950 Keene Rd, West Richland, WA 99353",
+            "latitude": 46.2624591,
+            "longitude": -119.33969499999999,
+            "rating": 3.3,
+            "ratingCount": 75,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.providence.org/locations/kadlec/west-richland-primary-care?ls=location&y_source=1_OTU3NzA0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 942-3130",
+            "openingHours": {
+                "Tuesday": "6:45\u202fAM\u20135\u202fPM",
+                "Wednesday": "6:45\u202fAM\u20135\u202fPM",
+                "Thursday": "6:45\u202fAM\u20135\u202fPM",
+                "Friday": "6:45\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:45\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/provider-listing?related=75af544dd7794abaa55937e0a7c4f19b&y_source=1_OTU3NzA0OC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOPGjO-rK9-n86rhVXQmlWnPO2fBDc5Nb4XSB0C",
+            "cid": "5678928443957362947",
+            "fid": "0x5498703e742f07fb:0x4ecf9b54def0c103",
+            "placeId": "ChIJ-wcvdD5wmFQRA8Hw3lSbz04"
+        }
+    ],
+    "credits": 3
+}

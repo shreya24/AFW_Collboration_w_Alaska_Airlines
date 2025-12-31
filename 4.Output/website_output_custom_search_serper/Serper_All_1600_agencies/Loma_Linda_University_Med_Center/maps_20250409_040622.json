@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "Loma Linda University Med Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0481347,-117.2574771,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Loma Linda University Medical Center",
+            "address": "11234 Anderson St, Loma Linda, CA 92354",
+            "latitude": 34.049411899999996,
+            "longitude": -117.2634176,
+            "rating": 3.2,
+            "ratingCount": 870,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital",
+                "University hospital"
+            ],
+            "website": "https://lluh.org/?utm_source=google-local&utm_medium=organic&utm_campaign=yext",
+            "phoneNumber": "(909) 558-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://lluh.org/patients-visitors/patients/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5i5o7fhMm6dWVa8_Gdrz9UvFAYXGJ737HzaVk",
+            "cid": "6206621071981658383",
+            "fid": "0x80dcab862f872d17:0x562258fb1aebc10f",
+            "placeId": "ChIJFy2HL4ar3IARD8HrGvtYIlY"
+        },
+        {
+            "position": 2,
+            "title": "Loma Linda University Medical Center East Campus",
+            "address": "25333 Barton Rd, Loma Linda, CA 92354",
+            "latitude": 34.046857599999996,
+            "longitude": -117.2515366,
+            "rating": 3.4,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://lluh.org/locations/loma-linda-university-medical-center-east-campus?utm_source=google-local&utm_medium=organic&utm_campaign=yext",
+            "phoneNumber": "(909) 825-8601",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNuewWvOD2MgyS0QK0m_2FEwm21v0AdvbMxFFJ",
+            "cid": "8935604809077044198",
+            "fid": "0x80dcab93ebd0b021:0x7c01a53b224f33e6",
+            "placeId": "ChIJIbDQ65Or3IAR5jNPIjulAXw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Alaska Neurology Center LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1441746,-149.8612948,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Neurology Center LLC",
+            "address": "1100 E Dimond Blvd, Anchorage, AK 99515",
+            "latitude": 61.1441746,
+            "longitude": -149.8612948,
+            "rating": 2.4,
+            "ratingCount": 165,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "MRI center",
+                "Pain control clinic"
+            ],
+            "website": "http://aknc.com/",
+            "phoneNumber": "(907) 565-6000",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2L5KRtAVcvgrGqVImOW-lA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=347.59006&pitch=0&thumbfov=100",
+            "cid": "8904315778013009513",
+            "fid": "0x56c897072c6b9f7b:0x7b927c05e45f1669",
+            "placeId": "ChIJe59rLAeXyFYRaRZf5AV8kns"
+        }
+    ],
+    "credits": 3
+}

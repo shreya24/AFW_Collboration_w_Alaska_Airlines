@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Cuesta Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.3027815,-120.7511649,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cuesta Medical Group",
+            "address": "2238 Bayview Heights Dr, Los Osos, CA 93402",
+            "latitude": 35.3105063,
+            "longitude": -120.83318229999999,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "phoneNumber": "(805) 534-1305",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ANFsCXpQHUhV9uhRhXijKQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=106.33953&pitch=0&thumbfov=100",
+            "cid": "3462181512315492619",
+            "fid": "0x80ece30e707afa7d:0x300c23bdf57d590b",
+            "placeId": "ChIJffp6cA7j7IARC1l99b0jDDA"
+        },
+        {
+            "position": 2,
+            "title": "Cuesta Medical Group, Inc.",
+            "address": "171 N Santa Rosa St, San Luis Obispo, CA 93405",
+            "latitude": 35.295056599999995,
+            "longitude": -120.6691475,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(805) 242-0614",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQsiPcKLrOMHwVtP43a4eydT2OecO4qJuKDwBM",
+            "cid": "13257806060717376615",
+            "fid": "0x80ecf0527f35b075:0xb7fd305e8e148467",
+            "placeId": "ChIJdbA1f1Lw7IARZ4QUjl4w_bc"
+        }
+    ],
+    "credits": 3
+}

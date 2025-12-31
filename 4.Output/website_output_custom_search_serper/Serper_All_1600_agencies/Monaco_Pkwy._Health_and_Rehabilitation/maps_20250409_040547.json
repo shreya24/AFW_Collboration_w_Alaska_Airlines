@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Monaco Pkwy. Health and Rehabilitation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.706233,-104.9125722,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Crestmoor Care Center",
+            "address": "895 S Monaco St Pkwy, Denver, CO 80224",
+            "latitude": 39.700632999999996,
+            "longitude": -104.913704,
+            "rating": 2.9,
+            "ratingCount": 45,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.crestmoorhrc.com/",
+            "phoneNumber": "(303) 321-3110",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMrwpvWt5U1hZmDMzz6yCFix014TI8xUQ0utVb",
+            "cid": "2358233447348157057",
+            "fid": "0x876c7db646756a39:0x20ba20d36ea1ba81",
+            "placeId": "ChIJOWp1RrZ9bIcRgbqhbtMguiA"
+        },
+        {
+            "position": 2,
+            "title": "Hilltop Park Post Acute",
+            "address": "290 S Monaco St Pkwy, Denver, CO 80224",
+            "latitude": 39.711833,
+            "longitude": -104.91144039999999,
+            "rating": 4.5,
+            "ratingCount": 42,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://hilltopparkpa.com/",
+            "phoneNumber": "(303) 355-2525",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8BzmZmEoZ3X_o50zrb9-rI7XZr_YOTdjyhyQ2nrL7ggU3jjW6p_4xhRh-JKfxGmKzp5Dr1CGqvBDRd3Ie-dDKXB69gQVgFy_0-rZW8qmle6prRUei7a0JR2IaAZ6qJWozG6QM",
+            "cid": "5315597589552606582",
+            "fid": "0x876c7d34c55d134d:0x49c4cbd82e34ad76",
+            "placeId": "ChIJTRNdxTR9bIcRdq00LtjLxEk"
+        }
+    ],
+    "credits": 3
+}

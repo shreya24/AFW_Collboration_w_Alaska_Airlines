@@ -1,0 +1,533 @@
+{
+    "searchParameters": {
+        "q": "Lovelace Health System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6167729,-97.82153,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lovelace Medical Center",
+            "address": "601 Dr Martin Luther King Jr Ave NE, Albuquerque, NM 87102",
+            "latitude": 35.0863727,
+            "longitude": -106.6397569,
+            "rating": 3.6,
+            "ratingCount": 1506,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://lovelace.com/",
+            "phoneNumber": "(505) 727-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-UtVyriNMpygv_b0ce29b3kb8qn8-9Ih7rEF1",
+            "cid": "8929792783009998278",
+            "fid": "0x87220ca452ce4cc5:0x7becff395d2865c6",
+            "placeId": "ChIJxUzOUqQMIocRxmUoXTn_7Hs"
+        },
+        {
+            "position": 2,
+            "title": "Lovelace Westside Hospital",
+            "address": "10501 Golf Course Rd NW, Albuquerque, NM 87114",
+            "latitude": 35.2074758,
+            "longitude": -106.6770943,
+            "rating": 3.8,
+            "ratingCount": 622,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://lovelace.com/location/lovelace-westside-hospital",
+            "phoneNumber": "(505) 727-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9rITr_-QW8QU5b3OP18p4ukYMB1Rr367egxDxvXhtuaaGQ6GiacLKct_P0mlGxuiUPNqmdcT6-vsUWjUZ6nY7LawrvBMPifwukQWq5UhIkKH0Q8kPpXt2LvyHY80uQFnolyLbQ",
+            "cid": "2896197035164476455",
+            "fid": "0x872271a09b69183d:0x28315bdbd884a427",
+            "placeId": "ChIJPRhpm6BxIocRJ6SE2NtbMSg"
+        },
+        {
+            "position": 3,
+            "title": "Lovelace Women's Hospital",
+            "address": "4701 Montgomery Blvd NE, Albuquerque, NM 87109",
+            "latitude": 35.131920199999996,
+            "longitude": -106.5906893,
+            "rating": 4,
+            "ratingCount": 1658,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://lovelace.com/location/lovelace-womens-hospital",
+            "phoneNumber": "(505) 727-7800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ORta8t3Sr3FqEnzjZR5qBpgu1-V4tF_9Ff4QnFofo1hv74kiNSsefymHeF10AbY4nbtYJ_tMd4Lj9jRf1HXuzjYbjnr5lK4p7Tpxrf3iFBmExOTPhch9JGkHCZYqTSqb7ugCO",
+            "cid": "11495262409117659914",
+            "fid": "0x872274ea2fc33901:0x9f876041af5bf30a",
+            "placeId": "ChIJATnDL-p0IocRCvNbr0Fgh58"
+        },
+        {
+            "position": 4,
+            "title": "Lovelace Regional Hospital",
+            "address": "117 E 19th St, Roswell, NM 88201",
+            "latitude": 33.4168883,
+            "longitude": -104.52107459999999,
+            "rating": 3.6,
+            "ratingCount": 261,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://lovelace.com/location/lovelace-regional-hospital",
+            "phoneNumber": "(575) 627-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8e3jgkR3UVr7VxodXRXiuQ7azir7zjbO-PCSAK9_fUhMG84EbSQXBo7rLzqca3W1ClzVRO0hCG0Ey4I1vUkl9sWM-fMqkJUQW3khnvXW_5ZuaLlBtJNNvQT40RXDp7rbtuph0tjw",
+            "cid": "2706080206512734762",
+            "fid": "0x86e26efd1a6cbd8b:0x258ded9c42e8422a",
+            "placeId": "ChIJi71sGv1u4oYRKkLoQpztjSU"
+        },
+        {
+            "position": 5,
+            "title": "Lovelace Womens Hospital: Emergency Room",
+            "address": "4701 Montgomery Blvd NE, Albuquerque, NM 87109",
+            "latitude": 35.13185,
+            "longitude": -106.59093999999999,
+            "rating": 2.3,
+            "ratingCount": 73,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.lovelace.com/locations/hospitals/lovelace-womens-hospital",
+            "phoneNumber": "(505) 727-7800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-18havkKepN-5SbW4egD0bDSkMQTCUVG5_zBbEQNVjUQmnx0wcCHDTDP3Sd-8SWhqFY3y_azsm0TdvmLZ2HzZi_gh-sM8FW9NUowCWBLSIfkBY3FL-WmvFvajqz3RVNGiPf40",
+            "cid": "10523442087998876758",
+            "fid": "0x872274e7a0cceac9:0x920ac6d2cd916c56",
+            "placeId": "ChIJyerMoOd0IocRVmyRzdLGCpI"
+        },
+        {
+            "position": 6,
+            "title": "Lovelace Medical Center-Downtown- Emergency Room",
+            "address": "601 Dr Martin Luther King Jr Ave NE, Albuquerque, NM 87102",
+            "latitude": 35.086422299999995,
+            "longitude": -106.6393832,
+            "rating": 2.5,
+            "ratingCount": 55,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.lovelace.com/",
+            "phoneNumber": "(505) 727-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_bdZPpMJTIQoOmZbI7jJJwakgKeZSDxk07gRGPraVNb6EQjX79sf2mXf44dDFzJ0C9wA1geEls0abOa6TB7fWql9NNVAWUZ48UZ79XY6N6P_ng1kjiZgyrzLH9aUOH428SYQo",
+            "cid": "10283467144823845027",
+            "fid": "0x87220ca4a3fe1237:0x8eb636e252a030a3",
+            "placeId": "ChIJNxL-o6QMIocRozCgUuI2to4"
+        },
+        {
+            "position": 7,
+            "title": "Lovelace UNM Rehabilitation Hospital",
+            "address": "505 Elm St NE, Albuquerque, NM 87102",
+            "latitude": 35.0877893,
+            "longitude": -106.6382356,
+            "rating": 4.5,
+            "ratingCount": 274,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Rehabilitation center"
+            ],
+            "website": "https://lovelace.com/location/lovelace-rehabilitation-hospital",
+            "phoneNumber": "(505) 727-4725",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8g4P6dWUo-KhpErYVo7rAgHaB3zI8a9KG8CWT",
+            "cid": "7778072334284157534",
+            "fid": "0x87220ca4f49e07fd:0x6bf14393fa4cf25e",
+            "placeId": "ChIJ_Qee9KQMIocRXvJM-pND8Ws"
+        },
+        {
+            "position": 8,
+            "title": "Lovelace Health System",
+            "address": "4411 The 25 Way NE, Albuquerque, NM 87109",
+            "latitude": 35.1454314,
+            "longitude": -106.594691,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Medical billing service",
+            "types": [
+                "Medical billing service"
+            ],
+            "website": "http://www.lovelace.com/",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_xARnlKKy9Fq7TDTqi1nxTp20_ZAA2K-vZQPenrP2Jtgnh9PyiQqn2FolPa3UwztAhNTw56WY2B7oGBEt49jW71X-nUV03B8shMjZTsPOqhPEanf-5HflfMSa6GdjO43V9D-3I",
+            "cid": "11324309580389995594",
+            "fid": "0x872274f0aab5fa31:0x9d28079089b2d44a",
+            "placeId": "ChIJMfq1qvB0IocRStSyiZAHKJ0"
+        },
+        {
+            "position": 9,
+            "title": "Lovelace Health Center",
+            "address": "4801 McMahon Blvd NW, Albuquerque, NM 87114",
+            "latitude": 35.2076116,
+            "longitude": -106.6786125,
+            "rating": 2.3,
+            "ratingCount": 9,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://lovelace.com/?utm_source=GMB&utm_medium=organic",
+            "phoneNumber": "(505) 727-4725",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9MYCcI3Ab-gycJP0tjTN23di3M9OQgEEyRUkMigxnuIZCY3M6RwnfTOrIUx08m6dZ_0qVjORxPIZDuwxET8_f6qP6X7KYlZTqp2ucpF_9HTQ9piWsEi5KXWl8y1Rkt6ifBGz4N9A",
+            "cid": "12209352413074576605",
+            "fid": "0x872271a0dc8c0287:0xa9705554eede54dd",
+            "placeId": "ChIJhwKM3KBxIocR3VTe7lRVcKk"
+        },
+        {
+            "position": 10,
+            "title": "Lovelace Medical Group- Osuna & Jefferson",
+            "address": "6701 Jefferson St NE, Albuquerque, NM 87109",
+            "latitude": 35.157787299999995,
+            "longitude": -106.59487779999999,
+            "rating": 2.4,
+            "ratingCount": 219,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://lovelace.com/location/osuna-jefferson",
+            "phoneNumber": "(505) 727-6200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_yqY7CKM4DIjp3zu0qeBwaUaPJSkfEimbxfSnhbzdJF68tHWay_Xa-DtcIQzOb0NsxaYlqgmfU_tB7CBqQCyCl_fJ-NV3vINkBsXQGVWco4tv_6DgcXqVFmOy_5Uzf--IPOSJF",
+            "cid": "993741770581242801",
+            "fid": "0x8722745a0ad8ca15:0xdca7ae011f673b1",
+            "placeId": "ChIJFcrYClp0IocRsXP2EeB6yg0"
+        },
+        {
+            "position": 11,
+            "title": "Lovelace Medical Group- Golf Course Road",
+            "address": "10511 Golf Course Rd NW UNIT 201, Albuquerque, NM 87114",
+            "latitude": 35.208526,
+            "longitude": -106.67854899999999,
+            "rating": 2,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://lovelacemedicalgroup.com/location/lovelace-medical-group-golf-course-road",
+            "phoneNumber": "(505) 727-4500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u2kAjs6IUVuDwMs5oqlFYQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=169.57219&pitch=0&thumbfov=100",
+            "cid": "17885775608252519347",
+            "fid": "0x872271a0c57854bb:0xf8370a271e3cd3b3",
+            "placeId": "ChIJu1R4xaBxIocRs9M8HicKN_g"
+        },
+        {
+            "position": 12,
+            "title": "Lovelace Medical Group- Las Estancias",
+            "address": "3900 Las Estancias Ct, Albuquerque, NM 87121",
+            "latitude": 35.0204459,
+            "longitude": -106.7134652,
+            "rating": 2.5,
+            "ratingCount": 62,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://lovelace.com/location/las-estancias",
+            "phoneNumber": "(505) 727-4200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-OY_YbYGJq78vMd_YF8rp3cbZitSxZOwa0g1yXtp18rstgDaI02XRrEdZBEx67yCzJjNlVKn_meFV6Q-Jo_2zOQMtdFzTPMKbbdVk18Bh11jdzHmOR2Qv9oN0-ZW_Ep6OaCYM",
+            "cid": "17649610336062523402",
+            "fid": "0x87220df1bc8cef6f:0xf4f00316c911c80a",
+            "placeId": "ChIJb--MvPENIocRCsgRyRYD8PQ"
+        },
+        {
+            "position": 13,
+            "title": "Lovelace Health Plan",
+            "address": "4101 Indian School Rd NE # 110, Albuquerque, NM 87110",
+            "latitude": 35.1031665,
+            "longitude": -106.5992294,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.lovelace.com/",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ir_cFWJ_q7l9ubsBlcrESg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=62.0879&pitch=0&thumbfov=100",
+            "cid": "3408948236392030442",
+            "fid": "0x87220b3157263c13:0x2f4f045c0fd760ea",
+            "placeId": "ChIJEzwmVzELIocR6mDXD1wETy8"
+        },
+        {
+            "position": 14,
+            "title": "Lovelace Women's Hospital Outpatient Rehabilitation",
+            "address": "4600 Montgomery Blvd NE, Albuquerque, NM 87109",
+            "latitude": 35.130480299999995,
+            "longitude": -106.59150969999999,
+            "rating": 4.5,
+            "ratingCount": 52,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center"
+            ],
+            "website": "https://www.lovelace.com/locations?utm_source=GMB&utm_medium=organic",
+            "phoneNumber": "(505) 727-4620",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nV_iiPFNPFEFGM3OUxupFA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=345.31302&pitch=0&thumbfov=100",
+            "cid": "17140444276150543780",
+            "fid": "0x872274dd70fe0f2d:0xeddf17415454a5a4",
+            "placeId": "ChIJLQ_-cN10IocRpKVUVEEX3-0"
+        },
+        {
+            "position": 15,
+            "title": "LOVELACE",
+            "address": "Humboldt, TN 38343",
+            "latitude": 35.8166575,
+            "longitude": -88.9295949,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hgq42xn0xzTeC2M7kzyrEA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=140.61461&pitch=0&thumbfov=100",
+            "cid": "7623895136017211663",
+            "fid": "0x887eae0f211a5f17:0x69cd843bab22610f",
+            "placeId": "ChIJF18aIQ-ufogRD2EiqzuEzWk"
+        },
+        {
+            "position": 16,
+            "title": "Lovelace Medical Group Westside- General Surgery",
+            "address": "4420 Irving Blvd NW, Albuquerque, NM 87114",
+            "latitude": 35.1900155,
+            "longitude": -106.6662509,
+            "rating": 2.2,
+            "ratingCount": 99,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://lovelace.com/general-surgery-0",
+            "phoneNumber": "(505) 727-2790",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_3awYiBs8sXrLB5_fT9j_yfE1uaiHZgY4M7cV1gtYsQcVyaBN_FUDwTFSl5kVa4iuyC_zGf-4X5CD7jPrdyK_D1QrDpQJ0AFQoLyTp_6pagFggl2uVOL4NS9ftbx4VgOE9FVI",
+            "cid": "8830340002793415529",
+            "fid": "0x8722717b6a5cc8e5:0x7a8bab72886c6369",
+            "placeId": "ChIJ5chcantxIocRaWNsiHKri3o"
+        },
+        {
+            "position": 17,
+            "title": "Lovelace Health System",
+            "address": "4705 Montgomery Blvd NE STE 301, Albuquerque, NM 87109",
+            "latitude": 35.1313256,
+            "longitude": -106.59144669999999,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "http://lovelace.com/",
+            "phoneNumber": "(505) 727-4500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=anzh2jbtjbj6CRYaQZns8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.26508&pitch=0&thumbfov=100",
+            "cid": "6495961941829807001",
+            "fid": "0x872274e7984621cb:0x5a264af81138eb99",
+            "placeId": "ChIJyyFGmOd0IocRmes4EfhKJlo"
+        },
+        {
+            "position": 18,
+            "title": "Lovelace Medical Group- Urgent Care",
+            "address": "6701 Jefferson St NE, Albuquerque, NM 87109",
+            "latitude": 35.158229999999996,
+            "longitude": -106.59475139999999,
+            "rating": 2.3,
+            "ratingCount": 100,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://lovelacemedicalgroup.com/location/lovelace-medical-group-urgent-care",
+            "phoneNumber": "(505) 727-0600",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Saturday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9GWJeyU98FjnaBYZ5wmGOMRAi3OzK4xH0No3blK7nhb7jzmBOCDlFQC2ixKGeA1YBPFn_8FYxXXaeRDXEghNMAPXHD6x9huXBgMFO9sr6C65AIgJ26yEBZJwvlTTembYMy31Vc-w",
+            "cid": "11197519673909909444",
+            "fid": "0x87227529bc996e9f:0x9b6594d100d917c4",
+            "placeId": "ChIJn26ZvCl1IocRxBfZANGUZZs"
+        },
+        {
+            "position": 19,
+            "title": "Lovelace Medical Group",
+            "address": "4705 Montgomery Blvd NE, Albuquerque, NM 87109",
+            "latitude": 35.1314177,
+            "longitude": -106.5914547,
+            "rating": 1.5,
+            "ratingCount": 14,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://lovelacemedicalgroup.com/",
+            "phoneNumber": "(505) 727-7800",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=anzh2jbtjbj6CRYaQZns8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=357.7388&pitch=0&thumbfov=100",
+            "cid": "6235605617976621874",
+            "fid": "0x872274e70981837f:0x568952459aed3b32",
+            "placeId": "ChIJf4OBCed0IocRMjvtmkVSiVY"
+        },
+        {
+            "position": 20,
+            "title": "Lovelace Medical Group- General Surgery (Jefferson St)",
+            "address": "6701 Jefferson St NE, Albuquerque, NM 87109",
+            "latitude": 35.1577762,
+            "longitude": -106.59485679999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgeon"
+            ],
+            "website": "https://lovelace.com/facility/lovelace-medical-group-independence-square",
+            "phoneNumber": "(505) 727-7050",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWo0EldXUSWcwz6_oQFTYdUz0xVnv6JIg_r4FQ",
+            "cid": "12424947051604754107",
+            "fid": "0x87227552a6ef29cd:0xac6e478363f03ebb",
+            "placeId": "ChIJzSnvplJ1IocRuz7wY4NHbqw"
+        }
+    ],
+    "credits": 3
+}

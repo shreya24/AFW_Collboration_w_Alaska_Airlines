@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Not-tsoo Gah-nee Indian Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.02688,-112.4282526,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "US Indian Health Services",
+            "address": "33 Mission Rd, Fort Hall, ID 83203",
+            "latitude": 43.02688,
+            "longitude": -112.4282526,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://www.ihs.gov/",
+            "phoneNumber": "(208) 238-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "5251673085410734039",
+            "fid": "0x53553f877c241d65:0x48e1b0d8bc62efd7",
+            "placeId": "ChIJZR0kfIc_VVMR1-9ivNiw4Ug"
+        }
+    ],
+    "credits": 3
+}

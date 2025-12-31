@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence Epilepsy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6476263,-117.4134069,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Epilepsy and Neurology",
+            "address": "105 W 8th Ave Suite 318C, Spokane, WA 99204",
+            "latitude": 47.6476263,
+            "longitude": -117.4134069,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Neurologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center/epilepsy-and-neurology?ls=location&y_source=1_OTU3Njk1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-6650",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8IGnCi2gOViaSPekcXYYjrTBeesxhdn2ljAPEvHYo7IMXZKjl0W1OC3qck6j5ag4w15pCVW_RVvi_Uz_c1PZUSvT1cu8TYLe4UsWfs_EuYrXzo2kPL4bOLw0KbvAEl9T7QP4M1nw",
+            "cid": "3179474745043301292",
+            "fid": "0x549e187c67c64857:0x2c1fc36f5ea1b3ac",
+            "placeId": "ChIJV0jGZ3wYnlQRrLOhXm_DHyw"
+        }
+    ],
+    "credits": 3
+}

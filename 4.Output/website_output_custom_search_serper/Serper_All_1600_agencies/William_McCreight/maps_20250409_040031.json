@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "William McCreight",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2043887,-112.0663172,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. William H. Mccreight, MD",
+            "address": "1319 NE 134th St #107, Vancouver, WA 98685",
+            "latitude": 45.717551799999995,
+            "longitude": -122.6569236,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(360) 571-9799",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wLNAtjxcTmPMHtVxqTDg9w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=95.24913&pitch=0&thumbfov=100",
+            "cid": "13180095891308544284",
+            "fid": "0x5495ade95a2b4729:0xb6e91b61cb08011c",
+            "placeId": "ChIJKUcrWumtlVQRHAEIy2Eb6bY"
+        },
+        {
+            "position": 2,
+            "title": "Mccreight Jr William G MD",
+            "address": "Memorial Hospital, 520 Medical Dr, Guymon, OK 73942",
+            "latitude": 36.6912257,
+            "longitude": -101.4757109,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.mhtcguymon.org/",
+            "phoneNumber": "(580) 338-6515",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tTmpWb0xldzJCOkjfwsCKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=339.0302&pitch=0&thumbfov=100",
+            "cid": "4977135471045032092",
+            "fid": "0x87062903a92056f1:0x4512565746a2b89c",
+            "placeId": "ChIJ8VYgqQMpBocRnLiiRldWEkU"
+        }
+    ],
+    "credits": 3
+}

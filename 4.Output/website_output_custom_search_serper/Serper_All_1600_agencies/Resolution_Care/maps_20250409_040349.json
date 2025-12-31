@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Resolution Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2220375,-71.3563443,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Care Resolutions, Inc.",
+            "address": "51 Forest St, Sherborn, MA 01770",
+            "latitude": 42.2220375,
+            "longitude": -71.3563443,
+            "rating": 4.9,
+            "ratingCount": 11,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://www.careresolutions.com/",
+            "phoneNumber": "(508) 514-5463",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPH_c17oXCtqxEVFIxzdVcXvw1bIcka-Tf4eC6f",
+            "cid": "7432904546963880256",
+            "fid": "0x89e4792d0d126123:0x6726fb4de32af940",
+            "placeId": "ChIJI2ESDS155IkRQPkq4037Jmc"
+        }
+    ],
+    "credits": 3
+}

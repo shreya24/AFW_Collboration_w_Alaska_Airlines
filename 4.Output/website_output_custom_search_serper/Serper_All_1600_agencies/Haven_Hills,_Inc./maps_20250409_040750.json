@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Haven Hills, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1996969,-118.6012579,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Haven Hills, Inc.",
+            "address": "7112 Owensmouth Ave, Canoga Park, CA 91303",
+            "latitude": 34.1996969,
+            "longitude": -118.6012579,
+            "rating": 3.4,
+            "ratingCount": 14,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Charity",
+                "Non-profit organization",
+                "Sheltered housing",
+                "Social services organization"
+            ],
+            "website": "http://havenhills.org/",
+            "phoneNumber": "(818) 887-6589",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNYo1IQV7cdtZvq4UToJSbsvIa5RKK_rd5E5iq9",
+            "cid": "9770677116426860229",
+            "fid": "0x80c29d0b9a293453:0x87986b11f3a936c5",
+            "placeId": "ChIJUzQpmgudwoARxTap8xFrmIc"
+        }
+    ],
+    "credits": 3
+}

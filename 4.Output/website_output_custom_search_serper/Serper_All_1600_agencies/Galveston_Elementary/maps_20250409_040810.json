@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Galveston Elementary",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3126696,-111.8308032,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Galveston Elementary School",
+            "address": "661 E Galveston St, Chandler, AZ 85225",
+            "latitude": 33.3126696,
+            "longitude": -111.83080319999999,
+            "rating": 4.1,
+            "ratingCount": 25,
+            "type": "Elementary school",
+            "types": [
+                "Elementary school"
+            ],
+            "website": "https://www.cusd80.com/Domain/1901",
+            "phoneNumber": "(480) 812-6500",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "3736182120532723191",
+            "fid": "0x872baa222874937f:0x33d995d7ee84c5f7",
+            "placeId": "ChIJf5N0KCKqK4cR98WE7teV2TM"
+        }
+    ],
+    "credits": 3
+}

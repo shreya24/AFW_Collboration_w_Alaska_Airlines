@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "USC Keck Newport",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6252691,-117.9270834,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Keck Medicine of USC - Newport Beach",
+            "address": "330 Old Newport Blvd Suites100 & 200, Newport Beach, CA 92663",
+            "latitude": 33.6250978,
+            "longitude": -117.92729589999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/newport-beach/330-old-newport-blvd/",
+            "phoneNumber": "(949) 646-6441",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104316&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_6gvirJSX0U2_fQZo0DTBYR-entity&rwg_token=AAiGsoayfAX_rA6w_tIwL7_oT4P9FKK-FuluII3p0JDtFSEDKmkhwj9WRZI0ZRS4vjXG9_-EKe5VTeuBe-32TKyRO_2mSiDQvVM-yCSa80oT3XG6zoYKR40%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4BI-l4IDZXTXoYf-PYvihxXjElU49GzPdBo3K",
+            "cid": "10048174434401933305",
+            "fid": "0x80dd2165981faf81:0x8b7249691bb057f9",
+            "placeId": "ChIJga8fmGUh3YAR-VewG2lJcos"
+        },
+        {
+            "position": 2,
+            "title": "Keck Medicine of USC - USC Healthcare Center - Newport Beach",
+            "address": "350 Old Newport Blvd, Newport Beach, CA 92663",
+            "latitude": 33.625440399999995,
+            "longitude": -117.9268709,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/350-old-newport-blvd-newport-beach/",
+            "phoneNumber": "(949) 688-9000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORf44bYMVm7NRayJOG8l5Xc-0JcGm9nBjtu4vK",
+            "cid": "138906036599137438",
+            "fid": "0x80dd211517c4c3a3:0x1ed7e4de8a6249e",
+            "placeId": "ChIJo8PEFxUh3YARniSm6E1-7QE"
+        }
+    ],
+    "credits": 3
+}

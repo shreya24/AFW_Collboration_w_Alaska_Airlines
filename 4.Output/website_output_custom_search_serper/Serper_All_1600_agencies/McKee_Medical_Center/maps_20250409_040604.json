@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "McKee Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4132365,-105.0513281,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner McKee Medical Center",
+            "address": "2000 N Boise Ave, Loveland, CO 80538",
+            "latitude": 40.4132365,
+            "longitude": -105.05132809999999,
+            "rating": 2.7,
+            "ratingCount": 296,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/loveland/mckee-medical-center?y_source=1_MTE5MDczNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(970) 820-4640",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-imNJuaIiW55ANRXg5rYEMXnCjQfNqO2Hly2ch-UMRRBr2J5v6rGe-5ku1Nm_IZSb51hayNDHCd1deaMIdciHOCKF9YM_5sXJBZQ3KwWnLE_QONWF71R5XyrLd9He0_EbBEFn_",
+            "cid": "10904382165035582450",
+            "fid": "0x876952df17e51f6d:0x975425ce220d03f2",
+            "placeId": "ChIJbR_lF99SaYcR8gMNIs4lVJc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Granger Medical West Valley",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6960903,-111.9628861,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Granger Medical Clinic, West Valley",
+            "address": "2965 W 3500 S, West Valley City, UT 84119",
+            "latitude": 40.696053899999995,
+            "longitude": -111.96307329999999,
+            "rating": 4.4,
+            "ratingCount": 2994,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Dermatologist",
+                "Family practice physician",
+                "Neurologist",
+                "Ophthalmologist",
+                "Optometrist",
+                "Pediatrician",
+                "Plastic surgeon"
+            ],
+            "website": "https://www.grangermedical.com/locations/fairbourne-station/",
+            "phoneNumber": "(801) 965-3600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4AVgUguP7XRjzLbTi7nTzNvhNkUq0qocTnVaT",
+            "cid": "8923039761016338066",
+            "fid": "0x87528cf45f3d5c4f:0x7bd50162e810b692",
+            "placeId": "ChIJT1w9X_SMUocRkrYQ6GIB1Xs"
+        },
+        {
+            "position": 2,
+            "title": "Granger Medical Clinic - Urgent Care, West Valley",
+            "address": "2965 W 3500 S, West Valley City, UT 84119",
+            "latitude": 40.6961267,
+            "longitude": -111.96269889999999,
+            "rating": 4.3,
+            "ratingCount": 596,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.grangermedical.com/locations/granger-medical-west-valley/",
+            "phoneNumber": "(801) 965-3608",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_7LI6P51dqgcp1Ko8P1n3UZtLmHijHEbiECZb",
+            "cid": "15420169103913255001",
+            "fid": "0x87528d6e2fafdbab:0xd5ff7219b7340059",
+            "placeId": "ChIJq9uvL26NUocRWQA0txly_9U"
+        }
+    ],
+    "credits": 3
+}

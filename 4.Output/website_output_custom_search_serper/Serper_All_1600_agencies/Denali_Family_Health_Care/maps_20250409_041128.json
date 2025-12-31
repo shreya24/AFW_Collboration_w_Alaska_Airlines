@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Denali Family Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.3967381,-149.5874659,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denali Family Services",
+            "address": "1251 Muldoon Rd #116, Anchorage, AK 99504",
+            "latitude": 61.2100869,
+            "longitude": -149.73069669999998,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Foster care service"
+            ],
+            "website": "http://www.denalifs.org/",
+            "phoneNumber": "(907) 274-8281",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZk1lnM7MEaUik65UT7B_UIMuosMFnJBKNXCn1",
+            "cid": "1032131016315964995",
+            "fid": "0x56c896a367af346d:0xe52ddb0dd2d0e43",
+            "placeId": "ChIJbTSvZ6OWyFYRQw4t3bDdUg4"
+        },
+        {
+            "position": 2,
+            "title": "Denali Family Services",
+            "address": "291 E Swanson Ave, Wasilla, AK 99654",
+            "latitude": 61.5833893,
+            "longitude": -149.44423519999998,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Foster care service"
+            ],
+            "website": "http://www.denalifs.org/",
+            "phoneNumber": "(907) 376-3275",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtAAxdIbbFERt2-M3PrmyI6wuNynZJ0fd7qp9h",
+            "cid": "16683761759585207255",
+            "fid": "0x56c8de6c646f933d:0xe788a0ed0d5283d7",
+            "placeId": "ChIJPZNvZGzeyFYR14NSDe2giOc"
+        }
+    ],
+    "credits": 3
+}

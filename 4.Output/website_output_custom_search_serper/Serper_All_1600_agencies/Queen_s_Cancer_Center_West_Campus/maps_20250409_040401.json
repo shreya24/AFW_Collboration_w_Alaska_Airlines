@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Queen's Cancer Center West Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3395926,-157.9403713,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Queen's Cancer Center West Oahu",
+            "address": "Queen\u2019s Cancer Center, Clinical Service Center, 91-2135 Fort Weaver Rd # B120, Ewa Beach, HI 96706",
+            "latitude": 21.3718069,
+            "longitude": -158.027199,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/cancer/",
+            "phoneNumber": "(808) 691-3035",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObEEuB7es1hThVBXaiWr4zq4vGvqCLXSDXIC5G",
+            "cid": "13915363215951427949",
+            "fid": "0x7c0065eee5098fbd:0xc11d4d1e3f52796d",
+            "placeId": "ChIJvY8J5e5lAHwRbXlSPx5NHcE"
+        },
+        {
+            "position": 2,
+            "title": "Queen's Cancer Center",
+            "address": "via Kamehameha Elevator, 1301 Punchbowl St Level 1, Honolulu, HI 96813",
+            "latitude": 21.3073782,
+            "longitude": -157.8535436,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/services/cancer/",
+            "phoneNumber": "(808) 691-8777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPB6NoLRMJ-z-PoWlIuVCD7XK1ik8g8R1VPXgfU",
+            "cid": "12088641697564908870",
+            "fid": "0x7c006d4dbc1c845d:0xa7c37b935854dd46",
+            "placeId": "ChIJXYQcvE1tAHwRRt1UWJN7w6c"
+        }
+    ],
+    "credits": 3
+}

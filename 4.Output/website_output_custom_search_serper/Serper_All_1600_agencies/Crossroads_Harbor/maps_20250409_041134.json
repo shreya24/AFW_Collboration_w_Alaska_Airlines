@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Crossroads Harbor",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6048362,-113.6908087,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Crossroads Harbor",
+            "address": "115 W 100 S, Rupert, ID 83350",
+            "latitude": 42.6048362,
+            "longitude": -113.69080869999999,
+            "rating": 3.6,
+            "ratingCount": 10,
+            "type": "Shelter",
+            "types": [
+                "Shelter"
+            ],
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFOl2IOA2jQGcNlxQQQyoAJ9VY_mtZjukx2jdE",
+            "cid": "15358756418068015339",
+            "fid": "0x54ab31403baf7497:0xd52543968ab1e8eb",
+            "placeId": "ChIJl3SvO0Axq1QR6-ixipZDJdU"
+        }
+    ],
+    "credits": 3
+}

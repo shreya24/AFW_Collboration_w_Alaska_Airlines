@@ -1,0 +1,135 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Santa Clara",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3584483,-121.9946024,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Santa Clara Medical Center",
+            "address": "700 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.335927999999996,
+            "longitude": -121.9994844,
+            "rating": 4.4,
+            "ratingCount": 2043,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Santa-Clara-Medical-Center-100305",
+            "phoneNumber": "(408) 851-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMsfUo-Sx15nvsUPKxbKqYvVGT3C8W4G6U8Vo-P",
+            "cid": "5221244211082759908",
+            "fid": "0x808fb58f52973dcd:0x487595f257270ee4",
+            "placeId": "ChIJzT2XUo-1j4AR5A4nV_KVdUg"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Santa Clara Medical Offices",
+            "address": "710 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.336334199999996,
+            "longitude": -121.9974591,
+            "rating": 4.7,
+            "ratingCount": 301,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/santa-clara-medical-center-100305",
+            "phoneNumber": "(408) 851-1000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOgXAuazb0Tvx-cgUsyAX3CLI4VxBQjDkVK26ud",
+            "cid": "18045449476860447014",
+            "fid": "0x808fb5ccce4babd7:0xfa6e50b0b8868926",
+            "placeId": "ChIJ16tLzsy1j4ARJomGuLBQbvo"
+        },
+        {
+            "position": 3,
+            "title": "Emergency Room | Kaiser Permanente Santa Clara Medical Center and Medical Offices",
+            "address": "700 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.3355982,
+            "longitude": -121.99890099999999,
+            "rating": 2.1,
+            "ratingCount": 123,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/santa-clara-medical-center-100305",
+            "phoneNumber": "(408) 851-5300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMzEdL2HmOCgnFSDll18CE4Feq_ULtt8KNT7AEJ",
+            "cid": "18204126538791962077",
+            "fid": "0x808fb588af220073:0xfca20ca32ef4c5dd",
+            "placeId": "ChIJcwAir4i1j4AR3cX0LqMMovw"
+        },
+        {
+            "position": 4,
+            "title": "Kaiser Permanente Santa Clara Medical Center - Medical Office Building",
+            "address": "710 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.3359423,
+            "longitude": -121.9970802,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/santa-clara-medical-center-100305",
+            "phoneNumber": "(408) 236-6400",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOn2sJtbAkyhrw_Dc3ZEo98wlwgizG4PmagpaeG",
+            "cid": "2472181182243964458",
+            "fid": "0x808fb588a4a59b75:0x224ef3afe40e862a",
+            "placeId": "ChIJdZulpIi1j4ARKoYO5K_zTiI"
+        },
+        {
+            "position": 5,
+            "title": "Kaiser Permanente Santa Clara Arques Medical Offices",
+            "address": "1263 E Arques Ave, Sunnyvale, CA 94085",
+            "latitude": 37.3812984,
+            "longitude": -121.98972029999999,
+            "rating": 3.7,
+            "ratingCount": 40,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Santa-Clara-Arques-Medical-Offices-300533",
+            "phoneNumber": "(408) 851-1000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMGrkI252kOZ8rD3UwB4gwPQO7D0CcEvJ-GmYrZ",
+            "cid": "13569868390860233621",
+            "fid": "0x808fc9e3d5d8f63b:0xbc51db67be069b95",
+            "placeId": "ChIJO_bY1ePJj4ARlZsGvmfbUbw"
+        }
+    ],
+    "credits": 3
+}

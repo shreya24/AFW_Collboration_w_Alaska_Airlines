@@ -1,0 +1,404 @@
+{
+    "searchParameters": {
+        "q": "West Hills Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7050894,-103.9177802,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA West Valley Medical Center",
+            "address": "7300 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2028189,
+            "longitude": -118.62878149999999,
+            "rating": 4.1,
+            "ratingCount": 2589,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "University hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.uclahealth.org/hospitals/west-valley",
+            "phoneNumber": "(818) 676-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-6QbbTxMtNW0IMLYCiEoagY2EY5TYXKcmC7QLHO5sYiCw_YdX3yksTW5uXnfJzUEx57w4HeYTD4TcK4SMoQkaoYHko8eivMaiuim3LOQdZXgZGN0bxiv5fue75GBgAeD-0sdk",
+            "cid": "15422253077435768779",
+            "fid": "0x80c29db3ae29c899:0xd606d9769cbbdfcb",
+            "placeId": "ChIJmcgprrOdwoARy9-7nHbZBtY"
+        },
+        {
+            "position": 2,
+            "title": "West Hills Medical Group",
+            "address": "222 Coalinga Plaza, Coalinga, CA 93210",
+            "latitude": 36.1400023,
+            "longitude": -120.36035539999999,
+            "rating": 2.8,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Physiatrist"
+            ],
+            "website": "http://www.adventisthealth.org/",
+            "phoneNumber": "(559) 935-5555",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9FEEfRIVK1qQbRI1G5jfeFuI0PWNi8qu9xbrMr4btYXzv92cZmNFAda399Gg1Uwmf8Arc_RrrOfpuI0RM56JKQ1S05VfIsIzkegersIh6M9CIBGf-1rapmMALx6ZlqbujVLiG54Q",
+            "cid": "6986155101736246478",
+            "fid": "0x80934346ae8b25af:0x60f3cf0d00c59cce",
+            "placeId": "ChIJryWLrkZDk4ARzpzFAA3P82A"
+        },
+        {
+            "position": 3,
+            "title": "West Hills Family Care",
+            "address": "2163 NW 2nd St, McMinnville, OR 97128",
+            "latitude": 45.2094296,
+            "longitude": -123.22872609999999,
+            "rating": 3,
+            "ratingCount": 29,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "http://www.westhillshealthcare.com/",
+            "phoneNumber": "(503) 472-4197",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.westhillsfamilycare.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-iw0PNTGAU5Tb13NdialvRiegUtldXNBYRMiJwuY3kegmVoCuR_VAoXsCg2c_kOzXmUPIasawbjAATGerx5Y36sLZewwMWV51aNntHAyMCP3LKR2awV0eoOWp-l-ySZ3U3kQjW",
+            "cid": "11905087831609874367",
+            "fid": "0x5495491089c637d7:0xa5375e4e96ee97bf",
+            "placeId": "ChIJ1zfGiRBJlVQRv5fulk5eN6U"
+        },
+        {
+            "position": 4,
+            "title": "UCLA West Valley Medical Center Emergency Room",
+            "address": "7300 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2029255,
+            "longitude": -118.62877909999999,
+            "rating": 3.3,
+            "ratingCount": 247,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.uclahealth.org/hospitals/west-valley/specialty-care#emergency-care",
+            "phoneNumber": "(818) 676-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ytGh8QuUzaKMmj1iRQ17o8SAZ6msTOiStlQHRMvYU2w6MsyEtKFzxH7xV0dPIT0sljy4r4COKV9YBuBoUrUSmkG_12LJtt4iM9nc1AAl2WUr1GXJemfq4fXq_9-4LwhEpzgBZ",
+            "cid": "10074231024598220785",
+            "fid": "0x80c29db311da29cb:0x8bcedbbdc6657ff1",
+            "placeId": "ChIJyynaEbOdwoAR8X9lxr3bzos"
+        },
+        {
+            "position": 5,
+            "title": "Lakeside Community Healthcare - West Hills",
+            "address": "7325 Medical Center Dr #300, West Hills, CA 91307",
+            "latitude": 34.203423199999996,
+            "longitude": -118.6298556,
+            "rating": 4.4,
+            "ratingCount": 86,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dermatologist",
+                "Family practice physician"
+            ],
+            "website": "https://locations.lakesidemed.com/west-hills/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(818) 595-3580",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOiv4bgyHHmEdTuXvHMLG1Y7KfKYyCvWaBh3lEk",
+            "cid": "17458138176803269367",
+            "fid": "0x80c29db3acb75cc9:0xf247c42cb40b6af7",
+            "placeId": "ChIJyVy3rLOdwoAR92oLtCzER_I"
+        },
+        {
+            "position": 6,
+            "title": "West Hills Health & Rehab Center",
+            "address": "7940 Topanga Canyon Blvd, Canoga Park, CA 91304",
+            "latitude": 34.2147824,
+            "longitude": -118.6054168,
+            "rating": 3.4,
+            "ratingCount": 25,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Home health care service",
+                "Nursing home",
+                "Physical therapy clinic"
+            ],
+            "website": "https://westhillsrehab.com/",
+            "phoneNumber": "(818) 347-3800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8fmaMxHuFQ1Ya95e7OSf_uWj4FYD-ZEpoFDeBxq8rKdMpOmnmNKMJSVlyJa744nTUwMBlyfoBTRbizEEE6cHPxECeRF3wRZEdPhdnsmZ-c18Yrbhq9fBqS6QfWx3tgKwl00co",
+            "cid": "5479867430512259213",
+            "fid": "0x80c29c5db3b152c7:0x4c0c6664fbea708d",
+            "placeId": "ChIJx1Kxs12cwoARjXDq-2RmDEw"
+        },
+        {
+            "position": 7,
+            "title": "West Hills Hospital & Medical Center: Anesthesiology Services",
+            "address": "7300 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2025408,
+            "longitude": -118.6290899,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Anesthesiologist"
+            ],
+            "website": "http://westhillshospital.com/",
+            "phoneNumber": "(818) 676-4000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vbs5p7C6_D2yFw9P-Zrlsw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=94.47586&pitch=0&thumbfov=100",
+            "cid": "14135895282971406783",
+            "fid": "0x80c29db3ae29c899:0xc42cc9dd5ba171bf",
+            "placeId": "ChIJmcgprrOdwoARv3GhW93JLMQ"
+        },
+        {
+            "position": 8,
+            "title": "West Hills Medical & Aesthetics Center",
+            "address": "7230 Medical Center Dr UNIT 304, West Hills, CA 91307",
+            "latitude": 34.2016728,
+            "longitude": -118.62895689999999,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "http://www.westhillsmedicalaestheticscenter.com/",
+            "phoneNumber": "(818) 702-9962",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YnM7ajWN3YeNWgDqvwq8ig&cb_client=search.gws-prod.gps&w=80&h=92&yaw=62.22493&pitch=0&thumbfov=100",
+            "cid": "6939546689075727337",
+            "fid": "0x80c29d41a35c9c0d:0x604e38f24898cbe9",
+            "placeId": "ChIJDZxco0GdwoAR6cuYSPI4TmA"
+        },
+        {
+            "position": 9,
+            "title": "West Hills Wellness Center",
+            "address": "22660 Sherman Way, West Hills, CA 91307",
+            "latitude": 34.2007492,
+            "longitude": -118.6209514,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Public medical center",
+            "types": [
+                "Public medical center"
+            ],
+            "phoneNumber": "(818) 805-3204",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8HB3UbRgAIO9Mtr5xCOKfLpLC0CTEOcIesATxyegaE8VD383yk6vjqjd7Iwf1zJl-QemmBEoKps7Em3R_odLuiFo-Db2Qu7lCJrfSFJaMNHLPEwoXeQ-SaOwthGgfsVDw04-e-Cw",
+            "cid": "2509048560193124337",
+            "fid": "0x80c29d089ddebd8d:0x22d1ee5f3a8437f1",
+            "placeId": "ChIJjb3enQidwoAR8TeEOl_u0SI"
+        },
+        {
+            "position": 10,
+            "title": "Oak Hills Medical Plaza",
+            "address": "7345 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2031723,
+            "longitude": -118.6315753,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Pzu1xhmUMxiP2ECTmk8hw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.77106&pitch=0&thumbfov=100",
+            "cid": "17381819874941658370",
+            "fid": "0x80c29db232c08819:0xf138a1155bb8e502",
+            "placeId": "ChIJGYjAMrKdwoARAuW4WxWhOPE"
+        },
+        {
+            "position": 11,
+            "title": "UCLA Health West Hills Primary & Specialty Care",
+            "address": "7345 Medical Center Dr #420, West Hills, CA 91307",
+            "latitude": 34.2031462,
+            "longitude": -118.63160289999999,
+            "rating": 2.1,
+            "ratingCount": 7,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist",
+                "Family practice physician",
+                "Internist"
+            ],
+            "website": "https://www.uclahealth.org/locations/west-hills?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(818) 251-9750",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/new-patient-appointment-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO7RsJPtx47cskbbpn7UFYoVvSb8XAL-2GtKBoO",
+            "cid": "11184096355144909496",
+            "fid": "0x80c29d47acd541a3:0x9b35e4610e2742b8",
+            "placeId": "ChIJo0HVrEedwoARuEInDmHkNZs"
+        },
+        {
+            "position": 12,
+            "title": "Providence Medical Institute Primary Care - West Hills",
+            "address": "7345 Medical Center Dr #600, West Hills, CA 91307",
+            "latitude": 34.2031468,
+            "longitude": -118.63155189999999,
+            "rating": 1.9,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/socal/providence-medical-institute-primary-care-west-hills?Is=location&y_source=1_OTU3NjAzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(818) 347-2921",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/providence-medical-institute-primary-care-west-hills#llaid=5931sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ3s-6XbWQa555zh6IfpCl5HwhROP1XuXdA5td",
+            "cid": "304384826725220679",
+            "fid": "0x80c29db2327e0df9:0x43964631ff9c147",
+            "placeId": "ChIJ-Q1-MrKdwoARR8H5H2NkOQQ"
+        },
+        {
+            "position": 13,
+            "title": "West Hills Family Practice",
+            "address": "23101 Sherman Pl, West Hills, CA 91307",
+            "latitude": 34.2015096,
+            "longitude": -118.62980909999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(818) 883-0313",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L68u_qhKynxAow5FVLdKzg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=53.230217&pitch=0&thumbfov=100",
+            "cid": "14086514960820875629",
+            "fid": "0x80c29db384ed340b:0xc37d5ab92af4316d",
+            "placeId": "ChIJCzTthLOdwoARbTH0KrlafcM"
+        },
+        {
+            "position": 14,
+            "title": "West Hills Surgical Center",
+            "address": "7240 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2018613,
+            "longitude": -118.62820099999999,
+            "rating": 3.7,
+            "ratingCount": 27,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.uclahealth.org/locations/west-hills-surgical-center",
+            "phoneNumber": "(818) 226-9151",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "6\u202fAM\u20135\u202fPM",
+                "Friday": "6\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://westhillssurgicalcenter.com/physicians/index.dot/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9x5oJVwenDVb1BrsSV-qhS0jW5woMhCxqFusyRXiHBTlRVCL5wYwz6S9q4Fgd6NUcnqHutfzd-JFQxudWOzegDbbswWoWE3w9yaEfJmV9C7v8e5_pKuzS5YP831J9B0ZYODyw",
+            "cid": "6057895309541198548",
+            "fid": "0x80c29db39df3e9d7:0x5411f7b01bb54ad4",
+            "placeId": "ChIJ1-nznbOdwoAR1Eq1G7D3EVQ"
+        },
+        {
+            "position": 15,
+            "title": "Western Hills Medical Center",
+            "address": "3131 Queen City Ave, Cincinnati, OH 45238",
+            "latitude": 39.135228399999995,
+            "longitude": -84.6068343,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(513) 389-5222",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bimADFok3eNY-5N8hcJqHA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=40.953922&pitch=0&thumbfov=100",
+            "cid": "3333696831181438103",
+            "fid": "0x8841b58a931a4a83:0x2e43ab9af36a3c97",
+            "placeId": "ChIJg0oak4q1QYgRlzxq85qrQy4"
+        }
+    ],
+    "credits": 3
+}

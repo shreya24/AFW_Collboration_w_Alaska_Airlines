@@ -1,0 +1,93 @@
+{
+    "searchParameters": {
+        "q": "Yellowstone Urology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.2579875,-91.1827239,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Downtown Clinic \u2013 Urology",
+            "address": "2900 12th Ave N Ste 160W, Billings, MT 59101",
+            "latitude": 45.7925721,
+            "longitude": -108.5182078,
+            "rating": 4.5,
+            "ratingCount": 55,
+            "type": "Urologist",
+            "types": [
+                "Urologist",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/intermountain-health-downtown-clinic/downtown-clinic-urology?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 237-5400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/intermountain-health-downtown-clinic/downtown-clinic-urology?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgH44jGKbUaY5rKlDbwa8gb71L80ka6ud6et_s",
+            "cid": "1054454011937750079",
+            "fid": "0x53487b5f4cacd79f:0xea22c564d88fc3f",
+            "placeId": "ChIJn9esTF97SFMRP_yITVYsog4"
+        },
+        {
+            "position": 2,
+            "title": "NY Urology",
+            "address": "69-15 Yellowstone Blvd STE 1, Forest Hills, NY 11375",
+            "latitude": 40.723403,
+            "longitude": -73.84724,
+            "rating": 4.6,
+            "ratingCount": 266,
+            "type": "Nephrologist",
+            "types": [
+                "Nephrologist"
+            ],
+            "website": "https://www.nyurology.com/",
+            "phoneNumber": "(718) 360-9550",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.nyurology.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.tebra.com/care/practice/ny-urology-780715?lid=2162081416&rwg_token=AAiGsobIJ_Ii63kf6K193fKKZ-8lLWDnqEv_AITWfkAYOOwu8aUsv3B6lFvbCIaZwcq8NhRiBnhAzh9PFAftYQxIIvzfA78YjA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNAJtkEcO9OsDL9arWvg_b8-w_VjqydVuWkfzI",
+            "cid": "14102997493712150349",
+            "fid": "0x89c25e266bfc7343:0xc3b7e97fe8efdf4d",
+            "placeId": "ChIJQ3P8ayZewokRTd_v6H_pt8M"
+        },
+        {
+            "position": 3,
+            "title": "Yellowstone Urology",
+            "address": "2900 E 12th St #503E, Casper, WY 82609",
+            "latitude": 42.839092799999996,
+            "longitude": -106.28921629999999,
+            "type": "Urology clinic",
+            "types": [
+                "Urology clinic"
+            ],
+            "phoneNumber": "(307) 237-5400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zJK3aOY_DqT7a4ZRpdlkUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=5.904321&pitch=0&thumbfov=100",
+            "cid": "3048601338160091",
+            "fid": "0x8760bb85369023e5:0xad4afcfd2a3db",
+            "placeId": "ChIJ5SOQNoW7YIcR26PSz6_UCgA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Iron County School District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6589369,-113.087674,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Iron County School District",
+            "address": "2077 W Royal Hunte Dr, Cedar City, UT 84720",
+            "latitude": 37.6589369,
+            "longitude": -113.08767399999999,
+            "rating": 1.9,
+            "ratingCount": 15,
+            "type": "School district office",
+            "types": [
+                "School district office"
+            ],
+            "website": "http://irondistrict.org/",
+            "phoneNumber": "(435) 586-2804",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ncwO2rgcP6eoYrVnjWBAY7WEu6xZotzEc2gnZsAta1rqpZr0FaAVMpih7rF4w7nmo2n70UBlvIvHVey-wXbUliexRfYYKUL0D2FQsl-3_mRFHcs40at6xwph_bzzhQzfBRHGb",
+            "cid": "4667729292861320003",
+            "fid": "0x80b561f1424bee8f:0x40c71b0fa8af2b43",
+            "placeId": "ChIJj-5LQvFhtYARQyuvqA8bx0A"
+        }
+    ],
+    "credits": 3
+}

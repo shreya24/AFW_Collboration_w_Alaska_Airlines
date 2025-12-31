@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Kapiolani Orthopedic Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2999562,-157.8337386,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kapiolani Bone & Joint Center",
+            "address": "1319 Punahou St # 630, Honolulu, HI 96826",
+            "latitude": 21.2999562,
+            "longitude": -157.8337386,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Pediatric orthopedic surgeon",
+            "types": [
+                "Pediatric orthopedic surgeon"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/kapiolani/services/bone-joint/",
+            "phoneNumber": "(808) 945-3766",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vTKGPWcmg3IBjllKzCMQ9Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=126.48986&pitch=0&thumbfov=100",
+            "cid": "11097421979702845452",
+            "fid": "0x7c006deb22f366ff:0x9a01f67e6ecce00c",
+            "placeId": "ChIJ_2bzIuttAHwRDODMbn72AZo"
+        }
+    ],
+    "credits": 3
+}

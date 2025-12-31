@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Neighborhood Place of Kona",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.6400433,-155.9901763,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Neighborhood Place of Kona",
+            "address": "75-166 Kalani St # 104, Kailua-Kona, HI 96740",
+            "latitude": 19.6400433,
+            "longitude": -155.9901763,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://npkona.org/",
+            "phoneNumber": "(808) 331-8777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0mVj44yozWfwVypIhjHXEQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=152.39539&pitch=0&thumbfov=100",
+            "cid": "11089515241231636795",
+            "fid": "0x79540e585d9dbc19:0x99e5df5b6ce4593b",
+            "placeId": "ChIJGbydXVgOVHkRO1nkbFvf5Zk"
+        }
+    ],
+    "credits": 3
+}

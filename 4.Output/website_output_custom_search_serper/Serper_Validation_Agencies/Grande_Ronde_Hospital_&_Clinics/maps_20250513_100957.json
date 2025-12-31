@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Grande Ronde Hospital & Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3181425,-118.1015785,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "GRH Regional Medical Clinic",
+            "address": "506 Fourth St, La Grande, OR 97850",
+            "latitude": 45.316600199999996,
+            "longitude": -118.09703479999999,
+            "rating": 4,
+            "ratingCount": 120,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.grh.org/our-services/clinics/regional-medical-clinic/",
+            "phoneNumber": "(541) 663-3138",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN6P8VS3kruXr-3shBei7FSpZOpFkwd08JdhgJG",
+            "cid": "278575040911928575",
+            "fid": "0x54a37741da3459b3:0x3ddb28614d86cff",
+            "placeId": "ChIJs1k02kF3o1QR_2zYFIay3QM"
+        },
+        {
+            "position": 2,
+            "title": "Grande Ronde Hospital",
+            "address": "900 Sunset Dr, La Grande, OR 97850",
+            "latitude": 45.3196848,
+            "longitude": -118.1061222,
+            "rating": 2.4,
+            "ratingCount": 45,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.grh.org/",
+            "phoneNumber": "(541) 963-8421",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJ7wdB-y0Yw7G2kNZvrehFhgkNQQawF5cbElsv",
+            "cid": "7676651718016845404",
+            "fid": "0x54a3776e329be1e9:0x6a88f2109cc9465c",
+            "placeId": "ChIJ6eGbMm53o1QRXEbJnBDyiGo"
+        }
+    ],
+    "credits": 3
+}

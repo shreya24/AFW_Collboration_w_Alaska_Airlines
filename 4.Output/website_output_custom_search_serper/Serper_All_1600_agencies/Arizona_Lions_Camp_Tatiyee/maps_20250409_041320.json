@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Arizona Lions Camp Tatiyee",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1774325,-110.0115578,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lion's Camp Tatiyee - Special Needs Summer Camp",
+            "address": "5283 W White Mountain Blvd, Lakeside, AZ 85929",
+            "latitude": 34.177973699999995,
+            "longitude": -110.01071549999999,
+            "rating": 4.6,
+            "ratingCount": 39,
+            "type": "Summer camp organizer",
+            "types": [
+                "Summer camp organizer",
+                "Disability services and support organization",
+                "Non-profit organization"
+            ],
+            "website": "http://www.camptatiyee.org/",
+            "phoneNumber": "(480) 380-4254",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "1\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ncDDYExnH-SzAfSrlqxfFOdNZimxY86XZ_02IBKef9Br4K4eeDKiH3ZeA09aUzab3AKc1BC-ggQJ0srKBgWzb9EUOPw8NsMQ3JWpmz3Zhl35PF5fdYMfmm53EWMLywi7eLRqCnQ",
+            "cid": "8849995318133305294",
+            "fid": "0x872bb1e84d2e7d17:0x7ad17fda4134afce",
+            "placeId": "ChIJF30uTeixK4cRzq80Qdp_0Xo"
+        },
+        {
+            "position": 2,
+            "title": "Lions camp tatiyee",
+            "address": "Lions Camp Rd, Lakeside, AZ 85929",
+            "latitude": 34.1768913,
+            "longitude": -110.0124001,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "website": "https://www.camptatiyee.org/",
+            "cid": "11869990044489462702",
+            "fid": "0x8728cb956a8f351b:0xa4baad0e3937b3ae",
+            "placeId": "ChIJGzWPapXLKIcRrrM3OQ6tuqQ"
+        }
+    ],
+    "credits": 3
+}

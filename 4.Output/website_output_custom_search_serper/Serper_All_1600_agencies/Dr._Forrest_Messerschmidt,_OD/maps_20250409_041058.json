@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr. Forrest Messerschmidt, OD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3640429,-134.5788123,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Messerschmidt Forrest OD",
+            "address": "8800 Glacier Hwy, Juneau, AK 99801",
+            "latitude": 58.364042899999994,
+            "longitude": -134.57881229999998,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Optometrist",
+            "types": [
+                "Optometrist"
+            ],
+            "phoneNumber": "(907) 789-1855",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "5631024616331443467",
+            "fid": "0x54011e2024b65b1f:0x4e256b0dd9ea7d0b",
+            "placeId": "ChIJH1u2JCAeAVQRC33q2Q1rJU4"
+        }
+    ],
+    "credits": 3
+}

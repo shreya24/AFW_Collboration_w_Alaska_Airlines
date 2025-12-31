@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "grandfather",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0950382,-81.8322765,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grandfather Mountain",
+            "address": "2050 Blowing Rock Hwy, Linville, NC 28646",
+            "latitude": 36.0950382,
+            "longitude": -81.83227649999999,
+            "rating": 4.8,
+            "ratingCount": 6202,
+            "type": "Nature preserve",
+            "types": [
+                "Nature preserve",
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "http://www.grandfather.com/",
+            "phoneNumber": "(828) 733-4337",
+            "description": "Nature preserve with rugged peaks, alpine hiking trails, a nature museum & backcountry camping.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWdMR4TbaHDWQ_izcCS0XZhAh6t94jySc2Ggnh",
+            "cid": "10647453652103225281",
+            "fid": "0x8850ecc227f8d015:0x93c35aaf180c5fc1",
+            "placeId": "ChIJFdD4J8LsUIgRwV8MGK9aw5M"
+        }
+    ],
+    "credits": 3
+}

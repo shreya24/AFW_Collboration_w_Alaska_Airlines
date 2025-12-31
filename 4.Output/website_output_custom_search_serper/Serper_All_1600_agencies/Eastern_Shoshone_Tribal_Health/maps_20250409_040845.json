@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Eastern Shoshone Tribal Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.9978618,-108.8758286,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eastern Shoshone Tribal Health",
+            "address": "15230 US-287, Fort Washakie, WY 82514",
+            "latitude": 42.997861799999995,
+            "longitude": -108.87582859999999,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "phoneNumber": "(307) 332-6805",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:45\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:45\u202fPM",
+                "Thursday": "8\u202fAM\u20134:45\u202fPM",
+                "Friday": "8\u202fAM\u20134:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:45\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LNMjuYwJKxh-xq98wuisgQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=60.831173&pitch=0&thumbfov=100",
+            "cid": "14511275560313420914",
+            "fid": "0x87585975a50a48a7:0xc962683cf249fc72",
+            "placeId": "ChIJp0gKpXVZWIcRcvxJ8jxoYsk"
+        }
+    ],
+    "credits": 3
+}

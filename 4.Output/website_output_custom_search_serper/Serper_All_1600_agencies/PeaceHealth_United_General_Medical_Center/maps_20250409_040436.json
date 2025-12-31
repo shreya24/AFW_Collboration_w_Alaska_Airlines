@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "PeaceHealth United General Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.4958239,-122.2760621,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth United General Medical Center",
+            "address": "2000 Hospital Dr, Sedro-Woolley, WA 98284",
+            "latitude": 48.4958239,
+            "longitude": -122.27606209999999,
+            "rating": 2.5,
+            "ratingCount": 84,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-united-general-medical-center?utm_source=gbp&utm_medium=organic&utm_content=SEDR-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 856-6021",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4jfx98z5GZTv3HGsBOg3ZXLu-vaawWElom2aDFRejkwUer8p41LcZSpUsWUd-RPLAOP7JgImLy9fed483Ajgm14wfhMbTVODa2cRyiZvf2xkOvL7eT5jO04GE4fWQWY_YjcIxqQ",
+            "cid": "1106138390200387730",
+            "fid": "0x54856d49a5eda119:0xf59cb015c510892",
+            "placeId": "ChIJGaHtpUlthVQRkghRXAHLWQ8"
+        }
+    ],
+    "credits": 3
+}

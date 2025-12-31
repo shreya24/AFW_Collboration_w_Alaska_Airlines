@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr Richard Cross",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6265821,-83.0221542,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Richard J. Cross, MD",
+            "address": "11051 Hall Rd Suite 240, Utica, MI 48317",
+            "latitude": 42.6265821,
+            "longitude": -83.0221542,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Nephrologist",
+            "types": [
+                "Nephrologist"
+            ],
+            "website": "https://kvadocs.com/",
+            "phoneNumber": "(586) 232-5855",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "12022534225699364460",
+            "fid": "0x8824d60349ac0d81:0xa6d89f2e1ec95e6c",
+            "placeId": "ChIJgQ2sSQPWJIgRbF7JHi6f2KY"
+        }
+    ],
+    "credits": 3
+}

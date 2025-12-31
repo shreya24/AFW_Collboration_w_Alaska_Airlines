@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Arroyo Chamiso Pediatric Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.659526,-105.947064,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHRISTUS St. Vincent Arroyo Chamiso Pediatrics",
+            "address": "465 St Michaels Dr Ste 200, Santa Fe, NM 87505",
+            "latitude": 35.659526,
+            "longitude": -105.947064,
+            "rating": 2.7,
+            "ratingCount": 34,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.christushealth.org/locations/st-vincent-arroyo-chamiso-pediatrics?utm_source=organic&utm_medium=GMB&utm_campaign=website",
+            "phoneNumber": "(505) 913-4901",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.christushealth.org/locations/st-vincent-arroyo-chamiso-pediatrics"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mZvsYvmAbvhMONPjk5qw1w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=102.81777&pitch=0&thumbfov=100",
+            "cid": "13383593222579288032",
+            "fid": "0x8718508ddf812fe7:0xb9bc13206a29f7e0",
+            "placeId": "ChIJ5y-B341QGIcR4PcpaiATvLk"
+        }
+    ],
+    "credits": 3
+}

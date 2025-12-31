@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Northwest Medical Specialties - Lakewood",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2461808,-122.4477817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Medical Specialties",
+            "address": "1624 S I St UNIT 102, Tacoma, WA 98405",
+            "latitude": 47.2461808,
+            "longitude": -122.4477817,
+            "rating": 4,
+            "ratingCount": 62,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center",
+                "Doctor",
+                "Infectious disease physician",
+                "Internist",
+                "Oncologist",
+                "Pharmacy"
+            ],
+            "website": "https://www.nwmedicalspecialties.com/",
+            "phoneNumber": "(253) 428-8700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.nwmedicalspecialties.com/patient-portal/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3d0J7lL7cYrOhOrMP-7qZzMxcMPh22GPfUley",
+            "cid": "4695435823959981936",
+            "fid": "0x5490557263fcfdb9:0x41298a0120c73f70",
+            "placeId": "ChIJuf38Y3JVkFQRcD_HIAGKKUE"
+        }
+    ],
+    "credits": 3
+}

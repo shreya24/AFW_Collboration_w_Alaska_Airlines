@@ -1,0 +1,65 @@
+{
+    "searchParameters": {
+        "q": "Daniel Peterson MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4213683,-121.3200464,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Daniel Peterson",
+            "address": "926 Incline Way UNIT 250, Incline Village, NV 89451",
+            "latitude": 39.2481793,
+            "longitude": -119.9484299,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(775) 455-7004",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cPTsy_SuAW3Q-H-nzTlo3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=327.05344&pitch=0&thumbfov=100",
+            "cid": "9189258198271706137",
+            "fid": "0x8099703dc9643539:0x7f86cda50154c419",
+            "placeId": "ChIJOTVkyT1wmYARGcRUAaXNhn8"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Daniel R. Peterson, MD",
+            "address": "1 Boone Rd, Bremerton, WA 98312",
+            "latitude": 47.5945574,
+            "longitude": -122.6916629,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(360) 475-4216",
+            "cid": "11542588976794074483",
+            "fid": "0x549030c9689eb55d:0xa02f8384e6267d73",
+            "placeId": "ChIJXbWeaMkwkFQRc30m5oSDL6A"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Daniel L. Peterson, MD",
+            "address": "889 Alder Ave UNIT 205, Incline Village, NV 89451",
+            "latitude": 39.250659899999995,
+            "longitude": -119.9538623,
+            "rating": 3.3,
+            "ratingCount": 6,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Medical office"
+            ],
+            "phoneNumber": "(775) 831-4818",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMmEkopXeFmplK7PChPKIFQS2qbWGgLZHYoq_1e",
+            "cid": "2501977232307619831",
+            "fid": "0x8099701751dd97f9:0x22b8cf0967cf87f7",
+            "placeId": "ChIJ-ZfdURdwmYAR94fPZwnPuCI"
+        }
+    ],
+    "credits": 3
+}

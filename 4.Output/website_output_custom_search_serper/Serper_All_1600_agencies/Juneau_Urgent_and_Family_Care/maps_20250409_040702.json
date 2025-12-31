@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Juneau Urgent and Family Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3620644,-134.5728979,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Juneau Urgent and Family Care",
+            "address": "8505 Old Dairy Rd, Juneau, AK 99801",
+            "latitude": 58.362064399999994,
+            "longitude": -134.5728979,
+            "rating": 4.5,
+            "ratingCount": 884,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Urgent care center"
+            ],
+            "website": "https://www.juneauurgentcare.com/",
+            "phoneNumber": "(907) 790-4111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.solvhealth.com/juneau-urgent--family-care-juneau-ak-0x1LkA?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-QaVewp&rwg_token=AAiGsobxKIbugaugrVUix2yN9LdKyUgjuNBvylAvgGv0uWtHKnyVtxu1qMvJvI307iJKwxbvC8Zvrx6n6uzaCtuDA10aEy5EPw%3D%3D",
+                "https://clockwisemd.com/hospitals/5179/visits/new?rwg_token=AAiGsoZv_R5goHRKac34YxPcDqp6W3BYIXPSsINDtlc1FO67mZHea-V-ijRRVaPE8pYkXCo8A06rnkiY0omHUZSeTd2g65sZjQ%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8AaLw-NhwkKbFkL88qxWgsKIbhtRhkjdI1VEffd9ZXHLRaIXxgyM4A8mWSV0moxzopqii3WY5Cw6W1N2NfEfZiny27yXE627V55XockomgagSB2Gqrmn2Aag3n5pY7N_QVQrBcsQ",
+            "cid": "7627695279922681749",
+            "fid": "0x54011e20c09b22c1:0x69db04719eb71795",
+            "placeId": "ChIJwSKbwCAeAVQRlRe3nnEE22k"
+        }
+    ],
+    "credits": 3
+}

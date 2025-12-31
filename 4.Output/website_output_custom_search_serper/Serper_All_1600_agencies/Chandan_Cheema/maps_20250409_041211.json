@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "Chandan Cheema",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6558379,-121.3363161,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Chandan Cheema",
+            "address": "6608 Mercy Ct, Fair Oaks, CA 95628",
+            "latitude": 38.6658778,
+            "longitude": -121.310711,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Geriatrician"
+            ],
+            "website": "https://www.sutterhealth.org/find-doctor/dr-chandan-d-cheema",
+            "phoneNumber": "(916) 241-9844",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xd_hbISLNSTALHRm8owgrw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=94.13395&pitch=0&thumbfov=100",
+            "cid": "1923764607943650686",
+            "fid": "0x809adef7ae63d6a7:0x1ab295b7e7f32d7e",
+            "placeId": "ChIJp9ZjrvfemoARfi3z57eVsho"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Chandan Cheema",
+            "address": "4354 Auburn Blvd Ste 100, Sacramento, CA 95841",
+            "latitude": 38.645798,
+            "longitude": -121.36192129999999,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(916) 678-5840",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XdGO77hqAzeYeKFYYBDmGQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.21388&pitch=0&thumbfov=100",
+            "cid": "9471562697538362980",
+            "fid": "0x809ad936f713b3b3:0x8371c017469d5e64",
+            "placeId": "ChIJs7MT9zbZmoARZF6dRhfAcYM"
+        }
+    ],
+    "credits": 3
+}

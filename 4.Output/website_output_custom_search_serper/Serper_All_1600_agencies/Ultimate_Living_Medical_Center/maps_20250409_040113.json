@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Ultimate Living Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8393416,-119.7381701,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ultimate Living",
+            "address": "7105 N Chestnut Ave #100, Fresno, CA 93720",
+            "latitude": 36.8393416,
+            "longitude": -119.73817009999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Alternative medicine practitioner",
+                "Doctor"
+            ],
+            "phoneNumber": "(559) 234-2360",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BsMewYGsuJMkv2EPVMcgYQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=9.394553&pitch=0&thumbfov=100",
+            "cid": "1124355637901899202",
+            "fid": "0x80945d30ffffffff:0xf9a837ede59b5c2",
+            "placeId": "ChIJ_____zBdlIARwrVZ3n6Dmg8"
+        }
+    ],
+    "credits": 3
+}

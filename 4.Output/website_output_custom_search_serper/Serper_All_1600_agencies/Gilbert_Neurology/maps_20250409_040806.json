@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Gilbert Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2837763,-111.7181815,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gilbert Neurology",
+            "address": "3507 Mercy Rd #101, Gilbert, AZ 85297",
+            "latitude": 33.28541,
+            "longitude": -111.7486876,
+            "rating": 2.6,
+            "ratingCount": 106,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "http://www.gilbertneurology.com/",
+            "phoneNumber": "(480) 926-0644",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNv4g4QJfhherSE8-5sAlXqhd2NExRLLCizhWaP",
+            "cid": "6512305874830885987",
+            "fid": "0x872bac774786695b:0x5a605bb081fc0463",
+            "placeId": "ChIJW2mGR3esK4cRYwT8gbBbYFo"
+        },
+        {
+            "position": 2,
+            "title": "Gilbert Neurology",
+            "address": "7400 S Power Rd Suite 120, Gilbert, AZ 85297",
+            "latitude": 33.2821426,
+            "longitude": -111.68767539999999,
+            "rating": 3.1,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical diagnostic imaging center"
+            ],
+            "website": "http://gilbertneurology.com/",
+            "phoneNumber": "(480) 926-0644",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP1Vc14eD2GNoL4-TrEGPw3ju8q1gY9UADJ2iCk",
+            "cid": "2601531006884950952",
+            "fid": "0x872bad80c5579b1f:0x241a7eaad18ab3a8",
+            "placeId": "ChIJH5tXxYCtK4cRqLOK0ap-GiQ"
+        }
+    ],
+    "credits": 3
+}

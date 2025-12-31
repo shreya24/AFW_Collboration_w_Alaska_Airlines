@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "YWCA Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6662656,-117.4259026,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWCA Spokane",
+            "address": "930 N Monroe St, Spokane, WA 99201",
+            "latitude": 47.666265599999996,
+            "longitude": -117.4259026,
+            "rating": 3.1,
+            "ratingCount": 38,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Non-profit organization",
+                "Preschool"
+            ],
+            "website": "http://www.ywcaspokane.org/",
+            "phoneNumber": "(509) 326-1190",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOl2LebYknOinoja-bFt632kmT83UNIpIywXbcv",
+            "cid": "903935486156801744",
+            "fid": "0x549e185884fa9c55:0xc8b6c89103f06d0",
+            "placeId": "ChIJVZz6hFgYnlQR0AY_EIlsiww"
+        }
+    ],
+    "credits": 3
+}

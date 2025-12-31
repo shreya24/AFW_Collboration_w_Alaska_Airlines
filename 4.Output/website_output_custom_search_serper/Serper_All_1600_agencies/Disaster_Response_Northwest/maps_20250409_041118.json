@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Disaster Response Northwest",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4077348,-117.0695606,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Disaster Response",
+            "address": "1140 15th St, Clarkston, WA 99403",
+            "latitude": 46.4077348,
+            "longitude": -117.06956059999999,
+            "rating": 4.8,
+            "ratingCount": 172,
+            "type": "Water damage restoration service",
+            "types": [
+                "Water damage restoration service",
+                "Fire damage restoration service"
+            ],
+            "website": "https://teamdr.com/service-areas/clarkston-washington/",
+            "phoneNumber": "(208) 503-7190",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-rIIg8T7yRQZZyoIBUgR9Gxaa6Xu8Y2_EOn83",
+            "cid": "14263699049746010273",
+            "fid": "0x54a1caee28011697:0xc5f2d6b6a33010a1",
+            "placeId": "ChIJlxYBKO7KoVQRoRAwo7bW8sU"
+        }
+    ],
+    "credits": 3
+}

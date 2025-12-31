@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "San Andreas Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.1896126,-120.6699863,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health Family Medical Center - San Andreas, CA",
+            "address": "702 Mountain Ranch Rd, San Andreas, CA 95249",
+            "latitude": 38.1888779,
+            "longitude": -120.66959829999999,
+            "rating": 3.5,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/family-medical-center-san-andreas",
+            "phoneNumber": "(209) 754-4564",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUxccV32EUIomdl-fN9d83RzfK4LCRUq7jYtUr",
+            "cid": "1207871849607432318",
+            "fid": "0x80909b088dd22bf7:0x10c3390c320b887e",
+            "placeId": "ChIJ9yvSjQibkIARfogLMgw5wxA"
+        },
+        {
+            "position": 2,
+            "title": "Dignity Health - Mark Twain Medical Center",
+            "address": "768 Mountain Ranch Rd, San Andreas, CA 95249",
+            "latitude": 38.1903473,
+            "longitude": -120.6703744,
+            "rating": 4.5,
+            "ratingCount": 745,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-mark-twain-medical-center",
+            "phoneNumber": "(209) 754-3521",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8Ox1cWL7nvXnSaRJb9fYqKrkFm1JW3gv65keD",
+            "cid": "6437185153588063814",
+            "fid": "0x80909b091f8d49a7:0x595579caa108ee46",
+            "placeId": "ChIJp0mNHwmbkIARRu4Iocp5VVk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "WISH Women in Safe Houses",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5523536,-113.5282584,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Women In Safe Homes",
+            "address": "623 Gateway Ct, Ketchikan, AK 99901",
+            "latitude": 55.3549242,
+            "longitude": -131.685237,
+            "rating": 4.1,
+            "ratingCount": 14,
+            "type": "Women's shelter",
+            "types": [
+                "Women's shelter"
+            ],
+            "website": "http://wishak.org/",
+            "phoneNumber": "(907) 225-9474",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "12127163591456241226",
+            "fid": "0x540c25af63b4ed21:0xa84c5708b1ccb64a",
+            "placeId": "ChIJIe20Y68lDFQRSrbMsQhXTKg"
+        },
+        {
+            "position": 2,
+            "title": "Women In Safe Home",
+            "address": "306 W Broadway St, Muskogee, OK 74401",
+            "latitude": 35.749783,
+            "longitude": -95.37127989999999,
+            "rating": 3.8,
+            "ratingCount": 20,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Social services organization",
+                "Women's shelter"
+            ],
+            "website": "https://www.wishmuskogee.org/",
+            "phoneNumber": "(918) 682-7878",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oZL-I7cOcMV2nRf0pyY6nQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=13.6283&pitch=0&thumbfov=100",
+            "cid": "3039149194779495722",
+            "fid": "0x87b5e05e6d9baed1:0x2a2d3a172e3f0d2a",
+            "placeId": "ChIJ0a6bbV7gtYcRKg0_Lhc6LSo"
+        }
+    ],
+    "credits": 3
+}

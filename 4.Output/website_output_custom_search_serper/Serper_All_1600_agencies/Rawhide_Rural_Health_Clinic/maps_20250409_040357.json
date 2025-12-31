@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Rawhide Rural Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.7531948,-104.4454308,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Niobrara Community Hospital",
+            "address": "921 S Ballancee Ave, Lusk, WY 82225",
+            "latitude": 42.753194799999996,
+            "longitude": -104.4454308,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://niobrarahospital.com/",
+            "phoneNumber": "(307) 334-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8ZEIKQBmeDL7-gxELJymYIwhIvbtSZLTinAWa",
+            "cid": "4153667288858315843",
+            "fid": "0x87647af470156241:0x39a4ca64638f4c43",
+            "placeId": "ChIJQWIVcPR6ZIcRQ0yPY2TKpDk"
+        }
+    ],
+    "credits": 3
+}

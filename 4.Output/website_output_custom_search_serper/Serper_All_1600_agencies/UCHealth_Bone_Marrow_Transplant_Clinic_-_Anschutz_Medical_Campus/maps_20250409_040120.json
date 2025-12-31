@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "UCHealth Bone Marrow Transplant Clinic - Anschutz Medical Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7427323,-104.8391914,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Bone Marrow Transplant Clinic - Anschutz Medical Campus",
+            "address": "Anschutz Cancer Pavilion, 1665 Aurora Ct 2nd floor, Aurora, CO 80045",
+            "latitude": 39.7427323,
+            "longitude": -104.83919139999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-bone-marrow-transplant-anschutz/",
+            "phoneNumber": "(720) 848-6400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbqCsQrAIXW5mbZP1jsFS6GoIj-U1xE-uSDw47",
+            "cid": "4593742557591588032",
+            "fid": "0x876c634eac1e9fdd:0x3fc0408476d74cc0",
+            "placeId": "ChIJ3Z8erE5jbIcRwEzXdoRAwD8"
+        }
+    ],
+    "credits": 3
+}

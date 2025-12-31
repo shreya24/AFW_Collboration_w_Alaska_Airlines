@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Alaska Women's Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.185553,-149.8211647,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Women's Cancer Care",
+            "address": "3851 Piper St u264, Anchorage, AK 99508",
+            "latitude": 61.185553,
+            "longitude": -149.8211647,
+            "rating": 4.4,
+            "ratingCount": 12,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Rehabilitation center"
+            ],
+            "website": "http://www.alaskawomenscancercare.com/",
+            "phoneNumber": "(907) 562-4673",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMC1dRY-5uOXY6MtonEe0sC8_TphAZgtfoRwWYe",
+            "cid": "17378503148433955812",
+            "fid": "0x56c89706d073f7f7:0xf12cd889ca69dbe4",
+            "placeId": "ChIJ9_dz0AaXyFYR5NtpyonYLPE"
+        }
+    ],
+    "credits": 3
+}

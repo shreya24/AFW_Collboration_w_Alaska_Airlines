@@ -1,0 +1,117 @@
+{
+    "searchParameters": {
+        "q": "Stanford Pain Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5469384,-122.1203833,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pain Management Center in Redwood City",
+            "address": "450 Broadway, Redwood City, CA 94063",
+            "latitude": 37.485482999999995,
+            "longitude": -122.202889,
+            "rating": 2.4,
+            "ratingCount": 46,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pain control clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/pain-management-center-redwood-city.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6238",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB86Hu2Cz1WT9GTCYbBBFbnF6fXnbm3mC798sUkcWpa0MuOIrkfq4vWzVc7vgH9RrFA2igwDzzHgBHDwpJGfgnYtk-hqh5r3tcz_NsvNc2v3Ec7QSJn48wmDlHICrn8p0UtP8Pk",
+            "cid": "13818019729544364019",
+            "fid": "0x808fa4d20cf757d5:0xbfc377bba6d4bff3",
+            "placeId": "ChIJ1Vf3DNKkj4AR87_Uprt3w78"
+        },
+        {
+            "position": 2,
+            "title": "Stanford University Pain Clinic",
+            "address": "2834 El Camino Real, Redwood City, CA 94061",
+            "latitude": 37.469859199999995,
+            "longitude": -122.2134961,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://med.stanford.edu/pain/patients/medical.html",
+            "phoneNumber": "(650) 723-6538",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GozlMS_rZN1fZ99EeLp0dg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.71848&pitch=0&thumbfov=100",
+            "cid": "7601417501472047937",
+            "fid": "0x808fa37370d5495f:0x697da8f18cadc341",
+            "placeId": "ChIJX0nVcHOjj4ARQcOtjPGofWk"
+        },
+        {
+            "position": 3,
+            "title": "Stanford Pain Management Center in San Jose",
+            "address": "2589 Samaritan Dr, San Jose, CA 95124",
+            "latitude": 37.2534114,
+            "longitude": -121.95166599999999,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/pain-management-center-cancer-center-south-bay.html?ecid=glocalsearch-ls-google-clinicpage-all-PainManagementCenterSouthBay?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6238",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOMi4dWf3CYTm-2AYzWzurauKtBjJqXa32w4Xys",
+            "cid": "16622018546071038926",
+            "fid": "0x808e35b274499691:0xe6ad45cce884ebce",
+            "placeId": "ChIJkZZJdLI1joARzuuE6MxFreY"
+        },
+        {
+            "position": 4,
+            "title": "Stanford Pain Management Center in Emeryville",
+            "address": "5800 Hollis St, Emeryville, CA 94608",
+            "latitude": 37.8404653,
+            "longitude": -122.2891006,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/pain-management-center-emeryville.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(510) 806-2100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x6SBHvmfrd4_2Ph54bTufQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=63.35379&pitch=0&thumbfov=100",
+            "cid": "8449397901158963393",
+            "fid": "0x80857e42b126140d:0x75424a9fd082d8c1",
+            "placeId": "ChIJDRQmsUJ-hYARwdiC0J9KQnU"
+        }
+    ],
+    "credits": 3
+}

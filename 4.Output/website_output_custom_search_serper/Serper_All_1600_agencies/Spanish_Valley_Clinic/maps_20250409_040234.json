@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Spanish Valley Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4883689,-109.4517288,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spanish Valley Clinic",
+            "address": "5555 Old Airport Rd, Moab, UT 84532",
+            "latitude": 38.4883689,
+            "longitude": -109.4517288,
+            "rating": 4.2,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://sanjuanhealth.org/",
+            "phoneNumber": "(435) 419-9210",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHYBN0J7y3uzXSWhgzfeUrLtWbdmRCJxQ8HbFL",
+            "cid": "10284064914757224193",
+            "fid": "0x8747fbfe1df134a9:0x8eb8568d7b298701",
+            "placeId": "ChIJqTTxHf77R4cRAYcpe41WuI4"
+        }
+    ],
+    "credits": 3
+}

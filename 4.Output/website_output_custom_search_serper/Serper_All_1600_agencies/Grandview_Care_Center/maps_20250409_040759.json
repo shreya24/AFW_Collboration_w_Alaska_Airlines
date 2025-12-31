@@ -1,0 +1,103 @@
+{
+    "searchParameters": {
+        "q": "Grandview Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.4990741,-85.8362519,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grandview Retirement Center",
+            "address": "1706 E Olive Rd, Pensacola, FL 32514",
+            "latitude": 30.5116132,
+            "longitude": -87.2257328,
+            "rating": 4.1,
+            "ratingCount": 44,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Retirement community",
+                "Retirement home"
+            ],
+            "website": "http://www.grandviewpensacola.com/",
+            "phoneNumber": "(850) 477-4929",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://fb.com/book/grandviewpensacola/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPeIWII51W88UQ6-8y2Dki1ubbEro496ScP1VQX",
+            "cid": "9087694230410755058",
+            "fid": "0x8890954dbf647577:0x7e1df9c0fefffbf2",
+            "placeId": "ChIJd3Vkv02VkIgR8vv__sD5HX4"
+        },
+        {
+            "position": 2,
+            "title": "Grandview Living",
+            "address": "3250 Douglas Ferry Rd, Bonifay, FL 32425",
+            "latitude": 30.7328001,
+            "longitude": -85.6758175,
+            "rating": 5,
+            "ratingCount": 30,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility"
+            ],
+            "website": "https://grandviewassistedliving.weebly.com/",
+            "phoneNumber": "(850) 547-0692",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPSXjghM454WTVXrC7X8w81UxBG5guO5O1-U-sh",
+            "cid": "4849506197574753345",
+            "fid": "0x8893a9574659cad7:0x434ce831627f9c41",
+            "placeId": "ChIJ18pZRlepk4gRQZx_YjHoTEM"
+        },
+        {
+            "position": 3,
+            "title": "Grandview Health Care Center",
+            "address": "618 Gennett Dr, Jasper, GA 30143",
+            "latitude": 34.486534999999996,
+            "longitude": -84.446771,
+            "rating": 2.5,
+            "ratingCount": 23,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "https://grandviewhc.com/",
+            "phoneNumber": "(706) 692-5123",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPih7BMLKQgg55Kkk5HfuyxjkzRgg3KSa05gnRu",
+            "cid": "17596984465375363827",
+            "fid": "0x885f8f5b72a28ee1:0xf4350c2370c402f3",
+            "placeId": "ChIJ4Y6icluPX4gR8wLEcCMMNfQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,599 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7175129,-102.4921412,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Presbyterian Hospital",
+            "address": "1100 Central Ave SE, Albuquerque, NM 87106",
+            "latitude": 35.081573,
+            "longitude": -106.63538199999999,
+            "rating": 2.7,
+            "ratingCount": 756,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.phs.org/presbyterian-hospital?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_ph_hospital__l002",
+            "phoneNumber": "(505) 841-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaSOxsVmFhe4ByRpKcREUVTInpiPM3gCqig25f",
+            "cid": "16566892336290259227",
+            "fid": "0x87220ca2038afe03:0xe5e96cce00b8e11b",
+            "placeId": "ChIJA_6KA6IMIocRG-G4AM5s6eU"
+        },
+        {
+            "position": 2,
+            "title": "Presbyterian Santa Fe Medical Center",
+            "address": "4801 Beckner Rd, Santa Fe, NM 87507",
+            "latitude": 35.6159061,
+            "longitude": -106.02472159999999,
+            "rating": 2.7,
+            "ratingCount": 232,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Doctor",
+                "Emergency room",
+                "Rehabilitation center",
+                "Surgical center"
+            ],
+            "website": "https://www.phs.org/santa-fe-medical-center?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_sf_sfmc_hospital__l035",
+            "phoneNumber": "(505) 772-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGEe294nqKW7VCy8KSfKCLkuLQK0V15snyyR7r",
+            "cid": "13722759048740527142",
+            "fid": "0x87185b496b3015ff:0xbe7108a60674dc26",
+            "placeId": "ChIJ_xUwa0lbGIcRJtx0BqYIcb4"
+        },
+        {
+            "position": 3,
+            "title": "Presbyterian Home Healthcare in Albuquerque",
+            "address": "8100 Constitution Pl NE, Albuquerque, NM 87110",
+            "latitude": 35.092785299999996,
+            "longitude": -106.5555665,
+            "rating": 2.6,
+            "ratingCount": 14,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Aged care"
+            ],
+            "website": "https://www.phs.org/doctors-services/healthcare-at-home/home-healthcare/constitution?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_constitution_home__208",
+            "phoneNumber": "(505) 588-5708",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcI-yRijpw-Eus6G3799HOuX5kwCtyzmbmN9xl",
+            "cid": "16450901527009646124",
+            "fid": "0x87220abfd34bfef1:0xe44d57c73857562c",
+            "placeId": "ChIJ8f5L078KIocRLFZXOMdXTeQ"
+        },
+        {
+            "position": 4,
+            "title": "Presbyterian Rust Medical Center",
+            "address": "2400 Unser Blvd SE, Rio Rancho, NM 87124",
+            "latitude": 35.219556499999996,
+            "longitude": -106.692842,
+            "rating": 2.5,
+            "ratingCount": 593,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.rust-medical-center.phs.org/pages/default.aspx",
+            "phoneNumber": "(505) 253-7878",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO_1IaWhk9lidIvdcO858Ugh5zThenSVmVd1Zgc",
+            "cid": "6916625627108989624",
+            "fid": "0x872271b45007ebc1:0x5ffcca5cac31dab8",
+            "placeId": "ChIJwesHULRxIocRuNoxrFzK_F8"
+        },
+        {
+            "position": 5,
+            "title": "Presbyterian Kaseman Hospital",
+            "address": "8300 Constitution Ave NE, Albuquerque, NM 87110",
+            "latitude": 35.0930393,
+            "longitude": -106.5532351,
+            "rating": 2.4,
+            "ratingCount": 324,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Emergency room",
+                "General hospital",
+                "Home health care service",
+                "Mental health clinic",
+                "Pain management physician"
+            ],
+            "website": "https://www.phs.org/kaseman-hospital?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_pkh_hospital__l001",
+            "phoneNumber": "(505) 291-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXy8on2nyXj-25NsmDiQup62uy_Pis-M7qpq-Y",
+            "cid": "3316515841731051166",
+            "fid": "0x87220abe6f08379b:0x2e06a1961e55be9e",
+            "placeId": "ChIJmzcIb74KIocRnr5VHpahBi4"
+        },
+        {
+            "position": 6,
+            "title": "Texas Health Presbyterian Hospital Dallas",
+            "address": "8200 Walnut Hill Ln, Dallas, TX 75231",
+            "latitude": 32.8812304,
+            "longitude": -96.76230989999999,
+            "rating": 3.2,
+            "ratingCount": 831,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.texashealth.org/Locations/Texas-Health-Dallas",
+            "phoneNumber": "(214) 345-6789",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHWDF-y-itT24-Yqa_LJ-UvbcF1Mg5R0vyMXA",
+            "cid": "2898559807244638920",
+            "fid": "0x864e9fee79ebff01:0x2839c0c9970a9ac8",
+            "placeId": "ChIJAf_ree6fToYRyJoKl8nAOSg"
+        },
+        {
+            "position": 7,
+            "title": "Presbyterian Espanola Hospital",
+            "address": "1010 Spruce St, Espa\u00f1ola, NM 87532",
+            "latitude": 35.9973394,
+            "longitude": -106.08865829999999,
+            "rating": 3.2,
+            "ratingCount": 113,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.phs.org/espanola-hospital?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_espanola_peh_hospital__l028",
+            "phoneNumber": "(505) 753-7111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOL7n9ZnlB-w3yc24bESgcsD1S_H6RQCu4tHGt-",
+            "cid": "8998107812562935916",
+            "fid": "0x87183cf2c7feaf03:0x7cdfb361aa7b206c",
+            "placeId": "ChIJA6_-x_I8GIcRbCB7qmGz33w"
+        },
+        {
+            "position": 8,
+            "title": "Presbyterian Turquoise Care",
+            "address": "9521 San Mateo Blvd NE, Albuquerque, NM 87113",
+            "latitude": 35.1973991,
+            "longitude": -106.5871519,
+            "rating": 2.1,
+            "ratingCount": 78,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency",
+                "Insurance agency"
+            ],
+            "website": "https://www.phs.org/health-plans/turquoise-care-medicaid?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=php_centennialcare",
+            "phoneNumber": "(505) 923-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoC0Gv43nYEanh2j1Gju0csIyu5ruaMVAwxp6R",
+            "cid": "10861430795154305081",
+            "fid": "0x87227683d06f4b9d:0x96bb8dc309a93039",
+            "placeId": "ChIJnUtv0IN2IocROTCpCcONu5Y"
+        },
+        {
+            "position": 9,
+            "title": "Presbyterian Healthplex in Albuquerque on Forest Hills Dr",
+            "address": "6301 Forest Hills Dr NE, Albuquerque, NM 87109",
+            "latitude": 35.1581415,
+            "longitude": -106.57994459999999,
+            "rating": 3.6,
+            "ratingCount": 27,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Physical therapy clinic"
+            ],
+            "website": "https://www.phs.org/doctors-services/rehabilitation-services/fitness/healthplex?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_foresthills_healthplex",
+            "phoneNumber": "(505) 823-8399",
+            "openingHours": {
+                "Tuesday": "5:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "5:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "7\u202fAM\u20133:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZEUH688Q9xYsfKn2N-3TFohSce9IpU874jYcC",
+            "cid": "456198238795312548",
+            "fid": "0x872275ab633aaefd:0x654bde1928dada4",
+            "placeId": "ChIJ_a46Y6t1IocRpK2NkuG9VAY"
+        },
+        {
+            "position": 10,
+            "title": "Presbyterian Medical Services Family Health Center",
+            "address": "2300 Grande Blvd SE A, Rio Rancho, NM 87124",
+            "latitude": 35.2201464,
+            "longitude": -106.6636104,
+            "rating": 3,
+            "ratingCount": 50,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dentist",
+                "Family practice physician",
+                "Mental health clinic"
+            ],
+            "website": "http://www.pmsnm.org/locations/presbyterian-medical-services-family-health-center",
+            "phoneNumber": "(505) 896-7100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:45\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:45\u202fPM",
+                "Thursday": "7\u202fAM\u20135:45\u202fPM",
+                "Friday": "7\u202fAM\u20135:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:45\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB90l0RgSO4Ju-tUaFhoUQy9p25F_MD4-iGLSdNF_ejGP2J_HkHtc-YOoBaXjqb69IQeF8cz4hLqdm1Ii5CSIamDyPGExsSbIZMvPbXsry-H67xwlVa6O_W1UqShd1Lya1vAvTM",
+            "cid": "16963619271796828248",
+            "fid": "0x8722711ad54cad61:0xeb6ae1d9c06ba858",
+            "placeId": "ChIJYa1M1RpxIocRWKhrwNnhaus"
+        },
+        {
+            "position": 11,
+            "title": "Presbyterian Medical Services",
+            "address": "200 W Lea St, Hobbs, NM 88240",
+            "latitude": 32.7093707,
+            "longitude": -103.13780679999999,
+            "rating": 4.9,
+            "ratingCount": 10,
+            "type": "Medical transcription service",
+            "types": [
+                "Medical transcription service"
+            ],
+            "website": "https://www.phs.org/",
+            "phoneNumber": "(575) 391-0270",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fAM",
+                "Wednesday": "8\u202fAM\u201312\u202fAM",
+                "Thursday": "8\u202fAM\u201312\u202fAM",
+                "Friday": "8\u202fAM\u201312\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EGe7g5jdoaxQa4xiVA8Qmw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=8.60148&pitch=0&thumbfov=100",
+            "cid": "13577678947593750634",
+            "fid": "0x86fc950530aea7c3:0xbc6d9b10b1a0086a",
+            "placeId": "ChIJw6euMAWV_IYRagigsRCbbbw"
+        },
+        {
+            "position": 12,
+            "title": "Presbyterian Medical Services",
+            "address": "184 Unser Blvd NE, Rio Rancho, NM 87124",
+            "latitude": 35.261376999999996,
+            "longitude": -106.6972859,
+            "rating": 2.7,
+            "ratingCount": 33,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Mental health clinic",
+                "Mental health service"
+            ],
+            "website": "https://www.pmsnm.org/locations/rio-rancho-family-health-center/",
+            "phoneNumber": "(505) 896-0928",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "cid": "2173165139606290603",
+            "fid": "0x87227074f1a11f9b:0x1e28a22e387ec0ab",
+            "placeId": "ChIJmx-h8XRwIocRq8B-OC6iKB4"
+        },
+        {
+            "position": 13,
+            "title": "Presbyterian Home Healthcare in Clovis",
+            "address": "2217 Dillon St, Clovis, NM 88101",
+            "latitude": 34.4228471,
+            "longitude": -103.232354,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Home help",
+                "Home help service agency",
+                "Hospice",
+                "Aged care"
+            ],
+            "website": "https://www.phs.org/doctors-services/healthcare-at-home/home-healthcare/clovis?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_clovis_prmc_home__291",
+            "phoneNumber": "(575) 659-2734",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNG2jDpMmYDubay80ezwjt1bunrOViRUyUme2xs",
+            "cid": "8607304760316098336",
+            "fid": "0x8702df3d7628b16d:0x77734a13782b7720",
+            "placeId": "ChIJbbEodj3fAocRIHcreBNKc3c"
+        },
+        {
+            "position": 14,
+            "title": "Presbyterian Medical Group on Kaseman Hospital",
+            "address": "8300 Constitution Pl NE, Albuquerque, NM 87110",
+            "latitude": 35.091771,
+            "longitude": -106.5527989,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hematologist"
+            ],
+            "website": "https://www.phs.org/doctors-services/primary-care/internal-medicine/kaseman",
+            "phoneNumber": "(505) 559-6100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D3NvVFHLV8knxZVn5N4Ghg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.55147&pitch=0&thumbfov=100",
+            "cid": "18322998768863805916",
+            "fid": "0x87220a95e3e9b239:0xfe485e4d060c01dc",
+            "placeId": "ChIJObLp45UKIocR3AEMBk1eSP4"
+        },
+        {
+            "position": 15,
+            "title": "Presbyterian Hospital Physician Office Building (POB)",
+            "address": "201 Cedar St SE, Albuquerque, NM 87106",
+            "latitude": 35.0816144,
+            "longitude": -106.63549139999999,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://www.phs.org/presbyterian-hospital/services/clinics?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_phpob__l002",
+            "phoneNumber": "(505) 841-1234",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNywyecKdLHtkMI0GzWbbG2RDfs5ZEJ7zVQ5kU1",
+            "cid": "10742798769537134905",
+            "fid": "0x87220ca201699469:0x9516169027c3b139",
+            "placeId": "ChIJaZRpAaIMIocRObHDJ5AWFpU"
+        },
+        {
+            "position": 16,
+            "title": "Presbyterian Medical Services",
+            "address": "5501 Wilshire Ave NE # C, Albuquerque, NM 87113",
+            "latitude": 35.1818287,
+            "longitude": -106.5847,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=adrPottRnaujz_jC5TD4Pg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=123.530914&pitch=0&thumbfov=100",
+            "cid": "7697086227117499484",
+            "fid": "0x87227432dbb496d3:0x6ad18b2484e3e45c",
+            "placeId": "ChIJ05a02zJ0IocRXOTjhCSL0Wo"
+        },
+        {
+            "position": 17,
+            "title": "Plains Regional Medical Center",
+            "address": "2100 M.L.K. Jr Blvd, Clovis, NM 88101",
+            "latitude": 34.4205557,
+            "longitude": -103.23405179999999,
+            "rating": 2.5,
+            "ratingCount": 177,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Cancer treatment center",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.phs.org/plains-regional-medical-center?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_clovis_prmc_hospital__l022",
+            "phoneNumber": "(575) 769-2141",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPE75kZVM7iA9hP1vxOTPNa9u3PrhN722mWOFvK",
+            "cid": "7511336488462483653",
+            "fid": "0x8702de922e6676b7:0x683da0bd4f3c80c5",
+            "placeId": "ChIJt3ZmLpLeAocRxYA8T72gPWg"
+        },
+        {
+            "position": 18,
+            "title": "Presbyterian Medical Group",
+            "address": "1202 US-60, Socorro, NM 87801",
+            "latitude": 34.0375215,
+            "longitude": -106.9116105,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.phs.org/?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_socorro_sgh_pmg_claimed",
+            "phoneNumber": "(575) 835-8364",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S4VTNFyISq3wS96tMcoZig&cb_client=search.gws-prod.gps&w=80&h=92&yaw=127.24002&pitch=0&thumbfov=100",
+            "cid": "17415937618692410750",
+            "fid": "0x8721ca8bc5ea7cf9:0xf1b1d6fd98860d7e",
+            "placeId": "ChIJ-XzqxYvKIYcRfg2GmP3WsfE"
+        },
+        {
+            "position": 19,
+            "title": "Presbyterian Medical Services",
+            "address": "1001 W Broadway, Farmington, NM 87401",
+            "latitude": 36.7256551,
+            "longitude": -108.22197249999999,
+            "rating": 2.6,
+            "ratingCount": 41,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Non-profit organization"
+            ],
+            "website": "https://www.pmsnm.org/locations/farmington-community-health-center/",
+            "phoneNumber": "(505) 327-4796",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_eBisupf-btPmZfOY6gNT5j4X3fOgJoKGL-mys0ZcNcTEXf3QjITsa0_ATnPbZFEzPJuSNSD6jiJl56Q4mQoQZCxgn8PPJ66NxmlaAStpNRkO_4zrVIn-OyKeIWmqH9pKgrqPq",
+            "cid": "9339296871685839009",
+            "fid": "0x873b8f8c707ba1f7:0x819bd905e8c058a1",
+            "placeId": "ChIJ96F7cIyPO4cRoVjA6AXZm4E"
+        },
+        {
+            "position": 20,
+            "title": "Health Plan Place",
+            "address": "Next to NM Ortho and across from Regal Movie Theaters, 2100 Louisiana Blvd NE Suite 408, Albuquerque, NM 87110",
+            "latitude": 35.0976049,
+            "longitude": -106.5635526,
+            "rating": 3,
+            "ratingCount": 3,
+            "type": "Specialized clinic",
+            "types": [
+                "Specialized clinic",
+                "Senior citizen center"
+            ],
+            "website": "https://www.phs.org/health-plan-place?expand-all=true?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=php_hpp_20240229",
+            "phoneNumber": "(505) 559-1959",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://phs.as.me/healthplanplace?utm_source=gmb&utm_medium=organic&utm_campaign=events"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnvpuiSnX3n0HDO-pF_DIsIUf6JaNbMYkRAEFg",
+            "cid": "1964521585756591372",
+            "fid": "0x87220b3353981005:0x1b4361f9489bd50c",
+            "placeId": "ChIJBRCYUzMLIocRDNWbSPlhQxs"
+        }
+    ],
+    "credits": 3
+}

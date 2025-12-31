@@ -1,0 +1,552 @@
+{
+    "searchParameters": {
+        "q": "University Hospital Cancer Ctr",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.9218137,-91.0077869,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UH Seidman Cancer Center",
+            "address": "11100 Euclid Ave, Cleveland, OH 44106",
+            "latitude": 41.5075431,
+            "longitude": -81.6060473,
+            "rating": 3.8,
+            "ratingCount": 151,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uhhospitals.org/locations/uh-seidman-cancer-center?utm_campaign=UH_Seidman_Cancer_Center_11100_Euclid_Avenue&utm_source=yext&utm_medium=locallisting&utm_content=website_url",
+            "phoneNumber": "(216) 844-3951",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3vf4bdofYDScCaek9trW-SjPieuRbQ5K4TMon",
+            "cid": "178205536269650038",
+            "fid": "0x8830fb8909f2366b:0x2791cfdb65c4876",
+            "placeId": "ChIJazbyCYn7MIgRdkhctv0ceQI"
+        },
+        {
+            "position": 2,
+            "title": "University of Arizona Cancer Center",
+            "address": "3838 N Campbell Ave, Tucson, AZ 85719",
+            "latitude": 32.2765477,
+            "longitude": -110.9431659,
+            "rating": 4.5,
+            "ratingCount": 144,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/tucson/university-of-arizona-cancer-center-tucson-campbell?y_source=1_MTE5MDczMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(520) 694-2873",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMsCq9wrtbYusf7xi7_apceJ0fOHTvVjS6Ke94V",
+            "cid": "1637113545081459416",
+            "fid": "0x86d672294ace225f:0x16b832186f8f92d8",
+            "placeId": "ChIJXyLOSily1oYR2JKPbxgyuBY"
+        },
+        {
+            "position": 3,
+            "title": "Cancer Center",
+            "address": "602 Indiana Ave, Lubbock, TX 79415",
+            "latitude": 33.5878702,
+            "longitude": -101.892037,
+            "rating": 4.4,
+            "ratingCount": 56,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.umchealthsystem.com/locations/umc-cancer-center/",
+            "phoneNumber": "(806) 775-8600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://umc.pub/UMC_CancerCenter"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9UvgLW15xWGe5MNgmglzHE-lGwVO-pPiW-WoWYKGp1NvBxaIGfXUJU6O5DMLWpUbnRV8lM2J1stAFUJ0wgW0AIdkUpq9rK8lQb0BR3JwJCNqYID98zCyTFnu24fXrTr9VmPR4p",
+            "cid": "9288078082720652542",
+            "fid": "0x86fe12a7eb127fdf:0x80e5e1ce4ea7dcfe",
+            "placeId": "ChIJ338S66cS_oYR_tynTs7h5YA"
+        },
+        {
+            "position": 4,
+            "title": "University Hospitals Seidman Cancer Center",
+            "address": "9485 Mentor Ave #3, Mentor, OH 44060",
+            "latitude": 41.6822769,
+            "longitude": -81.2995967,
+            "rating": 4.3,
+            "ratingCount": 43,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Pharmacy",
+                "Radiologist"
+            ],
+            "website": "https://www.uhhospitals.org/locations/uh-seidman-cancer-center/patients-and-visitors/visiting-us/locations-and-directions",
+            "phoneNumber": "(440) 205-5755",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3fmuo1gdQXKd8BPVcyRUlKuX9kLoIAXyOSG9x",
+            "cid": "10564650263800244836",
+            "fid": "0x8831a5cc44d4f58d:0x929d2d70e60cea64",
+            "placeId": "ChIJjfXURMylMYgRZOoM5nAtnZI"
+        },
+        {
+            "position": 5,
+            "title": "UCHealth Cancer Care - Anschutz Medical Campus - University of Colorado Cancer Center",
+            "address": "Anschutz Cancer Pavilion, 1665 Aurora Ct, Aurora, CO 80045",
+            "latitude": 39.7427323,
+            "longitude": -104.83919139999999,
+            "rating": 3.9,
+            "ratingCount": 69,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-university-of-colorado-cancer-center-anschutz/",
+            "phoneNumber": "(720) 848-0300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ZTtAA7FaSSsnVR8yWJyV9nciRhHYk7jV10FFGgDnD2rEdmfOuf-e9zSPfdvr1T5sir6CN7jZ44H9mcJvAadoLkVPwsIRWgiZUNP8C0bW26ZjpVzHMLxyVhQV7nDu4muVrN-qwYg",
+            "cid": "13651315112086762432",
+            "fid": "0x876c634eac1e9fdd:0xbd7336c444da73c0",
+            "placeId": "ChIJ3Z8erE5jbIcRwHPaRMQ2c70"
+        },
+        {
+            "position": 6,
+            "title": "University Medical Center New Orleans LCMC Health",
+            "address": "2000 Canal St, New Orleans, LA 70112",
+            "latitude": 29.959861,
+            "longitude": -90.081328,
+            "rating": 2.8,
+            "ratingCount": 685,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cardiologist",
+                "Emergency room",
+                "Obstetrician-gynecologist",
+                "Rehabilitation center",
+                "Surgeon"
+            ],
+            "website": "https://www.umcno.org/?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4MzE4NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(504) 702-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOcVupw5sFFJXzKUnnUUrPpLUnqQMJr9CedgYxS",
+            "cid": "3621565323265005231",
+            "fid": "0x8620a5ef51bb6c7f:0x32426279401556af",
+            "placeId": "ChIJf2y7Ue-lIIYRr1YVQHliQjI"
+        },
+        {
+            "position": 7,
+            "title": "Cancer Center",
+            "address": "205 S Orange Ave, Newark, NJ 07103",
+            "latitude": 40.7392452,
+            "longitude": -74.19149449999999,
+            "rating": 4.4,
+            "ratingCount": 13,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://cinj.org/universityhospital?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(973) 972-5108",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "8\u202fAM\u201312\u202fPM",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "http://cinj.org/universityhospital?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_NFFCPTv4sHvUv1rfP9jnM6LsZdFV_GBgb1-3YBO7pq-WzY4F9VVZWPjVxKcReK5X9Arl4afYXNo0pd3KncsRaPbohtd-TRx8Qyzzj3rmrxP32A81KfNNgKT9ICv1K6OpCaAJAFw",
+            "cid": "17378446783388060511",
+            "fid": "0x89c25367203ed185:0xf12ca54647e00b5f",
+            "placeId": "ChIJhdE-IGdTwokRXwvgR0alLPE"
+        },
+        {
+            "position": 8,
+            "title": "University Hospitals Seidman Cancer Center at Firelands Regional Medical Center",
+            "address": "701 Tyler St, Sandusky, OH 44870",
+            "latitude": 41.4448849,
+            "longitude": -82.7104298,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.firelands.com/locations/profile/?searchId=3c0bf1a0-4520-eb11-a833-000d3a611816&sort=13&page=1&pageSize=10&id=4&y_source=1_MTkxMjMyMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(419) 557-7480",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0T7THkugxfBPMyyZpaQWHklTCvSLRrbcjVty2",
+            "cid": "7054071973622799246",
+            "fid": "0x883a467383b0c5c5:0x61e51915ffd35b8e",
+            "placeId": "ChIJxcWwg3NGOogRjlvT_xUZ5WE"
+        },
+        {
+            "position": 9,
+            "title": "MedStar Georgetown Cancer Institute at MedStar Georgetown University Hospital",
+            "address": "3800 Reservoir Rd NW, Washington, DC 20007",
+            "latitude": 38.9113639,
+            "longitude": -77.0755023,
+            "rating": 4.9,
+            "ratingCount": 919,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.medstarhealth.org/locations/georgetown-lombardi-comprehensive-cancer-center",
+            "phoneNumber": "(202) 444-2223",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKtXmz95Hvc6FSzmgcWZTAm0NRfDfkOZT-s3u4",
+            "cid": "11777726253694129446",
+            "fid": "0x89b7b63f68aaff59:0xa372e3a06d3b1526",
+            "placeId": "ChIJWf-qaD-2t4kRJhU7baDjcqM"
+        },
+        {
+            "position": 10,
+            "title": "UT Health San Antonio MD Anderson Cancer Center",
+            "address": "7979 Wurzbach Rd, San Antonio, TX 78229",
+            "latitude": 29.5135661,
+            "longitude": -98.5796518,
+            "rating": 3.2,
+            "ratingCount": 71,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uthscsa.edu/patient-care/physicians/location/Mays-Cancer-Center?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(210) 450-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cancer.uthscsa.edu/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOitoHMxav76xY6Ad4SlLM9jqvOk6OUbU0KFSbP",
+            "cid": "3455191614971188304",
+            "fid": "0x865c67562f292ca1:0x2ff34e77a9441450",
+            "placeId": "ChIJoSwpL1ZnXIYRUBREqXdO8y8"
+        },
+        {
+            "position": 11,
+            "title": "University of Maryland Marlene & Stewart Greenebaum Comprehensive Cancer Center",
+            "address": "22 S Greene St, Baltimore, MD 21201",
+            "latitude": 39.2879374,
+            "longitude": -76.62485,
+            "rating": 4.7,
+            "ratingCount": 17,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.umms.org/umgccc/locations/university-of-maryland-marlene-stewart-greenebaum-comprehensive-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(410) 328-7609",
+            "bookingLinks": [
+                "https://www.umms.org/umgccc/locations/university-of-maryland-marlene-stewart-greenebaum-comprehensive-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPq_hfvbe0Fsx-3VqQwuIag7htaX3JyfYQNQOM",
+            "cid": "7032451648789835320",
+            "fid": "0x89c80358b14665d5:0x61984983da3a6e38",
+            "placeId": "ChIJ1WVGsVgDyIkROG462oNJmGE"
+        },
+        {
+            "position": 12,
+            "title": "UH Seidman Cancer Center at UH Portage Medical Center",
+            "address": "6847 N Chestnut St, Ravenna, OH 44266",
+            "latitude": 41.1750663,
+            "longitude": -81.24857,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "https://www.uhhospitals.org/services/cancer-services",
+            "phoneNumber": "(330) 235-7050",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VrW4pg0XDR-Q4qb6Z-6bVQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=219.34975&pitch=0&thumbfov=100",
+            "cid": "9443986095263808375",
+            "fid": "0x88313958fd61248f:0x830fc75137ed7b77",
+            "placeId": "ChIJjyRh_Vg5MYgRd3vtN1HHD4M"
+        },
+        {
+            "position": 13,
+            "title": "University of Illinois Clinical Cancer Center",
+            "address": "1801 W Taylor St #1e, Chicago, IL 60612",
+            "latitude": 41.869470299999996,
+            "longitude": -87.67176529999999,
+            "rating": 3.5,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://hospital.uillinois.edu/primary-and-specialty-care/cancer-services",
+            "phoneNumber": "(312) 355-1625",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_TcPLoRX7T_YtoUTfefeJqeh0EZLckT-H3NEzDleGHk1_GrG1mCubo9Rta_dGD_7ZSQikYEjjJPO3Etf9PSSHbuC4XedbC6AxHXayNDq3tPfIHrIisLdlMHGYqgyZVeJHFeufhHg",
+            "cid": "9073636264401424949",
+            "fid": "0x880e2d1175b35233:0x7dec081bb8bfd235",
+            "placeId": "ChIJM1KzdREtDogRNdK_uBsI7H0"
+        },
+        {
+            "position": 14,
+            "title": "University of Tennessee Cancer Institute",
+            "address": "Medical Building F, 1926 Alcoa Hwy, Knoxville, TN 37920",
+            "latitude": 35.939788899999996,
+            "longitude": -83.94566499999999,
+            "rating": 4.1,
+            "ratingCount": 30,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.utmedicalcenter.org/centers-of-excellence/cancer-institute",
+            "phoneNumber": "(865) 305-6055",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8_us1AgmAHqHYVtKyrbrJ87U_gEOdS2b6l4EK",
+            "cid": "287384509216012471",
+            "fid": "0x885c3d4c57b1d9af:0x3fcfeb041c538b7",
+            "placeId": "ChIJr9mxV0w9XIgRtzjFQbD-_AM"
+        },
+        {
+            "position": 15,
+            "title": "Boston University-Boston Medical Center Cancer Center",
+            "address": "72 E Concord St, Boston, MA 02118",
+            "latitude": 42.3364013,
+            "longitude": -71.072408,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.bumc.bu.edu/cancercenter/",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNv9YSREGMHi2EtpsD_7M7xewLlkkfSCYAMKVwo",
+            "cid": "15058795387024948846",
+            "fid": "0x89e37b0c3ba91983:0xd0fb969e9ce9be6e",
+            "placeId": "ChIJgxmpOwx744kRbr7pnJ6W-9A"
+        },
+        {
+            "position": 16,
+            "title": "IU Health Simon Cancer Center",
+            "address": "1030 W Michigan St, Indianapolis, IN 46202",
+            "latitude": 39.7749624,
+            "longitude": -86.1778411,
+            "rating": 3.3,
+            "ratingCount": 39,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://iuhealth.org/find-locations/iu-health-simon-cancer-center?utm_source=Google&utm_medium=Yext&y_source=1_MTE5NDI0MjAtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(888) 600-4822",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpptQ6M_eZR_Rieip5XQO-nmy2SHO--a8I3MD8",
+            "cid": "18267869652618991598",
+            "fid": "0x886b57546f3c99a9:0xfd8482a9677e57ee",
+            "placeId": "ChIJqZk8b1RXa4gR7ld-Z6mChP0"
+        },
+        {
+            "position": 17,
+            "title": "UH Seidman Cancer Center at UH Chagrin Highlands Health Center",
+            "address": "3909 Orange Pl, Beachwood, OH 44122",
+            "latitude": 41.453395799999996,
+            "longitude": -81.48925009999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.uhhospitals.org/chagrin-highlands/services-providers/cancer-care",
+            "phoneNumber": "(216) 844-3951",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a7X8BXL1w7gMa3DK8T6cfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=100.34178&pitch=0&thumbfov=100",
+            "cid": "8985252229209105601",
+            "fid": "0x883102c8da20a42f:0x7cb2074beb4ba4c1",
+            "placeId": "ChIJL6Qg2sgCMYgRwaRL60sHsnw"
+        },
+        {
+            "position": 18,
+            "title": "Pediatric Blood & Cancer Center - University Health University Hospital",
+            "address": "Horizon Tower, 4502 Medical Dr Level 9, San Antonio, TX 78229",
+            "latitude": 29.507226099999997,
+            "longitude": -98.5781384,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.universityhealth.com/pediatrics/services/cancer-center?utm_source=Yext&utm_medium=online_listings_location&utm_campaign=UH_digital&utm_content=UH_Pediatric_Blood_and_Cancer_Center",
+            "phoneNumber": "(210) 743-2300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLe43wB0cgPdhtOh2xu-BywAn6fiQj6rIHonfj",
+            "cid": "17506839913732540353",
+            "fid": "0x865c5df9310bc16d:0xf2f4ca2575a887c1",
+            "placeId": "ChIJbcELMfldXIYRwYeodSXK9PI"
+        },
+        {
+            "position": 19,
+            "title": "UH Seidman Cancer Center at UH Geauga Medical Center",
+            "address": "13207 Ravenna Rd, Chardon, OH 44024",
+            "latitude": 41.508849999999995,
+            "longitude": -81.19018799999999,
+            "rating": 3.5,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "https://www.uhhospitals.org/locations/uh-geauga-medical-center/services/cancer",
+            "phoneNumber": "(440) 286-5050",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iYOMyCRVN9ID4ZY6bYTxtg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=102.57725&pitch=0&thumbfov=100",
+            "cid": "3244891667460130636",
+            "fid": "0x88310b6695cc74b7:0x2d082bc78596074c",
+            "placeId": "ChIJt3TMlWYLMYgRTAeWhccrCC0"
+        },
+        {
+            "position": 20,
+            "title": "Fox Chase Cancer Center at Temple University Hospital - Main Campus",
+            "address": "Ambulatory Care Center, 3401 N Broad St 4th Floor, Philadelphia, PA 19140",
+            "latitude": 40.0051215,
+            "longitude": -75.1499736,
+            "rating": 4.7,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.templehealth.org/services/fox-chase-temple-university-hospital?utm_source=google&utm_medium=organic",
+            "phoneNumber": "(800) 836-7536",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPy4gkv75cn3jL507Uc1SyqPoX1Gxj4kl2G1DtI",
+            "cid": "3561945350573402004",
+            "fid": "0x89c6b7f8fd950c43:0x316e926ca2482794",
+            "placeId": "ChIJQwyV_fi3xokRlCdIomySbjE"
+        }
+    ],
+    "credits": 3
+}

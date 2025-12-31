@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Providence Hood River Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7048711,-121.5243123,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Hood River Memorial Hospital",
+            "address": "810 12th St, Hood River, OR 97031",
+            "latitude": 45.7048711,
+            "longitude": -121.52431229999999,
+            "rating": 3.8,
+            "ratingCount": 73,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Emergency room",
+                "Heart hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/or/hood-river-memorial-hospital?ls=location&y_source=1_OTU3NjE1OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(541) 386-3911",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFMZBT0QKiAe__bi1mxVZVvkv_ddVvgogwV44O",
+            "cid": "986962433975278264",
+            "fid": "0x54960e6114765f43:0xdb2651ac3c05ab8",
+            "placeId": "ChIJQ192FGEOllQRuFrAwxplsg0"
+        }
+    ],
+    "credits": 3
+}

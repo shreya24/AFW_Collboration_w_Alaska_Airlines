@@ -1,0 +1,93 @@
+{
+    "searchParameters": {
+        "q": "Dr Vicuna MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9986726,-97.7282003,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brian Vicuna, MD",
+            "address": "653 N Town Center Dr Suite 402, Las Vegas, NV 89144",
+            "latitude": 36.180788,
+            "longitude": -115.3155206,
+            "rating": 4.4,
+            "ratingCount": 61,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist"
+            ],
+            "website": "https://cccnevada.com/doctor/brian-vicuna-md/",
+            "phoneNumber": "(702) 243-7200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cccnevada.com/doctor/brian-vicuna-md/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbEC7vM22ybMXB0IVLOtM_LJv-oma4cJwn6BZj",
+            "cid": "17704971794429264566",
+            "fid": "0x80c8ea9ee58d5895:0xf5b4b20ac54442b6",
+            "placeId": "ChIJlViN5Z7qyIARtkJExQqytPU"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Ricardo Vicuna, MD",
+            "address": "1625 SE 3rd Ave # 300, Fort Lauderdale, FL 33316",
+            "latitude": 26.102840999999998,
+            "longitude": -80.14088,
+            "rating": 3.5,
+            "ratingCount": 10,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.browardhealth.org/doctor/profile/Ricardo-Vicuna/612243?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(954) 355-5001",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.browardhealth.org/doctor/profile/Ricardo-Vicuna/612243?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrNcn02Q-lQ8OY9EVXqAPQuGBvAprzSlyDVYHu",
+            "cid": "1685283380246149918",
+            "fid": "0x88d9b085410344b5:0x1763544e2970fb1e",
+            "placeId": "ChIJtUQDQYWw2YgRHvtwKU5UYxc"
+        },
+        {
+            "position": 3,
+            "title": "Vicuna Brian D MD",
+            "address": "675 N St Clair St, Chicago, IL 60611",
+            "latitude": 41.8945043,
+            "longitude": -87.6217669,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.nm.org/",
+            "phoneNumber": "(312) 695-6800",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0mEwN60kuD5HZcH8nytO-Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.31116&pitch=0&thumbfov=100",
+            "cid": "18387515303745607729",
+            "fid": "0x880e2cab489826f3:0xff2d93bf5dd0d831",
+            "placeId": "ChIJ8yaYSKssDogRMdjQXb-TLf8"
+        }
+    ],
+    "credits": 3
+}

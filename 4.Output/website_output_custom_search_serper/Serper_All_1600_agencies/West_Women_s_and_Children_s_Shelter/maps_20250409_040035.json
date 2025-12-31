@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "West Women's and Children's Shelter",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5427145,-122.6543855,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "West Women's & Children's",
+            "latitude": 45.542714499999995,
+            "longitude": -122.6543856,
+            "rating": 4.4,
+            "ratingCount": 8,
+            "priceLevel": "$",
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Service establishment"
+            ],
+            "phoneNumber": "(503) 224-7718",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "12434528035321970225",
+            "fid": "0x549509ffc4000001:0xac90515dff007e31",
+            "placeId": "ChIJAQAAxP8JlVQRMX4A_11RkKw"
+        }
+    ],
+    "credits": 3
+}

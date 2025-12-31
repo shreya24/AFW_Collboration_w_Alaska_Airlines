@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Midwestern Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4488708,-87.8276765,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Midwestern Regional Medical Center Emr",
+            "address": "2520 Elisha Ave, Zion, IL 60099",
+            "latitude": 42.448870799999995,
+            "longitude": -87.8276765,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.cancercenter.com/",
+            "phoneNumber": "(847) 872-6220",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8xhRJarfUQ4-iJ6sce1pxrq3Qh9_hhb6D2cs0FX1tRrthbIqFJArHVVqWRhvl_eZ5hTObIq0u-2Kp9F7jPzaVD_P5UzE_uwBGPSgBhc2rF1EEOfv_gMB46Bh3unQHCKkiedLBchQ",
+            "cid": "15997895760895290734",
+            "fid": "0x880ff363110220b7:0xde03f16f1de42d6e",
+            "placeId": "ChIJtyACEWPzD4gRbi3kHW_xA94"
+        }
+    ],
+    "credits": 3
+}

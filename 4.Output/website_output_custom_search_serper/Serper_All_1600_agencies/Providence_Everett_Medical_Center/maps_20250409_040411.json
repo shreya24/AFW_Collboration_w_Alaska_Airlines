@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Providence Everett Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.0004461,-122.2054325,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Regional Medical Center",
+            "address": "1700 13th St, Everett, WA 98201",
+            "latitude": 48.0004461,
+            "longitude": -122.2054325,
+            "rating": 2.9,
+            "ratingCount": 798,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/providence-regional-medical-center-everett?ls=location&y_source=1_OTU3NjU2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 261-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://washington.providence.org/locations-directory/r/regional-medical-center/#llaid=6451sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEpPd4AdwXpyw3vEe8C1hU3m_66OHmYbwVXuqS",
+            "cid": "13367697040004444593",
+            "fid": "0x549aaacbd81d6b6f:0xb98399a1fe8171b1",
+            "placeId": "ChIJb2sd2MuqmlQRsXGB_qGZg7k"
+        }
+    ],
+    "credits": 3
+}

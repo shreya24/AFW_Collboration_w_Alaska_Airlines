@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "HCA HealthONE / Swedish Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6535818,-104.9795014,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HCA HealthONE Swedish",
+            "address": "501 E Hampden Ave, Englewood, CO 80113",
+            "latitude": 39.6538817,
+            "longitude": -104.980537,
+            "rating": 4.3,
+            "ratingCount": 4618,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/swedish?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(303) 788-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.healthonecares.com/locations/swedish/physicians"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNa_Dzq-j-tGPEtZ56J0l9g2Y5ZLf9blLR3pwN3",
+            "cid": "11855944775002216283",
+            "fid": "0x876c8081479edec9:0xa488c6f516a7d75b",
+            "placeId": "ChIJyd6eR4GAbIcRW9enFvXGiKQ"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Medical Center Healthone",
+            "address": "799 E Hampden Ave, Englewood, CO 80113",
+            "latitude": 39.653281799999995,
+            "longitude": -104.97846589999999,
+            "rating": 3.9,
+            "ratingCount": 9,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.swedishhospital.com/",
+            "phoneNumber": "(303) 788-7997",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_s7SLWWm5dFl4z7pHoBaHDAi-IySlOMjcPxL1fp97SQCwJ4JuvJVnqVlGvXW1d5Y9PjCF151-IZMXS66y5yLoqxYJ5qYWFN8FLYIWNWax-BviaTw69HvzoQ_fXAaG7NONiB425",
+            "cid": "12307256858828202795",
+            "fid": "0x876c8081479edec9:0xaacc28e80df1e32b",
+            "placeId": "ChIJyd6eR4GAbIcRK-PxDegozKo"
+        }
+    ],
+    "credits": 3
+}

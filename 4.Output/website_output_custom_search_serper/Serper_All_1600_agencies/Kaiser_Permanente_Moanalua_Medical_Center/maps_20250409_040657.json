@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Moanalua Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3632331,-157.9000891,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Moanalua Medical Center",
+            "address": "3288 Moanalua Rd, Honolulu, HI 96819",
+            "latitude": 21.3632331,
+            "longitude": -157.9000891,
+            "rating": 4.4,
+            "ratingCount": 293,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Moanalua-Medical-Center-100434",
+            "phoneNumber": "(808) 432-0000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoGNGi5rBPb8pTaPdmRFjjf8E6op5Ugm722Sc6",
+            "cid": "13066892549563636669",
+            "fid": "0x7c006ed94ce2c0eb:0xb556ed8adef05bbd",
+            "placeId": "ChIJ68DiTNluAHwRvVvw3ortVrU"
+        }
+    ],
+    "credits": 3
+}

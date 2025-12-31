@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Swedish Urology Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6092396,-122.3241993,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Urology Group",
+            "address": "1101 Madison St, Seattle, WA 98104",
+            "latitude": 47.609239599999995,
+            "longitude": -122.32419929999999,
+            "rating": 2.9,
+            "ratingCount": 23,
+            "type": "Urology clinic",
+            "types": [
+                "Urology clinic"
+            ],
+            "website": "http://swedishurology.com/",
+            "phoneNumber": "(206) 386-6266",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qp04nVM0nLKMXc28R6HWgg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=226.71669&pitch=0&thumbfov=100",
+            "cid": "13544260870326317605",
+            "fid": "0x54906ac9c4a6b3f9:0xbbf6e1804105f225",
+            "placeId": "ChIJ-bOmxMlqkFQRJfIFQYDh9rs"
+        }
+    ],
+    "credits": 3
+}

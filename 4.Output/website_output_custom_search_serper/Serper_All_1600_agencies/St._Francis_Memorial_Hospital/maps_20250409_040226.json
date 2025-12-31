@@ -1,0 +1,306 @@
+{
+    "searchParameters": {
+        "q": "St. Francis Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.171476,-105.9941684,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Saint Francis Memorial Hospital: Emergency Room",
+            "address": "430 N Monitor St, West Point, NE 68788",
+            "latitude": 41.843598,
+            "longitude": -96.70583909999999,
+            "rating": 2.8,
+            "ratingCount": 4,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.fcswp.org/",
+            "phoneNumber": "(402) 372-2404",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bckTpVYdN09OLRv12ii9Og&cb_client=search.gws-prod.gps&w=80&h=92&yaw=186.45395&pitch=0&thumbfov=100",
+            "cid": "8580856649670246920",
+            "fid": "0x879199aaaf525993:0x771553a8d824c208",
+            "placeId": "ChIJk1lSr6qZkYcRCMIk2KhTFXc"
+        },
+        {
+            "position": 2,
+            "title": "Saint Francis Hospital",
+            "address": "6161 S Yale Ave, Tulsa, OK 74136",
+            "latitude": 36.071712399999996,
+            "longitude": -95.91982399999999,
+            "rating": 2.7,
+            "ratingCount": 1023,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.saintfrancis.com/location/saint-francis-hospital",
+            "phoneNumber": "(918) 494-2200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_wSy0kQqiIfAYZI0jRdr6ODg7xqtgJH58ex0h0CC2wEFEeufAPHEvgEUzm5L0TV9lVC-aMNKRdFLOBiHEwWKkWvGsmvqykn1aqmDshZGRKnDuOHPmDBQTtbwy83I4815d0fig",
+            "cid": "60921030837772717",
+            "fid": "0x87b6925fe1fcb865:0xd86f5ad26fa1ad",
+            "placeId": "ChIJZbj84V-StocRraFv0lpv2AA"
+        },
+        {
+            "position": 3,
+            "title": "Franciscan Healthcare",
+            "address": "430 N Monitor St, West Point, NE 68788",
+            "latitude": 41.843022399999995,
+            "longitude": -96.7061543,
+            "rating": 3,
+            "ratingCount": 25,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Cardiologist",
+                "Nutritionist"
+            ],
+            "website": "http://franhealth.org/",
+            "phoneNumber": "(402) 372-2404",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxuZNKevveLQnzsY7w9F_u-5-CO29m-cCxfLSa",
+            "cid": "17990734611157409476",
+            "fid": "0x879199aaa5c51e4d:0xf9abedcf525cdec4",
+            "placeId": "ChIJTR7FpaqZkYcRxN5cUs_tq_k"
+        },
+        {
+            "position": 4,
+            "title": "Saint Francis Hospital South",
+            "address": "10501 E 91st St, Tulsa, OK 74133",
+            "latitude": 36.0333434,
+            "longitude": -95.8576667,
+            "rating": 2.6,
+            "ratingCount": 324,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.saintfrancis.com/location/saint-francis-hospital-south",
+            "phoneNumber": "(918) 307-6000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_kbJLDADWshk6Q8CcWUsBOpRwxnmwAswePUMR3kXbUlYLu2RWXwW-T6yLHIats01cTEISEJk1RSro0LaoGD5MJ78KLWunywn98xnAl9LjGIpuAYAMksh5BqkIY0utmSTc6M96G",
+            "cid": "18406794313894727694",
+            "fid": "0x87b68e7f8bb17629:0xff7211e7b560100e",
+            "placeId": "ChIJKXaxi3-OtocRDhBgtecRcv8"
+        },
+        {
+            "position": 5,
+            "title": "CHI Health St. Francis",
+            "address": "2620 W Faidley Ave, Grand Island, NE 68803",
+            "latitude": 40.925900899999995,
+            "longitude": -98.3715936,
+            "rating": 4.2,
+            "ratingCount": 752,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.chihealth.com/locations/st-francis",
+            "phoneNumber": "(308) 384-4600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpOBkUMP01OH5NYx43EMpDPejIF0D9PKozh4lM",
+            "cid": "8571401485593587555",
+            "fid": "0x879986e8435a890d:0x76f3bc3ce80faf63",
+            "placeId": "ChIJDYlaQ-iGmYcRY68P6Dy883Y"
+        },
+        {
+            "position": 6,
+            "title": "St Francis Medical Center: Finkner John M MD",
+            "address": "2620 W Faidley Ave, Grand Island, NE 68803",
+            "latitude": 40.925831699999996,
+            "longitude": -98.37166069999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Surgical center"
+            ],
+            "website": "https://www.chihealth.com/st-francis.html?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHIHealth&utm_term=CHIHealthStFrancis",
+            "phoneNumber": "(308) 384-4600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CmLBHfkCbhvXcUVkm4vGmA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=219.72809&pitch=0&thumbfov=100",
+            "cid": "2468887294385960125",
+            "fid": "0x879986e8e016af69:0x22433fe9dc59b4bd",
+            "placeId": "ChIJaa8W4OiGmYcRvbRZ3Ok_QyI"
+        },
+        {
+            "position": 7,
+            "title": "Saint Francis Hospital Vinita",
+            "address": "735 N Foreman St, Vinita, OK 74301",
+            "latitude": 36.6540818,
+            "longitude": -95.15631119999999,
+            "rating": 2.9,
+            "ratingCount": 43,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.saintfrancis.com/location/saint-francis-hospital-vinita",
+            "phoneNumber": "(918) 256-7551",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9EfCjTfuMZ1U35jD2OxGe1nKhtcLGpoST0ujZyAe6X8d71qyhjmOmKVNB3-qK1Va2yuy8Pd5hARHWWyOpLxLdkJCdxileQUaCm14VFNc1qi6odyHnyexwUU-TANnU0pFuRsReP",
+            "cid": "7922739817613938516",
+            "fid": "0x87b7d0b976ee56f9:0x6df339e33cb8cf54",
+            "placeId": "ChIJ-VbudrnQt4cRVM-4POM5820"
+        },
+        {
+            "position": 8,
+            "title": "St. Francis Hospital",
+            "address": "929 St Francis, Wichita, KS 67214",
+            "latitude": 37.699653399999995,
+            "longitude": -97.33094129999999,
+            "rating": 4.5,
+            "ratingCount": 13,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WQVx5jHEJSE1akHM5d-ULw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=273.27902&pitch=0&thumbfov=100",
+            "cid": "5906956607081430739",
+            "fid": "0x87bae30072ea3391:0x51f9b9bcdcbc3ed3",
+            "placeId": "ChIJkTPqcgDjuocR0z683Ly5-VE"
+        },
+        {
+            "position": 9,
+            "title": "St. Francis Medical Center",
+            "address": "309 Jackson St, Monroe, LA 71201",
+            "latitude": 32.499354,
+            "longitude": -92.11408399999999,
+            "rating": 4.7,
+            "ratingCount": 4417,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cancer treatment center",
+                "Emergency care service",
+                "General hospital",
+                "Heart hospital",
+                "Hospital",
+                "Orthopedic clinic",
+                "Rehabilitation center",
+                "Surgical center"
+            ],
+            "website": "https://www.fmolhs.org/locations/northeast-louisiana/st-francis-medical-center?utm_source=Google&utm_medium=listing&utm_campaign=GMB",
+            "phoneNumber": "(318) 966-4000",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201310\u202fPM",
+                "Wednesday": "6\u202fAM\u201310\u202fPM",
+                "Thursday": "6\u202fAM\u201310\u202fPM",
+                "Friday": "6\u202fAM\u201310\u202fPM",
+                "Saturday": "6\u202fAM\u201310\u202fPM",
+                "Sunday": "6\u202fAM\u201310\u202fPM",
+                "Monday": "6\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcL-bRlKLIwaIFBTLH0oKQTSGiNWNh9jmmoeXy",
+            "cid": "11949730385576686268",
+            "fid": "0x862e4866320344d3:0xa5d5f87929fd72bc",
+            "placeId": "ChIJ00QDMmZILoYRvHL9KXn41aU"
+        },
+        {
+            "position": 10,
+            "title": "Saint Francis Medical Center",
+            "address": "211 St Francis Dr, Cape Girardeau, MO 63703",
+            "latitude": 37.3031365,
+            "longitude": -89.57147379999999,
+            "rating": 3.3,
+            "ratingCount": 255,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sfmc.net/?utm_source=extnet&utm_medium=yext",
+            "phoneNumber": "(573) 331-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-tvn32kEgIv_73n3HB7pmsbt0vlEJFICDzbrxg4oq_uWgnD4Jqdm0DJtwmX9rhu4rdtBsWsiDUB0gQpCPLo-EATyq_jddy3fplpOgGCXNSJNmfVRHjTi6sqbU-A-JIViHCD0Jp-Q",
+            "cid": "12908336978134170336",
+            "fid": "0x88778823b6a60723:0xb323a0171eb9fae0",
+            "placeId": "ChIJIwemtiOId4gR4Pq5HhegI7M"
+        },
+        {
+            "position": 11,
+            "title": "UCSF Health Saint Francis Hospital",
+            "address": "900 Hyde St, San Francisco, CA 94109",
+            "latitude": 37.7895567,
+            "longitude": -122.41686299999999,
+            "rating": 4.2,
+            "ratingCount": 786,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://sfcommunityhospitals.ucsfhealth.org/saint-francis",
+            "phoneNumber": "(415) 353-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-XAZHJz0P1uipHTI3fgy5Vz6WFUsIKjWEP6V05m87-AsjcUjoT6sUV_BUpap_8gUcNbDuPMLdJ9rRLW4z1gKKCWyFv53K14wHAPzftDrUnt-hdLl12as-lB8vLsuqRseiQJErA",
+            "cid": "5588582177995165342",
+            "fid": "0x8085809374da3219:0x4d8ea1e19d7b0e9e",
+            "placeId": "ChIJGTLadJOAhYARng57neGhjk0"
+        }
+    ],
+    "credits": 3
+}

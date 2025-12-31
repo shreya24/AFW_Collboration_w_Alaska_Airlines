@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Sanjay Ganpule MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.5526911,-120.7208155,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Sanjay R. Ganpule",
+            "address": "325 Posada Ln, Templeton, CA 93465",
+            "latitude": 35.5526911,
+            "longitude": -120.7208155,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(805) 434-1038",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Yj8rp-VGVCEzPqbiO8UoQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=1.7403367&pitch=0&thumbfov=100",
+            "cid": "1293158088750951768",
+            "fid": "0x80ecdb5721b0c07f:0x11f2386e266c6d58",
+            "placeId": "ChIJf8CwIVfb7IARWG1sJm448hE"
+        }
+    ],
+    "credits": 3
+}

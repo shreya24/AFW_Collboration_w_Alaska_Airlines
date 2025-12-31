@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Family Member/Parent",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4491824,-80.0270755,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PA Parent and Family Alliance",
+            "address": "1501 Reedsdale St Suite 2007, Pittsburgh, PA 15233",
+            "latitude": 40.4491824,
+            "longitude": -80.0270755,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.paparentandfamilyalliance.org/",
+            "phoneNumber": "(570) 664-8615",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VmCrZsZtN3M4behGlQDRVA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=262.7982&pitch=0&thumbfov=100",
+            "cid": "2743348304885511753",
+            "fid": "0x8834f230cba4547d:0x261254bf97def649",
+            "placeId": "ChIJfVSkyzDyNIgRSfbel79UEiY"
+        }
+    ],
+    "credits": 3
+}

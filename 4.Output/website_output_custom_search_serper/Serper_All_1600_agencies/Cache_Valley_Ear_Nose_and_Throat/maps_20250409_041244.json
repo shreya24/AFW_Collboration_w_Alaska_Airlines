@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Cache Valley Ear Nose and Throat",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7724705,-111.8237241,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cache Valley Ear, Nose & Throat",
+            "address": "2245 N 400 E, North Logan, UT 84341",
+            "latitude": 41.7724705,
+            "longitude": -111.82372409999999,
+            "rating": 3.7,
+            "ratingCount": 100,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic",
+                "Plastic surgeon",
+                "Surgeon"
+            ],
+            "website": "https://www.cachevalleyent.com/",
+            "phoneNumber": "(435) 753-7880",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZYcVYIF3bIHiWaJoa6MZzHY1V9BD6G4WSpHsR",
+            "cid": "13172760257926954313",
+            "fid": "0x87547da58fbd7a0f:0xb6cf0ba98d1e7d49",
+            "placeId": "ChIJD3q9j6V9VIcRSX0ejakLz7Y"
+        }
+    ],
+    "credits": 3
+}

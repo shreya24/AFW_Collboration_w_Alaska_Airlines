@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Camp Pendleton Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2179625,-117.3880878,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Naval Hospital Camp Pendleton",
+            "address": "200 Mercy Cir, Oceanside, CA 92055",
+            "latitude": 33.2214538,
+            "longitude": -117.38878799999999,
+            "rating": 2.4,
+            "ratingCount": 371,
+            "type": "Military hospital",
+            "types": [
+                "Military hospital",
+                "Pharmacy"
+            ],
+            "website": "https://camp-pendleton.tricare.mil/",
+            "phoneNumber": "(760) 725-1288",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD0m3JQjnxLmC3__wM5HipCg3WRn3Z5-6ZEm1M",
+            "cid": "16955259781949918811",
+            "fid": "0x80dc6fbe575b1ba9:0xeb4d2ef059978e5b",
+            "placeId": "ChIJqRtbV75v3IARW46XWfAuTes"
+        },
+        {
+            "position": 2,
+            "title": "Camp Pendleton Hospital",
+            "address": "Camp Pendleton Main Gate, 20250 Vandegrift Blvd, Oceanside, CA 92058",
+            "latitude": 33.2144711,
+            "longitude": -117.3873876,
+            "rating": 3.1,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "phoneNumber": "(760) 719-5971",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8wCrg0FEYLArBYNlJ33tqsxMVuAEEAQK_1uJfBA-Lp6b-JBoTHUHxCbQ2hpBROR7yUORrvGWK4HVXvbqlM94L0Dt4VfycnjhiKhVi4mT6w3g-TXAWimJcvsUxxdyErcRoIuwX4Yg",
+            "cid": "14452091407810837989",
+            "fid": "0x80dc6fb8307057b7:0xc8902490a00a3de5",
+            "placeId": "ChIJt1dwMLhv3IAR5T0KoJAkkMg"
+        }
+    ],
+    "credits": 3
+}

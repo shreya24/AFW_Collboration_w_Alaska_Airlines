@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Kachemac Bay Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.6508094,-151.549703,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kachemak Medical Group",
+            "address": "323 W Danview Ave, Homer, AK 99603",
+            "latitude": 59.6502712,
+            "longitude": -151.5506694,
+            "rating": 4,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://kmedicalgroup.com/",
+            "phoneNumber": "(907) 235-7000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-eh2PsolAdOgm54YrrOtbbZWeZbgkZEgcZBtdgfBR20pf20HqUIGrmh5Mlqdot078e90BxpuyaUHtL8kZ8nk5CjqLpD083rpqYClkz2jZVvc0DY_po71dplSQX7Y3YnRGZfCEczg",
+            "cid": "4382439560803284934",
+            "fid": "0x56c1337d11478945:0x3cd18d8fb74c77c6",
+            "placeId": "ChIJRYlHEX0zwVYRxndMt4-N0Tw"
+        },
+        {
+            "position": 2,
+            "title": "Kachemak Bay Sports Medicine",
+            "address": "4201 Bartlett St #201, Homer, AK 99603",
+            "latitude": 59.6513475,
+            "longitude": -151.54873659999998,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 235-2261",
+            "cid": "198296717294700602",
+            "fid": "0x56c1327180188163:0x2c07dd0527a083a",
+            "placeId": "ChIJY4EYgHEywVYROgh6UtB9wAI"
+        }
+    ],
+    "credits": 3
+}

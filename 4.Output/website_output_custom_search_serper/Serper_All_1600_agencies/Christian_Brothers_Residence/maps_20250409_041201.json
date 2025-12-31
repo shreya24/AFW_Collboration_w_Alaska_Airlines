@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Christian Brothers Residence",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.6063107,-88.0779051,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Admission Welcome Center",
+            "address": "Romeoville, IL 60446",
+            "latitude": 41.6063107,
+            "longitude": -88.0779051,
+            "type": "Building",
+            "types": [
+                "Building"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ddO4e3ibQ7hii2ljqs7n8A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=69.66698&pitch=0&thumbfov=100",
+            "cid": "15285428148059941793",
+            "fid": "0x880e5dc26007a807:0xd420bfea3cdeaba1",
+            "placeId": "ChIJB6gHYMJdDogRoavePOq_INQ"
+        }
+    ],
+    "credits": 3
+}

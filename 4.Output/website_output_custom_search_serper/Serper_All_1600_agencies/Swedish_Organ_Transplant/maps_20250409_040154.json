@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Swedish Organ Transplant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6086292,-122.322809,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Organ Transplant Center",
+            "address": "1124 Columbia St #600, Seattle, WA 98104",
+            "latitude": 47.6086439,
+            "longitude": -122.32369969999999,
+            "rating": 3.2,
+            "ratingCount": 17,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/organ-transplant-center?Is=location&y_source=1_OTU3Njc5My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-3660",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/services/organ-transplant-program#llaid=7575sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaOV8QTcfFFEHW3Sls0hqfDvNg-pGBr06BjloB",
+            "cid": "13049070267148406523",
+            "fid": "0x54906ac9c17dc12f:0xb5179c45627e0efb",
+            "placeId": "ChIJL8F9wclqkFQR-w5-YkWcF7U"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Medical Organ Transplant",
+            "address": "747 Broadway, Seattle, WA 98122",
+            "latitude": 47.608614599999996,
+            "longitude": -122.3219183,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/organ-transplant-center/kidney-transplant",
+            "phoneNumber": "(206) 386-6000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OimSTyFWuviiNrEuA563Gw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=252.5191&pitch=0&thumbfov=100",
+            "cid": "15353903267136194933",
+            "fid": "0x54906ac855a6a821:0xd51405ac495cc975",
+            "placeId": "ChIJIaimVchqkFQRdclcSawFFNU"
+        }
+    ],
+    "credits": 3
+}

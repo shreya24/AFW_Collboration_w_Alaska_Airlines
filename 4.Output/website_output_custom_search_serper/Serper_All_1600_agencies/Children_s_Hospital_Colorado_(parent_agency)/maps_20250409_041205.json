@@ -1,0 +1,293 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Colorado (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4204154,-104.8820846,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Colorado Anschutz Medical Campus, Aurora",
+            "address": "13123 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.741787099999996,
+            "longitude": -104.8345896,
+            "rating": 4.5,
+            "ratingCount": 5303,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/anschutz-medical-campus-aurora/",
+            "phoneNumber": "(720) 777-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOe2ddQCREnaJ6vyif9Rhrz8IFkO2jslVzvl05_",
+            "cid": "17832171354029654962",
+            "fid": "0x876c6348c7a61ab3:0xf778995e1ad583b2",
+            "placeId": "ChIJsxqmx0hjbIcRsoPVGl6ZePc"
+        },
+        {
+            "position": 2,
+            "title": "Children's Hospital Colorado South Campus, Highlands Ranch",
+            "address": "1811 Plaza Dr, Highlands Ranch, CO 80129",
+            "latitude": 39.5573816,
+            "longitude": -105.0099077,
+            "rating": 4.4,
+            "ratingCount": 1358,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/south-campus-highlands-ranch/",
+            "phoneNumber": "(720) 478-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdr0qk2iTBK_NDO6uaxBm8TIoyrx4wBk_bMHPF",
+            "cid": "6610313278836912552",
+            "fid": "0x876c8216a58f9605:0x5bbc8ce7771f31a8",
+            "placeId": "ChIJBZaPpRaCbIcRqDEfd-eMvFs"
+        },
+        {
+            "position": 3,
+            "title": "Children's Hospital Colorado, Colorado Springs",
+            "address": "4090 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.9681706,
+            "longitude": -104.7542615,
+            "rating": 4.2,
+            "ratingCount": 1111,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon",
+                "Pediatrician",
+                "Surgeon"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/colorado-springs-hospital/",
+            "phoneNumber": "(719) 305-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJbhLQKIkZTLEfmtubovb3CpTvm71eKzxr6SMe",
+            "cid": "446600458676907134",
+            "fid": "0x87134dbbc2c18981:0x632a4c03ff6ac7e",
+            "placeId": "ChIJgYnBwrtNE4cRfqz2P8CkMgY"
+        },
+        {
+            "position": 4,
+            "title": "Children's Hospital Colorado North Campus, Broomfield",
+            "address": "469 CO-7, Broomfield, CO 80023",
+            "latitude": 40.0013751,
+            "longitude": -104.9931946,
+            "rating": 4.2,
+            "ratingCount": 1947,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon",
+                "Pediatrician",
+                "Urgent care center"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/north-campus-broomfield/",
+            "phoneNumber": "(720) 478-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNt0J1mT4lyWHcZFVOpSD7suJ6V4LCIS1qmJnUy",
+            "cid": "17319309240865421753",
+            "fid": "0x876c0ae71dda1c39:0xf05a8bfe30ec79b9",
+            "placeId": "ChIJORzaHecKbIcRuXnsMP6LWvA"
+        },
+        {
+            "position": 5,
+            "title": "Parent Smart Healthline",
+            "address": "13123 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.7430921,
+            "longitude": -104.83351429999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.childrenscolorado.org/urgent-care-emergency/parentsmart-healthline/",
+            "phoneNumber": "(720) 777-0123",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r3y6r6TR4u4NC_Faai2InA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.59152&pitch=0&thumbfov=100",
+            "cid": "7769118348473459156",
+            "fid": "0x876c6346064ecc91:0x6bd173f9b2bae1d4",
+            "placeId": "ChIJkcxOBkZjbIcR1OG6svlz0Ws"
+        },
+        {
+            "position": 6,
+            "title": "Children's Colorado Health Pavilion",
+            "address": "860 N Potomac Cir, Aurora, CO 80011",
+            "latitude": 39.7297769,
+            "longitude": -104.8265376,
+            "rating": 4.7,
+            "ratingCount": 545,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Occupational therapist",
+                "Pediatric ophthalmologist",
+                "Physical therapy clinic"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/health-pavilion",
+            "phoneNumber": "(720) 777-1234",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyR2BWFeGQ-x321hRIHW7JdOv_iuyqmJ2Lr6xU",
+            "cid": "1116980154341656876",
+            "fid": "0x876c63bb1aa0151f:0xf804f8848b2092c",
+            "placeId": "ChIJHxWgGrtjbIcRLAmySIhPgA8"
+        },
+        {
+            "position": 7,
+            "title": "Childrens Hospital Colorado Neonatal ICU (NICU) at Memorial Hospital Central",
+            "address": "1400 E Boulder St, Colorado Springs, CO 80909",
+            "latitude": 38.839455699999995,
+            "longitude": -104.79859169999999,
+            "rating": 2.8,
+            "ratingCount": 13,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://www.childrenscolorado.org/",
+            "phoneNumber": "(719) 365-5203",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8y9Fop0UQw7JWlML4vxFqM15YKPB4WHmUYJQ-hgVBqu_OBa2QPwTcfUji1p1PsIihtuTqncjWlHe6qMpTqVO0TlwNBmahmF8TlUsTc12eChW5XMyd4YaDJG0v8D-kMCLf88pnPdw",
+            "cid": "15444097753890940441",
+            "fid": "0x871345a7f42489c7:0xd6547514b113e619",
+            "placeId": "ChIJx4kk9KdFE4cRGeYTsRR1VNY"
+        },
+        {
+            "position": 8,
+            "title": "Children's Hospital Colorado",
+            "address": "1830 Franklin St, Denver, CO 80218",
+            "latitude": 39.7455469,
+            "longitude": -104.96794899999999,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.childrenscolorado.org/",
+            "phoneNumber": "(720) 777-1360",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jqHz536U_qO5ccJl1fR4nA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=81.20737&pitch=0&thumbfov=100",
+            "cid": "4276212772721178894",
+            "fid": "0x876c793400e56d3b:0x3b5828dc4608b90e",
+            "placeId": "ChIJO23lADR5bIcRDrkIRtwoWDs"
+        },
+        {
+            "position": 9,
+            "title": "Pediatric Mental Health Institute at Children's Hospital Colorado",
+            "address": "13123 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.742222999999996,
+            "longitude": -104.834946,
+            "rating": 3,
+            "ratingCount": 25,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Pediatric clinic"
+            ],
+            "website": "https://www.childrenscolorado.org/doctors-and-departments/departments/psych/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=130",
+            "phoneNumber": "(720) 777-6200",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPHnxo5LiiiW9APxly1R0S2laFwghpp19wmcSb",
+            "cid": "10000952953836415059",
+            "fid": "0x876c6346064ecc91:0x8aca85b964d02853",
+            "placeId": "ChIJkcxOBkZjbIcRUyjQZLmFyoo"
+        },
+        {
+            "position": 10,
+            "title": "HCA HealthONE Rocky Mountain Children's at Presbyterian St. Luke's",
+            "address": "2001 High St, Denver, CO 80205",
+            "latitude": 39.746697999999995,
+            "longitude": -104.9653732,
+            "rating": 4.1,
+            "ratingCount": 156,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/rocky-mountain-childrens?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(720) 754-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9NoTo6TN7ph_O_o8xrkoXnHLhJF5c7xzyvcX6ozCgpIysLONeCd8sIa-9w0HBYadHPJkuX7MwRvlBrf9Zc2LcoY7djPJqmiGEcoXcgPDmN39BCHyFTHZlfyyHFH7r6oKUCmf6NQA",
+            "cid": "10434540658106232348",
+            "fid": "0x876c7936a175e7ed:0x90ceef71a8caee1c",
+            "placeId": "ChIJ7ed1oTZ5bIcRHO7KqHHvzpA"
+        }
+    ],
+    "credits": 3
+}

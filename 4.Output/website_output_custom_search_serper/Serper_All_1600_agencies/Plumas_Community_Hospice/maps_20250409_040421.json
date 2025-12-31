@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Plumas Community Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.9377451,-120.9426914,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Plumas Community Hospice",
+            "address": "211 Lawrence St, Quincy, CA 95971",
+            "latitude": 39.9377451,
+            "longitude": -120.9426914,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://plumashospice.org/",
+            "phoneNumber": "(530) 394-7228",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IQzzHhWe0P7Ha9KrZNllxg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=358.93695&pitch=0&thumbfov=100",
+            "cid": "13358429112200963365",
+            "fid": "0x809cf920b17bc4df:0xb962ac8065f9a525",
+            "placeId": "ChIJ38R7sSD5nIARJaX5ZYCsYrk"
+        }
+    ],
+    "credits": 3
+}

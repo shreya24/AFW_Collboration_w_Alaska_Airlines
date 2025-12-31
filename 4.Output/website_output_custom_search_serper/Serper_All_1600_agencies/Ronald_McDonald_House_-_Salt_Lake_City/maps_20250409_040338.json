@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Ronald McDonald House - Salt Lake City",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7696987,-111.8653947,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ronald McDonald House of the Intermountain Area",
+            "address": "935 E S Temple St, Salt Lake City, UT 84102",
+            "latitude": 40.7696987,
+            "longitude": -111.8653947,
+            "rating": 4.8,
+            "ratingCount": 365,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Non-profit organization"
+            ],
+            "website": "https://rmhcslc.org/",
+            "phoneNumber": "(801) 363-4663",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaonBa4r1lOlF6TrZwvPiuOeYCUfljYPmLkhbF",
+            "cid": "940061462047181184",
+            "fid": "0x8752f57b056a5775:0xd0bc4eb485b4980",
+            "placeId": "ChIJdVdqBXv1UocRgElbSOvECw0"
+        }
+    ],
+    "credits": 3
+}

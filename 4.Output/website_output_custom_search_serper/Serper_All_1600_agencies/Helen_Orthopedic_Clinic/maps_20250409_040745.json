@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Helen Orthopedic Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5818721,-111.9980047,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Helena Orthopedic Clinic",
+            "address": "2442 Winne Ave, Helena, MT 59601",
+            "latitude": 46.5818721,
+            "longitude": -111.9980047,
+            "rating": 3.9,
+            "ratingCount": 60,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Physiatrist"
+            ],
+            "website": "http://helenaortho.com/",
+            "phoneNumber": "(406) 324-9400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_JZPGUpEi2JM12JdGNRP8dz9qnCgnFPNIvrWBlb3KDy09y7WkY6sSkSCvi0lz57vvEgT0jBYr11VOvcC4FKh5CFtd0H9Nhms_KwNlWZjrrkT_guVI7TQL2Youcrj32sL_1Dck7",
+            "cid": "9424652490725581471",
+            "fid": "0x5343559f214de8ef:0x82cb1781a132e29f",
+            "placeId": "ChIJ7-hNIZ9VQ1MRn-IyoYEXy4I"
+        }
+    ],
+    "credits": 3
+}

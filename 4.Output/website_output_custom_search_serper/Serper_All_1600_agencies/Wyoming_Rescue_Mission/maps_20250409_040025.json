@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Wyoming Rescue Mission",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8521629,-106.3184326,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wyoming Rescue Mission WRM",
+            "address": "230 N Park St, Casper, WY 82601",
+            "latitude": 42.852162899999996,
+            "longitude": -106.3184326,
+            "rating": 4.2,
+            "ratingCount": 154,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Community health centre"
+            ],
+            "website": "http://wyomission.org/",
+            "phoneNumber": "(307) 265-2251",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN84ispdZLP5gGO44Lvfsem0gYTsqBEHoOYslU5",
+            "cid": "6408374814661311293",
+            "fid": "0x8760bc9996d63d31:0x58ef1ef0df727b3d",
+            "placeId": "ChIJMT3Wlpm8YIcRPXty3_Ae71g"
+        }
+    ],
+    "credits": 3
+}

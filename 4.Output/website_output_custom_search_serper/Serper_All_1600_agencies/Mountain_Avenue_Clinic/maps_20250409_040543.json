@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Mountain Avenue Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1270533,-109.2895415,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "White Mountain Regional Medical Center",
+            "address": "118 S Mountain Ave, Springerville, AZ 85938",
+            "latitude": 34.1322368,
+            "longitude": -109.28686189999999,
+            "rating": 3.5,
+            "ratingCount": 56,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital"
+            ],
+            "website": "https://www.wmrmc.com/",
+            "phoneNumber": "(928) 333-4368",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNj462_0fvabIyCRpn9X0MlAzYkYTS6Hb0SUmA9",
+            "cid": "7053262043062775606",
+            "fid": "0x8726116324ac92a3:0x61e238755880af36",
+            "placeId": "ChIJo5KsJGMRJocRNq-AWHU44mE"
+        },
+        {
+            "position": 2,
+            "title": "North Country HealthCare - Round Valley/Springerville",
+            "address": "488 S Mountain Ave, Springerville, AZ 85938",
+            "latitude": 34.1257418,
+            "longitude": -109.2895775,
+            "rating": 4.4,
+            "ratingCount": 45,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://northcountryhealthcare.org/locations/round-valley",
+            "phoneNumber": "(928) 333-0127",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPudCxhbKn1_JbdBHUwEahXHHdfIIJ7YoLh7RQJ",
+            "cid": "13446363070325908591",
+            "fid": "0x872611640067c8ff:0xba9b13f877b4e46f",
+            "placeId": "ChIJ_8hnAGQRJocRb-S0d_gTm7o"
+        },
+        {
+            "position": 3,
+            "title": "Mountain Avenue Clinic",
+            "address": "606 N Main St, Eagar, AZ 85925",
+            "latitude": 34.1218697,
+            "longitude": -109.29222109999999,
+            "rating": 4.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(928) 333-5333",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4_lPIanXj6MvQ7qWKLZkWw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.48166&pitch=0&thumbfov=100",
+            "cid": "12866006630503108663",
+            "fid": "0x87261153ce89c4bb:0xb28d3cdd08f55037",
+            "placeId": "ChIJu8SJzlMRJocRN1D1CN08jbI"
+        }
+    ],
+    "credits": 3
+}

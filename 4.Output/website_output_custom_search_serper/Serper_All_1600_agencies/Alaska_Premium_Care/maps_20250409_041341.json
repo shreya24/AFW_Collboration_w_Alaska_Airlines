@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Alaska Premium Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1962577,-149.788121,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Premium Care",
+            "address": "2683 Wesleyan Dr, Anchorage, AK 99508",
+            "latitude": 61.1962577,
+            "longitude": -149.788121,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility"
+            ],
+            "website": "http://www.alaskapremiumcare.com/",
+            "phoneNumber": "(907) 227-5206",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOV2RnkuVWN-To7SXLzmmxqgaNarsFiT0N8SJD",
+            "cid": "16122319005848474784",
+            "fid": "0x56c897524233ffff:0xdfbdfbb7532094a0",
+            "placeId": "ChIJ__8zQlKXyFYRoJQgU7f7vd8"
+        }
+    ],
+    "credits": 3
+}

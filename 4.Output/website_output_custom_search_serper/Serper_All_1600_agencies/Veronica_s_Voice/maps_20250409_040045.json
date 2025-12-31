@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Veronica's Voice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0902344,-94.6471575,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Veronica's Voice",
+            "latitude": 39.0902344,
+            "longitude": -94.64715749999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Service establishment"
+            ],
+            "website": "https://www.veronicasvoice.org/",
+            "phoneNumber": "(816) 483-7101",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzlop1w_7SqaQcGxCGsPqDRY15-j5I-ZDg0Nbk",
+            "cid": "4383354281456719626",
+            "fid": "0x87c0f3fa0be9351f:0x3cd4cd7eb6ea570a",
+            "placeId": "ChIJHzXpC_rzwIcRClfqtn7N1Dw"
+        }
+    ],
+    "credits": 3
+}

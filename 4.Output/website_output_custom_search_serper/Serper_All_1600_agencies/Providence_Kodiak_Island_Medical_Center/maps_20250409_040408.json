@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Providence Kodiak Island Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.8007499,-152.3758904,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Kodiak Island Medical Center",
+            "address": "1915 E Rezanof Dr, Kodiak, AK 99615",
+            "latitude": 57.8007499,
+            "longitude": -152.3758904,
+            "rating": 3.8,
+            "ratingCount": 8,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/kodiak-island-medical-center?ls=location&y_source=1_OTU3NTcwNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+            "phoneNumber": "(907) 486-9500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-JBWVhPGtn7H8orRpFkMVe43yA_aa3v7zVCTG6aVw2VRO-y5Bv2cKfVR1c0w_sM9CtABi9k5ErYiyF2pjgsZF8tJk0e91NS3qQoH-PX-8WzIeKTIDdpBRDuvrJJRMSWQ-d0ZNV",
+            "cid": "3028223216330320464",
+            "fid": "0x56eac43e3f27ec4b:0x2a0668f895f5aa50",
+            "placeId": "ChIJS-wnPz7E6lYRUKr1lfhoBio"
+        }
+    ],
+    "credits": 3
+}

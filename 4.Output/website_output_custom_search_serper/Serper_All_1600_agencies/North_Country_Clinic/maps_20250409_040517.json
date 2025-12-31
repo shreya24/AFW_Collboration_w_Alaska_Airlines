@@ -1,0 +1,54 @@
+{
+    "searchParameters": {
+        "q": "North Country Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8759414,-124.0838505,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Country Clinic: Albrecht Jennifer D",
+            "address": "785 18th St, Arcata, CA 95521",
+            "latitude": 40.875957,
+            "longitude": -124.0838737,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Health"
+            ],
+            "website": "https://opendoorhealth.com/locations/arcata-community-health-centers-center/",
+            "phoneNumber": "(707) 822-2481",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d07aIWeWHzvTTt_zv9SbZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=217.59712&pitch=0&thumbfov=100",
+            "cid": "1765312363708658887",
+            "fid": "0x54d157136ca4efe3:0x187fa63de475b4c7",
+            "placeId": "ChIJ4--kbBNX0VQRx7R15D2mfxg"
+        },
+        {
+            "position": 2,
+            "title": "North Country Clinic",
+            "address": "785 18th St, Arcata, CA 95521",
+            "latitude": 40.8759258,
+            "longitude": -124.0838273,
+            "rating": 4,
+            "ratingCount": 28,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Nurse practitioner"
+            ],
+            "website": "http://opendoorhealth.com/opendoor/locations/northcountry-clinic/",
+            "phoneNumber": "(707) 822-2481",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d07aIWeWHzvTTt_zv9SbZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=202.98108&pitch=0&thumbfov=100",
+            "cid": "10771397455242645367",
+            "fid": "0x54d157136ca4efe3:0x957bb0ea8e48cf77",
+            "placeId": "ChIJ4--kbBNX0VQRd89Ijuqwe5U"
+        }
+    ],
+    "credits": 3
+}

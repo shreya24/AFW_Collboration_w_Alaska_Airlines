@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "San Luis Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2409641,-120.6422454,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Luis Internal Medicine Associates",
+            "address": "805 Aerovista Pl STE 106, San Luis Obispo, CA 93401",
+            "latitude": 35.2409641,
+            "longitude": -120.6422454,
+            "rating": 4.2,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(805) 594-1240",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "14868992798952809780",
+            "fid": "0x80ecf1ab619ef6ed:0xce59462bdd6c6534",
+            "placeId": "ChIJ7faeYavx7IARNGVs3StGWc4"
+        }
+    ],
+    "credits": 3
+}

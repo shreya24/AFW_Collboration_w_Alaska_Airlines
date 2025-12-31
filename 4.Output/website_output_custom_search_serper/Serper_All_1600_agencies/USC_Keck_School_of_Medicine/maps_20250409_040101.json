@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "USC Keck School of Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0594477,-118.2069491,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Keck School of Medicine of USC",
+            "address": "1975 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.061138,
+            "longitude": -118.2057365,
+            "rating": 4.1,
+            "ratingCount": 92,
+            "priceLevel": "$$",
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://keck.usc.edu/",
+            "phoneNumber": "(323) 442-1100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNy1eeoYmP4T6eno1EBB3dMD9UR948U5AJgjBfK",
+            "cid": "1956318532872637592",
+            "fid": "0x80c2c5df2863610d:0x1b263d5733630c98",
+            "placeId": "ChIJDWFjKN_FwoARmAxjM1c9Jhs"
+        },
+        {
+            "position": 2,
+            "title": "Keck School of Medicine of USC",
+            "address": "1200 N State St #1011, Los Angeles, CA 90033",
+            "latitude": 34.0577573,
+            "longitude": -118.20816169999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "priceLevel": "$$",
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "https://keck.usc.edu/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "3514312460084944032",
+            "fid": "0x80c2c67519b58aaf:0x30c5589015179ca0",
+            "placeId": "ChIJr4q1GXXGwoARoJwXFZBYxTA"
+        }
+    ],
+    "credits": 3
+}

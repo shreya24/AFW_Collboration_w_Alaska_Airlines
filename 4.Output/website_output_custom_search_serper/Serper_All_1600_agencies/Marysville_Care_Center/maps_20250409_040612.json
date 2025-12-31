@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Marysville Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.0615634,-122.169582,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marysville Care Center",
+            "address": "1821 Grove St, Marysville, WA 98270",
+            "latitude": 48.0615634,
+            "longitude": -122.16958199999999,
+            "rating": 4.3,
+            "ratingCount": 175,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "http://marysvillecarecenterwa.com/",
+            "phoneNumber": "(360) 659-3926",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEjPH5qRgYLkbp3YsXtIeuoOzgPfRsFB-XQIM",
+            "cid": "7056172479622773906",
+            "fid": "0x54855381ce0c797d:0x61ec8f7c29cd7c92",
+            "placeId": "ChIJfXkMzoFThVQRknzNKXyP7GE"
+        }
+    ],
+    "credits": 3
+}

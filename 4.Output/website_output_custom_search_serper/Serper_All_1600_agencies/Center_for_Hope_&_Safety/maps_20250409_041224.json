@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Center for Hope & Safety",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.9267798,-98.5533706,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Center for Hope & Safety",
+            "address": "12 Overlook Ave, Rochelle Park, NJ 07662",
+            "latitude": 40.910945999999996,
+            "longitude": -74.0732882,
+            "rating": 2.6,
+            "ratingCount": 12,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "https://www.hopeandsafetynj.org/",
+            "phoneNumber": "(201) 498-9247",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMm1jEmhmddT6090gPwwB7TPj5nH-aqt6X6dkPR",
+            "cid": "859075990843477673",
+            "fid": "0x89c2fa055d1fe99f:0xbec0d0fe54acea9",
+            "placeId": "ChIJn-kfXQX6wokRqc5K5Q8N7As"
+        },
+        {
+            "position": 2,
+            "title": "Center for Hope & Safety",
+            "address": "605 Center St NE, Salem, OR 97301",
+            "latitude": 44.9426136,
+            "longitude": -123.03345309999999,
+            "rating": 4.2,
+            "ratingCount": 99,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Crisis center"
+            ],
+            "website": "http://www.hopeandsafety.org/",
+            "phoneNumber": "(503) 378-1572",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-X_sKkcUF0pnAdGnUqljc2Jz1Ucvjff5KfTrNEeitysOrVXs3EuIjCdz4ddJ0VEQHVhvyPxowNRbwSJvCrKLyuCM6CISfq8rYO1cCtJhD1GkxFDo8U5_vFHAovcCPX0TbTvdbtBw",
+            "cid": "16272544784120061407",
+            "fid": "0x54bfff0f799bdc55:0xe1d3b143f91c9ddf",
+            "placeId": "ChIJVdybeQ__v1QR350c-UOx0-E"
+        }
+    ],
+    "credits": 3
+}

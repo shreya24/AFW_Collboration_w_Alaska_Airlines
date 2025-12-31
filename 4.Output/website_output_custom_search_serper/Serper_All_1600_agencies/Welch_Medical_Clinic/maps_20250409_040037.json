@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Welch Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8746096,-95.0950821,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Welch Family Clinic",
+            "address": "Welch, OK 74369",
+            "latitude": 36.8746096,
+            "longitude": -95.0950821,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(918) 788-3918",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W9VNJI3UyEoROLT-wlsTLg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=261.8168&pitch=0&thumbfov=100",
+            "cid": "2753835435936821458",
+            "fid": "0x87b7e05bdb7c5df7:0x263796bd10e5b0d2",
+            "placeId": "ChIJ911821vgt4cR0rDlEL2WNyY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Four Corners Infections",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2363824,-107.8255344,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CommonSpirit Infectious Disease Mercy",
+            "address": "1010 Three Springs Blvd #255, Durango, CO 81301",
+            "latitude": 37.2363824,
+            "longitude": -107.8255344,
+            "rating": 4.9,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-infectious-disease-durango",
+            "phoneNumber": "(970) 764-3810",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUtTAoeFI-zDsWAQ2CLe5xWNPMTz7q4QKm1fP3",
+            "cid": "9600548758587442698",
+            "fid": "0x873c1ce5abdc84e9:0x853c003ae46c060a",
+            "placeId": "ChIJ6YTcq-UcPIcRCgZs5DoAPIU"
+        }
+    ],
+    "credits": 3
+}

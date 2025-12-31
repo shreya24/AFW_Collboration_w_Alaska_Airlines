@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Tri Valley Haven",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6756943,-121.7529704,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tri-Valley Haven",
+            "address": "3663 Pacific Ave, Livermore, CA 94550",
+            "latitude": 37.675694299999996,
+            "longitude": -121.7529704,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Family counselor",
+            "types": [
+                "Family counselor"
+            ],
+            "website": "http://www.trivalleyhaven.org/",
+            "phoneNumber": "(800) 884-8119",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_f67rMPQPj_9oldgkXXUGfL37y5hPhiJ7mJJKCCE7-ut8_ZKtNW7NGQmHtny9FSBdixPYr1-YTD7F6HgH1m1U5QxbyXnDk5U3-JRjMqH1XKowCrlQwawqIqCjPa_pVfOGmfuCV",
+            "cid": "10122381085950376395",
+            "fid": "0x808fe765286381f1:0x8c79ebf78d3479cb",
+            "placeId": "ChIJ8YFjKGXnj4ARy3k0jffreYw"
+        }
+    ],
+    "credits": 3
+}

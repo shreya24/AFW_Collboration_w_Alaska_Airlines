@@ -1,0 +1,106 @@
+{
+    "searchParameters": {
+        "q": "Dixie Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0978352,-113.5648866,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health St George Regional Hospital",
+            "address": "1380 E Medical Center Dr, St. George, UT 84790",
+            "latitude": 37.0968017,
+            "longitude": -113.5539707,
+            "rating": 3.6,
+            "ratingCount": 485,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/st-george-regional-hospital?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(435) 251-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/st-george-regional-hospital?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-enmigL2Rt2l0dg59Ac0BtU6J3778kEUbpQgzJVlCJxAslHalDKGMcDW41OasGAlmr2DBk-6UELQ4SJ7jvbBoF3BUxHWVMaNthweltv_Tw0ZUuCtoINuZ4Ylf7wr2YYk6g8Fdj",
+            "cid": "1185004028033102413",
+            "fid": "0x80ca5bcc7a1446a3:0x1071fae29451f24d",
+            "placeId": "ChIJo0YUesxbyoARTfJRlOL6cRA"
+        },
+        {
+            "position": 2,
+            "title": "Intermountain Health St. George Regional Hospital River Road Emergency Services",
+            "address": "1380 E Medical Center Dr, St. George, UT 84790",
+            "latitude": 37.0968017,
+            "longitude": -113.5539707,
+            "rating": 2.8,
+            "ratingCount": 53,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/st-george-regional-hospital/emergency?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(435) 251-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOPgiOkeQFf8sNdHFdwsEow0z87d4saHkKcIWCu",
+            "cid": "12049312170499408855",
+            "fid": "0x80ca5b70cecb197b:0xa737c1943e6883d7",
+            "placeId": "ChIJexnLznBbyoAR14NoPpTBN6c"
+        },
+        {
+            "position": 3,
+            "title": "Dixie Regional Medical Center: Wilson Darrell L MD",
+            "address": "544 S 400 E, St. George, UT 84770",
+            "latitude": 37.098808999999996,
+            "longitude": -113.57556199999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://intermountainhealthcare.org/",
+            "phoneNumber": "(435) 251-1000",
+            "cid": "16078403645304396757",
+            "fid": "0x80ca452a90f33105:0xdf21f6eda9b6dbd5",
+            "placeId": "ChIJBTHzkCpFyoAR1du2qe32Id8"
+        },
+        {
+            "position": 4,
+            "title": "Dixie Regional Medical Center",
+            "address": "1380 E Medical Center Dr, St. George, UT 84790",
+            "latitude": 37.0988687,
+            "longitude": -113.57580259999999,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
+            "phoneNumber": "(435) 251-1000",
+            "isPermanentlyClosed": true,
+            "cid": "3088150065719003983",
+            "fid": "0x80ca452a7dfae4f5:0x2adb501f8047cb4f",
+            "placeId": "ChIJ9eT6fSpFyoART8tHgB9Q2yo"
+        }
+    ],
+    "credits": 3
+}

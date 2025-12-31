@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence St. Vincent Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5103371,-122.7718563,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence St. Vincent Medical Center",
+            "address": "9205 SW Barnes Rd, Portland, OR 97225",
+            "latitude": 45.5103371,
+            "longitude": -122.7718563,
+            "rating": 3.1,
+            "ratingCount": 575,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/st-vincent-medical-center?ls=location&y_source=1_OTU3NjM5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 216-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoWYZ8bqsx5Rru1xIjOuLJ9_LLdjLY0LB2SxK2",
+            "cid": "1736548786178364168",
+            "fid": "0x549509447fd503d5:0x181975eb9f4c1308",
+            "placeId": "ChIJ1QPVf0QJlVQRCBNMn-t1GRg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Klamath Open Door",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2152842,-121.7657569,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Klamath Open Door Family Practice",
+            "address": "2074 S 6th St, Klamath Falls, OR 97601",
+            "latitude": 42.2152842,
+            "longitude": -121.7657569,
+            "rating": 2.9,
+            "ratingCount": 113,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Pharmacy"
+            ],
+            "website": "http://www.klamathopendoor.org/",
+            "phoneNumber": "(541) 851-8110",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDnKU0mrWZ4rU4i18vYPZ_ERea9r8eAV1oq4Bc",
+            "cid": "14555968403605962485",
+            "fid": "0x54c8d51b5f22fe83:0xca0130246abe3ef5",
+            "placeId": "ChIJg_4iXxvVyFQR9T6-aiQwAco"
+        }
+    ],
+    "credits": 3
+}

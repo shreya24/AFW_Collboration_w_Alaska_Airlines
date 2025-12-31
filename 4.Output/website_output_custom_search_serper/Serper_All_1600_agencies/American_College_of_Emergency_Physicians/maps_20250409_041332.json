@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "American College of Emergency Physicians",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.4033192,-101.0047722,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ACEP-Colorado Chapter",
+            "address": "10465 Melody Dr, Northglenn, CO 80234",
+            "latitude": 39.8863115,
+            "longitude": -104.99382639999999,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Emergency care physician"
+            ],
+            "website": "http://www.coacep.org/",
+            "phoneNumber": "(303) 255-2715",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7KI6rocaaCCik8sxazA-8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=176.1011&pitch=0&thumbfov=100",
+            "cid": "17275818441358579805",
+            "fid": "0x876c7664fc827c15:0xefc009575952185d",
+            "placeId": "ChIJFXyC_GR2bIcRXRhSWVcJwO8"
+        },
+        {
+            "position": 2,
+            "title": "American College of Emergency Physicians",
+            "address": "4950 W Royal Ln, Irving, TX 75063",
+            "latitude": 32.9203268,
+            "longitude": -97.01571799999999,
+            "rating": 4.5,
+            "ratingCount": 16,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.acep.org/",
+            "phoneNumber": "(972) 550-0911",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMNkW5z5lRJoKNIA2P-guJ9fF7F75jFpO2wO7U",
+            "cid": "2764550433659554259",
+            "fid": "0x864c29d50f73128b:0x265da7f8e1ee09d3",
+            "placeId": "ChIJixJzD9UpTIYR0wnu4finXSY"
+        }
+    ],
+    "credits": 3
+}

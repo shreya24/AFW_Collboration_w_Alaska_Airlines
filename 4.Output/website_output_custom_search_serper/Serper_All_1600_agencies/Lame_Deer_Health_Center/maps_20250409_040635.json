@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Lame Deer Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6298323,-106.66944,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "US Indian Health Services",
+            "address": "100 Cheyenne Ave, Lame Deer, MT 59043",
+            "latitude": 45.6298323,
+            "longitude": -106.66944,
+            "rating": 3.2,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ihs.gov/billings/healthcarefacilities/ncheyenne/",
+            "phoneNumber": "(406) 477-4400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Dz7_EvUdfx1isfBzp8XYg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=66.17811&pitch=0&thumbfov=100",
+            "cid": "14001277092152668839",
+            "fid": "0x533702303409a52b:0xc24e87555792f2a7",
+            "placeId": "ChIJK6UJNDACN1MRp_KSV1WHTsI"
+        },
+        {
+            "position": 2,
+            "title": "Lame Deer Health Center",
+            "address": "100 Cheyenne Ave, Lame Deer, MT 59043",
+            "latitude": 45.6298323,
+            "longitude": -106.66944,
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Dz7_EvUdfx1isfBzp8XYg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=66.17811&pitch=0&thumbfov=100",
+            "cid": "13169730056775547065",
+            "fid": "0x533702319242018b:0xb6c447b5dde438b9",
+            "placeId": "ChIJiwFCkjECN1MRuTjk3bVHxLY"
+        }
+    ],
+    "credits": 3
+}

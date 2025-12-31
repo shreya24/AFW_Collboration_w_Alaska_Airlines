@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ronald McDonald House - Seattle",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6671486,-122.2838745,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ronald McDonald House",
+            "address": "5130 40th Ave NE, Seattle, WA 98105",
+            "latitude": 47.6671486,
+            "longitude": -122.2838745,
+            "rating": 4.8,
+            "ratingCount": 163,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.rmhcseattle.org/",
+            "phoneNumber": "(206) 838-0600",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20139\u202fPM",
+                "Wednesday": "9\u202fAM\u20139\u202fPM",
+                "Thursday": "9\u202fAM\u20139\u202fPM",
+                "Friday": "9\u202fAM\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20139\u202fPM",
+                "Sunday": "9\u202fAM\u20139\u202fPM",
+                "Monday": "9\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYpPgG-usa7KkoxTjvdc5qBI4K5DwsMD7CWxHr",
+            "cid": "13061023087966685208",
+            "fid": "0x5490137df8b08fc1:0xb542134c596e0818",
+            "placeId": "ChIJwY-w-H0TkFQRGAhuWUwTQrU"
+        }
+    ],
+    "credits": 3
+}

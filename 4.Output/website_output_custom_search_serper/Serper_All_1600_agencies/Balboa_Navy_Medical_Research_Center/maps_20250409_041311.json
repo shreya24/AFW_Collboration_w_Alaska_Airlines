@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Balboa Navy Medical Research Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7251044,-117.1457219,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Naval Medical Center",
+            "address": "34800 Bob Wilson Dr, San Diego, CA 92134",
+            "latitude": 32.7251044,
+            "longitude": -117.1457219,
+            "rating": 3.2,
+            "ratingCount": 427,
+            "type": "Military hospital",
+            "types": [
+                "Military hospital",
+                "General hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.med.navy.mil/NMRTC-San-Diego-CA/",
+            "phoneNumber": "(619) 532-6400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4IDte6gfAf86MA-vNnoP-B5er6IOOpW4tO60G",
+            "cid": "13554511416348797782",
+            "fid": "0x80d954a72f27582b:0xbc1b4c517b726b56",
+            "placeId": "ChIJK1gnL6dU2YARVmtye1FMG7w"
+        }
+    ],
+    "credits": 3
+}

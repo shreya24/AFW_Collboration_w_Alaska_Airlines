@@ -1,0 +1,23 @@
+{
+    "searchParameters": {
+        "q": "Providence Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5284867,-122.6138154,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NE Glisan St Providence Cancer Center",
+            "address": "NE Glisan St, Portland, OR 97213",
+            "latitude": 45.528486699999995,
+            "longitude": -122.6138154,
+            "cid": "6263073485434902275",
+            "fid": "0x5495a0dddbfadf61:0x56eae826dd83d703",
+            "placeId": "ChIJYd_6292glVQRA9eD3Sbo6lY"
+        }
+    ],
+    "credits": 3
+}

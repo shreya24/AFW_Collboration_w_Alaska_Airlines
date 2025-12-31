@@ -1,0 +1,113 @@
+{
+    "searchParameters": {
+        "q": "Santiam Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.8049427,-122.7853864,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Santiam Hospital & Clinics",
+            "address": "1401 N 10th Ave, Stayton, OR 97383",
+            "latitude": 44.805212399999995,
+            "longitude": -122.7851115,
+            "rating": 3.7,
+            "ratingCount": 170,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://santiamhospital.org/",
+            "phoneNumber": "(503) 769-2175",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOxrJsAcA0uligrflRoXMZXcN6isbVASo0Zu08h",
+            "cid": "5037249258236171527",
+            "fid": "0x54bff414bfe37d6b:0x45e7e7830a445507",
+            "placeId": "ChIJa33jvxT0v1QRB1VECoPn50U"
+        },
+        {
+            "position": 2,
+            "title": "Santiam Hospital: Emergency Room",
+            "address": "1401 N 10th Ave, Stayton, OR 97383",
+            "latitude": 44.805163,
+            "longitude": -122.78528969999999,
+            "rating": 3.1,
+            "ratingCount": 73,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://santiamhospital.org/contact-us/",
+            "phoneNumber": "(503) 769-2175",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqB7b7ZU67FCOVkHBlVbHKHM6WnR6KehukIZQl",
+            "cid": "15639199649268857123",
+            "fid": "0x54bff414946771c9:0xd909993892157923",
+            "placeId": "ChIJyXFnlBT0v1QRI3kVkjiZCdk"
+        },
+        {
+            "position": 3,
+            "title": "Santiam Orthopedic Group",
+            "address": "1377 N 10th Ave, Stayton, OR 97383",
+            "latitude": 44.804485,
+            "longitude": -122.7856614,
+            "rating": 4.2,
+            "ratingCount": 38,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://santiamorthopedicgroup.org/",
+            "phoneNumber": "(503) 769-8470",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLy8CC_Puzl2WHdL9ENg4O5c-pez6mM18etZMr",
+            "cid": "18288012008193876",
+            "fid": "0x54bff414b74edd2f:0x40f8d99b657f54",
+            "placeId": "ChIJL91OtxT0v1QRVH9lm9n4QAA"
+        },
+        {
+            "position": 4,
+            "title": "Santiam Memorial Hospital: Purnell William MD",
+            "address": "1401 N 10th Ave, Stayton, OR 97383",
+            "latitude": 44.805400299999995,
+            "longitude": -122.78550419999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(503) 769-2175",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=skKviv9k14F6MmZbkirNeQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=331.67432&pitch=0&thumbfov=100",
+            "cid": "13307064044862632",
+            "fid": "0x54bff414bfe37d6b:0x2f46b44965bca8",
+            "placeId": "ChIJa33jvxT0v1QRqLxlSbRGLwA"
+        }
+    ],
+    "credits": 3
+}

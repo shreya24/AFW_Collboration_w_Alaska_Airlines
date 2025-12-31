@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Benewah Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.3146134,-116.5672833,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Benewah Community Hospital",
+            "address": "229 S 7th St, St Maries, ID 83861",
+            "latitude": 47.3146134,
+            "longitude": -116.5672833,
+            "rating": 3.2,
+            "ratingCount": 24,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family practice physician",
+                "General hospital",
+                "General practitioner"
+            ],
+            "website": "http://www.bchmed.org/",
+            "phoneNumber": "(208) 245-5551",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RLazMMKjvJzMXNQbn2sOPg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=269.77704&pitch=0&thumbfov=100",
+            "cid": "8759059618316738170",
+            "fid": "0x53603ada8c08fa4d:0x798e6e50bc3cde7a",
+            "placeId": "ChIJTfoIjNo6YFMRet48vFBujnk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Henry Louie MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3435302,-157.8059871,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Henry Louie MD",
+            "address": "642 Ulukahiki St #211, Kailua, HI 96734",
+            "latitude": 21.380382299999997,
+            "longitude": -157.7575928,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Surgeon"
+            ],
+            "website": "https://www.adventisthealth.org/provider/henry-w-louie-md-cardiothoracic-surgery",
+            "phoneNumber": "(808) 531-3311",
+            "cid": "16275498232913590297",
+            "fid": "0x7c0014b5b3e07539:0xe1de2f695b4ff819",
+            "placeId": "ChIJOXXgs7UUAHwRGfhPW2kv3uE"
+        },
+        {
+            "position": 2,
+            "title": "Louie Henry W MD",
+            "address": "550 S Beretania St., Honolulu, HI 96813",
+            "latitude": 21.3066781,
+            "longitude": -157.8543814,
+            "type": "Cardiovascular and thoracic surgeon",
+            "types": [
+                "Cardiovascular and thoracic surgeon"
+            ],
+            "phoneNumber": "(808) 531-3311",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=taR2Dw9P2P0KUD7sesqR7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=338.92255&pitch=0&thumbfov=100",
+            "cid": "268039545858741311",
+            "fid": "0x7c006ddfd1f5fd41:0x3b8448bfcaad43f",
+            "placeId": "ChIJQf310d9tAHwRP9Sq_ItEuAM"
+        }
+    ],
+    "credits": 3
+}

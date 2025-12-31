@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Maui Sexual Assault Center - Child & Family Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.1092749,-123.6913644,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sexual Assault Center of Family Services",
+            "address": "319 Crooks St, Green Bay, WI 54301",
+            "latitude": 44.510119599999996,
+            "longitude": -88.016303,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Crime victim service",
+            "types": [
+                "Crime victim service",
+                "Mental health service"
+            ],
+            "website": "https://www.familyservicesnew.org/sac/",
+            "phoneNumber": "(920) 436-8899",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FP_TBt_WFz50NPpl-vTNUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=33.5452&pitch=0&thumbfov=100",
+            "cid": "11663507644562291561",
+            "fid": "0x8802fac9574375bd:0xa1dd1a6825303b69",
+            "placeId": "ChIJvXVDV8n6AogRaTswJWga3aE"
+        },
+        {
+            "position": 2,
+            "title": "Sexual Assault Crisis Line",
+            "address": "1382 Kilauea Ave, Hilo, HI 96720",
+            "latitude": 19.7084302,
+            "longitude": -155.0760635,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Crisis center",
+            "types": [
+                "Crisis center"
+            ],
+            "phoneNumber": "(808) 935-0677",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MAuqavvnXOLvnlv6acIxdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.86803&pitch=0&thumbfov=100",
+            "cid": "12657980121061772639",
+            "fid": "0x79524b43b9e824b7:0xafaa2ddaf1d7cd5f",
+            "placeId": "ChIJtyTouUNLUnkRX83X8dotqq8"
+        },
+        {
+            "position": 3,
+            "title": "Sexual Assault Treatment Program",
+            "address": "3094 Elua St, Lihue, HI 96766",
+            "latitude": 21.9767467,
+            "longitude": -159.3664258,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://ywcakauai.org/",
+            "phoneNumber": "(808) 245-4144",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tFI8KqyocC4B_-cdc27Ptg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=107.54457&pitch=0&thumbfov=100",
+            "cid": "8965409922611331008",
+            "fid": "0x7c071e8e8dc55291:0x7c6b88d2e702bfc0",
+            "placeId": "ChIJkVLFjY4eB3wRwL8C59KIa3w"
+        }
+    ],
+    "credits": 3
+}

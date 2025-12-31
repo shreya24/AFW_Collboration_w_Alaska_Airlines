@@ -1,0 +1,104 @@
+{
+    "searchParameters": {
+        "q": "VA Community Based Outpatient Clinic address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Find VA Locations | Veterans Affairs",
+            "link": "https://www.va.gov/find-locations/",
+            "snippet": "Find VA locations. Facility Locator is down for maintenance. We're making some updates to Facility Locator. We're sorry it's not working right now.",
+            "position": 1
+        },
+        {
+            "title": "Locations - Virginia - VA.gov",
+            "link": "https://www.va.gov/directory/guide/state.asp?dnum=ALL&STATE=VA",
+            "snippet": "Outpatient Clinic. Bristol: Bristol VA Clinic. Winchester: Winchester VA Clinic. Community Based Outpatient Clinic. Charlottesville: Charlottesville CBOC.",
+            "position": 2
+        },
+        {
+            "title": "Community Care Home - VA.gov",
+            "link": "https://www.va.gov/COMMUNITYCARE/",
+            "snippet": "VA provides care to Veterans through community providers when VA cannot provide the care needed. Community care is based on specific eligibility requirements.",
+            "sitelinks": [
+                {
+                    "title": "Veteran Care Overview",
+                    "link": "https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp"
+                },
+                {
+                    "title": "Provider Overview",
+                    "link": "https://www.va.gov/COMMUNITYCARE/providers/index.asp"
+                },
+                {
+                    "title": "Facility Contact Numbers",
+                    "link": "https://www.va.gov/COMMUNITYCARE/providers/Care-Coordination-Facilities.asp"
+                },
+                {
+                    "title": "Support",
+                    "link": "https://www.va.gov/COMMUNITYCARE/about-us/Support.asp"
+                }
+            ],
+            "position": 3
+        },
+        {
+            "title": "Facility Listing - Locations - VA.gov",
+            "link": "https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=region&oid=10&factype=0",
+            "snippet": "Georgetown Community Based Outpatient Clinic, 474 Home Street Georgetown, OH 45121, OH, 937-378-3413. 757GB, Grove City Community Based Outpatient Clinic, 5775 ...",
+            "position": 4
+        },
+        {
+            "title": "Facility Listing - Locations - VA.gov",
+            "link": "https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=region&oid=8&factype=0",
+            "snippet": "Deltona Community Based Outpatient Clinic, 1200 Deltona Boulevard Deltona, FL 32725, FL, 386-575-5000. 0311V, Fort Lauderdale Vet Center, 3666 West Oakland Park ...",
+            "position": 5
+        }
+    ],
+    "places": [
+        {
+            "title": "Veterans Affairs Community Based Outpatient Clinic",
+            "address": "Washington, DC",
+            "cid": "7898541300777539357"
+        },
+        {
+            "title": "VA Henrico Community Based Outpatient Clinic",
+            "address": "Richmond, VA",
+            "cid": "9474245618083551996"
+        },
+        {
+            "title": "Clermont VA Community Based Outpatient Clinic",
+            "address": "Clermont, FL",
+            "cid": "11505136475498061184"
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "VA Community Care phone number"
+        },
+        {
+            "query": "VA community care provider List"
+        },
+        {
+            "query": "VA Hospital locations"
+        },
+        {
+            "query": "Va clinic near me"
+        },
+        {
+            "query": "VA hospital directory"
+        },
+        {
+            "query": "va walk-in clinic near me"
+        },
+        {
+            "query": "VA hospital phone directory"
+        },
+        {
+            "query": "Virginia VA Hospital locations"
+        }
+    ],
+    "credits": 1
+}

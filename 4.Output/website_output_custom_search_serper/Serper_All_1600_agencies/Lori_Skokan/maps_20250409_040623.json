@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Lori Skokan",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dave and Sara Skokan - RE/MAX Gold Real Estate Agents",
+            "address": "282 Redwood Shores Pkwy, Redwood City, CA 94065",
+            "latitude": 37.5224304,
+            "longitude": -122.2516555,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Real estate agent",
+            "types": [
+                "Real estate agent"
+            ],
+            "website": "http://skokanteam.com/",
+            "phoneNumber": "(650) 200-7420",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLc0aG1hpplqFJ18DLM8GcqbqJehOdr4lv5KKD",
+            "cid": "18343649068295865928",
+            "fid": "0x808f98a66a97cd27:0xfe91bba388334648",
+            "placeId": "ChIJJ82XaqaYj4ARSEYziKO7kf4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "University of Minnesota Transplant Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9714159,-93.228415,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fairview Transplant Center",
+            "address": "516 Delaware St SE, Minneapolis, MN 55455",
+            "latitude": 44.9723337,
+            "longitude": -93.23162909999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mhealthfairview.org/specialties/Transplant-Surgery",
+            "phoneNumber": "(612) 626-6100",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I1aZHqjcHCan71qjs1uh6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=214.69821&pitch=0&thumbfov=100",
+            "cid": "15947525897355909414",
+            "fid": "0x52b32d3d67909aa7:0xdd50fe4f5e3dd926",
+            "placeId": "ChIJp5qQZz0ts1IRJtk9Xk_-UN0"
+        },
+        {
+            "position": 2,
+            "title": "M Health Fairview Transplant Clinic",
+            "address": "909 Fulton St SE 3rd floor, Minneapolis, MN 55455",
+            "latitude": 44.970498,
+            "longitude": -93.225201,
+            "rating": 2.5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mhealth.org/care/overarching-care/transplant-services-adult",
+            "phoneNumber": "(612) 625-5115",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPa0SdzMrIjRvlUhFa98PIhexTYmFJqDxTd9lYu",
+            "cid": "8056934492353176441",
+            "fid": "0x52b32d23d6ddbebb:0x6fcffb3bbb4da379",
+            "placeId": "ChIJu77d1iMts1IReaNNuzv7z28"
+        },
+        {
+            "position": 3,
+            "title": "University of Minnesota Health - Transplant Center",
+            "address": "Clinic 2A, Phillips-Wangensteen Building, 516 Delaware St SE, Minneapolis, MN 55455",
+            "latitude": 44.972305,
+            "longitude": -93.2315555,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mhealth.org/care/overarching-care/transplant-services-adult",
+            "phoneNumber": "(612) 626-6100",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-VTmst8p8UEYfDsIWF6LA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=187.69667&pitch=0&thumbfov=100",
+            "cid": "1354765240658806647",
+            "fid": "0x52b32d3d69b7a3f9:0x12cd17cefb83c777",
+            "placeId": "ChIJ-aO3aT0ts1IRd8eD-84XzRI"
+        }
+    ],
+    "credits": 3
+}

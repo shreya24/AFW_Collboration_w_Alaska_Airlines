@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Olson Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4080632,-122.7259591,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Olson Pediatric Clinic",
+            "address": "16463 Boones Ferry Rd Suite 400, Lake Oswego, OR 97035",
+            "latitude": 45.4080632,
+            "longitude": -122.7259591,
+            "rating": 4.7,
+            "ratingCount": 85,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.olsonpediatrics.com/",
+            "phoneNumber": "(503) 635-3743",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "9\u202fAM\u201312\u202fPM",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqX1f0NKB1Z1CxM9r7CcWiovcYzeUbWqB4ZcPl",
+            "cid": "4135676032848991757",
+            "fid": "0x549572c3a6de2115:0x3964df70ac0f960d",
+            "placeId": "ChIJFSHepsNylVQRDZYPrHDfZDk"
+        }
+    ],
+    "credits": 3
+}

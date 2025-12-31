@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Natalie Beyeler",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.6004012,-149.147472,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DR. NATALIE BEYELER and Associates",
+            "address": "1901 N Hemmer Rd Ste 211, Palmer, AK 99645",
+            "latitude": 61.6004012,
+            "longitude": -149.147472,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.facebook.com/Dr-Natalie-Beyeler-and-Associates-111334545029471",
+            "phoneNumber": "(907) 745-3770",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "cid": "17000524643665830837",
+            "fid": "0x56c8e10ffdd26235:0xebedff173cf9e3b5",
+            "placeId": "ChIJNWLS_Q_hyFYRteP5PBf_7es"
+        }
+    ],
+    "credits": 3
+}

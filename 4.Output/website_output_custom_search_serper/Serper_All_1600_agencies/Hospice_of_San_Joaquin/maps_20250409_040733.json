@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Hospice of San Joaquin",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8923635,-121.2632336,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hospice of San Joaquin",
+            "address": "3888 Pacific Ave, Stockton, CA 95204",
+            "latitude": 37.9834633,
+            "longitude": -121.3089567,
+            "rating": 4.8,
+            "ratingCount": 64,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Hospice"
+            ],
+            "website": "https://www.hospicesj.org/",
+            "phoneNumber": "(209) 957-3888",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMnjDtBIaClEnF1unNT9UW5rStMxr1AmWR135FT",
+            "cid": "6596757062171386740",
+            "fid": "0x80900da821b98755:0x5b8c6398d0466374",
+            "placeId": "ChIJVYe5IagNkIARdGNG0JhjjFs"
+        },
+        {
+            "position": 2,
+            "title": "Hospice of San Joaquin",
+            "address": "179 W North St, Manteca, CA 95336",
+            "latitude": 37.8012637,
+            "longitude": -121.21751049999999,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.hospicesj.org/",
+            "phoneNumber": "(209) 239-3777",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9rjTm36-TqmMQ36SM13BXTuxspdcgkoBkIEawFTfxLfFYp54k6d6tTzjc030_SSXoF58xb63_DNWHGHu4rggnSfZyJo8WVwtfXcC0R20xwSJYJAPxTcqM2_4FfroUyXGG8xSEK0g",
+            "cid": "16561008168615862235",
+            "fid": "0x8090404cd98ec96d:0xe5d4852f74b0dfdb",
+            "placeId": "ChIJbcmO2UxAkIAR29-wdC-F1OU"
+        }
+    ],
+    "credits": 3
+}

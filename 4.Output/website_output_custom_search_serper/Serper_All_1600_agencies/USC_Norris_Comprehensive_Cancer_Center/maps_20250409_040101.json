@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "USC Norris Comprehensive Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0613838,-118.2049072,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "USC Norris Comprehensive Cancer Center",
+            "address": "1441 Eastlake Ave, Los Angeles, CA 90089",
+            "latitude": 34.0613838,
+            "longitude": -118.2049072,
+            "rating": 4.4,
+            "ratingCount": 74,
+            "priceLevel": "$$",
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1441-eastlake-ave-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/?utm_campaign=keck_cancer_gmb&utm_medium=organic&utm_source=google&utm_content=los-angeles_usc-norris&utm_term=appointment-link"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8a3Cwu2rmCznE8T8BilaachRsy2indrAQSpYUBZc9kX2b3N_TKHRgDvYwEElpkmE_PDy8GjdDcipmjDVix12T4aoe_eKON18Xv3CmFfmP6m7mrZDR508tgXMnDGr3BD4HK_pFg",
+            "cid": "5205006711653971680",
+            "fid": "0x80c2c5dec6bf8d51:0x483be606e5a8b6e0",
+            "placeId": "ChIJUY2_xt7FwoAR4Lao5QbmO0g"
+        }
+    ],
+    "credits": 3
+}

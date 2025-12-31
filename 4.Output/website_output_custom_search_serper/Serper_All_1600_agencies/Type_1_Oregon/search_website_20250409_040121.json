@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Type 1 Oregon website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Type 1 Oregon",
+            "link": "https://type1oregon.org/",
+            "snippet": "Full and partial need-based scholarships to T1D Buddy Camp are granted on a first-come, first-served basis through generous contributions to Type 1 Oregon.",
+            "position": 1
+        },
+        {
+            "title": "Type 1 Oregon - T1D Buddy Camp",
+            "link": "https://type1oregon.org/type1oregon",
+            "snippet": "The mission of Type 1 Oregon is to provide an active, inspiring, supportive, and creative community for children and young adults with T1D.",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 2
+        },
+        {
+            "title": "ONE.Oregon.gov",
+            "link": "https://www.one.oregon.gov/",
+            "snippet": "No information is available for this page. \u00b7 Learn why",
+            "attributes": {
+                "Missing": "Type | Show results with:Type"
+            },
+            "position": 3
+        },
+        {
+            "title": "Free Local Events for Kids, Teens, and Family living with Type 1 ...",
+            "link": "https://www.type1unbound.org/events",
+            "snippet": "Our local events are more than a meet-up. With a wide range of events all over the Portland Metro area, we hope you find a meaningful connection with ...",
+            "position": 4
+        },
+        {
+            "title": "Type 1 Unbound",
+            "link": "https://www.type1unbound.org/",
+            "snippet": "Our mission is to encourage and enable youth with Type 1 Diabetes so that their true identity, value, and potential is unbound from their diagnosis.",
+            "position": 5
+        }
+    ],
+    "credits": 1
+}

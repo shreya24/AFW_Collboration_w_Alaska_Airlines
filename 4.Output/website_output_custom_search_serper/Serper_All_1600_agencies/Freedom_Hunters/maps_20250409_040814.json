@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Freedom Hunters",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Freedom Hunters",
+            "latitude": 46.423669,
+            "longitude": -129.9427086,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Service establishment"
+            ],
+            "website": "http://www.freedomhunters.org/",
+            "phoneNumber": "(303) 884-0059",
+            "cid": "5861420353962363334",
+            "fid": "0x876ceb21ac15cabb:0x5157f2c1bd2bc9c6",
+            "placeId": "ChIJu8oVrCHrbIcRxskrvcHyV1E"
+        }
+    ],
+    "credits": 3
+}

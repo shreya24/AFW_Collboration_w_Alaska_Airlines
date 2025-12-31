@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Nevada Childhood Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0708644,-115.0939467,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nevada Childhood Cancer Foundation",
+            "address": "3711 Sunset Rd, Las Vegas, NV 89120",
+            "latitude": 36.0708644,
+            "longitude": -115.09394669999999,
+            "rating": 4.9,
+            "ratingCount": 38,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "website": "http://www.nvccf.org/",
+            "phoneNumber": "(702) 735-8434",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "8:15\u202fAM\u20136:30\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN9Enec5jIWgm_pdHGjORUNMf2PPldlP3DP-l6p",
+            "cid": "9712537761301130286",
+            "fid": "0x80c8c5674dfd66f3:0x86c9dda279ebec2e",
+            "placeId": "ChIJ82b9TWfFyIARLuzreaLdyYY"
+        }
+    ],
+    "credits": 3
+}

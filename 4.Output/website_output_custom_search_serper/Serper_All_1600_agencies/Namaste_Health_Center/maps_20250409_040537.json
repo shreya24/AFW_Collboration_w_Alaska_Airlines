@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Namaste Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2762201,-107.8785362,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Namaste Health and Longevity",
+            "address": "180 E 12th St STE 5, Durango, CO 81301",
+            "latitude": 37.276220099999996,
+            "longitude": -107.8785362,
+            "rating": 5,
+            "ratingCount": 12,
+            "type": "Holistic medicine practitioner",
+            "types": [
+                "Holistic medicine practitioner",
+                "Alternative medicine practitioner",
+                "Naturopathic practitioner"
+            ],
+            "website": "https://namastelongevity.com/",
+            "phoneNumber": "(970) 247-2043",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20134\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXSmj-57m_vowJg9-WyEiChY5pH6wE04M5Spq9",
+            "cid": "7185274885143409675",
+            "fid": "0x873c02a039b172c9:0x63b739705682340b",
+            "placeId": "ChIJyXKxOaACPIcRCzSCVnA5t2M"
+        }
+    ],
+    "credits": 3
+}

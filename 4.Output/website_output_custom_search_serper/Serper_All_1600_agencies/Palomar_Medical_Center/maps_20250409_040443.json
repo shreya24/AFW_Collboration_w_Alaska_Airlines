@@ -1,0 +1,83 @@
+{
+    "searchParameters": {
+        "q": "Palomar Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0595338,-117.088603,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Palomar Medical Center Escondido",
+            "address": "2185 Citracado Parkwy, Escondido, CA 92029",
+            "latitude": 33.1216516,
+            "longitude": -117.1216041,
+            "rating": 2.6,
+            "ratingCount": 1003,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General hospital",
+                "Heart hospital",
+                "Medical Center",
+                "Pharmacy",
+                "Urgent care center"
+            ],
+            "website": "https://www.palomarhealth.org/facilities/palomar-medical-center/",
+            "phoneNumber": "(442) 281-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_SHjmw7Mfxx0FFBNxCf7g0yrLdegOyz8kzQ6oScHfnYEmVRFdcTzeF9aZ1WtsLzFPXBa6nNDm7sMtqM0YqxT2kPC72SZoXyl4m-UsQ5Ql_byplGw91zHj8VIHglNb1_4a3fSg",
+            "cid": "12597812195907855606",
+            "fid": "0x80dbf3640aff4729:0xaed46b72342be4f6",
+            "placeId": "ChIJKUf_CmTz24AR9uQrNHJr1K4"
+        },
+        {
+            "position": 2,
+            "title": "Palomar Medical Center Poway",
+            "address": "15615 Pomerado Rd, Poway, CA 92064",
+            "latitude": 32.997416,
+            "longitude": -117.055602,
+            "rating": 2.8,
+            "ratingCount": 334,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency room",
+                "General hospital",
+                "Hospital",
+                "Hospital department",
+                "Medical laboratory",
+                "Nursing home",
+                "Pharmacy"
+            ],
+            "website": "https://www.palomarhealth.org/locations/palomar-medical-center-poway/",
+            "phoneNumber": "(858) 613-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNl_TUCRi14c8z8U2vStf8-x1z8E4B8T-517ROQ",
+            "cid": "436957244653798263",
+            "fid": "0x80dbf098bf0f8d13:0x610624c859f8377",
+            "placeId": "ChIJE40Pv5jw24ARd4OfhUxiEAY"
+        }
+    ],
+    "credits": 3
+}

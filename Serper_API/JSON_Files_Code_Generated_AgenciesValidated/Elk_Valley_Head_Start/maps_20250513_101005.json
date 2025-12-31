@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Elk Valley Head Start",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@28.7662537,-81.3481113,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Elk Valley Head Start",
+            "address": "2298 Norris Ave, Crescent City, CA 95531",
+            "latitude": 28.7662537,
+            "longitude": -81.3481113,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Cleaners",
+            "types": [
+                "Cleaners",
+                "Kindergarten"
+            ],
+            "phoneNumber": "(707) 464-4499",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "6\u202fAM\u201310\u202fPM",
+                "Sunday": "6\u202fAM\u201310\u202fPM",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbvSItXXaxb2gIm7UI7ogfE7Xgw0VxKpBs8e73J6jxn6GbW_C1jGJsD9Xh_mOCagNX3d44hYQs8kEE4R6WXhlfVfBYgj9cteoF34TJ91chCJJWdSaEuJ5MMnIoBlKiqUUkzPPA",
+            "cid": "10845098528250204501",
+            "fid": "0x54d068862969a7cd:0x968187a6d2771155",
+            "placeId": "ChIJzadpKYZo0FQRVRF30qaHgZY"
+        }
+    ],
+    "credits": 3
+}

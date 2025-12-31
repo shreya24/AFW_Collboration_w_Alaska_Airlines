@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Dr. Philip Hellreich MD Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3965997,-157.7427464,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Philip Hellreich MD",
+            "address": "40 Aulike St #311, Kailua, HI 96734",
+            "latitude": 21.3965997,
+            "longitude": -157.7427464,
+            "rating": 3.4,
+            "ratingCount": 25,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist",
+                "Doctor"
+            ],
+            "website": "https://www.adventisthealth.org/provider/philip-d-hellreich-md-dermatology",
+            "phoneNumber": "(808) 261-6133",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GjlExGiMD82j_1Zu2kZbmw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=53.4655&pitch=0&thumbfov=100",
+            "cid": "4036877526473538951",
+            "fid": "0x7c0014dc11eb71a9:0x3805deb8d7367d87",
+            "placeId": "ChIJqXHrEdwUAHwRh30217jeBTg"
+        }
+    ],
+    "credits": 3
+}

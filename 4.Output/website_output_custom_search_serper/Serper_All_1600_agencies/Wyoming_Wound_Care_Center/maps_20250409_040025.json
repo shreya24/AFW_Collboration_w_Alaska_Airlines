@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Wyoming Wound Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8503093,-106.31697,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wyoming Wound Care Center",
+            "address": "630 E 1st St, Casper, WY 82601",
+            "latitude": 42.8503093,
+            "longitude": -106.31697,
+            "rating": 5,
+            "ratingCount": 18,
+            "type": "Physical therapist",
+            "types": [
+                "Physical therapist"
+            ],
+            "website": "http://www.wyomingwoundcare.com/",
+            "phoneNumber": "(307) 266-4600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLOfHAYcS8xXzqq2AruNHJqgbAnpT91fKw0krt",
+            "cid": "14542609208937552589",
+            "fid": "0x8760bc996608d0c9:0xc9d1ba06860c1acd",
+            "placeId": "ChIJydAIZpm8YIcRzRoMhga60ck"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Bristol Bay Area Health Corporation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.0201221,-158.4971861,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bristol Bay Area Health Corporation",
+            "address": "6000 Kanakanak Rd, Dillingham, AK 99576",
+            "latitude": 59.0006067,
+            "longitude": -158.5368215,
+            "rating": 3,
+            "ratingCount": 7,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Addiction treatment center",
+                "Dentist",
+                "Family practice physician",
+                "Hearing aid store",
+                "Hospital department",
+                "Optometrist",
+                "Pharmacy"
+            ],
+            "website": "https://www.bbahc.org/",
+            "phoneNumber": "(800) 478-5201",
+            "cid": "14619722323968564541",
+            "fid": "0x56e73d23c3a88c61:0xcae3affebafe9d3d",
+            "placeId": "ChIJYYyowyM951YRPZ3-uv6v48o"
+        },
+        {
+            "position": 2,
+            "title": "Bristol Bay Area Health Corporation",
+            "address": "Dillingham, AK 99576",
+            "latitude": 59.0396375,
+            "longitude": -158.4575508,
+            "type": "Fitness center",
+            "types": [
+                "Fitness center"
+            ],
+            "website": "http://www.bbahc.org/",
+            "phoneNumber": "(907) 842-1230",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "11840426784332793375",
+            "fid": "0x56e73deccde3162b:0xa451a56d552d461f",
+            "placeId": "ChIJKxbjzew951YRH0YtVW2lUaQ"
+        }
+    ],
+    "credits": 3
+}

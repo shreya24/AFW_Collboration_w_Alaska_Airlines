@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Marquis Care at Shaw Mountain",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.5657358,-119.3916181,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shaw Mountain of Cascadia",
+            "address": "909 Reserve St, Boise, ID 83712",
+            "latitude": 43.6149786,
+            "longitude": -116.1817995,
+            "rating": 4.2,
+            "ratingCount": 50,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "http://www.shawmountainofcascadia.com/",
+            "phoneNumber": "(208) 343-7717",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKTOAE6n41WNi2yv8Q2D6-KXWh5qRB2bW0v8Ke",
+            "cid": "4730524335552318488",
+            "fid": "0x54aef9043f6c4c3f:0x41a632d1ddefcc18",
+            "placeId": "ChIJP0xsPwT5rlQRGMzv3dEypkE"
+        },
+        {
+            "position": 2,
+            "title": "Marquis Mt. Tabor",
+            "address": "6040 SE Belmont St, Portland, OR 97215",
+            "latitude": 45.516492899999996,
+            "longitude": -122.6014367,
+            "rating": 3.3,
+            "ratingCount": 35,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center"
+            ],
+            "website": "https://www.marquiscompanies.com/facility/marquis-mt-tabor/",
+            "phoneNumber": "(503) 231-7166",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5Lrn8zJSnoOdmc-Q5K1asMAQERnWruCgS_-Pn",
+            "cid": "11793049036896177850",
+            "fid": "0x5495a0fbba0a142b:0xa3a9539de6f58eba",
+            "placeId": "ChIJKxQKuvuglVQRuo715p1TqaM"
+        }
+    ],
+    "credits": 3
+}

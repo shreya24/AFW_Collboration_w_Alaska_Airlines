@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Joy Neyhart",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3296255,-134.4648746,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Neyhart Joy M DO",
+            "address": "3268 Hospital Dr # D, Juneau, AK 99801",
+            "latitude": 58.3296255,
+            "longitude": -134.4648746,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(907) 463-4040",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vi5eZRU0rKdkNPQxzSNXaw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=223.63785&pitch=0&thumbfov=100",
+            "cid": "5309068955438395282",
+            "fid": "0x5400e0080ea997b9:0x49ad9a1618f5af92",
+            "placeId": "ChIJuZepDgjgAFQRkq_1GBaarUk"
+        }
+    ],
+    "credits": 3
+}

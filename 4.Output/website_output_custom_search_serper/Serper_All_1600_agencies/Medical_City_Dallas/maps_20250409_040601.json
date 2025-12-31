@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Medical City Dallas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9117955,-96.7731667,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Medical City Dallas Hospital",
+            "address": "7777 Forest Ln, Dallas, TX 75230",
+            "latitude": 32.9117955,
+            "longitude": -96.77316669999999,
+            "rating": 4.3,
+            "ratingCount": 6999,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.medicalcityhealthcare.com/locations/medical-city-dallas-hospital?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(972) 566-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPu0woAuRKEyfK7X7Y8g2p5VZ9uxyicJOL6CjaA",
+            "cid": "15850273575153040346",
+            "fid": "0x864c206c8613d5c9:0xdbf77bd697c1fbda",
+            "placeId": "ChIJydUThmwgTIYR2vvBl9Z799s"
+        }
+    ],
+    "credits": 3
+}

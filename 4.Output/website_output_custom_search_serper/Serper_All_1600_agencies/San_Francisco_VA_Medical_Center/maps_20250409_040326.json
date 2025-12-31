@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "San Francisco VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7823362,-122.50529,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Francisco VA Medical Center",
+            "address": "4150 Clement St, San Francisco, CA 94121",
+            "latitude": 37.782336199999996,
+            "longitude": -122.50528999999999,
+            "rating": 4.3,
+            "ratingCount": 422,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.sanfrancisco.va.gov/",
+            "phoneNumber": "(415) 221-4810",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9hEKOfpG1SAONcAc2Xx2RmkJ_Y85YZio7jD0_Lm50U2Q3RHqqahUQlAEizQv-5KSxBr9g68c9Lyp-q1WPBdohEjHTuHi2Q6nwOjT0xK2LH5BPqh3qtfLp2u8eifj9Sg_JaUcu0",
+            "cid": "10336824218251549044",
+            "fid": "0x808587b2597df76b:0x8f73c6dc1289d974",
+            "placeId": "ChIJa_d9WbKHhYARdNmJEtzGc48"
+        }
+    ],
+    "credits": 3
+}

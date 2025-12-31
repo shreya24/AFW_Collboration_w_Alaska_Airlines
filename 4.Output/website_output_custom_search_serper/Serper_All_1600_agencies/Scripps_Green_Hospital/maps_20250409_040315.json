@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Scripps Green Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8973591,-117.2426975,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Green Hospital",
+            "address": "10666 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.897359099999996,
+            "longitude": -117.24269749999999,
+            "rating": 3.7,
+            "ratingCount": 205,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.scripps.org/locations/hospitals/scripps-green-hospital?tab=overview",
+            "phoneNumber": "(858) 554-9100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8_mIIohCu46hEY-4Qt7RrDxs9lF8k_atwCicE6lZgqRjkaPkayh7w-ngm21q1srI0r9Z7uDhZzAceWROxsA05ouirER9ml3w6YiLADiCh2406r7mEAM6QKCDHl3vLUSV86lZqALQ",
+            "cid": "10214572297243784641",
+            "fid": "0x80dc06f317da221d:0x8dc173629dc2f5c1",
+            "placeId": "ChIJHSLaF_MG3IARwfXCnWJzwY0"
+        }
+    ],
+    "credits": 3
+}

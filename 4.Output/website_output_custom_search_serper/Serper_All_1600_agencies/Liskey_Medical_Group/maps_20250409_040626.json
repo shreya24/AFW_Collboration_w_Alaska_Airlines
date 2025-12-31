@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Liskey Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7574457,-122.4193868,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Liskey Medical Group",
+            "address": "2480 Mission St # 108, San Francisco, CA 94110",
+            "latitude": 37.7574457,
+            "longitude": -122.4193868,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(415) 642-2000",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "10\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB--YMloJc9FL1FOrANMBCESm9t2LTHrvipiKHtAzXhkCEVpImCBPOAl8RJIq3noTF-fR1KPKbqc2HfvQkPMKxmGOYlOpiXRRCAh0H6YppnWHmxwGAR68kPheaRef7mS9YCBXAkF",
+            "cid": "1659492861299005744",
+            "fid": "0x808f7e3eaf7e53cf:0x1707b3f709061930",
+            "placeId": "ChIJz1N-rz5-j4ARMBkGCfezBxc"
+        }
+    ],
+    "credits": 3
+}

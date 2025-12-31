@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Breast Cancer Resource Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.0342942,-108.3843673,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Breast Cancer Resource Center of Santa Barbara",
+            "address": "55 Hitchcock Way #101, Santa Barbara, CA 93105",
+            "latitude": 34.437870499999995,
+            "longitude": -119.7442737,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.bcrcsb.org/",
+            "phoneNumber": "(805) 569-9693",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20134\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "10\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgbGUWX3hlwRPb35OWdTJkwlEDyOqzxXVtEQ_e",
+            "cid": "18101166207492444486",
+            "fid": "0x80e914f1e53ba3b7:0xfb3442c2f9e45146",
+            "placeId": "ChIJt6M75fEU6YARRlHk-cJCNPs"
+        }
+    ],
+    "credits": 3
+}

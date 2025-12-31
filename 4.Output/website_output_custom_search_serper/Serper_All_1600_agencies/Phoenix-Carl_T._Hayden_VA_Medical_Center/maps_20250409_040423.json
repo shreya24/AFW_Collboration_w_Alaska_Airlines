@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "Phoenix-Carl T. Hayden VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4963672,-112.0667029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Carl T. Hayden Veterans' Administration Medical Center",
+            "address": "650 E Indian School Rd, Phoenix, AZ 85012",
+            "latitude": 33.49731,
+            "longitude": -112.06682819999999,
+            "rating": 3.4,
+            "ratingCount": 706,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.va.gov/phoenix-health-care/",
+            "phoneNumber": "(602) 277-5551",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaZE5xUZs9vCBl4PNfum9Y3i4-tPZr3UudFWIh",
+            "cid": "18001601183389442107",
+            "fid": "0x872b128d94e41297:0xf9d288e6542de03b",
+            "placeId": "ChIJlxLklI0SK4cRO-AtVOaI0vk"
+        },
+        {
+            "position": 2,
+            "title": "Carl T. Hayden VA Hospital",
+            "address": "650 E Indian School Rd, Phoenix, AZ 85012",
+            "latitude": 33.4954244,
+            "longitude": -112.0669497,
+            "rating": 4.7,
+            "ratingCount": 27,
+            "type": "Parking lot",
+            "types": [
+                "Parking lot"
+            ],
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u201311\u202fPM",
+                "Wednesday": "10\u202fAM\u201311\u202fPM",
+                "Thursday": "10\u202fAM\u201311\u202fPM",
+                "Friday": "10\u202fAM\u201311\u202fPM",
+                "Saturday": "11:05\u202fAM\u201312\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XHlWleauYAGoW1kncTwwQg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=172.74112&pitch=0&thumbfov=100",
+            "cid": "4923665790522754777",
+            "fid": "0x872b1388f104d1e5:0x44545ff324da06d9",
+            "placeId": "ChIJ5dEE8YgTK4cR2QbaJPNfVEQ"
+        },
+        {
+            "position": 3,
+            "title": "Carl t Hayden VA medical center",
+            "address": "650 E Indian School Rd, Phoenix, AZ 85012",
+            "latitude": 33.4971363,
+            "longitude": -112.0664561,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KFXLbvLbY3zheg33K3Df5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=49.367023&pitch=0&thumbfov=100",
+            "cid": "11588386851388224346",
+            "fid": "0x872b13002ba65977:0xa0d2387184cd735a",
+            "placeId": "ChIJd1mmKwATK4cRWnPNhHE40qA"
+        }
+    ],
+    "credits": 3
+}

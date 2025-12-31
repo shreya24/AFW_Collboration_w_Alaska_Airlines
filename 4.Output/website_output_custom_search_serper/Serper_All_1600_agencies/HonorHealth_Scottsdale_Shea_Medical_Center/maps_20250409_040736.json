@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "HonorHealth Scottsdale Shea Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5779902,-111.883224,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HonorHealth Scottsdale Shea Medical Center",
+            "address": "9003 E Shea Blvd, Scottsdale, AZ 85260",
+            "latitude": 33.577990199999995,
+            "longitude": -111.883224,
+            "rating": 4.2,
+            "ratingCount": 1640,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/scottsdale-shea-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=Scottsdale_Shea_Medical_Center",
+            "phoneNumber": "(480) 323-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEYayjgqrPCjEOl8RMj_IU76k2HzOX-FtrPaYx",
+            "cid": "9540974057210237320",
+            "fid": "0x872b753e8b60627d:0x8468595ad33bd188",
+            "placeId": "ChIJfWJgiz51K4cRiNE701pZaIQ"
+        }
+    ],
+    "credits": 3
+}

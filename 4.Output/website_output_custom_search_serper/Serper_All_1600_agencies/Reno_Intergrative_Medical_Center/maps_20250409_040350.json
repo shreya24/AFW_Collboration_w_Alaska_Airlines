@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Reno Intergrative Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5327504,-119.8197339,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Reno Integrative Medical Center",
+            "address": "343 Elm St ste 401, Reno, NV 89503",
+            "latitude": 39.5327504,
+            "longitude": -119.81973389999999,
+            "rating": 4.1,
+            "ratingCount": 15,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cancer treatment center"
+            ],
+            "website": "http://www.renointegrativemedicalcenter.com/",
+            "phoneNumber": "(775) 829-1009",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kIxWQxUWfmHQhniHQOWG3A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=294.2254&pitch=0&thumbfov=100",
+            "cid": "6056983319320362335",
+            "fid": "0x8099406a934991e5:0x540eba3cd68e7d5f",
+            "placeId": "ChIJ5ZFJk2pAmYARX32O1jy6DlQ"
+        }
+    ],
+    "credits": 3
+}

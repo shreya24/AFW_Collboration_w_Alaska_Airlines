@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "River Discovery Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "River Discovery Center",
+            "address": "117 S Water St, Paducah, KY 42001",
+            "latitude": 37.0877355,
+            "longitude": -88.5941031,
+            "rating": 4.6,
+            "ratingCount": 210,
+            "type": "Museum",
+            "types": [
+                "Museum",
+                "Historical landmark",
+                "History museum",
+                "Science museum"
+            ],
+            "website": "http://www.riverdiscoverycenter.org/",
+            "phoneNumber": "(270) 575-9958",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20135\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135\u202fPM",
+                "Friday": "9:30\u202fAM\u20135\u202fPM",
+                "Saturday": "9:30\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOxX3BiQ5wpLPvQFgLYnY-iQkUEWr-Uan8QNaoM",
+            "cid": "16379949399362173968",
+            "fid": "0x887a11b3208610e5:0xe3514531abdafc10",
+            "placeId": "ChIJ5RCGILMReogREPzaqzFFUeM"
+        }
+    ],
+    "credits": 3
+}

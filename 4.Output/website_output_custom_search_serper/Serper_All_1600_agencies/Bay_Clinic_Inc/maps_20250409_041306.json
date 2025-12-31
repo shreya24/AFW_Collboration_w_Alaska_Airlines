@@ -1,0 +1,153 @@
+{
+    "searchParameters": {
+        "q": "Bay Clinic Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.4406286,-139.6584424,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bay Clinic, Inc. - Mobile Health Unit",
+            "address": "15-2866 Pahoa Village Rd Bldg. C, Ste. A, P\u0101hoa, HI 96778",
+            "latitude": 19.4946168,
+            "longitude": -154.9487873,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Dental clinic",
+            "types": [
+                "Dental clinic",
+                "Medical clinic"
+            ],
+            "website": "http://bayclinic.org/",
+            "phoneNumber": "(808) 333-3600",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMxIJ0hyfPTqfNbB-Ro5OcToKlT40Bt5eDNvM3y",
+            "cid": "15775197727683345067",
+            "fid": "0x795230fcd27419ff:0xdaecc2c0b41d7aab",
+            "placeId": "ChIJ_xl00vwwUnkRq3odtMDC7No"
+        },
+        {
+            "position": 2,
+            "title": "HICHC Hilo Family Health",
+            "address": "1178 Kinoole St BLDG B, Hilo, HI 96720",
+            "latitude": 19.7103035,
+            "longitude": -155.0797594,
+            "rating": 2.5,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Family practice physician"
+            ],
+            "website": "https://www.hicommunityhealthcenter.org/",
+            "phoneNumber": "(808) 333-3600",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20136\u202fPM",
+                "Thursday": "7:15\u202fAM\u20136\u202fPM",
+                "Friday": "7:15\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWziw2w1uQhXfDGdGRBJqXm_umfWnGMAY3nhot",
+            "cid": "12859280951906971425",
+            "fid": "0x79524b4458c93b07:0xb27557e4f55caf21",
+            "placeId": "ChIJBzvJWERLUnkRIa9c9eRXdbI"
+        },
+        {
+            "position": 3,
+            "title": "HICHC East Administration",
+            "address": "450 Kilauea Ave #105, Hilo, HI 96720",
+            "latitude": 19.7192112,
+            "longitude": -155.08237219999998,
+            "rating": 1.4,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Mental health service",
+                "Pediatric cardiologist"
+            ],
+            "website": "http://www.hicommunityhealthcenter.org/",
+            "phoneNumber": "(808) 961-4071",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOdgN_pa4kR1oqH9zFuW3OPEoU1-o30V-7R6vhT",
+            "cid": "853279769998363097",
+            "fid": "0x79524b56800cc59d:0xbd7756e10c789d9",
+            "placeId": "ChIJncUMgFZLUnkR2YnHEG511ws"
+        },
+        {
+            "position": 4,
+            "title": "Bay Clinic Pediatrics",
+            "address": "1750 Thompson Rd, Coos Bay, OR 97420",
+            "latitude": 43.3866404,
+            "longitude": -124.23451259999999,
+            "rating": 3.5,
+            "ratingCount": 14,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://bayclinicpediatrics.net/Office/Location/Main-Office",
+            "phoneNumber": "(541) 269-0333 ext. 1400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "13682458417255647625",
+            "fid": "0x54c3844c80c00001:0xbde1db700e938989",
+            "placeId": "ChIJAQDAgEyEw1QRiYmTDnDb4b0"
+        },
+        {
+            "position": 5,
+            "title": "Bay Clinic Inc",
+            "address": "16-192 Pili Mua St, Keaau, HI 96749",
+            "latitude": 19.6207595,
+            "longitude": -155.0393676,
+            "website": "https://bayclinic-org.bayclinicinc.org/locations/kea-au-family-health-center",
+            "phoneNumber": "(808) 333-3600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OeFrs6O_0Z9vekBsyFwWCw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=45.900158&pitch=0&thumbfov=100",
+            "cid": "3353055633852583929",
+            "fid": "0x79523585029aaaab:0x2e8872556fe7cff9",
+            "placeId": "ChIJq6qaAoU1UnkR-c_nb1VyiC4"
+        },
+        {
+            "position": 6,
+            "title": "Bay Clinic, Inc.",
+            "address": "311 Kalanianaole St, Hilo, HI 96720",
+            "latitude": 19.725159599999998,
+            "longitude": -155.0594624,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.bayclinic.org/",
+            "phoneNumber": "(808) 930-0400",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xl1Ay5wsoplE1fxow105_w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=316.62183&pitch=0&thumbfov=100",
+            "cid": "5272471756077429222",
+            "fid": "0x79524c83377bf23b:0x492b95209d4671e6",
+            "placeId": "ChIJO_J7N4NMUnkR5nFGnSCVK0k"
+        }
+    ],
+    "credits": 3
+}

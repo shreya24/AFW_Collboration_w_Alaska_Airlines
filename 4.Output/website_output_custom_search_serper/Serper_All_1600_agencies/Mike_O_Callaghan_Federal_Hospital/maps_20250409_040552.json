@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Mike O'Callaghan Federal Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.2457836,-115.0497641,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mike O'Callaghan Military Medical Center",
+            "address": "4700 Las Vegas Blvd N, Nellis AFB, NV 89191",
+            "latitude": 36.245783599999996,
+            "longitude": -115.04976409999999,
+            "rating": 3.8,
+            "ratingCount": 313,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center",
+                "Medical clinic",
+                "Military hospital",
+                "Pharmacy"
+            ],
+            "website": "https://nellis.tricare.mil/",
+            "phoneNumber": "(702) 653-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Y1hGpWgBODKJ7h_dI86kXduHMQJiWrVOCbeQ0Qu0Cz-jviHeWyQz6YLKyh1CO_Tz1ha8GWae9yAvwh9AzCqXmBJISVte0GPmbwPqNOCBpwxNfZi1OyTBiUWofE_InmcxTzD2D",
+            "cid": "4686724398452775987",
+            "fid": "0x80c8dd7846db1ca9:0x410a970251ef1c33",
+            "placeId": "ChIJqRzbRnjdyIARMxzvUQKXCkE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "Lighthouse Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.9905237,-87.3103058,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lighthouse Family Medicine",
+            "address": "6424 Colleyville Blvd #104, Colleyville, TX 76034",
+            "latitude": 32.902906,
+            "longitude": -97.142118,
+            "rating": 3.3,
+            "ratingCount": 68,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://lighthousefamilymedicine.com/",
+            "phoneNumber": "(817) 482-9422",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Pk1kO8ILeT8OQR0ucZRRKWWy5VMkj7GuTWYWqLgfF4hgMU0_32SnCEHMo-jVoDB4zT_AM6XBm4xDPC-JhcqfME4_0giftLgJTJlSDYUqA8c-92iQ4Q_jd3b7J7R8saGO114bG",
+            "cid": "6493129665839674647",
+            "fid": "0x864dd5a6ec37a111:0x5a1c3b076cecb517",
+            "placeId": "ChIJEaE37KbVTYYRF7XsbAc7HFo"
+        },
+        {
+            "position": 2,
+            "title": "Lighthouse Family Practice",
+            "address": "355 Clear Creek Pkwy ste 1003, Lavonia, GA 30553",
+            "latitude": 34.439647799999996,
+            "longitude": -83.1322744,
+            "rating": 2.9,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.stmaryshealthcaresystem.org/locations/lighthouse-family-practice",
+            "phoneNumber": "(706) 356-1422",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "348959475373193365",
+            "fid": "0x88589b137e1bd06f:0x4d7c0cb42a03895",
+            "placeId": "ChIJb9AbfhObWIgRlTigQsvA1wQ"
+        },
+        {
+            "position": 3,
+            "title": "Lighthouse Family Medicine and Wellness PLLC",
+            "address": "19465 Deerfield Ave #309, Lansdowne, VA 20176",
+            "latitude": 39.0781413,
+            "longitude": -77.4784936,
+            "rating": 4.7,
+            "ratingCount": 40,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.lighthousefamilydoctors.com/",
+            "phoneNumber": "(571) 293-2424",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://consumer.scheduling.athena.io/?locationId=24872-1&practitionerId=24872-1"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWtmgKIYfmtRuIq1w9le71ENra5ENAcDjZ7qkQ",
+            "cid": "7638813331485088487",
+            "fid": "0x89b63d47f6b67b73:0x6a028440b8afdae7",
+            "placeId": "ChIJc3u29kc9tokR59qvuECEAmo"
+        }
+    ],
+    "credits": 3
+}

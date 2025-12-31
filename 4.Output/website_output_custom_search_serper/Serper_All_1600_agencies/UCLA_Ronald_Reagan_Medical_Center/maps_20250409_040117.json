@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "UCLA Ronald Reagan Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.066399,-118.446351,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ronald Reagan UCLA Medical Center",
+            "address": "757 Westwood Plaza, Los Angeles, CA 90095",
+            "latitude": 34.066399,
+            "longitude": -118.44635099999999,
+            "rating": 3.8,
+            "ratingCount": 740,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Emergency care service",
+                "Medical Center",
+                "Pediatrician",
+                "Urgent care center",
+                "Vascular surgeon"
+            ],
+            "website": "https://www.uclahealth.org/hospitals/reagan?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 825-9111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-mo8CWZ8DHzUtDgIJIG_9lf6Cefe4UYhJLS2WiSFzZKQCPRyIKGnAM3qydIRPqR0sotPgSiw_yVJBVWdiEj4lWFet4iA6TJ-kljyFmGrokYOE1ifLdbJu0KiGipLMwOuf9k3Yhpw",
+            "cid": "2932246831633774083",
+            "fid": "0x80c2bc85f05c0f65:0x28b16ef5294bb603",
+            "placeId": "ChIJZQ9c8IW8woARA7ZLKfVusSg"
+        }
+    ],
+    "credits": 3
+}

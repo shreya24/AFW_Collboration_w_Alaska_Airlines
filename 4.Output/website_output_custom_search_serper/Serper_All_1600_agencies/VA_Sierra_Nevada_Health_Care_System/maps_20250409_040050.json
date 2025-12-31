@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "VA Sierra Nevada Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5159991,-119.7992031,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Sierra Nevada Health Care System",
+            "address": "975 Kirman Ave, Reno, NV 89502",
+            "latitude": 39.515999099999995,
+            "longitude": -119.7992031,
+            "rating": 4.1,
+            "ratingCount": 136,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Military hospital",
+                "Veterans hospital"
+            ],
+            "website": "http://www.reno.va.gov/",
+            "phoneNumber": "(775) 786-7200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc1UI0qMbD0ChHhTitQcTwJsThj0WEXshpF-Ho",
+            "cid": "15437453478836289001",
+            "fid": "0x809940a358a0bf0b:0xd63cda25daa7bde9",
+            "placeId": "ChIJC7-gWKNAmYAR6b2n2iXaPNY"
+        }
+    ],
+    "credits": 3
+}

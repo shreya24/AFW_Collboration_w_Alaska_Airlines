@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Banner Desert TCU",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3908762,-111.8771772,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Desert Medical Center",
+            "address": "1400 S Dobson Rd, Mesa, AZ 85202",
+            "latitude": 33.3908762,
+            "longitude": -111.87717719999999,
+            "rating": 2.5,
+            "ratingCount": 1622,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/mesa/banner-desert-medical-center?y_source=1_MTE5MDczNDgtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(480) 412-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHW0yP4BS9oCPmmYyGsQdJxgmvp_xjDeXdc_0D",
+            "cid": "614197494924193389",
+            "fid": "0x872b07e12c895a3b:0x886115e12e42e6d",
+            "placeId": "ChIJO1qJLOEHK4cRbS7kEl4Rhgg"
+        }
+    ],
+    "credits": 3
+}

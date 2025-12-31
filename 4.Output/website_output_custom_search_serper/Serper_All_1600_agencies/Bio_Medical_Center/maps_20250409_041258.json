@@ -1,0 +1,122 @@
+{
+    "searchParameters": {
+        "q": "Bio Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.366651,-100.8421723,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bio Medical Center",
+            "address": "Av Gral Ferreira 3170, Madero Sur, 22046 Tijuana, B.C., Mexico",
+            "latitude": 32.5133022,
+            "longitude": -117.02950209999999,
+            "rating": 4.7,
+            "ratingCount": 42,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.hoxseybiomedical.com/clinic-information/",
+            "phoneNumber": "+52 664 684 9011",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNtUu_pmAHX7WBq5Q-l3sr7V37LFR-prkrjfHUp",
+            "cid": "5213625177030210533",
+            "fid": "0x80d9382de3a7f675:0x485a8479bceb33e5",
+            "placeId": "ChIJdfan4y042YAR5TPrvHmEWkg"
+        },
+        {
+            "position": 2,
+            "title": "bio medical clinic",
+            "address": "General Ferreira Colonia 615, Ju\u00e1rez, 22523 Tijuana, B.C., Mexico",
+            "latitude": 32.508966,
+            "longitude": -117.07426099999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hoxseybiomedical.com/",
+            "phoneNumber": "+52 888 237 2348",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o7zOErNwODG-ATtZI_KMgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=61.14483&pitch=0&thumbfov=100",
+            "cid": "3570185988302950667",
+            "fid": "0x80d9498bedf8a6a1:0x318bd93d9edfd10b",
+            "placeId": "ChIJoab47YtJ2YARC9Hfnj3ZizE"
+        },
+        {
+            "position": 3,
+            "title": "Bio Energy Medical Center",
+            "address": "4201 Varsity Dr suite a, Ann Arbor, MI 48108",
+            "latitude": 42.224336,
+            "longitude": -83.725625,
+            "rating": 4.8,
+            "ratingCount": 195,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Acupuncture clinic",
+                "General practitioner",
+                "Weight loss service"
+            ],
+            "website": "http://www.bioenergymedicalcenter.com/?utm_source=gmb_auth",
+            "phoneNumber": "(734) 995-3200",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.bioenergymedicalcenter.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHYfc7mjmoXpjH4jsonbTwk7DUvbF_3OhYT-0O",
+            "cid": "6713185878088582478",
+            "fid": "0x883cae0d1af2c2db:0x5d2a06fcf6a3854e",
+            "placeId": "ChIJ28LyGg2uPIgRToWj9vwGKl0"
+        },
+        {
+            "position": 4,
+            "title": "Bio Medical Center",
+            "address": "520 N Brookhurst St #117, Anaheim, CA 92801",
+            "latitude": 33.8389976,
+            "longitude": -117.9587196,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Acupuncture clinic",
+            "types": [
+                "Acupuncture clinic"
+            ],
+            "website": "http://www.instagram.com/bmc117",
+            "phoneNumber": "(714) 817-0085",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20133:30\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "9:30\u202fAM\u20132:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0ZcosW4N--zGFwQ1OYd9Th9of5T3AgIL-WmWG",
+            "cid": "16182030935273641440",
+            "fid": "0x80dd29905d2aa0e3:0xe0921f66495e15e0",
+            "placeId": "ChIJ46AqXZAp3YAR4BVeSWYfkuA"
+        }
+    ],
+    "credits": 3
+}

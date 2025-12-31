@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "TGEN Clinical Research Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4529848,-112.0672373,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "TGen",
+            "address": "445 N 5th St 4th Floor, Phoenix, AZ 85004",
+            "latitude": 33.452984799999996,
+            "longitude": -112.06723729999999,
+            "rating": 4.4,
+            "ratingCount": 36,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office",
+                "Laboratory",
+                "Research foundation"
+            ],
+            "website": "http://www.tgen.org/",
+            "phoneNumber": "(602) 343-8400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8s54y3360FpF9tx2dYdSSiAL-mN5DOh_csMZp",
+            "cid": "1265162576514381780",
+            "fid": "0x872b1219a906dbbf:0x118ec2a90441f7d4",
+            "placeId": "ChIJv9sGqRkSK4cR1PdBBKnCjhE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Elevation Hospice of Colorado",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.8394624,-105.0785291,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Elevation Hospice of Colorado",
+            "address": "7850 Vance Dr Suite 230, Arvada, CO 80003",
+            "latitude": 39.839462399999995,
+            "longitude": -105.0785291,
+            "rating": 4,
+            "ratingCount": 35,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://sagefoc.com/elevation-co/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=arvada&utm_content=co",
+            "phoneNumber": "(720) 740-3494",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSwFeS4qs8COtvLVcF3J97zWZ_-KtDoMDFyPS7",
+            "cid": "10080023167654173976",
+            "fid": "0x876b8ba88a80c8b7:0x8be36faa2bbc1d18",
+            "placeId": "ChIJt8iAiqiLa4cRGB28K6pv44s"
+        }
+    ],
+    "credits": 3
+}

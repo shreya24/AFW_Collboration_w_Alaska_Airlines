@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Laurie A. Marti, MD, PUC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6549614,-122.2058903,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Marti Laurie A MD",
+            "address": "5400 Carillon Point #5000, Kirkland, WA 98033",
+            "latitude": 47.6549614,
+            "longitude": -122.2058903,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://lauriemartimd.com/",
+            "phoneNumber": "(425) 232-1965",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gC0Ri1MSVXkWL_agn_hAHg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=226.25775&pitch=0&thumbfov=100",
+            "cid": "7852484801339052601",
+            "fid": "0x5490132ceae86d69:0x6cf9a15293f7d239",
+            "placeId": "ChIJaW3o6iwTkFQROdL3k1Kh-Ww"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,127 @@
+{
+    "searchParameters": {
+        "q": "UCSF Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7738844,-122.4250837,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Medical Center",
+            "address": "505 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7627945,
+            "longitude": -122.4580139,
+            "rating": 3.5,
+            "ratingCount": 335,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.ucsfhealth.org/",
+            "phoneNumber": "(415) 476-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSQeaEE1hK3ImGP-cb_r5LzpBO-Rnqfn4V8yXVCi2pr2SfnkRJ7dZF0YePPi_jStGsbBHUjz5nfZpgulXPkArDd5H3qglEwoBDMFFiG9CYZ4Y4nvIwoOQdDGqOwleI3JQ3zk-k",
+            "cid": "5468235918457274412",
+            "fid": "0x80858759dacb6383:0x4be313988bad802c",
+            "placeId": "ChIJg2PL2lmHhYARLICti5gT40s"
+        },
+        {
+            "position": 2,
+            "title": "Ucsf Medical Center",
+            "address": "400 Parnassus Ave Floor B1, San Francisco, CA 94143",
+            "latitude": 37.764201,
+            "longitude": -122.45738519999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner",
+                "Optometrist",
+                "Orthotics & prosthetics service",
+                "Physician assistant"
+            ],
+            "website": "https://www.ucsfhealth.org/",
+            "phoneNumber": "(415) 353-2497",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq__-TUGEEijwk2SWAPrOlYcu6JWBbu539FgY2BJ9jvATv6GWk2IhdywARis0_uJJPtWD9hx6zaUKqbtXeKUV9yZKH53ctxr9E4Si0NUUqms487NhW9S-4gmYp9VDwWnpGqT_IV",
+            "cid": "16715512940412617703",
+            "fid": "0x808587575b5e199b:0xe7f96e74ebbd43e7",
+            "placeId": "ChIJmxleW1eHhYAR50O963Ru-ec"
+        },
+        {
+            "position": 3,
+            "title": "UCSF Medical Center at Mount Zion",
+            "address": "1600 Divisadero St, San Francisco, CA 94115",
+            "latitude": 37.7849743,
+            "longitude": -122.43911329999999,
+            "rating": 3.9,
+            "ratingCount": 105,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Anesthesiologist",
+                "Doctor",
+                "General hospital",
+                "Hospital",
+                "Medical Center",
+                "Medical laboratory",
+                "Pharmacy"
+            ],
+            "website": "https://www.ucsfhealth.org/locations/mount-zion",
+            "phoneNumber": "(415) 567-6600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noakTr-I57DoiXqSYqSyr7TYa4wkCaeIIq-w1qHERwT5wu9PFB_altKw8tIfmf0D3usfvjrKsUyP-LBGh2L2N_jgPhZz_vIAXwUUAe_fMn4IUD0EC4Cn9OKfh3MmiqMG4EVHYHV",
+            "cid": "4396983782880495491",
+            "fid": "0x808580b626580419:0x3d0539744dbec783",
+            "placeId": "ChIJGQRYJraAhYARg8e-TXQ5BT0"
+        },
+        {
+            "position": 4,
+            "title": "UCSF Medical Center at Mission Bay",
+            "address": "1975 4th St, San Francisco, CA 94158",
+            "latitude": 37.767757599999996,
+            "longitude": -122.39215349999999,
+            "rating": 4.3,
+            "ratingCount": 250,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.ucsfhealth.org/locations/mission-bay",
+            "phoneNumber": "(415) 353-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPO3Hc_wb5jsvFtUdLOddm8PZG8LITIJKbxmto0",
+            "cid": "12427039180427455099",
+            "fid": "0x808f7fcf4dfe58b7:0xac75b64b173d6a7b",
+            "placeId": "ChIJt1j-Tc9_j4ARe2o9F0u2daw"
+        }
+    ],
+    "credits": 3
+}

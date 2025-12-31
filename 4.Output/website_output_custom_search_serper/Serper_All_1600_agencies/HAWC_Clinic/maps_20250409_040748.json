@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "HAWC Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5157401,-119.8035533,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Health Alliance \u2013 Wells Ave. Health Center",
+            "address": "1055 S Wells Ave, Reno, NV 89502",
+            "latitude": 39.515740099999995,
+            "longitude": -119.80355329999999,
+            "rating": 4,
+            "ratingCount": 266,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Mental health clinic",
+                "Pharmacy"
+            ],
+            "website": "https://www.chanevada.org/",
+            "phoneNumber": "(775) 329-6300",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20137\u202fPM",
+                "Thursday": "6:30\u202fAM\u20136\u202fPM",
+                "Friday": "6:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mycw142.ecwcloud.com/portal19938/jsp/jspnew/preRegistration_new.jsp"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOCN6daI2MeN-9cx5faUR3khd4x_Foqd7yWNsMA",
+            "cid": "17417394609812982080",
+            "fid": "0x8099406ad69f15c7:0xf1b7041dc6b4c940",
+            "placeId": "ChIJxxWf1mpAmYARQMm0xh0Et_E"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,232 @@
+{
+    "searchParameters": {
+        "q": "Liver Clinic, University of NM Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1970143,-106.6185614,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Unm Digestive Disease Center",
+            "address": "1001 Dr Martin Luther King Jr Ave NE, Albuquerque, NM 87106",
+            "latitude": 35.0852923,
+            "longitude": -106.634834,
+            "rating": 2.6,
+            "ratingCount": 54,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "http://hospitals.unm.edu/gastro/",
+            "phoneNumber": "(505) 925-6000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONINDTvfQqtwRITNB_Lrbq9tV3kfd3w7BB4zcP",
+            "cid": "285136095469020114",
+            "fid": "0x87220ca78052909f:0x3f501c4a312a3d2",
+            "placeId": "ChIJn5BSgKcMIocR0qMSo8QB9QM"
+        },
+        {
+            "position": 2,
+            "title": "UNM Hospital",
+            "address": "2211 Lomas Blvd NE, Albuquerque, NM 87106",
+            "latitude": 35.0882062,
+            "longitude": -106.6189678,
+            "rating": 2.6,
+            "ratingCount": 813,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital"
+            ],
+            "website": "http://hsc.unm.edu/health",
+            "phoneNumber": "(505) 272-2111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIyqLb9zzN-7VwwwnPEeOOAJxE7zKZiUpsJuct",
+            "cid": "2436318359238577562",
+            "fid": "0x87220cced1ec8075:0x21cf8aa3ba2d8d9a",
+            "placeId": "ChIJdYDs0c4MIocRmo0tuqOKzyE"
+        },
+        {
+            "position": 3,
+            "title": "UNM Health Transplant Services",
+            "address": "2211 Lomas Blvd NE 2nd floor, Albuquerque, NM 87106",
+            "latitude": 35.088021499999996,
+            "longitude": -106.6189021,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "phoneNumber": "(505) 272-3100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b2qxd1Sr0BwR0i3mrhRkBg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=17.334158&pitch=0&thumbfov=100",
+            "cid": "14490189806716014191",
+            "fid": "0x87220bcbe785910f:0xc9177edb5d4b4e6f",
+            "placeId": "ChIJD5GF58sLIocRb05LXdt-F8k"
+        },
+        {
+            "position": 4,
+            "title": "UNM Sandoval Regional Medical Center",
+            "address": "3001 Broadmoor Blvd NE, Rio Rancho, NM 87144",
+            "latitude": 35.3087363,
+            "longitude": -106.6800329,
+            "rating": 3.1,
+            "ratingCount": 387,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://hsc.unm.edu/health/locations/sandoval-regional-medical-center.html",
+            "phoneNumber": "(505) 994-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOddAWFFHrzSHEFTYL_H6Xcc-6stla-7IWR5S8",
+            "cid": "11702418164146490812",
+            "fid": "0x87227aff089d5103:0xa26757517707cdbc",
+            "placeId": "ChIJA1GdCP96IocRvM0Hd1FXZ6I"
+        },
+        {
+            "position": 5,
+            "title": "UNM Carrie Tingley Hospital",
+            "address": "1127 University Blvd NE, Albuquerque, NM 87102",
+            "latitude": 35.093544,
+            "longitude": -106.6269763,
+            "rating": 3.4,
+            "ratingCount": 81,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://hsc.unm.edu/health/locations/carrie-tingley-hospital.html",
+            "phoneNumber": "(505) 272-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhmgtaYUDpMm8RbpHZA6w3mN_TKXS-t4YGV2fq",
+            "cid": "14542042978684675274",
+            "fid": "0x87220b5787cde477:0xc9cfb70ac4f6a4ca",
+            "placeId": "ChIJd-TNh1cLIocRyqT2xAq3z8k"
+        },
+        {
+            "position": 6,
+            "title": "UNM Hospital Family Health Clinic",
+            "address": "7801 Academy Rd NE, Albuquerque, NM 87109",
+            "latitude": 35.1459571,
+            "longitude": -106.5570899,
+            "rating": 3.4,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://hospitals.unm.edu/family-health/locations/northeast-heights.html",
+            "phoneNumber": "(505) 272-2700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZWMK6GwR9GruxLN-FJQ0hOkjJqYEPG4JcfNkv",
+            "cid": "3701817273499190576",
+            "fid": "0x87227572bcf0d84f:0x335f7f327a530530",
+            "placeId": "ChIJT9jwvHJ1IocRMAVTejJ_XzM"
+        },
+        {
+            "position": 7,
+            "title": "UNM Comprehensive Cancer Center",
+            "address": "1201 Camino de Salud NE, Albuquerque, NM 87102",
+            "latitude": 35.095576099999995,
+            "longitude": -106.6272534,
+            "rating": 3.6,
+            "ratingCount": 70,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://unmhealth.org/cancer/",
+            "phoneNumber": "(505) 272-4946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://unmhealth.org/cancer/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPURKS-CGho1UPs78RG_iKEUkQPDF2jIIsGc7fP",
+            "cid": "17444617878087057336",
+            "fid": "0x87220b5628575ab7:0xf217bb88d9cebfb8",
+            "placeId": "ChIJt1pXKFYLIocRuL_O2Yi7F_I"
+        },
+        {
+            "position": 8,
+            "title": "Department of Gastroenterology",
+            "address": "2211 Lomas Blvd NE, Albuquerque, NM 87106",
+            "latitude": 35.0881912,
+            "longitude": -106.6190589,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(505) 272-2415",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n3WF-yAI0WD7MLg3pbQA6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=195.16904&pitch=0&thumbfov=100",
+            "cid": "11234609775409625113",
+            "fid": "0x87220b5cc8191e6b:0x9be95a11356bf819",
+            "placeId": "ChIJax4ZyFwLIocRGfhrNRFa6Zs"
+        }
+    ],
+    "credits": 3
+}

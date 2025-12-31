@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "United Blood Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6296172,-110.9388664,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Vitalant Blood Donation - Albuquerque",
+            "address": "1515 University Blvd NE, Albuquerque, NM 87102",
+            "latitude": 35.0998294,
+            "longitude": -106.62838239999999,
+            "rating": 3.1,
+            "ratingCount": 71,
+            "type": "Blood bank",
+            "types": [
+                "Blood bank",
+                "Blood donation center",
+                "Non-profit organization",
+                "Volunteer organization"
+            ],
+            "website": "https://www.vitalant.org/?utm_medium=organic&utm_source=GMB&utm_campaign=Albuquerque",
+            "phoneNumber": "(877) 258-4825",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "10:30\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20133\u202fPM",
+                "Saturday": "7:30\u202fAM\u20133\u202fPM",
+                "Sunday": "10\u202fAM\u20131:30\u202fPM",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8K0h9FvWej00tBtpSAcA83bJz1OnWSQeEL-CJdya-IX0V45mY27pBgPvRt1Nt_ZHS2PeZ1pBAPHQbPhmVXeoHC_EYPsRXGXGAhVV0DEOBmU0cIgrYaGXQu1Xi_bYvp6RPlNV4rbQ",
+            "cid": "9289297185019122933",
+            "fid": "0x87220b558dc21a9d:0x80ea3692ae19d4f5",
+            "placeId": "ChIJnRrCjVULIocR9dQZrpI26oA"
+        },
+        {
+            "position": 2,
+            "title": "Vitalant Blood Donation- Las Vegas",
+            "address": "6930 W Charleston Blvd, Las Vegas, NV 89117",
+            "latitude": 36.1594049,
+            "longitude": -115.24935049999999,
+            "rating": 4.1,
+            "ratingCount": 69,
+            "type": "Blood bank",
+            "types": [
+                "Blood bank",
+                "Blood donation center",
+                "Non-profit organization",
+                "Volunteer organization"
+            ],
+            "website": "https://www.vitalant.org/?utm_medium=organic&utm_source=GMB&utm_campaign=LasVegas",
+            "phoneNumber": "(877) 258-4825",
+            "openingHours": {
+                "Tuesday": "12:30\u20137:30\u202fPM",
+                "Wednesday": "12:30\u20137:30\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20133\u202fPM",
+                "Saturday": "7\u202fAM\u20133\u202fPM",
+                "Sunday": "7\u202fAM\u20133\u202fPM",
+                "Monday": "7\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOv5eqAt1wo284b6Y6cltNKRe5UCY0NL4bDk2i1",
+            "cid": "12097331019355689258",
+            "fid": "0x80c8c0fae62cddaf:0xa7e25a77bb02912a",
+            "placeId": "ChIJr90s5vrAyIARKpECu3da4qc"
+        }
+    ],
+    "credits": 3
+}

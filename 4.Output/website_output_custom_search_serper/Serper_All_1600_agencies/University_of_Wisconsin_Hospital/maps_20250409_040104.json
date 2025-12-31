@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "University of Wisconsin Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.0766353,-89.4311231,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Health University Hospital",
+            "address": "600 Highland Ave, Madison, WI 53792",
+            "latitude": 43.0766353,
+            "longitude": -89.4311231,
+            "rating": 4.7,
+            "ratingCount": 4279,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "University hospital"
+            ],
+            "website": "https://www.uwhealth.org/locations/university-hospital-170",
+            "phoneNumber": "(608) 263-6400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKpLYfgAO3UfNyDfetqn0w4UwgWrGwpgds1Sz6",
+            "cid": "7762034646663703722",
+            "fid": "0x8807acf249bba779:0x6bb84962d8aa2caa",
+            "placeId": "ChIJeae7SfKsB4gRqiyq2GJJuGs"
+        }
+    ],
+    "credits": 3
+}

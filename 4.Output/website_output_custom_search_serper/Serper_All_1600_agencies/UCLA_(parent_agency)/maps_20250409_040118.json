@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "UCLA (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0647938,-118.4444481,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Bruin Resource Center",
+            "address": "220 Westwood Plaza B44, Los Angeles, CA 90095",
+            "latitude": 34.0712745,
+            "longitude": -118.4442687,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Students support association",
+            "types": [
+                "Students support association",
+                "Academic department"
+            ],
+            "website": "http://www.brc.ucla.edu/",
+            "phoneNumber": "(310) 825-7904",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOof8Qgi_MMVdLZUk0-cCfr6rYutrs79E_7BjVO",
+            "cid": "7553177922086638662",
+            "fid": "0x80c2bc89206bbd7d:0x68d2474d3b4c1446",
+            "placeId": "ChIJfb1rIIm8woARRhRMO01H0mg"
+        },
+        {
+            "position": 2,
+            "title": "UCLA Health Human Resources",
+            "address": "10920 Wilshire Blvd Suite 400, Los Angeles, CA 90095",
+            "latitude": 34.058313,
+            "longitude": -118.44462759999999,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "https://www.uclahealthcareers.org/",
+            "phoneNumber": "(310) 794-0500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOAruAZxI0CH1YWkVcfIUhx0LAN1_HaUQ2qemI",
+            "cid": "4790585168768338899",
+            "fid": "0x80c2bb7e10a06f8b:0x427b93d452b10bd3",
+            "placeId": "ChIJi2-gEH67woAR0wuxUtSTe0I"
+        }
+    ],
+    "credits": 3
+}

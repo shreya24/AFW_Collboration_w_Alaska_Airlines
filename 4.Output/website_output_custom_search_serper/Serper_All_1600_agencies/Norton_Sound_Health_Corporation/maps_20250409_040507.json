@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Norton Sound Health Corporation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@62.8577314,-157.6399909,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Norton Sound Health Corporation",
+            "address": "1000 Greg Kruschek Avenue, Nome, AK 99762",
+            "latitude": 64.4982004,
+            "longitude": -165.3797753,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://nortonsoundhealth.org/",
+            "phoneNumber": "(907) 443-3311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Fpqnlv9y8RZek4UYv1gLZmOJU5-8KBx77kTMj9gwDLhYQ70CRKGBCzjbjUVs2DDZ_Ei_uhSsQirqcltxt71kGLD578weohGJ5MqawxxY9WeqKQiNSyXYOTZAMgMFgnqQAvIo",
+            "cid": "14558530627061636765",
+            "fid": "0x57311bbae87533a9:0xca0a4a788da75e9d",
+            "placeId": "ChIJqTN16LobMVcRnV6njXhKCso"
+        },
+        {
+            "position": 2,
+            "title": "Norton Sound Health Corporation Gen",
+            "address": "900 W 5th Ave, Anchorage, AK 99501",
+            "latitude": 61.217262299999994,
+            "longitude": -149.9002066,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Attorney",
+            "types": [
+                "Attorney"
+            ],
+            "phoneNumber": "(907) 276-1362",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=muvjr21FjoRLDXQTZNN3VA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=244.70126&pitch=0&thumbfov=100",
+            "cid": "18060629440785133783",
+            "fid": "0x56c8bd8138ff37e1:0xfaa43ec97df5b0d7",
+            "placeId": "ChIJ4Tf_OIG9yFYR17D1fck-pPo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr. William Isacoff",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0590004,-118.4449135,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. William Isacoff",
+            "address": "10921 Wilshire Blvd #505, Los Angeles, CA 90024",
+            "latitude": 34.059000399999995,
+            "longitude": -118.4449135,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(310) 824-4133",
+            "cid": "8432695081743997693",
+            "fid": "0x80c2bc81fb1c8c69:0x7506f37f9e88dafd",
+            "placeId": "ChIJaYwc-4G8woAR_dqInn_zBnU"
+        }
+    ],
+    "credits": 3
+}

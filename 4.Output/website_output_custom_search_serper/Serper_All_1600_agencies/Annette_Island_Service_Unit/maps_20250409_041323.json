@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Annette Island Service Unit",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.1243382,-131.5757094,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Annette Island Service Unit",
+            "address": "563 Brendible St, Metlakatla, AK 99926",
+            "latitude": 55.1243382,
+            "longitude": -131.5757094,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 886-4741",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "11430390296419242014",
+            "fid": "0x540c35e5300d4311:0x9ea0e769ee24101e",
+            "placeId": "ChIJEUMNMOU1DFQRHhAk7mnnoJ4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "MemorialCare Orange Coast Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7004864,-117.9556866,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MemorialCare Orange Coast Medical Center",
+            "address": "18111 Brookhurst St, Fountain Valley, CA 92708",
+            "latitude": 33.700486399999996,
+            "longitude": -117.95568659999999,
+            "rating": 3.8,
+            "ratingCount": 339,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Cardiovascular and thoracic surgeon",
+                "Family practice physician",
+                "Gastrointestinal surgeon",
+                "Hospital department",
+                "Midwife",
+                "Pediatric clinic",
+                "Pediatrician"
+            ],
+            "website": "https://www.memorialcare.org/locations/orange-coast-medical-center",
+            "phoneNumber": "(714) 378-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuzJ9HGOMHiEzDzDp2vAcoHdcTxLmMp_znXwyh",
+            "cid": "4089787442186901602",
+            "fid": "0x80dd273b910fc499:0x38c1d80292675862",
+            "placeId": "ChIJmcQPkTsn3YARYlhnkgLYwTg"
+        }
+    ],
+    "credits": 3
+}

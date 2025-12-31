@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Wadena County Social Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5970981,-95.1097721,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wadena County Human Services",
+            "address": "124 1st St SE #1, Wadena, MN 56482",
+            "latitude": 46.4398078,
+            "longitude": -95.1356277,
+            "rating": 3.6,
+            "ratingCount": 53,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.co.wadena.mn.us/197/Human-Services",
+            "phoneNumber": "(218) 631-7605",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ijPybqsNCHvvxDyKHge_BYLF1oiBWLjgvivDHa_bsziS5s9dyef4P7Xo2-KXHT21KepWYOm7G5UxlQ_3G5f4j0BSYCppHj4AC5mV0DsKR6PUR92Bn5lk9NEfB0ln9Uh-Fa5M",
+            "cid": "1996163359694041556",
+            "fid": "0x52b63ce264f76d1b:0x1bb3cbffe036b1d4",
+            "placeId": "ChIJG233ZOI8tlIR1LE24P_Lsxs"
+        },
+        {
+            "position": 2,
+            "title": "Wadena County Social Services",
+            "address": "427 Main St NE, Menahga, MN 56464",
+            "latitude": 46.754388399999996,
+            "longitude": -95.0839166,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.co.wadena.mn.us/197/Human-Services",
+            "phoneNumber": "(218) 631-7605",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xSmjXnpfSPWKWD7XkDIiRQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.02246&pitch=0&thumbfov=100",
+            "cid": "1877967502511965587",
+            "fid": "0x52b7ca54258e582d:0x1a0fe17e5ef40593",
+            "placeId": "ChIJLViOJVTKt1IRkwX0Xn7hDxo"
+        }
+    ],
+    "credits": 3
+}

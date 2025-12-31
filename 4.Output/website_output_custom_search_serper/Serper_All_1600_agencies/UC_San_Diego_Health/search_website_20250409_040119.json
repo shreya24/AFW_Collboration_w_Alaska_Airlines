@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "UC San Diego Health website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "UC San Diego Health | San Diego Hospital, Healthcare",
+            "link": "https://health.ucsd.edu/",
+            "snippet": "UC San Diego Health, San Diego Hospital, Healthcare.",
+            "sitelinks": [
+                {
+                    "title": "Find a Doctor or Provider in ...",
+                    "link": "https://health.ucsd.edu/find-a-provider/"
+                },
+                {
+                    "title": "Contact Us",
+                    "link": "https://health.ucsd.edu/about-us/contact-us/"
+                },
+                {
+                    "title": "Search All Locations",
+                    "link": "https://health.ucsd.edu/locations/"
+                },
+                {
+                    "title": "About Us",
+                    "link": "https://health.ucsd.edu/about-us/"
+                },
+                {
+                    "title": "Primary & Specialty Care",
+                    "link": "https://health.ucsd.edu/care/"
+                }
+            ],
+            "position": 1
+        },
+        {
+            "title": "MyUCSDChart",
+            "link": "https://myucsdchart.ucsd.edu/ucsd/Authentication/Login",
+            "snippet": "Communicate with your doctor, get answers to your medical questions from the comfort of your own home, access your test results.",
+            "position": 2
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "UC San Diego Health La Jolla"
+        },
+        {
+            "query": "UC San Diego Health careers"
+        },
+        {
+            "query": "UC San Diego hospital"
+        },
+        {
+            "query": "UC San Diego Health address"
+        },
+        {
+            "query": "UCSD health MyChart"
+        },
+        {
+            "query": "UCSD health login"
+        },
+        {
+            "query": "UC San Diego Health mission statement"
+        },
+        {
+            "query": "UC San Diego Health logo"
+        }
+    ],
+    "credits": 1
+}

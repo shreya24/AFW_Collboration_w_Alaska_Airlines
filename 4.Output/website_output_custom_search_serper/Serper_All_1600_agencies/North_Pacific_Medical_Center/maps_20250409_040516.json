@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "North Pacific Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.7890014,-152.4070587,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Pacific Medical Center",
+            "address": "104 Center St # 100, Kodiak, AK 99615",
+            "latitude": 57.7890014,
+            "longitude": -152.4070587,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(907) 486-4183",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "11309354675761405885",
+            "fid": "0x56eac465b2268f21:0x9cf2e62877a95fbd",
+            "placeId": "ChIJIY8msmXE6lYRvV-pdyjm8pw"
+        }
+    ],
+    "credits": 3
+}

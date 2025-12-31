@@ -1,0 +1,150 @@
+{
+    "searchParameters": {
+        "q": "Desert Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8383545,-116.5438342,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Desert Regional Medical Center",
+            "address": "1150 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.8385716,
+            "longitude": -116.5434839,
+            "rating": 2.8,
+            "ratingCount": 714,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospice",
+                "Hospital",
+                "Hospital department",
+                "Nursing home"
+            ],
+            "website": "https://www.desertcarenetwork.com/locations/detail/desert-regional-medical-center/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-desert-regional-medical-center&utm_medium=google-local",
+            "phoneNumber": "(760) 323-6511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.desertcarenetwork.com/schedule-an-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPY9mao_ibP_HNmnAeiCHJfWo8FCuNRiQXCjX6X",
+            "cid": "1103626794766358257",
+            "fid": "0x80db1bc7033b6537:0xf50deb8faa6d6f1",
+            "placeId": "ChIJN2U7A8cb24AR8dam-rjeUA8"
+        },
+        {
+            "position": 2,
+            "title": "Desert Regional Medical Center Emergency Room",
+            "address": "1150 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.838198,
+            "longitude": -116.5439457,
+            "rating": 2.9,
+            "ratingCount": 77,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.desertcarenetwork.com/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-desertcarenetwork&utm_medium=google-local",
+            "phoneNumber": "(760) 323-6251",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhRpmwozXw0BqR70x5m_baL6RGMqCM4FbMcFPV",
+            "cid": "11681456992252208358",
+            "fid": "0x80db1bc7321c8b69:0xa21cdf3e523224e6",
+            "placeId": "ChIJaYscMscb24AR5iQyUj7fHKI"
+        },
+        {
+            "position": 3,
+            "title": "Desert Regional Medical Center: Main Switchboard Rehabilitation Services",
+            "address": "1150 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.8385169,
+            "longitude": -116.54408,
+            "rating": 3.5,
+            "ratingCount": 14,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "phoneNumber": "(760) 323-6436",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "cid": "8048770810868913882",
+            "fid": "0x80db1bc7033b6537:0x6fb2fa68845fd6da",
+            "placeId": "ChIJN2U7A8cb24AR2tZfhGj6sm8"
+        },
+        {
+            "position": 4,
+            "title": "Desert Regional Medical Center - ER Ambulance Bay",
+            "address": "1150 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.8381373,
+            "longitude": -116.5441845,
+            "rating": 3.1,
+            "ratingCount": 9,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.desertregional.com/",
+            "phoneNumber": "(760) 323-6511",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPI2KroMtP3nCcLdfxYrvHDekB6M512YlotffaL",
+            "cid": "11888360999492825719",
+            "fid": "0x80db1b92712f3353:0xa4fbf1578060b277",
+            "placeId": "ChIJUzMvcZIb24ARd7JggFfx-6Q"
+        },
+        {
+            "position": 5,
+            "title": "Desert Regional Medical Center Radiology",
+            "address": "1150 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.8385169,
+            "longitude": -116.54408,
+            "rating": 3.9,
+            "ratingCount": 10,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.desertcarenetwork.com/services/diagnostic-imaging/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-diagnostic-imaging&utm_medium=google-local",
+            "phoneNumber": "(760) 778-5900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODDHiCbC6XvJ9UGsit5Nuy5vAqumL1n7bS1Gse",
+            "cid": "934352980701608286",
+            "fid": "0x80db1bc7033b6537:0xcf77d15e58bf95e",
+            "placeId": "ChIJN2U7A8cb24ARXvmL5RV99ww"
+        }
+    ],
+    "credits": 3
+}

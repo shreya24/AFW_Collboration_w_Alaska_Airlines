@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Bonners Ferry Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7012619,-116.3152354,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bonners Ferry Family Medicine",
+            "address": "6488 Chinook St, Bonners Ferry, ID 83805",
+            "latitude": 48.7012619,
+            "longitude": -116.31523539999999,
+            "rating": 4.3,
+            "ratingCount": 39,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Family practice physician",
+                "Medical clinic"
+            ],
+            "website": "https://bonnersferryfamilymedicine.com/",
+            "phoneNumber": "(208) 267-8710",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBWCMVp47qh0udW2wfDa6ovA2ZTvhrEkwzm7Pe",
+            "cid": "6256950542219024721",
+            "fid": "0x53638e1b97c75641:0x56d5275e0e271951",
+            "placeId": "ChIJQVbHlxuOY1MRURknDl4n1VY"
+        }
+    ],
+    "credits": 3
+}

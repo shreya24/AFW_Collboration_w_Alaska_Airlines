@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Gary Anthone MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2622881,-96.0714817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anthone Gary MD",
+            "address": "10060 Regency Cir, Omaha, NE 68114",
+            "latitude": 41.2622881,
+            "longitude": -96.07148169999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(402) 354-1320",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6SKtHWjQosZjfARLFW8rFA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=4.435163&pitch=0&thumbfov=100",
+            "cid": "10901025438409539345",
+            "fid": "0x8793f2b59bda934f:0x974838e14fe5bf11",
+            "placeId": "ChIJT5Pam7Xyk4cREb_lT-E4SJc"
+        }
+    ],
+    "credits": 3
+}

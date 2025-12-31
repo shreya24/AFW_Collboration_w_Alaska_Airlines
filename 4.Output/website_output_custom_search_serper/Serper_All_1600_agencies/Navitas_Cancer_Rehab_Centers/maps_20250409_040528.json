@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Navitas Cancer Rehab Centers",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.952891,-79.5417226,2z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ReVital Cancer Rehabilitation",
+            "address": "4714 Gettysburg Rd, Mechanicsburg, PA 17055",
+            "latitude": 40.2132338,
+            "longitude": -76.9602803,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center"
+            ],
+            "website": "https://www.revitalcancerrehab.com/",
+            "phoneNumber": "(844) 473-8485",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EJRNxuu5rvX_ALwAc4eBlQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=34.47244&pitch=0&thumbfov=100",
+            "cid": "3713918906556228214",
+            "fid": "0x89c8e9d393f00001:0x338a7d917de42276",
+            "placeId": "ChIJAQDwk9PpyIkRdiLkfZF9ijM"
+        },
+        {
+            "position": 2,
+            "title": "Navita Health | The Woodlands",
+            "address": "9186 Six Pines Dr Ste 175, The Woodlands, TX 77380",
+            "latitude": 30.1723826,
+            "longitude": -95.4595976,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://navitawellness.com/location/the-woodlands?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+            "phoneNumber": "(346) 660-4843",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM7I0i76kjlJTlqgpWjl3Lg9suPg08jubHRw_Ea",
+            "cid": "790020118663100626",
+            "fid": "0x86473788a98094cf:0xaf6b71cba5378d2",
+            "placeId": "ChIJz5SAqYg3R4YR0nhTuhy39go"
+        }
+    ],
+    "credits": 3
+}

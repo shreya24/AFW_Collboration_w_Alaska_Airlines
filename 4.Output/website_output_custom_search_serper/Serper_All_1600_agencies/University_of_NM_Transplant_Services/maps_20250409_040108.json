@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "University of NM Transplant Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0880215,-106.6189021,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Health Transplant Services",
+            "address": "2211 Lomas Blvd NE 2nd floor, Albuquerque, NM 87106",
+            "latitude": 35.088021499999996,
+            "longitude": -106.6189021,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "phoneNumber": "(505) 272-3100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b2qxd1Sr0BwR0i3mrhRkBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=17.334158&pitch=0&thumbfov=100",
+            "cid": "14490189806716014191",
+            "fid": "0x87220bcbe785910f:0xc9177edb5d4b4e6f",
+            "placeId": "ChIJD5GF58sLIocRb05LXdt-F8k"
+        }
+    ],
+    "credits": 3
+}

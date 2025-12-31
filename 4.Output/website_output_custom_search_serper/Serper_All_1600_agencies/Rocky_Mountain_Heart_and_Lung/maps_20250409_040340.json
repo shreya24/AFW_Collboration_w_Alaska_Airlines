@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mountain Heart and Lung",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.620225,-114.7872396,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Heart & Lung: Kirshner Drew L MD",
+            "address": "350 Heritage Way # 2100, Kalispell, MT 59901",
+            "latitude": 48.216825299999996,
+            "longitude": -114.324789,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cardiovascular and thoracic surgeon",
+            "types": [
+                "Cardiovascular and thoracic surgeon"
+            ],
+            "phoneNumber": "(406) 257-8992",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0tVlTd2krqiQDrdX1triwg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=294.27655&pitch=0&thumbfov=100",
+            "cid": "235410338208128452",
+            "fid": "0x53665a75f49091b5:0x344587491599dc4",
+            "placeId": "ChIJtZGQ9HVaZlMRxJ1ZkXRYRAM"
+        },
+        {
+            "position": 2,
+            "title": "Rocky Mountain Heart & Lung Libby",
+            "address": "308 Louisiana Ave, Libby, MT 59923",
+            "latitude": 48.3919448,
+            "longitude": -115.54915609999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(406) 293-6594",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d1vTO6t05WjCsCpU7NNAPw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=192.35573&pitch=0&thumbfov=100",
+            "cid": "8233864320493472480",
+            "fid": "0x5366a9049145b0cd:0x72448ff97fc6cae0",
+            "placeId": "ChIJzbBFkQSpZlMR4MrGf_mPRHI"
+        },
+        {
+            "position": 3,
+            "title": "Logan Health Heart & Lung",
+            "address": "350 Heritage Way # 2100, Kalispell, MT 59901",
+            "latitude": 48.2167949,
+            "longitude": -114.3247806,
+            "rating": 4,
+            "ratingCount": 39,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Pulmonologist"
+            ],
+            "website": "https://www.logan.org/location/logan-health-heart-lung/",
+            "phoneNumber": "(406) 257-8992",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0tVlTd2krqiQDrdX1triwg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=290.93954&pitch=0&thumbfov=100",
+            "cid": "7043099180185888396",
+            "fid": "0x53665a75f49091b5:0x61be1d6370d3268c",
+            "placeId": "ChIJtZGQ9HVaZlMRjCbTcGMdvmE"
+        },
+        {
+            "position": 4,
+            "title": "Rocky Mountain Heart & Lung South",
+            "address": "1821 South Ave W, Missoula, MT 59801",
+            "latitude": 46.8485052,
+            "longitude": -114.0253231,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(406) 549-2827",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=toLMrtGQdVYEE-SmwKY_xw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=122.225174&pitch=0&thumbfov=100",
+            "cid": "7139427522821012884",
+            "fid": "0x535dcdf2818fe2b3:0x631457817564bd94",
+            "placeId": "ChIJs-KPgfLNXVMRlL1kdYFXFGM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Alaska Ear Nose and Throat",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.3878363,-149.5889002,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ENT Specialists of Alaska",
+            "address": "3750 E Country Field Cir STE B, Wasilla, AK 99654",
+            "latitude": 61.5893947,
+            "longitude": -149.3561727,
+            "rating": 4.7,
+            "ratingCount": 22,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Otolaryngologist"
+            ],
+            "website": "https://www.entspecialistsak.com/",
+            "phoneNumber": "(866) 709-2122",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.entspecialistsak.com/wasilla-ak/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN7ys5cq6SJSd5-UXeuIoQUVyIYSn3bfkgpJ6Q",
+            "cid": "11019606055782923630",
+            "fid": "0x56c8e154e44b4bf5:0x98ed8152c7af3d6e",
+            "placeId": "ChIJ9UtL5FThyFYRbj2vx1KB7Zg"
+        },
+        {
+            "position": 2,
+            "title": "Alaska Ear Nose & Throat",
+            "address": "3841 Piper St Ste. T311, Anchorage, AK 99508",
+            "latitude": 61.1862778,
+            "longitude": -149.8216278,
+            "rating": 4.1,
+            "ratingCount": 55,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic",
+                "Oral surgeon"
+            ],
+            "website": "https://alaskaent.com/",
+            "phoneNumber": "(907) 563-3096",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKQk6YgF7KLWH4HDHZfEr6EF6x3_XH2Uu0lMG6",
+            "cid": "1956770702380451500",
+            "fid": "0x56c897072c6b9f7b:0x1b27d8961e4746ac",
+            "placeId": "ChIJe59rLAeXyFYRrEZHHpbYJxs"
+        }
+    ],
+    "credits": 3
+}

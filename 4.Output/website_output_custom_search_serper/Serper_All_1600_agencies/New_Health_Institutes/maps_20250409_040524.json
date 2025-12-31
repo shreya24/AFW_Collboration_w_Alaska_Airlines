@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "New Health Institutes",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.610818,-117.8752923,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Health Institute",
+            "address": "180 Newport Center Dr Ste 120, Newport Beach, CA 92660",
+            "latitude": 33.610818,
+            "longitude": -117.8752923,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(949) 644-6969",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TesSWuqGCCt4fg6P32ulg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=123.2214&pitch=0&thumbfov=100",
+            "cid": "12528587254916438518",
+            "fid": "0x80dce089a88e9853:0xadde7bbaa2c7d9f6",
+            "placeId": "ChIJU5iOqIng3IAR9tnHorp73q0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Saint Alphonsus Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6141582,-116.2528406,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Alphonsus Medical Group",
+            "address": "1070 N Curtis Rd # 250, Boise, ID 83706",
+            "latitude": 43.6141582,
+            "longitude": -116.2528406,
+            "rating": 4.1,
+            "ratingCount": 69,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.saintalphonsus.org/",
+            "phoneNumber": "(208) 367-8787",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMt9Mrc4QWRuN29j8w6VNRy5ft599D7SrVap0QE",
+            "cid": "14075605715509234261",
+            "fid": "0x54aef8a0842c3cdf:0xc35698d28f62ca55",
+            "placeId": "ChIJ3zwshKD4rlQRVcpij9KYVsM"
+        }
+    ],
+    "credits": 3
+}

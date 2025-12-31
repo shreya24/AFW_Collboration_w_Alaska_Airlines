@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Arizona Cancer Center - UMC North",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.2589081,-110.9440915,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Arizona Cancer Center",
+            "address": "3838 N Campbell Ave, Tucson, AZ 85719",
+            "latitude": 32.2765477,
+            "longitude": -110.9431659,
+            "rating": 4.5,
+            "ratingCount": 144,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/tucson/university-of-arizona-cancer-center-tucson-campbell?y_source=1_MTE5MDczMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(520) 694-2873",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMsCq9wrtbYusf7xi7_apceJ0fOHTvVjS6Ke94V",
+            "cid": "1637113545081459416",
+            "fid": "0x86d672294ace225f:0x16b832186f8f92d8",
+            "placeId": "ChIJXyLOSily1oYR2JKPbxgyuBY"
+        },
+        {
+            "position": 2,
+            "title": "Arizona Cancer Center",
+            "address": "1515 N Campbell Ave, Tucson, AZ 85724",
+            "latitude": 32.2412685,
+            "longitude": -110.9450172,
+            "rating": 3.4,
+            "ratingCount": 12,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://cancercenter.arizona.edu/",
+            "phoneNumber": "(520) 694-2873",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_NtzID2n2y9f5EUNa8tG08du_ulCtClWF9swPAruIojSz8xJOQfWrrMqFE4m813RzNYjvufQOM_7GbPFg9HoJqV0Qe2fCz1lp9flGY9mZf2oNPF_ijFXyLYiiepOeIi7SSnDQx",
+            "cid": "11029130311305204374",
+            "fid": "0x86d671a42e7f765d:0x990f579552d71296",
+            "placeId": "ChIJXXZ_LqRx1oYRlhLXUpVXD5k"
+        }
+    ],
+    "credits": 3
+}

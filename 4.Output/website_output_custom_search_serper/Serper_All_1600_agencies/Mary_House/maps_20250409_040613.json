@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Mary House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9349959,-76.9926096,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mary House",
+            "address": "1007 Bunker Hill Rd NE, Washington, DC 20017",
+            "latitude": 38.9349959,
+            "longitude": -76.9926096,
+            "rating": 4.7,
+            "ratingCount": 6,
+            "type": "Halfway house",
+            "types": [
+                "Halfway house",
+                "Homeless service",
+                "Homeless shelter",
+                "Low income housing program",
+                "Non-profit organization"
+            ],
+            "website": "http://www.maryhouse.org/",
+            "phoneNumber": "(202) 780-5137",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOOTHxWnhAi0bXJ1lCDt_Trf9vHbQob2-s8n43E",
+            "cid": "8768404156431190517",
+            "fid": "0x89b7c7c01d5faebd:0x79afa11f8f23c9f5",
+            "placeId": "ChIJva5fHcDHt4kR9ckjjx-hr3k"
+        }
+    ],
+    "credits": 3
+}

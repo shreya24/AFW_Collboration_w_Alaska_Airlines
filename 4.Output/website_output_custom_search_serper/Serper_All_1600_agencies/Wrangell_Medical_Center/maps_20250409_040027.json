@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Wrangell Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@56.4629261,-132.3719408,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wrangell Medical Center",
+            "address": "232 Wood St, Wrangell, AK 99929",
+            "latitude": 56.4629261,
+            "longitude": -132.3719408,
+            "rating": 3.6,
+            "ratingCount": 9,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://searhc.org/location/wrangell-medical-center/",
+            "phoneNumber": "(907) 874-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-mpVR-WvIqp6K4-R0qcQBs9gl-B6sN0hZJ750EW00G7D3YH0G8OMDUqlUVSj7q67fBEokfrZjvL9iYsIcTtJE6Mnnqexuqlz52vJOJDXXOVKNlTl0N-8dutoUgtS4ElhLD9PE",
+            "cid": "13457216746880400782",
+            "fid": "0x5408ca31464084c7:0xbac1a354f73e7d8e",
+            "placeId": "ChIJx4RARjHKCFQRjn0-91Sjwbo"
+        }
+    ],
+    "credits": 3
+}

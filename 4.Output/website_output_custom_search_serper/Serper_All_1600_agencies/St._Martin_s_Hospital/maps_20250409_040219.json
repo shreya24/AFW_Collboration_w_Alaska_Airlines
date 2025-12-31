@@ -1,0 +1,127 @@
+{
+    "searchParameters": {
+        "q": "St. Martin's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6406209,-60.3068096,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health - St. Rose Dominican Hospital, San Martin Campus - Las Vegas, NV",
+            "address": "8280 W Warm Springs Rd, Las Vegas, NV 89113",
+            "latitude": 36.057419599999996,
+            "longitude": -115.27205749999999,
+            "rating": 4.2,
+            "ratingCount": 1260,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-st-rose-dominican-hospital-san-martin-campus-las-vegas-nv",
+            "phoneNumber": "(702) 492-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD0EDtYQC6Dpdq27Q1PH74wYNJGGZLWguLe5U",
+            "cid": "12419276546452888866",
+            "fid": "0x80c8c7ed808504ed:0xac5a223806aa1d22",
+            "placeId": "ChIJ7QSFgO3HyIARIh2qBjgiWqw"
+        },
+        {
+            "position": 2,
+            "title": "Emergency Room - Dignity Health - St. Rose Dominican, San Martin Campus - Las Vegas, NV",
+            "address": "8280 W Warm Springs Rd, Las Vegas, NV 89113",
+            "latitude": 36.0577689,
+            "longitude": -115.2721826,
+            "rating": 3.3,
+            "ratingCount": 39,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://locations.dignityhealth.org/emergency-room-dignity-health-st-rose-dominican-san-martin-campus-las-vegas-nv",
+            "phoneNumber": "(702) 492-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOLpowvN_dtEKfXybYd7Uhx9F9EOFe247S4dpiB",
+            "cid": "15089499487292664062",
+            "fid": "0x80c8c7f27ee6b9b7:0xd168abd60a84a8fe",
+            "placeId": "ChIJt7nmfvLHyIAR_qiECtaraNE"
+        },
+        {
+            "position": 3,
+            "title": "Martin Luther King Jr. Community Hospital",
+            "address": "1680 E 120th St, Los Angeles, CA 90059",
+            "latitude": 33.9233741,
+            "longitude": -118.24262909999999,
+            "rating": 3.5,
+            "ratingCount": 636,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.mlkch.org/",
+            "phoneNumber": "(424) 338-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9HgsvhglD69pjRT6a1AkIzFuOo-MWpknQ5ckFSD-iiHSABDGQGF7vTNG2srpLYjGSILXNO0cSpE89KB9txF7O8dBwBClt2kcSPv7k1oOhDkG_fXoFYzh6gU0bp7_yYhz3Dcge3fg",
+            "cid": "9633075472934651081",
+            "fid": "0x80c2cbb620132975:0x85af8f1abacc44c9",
+            "placeId": "ChIJdSkTILbLwoARyUTMuhqPr4U"
+        },
+        {
+            "position": 4,
+            "title": "St Martin's Hospital",
+            "address": "Midford Rd, Bath BA2 5RP, United Kingdom",
+            "latitude": 51.3578676,
+            "longitude": -2.3709900999999998,
+            "rating": 3.8,
+            "ratingCount": 24,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.nhs.uk/services/hospital/st-martins-hospital-bath/RVN2B",
+            "phoneNumber": "+44 1225 831500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-esss9hARQDJdloPF1onYudD8xFInEip1ek97rg_D_gfYg_xT3EmmlrmMdz49ituwL2QmayfMtAwpo_ThwTolu5qgAYCg6ujjxRjkww_N40RkTlr_YG4c6azHQSKhjRMRYIXs",
+            "cid": "3803846356106830322",
+            "fid": "0x487180e7eb7894ff:0x34c9fa1b73e961f2",
+            "placeId": "ChIJ_5R46-eAcUgR8mHpcxv6yTQ"
+        }
+    ],
+    "credits": 3
+}

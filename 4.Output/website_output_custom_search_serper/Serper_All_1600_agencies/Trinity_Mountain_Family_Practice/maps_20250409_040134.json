@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Trinity Mountain Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.1391396,-115.6947133,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Clinic - Trinity Mountain Medical: Mountain Home",
+            "address": "465 McKenna Dr, Mountain Home, ID 83647",
+            "latitude": 43.1391396,
+            "longitude": -115.69471329999999,
+            "rating": 4.2,
+            "ratingCount": 55,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-clinic--trinity-mountain-medical",
+            "phoneNumber": "(208) 587-9703",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPP_2jskvbi3ffO6oHTfJOV5Pm8MydQAT8s_QAy",
+            "cid": "7430410702130749602",
+            "fid": "0x54ac2c13a88c3d15:0x671e1f2a63c3a0a2",
+            "placeId": "ChIJFT2MqBMsrFQRoqDDYyofHmc"
+        }
+    ],
+    "credits": 3
+}

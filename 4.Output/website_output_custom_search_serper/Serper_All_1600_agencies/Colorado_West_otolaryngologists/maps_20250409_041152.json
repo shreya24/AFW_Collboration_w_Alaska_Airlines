@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Colorado West otolaryngologists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0923169,-108.5874112,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colorado West Otolaryngologists",
+            "address": "2515 Foresight Cir Suite 200, Grand Junction, CO 81505",
+            "latitude": 39.0923169,
+            "longitude": -108.58741119999999,
+            "rating": 4.4,
+            "ratingCount": 178,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic",
+                "Audiologist"
+            ],
+            "website": "https://www.cwoto.com/",
+            "phoneNumber": "(970) 245-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cwoto.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNluvnnf0JZySdOHbz-V16BvCqSE-UdsOe28eYx",
+            "cid": "10344841850665287923",
+            "fid": "0x87471dac65d7cf9f:0x8f9042da967fc0f3",
+            "placeId": "ChIJn8_XZawdR4cR88B_ltpCkI8"
+        }
+    ],
+    "credits": 3
+}

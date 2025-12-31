@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Helena Pediatric Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.59571,-112.02109,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Helena Pediatric Clinic",
+            "address": "1122 N Montana Ave, Helena, MT 59601",
+            "latitude": 46.59571,
+            "longitude": -112.02109,
+            "rating": 3.3,
+            "ratingCount": 54,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://helenapediatricclinic.com/",
+            "phoneNumber": "(406) 449-5563",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-2TIO7GVHKHG7eny5RxaZjc_dV36goruvpY2De8SNeIgfMc7tPPCYfoejReM-Z-t7sh8MBG77zFEp1xFus4AOR0D1J4XVR_9FcqNStlnY2uS3CNO2ooM955Ro0LiZrw7vnWFu5",
+            "cid": "11310422129623350788",
+            "fid": "0x534355016b8491c5:0x9cf6b1006feabe04",
+            "placeId": "ChIJxZGEawFVQ1MRBL7qbwCx9pw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital of Wisconsin",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.0423976,-88.0240616,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Milwaukee Campus",
+            "address": "8915 W Connell Ct, Milwaukee, WI 53226",
+            "latitude": 43.0423976,
+            "longitude": -88.0240616,
+            "rating": 3.6,
+            "ratingCount": 436,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.childrenswi.org/Location-Directory/Locations/Hospitals/Milwaukee-Campus",
+            "phoneNumber": "(414) 266-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNl9XHhua-C-REPzhm20gEjoME6_Ku3c2Ccx660",
+            "cid": "3995022598055414396",
+            "fid": "0x880505263692fb89:0x37712be2eac04a7c",
+            "placeId": "ChIJifuSNiYFBYgRfErA6uIrcTc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Arc of Anchorage",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2009685,-149.8167157,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Arc of Anchorage",
+            "address": "2211 Arca Dr, Anchorage, AK 99508",
+            "latitude": 61.200968499999995,
+            "longitude": -149.8167157,
+            "rating": 3.7,
+            "ratingCount": 28,
+            "type": "Disability services and support organization",
+            "types": [
+                "Disability services and support organization",
+                "Addiction treatment center",
+                "Adult day care center",
+                "Donations center",
+                "Non-profit organization",
+                "Special education school"
+            ],
+            "website": "https://thearcofanchorage.org/",
+            "phoneNumber": "(907) 277-6677",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ilZnO1iEw_bMYulzvwSucJlrqraZTh_yranrd6yWbVDG6zQhMeI_jLNh0pAaS0zav85ohIHcjFk8hxUCbWIN3-wlwyCOXVpMgw2X3xfdPqUdKot-7nGjNbM65ERvEonw-1603Mw",
+            "cid": "5274436241681135922",
+            "fid": "0x56c89656ee2d2b8f:0x49328fd10fd9b932",
+            "placeId": "ChIJjyst7laWyFYRMrnZD9GPMkk"
+        }
+    ],
+    "credits": 3
+}

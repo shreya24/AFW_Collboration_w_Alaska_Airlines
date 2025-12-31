@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cook Chidlren's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.737,-97.340842,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cook Children's Medical Center",
+            "address": "801 7th Ave, Fort Worth, TX 76104",
+            "latitude": 32.737,
+            "longitude": -97.340842,
+            "rating": 3.4,
+            "ratingCount": 1121,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.cookchildrens.org/medical-center/fort-worth/?utm_source=google&utm_medium=OrganicSearch&utm_campaign=yext&y_source=1_MTEzNzc5ODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(682) 885-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN22Mcxd1bBCvAcs_sqzpvw_v_rD5N8zmOVHqBM",
+            "cid": "10985657874343977757",
+            "fid": "0x864e717a68e72e21:0x9874e5a1d83ee31d",
+            "placeId": "ChIJIS7naHpxToYRHeM-2KHldJg"
+        }
+    ],
+    "credits": 3
+}

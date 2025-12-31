@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Wallowa Valley Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4330583,-117.2864633,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wallowa Valley Senior Living",
+            "address": "605 Medical Pkwy, Enterprise, OR 97828",
+            "latitude": 45.4330583,
+            "longitude": -117.2864633,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Retirement community",
+                "Senior citizen center"
+            ],
+            "website": "http://www.wvseniorliving.com/",
+            "phoneNumber": "(541) 426-5311",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M4PeEK8dQ5SfCd1PEtmgMw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=22.690296&pitch=0&thumbfov=100",
+            "cid": "18137444584961655232",
+            "fid": "0x54a3f985e3a25a17:0xfbb525c0f3f8c1c0",
+            "placeId": "ChIJF1qi44X5o1QRwMH488Altfs"
+        }
+    ],
+    "credits": 3
+}

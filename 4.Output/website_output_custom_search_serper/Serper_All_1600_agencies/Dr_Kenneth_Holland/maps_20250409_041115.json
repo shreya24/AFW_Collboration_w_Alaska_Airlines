@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr Kenneth Holland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6395047,-112.0472949,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Kenneth E. Holland Jr, DDS",
+            "address": "1601 E Bell Rd, Phoenix, AZ 85022",
+            "latitude": 33.639504699999996,
+            "longitude": -112.0472949,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "phoneNumber": "(602) 992-9012",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imv-eoMADM3GOIcLoq1RXA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=158.80583&pitch=0&thumbfov=100",
+            "cid": "6165243145405572322",
+            "fid": "0x872b71e01ae3878f:0x558f57f9d3cfa4e2",
+            "placeId": "ChIJj4fjGuBxK4cR4qTP0_lXj1U"
+        }
+    ],
+    "credits": 3
+}

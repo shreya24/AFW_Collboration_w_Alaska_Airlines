@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sitka Counseling and Prevention Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.0497686,-135.3193328,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sitka Counseling and Prevention Services",
+            "address": "113 Metlakatla St, Sitka, AK 99835",
+            "latitude": 57.0497686,
+            "longitude": -135.31933279999998,
+            "rating": 4.4,
+            "ratingCount": 5,
+            "type": "Counselor",
+            "types": [
+                "Counselor"
+            ],
+            "website": "https://www.sitkacounseling.org/",
+            "phoneNumber": "(907) 747-3636",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fBJUeKyV9dkBzzCz6rnLlQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=10.989301&pitch=0&thumbfov=100",
+            "cid": "4596350649809069733",
+            "fid": "0x540467bf8d949eef:0x3fc98490410166a5",
+            "placeId": "ChIJ756Ujb9nBFQRpWYBQZCEyT8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Legacy Good Samaritan Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.530962,-122.6965623,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Legacy Good Samaritan Medical Center",
+            "address": "1015 NW 22nd Ave, Portland, OR 97210",
+            "latitude": 45.530961999999995,
+            "longitude": -122.6965623,
+            "rating": 3.5,
+            "ratingCount": 429,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital",
+                "Pharmacy",
+                "Surgical center",
+                "Transplant surgeon"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/hospitals/legacy-good-samaritan-medical-center",
+            "phoneNumber": "(503) 413-7711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNY97aIrKnegnjGvaP9DyEcKDKa7MaAZ5IMXTqf",
+            "cid": "16713102007908184663",
+            "fid": "0x549509f00b52c657:0xe7f0ddb9f43c3257",
+            "placeId": "ChIJV8ZSC_AJlVQRVzI89Lnd8Oc"
+        }
+    ],
+    "credits": 3
+}

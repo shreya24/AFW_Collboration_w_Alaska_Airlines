@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Evan's harmony house",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.2757418,-85.8372334,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Harmony House Mission",
+            "address": "1817 S A St, Elwood, IN 46036",
+            "latitude": 40.2757418,
+            "longitude": -85.8372334,
+            "rating": 4.9,
+            "ratingCount": 45,
+            "type": "Religious organization",
+            "types": [
+                "Religious organization"
+            ],
+            "website": "http://harmonyhousemission.org/",
+            "phoneNumber": "(765) 623-5992",
+            "openingHours": {
+                "Tuesday": "2\u20136\u202fPM",
+                "Wednesday": "2\u20136\u202fPM",
+                "Thursday": "2\u20136\u202fPM",
+                "Friday": "2\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "2\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzbP3V55yG4JfG_pzYCy4K37QnTCBqJnhfFTVi",
+            "cid": "5350559754371232510",
+            "fid": "0x8814e970520d2cb1:0x4a4101bf84cc72fe",
+            "placeId": "ChIJsSwNUnDpFIgR_nLMhL8BQUo"
+        }
+    ],
+    "credits": 3
+}

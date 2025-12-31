@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "University of Utah - OBGYN",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7710701,-111.8363932,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Health Care Ob/Gyn",
+            "address": "50 Medical Dr N, Salt Lake City, UT 84132",
+            "latitude": 40.7716244,
+            "longitude": -111.8370647,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Fertility clinic",
+                "Surgical center"
+            ],
+            "website": "https://healthcare.utah.edu/womens-health",
+            "phoneNumber": "(801) 585-0640",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VcvNCteyb7hcKC7LoLf1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.19437&pitch=0&thumbfov=100",
+            "cid": "16509704419259396863",
+            "fid": "0x87525f9083f81b79:0xe51e40b278a732ff",
+            "placeId": "ChIJeRv4g5BfUocR_zKneLJAHuU"
+        },
+        {
+            "position": 2,
+            "title": "Department of Obstetrics and Gynecology",
+            "address": "30 N 1900 E, Salt Lake City, UT 84132",
+            "latitude": 40.7705157,
+            "longitude": -111.8357217,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_wxazsh1-2iFpX02GvotzQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=108.4029&pitch=0&thumbfov=100",
+            "cid": "15305200335004166747",
+            "fid": "0x87525f965c001fb3:0xd466fe9d401cea5b",
+            "placeId": "ChIJsx8AXJZfUocRW-ocQJ3-ZtQ"
+        }
+    ],
+    "credits": 3
+}

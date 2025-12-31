@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "La Plata County Department of Human Serv",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2738805,-107.8920931,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "La Plata County Department of Human Services",
+            "address": "10 Burnett Ct, Durango, CO 81301",
+            "latitude": 37.2738805,
+            "longitude": -107.8920931,
+            "rating": 4,
+            "ratingCount": 133,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.co.laplata.co.us/services/health_and_human_services/child_and_family_services/index.php",
+            "phoneNumber": "(970) 382-6150",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2MG3_SkXcRkFEm_bac1fBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=10.230686&pitch=0&thumbfov=100",
+            "cid": "8676337380265326639",
+            "fid": "0x873c02a1052404cd:0x78688ae0ce28782f",
+            "placeId": "ChIJzQQkBaECPIcRL3gozuCKaHg"
+        }
+    ],
+    "credits": 3
+}

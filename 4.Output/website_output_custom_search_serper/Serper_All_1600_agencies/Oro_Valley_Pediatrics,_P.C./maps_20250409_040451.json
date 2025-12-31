@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Oro Valley Pediatrics, P.C.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.3954575,-110.959646,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MHC Healthcare - Oro Valley Pediatrics",
+            "address": "1856 E Innovation Park Dr, Oro Valley, AZ 85755",
+            "latitude": 32.432637,
+            "longitude": -110.944328,
+            "rating": 3.7,
+            "ratingCount": 55,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Community health centre"
+            ],
+            "website": "http://www.mhchealthcare.org/",
+            "phoneNumber": "(520) 825-7111",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNB3RpgRGxGGPuJscB4PN6ymKCbUkxK_hooTUf0",
+            "cid": "10791673585132348199",
+            "fid": "0x86d60dd6b3e12293:0x95c3b9f2edc7a327",
+            "placeId": "ChIJkyLhs9YN1oYRJ6PH7fK5w5U"
+        },
+        {
+            "position": 2,
+            "title": "Oro Valley Pediatric Dentistry",
+            "address": "8351 N Oracle Rd, Tucson, AZ 85704",
+            "latitude": 32.358278,
+            "longitude": -110.974964,
+            "rating": 4.7,
+            "ratingCount": 295,
+            "type": "Pediatric dentist",
+            "types": [
+                "Pediatric dentist"
+            ],
+            "website": "https://www.orovalleypediatricdentistry.com/",
+            "phoneNumber": "(520) 297-5900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Ck3WJUodvnccQlH6X9AjL8jMdSrfN1AOsf06RwN146HOjMdwZV069X_fkfNapmSt7Or8Ny1CvwNt8_cwD6k7SHFLSsh8hR8s6jklFjp3jW3WzCKFtj7RUwBfZ4ibhVehatyF6",
+            "cid": "16267260733291373727",
+            "fid": "0x86d60cb6048d7b43:0xe1c0eb73047e249f",
+            "placeId": "ChIJQ3uNBLYM1oYRnyR-BHPrwOE"
+        }
+    ],
+    "credits": 3
+}

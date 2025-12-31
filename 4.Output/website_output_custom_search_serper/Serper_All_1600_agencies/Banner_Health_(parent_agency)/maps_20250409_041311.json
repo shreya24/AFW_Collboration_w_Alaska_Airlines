@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Banner Health (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6092012,-112.1785839,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Maternity Check-in",
+            "address": "Helipad, 5555 W Thunderbird Rd #2, Glendale, AZ 85306",
+            "latitude": 33.6092012,
+            "longitude": -112.17858389999999,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Maternity hospital",
+            "types": [
+                "Maternity hospital"
+            ],
+            "website": "https://www.bannerhealth.com/services/maternity",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlYSWWbulVC8SkcsBIER7g5RSns3FANcESGIbK",
+            "cid": "6893331534182027843",
+            "fid": "0x872b69017bbfdcc1:0x5faa088205eb1243",
+            "placeId": "ChIJwdy_ewFpK4cRQxLrBYIIql8"
+        }
+    ],
+    "credits": 3
+}

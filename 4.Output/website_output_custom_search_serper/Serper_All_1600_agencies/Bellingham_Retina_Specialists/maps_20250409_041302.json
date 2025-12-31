@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Bellingham Retina Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7922114,-122.489304,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bellingham Retina Specialists",
+            "address": "200 Westerly Rd suite 101, Bellingham, WA 98226",
+            "latitude": 48.7922114,
+            "longitude": -122.48930399999999,
+            "rating": 4.1,
+            "ratingCount": 21,
+            "type": "Ophthalmology clinic",
+            "types": [
+                "Ophthalmology clinic",
+                "Medical office",
+                "Surgeon"
+            ],
+            "website": "http://bellinghamretina.com/about-us/",
+            "phoneNumber": "(360) 656-5839",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8nMk6nlc1ohLPdgZDW3Jhqmlybh0_Wbvm1uhCImX7SsqjIgpwNtJ3QDDKb77PDuk3a5FNp787uablee-rpQLGC5rxY9SZkoA77wS5w7DGi0Wl8xM9fBG_GmIFxRQh2A7gFqJEhqw",
+            "cid": "17240742080008006858",
+            "fid": "0x5485a37ecfc4c84f:0xef436b938f01acca",
+            "placeId": "ChIJT8jEz36jhVQRyqwBj5NrQ-8"
+        }
+    ],
+    "credits": 3
+}

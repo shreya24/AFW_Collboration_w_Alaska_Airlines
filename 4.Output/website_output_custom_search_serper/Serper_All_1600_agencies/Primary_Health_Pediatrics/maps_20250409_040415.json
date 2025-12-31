@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Primary Health Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6900282,-114.0888258,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Primary Care Pediatrics",
+            "address": "2245 N 400 E #202, North Logan, UT 84341",
+            "latitude": 41.7724705,
+            "longitude": -111.82372409999999,
+            "rating": 4.8,
+            "ratingCount": 180,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.primarycarekids.com/",
+            "phoneNumber": "(435) 753-7337",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9x13hStqW55bIhV6qidfZ5UTKmEciKGHIaIgV",
+            "cid": "17506835787302755090",
+            "fid": "0x87547da58fbd7a0f:0xf2f4c664b346db12",
+            "placeId": "ChIJD3q9j6V9VIcREttGs2TG9PI"
+        },
+        {
+            "position": 2,
+            "title": "Primary Health Meridian Pediatrics & Pediatric Urgent Care",
+            "address": "3280 E Lanark St, Meridian, ID 83642",
+            "latitude": 43.6075859,
+            "longitude": -116.35392759999999,
+            "rating": 3.6,
+            "ratingCount": 139,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.primaryhealth.com/pediatrics",
+            "phoneNumber": "(208) 377-4400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-I7avc2X_TqZ0gBeAhim8ZwC-PbYyJYQybKkyn8NMgP-0kBVNniTyjQc7TxSN7-wJWpR5sScWEVV_QfoPbrtBsZ1D_0tS8QcDtTnkxm5yp-HfYOltmcaSG8kZTLutffHQmv_yz",
+            "cid": "267709448425514995",
+            "fid": "0x54ae561926dbbf75:0x3b71853306b27f3",
+            "placeId": "ChIJdb_bJhlWrlQR8ydrMFMYtwM"
+        }
+    ],
+    "credits": 3
+}

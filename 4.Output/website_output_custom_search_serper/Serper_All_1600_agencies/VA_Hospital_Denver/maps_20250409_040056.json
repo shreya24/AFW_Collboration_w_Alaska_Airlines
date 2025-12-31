@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "VA  Hospital  Denver",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.719238,-104.884387,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Regional VA Medical Center",
+            "address": "1700 N Wheeling St, Aurora, CO 80045",
+            "latitude": 39.742441899999996,
+            "longitude": -104.82993429999999,
+            "rating": 3.3,
+            "ratingCount": 666,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.denver.va.gov/",
+            "phoneNumber": "(303) 399-8020",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCNEuj0jtmbcaOgGICIvHZKCgo9sy6CdUCnQ4Q",
+            "cid": "2236053604677622973",
+            "fid": "0x876c7c1dac400001:0x1f080ee8058a9cbd",
+            "placeId": "ChIJAQBArB18bIcRvZyKBegOCB8"
+        },
+        {
+            "position": 2,
+            "title": "Veteran Affairs Medical Center",
+            "address": "13701 E Mississippi Ave, Aurora, CO 80012",
+            "latitude": 39.6968605,
+            "longitude": -104.8330227,
+            "rating": 2.7,
+            "ratingCount": 23,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "http://www.va.gov/health/",
+            "phoneNumber": "(303) 398-6340",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODjwOFoxcAHg4hiL66LxPo_ZQjo3FHikpF51IH",
+            "cid": "14730342674461584326",
+            "fid": "0x876c62b8198af147:0xcc6cb09e230f6bc6",
+            "placeId": "ChIJR_GKGbhibIcRxmsPI56wbMw"
+        },
+        {
+            "position": 3,
+            "title": "VA Rocky Mountain Network",
+            "address": "4100 E Mississippi Ave, Denver, CO 80246",
+            "latitude": 39.696034,
+            "longitude": -104.93883969999999,
+            "rating": 2.8,
+            "ratingCount": 10,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department",
+                "Veterans hospital"
+            ],
+            "website": "http://www.visn19.va.gov/",
+            "phoneNumber": "(303) 756-9279",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMX2v6vlPKP4nkZYSBMdJX5iK6d1tNJf2rIWXXo",
+            "cid": "2243531513415638695",
+            "fid": "0x876c7e787c2d3d7f:0x1f22a00653889ea7",
+            "placeId": "ChIJfz0tfHh-bIcRp56IUwagIh8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "James Privitera",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.098643,-117.8905479,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Privitera's Holistic Clinic Ministry",
+            "address": "1051 N Citrus Ave Ste A Ste A, Covina, CA 91722",
+            "latitude": 34.098642999999996,
+            "longitude": -117.8905479,
+            "rating": 4.8,
+            "ratingCount": 60,
+            "type": "Holistic medicine practitioner",
+            "types": [
+                "Holistic medicine practitioner",
+                "Alternative medicine practitioner",
+                "Internist"
+            ],
+            "website": "http://www.nutriscreen.com/",
+            "phoneNumber": "(626) 852-7843",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "10:30\u202fAM\u20136\u202fPM",
+                "Thursday": "11:30\u202fAM\u20136\u202fPM",
+                "Friday": "10:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.nutriscreen.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2n8z7V9VYIjoiTzG78p2njsP-eWSbl9Lj2AJ-",
+            "cid": "16135869721504647595",
+            "fid": "0x80c32843b9c70ba3:0xdfee20052c4409ab",
+            "placeId": "ChIJowvHuUMow4ARqwlELAUg7t8"
+        }
+    ],
+    "credits": 3
+}

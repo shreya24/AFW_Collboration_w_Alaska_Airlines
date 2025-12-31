@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Oregon Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0672457,-123.0761901,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Cancer Foundation",
+            "address": "2296 Oakmont Way, Eugene, OR 97401",
+            "latitude": 44.0672457,
+            "longitude": -123.07619009999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.oregoncancerfoundation.org/",
+            "phoneNumber": "(541) 632-3654",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vDwgRgJLNFPg77KWGpD6NQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=88.2997&pitch=0&thumbfov=100",
+            "cid": "2061881241091935078",
+            "fid": "0x54c0e1fe5c04ee0d:0x1c9d461080538b66",
+            "placeId": "ChIJDe4EXP7hwFQRZotTgBBGnRw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "North Central Baptist Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.6200853,-98.4912421,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Central Baptist Hospital",
+            "address": "520 Madison Oak Dr, San Antonio, TX 78258",
+            "latitude": 29.6200853,
+            "longitude": -98.4912421,
+            "rating": 3.6,
+            "ratingCount": 895,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Children's hospital",
+                "Emergency care service"
+            ],
+            "website": "https://www.baptisthealthsystem.com/locations/detail/north-central-baptist-hospital",
+            "phoneNumber": "(210) 297-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYKWwbNUJtnJImgZq3cLUHowJra_TgsIJLge-A",
+            "cid": "9906410289780053303",
+            "fid": "0x865c638c32970057:0x897aa3ac119d5537",
+            "placeId": "ChIJVwCXMoxjXIYRN1WdEayjeok"
+        }
+    ],
+    "credits": 3
+}

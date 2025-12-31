@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Northern Colorado Surgical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5220919,-105.036753,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Surgical Clinic - Northern Colorado",
+            "address": "2121, 250 E Harmony Rd Building A-1, Suite, Fort Collins, CO 80528",
+            "latitude": 40.5220919,
+            "longitude": -105.03675299999999,
+            "rating": 3.7,
+            "ratingCount": 17,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-surgical-clinic-northern-colorado/",
+            "phoneNumber": "(970) 482-6456",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZcy5JoprTyrh6Q3PwESegC0fBUYY0MCZjSk3C",
+            "cid": "14843581608093300450",
+            "fid": "0x87694cb213c423ef:0xcdfefed3f0ec36e2",
+            "placeId": "ChIJ7yPEE7JMaYcR4jbs8NP-_s0"
+        }
+    ],
+    "credits": 3
+}

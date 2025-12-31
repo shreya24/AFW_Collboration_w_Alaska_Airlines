@@ -1,0 +1,145 @@
+{
+    "searchParameters": {
+        "q": "North Shore Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.6519074,-79.3664567,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Shore LIJ Cancer Institute 450 lakeville rd",
+            "address": "1111 Marcus Ave, New Hyde Park, NY 11042",
+            "latitude": 40.755477899999995,
+            "longitude": -73.7013399,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K6G_pY0QbmgAR34z6wR5jA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=257.7379&pitch=0&thumbfov=100",
+            "cid": "10428822264833731845",
+            "fid": "0x89c289d531d0214b:0x90ba9e9879196d05",
+            "placeId": "ChIJSyHQMdWJwokRBW0ZeZieupA"
+        },
+        {
+            "position": 2,
+            "title": "Massachusetts General Cancer Center - Danvers",
+            "address": "102-104 Endicott St, Danvers, MA 01923",
+            "latitude": 42.5483368,
+            "longitude": -70.9329625,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.massgeneral.org/cancer-center/about/community-locations/north-shore",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JX8RnDz0IKoNSYgKJHLsOg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=196.05844&pitch=0&thumbfov=100",
+            "cid": "3988390660359877686",
+            "fid": "0x89e313c2c57ec1d5:0x37599c2c983c7436",
+            "placeId": "ChIJ1cF-xcIT44kRNnQ8mCycWTc"
+        },
+        {
+            "position": 3,
+            "title": "Northwell Health Cancer Institute",
+            "address": "1111 Marcus Ave, New Hyde Park, NY 11042",
+            "latitude": 40.757126199999995,
+            "longitude": -73.6992653,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.northwell.edu/cancer-institute",
+            "phoneNumber": "(833) 223-4732",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAf6CvxkrNBG-bxGaNsjFo0hLb5dYYjl-hS28M",
+            "cid": "9448896853973762426",
+            "fid": "0x89c2895647e82653:0x832139a05469817a",
+            "placeId": "ChIJUyboR1aJwokReoFpVKA5IYM"
+        },
+        {
+            "position": 4,
+            "title": "City of Hope Cancer Care North Shore",
+            "address": "9300 Waukegan Rd, Morton Grove, IL 60053",
+            "latitude": 42.0503643,
+            "longitude": -87.7999509,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cityofhope.org/locations/chicago/north-shore?invsrc=local_search_x_facility_cap_north_shore&utm_source=google",
+            "phoneNumber": "(847) 675-3900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://nsoncology.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNkZdDbVvuYWRlHoW9l_tM4MfJclJaFlxJBFaBm",
+            "cid": "5421812370805613617",
+            "fid": "0x880fcf7e2dce64c1:0x4b3e25a010afe431",
+            "placeId": "ChIJwWTOLX7PD4gRMeSvEKAlPks"
+        },
+        {
+            "position": 5,
+            "title": "North Shore Hematology & Oncology",
+            "address": "285 Sills Rd d, Patchogue, NY 11772",
+            "latitude": 40.780421499999996,
+            "longitude": -72.9735377,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center",
+                "Surgical center"
+            ],
+            "website": "http://www.nshoa.com/",
+            "phoneNumber": "(631) 751-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ir0h68HPS_iiKsHN_z8tNw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=168.92897&pitch=0&thumbfov=100",
+            "cid": "7823565342651828050",
+            "fid": "0x89e84f3ea3baae3d:0x6c92e33a65d1c752",
+            "placeId": "ChIJPa66oz5P6IkRUsfRZTrjkmw"
+        },
+        {
+            "position": 6,
+            "title": "NSMC Cancer Center",
+            "address": "17 Centennial Dr #2, Peabody, MA 01960",
+            "latitude": 42.523739899999995,
+            "longitude": -70.953356,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "phoneNumber": "(978) 977-3434",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNmbE-HnBys8YfVjP4kBMz3n5n4zFq1OJDWVvBZ",
+            "cid": "9152626389369953654",
+            "fid": "0x89e313000c840073:0x7f04a9355c431d76",
+            "placeId": "ChIJcwCEDAAT44kRdh1DXDWpBH8"
+        }
+    ],
+    "credits": 3
+}

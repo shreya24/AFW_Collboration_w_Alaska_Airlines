@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "VA Hospital Los Angeles",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0526873,-118.4529775,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "West Los Angeles VA Medical Center",
+            "address": "11301 Wilshire Blvd, Los Angeles, CA 90073",
+            "latitude": 34.052687299999995,
+            "longitude": -118.45297749999999,
+            "rating": 3.8,
+            "ratingCount": 462,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "http://www.losangeles.va.gov/",
+            "phoneNumber": "(310) 478-3711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhNrDS2TdpPJ-zb6kOOV6teOKp3nDB_eIxZ4GS",
+            "cid": "14850677252946670536",
+            "fid": "0x80c2bb63687b7695:0xce1834477fdc33c8",
+            "placeId": "ChIJlXZ7aGO7woARyDPcf0c0GM4"
+        }
+    ],
+    "credits": 3
+}

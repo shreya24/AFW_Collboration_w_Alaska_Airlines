@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "So. Humboldt Comm. Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1016001,-123.7925979,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jerold Phelps Community Hospital - Southern Humboldt Community Healthcare District",
+            "address": "733 Cedar St, Garberville, CA 95542",
+            "latitude": 40.1016001,
+            "longitude": -123.79259789999999,
+            "rating": 3.4,
+            "ratingCount": 22,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital",
+                "Medical clinic",
+                "Nursing home"
+            ],
+            "website": "http://www.sohumhealth.org/",
+            "phoneNumber": "(707) 923-3921",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN54My2SEl27JUBybI90WizI8JJQgjXDiVdoZDp",
+            "cid": "1257645365954406263",
+            "fid": "0x54d4ecabf6b7094d:0x11740dcc0b20e777",
+            "placeId": "ChIJTQm39qvs1FQRd-cgC8wNdBE"
+        }
+    ],
+    "credits": 3
+}

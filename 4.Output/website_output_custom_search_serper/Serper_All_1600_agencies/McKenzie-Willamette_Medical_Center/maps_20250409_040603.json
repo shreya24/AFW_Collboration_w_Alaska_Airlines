@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "McKenzie-Willamette Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0533434,-123.0030054,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "McKenzie Medical Center - Springfield",
+            "address": "1460 G St, Springfield, OR 97477",
+            "latitude": 44.053343399999996,
+            "longitude": -123.00300539999999,
+            "rating": 3.1,
+            "ratingCount": 420,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.mckweb.com/",
+            "phoneNumber": "(541) 726-4400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrzTMsIuHmCjDfzVYGwcW2NIqGtteM0pgH0OVI",
+            "cid": "16077342775418877766",
+            "fid": "0x54c0e0533c51204b:0xdf1e3212a508f746",
+            "placeId": "ChIJSyBRPFPgwFQRRvcIpRIyHt8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kanwar Mahal MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8504142,-119.7834269,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kanwar T. Mahal MD",
+            "address": "7710 N Fresno St #102, Fresno, CA 93720",
+            "latitude": 36.850414199999996,
+            "longitude": -119.7834269,
+            "rating": 3.7,
+            "ratingCount": 44,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "http://www.kanwartmahalmd.com/",
+            "phoneNumber": "(559) 437-9100",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CEi6J-KjlGoSh46RrWtABg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=327.65582&pitch=0&thumbfov=100",
+            "cid": "10480981155705195129",
+            "fid": "0x809442a6ac0fc36d:0x9173ecd49b5f0a79",
+            "placeId": "ChIJbcMPrKZClIAReQpfm9Tsc5E"
+        }
+    ],
+    "credits": 3
+}

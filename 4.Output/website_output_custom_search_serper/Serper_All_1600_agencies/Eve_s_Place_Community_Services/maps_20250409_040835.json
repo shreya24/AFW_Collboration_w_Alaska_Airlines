@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Eve's Place Community Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5996259,-112.2835949,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eve's Place Community Services",
+            "address": "10448 W Coggins Dr, Sun City, AZ 85351",
+            "latitude": 33.5996259,
+            "longitude": -112.2835949,
+            "rating": 3.7,
+            "ratingCount": 26,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center"
+            ],
+            "website": "https://www.evesplace.org/",
+            "phoneNumber": "(623) 537-5380",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20138:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20138:30\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tnkinEVjEjJCjDC6rkOkGg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=152.46254&pitch=0&thumbfov=100",
+            "cid": "15445426999405333894",
+            "fid": "0x872b424b0f713bbd:0xd6592e05c7c84d86",
+            "placeId": "ChIJvTtxD0tCK4cRhk3IxwUuWdY"
+        }
+    ],
+    "credits": 3
+}

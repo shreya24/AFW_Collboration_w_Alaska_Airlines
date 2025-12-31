@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Department of Social Services/In-Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5783072,-92.1750713,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Missouri Department of Social Services",
+            "address": "Broadway State Office Building, 221 W High St, Jefferson City, MO 65101",
+            "latitude": 38.5783072,
+            "longitude": -92.1750713,
+            "rating": 2.3,
+            "ratingCount": 70,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "http://www.dss.mo.gov/",
+            "phoneNumber": "(855) 373-4636",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMxaA8xaXEISDDK_oaOOoaYvv_0jm0ckZomZJ87",
+            "cid": "6881508485075635074",
+            "fid": "0x87db5e4528c6f151:0x5f800781e3c50b82",
+            "placeId": "ChIJUfHGKEVe24cRggvF44EHgF8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Serenity Inn",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1371738,-97.7454172,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Serenity Inn",
+            "address": "2109 Broadway #247 St, Eureka, CA 95501",
+            "latitude": 40.788803099999996,
+            "longitude": -124.17932889999999,
+            "rating": 2.8,
+            "ratingCount": 37,
+            "type": "Halfway house",
+            "types": [
+                "Halfway house"
+            ],
+            "phoneNumber": "(707) 442-4815",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8lqi49UFyVzpIgcp38VZE-QLmwwbtxYxNxEoCOVlljiSg-5vCLTaEJqK5bZM7NYDkXotlfCWn5Ihiblikbkz38I7A0enfdLhDTdcxwPhD50i7dG2VBnR6lTn0UYXlwc5SxpP3hYA",
+            "cid": "16877062240572761905",
+            "fid": "0x54d3fffcb2ac9d65:0xea375eb0757f6731",
+            "placeId": "ChIJZZ2ssvz_01QRMWd_dbBeN-o"
+        },
+        {
+            "position": 2,
+            "title": "Serenity Inn Newport",
+            "address": "93 Pelham St, Newport, RI 02840",
+            "latitude": 41.485544399999995,
+            "longitude": -71.3115056,
+            "rating": 4.8,
+            "ratingCount": 256,
+            "type": "Bed & breakfast",
+            "types": [
+                "Bed & breakfast",
+                "Inn",
+                "Wedding venue"
+            ],
+            "website": "https://www.serenityinnnewport.com/?utm_campaign=serenity%20inn%20newport&utm_source=gmb&utm_medium=organic&utm_term=website",
+            "phoneNumber": "(401) 845-9400",
+            "description": "Quaint B&B offering genteel rooms and suites with fireplaces, plus full breakfast & afternoon tea.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHR6Xo3LZGgnzwYV4VeL4ggRuknyFWnuQbYWb5",
+            "cid": "569043327256763007",
+            "fid": "0x89e5af681c56c3a7:0x7e5a5e426f21a7f",
+            "placeId": "ChIJp8NWHGiv5YkRfxryJuSl5Qc"
+        }
+    ],
+    "credits": 3
+}

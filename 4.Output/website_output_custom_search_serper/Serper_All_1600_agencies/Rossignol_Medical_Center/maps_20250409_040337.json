@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Rossignol Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.880571,-101.2574106,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rossignol Medical Center",
+            "address": "24541 Pacific Park Dr #210, Aliso Viejo, CA 92656",
+            "latitude": 33.572399,
+            "longitude": -117.70170089999999,
+            "rating": 3.7,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Nurse practitioner"
+            ],
+            "website": "http://rossignolmedicalcenter.info/",
+            "phoneNumber": "(321) 259-7111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TQiLTwsYhdJaqgQnqLUCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=159.89015&pitch=0&thumbfov=100",
+            "cid": "6043462848917020584",
+            "fid": "0x80dcef25302a6ff1:0x53deb17102f81fa8",
+            "placeId": "ChIJ8W8qMCXv3IARqB_4AnGx3lM"
+        },
+        {
+            "position": 2,
+            "title": "Rossignol Medical Center",
+            "address": "2340 Dairy Rd #104, Melbourne, FL 32904",
+            "latitude": 28.0738189,
+            "longitude": -80.6386842,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://rossignolmedicalcenter.com/",
+            "phoneNumber": "(321) 259-7111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2TsMwbIIMlMjKt1DQRFNgWvGQiJUg1r8fM4ps",
+            "cid": "13506904899110377611",
+            "fid": "0x88de0f1cd96166bd:0xbb722a716e75188b",
+            "placeId": "ChIJvWZh2RwP3ogRixh1bnEqcrs"
+        },
+        {
+            "position": 3,
+            "title": "Rossignol Medical Center",
+            "address": "4463 Stoneridge Dr Suite B, Pleasanton, CA 94588",
+            "latitude": 37.687323,
+            "longitude": -121.876137,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://rossignolmedicalcenter.com/",
+            "phoneNumber": "(321) 259-7111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AVftBgEeZ8wkdEsczztQaA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=85.73034&pitch=0&thumbfov=100",
+            "cid": "3975672996130456535",
+            "fid": "0x808fe915a777e567:0x372c6d86a57803d7",
+            "placeId": "ChIJZ-V3pxXpj4AR1wN4pYZtLDc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Anchorage Radiation Therapy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2025274,-149.8575562,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anchorage Radiation Therapy Center",
+            "address": "2841 DeBarr Rd #100, Anchorage, AK 99508",
+            "latitude": 61.2103586,
+            "longitude": -149.829087,
+            "rating": 4.3,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.alaskaradiationtherapy.com/?utm_medium=Click&utm_source=GoogleMyBusiness",
+            "phoneNumber": "(907) 276-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXRIPkCcr98zpIjHARemYbO85fVv3PhSjED2T7",
+            "cid": "1211493995090604454",
+            "fid": "0x56c89645aa1279bf:0x10d0175ea8e4f1a6",
+            "placeId": "ChIJv3kSqkWWyFYRpvHkqF4X0BA"
+        },
+        {
+            "position": 2,
+            "title": "Anchorage Radiation Oncology Center",
+            "address": "188 W Northern Lights Blvd #100, Anchorage, AK 99503",
+            "latitude": 61.1946963,
+            "longitude": -149.8860255,
+            "rating": 5,
+            "ratingCount": 53,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.anchorageradonc.com/",
+            "phoneNumber": "(907) 562-2002",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJU0UZs_kOlOmmw80eD1x7odmtBCCtGA-ZSMZ0",
+            "cid": "8891348787177640857",
+            "fid": "0x56c896451d57c9db:0x7b646a9d11d2d399",
+            "placeId": "ChIJ28lXHUWWyFYRmdPSEZ1qZHs"
+        }
+    ],
+    "credits": 3
+}

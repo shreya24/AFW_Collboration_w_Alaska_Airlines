@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Capital Neurosurgery Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9335514,-123.0337679,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Capital Neurosurgery Specialists",
+            "address": "875 Oak St SE # 5060, Salem, OR 97301",
+            "latitude": 44.9335514,
+            "longitude": -123.0337679,
+            "rating": 4.7,
+            "ratingCount": 76,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.capitalneurosurgery.com/",
+            "phoneNumber": "(503) 399-1386",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5ALX3Lme7Xe-eC4O9YWaIB7FyvwWvvH0bOsp7",
+            "cid": "11276040890119563894",
+            "fid": "0x54bfff5d5c9d96cb:0x9c7c8b72505b2a76",
+            "placeId": "ChIJy5adXF3_v1QRdipbUHKLfJw"
+        }
+    ],
+    "credits": 3
+}

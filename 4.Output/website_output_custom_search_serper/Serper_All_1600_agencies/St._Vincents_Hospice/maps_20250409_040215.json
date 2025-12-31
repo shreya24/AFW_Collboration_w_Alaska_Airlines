@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "St. Vincents Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9772748,-61.306973,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Vincent's Hospice",
+            "address": "Midton Rd, Howwood, Johnstone PA9 1AF, United Kingdom",
+            "latitude": 55.8152808,
+            "longitude": -4.5408734,
+            "rating": 4.3,
+            "ratingCount": 7,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://www.svh.co.uk/",
+            "phoneNumber": "+44 1505 705635",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K4YDugT3mkHjI89Vci9aHw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=329.25223&pitch=0&thumbfov=100",
+            "cid": "14488490212434449572",
+            "fid": "0x48884b26670435ed:0xc9117515bbe114a4",
+            "placeId": "ChIJ7TUEZyZLiEgRpBThuxV1Eck"
+        },
+        {
+            "position": 2,
+            "title": "St. Vincent Hospice Services, Inc.",
+            "address": "420 S Rosemead Blvd, Pasadena, CA 91107",
+            "latitude": 34.1392689,
+            "longitude": -118.0730725,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://stvincenthospiceservicesinc.shop/",
+            "phoneNumber": "(626) 796-1922",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9CmiRPjmiP39j7RoaVHUuQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=86.57987&pitch=0&thumbfov=100",
+            "cid": "7608483401439342799",
+            "fid": "0x80c2db70ef1112a7:0x6996c357963f70cf",
+            "placeId": "ChIJpxIR73DbwoARz3A_llfDlmk"
+        }
+    ],
+    "credits": 3
+}

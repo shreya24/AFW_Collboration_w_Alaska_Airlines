@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Universal City Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1572682,-118.3708485,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Universal City Medical Group",
+            "address": "4789 Vineland Ave, Toluca Lake, CA 91602",
+            "latitude": 34.1572682,
+            "longitude": -118.3708485,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://ucmg.net/",
+            "phoneNumber": "(323) 436-0303",
+            "menu": "http://places.singleplatform.com/universal-city-medical-wellness-group/menu?ref=google",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_zGD5PABYCsXKfDgc87ceVWXuiTYOhg8cqpIiHFIlw-xWRVGH7xpIIUwhPPQQAD3wVmGTVrMW03xH7h89Z1ngi2JG9Sa6N6n6OV4FVKF0XzZ-UypHUxtxFdSyPBS4qqOqq4R1Z",
+            "cid": "13333158287784036910",
+            "fid": "0x80c2be4f8e86892f:0xb908e4d2156c4a2e",
+            "placeId": "ChIJL4mGjk--woARLkpsFdLkCLk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,388 @@
+{
+    "searchParameters": {
+        "q": "Center for Natural Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@17.5851845,-50.8621397,2z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nature Works Best Cancer Clinic",
+            "address": "1250 E Baseline Rd UNIT 205, Tempe, AZ 85283",
+            "latitude": 33.378583299999995,
+            "longitude": -111.91817089999999,
+            "rating": 4.6,
+            "ratingCount": 84,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor"
+            ],
+            "website": "https://natureworksbest.com/",
+            "phoneNumber": "(480) 839-2800",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20133:30\u202fPM",
+                "Friday": "9\u202fAM\u20131:30\u202fPM",
+                "Saturday": "9\u202fAM\u20133:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLM3jrEwIg54rNcPln-aYoJ9W_mTJz9dMyIneR",
+            "cid": "8841555750741510956",
+            "fid": "0x872b06250d039861:0x7ab3841c58c28b2c",
+            "placeId": "ChIJYZgDDSUGK4cRLIvCWByEs3o"
+        },
+        {
+            "position": 2,
+            "title": "The Mulberry Centre",
+            "address": "West Middlesex University Hospital, Twickenham Rd, Isleworth TW7 6AF, United Kingdom",
+            "latitude": 51.472299,
+            "longitude": -0.32339599999999996,
+            "rating": 4.7,
+            "ratingCount": 44,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "website": "http://www.themulberrycentre.co.uk/",
+            "phoneNumber": "+44 20 8321 6300",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "10\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPP2ENPFJaQvsggrcSXNRfNFc0UYM-pw746OAIp",
+            "cid": "1406687903948351597",
+            "fid": "0x48760c54abb7554b:0x13858f3218ae286d",
+            "placeId": "ChIJS1W3q1QMdkgRbSiuGDKPhRM"
+        },
+        {
+            "position": 3,
+            "title": "The Netherlands Cancer Institute (NKI)",
+            "address": "Plesmanlaan 121, 1066 CX Amsterdam, Netherlands",
+            "latitude": 52.349462599999995,
+            "longitude": 4.8258268,
+            "rating": 4.6,
+            "ratingCount": 840,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Specialized hospital",
+                "Research institute"
+            ],
+            "website": "http://www.avl.nl/",
+            "phoneNumber": "+31 20 512 9111",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM",
+                "Tuesday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgQCVFYwWIY44lh6lFJPR2-tZ6O2DsowTsrf52",
+            "cid": "4253882178948634351",
+            "fid": "0x47c5e22632d776e5:0x3b08d34dc09916ef",
+            "placeId": "ChIJ5XbXMibixUcR7xaZwE3TCDs"
+        },
+        {
+            "position": 4,
+            "title": "Oak Cancer Centre",
+            "address": "Cotswold Rd, Sutton SM2 5NG, United Kingdom",
+            "latitude": 51.3445432,
+            "longitude": -0.1915598,
+            "rating": 5,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCiyKcyO0XtX65PsRhQfda0z9ZE8Ase1Pr7Y3B",
+            "cid": "4992853646980386628",
+            "fid": "0x4875e3695e391e85:0x454a2df04bc78f44",
+            "placeId": "ChIJhR45XmnjdUgRRI_HS_AtSkU"
+        },
+        {
+            "position": 5,
+            "title": "Centre for Cancer Immunology",
+            "address": "Coxford Road Southampton General Hospital Centre for Cancer Immunology (MP127, Southampton SO16 6YD, United Kingdom",
+            "latitude": 50.934225999999995,
+            "longitude": -1.4348774,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Research institute",
+            "types": [
+                "Research institute"
+            ],
+            "website": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-cancer-immunology",
+            "phoneNumber": "+44 23 8059 7156",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ni5VLW1a1bepcPe3UE5T9A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=323.62515&pitch=0&thumbfov=100",
+            "cid": "2300441163708584142",
+            "fid": "0x4874756a5d5405d7:0x1feccf0cd58950ce",
+            "placeId": "ChIJ1wVUXWp1dEgRzlCJ1QzP7B8"
+        },
+        {
+            "position": 6,
+            "title": "Natural Health Medical Centers, P.L.L.C. - Natural Cancer Therapies",
+            "address": "2055 E Southern Ave Suite B, Tempe, AZ 85282",
+            "latitude": 33.3925767,
+            "longitude": -111.8979354,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.doctorjoebrown.com/",
+            "phoneNumber": "(480) 456-8600",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137\u202fPM",
+                "Friday": "8:30\u202fAM\u20137\u202fPM",
+                "Saturday": "9:30\u202fAM\u20131\u202fPM",
+                "Sunday": "9:30\u202fAM\u20131\u202fPM",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.doctorjoebrown.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObyGLs2lqUXc5LwHFst3Xw9_9lYhRv4X0C3DHK",
+            "cid": "13393134113630020589",
+            "fid": "0x872b0878c81b92b3:0xb9ddf884381563ed",
+            "placeId": "ChIJs5IbyHgIK4cR7WMVOIT43bk"
+        },
+        {
+            "position": 7,
+            "title": "London Breast Cancer - Prof Jayant Vaidya",
+            "address": "The london clinic, 20 Devonshire Pl, London W1G 6BW, United Kingdom",
+            "latitude": 51.5230685,
+            "longitude": -0.1497212,
+            "rating": 5,
+            "ratingCount": 12,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.londonbreastcancer.com/",
+            "phoneNumber": "+44 20 7034 8890",
+            "openingHours": {
+                "Tuesday": "8\u20139\u202fAM, 5\u20136\u202fPM",
+                "Wednesday": "8\u20139\u202fAM, 5\u20136\u202fPM",
+                "Thursday": "10:30\u202fAM\u20131:30\u202fPM",
+                "Friday": "8\u20139\u202fAM, 5\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u20139\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-lDtEVNmznG5IvRf4tn_pnRzfGITEAM01Ue-Y",
+            "cid": "12312925605549792431",
+            "fid": "0x48761bca6d77bb69:0xaae04c9a009b5caf",
+            "placeId": "ChIJabt3bcobdkgRr1ybAJpM4Ko"
+        },
+        {
+            "position": 8,
+            "title": "Northwest Naturopathic Oncology",
+            "address": "9045 SW Barbur Blvd Suite 106, Portland, OR 97219",
+            "latitude": 45.460124,
+            "longitude": -122.7090149,
+            "rating": 5,
+            "ratingCount": 18,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Alternative medicine practitioner"
+            ],
+            "website": "http://www.northwestnaturopathiconcology.com/",
+            "phoneNumber": "(503) 206-6218",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20135\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135\u202fPM",
+                "Friday": "9:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.northwestnaturopathiconcology.com/take-action"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMGyj-dMjyCdlbaOu8mmUl2wETf-_oVTkQVly0",
+            "cid": "15994533799063496898",
+            "fid": "0x5495a7f4e9391795:0xddf7ffbf6128a8c2",
+            "placeId": "ChIJlRc56fSnlVQRwqgoYb__990"
+        },
+        {
+            "position": 9,
+            "title": "Seattle Integrative Cancer Center",
+            "address": "1412 SW 43rd St # 200, Renton, WA 98057",
+            "latitude": 47.4415605,
+            "longitude": -122.23628339999999,
+            "rating": 4.9,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.seattleintegrativecancercenter.com/contact/",
+            "phoneNumber": "(206) 588-1722",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fVMFiZCTgF3wPDK57BpWYw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=11.936364&pitch=0&thumbfov=100",
+            "cid": "2558849095767127087",
+            "fid": "0x54905cd638831061:0x2382dbb1fb07742f",
+            "placeId": "ChIJYRCDONZckFQRL3QH-7HbgiM"
+        },
+        {
+            "position": 10,
+            "title": "Center for Natural Medicine",
+            "address": "1330 SE Cesar Estrada Chavez Blvd, Portland, OR 97214",
+            "latitude": 45.513090299999995,
+            "longitude": -122.6224834,
+            "rating": 4.4,
+            "ratingCount": 124,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Acupuncturist",
+                "Medical clinic",
+                "Naturopathic practitioner"
+            ],
+            "website": "https://cnmwellness.com/",
+            "phoneNumber": "(503) 232-1100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNBt5OR63Yz-ZUrgBT6-doJwNi7ByxjMRoaJkuH",
+            "cid": "5144826229027753657",
+            "fid": "0x5495a08d5c39a377:0x47661832644fceb9",
+            "placeId": "ChIJd6M5XI2glVQRuc5PZDIYZkc"
+        },
+        {
+            "position": 11,
+            "title": "Natural Cancer Healing Center",
+            "address": "733 E 6th Pl, Mesa, AZ 85203",
+            "latitude": 33.4265432,
+            "longitude": -111.81504609999999,
+            "type": "Holistic medicine practitioner",
+            "types": [
+                "Holistic medicine practitioner"
+            ],
+            "phoneNumber": "(480) 565-4768",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tc90SCxE6e9NSLbQkruEeQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=208.60019&pitch=0&thumbfov=100",
+            "cid": "17988711791098138570",
+            "fid": "0x872ba7ca1fc016dd:0xf9a4be10d3490fca",
+            "placeId": "ChIJ3RbAH8qnK4cRyg9J0xC-pPk"
+        },
+        {
+            "position": 12,
+            "title": "Canterbury Skin and Laser Clinic",
+            "address": "26 Castle St, Canterbury CT1 2PX, United Kingdom",
+            "latitude": 51.276122199999996,
+            "longitude": 1.0759029,
+            "rating": 4.4,
+            "ratingCount": 132,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Beautician",
+                "Dermatologist",
+                "Electrolysis hair removal service",
+                "Laser hair removal service",
+                "Medical spa",
+                "Skin care clinic",
+                "Surgeon",
+                "Tattoo removal service"
+            ],
+            "website": "http://skinandlaser.co.uk/?utm_source=local&utm_medium=organic&utm_campaign=GMB",
+            "phoneNumber": "+44 800 048 9230",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://skinandlaser.co.uk/book-online/?utm_source=local&utm_medium=organic&utm_campaign=GMB"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuCN5weTqqACAVFswRG_1L3PB2APqBSsCdmHBc",
+            "cid": "17294509448641733156",
+            "fid": "0x47decbc97c40d191:0xf00270b69aed6224",
+            "placeId": "ChIJkdFAfMnL3kcRJGLtmrZwAvA"
+        },
+        {
+            "position": 13,
+            "title": "Naturopathic Cancer Treatment",
+            "address": "804 NW 195th Pl, Shoreline, WA 98177",
+            "latitude": 47.7711763,
+            "longitude": -122.367007,
+            "rating": 5,
+            "ratingCount": 15,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.naturopathiccancertreatment.com/",
+            "phoneNumber": "(206) 785-3538",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.naturopathiccancertreatment.com/booknow"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmXh4YeVhRCVCg27_wNi2yL2HPh-hzCjhOovuX",
+            "cid": "2207310326776043643",
+            "fid": "0x5490115e3c068103:0x1ea1f10c2089987b",
+            "placeId": "ChIJA4EGPF4RkFQRe5iJIAzxoR4"
+        },
+        {
+            "position": 14,
+            "title": "Natural Cancer Wellness LLC",
+            "address": "908A 16th Ave, Honolulu, HI 96816",
+            "latitude": 21.2760319,
+            "longitude": -157.7970391,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(808) 735-5433",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XhQxfP6ewtB3cWBkwSsa_Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=273.89667&pitch=0&thumbfov=100",
+            "cid": "5603535669747548943",
+            "fid": "0x7c006d62ac0da065:0x4dc3c200b988830f",
+            "placeId": "ChIJZaANrGJtAHwRD4OIuQDCw00"
+        }
+    ],
+    "credits": 3
+}

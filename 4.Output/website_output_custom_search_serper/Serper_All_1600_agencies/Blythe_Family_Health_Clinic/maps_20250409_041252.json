@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Blythe Family Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6106868,-114.600099,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Blythe Family Health Clinic: Reyes Irma MD",
+            "address": "321 W Hobsonway C, Blythe, CA 92225",
+            "latitude": 33.610686799999996,
+            "longitude": -114.600099,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(760) 922-4981",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U8fIf1rVyKXWpNXxMiaMRA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=99.73681&pitch=0&thumbfov=100",
+            "cid": "2596302576245006456",
+            "fid": "0x80d13948e809ef61:0x2407eb6ff283e078",
+            "placeId": "ChIJYe8J6Eg50YAReOCD8m_rByQ"
+        }
+    ],
+    "credits": 3
+}

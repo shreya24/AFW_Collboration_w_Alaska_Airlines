@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "University of Iowa",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.6627078,-91.5549771,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Iowa",
+            "address": "Iowa City, IA 52242",
+            "latitude": 41.6627078,
+            "longitude": -91.5549771,
+            "rating": 4.2,
+            "ratingCount": 195,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "Business school",
+                "College",
+                "Dental school",
+                "Engineering school",
+                "Graduate school",
+                "Law school",
+                "Medical school",
+                "Nursing school",
+                "University"
+            ],
+            "website": "https://uiowa.edu/",
+            "phoneNumber": "(319) 335-3500",
+            "description": "Riverfront research school founded in 1847 known for medicine & fine arts, particularly writing.",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_8Pi2W3Eax6dDXhoelZ2AmUvwDI63XgcbD_XQuHkcwvX52MgApbzq9IiwWXm9o7GH_nnew0BqYUlMRFCzezT5TKFVSMrc7iDqsD4lbwzc58ti3rK3yq-MDOZxIWjdCw7xVWbY",
+            "cid": "5463397685684286049",
+            "fid": "0x87e441f249bfffff:0x4bd1e33fb1e73261",
+            "placeId": "ChIJ__-_SfJB5IcRYTLnsT_j0Us"
+        }
+    ],
+    "credits": 3
+}

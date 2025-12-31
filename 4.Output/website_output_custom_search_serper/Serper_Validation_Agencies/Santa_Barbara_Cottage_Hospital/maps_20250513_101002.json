@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Santa Barbara Cottage Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4296399,-119.7236675,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Santa Barbara Cottage Hospital",
+            "address": "Cottage Hospital, 400 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4296399,
+            "longitude": -119.72366749999999,
+            "rating": 3.7,
+            "ratingCount": 336,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Nursing home",
+                "Pharmacy"
+            ],
+            "website": "https://www.cottagehealth.org/",
+            "phoneNumber": "(805) 682-7111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6tOC3Hv2cWpNE9XvFzDKQlL2VTAv7aLQ3DNoS",
+            "cid": "10011167111629161765",
+            "fid": "0x80e914ed8cbf1ef1:0x8aeecf7253bac525",
+            "placeId": "ChIJ8R6_jO0U6YARJcW6U3LP7oo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,468 @@
+{
+    "searchParameters": {
+        "q": "CCCN",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6900784,-97.2954501,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UChicago Medicine Comprehensive Cancer Center",
+            "address": "Carolyn J. Czerkies Pavilion, 1850 Silver Cross Blvd, New Lenox, IL 60451",
+            "latitude": 41.5432552,
+            "longitude": -87.9846946,
+            "rating": 4.2,
+            "ratingCount": 15,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.uchicagomedicine.org/find-a-location/uchicago-medicine-cancer-care-at-silver-cross-hospital-new-lenox",
+            "phoneNumber": "(855) 826-1400",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQlteMLZTjbbaB-xKsm3-EcfViU99WDC_khoo",
+            "cid": "13882931697642245631",
+            "fid": "0x880e68f6223d5025:0xc0aa14d2f6fa0dff",
+            "placeId": "ChIJJVA9IvZoDogR_w369tIUqsA"
+        },
+        {
+            "position": 2,
+            "title": "Comprehensive Cancer Centers of Nevada - Central Valley/Twain",
+            "address": "3730 S Eastern Ave, Las Vegas, NV 89169",
+            "latitude": 36.121089,
+            "longitude": -115.1183351,
+            "rating": 3.5,
+            "ratingCount": 109,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/",
+            "phoneNumber": "(702) 952-3400",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/central-valley/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrh2jSc2970z1sN1wRzHheeLbH4u_7VHnBHdP2",
+            "cid": "8784992674391365628",
+            "fid": "0x80c8c4ec6baedd4f:0x79ea904adf8197fc",
+            "placeId": "ChIJT92ua-zEyIAR_JeB30qQ6nk"
+        },
+        {
+            "position": 3,
+            "title": "Comprehensive Cancer Centers of Nevada - Northwest",
+            "address": "7445 Peak Dr, Las Vegas, NV 89128",
+            "latitude": 36.2092983,
+            "longitude": -115.2566239,
+            "rating": 3.2,
+            "ratingCount": 100,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/locations/northwest/",
+            "phoneNumber": "(702) 952-2140",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/northwest/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIkZ-_-5Gg4_bXrL_J71_4RFaIjtekomu9BOHE",
+            "cid": "17543242216640842378",
+            "fid": "0x80c8ea9ee58d5895:0xf3761dd913838a8a",
+            "placeId": "ChIJlViN5Z7qyIARioqDE9kddvM"
+        },
+        {
+            "position": 4,
+            "title": "CCCN-Siena",
+            "address": "10001 S Eastern Ave, Henderson, NV 89052",
+            "latitude": 36.004666799999995,
+            "longitude": -115.11500649999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1djP_FNazipoKoI8GjZtpg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=238.97649&pitch=0&thumbfov=100",
+            "cid": "1941213470636354407",
+            "fid": "0x80c8ce128b0351bd:0x1af0935dd67bab67",
+            "placeId": "ChIJvVEDixLOyIARZ6t71l2T8Bo"
+        },
+        {
+            "position": 5,
+            "title": "Comprehensive Cancer Centers of Nevada - Southwest/Southern Hills",
+            "address": "9280 W Sunset Rd #100, Las Vegas, NV 89148",
+            "latitude": 36.0718309,
+            "longitude": -115.2950185,
+            "rating": 3.9,
+            "ratingCount": 59,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/locations/southwest/",
+            "phoneNumber": "(702) 952-1251",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/southwest/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNi8B5scXpQEcnk2MZc4SznlzfJrsoT9XpCp6J9",
+            "cid": "10661923858169206433",
+            "fid": "0x80c8b87cc8ada04d:0x93f6c3427c7016a1",
+            "placeId": "ChIJTaCtyHy4yIARoRZwfELD9pM"
+        },
+        {
+            "position": 6,
+            "title": "Comprehensive Cancer Centers of Nevada - Summerlin Medical Center II/Town Center",
+            "address": "653 N Town Center Dr Suite 402, Las Vegas, NV 89144",
+            "latitude": 36.180788,
+            "longitude": -115.3155206,
+            "rating": 3.6,
+            "ratingCount": 34,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/treatment-centers/summerlin-medical-center-ii-location/",
+            "phoneNumber": "(702) 243-7200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cccnevada.com/treatment-centers/summerlin-medical-center/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTOJFX6auau6PJDrlgpClUtro76H__Q7LipXor",
+            "cid": "1908314790296448990",
+            "fid": "0x80c8bf4cfb443505:0x1a7bb230eb3e6fde",
+            "placeId": "ChIJBTVE-0y_yIAR3m8-6zCyexo"
+        },
+        {
+            "position": 7,
+            "title": "Comprehensive Cancer Centers of Nevada - Henderson/Siena",
+            "address": "10001 S Eastern Ave Suite 108, Henderson, NV 89052",
+            "latitude": 36.0045956,
+            "longitude": -115.11491269999999,
+            "rating": 3.9,
+            "ratingCount": 38,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/locations/henderson/",
+            "phoneNumber": "(702) 952-3444",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/henderson/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMv4pIjSreTqjUXC2wZlSIGBzCj2zvHOQtfCNmg",
+            "cid": "14871687055423513830",
+            "fid": "0x80c8ce125bcd5b67:0xce62d895554b24e6",
+            "placeId": "ChIJZ1vNWxLOyIAR5iRLVZXYYs4"
+        },
+        {
+            "position": 8,
+            "title": "Comprehensive Cancer Centers of Nevada - Horizon Ridge Henderson/Horizon Ridge",
+            "address": "2460 W Horizon Ridge Pkwy, Henderson, NV 89052",
+            "latitude": 36.006562699999996,
+            "longitude": -115.093628,
+            "rating": 3.8,
+            "ratingCount": 32,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/treatment-centers/horizon-ridge/",
+            "phoneNumber": "(702) 822-2000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/horizon-ridge/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_UE-SMOE1raN7Kd8baT9FsTjRfcRI32fF_1wi",
+            "cid": "14760967895872523354",
+            "fid": "0x80c8d1fd65aaf811:0xccd97e18266d4c5a",
+            "placeId": "ChIJEfiqZf3RyIARWkxtJhh-2cw"
+        },
+        {
+            "position": 9,
+            "title": "Chautauqua County Chaptr Ns",
+            "address": "191 County Touring Rte 32, Jamestown, NY 14701",
+            "latitude": 42.0896517,
+            "longitude": -79.2743053,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "phoneNumber": "(716) 487-2495",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=22I-ZVDTOAI9XQPYhjbcsQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.61787&pitch=0&thumbfov=100",
+            "cid": "243807085385806669",
+            "fid": "0x89d2a9766475d951:0x3622d409e24f34d",
+            "placeId": "ChIJUdl1ZHap0okRTfMknkAtYgM"
+        },
+        {
+            "position": 10,
+            "title": "Comprehensive Cancer Centers of Nevada - SE Henderson/Stephanie",
+            "address": "1505 Wigwam Pkwy Suite 130, Henderson, NV 89074",
+            "latitude": 36.033357699999996,
+            "longitude": -115.0487584,
+            "rating": 3.7,
+            "ratingCount": 43,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/locations/southeast-henderson/",
+            "phoneNumber": "(702) 856-1400",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/breast-surgery-centers/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZ2HjOAFYkRFhir222Vrh0cVhXdl9XzEOFyWwi",
+            "cid": "10588618238983752238",
+            "fid": "0x80c8d1a6d3c7d47f:0x92f2542ffcd94a2e",
+            "placeId": "ChIJf9TH06bRyIARLkrZ_C9U8pI"
+        },
+        {
+            "position": 11,
+            "title": "CJ Christian, MS, CGC",
+            "address": "8800 W Doyne Ave, Milwaukee, WI 53226",
+            "latitude": 43.0397258,
+            "longitude": -88.0223054,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical office",
+                "Oncologist"
+            ],
+            "phoneNumber": "(866) 680-0505",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO9oS3Os7zOoivLbtuYJxFaCR2tjwPC6uAK_OsE",
+            "cid": "17089228761712951428",
+            "fid": "0x880519667f1279c3:0xed292304234a0084",
+            "placeId": "ChIJw3kSf2YZBYgRhABKIwQjKe0"
+        },
+        {
+            "position": 12,
+            "title": "Comprehensive Cancer Centers of Nevada - Summerlin/Cyberknife",
+            "address": "655 N Town Center Dr, Las Vegas, NV 89144",
+            "latitude": 36.1810362,
+            "longitude": -115.31659499999999,
+            "rating": 3.4,
+            "ratingCount": 17,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://cccnevada.com/locations/summerlin/",
+            "phoneNumber": "(702) 233-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cccnevada.com/treatment-centers/summerlin/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMK-MsZ9SCaRlWz_qmTmG_5gfXTKd0nlaZ7wXSn",
+            "cid": "2059712317242665308",
+            "fid": "0x80c8bfc45f0bf61b:0x1c95917090bee95c",
+            "placeId": "ChIJG_YLX8S_yIARXOm-kHCRlRw"
+        },
+        {
+            "position": 13,
+            "title": "Christ's Community Church of the Nazarene",
+            "address": "4920 Charlestown Rd, New Albany, IN 47150",
+            "latitude": 38.3602548,
+            "longitude": -85.783185,
+            "rating": 4.3,
+            "ratingCount": 19,
+            "type": "Church of the Nazarene",
+            "types": [
+                "Church of the Nazarene"
+            ],
+            "website": "http://christscommunity.org/",
+            "phoneNumber": "(812) 945-3106",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "8:30\u202fAM\u201312\u202fPM",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5ewMRJgpJZgD0gnUXM1n1mxxMCe_se0jYkYFr",
+            "cid": "7886544670057108066",
+            "fid": "0x88696e36ed2143d3:0x6d72a297bc011262",
+            "placeId": "ChIJ00Mh7TZuaYgRYhIBvJeicm0"
+        },
+        {
+            "position": 14,
+            "title": "Rock County Cancer Coalition",
+            "address": "One Parker Pl Suite 320, Janesville, WI 53545",
+            "latitude": 42.6839321,
+            "longitude": -89.020252,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://rockcountycancercoalition.org/",
+            "phoneNumber": "(608) 754-2286",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOU3PrjvPQEzEMdlTufrfEhdQ9SkjuP3GhHaAN3",
+            "cid": "9464016520535335919",
+            "fid": "0x880619f07acf0261:0x8356f0e206efe3ef",
+            "placeId": "ChIJYQLPevAZBogR7-PvBuLwVoM"
+        },
+        {
+            "position": 15,
+            "title": "Center for Critical Care Nephrology",
+            "address": "3347 Forbes Ave #220, Pittsburgh, PA 15213",
+            "latitude": 40.4383871,
+            "longitude": -79.9616444,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Academic department",
+            "types": [
+                "Academic department"
+            ],
+            "phoneNumber": "(412) 383-4201",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lbRAofzVEZ4SmD6tCgH4QA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=327.85403&pitch=0&thumbfov=100",
+            "cid": "3234153888271000593",
+            "fid": "0x8834f181ad7dfe1f:0x2ce205d37b576411",
+            "placeId": "ChIJH_59rYHxNIgREWRXe9MF4iw"
+        },
+        {
+            "position": 16,
+            "title": "Cancer Canceling Coalition NPO INC",
+            "address": "5050 W Brown Deer Rd SUITE 204, Brown Deer, WI 53223",
+            "latitude": 43.1780608,
+            "longitude": -87.9740321,
+            "type": "Patients support association",
+            "types": [
+                "Patients support association"
+            ],
+            "website": "https://www.cancercancelingcoalition.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7245191910984081110",
+            "phoneNumber": "(888) 773-5732",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-0c-OFl6pjEse8Yi21ijA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=25.348915&pitch=0&thumbfov=100",
+            "cid": "2968721226293225985",
+            "fid": "0x8804e37d1160e56b:0x29330439f25eaa01",
+            "placeId": "ChIJa-VgEX3jBIgRAape8jkEMyk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,320 @@
+{
+    "searchParameters": {
+        "q": "Baylor St. Luke's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.9514036,-95.3579995,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Health - Baylor St. Luke's Medical Center - Houston, TX",
+            "address": "1101 Bates Ave, Houston, TX 77030",
+            "latitude": 29.7076745,
+            "longitude": -95.4004595,
+            "rating": 4.2,
+            "ratingCount": 2316,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/baylor-st-lukes-medical-center",
+            "phoneNumber": "(832) 355-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxR3NLZeD3aQ4GCbHWBHCw9jBJWXEBTu2veLk1",
+            "cid": "15890358944730080748",
+            "fid": "0x8640c073e82154fd:0xdc85e544fe1665ec",
+            "placeId": "ChIJ_VQh6HPAQIYR7GUW_kTlhdw"
+        },
+        {
+            "position": 2,
+            "title": "Baylor St. Luke's Medical Center - McNair Campus - Houston, TX",
+            "address": "7200 Cambridge St, Houston, TX 77030",
+            "latitude": 29.698887199999998,
+            "longitude": -95.3944829,
+            "rating": 3.2,
+            "ratingCount": 31,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/baylor-st-lukes-medical-center-mcnair",
+            "phoneNumber": "(832) 354-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNi5qHqFqRBZeroGazbQmWTMWkR_wzw2ZP2iFta",
+            "cid": "3797651824694928739",
+            "fid": "0x8640c14439ce23f1:0x34b3f836b78e2563",
+            "placeId": "ChIJ8SPOOUTBQIYRYyWOtzb4szQ"
+        },
+        {
+            "position": 3,
+            "title": "CHI St. Luke's Health\u2013Baylor St. Luke's Medical Center Emergency Room",
+            "address": "6720 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.7073459,
+            "longitude": -95.40015,
+            "rating": 2.5,
+            "ratingCount": 101,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.chistlukeshealth.org/",
+            "phoneNumber": "(832) 355-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Xm6XBM7bSADBU54CE7vqzbA3OoK9b-yFWqPfkhsDManOvQJJKhzGudm_i8QYazKJK5VLBZ2RVFnV9jCRTl17qMk-m7iUpvcEYRnU04A0xyyBqtp2cuY_Z1JSbk2DVXF3WHnyU9Q",
+            "cid": "8481196057040100444",
+            "fid": "0x8640c073dda4e7b9:0x75b342e0ea519c5c",
+            "placeId": "ChIJueek3XPAQIYRXJxR6uBCs3U"
+        },
+        {
+            "position": 4,
+            "title": "Emergency Room - Baylor St. Luke's Medical Center - Houston",
+            "address": "6720 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.707705699999998,
+            "longitude": -95.40062239999999,
+            "rating": 1.6,
+            "ratingCount": 7,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Ambulance service"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/emergency-department-baylor-st-lukes-medical-center",
+            "phoneNumber": "(832) 355-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjb3QQqI2BnM23ci8pQn3N5nEnXLxFd7d5jNdZ",
+            "cid": "16060591121513216703",
+            "fid": "0x8640c11440350ed5:0xdee2ae8848967abf",
+            "placeId": "ChIJ1Q41QBTBQIYRv3qWSIiu4t4"
+        },
+        {
+            "position": 5,
+            "title": "Baylor St. Luke's Medical Group The Woodlands",
+            "address": "17350 St Lukes Way Ste 400, The Woodlands, TX 77384",
+            "latitude": 30.2037317,
+            "longitude": -95.45815689999999,
+            "rating": 3,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Gastroenterologist",
+                "Hospital"
+            ],
+            "website": "http://www.chistlukeshealth.org/st-lukes-medical-group-the-woodlands",
+            "phoneNumber": "(281) 444-3278",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MVywWmYKvvmvHULPfxBXUQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=147.89641&pitch=0&thumbfov=100",
+            "cid": "13963139314937804668",
+            "fid": "0x8647373e35de02a3:0xc1c7093a2028b77c",
+            "placeId": "ChIJowLeNT43R4YRfLcoIDoJx8E"
+        },
+        {
+            "position": 6,
+            "title": "Comprehensive Stroke Center at Baylor St. Luke's Medical Center - Houston, TX",
+            "address": "6720 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.707705699999998,
+            "longitude": -95.40062239999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/comprehensive-stroke-center-baylor-st-lukes-medical-center?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=ComprehensiveStrokeCenteratBaylorStLukesMedicalCenter",
+            "phoneNumber": "(832) 355-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOu0cvuNVghkdr1jsEWx-1gioy12VqivvJqoSSS",
+            "cid": "11926501978149768849",
+            "fid": "0x8640c1c0f4e31769:0xa583725c1c9c4e91",
+            "placeId": "ChIJaRfj9MDBQIYRkU6cHFxyg6U"
+        },
+        {
+            "position": 7,
+            "title": "Neuroscience Institute at Baylor St. Luke's Medical Center - Houston, TX",
+            "address": "6770 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.7076982,
+            "longitude": -95.3992914,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/neuroscience-institute-baylor-st-lukes-medical-center",
+            "phoneNumber": "(832) 355-6332",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNp-UNcW54VQ3omxbr--3BiC7QC-3LAXeTnDufD",
+            "cid": "684996428808076014",
+            "fid": "0x8640c1d632b70af1:0x981989f6b843aee",
+            "placeId": "ChIJ8Qq3MtbBQIYR7jqEa5-YgQk"
+        },
+        {
+            "position": 8,
+            "title": "Imaging & Diagnostic Procedures at Baylor St. Luke's Medical Center - Houston, TX",
+            "address": "6720 Bertner Ave, Houston, TX 77030",
+            "latitude": 29.707705699999998,
+            "longitude": -95.40062239999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Diagnostic center",
+            "types": [
+                "Diagnostic center",
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/imaging-diagnostic-procedures-baylor-st-lukes-medical-center?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=Imaging&DiagnosticProceduresatBaylorStLukesMedicalCenter",
+            "phoneNumber": "(832) 355-7082",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-GFoJw2QbQDZGiJkRu5X06Yb_ia-u4q1leNVgOJZxxkCDFUth2-8eb53Zc6qkHzCh2cs4JnyO8N0aQ5W_cyuLo9TXwRP6scQ4lj0XYHgewOP2_1hORUMXxQLAlkEsSCqsA_QEh",
+            "cid": "18353522454131678863",
+            "fid": "0x8640c1c36c6493dd:0xfeb4cf6e4fac9e8f",
+            "placeId": "ChIJ3ZNkbMPBQIYRj56sT27PtP4"
+        },
+        {
+            "position": 9,
+            "title": "St. Luke's Health - The Woodlands Hospital - The Woodlands, TX",
+            "address": "17200 St Lukes Way, The Woodlands, TX 77384",
+            "latitude": 30.20392,
+            "longitude": -95.4589203,
+            "rating": 4.2,
+            "ratingCount": 2150,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/woodlands-hospital",
+            "phoneNumber": "(936) 266-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-0QZUtpowhdG3nxD5GHOuhmBNyXlRSKtM2BGUGEd9WWZykhXUbBE7KsMJ8Z91IG15G0JGzv43VzG8DIQ-kG2u0GKalieHmgx4THNXUMcENPHILJvzOR-Up6Y01OYeWSxJDhDoZvg",
+            "cid": "5939361250747889151",
+            "fid": "0x8647373f15f5efa5:0x526cd996e78c35ff",
+            "placeId": "ChIJpe_1FT83R4YR_zWM55bZbFI"
+        },
+        {
+            "position": 10,
+            "title": "Primary Care - Baylor St. Luke's Medical Group (Professional Dr) - Kingwood, TX",
+            "address": "22698 Professional Dr #110, Kingwood, TX 77339",
+            "latitude": 30.0475598,
+            "longitude": -95.2570787,
+            "rating": 4.2,
+            "ratingCount": 31,
+            "type": "Wellness center",
+            "types": [
+                "Wellness center",
+                "Home health care service",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/primary-care-baylor-st-lukes-medical-group-kingwood-tx",
+            "phoneNumber": "(346) 305-5660",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNj9uAPcikvHUOrsK1TW060AGMn-Sea18kmoPh",
+            "cid": "13887354459804278621",
+            "fid": "0x8640b2ce089278d9:0xc0b9cb4d86921f5d",
+            "placeId": "ChIJ2XiSCM6yQIYRXR-Shk3LucA"
+        },
+        {
+            "position": 11,
+            "title": "Emergency Room - Baylor St. Luke's Holcombe - Houston, TX",
+            "address": "2727 W Holcombe Blvd, Houston, TX 77025",
+            "latitude": 29.705177499999998,
+            "longitude": -95.4204109,
+            "rating": 2.4,
+            "ratingCount": 111,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Ambulance service"
+            ],
+            "website": "https://www.stlukeshealth.org/locations/baylor-st-lukes-emergency-center-holcombe",
+            "phoneNumber": "(832) 355-7525",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNlKlgPLCriF_HyEPMEfueNOfApJ3V7QX8HhHTW",
+            "cid": "1128282553575668698",
+            "fid": "0x8640c046c3cdafc1:0xfa877012c25fbda",
+            "placeId": "ChIJwa_Nw0bAQIYR2vslLAF3qA8"
+        }
+    ],
+    "credits": 3
+}

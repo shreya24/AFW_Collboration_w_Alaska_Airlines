@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Sutter Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4832805,-122.7396041,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sutter Oncology",
+            "address": "3883 Airway Dr, Santa Rosa, CA 95403",
+            "latitude": 38.4832805,
+            "longitude": -122.7396041,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://www.sutterhealth.org/find-doctor/city/santa-rosa/oncologists",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8kCdWzHdpROxPO1ZrQd1vNUNLtblBcyAOX8UlsAo40UiSP5gaHUnifMP9HqqLLnxBKPUEtXSeoQN6KepfjZ2Dq2Rsh-Gq5IdlTgrVRVxZ8mxPruIZ9xh13-qPlwaz9mqmCgw2_LA",
+            "cid": "1868698490034749100",
+            "fid": "0x80843894bc8bde67:0x19eef3603ad47eac",
+            "placeId": "ChIJZ96LvJQ4hIARrH7UOmDz7hk"
+        }
+    ],
+    "credits": 3
+}

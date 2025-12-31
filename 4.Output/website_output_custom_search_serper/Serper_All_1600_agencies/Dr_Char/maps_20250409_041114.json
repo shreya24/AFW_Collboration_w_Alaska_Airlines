@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr Char",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7686242,-122.4354309,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Char Devron H MD",
+            "address": "45 Castro St # 309, San Francisco, CA 94114",
+            "latitude": 37.7686242,
+            "longitude": -122.4354309,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "phoneNumber": "(415) 522-0700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FzKlQUb7VIX6OYWHj_ZEKw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=271.17175&pitch=0&thumbfov=100",
+            "cid": "15754947876182162777",
+            "fid": "0x808580a80ad55645:0xdaa4d19ebea1fd59",
+            "placeId": "ChIJRVbVCqiAhYARWf2hvp7RpNo"
+        }
+    ],
+    "credits": 3
+}

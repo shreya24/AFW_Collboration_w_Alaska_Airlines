@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "Bozeman GI Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6701525,-111.0624367,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health GI Clinic",
+            "address": "931 Highland Blvd #3350, Bozeman, MT 59715",
+            "latitude": 45.6695329,
+            "longitude": -111.0211999,
+            "rating": 3.3,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-5336",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dX3xCPDFV-ryICAVHQ4_Jg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=182.07732&pitch=0&thumbfov=100",
+            "cid": "4702435985834540362",
+            "fid": "0x534544f2e36cdabb:0x4142689d52ae7d4a",
+            "placeId": "ChIJu9ps4_JERVMRSn2uUp1oQkE"
+        },
+        {
+            "position": 2,
+            "title": "Bozeman Deaconess Gi Clinic",
+            "address": "931 Highland Blvd #3350, Bozeman, MT 59715",
+            "latitude": 45.669861999999995,
+            "longitude": -111.0199356,
+            "rating": 1.3,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.bozemanhealth.org/services/gastroenterology/",
+            "phoneNumber": "(406) 414-5000",
+            "cid": "18362865351685512090",
+            "fid": "0x534544f2e36cdabb:0xfed600bf298b1b9a",
+            "placeId": "ChIJu9ps4_JERVMRmhuLKb8A1v4"
+        },
+        {
+            "position": 3,
+            "title": "Bozeman Health Cottonwood Gastroenterology",
+            "address": "875 S Cottonwood Rd Suite 200, Bozeman, MT 59718",
+            "latitude": 45.670772,
+            "longitude": -111.1049378,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://www.bozemanhealth.org/locations/bozeman-health-cottonwood-clinic-plus-surgery-center/",
+            "phoneNumber": "(406) 414-5336",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnhFnutIykWZg270OdjUmHG3TViMPog0pVgfX1",
+            "cid": "10174616022696049019",
+            "fid": "0x53454fff5f7a7081:0x8d337f5d7ecbb97b",
+            "placeId": "ChIJgXB6X_9PRVMRe7nLfl1_M40"
+        }
+    ],
+    "credits": 3
+}

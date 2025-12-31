@@ -1,0 +1,581 @@
+{
+    "searchParameters": {
+        "q": "Park Medical Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.1654398,-98.81252,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Legacy Meridian Park Medical Center",
+            "address": "19300 SW 65th Ave, Tualatin, OR 97062",
+            "latitude": 45.378547,
+            "longitude": -122.7416638,
+            "rating": 3.1,
+            "ratingCount": 335,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/hospitals/legacy-meridian-park-medical-center",
+            "phoneNumber": "(503) 692-1212",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-fm03nRUPMhGZX-BB5c2YzuhFu3qL-NlEJ-Ji",
+            "cid": "13283930296531003614",
+            "fid": "0x549572604dac71b1:0xb85a003931c7a8de",
+            "placeId": "ChIJsXGsTWBylVQR3qjHMTkAWrg"
+        },
+        {
+            "position": 2,
+            "title": "OHSU Primary Care Clinic, Gabriel Park",
+            "address": "4411 SW Vermont St, Portland, OR 97219",
+            "latitude": 45.4768366,
+            "longitude": -122.72207359999999,
+            "rating": 3.5,
+            "ratingCount": 70,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "General practitioner",
+                "Medical office",
+                "Travel clinic"
+            ],
+            "website": "https://www.ohsu.edu/primary-care/ohsu-primary-care-clinic-gabriel-park?utm_source=gmb&utm_medium=organic&utm_content=d4706ea4-7d38-58fe-be0f-e38eb284024f",
+            "phoneNumber": "(503) 494-9992",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20138\u202fPM",
+                "Thursday": "7:30\u202fAM\u20138\u202fPM",
+                "Friday": "7:30\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODpf5eAySysV2D2TGxyKhNWUkM5xznG9wEgoG_",
+            "cid": "13590525150540726631",
+            "fid": "0x54950b98d5a4dd8f:0xbc9b3e9e64fe0167",
+            "placeId": "ChIJj92k1ZgLlVQRZwH-ZJ4-m7w"
+        },
+        {
+            "position": 3,
+            "title": "Park Medical Group",
+            "address": "1813 W Harvard Ave #140, Roseburg, OR 97471",
+            "latitude": 43.2126476,
+            "longitude": -123.3708752,
+            "rating": 4.6,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(541) 229-7275",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n8mG6hAL9A8bbFzsfM_JZA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=291.19232&pitch=0&thumbfov=100",
+            "cid": "3488778127622454036",
+            "fid": "0x54c43d2c34300001:0x306aa1390516bb14",
+            "placeId": "ChIJAQAwNCw9xFQRFLsWBTmhajA"
+        },
+        {
+            "position": 4,
+            "title": "Northwest Medical Associates",
+            "address": "222 NE Park Plaza Dr #100, Vancouver, WA 98684",
+            "latitude": 45.621628,
+            "longitude": -122.5408791,
+            "rating": 4.4,
+            "ratingCount": 271,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://nwma-praxis.com/",
+            "phoneNumber": "(360) 254-8025",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://nwma-praxis.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrIhpG2f9eMRJXd5vZx6pYXDxUULWhCnz-AgjZ",
+            "cid": "7147096800727359855",
+            "fid": "0x5495a522845c4c79:0x632f96ac5eaf616f",
+            "placeId": "ChIJeUxchCKllVQRb2GvXqyWL2M"
+        },
+        {
+            "position": 5,
+            "title": "Park Medical Building",
+            "address": "2120 Exchange St, Astoria, OR 97103",
+            "latitude": 46.188836599999995,
+            "longitude": -123.81843669999999,
+            "rating": 4.2,
+            "ratingCount": 67,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist",
+                "Radiotherapist"
+            ],
+            "phoneNumber": "(503) 325-5360",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMricFX9CbQa7xygx3Z9g4PFuz3Ggrc5QXb0Ec_",
+            "cid": "5976742692073571491",
+            "fid": "0x54937b459f8e8b63:0x52f1a7cff2f504a3",
+            "placeId": "ChIJY4uOn0V7k1QRowT18s-n8VI"
+        },
+        {
+            "position": 6,
+            "title": "Kaiser Permanente Cascade Park Medical Office",
+            "address": "12607 SE Mill Plain Blvd, Vancouver, WA 98684",
+            "latitude": 45.6184655,
+            "longitude": -122.5416147,
+            "rating": 4.3,
+            "ratingCount": 722,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Cascade-Park-Medical-Office-100275",
+            "phoneNumber": "(800) 813-2000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8zoIch9jKpM9EVmlXz9qOOCWxv0Nmt7FOHosy",
+            "cid": "12767285856152436582",
+            "fid": "0x5495a518d53c0229:0xb12e82d799d5bf66",
+            "placeId": "ChIJKQI81RillVQRZr_VmdeCLrE"
+        },
+        {
+            "position": 7,
+            "title": "Legacy Wound and Ostomy Services - a department of Meridian Park Medical Center",
+            "address": "6475 SW Borland Rd Suite H, Tualatin, OR 97062",
+            "latitude": 45.377716799999995,
+            "longitude": -122.74077079999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hyperbaric medicine physician"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/specialty/wound-and-ostomy-clinic-meridian-park",
+            "phoneNumber": "(503) 692-7611",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/doctors-and-locations?Latitude=&Longitude=&SearchType=LOCATIONS&keyword=wound+and+ostomy&ActiveLocationTypeFilter=&services=&ZipCode=&Radius=5&PageNumber=1&PatientAge=&Specialties=&Gender=&Locations=&IsLHPMember=&OpenWeekends=undefined&Open24Hours=undefined"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZCUys3XPyPFeq_ehu3WjwvU2lgwn78NTgMHzH",
+            "cid": "16171301207849062361",
+            "fid": "0x549572613d26bdb3:0xe06c00c4f1b04fd9",
+            "placeId": "ChIJs70mPWFylVQR2U-w8cQAbOA"
+        },
+        {
+            "position": 8,
+            "title": "Legacy Medical Group-Tualatin - a department of Legacy Meridian Park Medical Center",
+            "address": "19875 SW 65th Ave Ste 100, Tualatin, OR 97062",
+            "latitude": 45.376428999999995,
+            "longitude": -122.7447766,
+            "rating": 2.8,
+            "ratingCount": 29,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/primary/tualatin",
+            "phoneNumber": "(503) 692-7785",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_z7O3MudkG9G9LnoV2BYri7QdigMtfeK8gS8D",
+            "cid": "1104777458858442393",
+            "fid": "0x54957263d9f939cd:0xf54f53ed71dbe99",
+            "placeId": "ChIJzTn52WNylVQRmb4d1z71VA8"
+        },
+        {
+            "position": 9,
+            "title": "Parks Medical Eletronics, Inc",
+            "address": "19460 SW Shaw St, Aloha, OR 97078",
+            "latitude": 45.494068399999996,
+            "longitude": -122.87750919999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical equipment manufacturer",
+            "types": [
+                "Medical equipment manufacturer"
+            ],
+            "website": "https://www.parksmed.com/",
+            "phoneNumber": "(503) 649-7007",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20133:30\u202fPM",
+                "Thursday": "7\u202fAM\u20133:30\u202fPM",
+                "Friday": "7\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPL1Wkln-8n2uj9V4xFU8aE7A9n0ifJH7DNmYny",
+            "cid": "1257102852275161951",
+            "fid": "0x54950e45fcbe17d5:0x117220623bfdcb5f",
+            "placeId": "ChIJ1Re-_EUOlVQRX8v9O2IgchE"
+        },
+        {
+            "position": 10,
+            "title": "Parks Medical Corporation",
+            "address": "1325 W 1st Ave #306, Spokane, WA 99201",
+            "latitude": 47.6562093,
+            "longitude": -117.4322076,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical equipment supplier",
+            "types": [
+                "Medical equipment supplier",
+                "Endoscopist",
+                "Gastroenterologist",
+                "Repair service"
+            ],
+            "website": "https://www.parksmedical.com/",
+            "phoneNumber": "(509) 448-9112",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUwtfFMZLdNGgQMiZbf_g7E7nIh6iXGItIDmmW",
+            "cid": "12316919617865517992",
+            "fid": "0x549e1868086a9151:0xaaee7d2275ea0ba8",
+            "placeId": "ChIJUZFqCGgYnlQRqAvqdSJ97qo"
+        },
+        {
+            "position": 11,
+            "title": "Legacy Physical Therapy - a department of Legacy Meridian Park Medical Center",
+            "address": "19250 SW 65th Ave Ste 285, Tualatin, OR 97062",
+            "latitude": 45.3788317,
+            "longitude": -122.74227549999999,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/physical-therapy/meridian-park",
+            "phoneNumber": "(503) 692-7416",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/doctors-and-locations/physical-therapy/meridian-park"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWYR45WA9kDKXfrheWfVYarJMQAvXhqUFAV1nh",
+            "cid": "1118254390293828889",
+            "fid": "0x549573d5ad4bafe1:0xf84d67175fc1519",
+            "placeId": "ChIJ4a9LrdVzlVQRGRX8dXHWhA8"
+        },
+        {
+            "position": 12,
+            "title": "Cascadia Health - Woodland Park Health Center",
+            "address": "10373 NE Hancock St, Portland, OR 97220",
+            "latitude": 45.5365657,
+            "longitude": -122.55588639999999,
+            "rating": 3.6,
+            "ratingCount": 34,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Community health centre",
+                "Doctor",
+                "Mental health clinic"
+            ],
+            "website": "http://www.cascadiahealth.org/",
+            "phoneNumber": "(503) 253-6754",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGJoO1wQQ2ZGkhIqRwyauw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=316.8618&pitch=0&thumbfov=100",
+            "cid": "13868521922866265430",
+            "fid": "0x5495a164e1f87e43:0xc076e335d4293d56",
+            "placeId": "ChIJQ3744WShlVQRVj0p1DXjdsA"
+        },
+        {
+            "position": 13,
+            "title": "Legacy-GoHealth Urgent Care",
+            "address": "305 SE Chkalov Dr Ste 170, Vancouver, WA 98683",
+            "latitude": 45.6194494,
+            "longitude": -122.55438249999999,
+            "rating": 4.1,
+            "ratingCount": 690,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Blood testing service",
+                "Child health care centre",
+                "Medical clinic",
+                "Occupational health service",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.gohealthuc.com/legacy/locations/cascade-park?utm_source=gmb&utm_medium=organic&utm_content=legacy-cascadepark",
+            "phoneNumber": "(360) 787-4135",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.gohealthuc.com/legacy/locations/cascade-park?utm_source=gmb-bookonline&utm_medium=organic&utm_content=legacy-cascade-park&rwg_token=AAiGsoaSYknn0RHZ37eoWlSgKBh9Wj8nq1a3molTn4tblfHiqO7qBWUFumtKgbUe9D0VUi-io6ILC3umW1Bm53hUaisU2tjYx3UvvnEye1Jy48imukrnFH8%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMD3VoYXWUWSYgumNLzH5cPJcCTrmMhaf3UEMUK",
+            "cid": "6734081131481334043",
+            "fid": "0x5495a5107840430d:0x5d74431c429b011b",
+            "placeId": "ChIJDUNAeBCllVQRGwGbQhxDdF0"
+        },
+        {
+            "position": 14,
+            "title": "Urgent Care | Kaiser Permanente Cascade Park",
+            "address": "12607 SE Mill Plain Blvd, Vancouver, WA 98684",
+            "latitude": 45.6180288,
+            "longitude": -122.5411827,
+            "rating": 4.3,
+            "ratingCount": 304,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Hospital department"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Cascade-Park-Medical-Office-100275?utm_source=GMB_listing",
+            "phoneNumber": "(800) 813-2000",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20137\u202fPM",
+                "Wednesday": "10\u202fAM\u20137\u202fPM",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "10\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOw8sKny9KxOOUVtQx0WC3_pA5W3-bzr3wx7jzz",
+            "cid": "5424265918874775423",
+            "fid": "0x5495a518d53c0229:0x4b46dd1d3dc9ef7f",
+            "placeId": "ChIJKQI81RillVQRf-_JPR3dRks"
+        },
+        {
+            "position": 15,
+            "title": "Douglas Park, DDS",
+            "address": "1201 SE 223rd Ave Suite 240, Gresham, OR 97030",
+            "latitude": 45.5137984,
+            "longitude": -122.4342755,
+            "rating": 4.9,
+            "ratingCount": 509,
+            "type": "Pediatric dentist",
+            "types": [
+                "Pediatric dentist",
+                "Cosmetic dentist",
+                "Dental clinic",
+                "Dental hygienist",
+                "Dentist",
+                "Emergency dental service",
+                "Teeth whitening service"
+            ],
+            "website": "https://parkdds.com/",
+            "phoneNumber": "(503) 666-9800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.parkdds.com/p/form-878-p.asp?C=1103"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPP0MGOOZFnz6HhkNuv1me9uVnNYgxE9NJpXRc0",
+            "cid": "12373793469921273871",
+            "fid": "0x5495987c58d57a19:0xabb88b9a0ab4a80f",
+            "placeId": "ChIJGXrVWHyYlVQRD6i0CpqLuKs"
+        },
+        {
+            "position": 16,
+            "title": "Family Medical Group",
+            "address": "2647 NE 33rd Ave, Portland, OR 97212",
+            "latitude": 45.541803099999996,
+            "longitude": -122.63096399999999,
+            "rating": 3.3,
+            "ratingCount": 104,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "http://www.fmgne.com/",
+            "phoneNumber": "(503) 288-0083",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOEs8BLUGZdoZso5Ik_Tk_UfnjVGQ_UylKBNPor",
+            "cid": "12802574236414609122",
+            "fid": "0x5495a0d356e31125:0xb1abe16fe40f86e2",
+            "placeId": "ChIJJRHjVtOglVQR4oYP5G_hq7E"
+        },
+        {
+            "position": 17,
+            "title": "Adventist Health Primary Care - Parkrose",
+            "address": "1350 NE 122nd Ave, Portland, OR 97230",
+            "latitude": 45.5325838,
+            "longitude": -122.53721379999999,
+            "rating": 4.4,
+            "ratingCount": 273,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://adventisthealth.org/locations/detail/adventist-health-primary-care-parkrose/",
+            "phoneNumber": "(503) 408-7010",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1pKxeLq58NmI7UkFlswaZvHoZBJH_3GhjQAgt",
+            "cid": "9089396381457140478",
+            "fid": "0x5495a3d56f091fc3:0x7e2405d9eb794afe",
+            "placeId": "ChIJwx8Jb9WjlVQR_kp569kFJH4"
+        },
+        {
+            "position": 18,
+            "title": "Park Medical Centers - Plymouth Road",
+            "address": "20720 Plymouth Rd, Detroit, MI 48228",
+            "latitude": 42.372104,
+            "longitude": -83.2441989,
+            "rating": 4.4,
+            "ratingCount": 184,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.parkmedicalcenters.com/",
+            "phoneNumber": "(313) 493-4330",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwaiUwgj75L9wS0Yvp9A5li3ZEPFpGSL_NjAt2",
+            "cid": "10713345785685952307",
+            "fid": "0x8824ca98a7cb4d0d:0x94ad733af7bd4733",
+            "placeId": "ChIJDU3Lp5jKJIgRM0e99zpzrZQ"
+        },
+        {
+            "position": 19,
+            "title": "Park Medical & Diagnostic Center",
+            "address": "131-24 Rockaway Blvd, South Ozone Park, NY 11420",
+            "latitude": 40.674670299999995,
+            "longitude": -73.8066032,
+            "rating": 1.8,
+            "ratingCount": 61,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Family practice physician",
+                "Medical diagnostic imaging center",
+                "Women's health clinic"
+            ],
+            "website": "http://www.parkhealth.com/",
+            "phoneNumber": "(718) 659-7166",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20138\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/park-health-center-34147?LocIdent=56604&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_fh3qZXo230qY6V0tQwTkgB-lo_z4L27c7Z50Kp8DcHizk1CB-entity&rwg_token=AAiGsoZJ3RtZWIGj624-zad3lq4lMkTP8Se0QDA4ihE31MgrbpKIWL8L1vY8idyjB-TVDk_0yhV85Rb5kiddaucBBt_MiYS7zA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMPP76Gg18NpBwulgTtfbb2OLmM2sYZIvY27RvB",
+            "cid": "17841165847500138985",
+            "fid": "0x89c267234c98a641:0xf7988dcfcf13a9e9",
+            "placeId": "ChIJQaaYTCNnwokR6akTz8-NmPc"
+        }
+    ],
+    "credits": 3
+}

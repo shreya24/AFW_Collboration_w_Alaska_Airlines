@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Lupus Foundation of America - Alaska",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2042815,-149.8073899,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Alaska Foundation",
+            "address": "1815 Bragaw St Ste 206, Anchorage, AK 99508",
+            "latitude": 61.2042815,
+            "longitude": -149.8073899,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "College",
+            "types": [
+                "College",
+                "Foundation"
+            ],
+            "website": "https://www.alaska.edu/foundation/",
+            "phoneNumber": "(907) 786-1111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YhzQ7TERn3aoLZKbFijZ_A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=90.4004&pitch=0&thumbfov=100",
+            "cid": "10720130923505678376",
+            "fid": "0x56c8965400000001:0x94c58e46f93c7828",
+            "placeId": "ChIJAQAAAFSWyFYRKHg8-UaOxZQ"
+        }
+    ],
+    "credits": 3
+}

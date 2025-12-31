@@ -1,0 +1,55 @@
+{
+    "searchParameters": {
+        "q": "Dr. Paul Kent",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.3575498,-80.8065257,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Paul F. Kent, MD, PhD",
+            "address": "710 W 168th St, New York, NY 10032",
+            "latitude": 40.8421954,
+            "longitude": -73.9429957,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Doctor",
+                "Neurophysiologist"
+            ],
+            "website": "https://doctors.columbia.edu/us/ny/new-york/paul-f-kent-md-phd-710-west-168th-street?utm_source=yextgmb&utm_medium=organic&utm_campaign=yext_doctor_listings&y_source=1_MTIzMjczNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(646) 426-3876",
+            "bookingLinks": [
+                "https://doctors.columbia.edu/us/ny/new-york/paul-f-kent-md-phd-710-west-168th-street?utm_source=yextgmb&utm_medium=organic&utm_campaign=yext_doctor_listings&y_source=1_MTIzMjczNzktNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D#bookOnline"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO1nJPzSw70tnd8VDIkDn4vDEOfvqxX6ObQk8ch",
+            "cid": "213510755612187948",
+            "fid": "0x89c2f7557559970b:0x2f68ae6a7fd5d2c",
+            "placeId": "ChIJC5dZdVX3wokRLF39p-aK9gI"
+        },
+        {
+            "position": 2,
+            "title": "Paul Kent, MD",
+            "address": "1725 W Harrison St Suite 710, Chicago, IL 60612",
+            "latitude": 41.8729042,
+            "longitude": -87.6700558,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Pediatric oncologist",
+            "types": [
+                "Pediatric oncologist",
+                "Pediatrician"
+            ],
+            "website": "https://doctors.rush.edu/details/973/?utm_source=listing&utm_medium=organic&utm_campaign=yext&y_source=1_ODg0NjQ5Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bePQiq9pd3Bx9TyNXUo_tg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=144.7987&pitch=0&thumbfov=100",
+            "cid": "8146019772921121789",
+            "fid": "0x880e2de506dff873:0x710c79d2f2458bfd",
+            "placeId": "ChIJc_jfBuUtDogR_YtF8tJ5DHE"
+        }
+    ],
+    "credits": 3
+}

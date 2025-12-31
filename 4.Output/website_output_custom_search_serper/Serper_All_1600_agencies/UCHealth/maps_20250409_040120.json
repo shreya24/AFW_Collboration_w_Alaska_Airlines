@@ -1,0 +1,643 @@
+{
+    "searchParameters": {
+        "q": "UCHealth",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6827467,-104.9120053,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth University of Colorado Hospital (UCH)",
+            "address": "12605 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.7421191,
+            "longitude": -104.8414959,
+            "rating": 3.1,
+            "ratingCount": 1506,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-university-of-colorado-hospital-uch/",
+            "phoneNumber": "(720) 848-0000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJ8QhOJGk4XJGDsXlJ_kB0HKUA6pFyr4faS972",
+            "cid": "975602612854654780",
+            "fid": "0x876c7cb367cdd00d:0xd8a09684d25073c",
+            "placeId": "ChIJDdDNZ7N8bIcRPAclTWgJig0"
+        },
+        {
+            "position": 2,
+            "title": "UCHealth Urgent Care - Powers",
+            "address": "4323 Integrity Center Point, Colorado Springs, CO 80917",
+            "latitude": 38.8942376,
+            "longitude": -104.7210597,
+            "rating": 3.9,
+            "ratingCount": 1081,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational health service",
+                "Occupational safety and health",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-powers/",
+            "phoneNumber": "(719) 591-2558",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/363/visits/new?rwg_token=AAiGsobzMquJ4977i2ISsuqIf8kV1n_2Htyhl4NXphW01QU9Xkp2iIJ6b67gFjgwCzzHmFXaevOShTuR1WTRr_cFjP4JqtuCWw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdZVSFP4Q9S16SXPhUaTLEiCW4fmF8qcRWV90N",
+            "cid": "1561280481475930852",
+            "fid": "0x87134891630ebbf7:0x15aac8536d1faae4",
+            "placeId": "ChIJ97sOY5FIE4cR5KofbVPIqhU"
+        },
+        {
+            "position": 3,
+            "title": "UCHealth Urgent Care - Thornton",
+            "address": "13631 Colorado Blvd, Thornton, CO 80602",
+            "latitude": 39.9435024,
+            "longitude": -104.94203329999999,
+            "rating": 4.4,
+            "ratingCount": 565,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/urgent-care-thornton/",
+            "phoneNumber": "(303) 252-2960",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uchealth.org/locations/urgent-care-thornton/",
+                "https://clockwisemd.com/hospitals/1604/visits/new?rwg_token=AAiGsoYAUzhILpiCsZkuTNn16Aum8wa4jxRtU6P9FAA6h3e-AdvIxoy4S44pAMwIiPLHg6RuwwCIv5e0mDoD-HFW9YeHWGeAdQ-9nMSKwOYduhuECsCpIug%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXPIfM-aTC5Fa6QplJ2F1GEYEIBBkOCm1bOAgJ",
+            "cid": "15125386106364801413",
+            "fid": "0x876c747e5340ab37:0xd1e82a86a880b185",
+            "placeId": "ChIJN6tAU350bIcRhbGAqIYq6NE"
+        },
+        {
+            "position": 4,
+            "title": "UCHealth Urgent Care - Circle Square",
+            "address": "2767 Janitell Rd, Colorado Springs, CO 80906",
+            "latitude": 38.7941959,
+            "longitude": -104.78787539999999,
+            "rating": 4,
+            "ratingCount": 694,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-circle-square-colorado-springs/",
+            "phoneNumber": "(719) 365-2888",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKSVnkGKfo7VqUbP2XirZn1ELgMK_CFvk1O26A",
+            "cid": "9414300827440141751",
+            "fid": "0x8713447a1b85e06b:0x82a650b9343c55b7",
+            "placeId": "ChIJa-CFG3pEE4cRt1U8NLlQpoI"
+        },
+        {
+            "position": 5,
+            "title": "UCHealth Urgent Care - Garden of the Gods",
+            "address": "1035 Garden of the Gods Rd #120, Colorado Springs, CO 80907",
+            "latitude": 38.8963737,
+            "longitude": -104.84178159999999,
+            "rating": 4.4,
+            "ratingCount": 947,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational health service",
+                "Occupational safety and health",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-garden-of-the-gods/",
+            "phoneNumber": "(719) 365-3200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/487/visits/new?rwg_token=AAiGsob17nUHM-rQ9E0rfc_rdUYGXsahWNGtxT4lGvHDCfSrv3Jog8HbDGztGiWikF5MDL6w9T673qMdDwwc8gomOYK6LT7EHRb2IS3kp0cWpdTwLZL0hjQ%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7WEvof0eKwNAYz7XB8dUD_43tByLu6VHi1X16",
+            "cid": "10224801924485985617",
+            "fid": "0x87134fd71bc7dedf:0x8de5cb2d4fb7b551",
+            "placeId": "ChIJ397HG9dPE4cRUbW3Ty3L5Y0"
+        },
+        {
+            "position": 6,
+            "title": "UCHealth Memorial Hospital Central",
+            "address": "1400 E Boulder St, Colorado Springs, CO 80909",
+            "latitude": 38.8397642,
+            "longitude": -104.7994092,
+            "rating": 2.7,
+            "ratingCount": 983,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-central/",
+            "phoneNumber": "(719) 365-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORxEY3OVprYkrKu4n8Si8dye4dqHMB9YX-zTX-",
+            "cid": "13025990946729059480",
+            "fid": "0x87134572ff53c32d:0xb4c59dc05b3d6498",
+            "placeId": "ChIJLcNT_3JFE4cRmGQ9W8CdxbQ"
+        },
+        {
+            "position": 7,
+            "title": "UCHealth Urgent Care - Voyager Parkway",
+            "address": "13445 Voyager Pkwy, Colorado Springs, CO 80921",
+            "latitude": 39.026284,
+            "longitude": -104.8165748,
+            "rating": 4.2,
+            "ratingCount": 464,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational health service",
+                "Occupational safety and health",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-voyager-parkway/",
+            "phoneNumber": "(719) 365-3220",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/364/visits/new?rwg_token=AAiGsoZvGdQdj4q721OGdkzNOrgHpYda8K8YGzUiPWYGEbOtLaM16fO_WNVOR2jdasjtswtIGv7nc_CecINWvgNsTPgwDjBgaw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNYVNEOsTz12-AwucBGBoFrDN0-f4G3ExoTZ6zi",
+            "cid": "10875709659164834013",
+            "fid": "0x87134d340b854181:0x96ee485022cdf8dd",
+            "placeId": "ChIJgUGFCzRNE4cR3fjNIlBI7pY"
+        },
+        {
+            "position": 8,
+            "title": "UCHealth Urgent Care - Castle Rock",
+            "address": "4404 Barranca Ln, Castle Rock, CO 80104",
+            "latitude": 39.406039899999996,
+            "longitude": -104.85590549999999,
+            "rating": 4.2,
+            "ratingCount": 417,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational health service",
+                "Occupational safety and health",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-castle-rock/",
+            "phoneNumber": "(720) 733-5260",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1872/visits/new?rwg_token=AAiGsoZfHSRiBB4NCgT1lfsqsNujJEPDeyNrOJwDsimWp8ynOBQ5lR3I46WSOxePSfnwabavIylNcYhgrOJNMOEhksysBu3qzpuIex2PxFZzNFpekErwSNA%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP32nYj4UxAzNGWrT6n7KjiXgZT9uEkOQ4M_vnG",
+            "cid": "7303579293342027830",
+            "fid": "0x876c99db5c2b583f:0x655b86abd88cd036",
+            "placeId": "ChIJP1grXNuZbIcRNtCM2KuGW2U"
+        },
+        {
+            "position": 9,
+            "title": "UCHealth Urgent Care - Main Street",
+            "address": "2101 Main St, Longmont, CO 80501",
+            "latitude": 40.1963806,
+            "longitude": -105.10295099999999,
+            "rating": 3.8,
+            "ratingCount": 578,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-longmont/",
+            "phoneNumber": "(720) 745-8030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1624/visits/new?rwg_token=AAiGsob8sOYUznMXhy3meLQjXcKa2do-oeg3ir_GmCA-1H8E6C0TnN81c1QyIUr98KDQWyZlBzdVhK_6BzCCSIT398qC_Xs4B4x7kB349t4BjCpbo2pfd-I%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNC2dNHWtoeI3UvB0w-_uQ6-Jk2iriEbI00xGDG",
+            "cid": "517140405618877740",
+            "fid": "0x876bf9601093c0d5:0x72d40757fea252c",
+            "placeId": "ChIJ1cCTEGD5a4cRLCXqf3VALQc"
+        },
+        {
+            "position": 10,
+            "title": "UCHealth Medical Center of the Rockies",
+            "address": "2500 Rocky Mountain Ave, Loveland, CO 80538",
+            "latitude": 40.415608399999996,
+            "longitude": -104.99681389999999,
+            "rating": 3.4,
+            "ratingCount": 492,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-medical-center-of-the-rockies/",
+            "phoneNumber": "(970) 624-2500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJalmwLnsbRpW44_0WIP9UUiQCmfvMGPMR5-Un",
+            "cid": "1662421262322690243",
+            "fid": "0x876ead12ff34b1d3:0x17121b5487cce8c3",
+            "placeId": "ChIJ07E0_xKtbocRw-jMh1QbEhc"
+        },
+        {
+            "position": 11,
+            "title": "UCHealth Highlands Ranch Hospital",
+            "address": "1500 Park Central Dr, Highlands Ranch, CO 80129",
+            "latitude": 39.5520463,
+            "longitude": -105.0054225,
+            "rating": 3.7,
+            "ratingCount": 312,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-highlands-ranch-hospital/",
+            "phoneNumber": "(720) 516-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOLKSJWhBNHwWk4O7J-aggkvGKQPAiEvNqfPlVf",
+            "cid": "12076574744773727897",
+            "fid": "0x876c819abf56808b:0xa7989cbef5b11699",
+            "placeId": "ChIJi4BWv5qBbIcRmRax9b6cmKc"
+        },
+        {
+            "position": 12,
+            "title": "UCHealth Longs Peak Hospital",
+            "address": "1750 E Ken Pratt Blvd, Longmont, CO 80504",
+            "latitude": 40.1621443,
+            "longitude": -105.0583182,
+            "rating": 3.2,
+            "ratingCount": 341,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-longs-peak-hospital/",
+            "phoneNumber": "(720) 718-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaKbfGhVzrgh4UflI5DyBkvUOq_ATUjVsJi7mI",
+            "cid": "6347399965871250889",
+            "fid": "0x876bf85cc654bc41:0x58167ea395151dc9",
+            "placeId": "ChIJQbxUxlz4a4cRyR0VlaN-Flg"
+        },
+        {
+            "position": 13,
+            "title": "UCHealth Urgent Care - Orchards",
+            "address": "221 E 29th St Suite 102, Loveland, CO 80538",
+            "latitude": 40.4229766,
+            "longitude": -105.075268,
+            "rating": 4.3,
+            "ratingCount": 429,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-orchards/",
+            "phoneNumber": "(970) 624-5150",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1626/visits/new?rwg_token=AAiGsoYQUt7K5AsX_EQKJtK2CIXO74ru5HfRsAo3ntbnZHLeSEy2oJbDd0D_sZJdfee2-58k-zit79YsKnfu1crBPOrOVX82mA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrUbXM04U1UbtGrr1fbPJoh8ZP6RcZIr72obo7",
+            "cid": "6886525504236085222",
+            "fid": "0x8769528a0c13923d:0x5f91da75b0a8dfe6",
+            "placeId": "ChIJPZITDIpSaYcR5t-osHXakV8"
+        },
+        {
+            "position": 14,
+            "title": "UCHealth Urgent Care - Harmony Campus",
+            "address": "2127 E Harmony Rd Building B Suite 140, Fort Collins, CO 80528",
+            "latitude": 40.5214699,
+            "longitude": -105.0363387,
+            "rating": 4.4,
+            "ratingCount": 636,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-harmony-campus/",
+            "phoneNumber": "(970) 297-6250",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1625/visits/new?rwg_token=AAiGsoaxlyc7fAupHQ0xhShp5_xOOEXhOGpSqczbKLBejLR7UCZkZ0KmaOlscEAMT4C_WbcWWbLBFr2BW7nZ5pSF8fIVKsJ6rw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYMy9hnMc6fVu4GGMqzsXFLXiBJoA-zKdYXwGL",
+            "cid": "14457214263441566077",
+            "fid": "0x87694cadf38e270b:0xc8a257c66625297d",
+            "placeId": "ChIJCyeO861MaYcRfSklZsZXosg"
+        },
+        {
+            "position": 15,
+            "title": "UCHealth Poudre Valley Hospital",
+            "address": "1024 S Lemay Ave, Fort Collins, CO 80524",
+            "latitude": 40.5712974,
+            "longitude": -105.0560392,
+            "rating": 3,
+            "ratingCount": 530,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-poudre-valley-hospital/",
+            "phoneNumber": "(970) 495-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOe84fzBheKGVW9k7r6VHaiRXWWW1BwDCYCqGfc",
+            "cid": "872340695785897680",
+            "fid": "0x87694ae071b76365:0xc1b2d3daf6f7ed0",
+            "placeId": "ChIJZWO3ceBKaYcR0H5vrz0tGww"
+        },
+        {
+            "position": 16,
+            "title": "UCHealth Urgent Care - Steele Street",
+            "address": "311 Steele St, Denver, CO 80206",
+            "latitude": 39.7211986,
+            "longitude": -104.9500652,
+            "rating": 4.3,
+            "ratingCount": 324,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-steele-street-urgent-care-cherry-creek/",
+            "phoneNumber": "(303) 372-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/1603/visits/new?rwg_token=AAiGsoZjxbqSh-Dg_ZeLny9EXxM0ail0Y_MWmJy5O_3anvVfrc39ya6F-Su2t0mj2jjHTQICZIIUjQKk_4pJHBux7hZIpxAD7ZOSmUtVR3JCyxLFubCSvow%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgeFrCrrhUgDIamnkKk5WXpdDAVe9W0_2M1Xil",
+            "cid": "8078841009840083325",
+            "fid": "0x876c7e982447d593:0x701dcf184c60517d",
+            "placeId": "ChIJk9VHJJh-bIcRfVFgTBjPHXA"
+        },
+        {
+            "position": 17,
+            "title": "UCHealth Memorial Hospital North",
+            "address": "4050 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.967079999999996,
+            "longitude": -104.75482509999999,
+            "rating": 3.1,
+            "ratingCount": 572,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-north/",
+            "phoneNumber": "(719) 364-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOgW4rG3V_sBs5azTo9ELAhpj5TzmYGBnCSxgk",
+            "cid": "4884588321556751190",
+            "fid": "0x87134c088741ac53:0x43c98b32e4696356",
+            "placeId": "ChIJU6xBhwhME4cRVmNp5DKLyUM"
+        },
+        {
+            "position": 18,
+            "title": "UCHealth Greeley Hospital",
+            "address": "6767 W 29th St, Greeley, CO 80634",
+            "latitude": 40.3909431,
+            "longitude": -104.7903343,
+            "rating": 3.3,
+            "ratingCount": 265,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-greeley-hospital/",
+            "phoneNumber": "(970) 652-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlnhHymeZvzIsa4ghALh_XHrVpCPaG2JgYCSwW",
+            "cid": "9540393764049878795",
+            "fid": "0x876ea784b33f0e53:0x84664994cb8b7f0b",
+            "placeId": "ChIJUw4_s4SnbocRC3-Ly5RJZoQ"
+        },
+        {
+            "position": 19,
+            "title": "UCHealth Urgent Care - Firestone",
+            "address": "Carbon Valley Medical Center, 5965 Firestone Blvd Building B, Longmont, CO 80504",
+            "latitude": 40.1612679,
+            "longitude": -104.9427324,
+            "rating": 4.4,
+            "ratingCount": 183,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-carbon-valley/",
+            "phoneNumber": "(720) 652-7055",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/2126/visits/new?rwg_token=AAiGsoaD8kPYY3mm2gUj_irWxj7uz612vNLEntH2rTqqP4Q71gC6XWCbznMWOqiIRL5k5kg85JWpF-43KTBVI17K6awk_tNdPKG6AC-4NKRgDkQpEBAI1Cg%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwPpryNVDOBS-tG6Tbe7qNLmS2SAMnepd1CNEW",
+            "cid": "16678491589687219799",
+            "fid": "0x876c060bcb1deef1:0xe775e7bc00a59657",
+            "placeId": "ChIJ8e4dywsGbIcRV5alALzndec"
+        },
+        {
+            "position": 20,
+            "title": "UCHealth Urgent Care - Highlands Ranch",
+            "address": "9475 S University Blvd, Highlands Ranch, CO 80126",
+            "latitude": 39.5442728,
+            "longitude": -104.94467739999999,
+            "rating": 4.4,
+            "ratingCount": 275,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-urgent-care-highlands-ranch/",
+            "phoneNumber": "(303) 470-4061",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/4272/visits/new?rwg_token=AAiGsoashDy8ilMOQFRn6JQ2q_deFSctV34mIEuoI0APw8HT3lGQ4JNeoNYCHknpHRhbgxdiVES3uO9_ckGhlnQlhzF9Uwv0wyuFhkiXbDyTTpTWUZNEgSk%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMT9zA8lfro8WzKEKKkp8Uduw_qPmNPOcWo1sVf",
+            "cid": "16995933516086112807",
+            "fid": "0x876c838dabdccfe5:0xebddaf7c0c77f227",
+            "placeId": "ChIJ5c_cq42DbIcRJ_J3DHyv3es"
+        }
+    ],
+    "credits": 3
+}

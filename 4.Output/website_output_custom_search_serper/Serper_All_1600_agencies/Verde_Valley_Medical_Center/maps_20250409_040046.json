@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "Verde Valley Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7351483,-112.0296504,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Verde Valley Medical Center",
+            "address": "269 S Candy Ln, Cottonwood, AZ 86326",
+            "latitude": 34.7355022,
+            "longitude": -112.0298643,
+            "rating": 2.6,
+            "ratingCount": 148,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.nahealth.com/contact-us",
+            "phoneNumber": "(928) 634-2251",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOiD_v-v-L2L_hnDGBfOvK9-XvfAJWsEu3-RN7D",
+            "cid": "12391240177728024676",
+            "fid": "0x872d0fedd0202f85:0xabf6874a4006f064",
+            "placeId": "ChIJhS8g0O0PLYcRZPAGQEqH9qs"
+        },
+        {
+            "position": 2,
+            "title": "Verde Valley Medical Center Emergency Department",
+            "address": "269 S Candy Ln, Cottonwood, AZ 86326",
+            "latitude": 34.7365634,
+            "longitude": -112.0294366,
+            "rating": 2.4,
+            "ratingCount": 53,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://nahealth.com/emergency-department",
+            "phoneNumber": "(928) 639-6172",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_2IrNJD2o3S-8WvtamGVPNqm9GNBzJ5OUg4mt1TXSIX1-W24w67tj_ce8dpwSj5K5ccfeDj6ZMiS49ZbiWxmrOvJaTDIn-1iB_FKyZRDvawXSnjKLdTYZgBD2Ix8bsqVH3vBc",
+            "cid": "8708217879752178525",
+            "fid": "0x872d0fedd6ff03b5:0x78d9ce0605557b5d",
+            "placeId": "ChIJtQP_1u0PLYcRXXtVBQbO2Xg"
+        },
+        {
+            "position": 3,
+            "title": "Verde Valley Medical Center: Verde Valley Ambulatory Surgery Center",
+            "address": "294 AZ-89A, Cottonwood, AZ 86326",
+            "latitude": 34.733733199999996,
+            "longitude": -112.0294464,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.nahealth.com/physician-recruitment/verde-valley-medical-center/",
+            "phoneNumber": "(928) 639-5200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iC6ilq85jbxabidG0vhuJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=262.02377&pitch=0&thumbfov=100",
+            "cid": "11495383203234153968",
+            "fid": "0x872d0fef19fcd797:0x9f87ce1e41c385f0",
+            "placeId": "ChIJl9f8Ge8PLYcR8IXDQR7Oh58"
+        }
+    ],
+    "credits": 3
+}

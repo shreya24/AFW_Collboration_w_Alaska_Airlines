@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Elks Rehab Movement Disorders Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6145382,-116.1945707,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Rehabilitation Hospital: Boise",
+            "address": "600 Robbins Rd, Boise, ID 83702",
+            "latitude": 43.6156229,
+            "longitude": -116.1915593,
+            "rating": 3.8,
+            "ratingCount": 25,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Hospital"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/hospitals-and-medical-centers/st-lukes-rehabilitation-hospital",
+            "phoneNumber": "(208) 489-4444",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOs4J7-cui9x-evDi0joQb9BshgDH0IBqEiPuKI",
+            "cid": "17365756926996368842",
+            "fid": "0x54aef902c77bb08d:0xf0ff8fead965cdca",
+            "placeId": "ChIJjbB7xwL5rlQRys1l2eqP__A"
+        },
+        {
+            "position": 2,
+            "title": "St Luke's-Elks Rehab (Boise Shoulder, Elbow, Hand Clinic)",
+            "address": "311 W Idaho St, Boise, ID 83702",
+            "latitude": 43.6134535,
+            "longitude": -116.19758209999999,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Occupational therapist"
+            ],
+            "phoneNumber": "(208) 489-5050",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kvGDi2_pHlGcq5RE9MAy6g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=207.69516&pitch=0&thumbfov=100",
+            "cid": "13677363058749851556",
+            "fid": "0x54aef8fc8df8ed19:0xbdcfc13c74d5c7a4",
+            "placeId": "ChIJGe34jfz4rlQRpMfVdDzBz70"
+        }
+    ],
+    "credits": 3
+}

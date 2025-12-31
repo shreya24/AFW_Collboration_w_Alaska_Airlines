@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "community CHPW",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6066655,-122.3354029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Health Plan of Washington",
+            "address": "1111 3rd Ave #400, Seattle, WA 98101",
+            "latitude": 47.6066655,
+            "longitude": -122.33540289999999,
+            "rating": 2.6,
+            "ratingCount": 72,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.chpw.org/?utm_source=google_my_business&utm_medium=organic&utm_campaign=google_my_business",
+            "phoneNumber": "(800) 440-1561",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKasfM1_gHuDAwNTufv0_rNcmDo0x-O1UPI_wG",
+            "cid": "9971439705953714839",
+            "fid": "0x5490154ac469556b:0x8a61ab94e498c297",
+            "placeId": "ChIJa1VpxEoVkFQRl8KY5JSrYYo"
+        }
+    ],
+    "credits": 3
+}

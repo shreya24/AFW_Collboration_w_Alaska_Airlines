@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Salish Integrative Oncology Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2417893,-122.3787549,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Salish Cancer Center",
+            "address": "3700 Pacific Hwy E #100, Fife, WA 98424",
+            "latitude": 47.2417893,
+            "longitude": -122.37875489999999,
+            "rating": 3.8,
+            "ratingCount": 10,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Acupuncturist",
+                "Alternative medicine practitioner",
+                "Oncologist",
+                "Registered general nurse"
+            ],
+            "website": "https://www.salishcancercenter.com/",
+            "phoneNumber": "(253) 382-6300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtBpEz7WshY46BaIxF-dUMeb1sDGYfF4oTWI53",
+            "cid": "4065685386864764253",
+            "fid": "0x5490ff5b92146997:0x386c37518492255d",
+            "placeId": "ChIJl2kUklv_kFQRXSWShFE3bDg"
+        }
+    ],
+    "credits": 3
+}

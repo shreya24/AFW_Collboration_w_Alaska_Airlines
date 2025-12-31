@@ -1,0 +1,186 @@
+{
+    "searchParameters": {
+        "q": "Providence Health and Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.3937561,-107.99178,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Health & Services",
+            "address": "1801 Lind Ave SW, Renton, WA 98057",
+            "latitude": 47.463422699999995,
+            "longitude": -122.2249535,
+            "rating": 4.4,
+            "ratingCount": 87,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://washington.providence.org/contact-us/",
+            "phoneNumber": "(425) 525-3355",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noFGhifXvPr2zi7QZZ6ryl1qvor2lhzTgLL8dJPPx6QhGeBZh_qNGiTcwevMTgJkX9QZPr68YWODNwSqnWFB4bq1fqfgzbpetFCbQZnLGOa2jH2tjAAp0W9xyveShD8eDg4aNswBw",
+            "cid": "12369262043432334660",
+            "fid": "0x54905d3728324a99:0xaba8724b1881b544",
+            "placeId": "ChIJmUoyKDddkFQRRLWBGEtyqKs"
+        },
+        {
+            "position": 2,
+            "title": "Providence Portland Medical Center",
+            "address": "4805 NE Glisan St, Portland, OR 97213",
+            "latitude": 45.5276127,
+            "longitude": -122.61324069999999,
+            "rating": 3.2,
+            "ratingCount": 532,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/portland-medical-center?ls=location&y_source=1_OTU3NjMxMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 215-1111",
+            "bookingLinks": [
+                "https://oregon.providence.org/location-directory/p/providence-portland-medical-center/#llaid=5719sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNBMvt5GKi6b-Ibxk7TbkAYOaQBCWcz0CvzmOej",
+            "cid": "8840160028011374348",
+            "fid": "0x5495a0ddf3c68b9b:0x7aae8eb55339a70c",
+            "placeId": "ChIJm4vG892glVQRDKc5U7WOrno"
+        },
+        {
+            "position": 3,
+            "title": "Providence Regional Medical Center",
+            "address": "1700 13th St, Everett, WA 98201",
+            "latitude": 48.0004461,
+            "longitude": -122.2054325,
+            "rating": 2.9,
+            "ratingCount": 801,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/providence-regional-medical-center-everett?ls=location&y_source=1_OTU3NjU2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 261-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://washington.providence.org/locations-directory/r/regional-medical-center/#llaid=6451sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgxq_NBslmhm3iUPSvd4Vh03wMpCu-0mD6zn--",
+            "cid": "13367697040004444593",
+            "fid": "0x549aaacbd81d6b6f:0xb98399a1fe8171b1",
+            "placeId": "ChIJb2sd2MuqmlQRsXGB_qGZg7k"
+        },
+        {
+            "position": 4,
+            "title": "Providence St. Vincent Medical Center",
+            "address": "9205 SW Barnes Rd, Portland, OR 97225",
+            "latitude": 45.5103371,
+            "longitude": -122.7718563,
+            "rating": 3.1,
+            "ratingCount": 577,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/st-vincent-medical-center?ls=location&y_source=1_OTU3NjM5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 216-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np6RIS6kYfpHaAl9BSS3iBPWLOyIqq8lJRLRbQN0Zsj6KsoZVgYo0MtLJvWy4LDhMj9cGP8w0dhYaz1vPaF8QFl7tcY-O_4o08L_3I49OGvqASVMr4SIq3OlGLq_7ucvujn-f0",
+            "cid": "1736548786178364168",
+            "fid": "0x549509447fd503d5:0x181975eb9f4c1308",
+            "placeId": "ChIJ1QPVf0QJlVQRCBNMn-t1GRg"
+        },
+        {
+            "position": 5,
+            "title": "Providence Healthcare",
+            "address": "11979 Co Rd 11, Burnsville, MN 55337",
+            "latitude": 44.7870661,
+            "longitude": -93.2468312,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://providencemn.com/contact-us/",
+            "phoneNumber": "(612) 486-9109",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PvPTaHKy9mdVFuF2vBbWfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=100.09873&pitch=0&thumbfov=100",
+            "cid": "15169750128122608766",
+            "fid": "0x87f630129517c921:0xd285c75e662f3c7e",
+            "placeId": "ChIJIckXlRIw9ocRfjwvZl7HhdI"
+        },
+        {
+            "position": 6,
+            "title": "Providence Home Care",
+            "address": "3965 4th St E, West Fargo, ND 58078",
+            "latitude": 46.819296,
+            "longitude": -96.89166,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Disability services and support organization",
+            "types": [
+                "Disability services and support organization"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rxFdJYI-_5fnd3mQgL0wKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=1.6094245&pitch=0&thumbfov=100",
+            "cid": "17699277115316845249",
+            "fid": "0x52cf33edf4fc48a9:0xf5a076c2f7a93ac1",
+            "placeId": "ChIJqUj89O0zz1IRwTqp98J2oPU"
+        },
+        {
+            "position": 7,
+            "title": "Provident Home Healthcare",
+            "address": "2852 Anthony Ln S, St Anthony, MN 55418",
+            "latitude": 45.0177765,
+            "longitude": -93.2117037,
+            "rating": 4,
+            "ratingCount": 14,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "http://www.providenthhc.com/",
+            "phoneNumber": "(612) 238-4688",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-LOhIUWsIhrKkpJtNLDs7Sz8pI6uO-qXQDGXYPsGPPviW38mFcvbfchX9-T4XDdfeGQqZyzbnnPHu4Thd2SbzEPKA_le4B6npr8hzy0XbPCVJcWfW3W5a7CDZpYObd1Ss3dsf",
+            "cid": "1451779294484716446",
+            "fid": "0x52b32c3b34257919:0x1425c19394075b9e",
+            "placeId": "ChIJGXklNDsss1IRnlsHlJPBJRQ"
+        }
+    ],
+    "credits": 3
+}

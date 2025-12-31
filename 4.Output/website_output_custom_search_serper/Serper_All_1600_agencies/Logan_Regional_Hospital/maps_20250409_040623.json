@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Logan Regional Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9990505,-113.0721072,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Medical Center",
+            "address": "310 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2147675,
+            "longitude": -114.3236774,
+            "rating": 2.3,
+            "ratingCount": 393,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.logan.org/logan-health-medical-center/",
+            "phoneNumber": "(406) 752-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqMbbkUnmYJNLcDcp2SS-A-8Xs26rcz5JgN4TN",
+            "cid": "1626888663088709937",
+            "fid": "0x5366509fc8ff68ef:0x1693de9e94834131",
+            "placeId": "ChIJ72j_yJ9QZlMRMUGDlJ7ekxY"
+        },
+        {
+            "position": 2,
+            "title": "Logan Regional Hospital Medical Records",
+            "address": "1400 N 500 E, Logan, UT 84341",
+            "latitude": 41.7833335,
+            "longitude": -111.820537,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/location-details/logan-regional-hospital/logan-regional-hospital/logan-regional-hospital-medical-records/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(385) 533-0440",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e_RaHfsWEY8e79OUVOoSQg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=103.30407&pitch=0&thumbfov=100",
+            "cid": "14541079106797660050",
+            "fid": "0x87547da1a9dda8f1:0xc9cc4a67db876792",
+            "placeId": "ChIJ8ajdqaF9VIcRkmeH22dKzMk"
+        }
+    ],
+    "credits": 3
+}

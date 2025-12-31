@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Sacramento VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5725922,-121.2966576,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sacramento VA Medical Center",
+            "address": "10535 Hospital Way, Mather, CA 95655",
+            "latitude": 38.572592199999995,
+            "longitude": -121.29665759999999,
+            "rating": 3.8,
+            "ratingCount": 264,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center",
+                "Military hospital"
+            ],
+            "website": "https://www.va.gov/northern-california-health-care",
+            "phoneNumber": "(800) 382-8387",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.northerncalifornia.va.gov/patients/appointments.asp"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGgfwipwndyHTqOkD__pRF4hStTsqSJAE0Z_Ty",
+            "cid": "2671437030510185164",
+            "fid": "0x809add321cd475f3:0x2512d9d34b624acc",
+            "placeId": "ChIJ83XUHDLdmoARzEpiS9PZEiU"
+        }
+    ],
+    "credits": 3
+}

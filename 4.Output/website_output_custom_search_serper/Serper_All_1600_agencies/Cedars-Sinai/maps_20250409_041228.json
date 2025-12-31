@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Cedars-Sinai",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.074922,-118.380967,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cedars-Sinai Medical Center",
+            "address": "8700 Beverly Blvd, Los Angeles, CA 90048",
+            "latitude": 34.074922,
+            "longitude": -118.380967,
+            "rating": 3.4,
+            "ratingCount": 1472,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.cedars-sinai.org/locations/cedars-sinai-main-campus-89.html",
+            "phoneNumber": "(310) 423-3277",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://patients.doctor.com/directAppointment?partner=google&practice=9269538"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_aiU3UWic3OU-TbFs8p1Oq372X5n2PXL7bMgFBptkfHf7vpwnsMmV3BO1_CKmLBwgKPNMgt3kEw1hHltjSNG3EvLCaPgvVlUbqUlOuj_6cYusggm7eldtDyqM38XB1NoeDJbGx4A",
+            "cid": "5935795427323494001",
+            "fid": "0x80c2bff4bd99caf7:0x52602e7df1013e71",
+            "placeId": "ChIJ98qZvfS_woARcT4B8X0uYFI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Midnight Sun Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5627538,-149.256027,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Midnight Sun Oncology",
+            "address": "2490 S Woodworth Loop # 499, Palmer, AK 99645",
+            "latitude": 61.562753799999996,
+            "longitude": -149.256027,
+            "rating": 3.9,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "http://midnightsunoncology.com/",
+            "phoneNumber": "(907) 746-7771",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Wn4FZ_Oix6UmmIqwqfZZVIlgyD_UPKjgccK2TdFo64tmwrC9RHyc5ZCLtjtkeTRpKS_DEk-84msAGdRIB1JYgFuDa2_f3IyrY3Y9Ks5kpvTaiDOt3nV3gzO9nEdVfEL04VdXR",
+            "cid": "5147935222530244242",
+            "fid": "0x56c8e10c63199f5d:0x477123cf59a2fe92",
+            "placeId": "ChIJXZ8ZYwzhyFYRkv6iWc8jcUc"
+        }
+    ],
+    "credits": 3
+}

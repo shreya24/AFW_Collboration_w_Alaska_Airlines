@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Ronald Loge MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4281424,-117.4747428,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anna Loge, MD, FACP",
+            "address": "30 State Hwy 91 S Main Level, Dillon, MT 59725",
+            "latitude": 45.207142,
+            "longitude": -112.6425058,
+            "rating": 4.9,
+            "ratingCount": 61,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(406) 683-1188",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhbD_R5GGJFwJ_15Egbkj1-nQ2w9LoMmk6C_fQ",
+            "cid": "13491287127215979746",
+            "fid": "0x535a07ec867f6107:0xbb3aae298c823ce2",
+            "placeId": "ChIJB2F_huwHWlMR4jyCjCmuOrs"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Anna S. Loge, MD",
+            "address": "1959 NE Pacific St, Seattle, WA 98195",
+            "latitude": 47.6491428,
+            "longitude": -122.3069798,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.uwmedicine.org/",
+            "phoneNumber": "(206) 543-0065",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bUdKqQO7CyoMB4VO6UzbKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=219.77728&pitch=0&thumbfov=100",
+            "cid": "17363411569171469995",
+            "fid": "0x549014ec78409e8d:0xf0f73ad3ad5f96ab",
+            "placeId": "ChIJjZ5AeOwUkFQRq5ZfrdM69_A"
+        }
+    ],
+    "credits": 3
+}

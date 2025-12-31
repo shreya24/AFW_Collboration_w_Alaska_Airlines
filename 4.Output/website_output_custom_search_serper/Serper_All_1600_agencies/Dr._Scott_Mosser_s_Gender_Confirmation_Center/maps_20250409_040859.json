@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Dr. Scott Mosser's Gender Confirmation Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.78947,-122.407824,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Gender Confirmation Center of San Francisco",
+            "address": "450 Sutter St Suite 1010, San Francisco, CA 94108",
+            "latitude": 37.78947,
+            "longitude": -122.40782399999999,
+            "rating": 4,
+            "ratingCount": 70,
+            "type": "Plastic surgery clinic",
+            "types": [
+                "Plastic surgery clinic",
+                "Surgeon"
+            ],
+            "website": "https://www.genderconfirmation.com/",
+            "phoneNumber": "(415) 780-1515",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.genderconfirmation.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsmwpH0BkIMQS2S49csu7e4fhQiM1F5tLZT-bR",
+            "cid": "14133403883714024862",
+            "fid": "0x8085808ea5f09d87:0xc423eff343e6959e",
+            "placeId": "ChIJh53wpY6AhYARnpXmQ_PvI8Q"
+        }
+    ],
+    "credits": 3
+}

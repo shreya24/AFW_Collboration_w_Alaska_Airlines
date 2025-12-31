@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Hickman House Salvation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2046677,-149.8845413,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Salvation Army McKinnell House",
+            "address": "1712 A St, Anchorage, AK 99501",
+            "latitude": 61.204667699999995,
+            "longitude": -149.8845413,
+            "rating": 3.9,
+            "ratingCount": 61,
+            "priceLevel": "$",
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Social services organization"
+            ],
+            "website": "https://mckinnellhouse.salvationarmy.org/",
+            "phoneNumber": "(907) 375-3500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeaSt6Bdnm3kQRvINhvmrmzK6oTgI5p8Ya0sUK",
+            "cid": "9959005183293976785",
+            "fid": "0x56c897d28025ef05:0x8a357e72fa82f0d1",
+            "placeId": "ChIJBe8lgNKXyFYR0fCC-nJ-NYo"
+        }
+    ],
+    "credits": 3
+}

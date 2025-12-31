@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dinon Family Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7573458,-108.1768261,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pinon Family Practice",
+            "address": "2300 E 30th St c2, Farmington, NM 87401",
+            "latitude": 36.757345799999996,
+            "longitude": -108.1768261,
+            "rating": 3.5,
+            "ratingCount": 70,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.pinonfp.com/",
+            "phoneNumber": "(505) 324-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312:15\u202fPM, 1:15\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312:15\u202fPM, 1:15\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312:15\u202fPM, 1:15\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312:15\u202fPM, 1:15\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312:15\u202fPM, 1:15\u20135\u202fPM"
+            },
+            "cid": "2608911367345244557",
+            "fid": "0x873b8f123c17998b:0x2434b710e517898d",
+            "placeId": "ChIJi5kXPBKPO4cRjYkX5RC3NCQ"
+        }
+    ],
+    "credits": 3
+}

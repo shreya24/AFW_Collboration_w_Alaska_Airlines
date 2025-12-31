@@ -1,0 +1,525 @@
+{
+    "searchParameters": {
+        "q": "St. Vincent Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@-33.6583716,150.4054954,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Vincent's Hospital Sydney",
+            "address": "390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8802174,
+            "longitude": 151.2208943,
+            "rating": 3.3,
+            "ratingCount": 228,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.svhs.org.au/",
+            "phoneNumber": "+61 2 8382 1111",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_BymsvJaCaAKJpqQs7MvlyckZ5zcP_rVDHdvGDDpyJvdysOs5bL41sVuNTWdb-uhWOR8B4DKR7riw245pF8nQurXdWx_537uyQlpguBXkdOVaj4KJhRPDmJ1duT68lyO3C8Cxw",
+            "cid": "5354326175135587518",
+            "fid": "0x6b12afb8c14a90bd:0x4a4e6349b0885cbe",
+            "placeId": "ChIJvZBKwbivEmsRvlyIsEljTko"
+        },
+        {
+            "position": 2,
+            "title": "St Vincent's Private Hospital Sydney",
+            "address": "406 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.880579,
+            "longitude": 151.2201321,
+            "rating": 3.9,
+            "ratingCount": 423,
+            "type": "Private hospital",
+            "types": [
+                "Private hospital",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://svphs.org.au/",
+            "phoneNumber": "+61 2 8382 7111",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8qBB63zW7P0cV1ONzxfOsgCDMJw7-SO8JTGTKOhD9QnmdyW-sG_WXDA7KxSt92i61uq7Lo6IBpGqKwzlE1UuTje5CcSeI_c3YEVKNuXxVk_q0bnxm2Qzs2QOC-iT5QGYBtxpXu",
+            "cid": "218840666771442770",
+            "fid": "0x6b12ae10308a33af:0x3097a6d4d524c52",
+            "placeId": "ChIJrzOKMBCuEmsRUkxSTW16CQM"
+        },
+        {
+            "position": 3,
+            "title": "St Vincent's Hospital: Emergency Room",
+            "address": "390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8803118,
+            "longitude": 151.2208389,
+            "rating": 3.2,
+            "ratingCount": 87,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://svhs.org.au/",
+            "phoneNumber": "+61 2 8382 1111",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8RG3mIfwq7nq2eCBIGzX1xqcTe1gxbgC-ubJ6Z1f9oEK6GM3SKfDdT43pZRHTBvg7_CR6QFvrcK9gT-XY9V0wwcr5E0mgHjygELlJqdy2Zu8OE95kLSYoOrkqsKSHwsVnpEWU",
+            "cid": "15164717122515410813",
+            "fid": "0x6b12ae103a2e9b93:0xd273e5e076d09f7d",
+            "placeId": "ChIJk5suOhCuEmsRfZ_QduDlc9I"
+        },
+        {
+            "position": 4,
+            "title": "St Vincent's Clinic",
+            "address": "438 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8810682,
+            "longitude": 151.2192408,
+            "rating": 3.4,
+            "ratingCount": 48,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stvincentsclinic.com.au/",
+            "phoneNumber": "+61 2 8382 6222",
+            "openingHours": {
+                "Wednesday": "7\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7\u202fAM\u20136:30\u202fPM",
+                "Friday": "7\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136:30\u202fPM",
+                "Tuesday": "7\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB877wKG-gBH0Yoq85xO6N-X0tQ7zMoAiHhUMnPQ-20dtfjPAnHpk1JM14Z5MKFghkqxlqrPrqSlMqMqfZSWHRbR0ViWa6eSPS8cqGP3dBTRGZkD0eJoge6kd_5SE0hhCfOUabo",
+            "cid": "2001523891420438501",
+            "fid": "0x6b12ae107b5e966d:0x1bc6d75fed929fe5",
+            "placeId": "ChIJbZZeexCuEmsR5Z-S7V_Xxhs"
+        },
+        {
+            "position": 5,
+            "title": "St Vincent's Medical Imaging - Public Hospital",
+            "address": "Level 3/390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8804138,
+            "longitude": 151.2207336,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.svhs.org.au/our-services/list-of-services/medical-imaging",
+            "phoneNumber": "+61 2 8382 1820",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://forms.svha.org.au/medical-imaging-booking/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNkuKTxqzCastDYoNmZwTQYsrCTxVnpfsqqFDtf",
+            "cid": "18230768410703728186",
+            "fid": "0x6b12af130043020b:0xfd00b3475e688e3a",
+            "placeId": "ChIJCwJDABOvEmsROo5oXkezAP0"
+        },
+        {
+            "position": 6,
+            "title": "St Vincent\u2019s Health Australia",
+            "address": "22/100 William St, East Sydney NSW 2010, Australia",
+            "latitude": -33.8740486,
+            "longitude": 151.21688369999998,
+            "type": "Health consultant",
+            "types": [
+                "Health consultant"
+            ],
+            "website": "https://www.svha.org.au/",
+            "phoneNumber": "+61 2 9367 1100",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "8\u202fAM\u20139\u202fPM",
+                "Sunday": "8\u202fAM\u20139\u202fPM",
+                "Monday": "8\u202fAM\u20139\u202fPM",
+                "Tuesday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7F_5HtnU0LbwQGujSWnWJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=185.11697&pitch=0&thumbfov=100",
+            "cid": "13029048904507335589",
+            "fid": "0x6b915a16492c999f:0xb4d07af2a25a23a5",
+            "placeId": "ChIJn5ksSRZakWsRpSNaovJ60LQ"
+        },
+        {
+            "position": 7,
+            "title": "St Vincent\u2019s Clinic Medical Imaging & Nuclear Medicine",
+            "address": "Suite 501/438 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8813021,
+            "longitude": 151.2193303,
+            "rating": 3.2,
+            "ratingCount": 52,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "http://www.svcmi.com.au/",
+            "phoneNumber": "+61 2 9044 3200",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM",
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.svcmi.com.au/appointments-bookings-st-vincents-clinic.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODodJhiWuH0ZAq8PVE_tVoQlEV-dB9-GcTw-2G",
+            "cid": "9015056085344972858",
+            "fid": "0x6b12ae107b5e966d:0x7d1be9beed35f03a",
+            "placeId": "ChIJbZZeexCuEmsROvA17b7pG30"
+        },
+        {
+            "position": 8,
+            "title": "St Vincent\u2019s Mental Health",
+            "address": "390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.879650399999996,
+            "longitude": 151.22139869999998,
+            "rating": 2.7,
+            "ratingCount": 7,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://www.svhs.org.au/our-services/list-of-services/mental-health",
+            "phoneNumber": "+61 2 8382 1111",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MsYF0QYEZWwEE48Y_qfK9Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=197.58958&pitch=0&thumbfov=100",
+            "cid": "12572977985959452696",
+            "fid": "0x6ad642e5e0f2d421:0xae7c30dd1deb6018",
+            "placeId": "ChIJIdTy4OVC1moRGGDrHd0wfK4"
+        },
+        {
+            "position": 9,
+            "title": "St Vincent's Private Hospital",
+            "address": "51 Gormans Hill Rd, Gormans Hill NSW 2795, Australia",
+            "latitude": -33.4353654,
+            "longitude": 149.5886344,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Private hospital",
+            "types": [
+                "Private hospital"
+            ],
+            "phoneNumber": "+61 2 6331 2555",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-HFKAbzE9JvN3PurMB7lqzoDYxCydcIw1mQ3GlRv7_TYDPcwXW2WNSFYcYZFog2NFitX32JfFoMTDEo3bc8KBUq4rzLoylch7mZXcgteNw1auVUOieKMZ-7koVvs4c_acN3J0",
+            "cid": "12281201851464138546",
+            "fid": "0x6b11e5b83b2d73c9:0xaa6f9803eb63bf32",
+            "placeId": "ChIJyXMtO7jlEWsRMr9j6wOYb6o"
+        },
+        {
+            "position": 10,
+            "title": "St. Vincents Hospital Alcohol & Drug Service",
+            "address": "406 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8797044,
+            "longitude": 151.2210799,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Addiction treatment center",
+                "Alcoholism treatment program"
+            ],
+            "website": "https://www.svhs.org.au/our-services/list-of-services/alcohol-and-drug-service",
+            "phoneNumber": "+61 2 8382 1303",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3eZ989pM2rZmKpXWnmpIMA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=139.7748&pitch=0&thumbfov=100",
+            "cid": "6002802691559858910",
+            "fid": "0x6b12ae1034819135:0x534e3d3e672f22de",
+            "placeId": "ChIJNZGBNBCuEmsR3iIvZz49TlM"
+        },
+        {
+            "position": 11,
+            "title": "Sacred Heart Health Service",
+            "address": "170 Darlinghurst Rd, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8803537,
+            "longitude": 151.21911509999998,
+            "rating": 4.2,
+            "ratingCount": 18,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://svhs.org.au/",
+            "phoneNumber": "+61 2 8382 9444",
+            "openingHours": {
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20138\u202fPM",
+                "Sunday": "10\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20138\u202fPM",
+                "Tuesday": "10\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-33MzN0aWTiahZVdgaKVbUgy5B5yMwLWRqcqXD6MEY3ICxm8uoihnqrIZd7aTqm44H-B2WYne2nFQ4wR6yyB_k2ffG4oAjStZgj8tt9CxzhWWI0lYZLUFkuaKoE68zK3urNs5W",
+            "cid": "7611855643444845979",
+            "fid": "0x6b12ae106695696b:0x69a2be60dd151d9b",
+            "placeId": "ChIJa2mVZhCuEmsRmx0V3WC-omk"
+        },
+        {
+            "position": 12,
+            "title": "St Vincent's Hospital Heart Health",
+            "address": "390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.879650399999996,
+            "longitude": 151.22139869999998,
+            "type": "Heart hospital",
+            "types": [
+                "Heart hospital"
+            ],
+            "website": "http://svhhearthealth.com.au/",
+            "phoneNumber": "+61 2 8382 1111",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM",
+                "Tuesday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CytHvecqEw1CCqsWqFReJQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=133.11552&pitch=0&thumbfov=100",
+            "cid": "1876295878268151504",
+            "fid": "0x6b12ae11cd841b79:0x1a09f12905b3e6d0",
+            "placeId": "ChIJeRuEzRGuEmsR0OazBSnxCRo"
+        },
+        {
+            "position": 13,
+            "title": "St Vincent's Hospital Car Park",
+            "address": "404 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8800259,
+            "longitude": 151.2212036,
+            "rating": 3.6,
+            "ratingCount": 16,
+            "type": "Parking garage",
+            "types": [
+                "Parking garage",
+                "Parking lot"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5h-vHthSI8D2kHrtz5aoXQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=68.910355&pitch=0&thumbfov=100",
+            "cid": "12509844711783915873",
+            "fid": "0x6b12aff834ae3c53:0xad9be57c412de161",
+            "placeId": "ChIJUzyuNPivEmsRYeEtQXzlm60"
+        },
+        {
+            "position": 14,
+            "title": "St Vincent\u2019s Aged Care Auburn",
+            "address": "21 Alice St, Auburn NSW 2144, Australia",
+            "latitude": -33.849517,
+            "longitude": 151.028876,
+            "rating": 4.3,
+            "ratingCount": 45,
+            "type": "Aged care",
+            "types": [
+                "Aged care",
+                "Nursing home"
+            ],
+            "website": "https://www.svcs.org.au/residential-aged-care/nsw/sydney/auburn?utm_source=google&utm_medium=gmb&utm_campaign=auburn-gmb",
+            "phoneNumber": "+61 2 9078 3229",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20138\u202fPM",
+                "Tuesday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGTruB5B8QA4VRXsSz7mDOj3s6vUyoRcFu3X7D",
+            "cid": "8487757590309808019",
+            "fid": "0x6b12bcb6b5d7a1a9:0x75ca928eee0aa793",
+            "placeId": "ChIJqaHXtba8EmsRk6cK7o6SynU"
+        },
+        {
+            "position": 15,
+            "title": "St Vincent's Hospital Medical Students Residence",
+            "address": "33/37 West St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.8788443,
+            "longitude": 151.2223564,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8kX7IG9ZDZft6daKq_dUA-2riNezkZGusunOz5ZSCIad96GAEopTzojwrKZB97yNxs57axUqD8Mn9lM1Hk2b66riYboMMt_IBSym-0lkPN69HktK03wXX_hA3RawDQ-wFa4B7-",
+            "cid": "5948014086887022676",
+            "fid": "0x6b12afff70cbb103:0x528b974c4feba054",
+            "placeId": "ChIJA7HLcP-vEmsRVKDrT0yXi1I"
+        },
+        {
+            "position": 16,
+            "title": "St Vincent\u2019s Hospital Lung Health",
+            "address": "390 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.879650399999996,
+            "longitude": 151.22139869999998,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Education center"
+            ],
+            "website": "https://svhlunghealth.com.au/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMz45PjtMSDHmQnPTKvjXdXERKdNlMVhWrECjbA",
+            "cid": "15676547762328994820",
+            "fid": "0x6b12af9c59bc9973:0xd98e4921c6108404",
+            "placeId": "ChIJc5m8WZyvEmsRBIQQxiFJjtk"
+        },
+        {
+            "position": 17,
+            "title": "St Vincent's Clinic - Neurology",
+            "address": "438 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.880711999999995,
+            "longitude": 151.220003,
+            "rating": 4.3,
+            "ratingCount": 12,
+            "type": "Specialized clinic",
+            "types": [
+                "Specialized clinic",
+                "Neurologist"
+            ],
+            "website": "https://www.stvincentsclinic.com.au/find-a-doctor/specialties/neurology",
+            "phoneNumber": "+61 2 8382 6222",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O_cUIgjZsv4J017j_Ixqyw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=60.07044&pitch=0&thumbfov=100",
+            "cid": "7915897529746403332",
+            "fid": "0x6b12ae106eee2277:0x6ddaeadcf2ed3004",
+            "placeId": "ChIJdyLubhCuEmsRBDDt8tzq2m0"
+        },
+        {
+            "position": 18,
+            "title": "St Vincent's Hospital, Burton St",
+            "address": "Darlinghurst NSW 2010, Australia",
+            "latitude": -33.879456,
+            "longitude": 151.221512,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_IN1goNSPS-47Tzy9LuAtpr452-S2FG_BSB74FPNKCI9UKqlhoABR2d72IUP28ff1pYFDDkYyTzXk7nHQ2xwTSCtq-upmsVWFmd1Hn_kx_7QtWy_cnx4zldcAORDf8hzdy57Lz",
+            "cid": "3469034564371327449",
+            "fid": "0x6b12ae11d366b43d:0x30247c8e7ae7a9d9",
+            "placeId": "ChIJPbRm0xGuEmsR2anneo58JDA"
+        },
+        {
+            "position": 19,
+            "title": "St Vincent's Clinic Bone Densitometry",
+            "address": "Suite 505, St Vincent's Clinic, 438 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.881377799999996,
+            "longitude": 151.2192426,
+            "rating": 2.7,
+            "ratingCount": 7,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "phoneNumber": "+61 2 8382 6560",
+            "openingHours": {
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM",
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://stvincentsclinic.com.au/home/find-a-doctor/specialties/bone-densitometry"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BZl4cmWFdlACKVhj9I21zQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=62.93018&pitch=0&thumbfov=100",
+            "cid": "16169332434561205255",
+            "fid": "0x6b12ae107b5e966d:0xe065022e31390407",
+            "placeId": "ChIJbZZeexCuEmsRBwQ5MS4CZeA"
+        },
+        {
+            "position": 20,
+            "title": "SydPath - St Vincents Pathology",
+            "address": "St Vincent's Clinic, Level 5 Suite 507A/438 Victoria St, Darlinghurst NSW 2010, Australia",
+            "latitude": -33.881116299999995,
+            "longitude": 151.2192743,
+            "rating": 4.1,
+            "ratingCount": 13,
+            "type": "Pathologist",
+            "types": [
+                "Pathologist",
+                "General practitioner"
+            ],
+            "website": "http://www.sydpath.com.au/",
+            "phoneNumber": "+61 2 8382 6590",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM",
+                "Tuesday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O_cUIgjZsv4J017j_Ixqyw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=76.923805&pitch=0&thumbfov=100",
+            "cid": "6298910173678345375",
+            "fid": "0x6b12ae107b5e966d:0x576a396e0e311c9f",
+            "placeId": "ChIJbZZeexCuEmsRnxwxDm45alc"
+        }
+    ],
+    "credits": 3
+}

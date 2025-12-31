@@ -1,0 +1,518 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6736009,-99.7614524,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente-Medical Staff Services",
+            "address": "25825 S Vermont Ave, Harbor City, CA 90710",
+            "latitude": 33.788566599999996,
+            "longitude": -118.2956739,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(310) 517-2607",
+            "cid": "2404766910545058776",
+            "fid": "0x80dd358b322315bf:0x215f72c39ea6dbd8",
+            "placeId": "ChIJvxUjMos13YAR2NumnsNyXyE"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Foundation Health Plan",
+            "address": "1336 N Edgemont St, Los Angeles, CA 90027",
+            "latitude": 34.096474,
+            "longitude": -118.29579199999999,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "phoneNumber": "(323) 783-6911",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=csPgcn1ZJSiON001RGL1rw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=86.80102&pitch=0&thumbfov=100",
+            "cid": "12913033364292665596",
+            "fid": "0x80c2c0ab2fe06177:0xb3344f6dbb6e80fc",
+            "placeId": "ChIJd2HgL6vAwoAR_IBuu21PNLM"
+        },
+        {
+            "position": 3,
+            "title": "Kaiser Permanente San Mateo Medical Offices",
+            "address": "1000 Franklin Pkwy, San Mateo, CA 94403",
+            "latitude": 37.5429032,
+            "longitude": -122.2911735,
+            "rating": 4.5,
+            "ratingCount": 380,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Mateo-Medical-Offices-300395",
+            "phoneNumber": "(650) 358-7000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137\u202fPM",
+                "Friday": "8:30\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOk7qKMUvZNfMyBIZ8TV72wp6mcf-JWsM9vK5Kq",
+            "cid": "9912062147633028160",
+            "fid": "0x808f9f1e35bae371:0x898eb801c5431c40",
+            "placeId": "ChIJceO6NR6fj4ARQBxDxQG4jok"
+        },
+        {
+            "position": 4,
+            "title": "Kaiser Foundation Health Plan, Inc.",
+            "address": "393 E Walnut St, Pasadena, CA 91188",
+            "latitude": 34.150134099999995,
+            "longitude": -118.1416387,
+            "rating": 4.3,
+            "ratingCount": 49,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/",
+            "phoneNumber": "(800) 464-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQvESj1Hwt4F5qp-GnzpnuvoWhForx7UZbVHgu",
+            "cid": "15832244302217458956",
+            "fid": "0x80c2c36c0e238a77:0xdbb76e4f5edfb50c",
+            "placeId": "ChIJd4ojDmzDwoARDLXfXk9ut9s"
+        },
+        {
+            "position": 5,
+            "title": "Kaiser Foundation Health Plan",
+            "address": "4141 Maine Ave, Baldwin Park, CA 91706",
+            "latitude": 34.0879149,
+            "longitude": -117.9607178,
+            "rating": 3.8,
+            "ratingCount": 10,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Insurance agency"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/",
+            "phoneNumber": "(626) 337-4843",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uQIpYt6N61lJQJRPlR7SuA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=260.4646&pitch=0&thumbfov=100",
+            "cid": "8451658960947612590",
+            "fid": "0x80c2d7855c2da44b:0x754a530bd2078bae",
+            "placeId": "ChIJS6QtXIXXwoARrosH0gtTSnU"
+        },
+        {
+            "position": 6,
+            "title": "Kaiser Foundation Health Plan",
+            "address": "10500 Summit Ave, Kensington, MD 20895",
+            "latitude": 39.0282105,
+            "longitude": -77.0796671,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/shop-plans/individual-family/plans",
+            "phoneNumber": "(301) 897-2500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AnqJims3W8-C2l4XmLbT1w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.19525&pitch=0&thumbfov=100",
+            "cid": "1633040865340604375",
+            "fid": "0x89b7ceb8a0ee9e5d:0x16a9ba03ca52bfd7",
+            "placeId": "ChIJXZ7uoLjOt4kR179SygO6qRY"
+        },
+        {
+            "position": 7,
+            "title": "Kaiser Permanente San Francisco Medical Center",
+            "address": "2425 Geary Blvd, San Francisco, CA 94115",
+            "latitude": 37.7826471,
+            "longitude": -122.44323779999999,
+            "rating": 4.5,
+            "ratingCount": 976,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Francisco-Medical-Center-100328",
+            "phoneNumber": "(415) 833-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAZp7C2jivS_S2S86L14QhPgRl7b5hTDHH6cyT",
+            "cid": "10224845796173486538",
+            "fid": "0x808580b5bc0ddfd1:0x8de5f313fc1119ca",
+            "placeId": "ChIJ0d8NvLWAhYARyhkR_BPz5Y0"
+        },
+        {
+            "position": 8,
+            "title": "Kaiser Permanente Member Services",
+            "address": "73733 Fred Waring Dr #110, Palm Desert, CA 92260",
+            "latitude": 33.7285709,
+            "longitude": -116.3789802,
+            "rating": 1.6,
+            "ratingCount": 50,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/front-door",
+            "phoneNumber": "(800) 777-1256",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQSD0r5eJEpOie1NHMW8zgZHjnHgQ27CN7l7Jp",
+            "cid": "4999107754261043990",
+            "fid": "0x80dafe78ba359187:0x456066041ea15b16",
+            "placeId": "ChIJh5E1unj-2oARFluhHgRmYEU"
+        },
+        {
+            "position": 9,
+            "title": "Kaiser Permanente Health Care",
+            "address": "700 Lawrence Expy, Santa Clara, CA 95051",
+            "latitude": 37.3358953,
+            "longitude": -121.99833,
+            "rating": 3.5,
+            "ratingCount": 6,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.kaiserpermanente.org/",
+            "phoneNumber": "(408) 851-1000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQ9iOV8TqTxd-WjmJOBnE-iEb6vobCqNVh0D1y",
+            "cid": "12278129025374021829",
+            "fid": "0x89b7b81f8b07b8ff:0xaa64ad4bd7d4e8c5",
+            "placeId": "ChIJ_7gHix-4t4kRxejU10utZKo"
+        },
+        {
+            "position": 10,
+            "title": "Kaiser Permanente Bellevue Medical Center",
+            "address": "11511 NE 10th St, Bellevue, WA 98004",
+            "latitude": 47.6186309,
+            "longitude": -122.18679069999999,
+            "rating": 4,
+            "ratingCount": 777,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://wa.kaiserpermanente.org/html/public/locations",
+            "phoneNumber": "(425) 502-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcmVMz9UrogOunZIYPzh9s0omUZ2aEQMtTYtd9",
+            "cid": "2586659007212182166",
+            "fid": "0x54906c8b2b21ff7f:0x23e5a8a98ff25a96",
+            "placeId": "ChIJf_8hK4tskFQRllryj6mo5SM"
+        },
+        {
+            "position": 11,
+            "title": "Kaiser Foundation Health Plan",
+            "address": "3495 Piedmont Rd NE, Atlanta, GA 30305",
+            "latitude": 33.8518986,
+            "longitude": -84.3757668,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Insurance agency"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/shop-plans/individual-family/plans",
+            "phoneNumber": "(404) 848-9709",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "cid": "2775815293533871739",
+            "fid": "0x88f50f60abd972fb:0x2685ad4d752ede7b",
+            "placeId": "ChIJ-3LZq2AP9YgRe94udU2thSY"
+        },
+        {
+            "position": 12,
+            "title": "Kaiser Permanente Santa Ana Medical Offices",
+            "address": "1900 E 4th St, Santa Ana, CA 92701",
+            "latitude": 33.7477707,
+            "longitude": -117.83929359999999,
+            "rating": 3.4,
+            "ratingCount": 87,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Santa-Ana-Medical-Offices-100040",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMR1K_MCa_P5dC-qhtuDB9LGXZ_A5IDliF6ZA93",
+            "cid": "3149686046159484768",
+            "fid": "0x80dcd97b221f24d5:0x2bb5eec56f573760",
+            "placeId": "ChIJ1SQfInvZ3IARYDdXb8XutSs"
+        },
+        {
+            "position": 13,
+            "title": "Kaiser Permanente Family Plan",
+            "address": "1065 Shary Cir, Concord, CA 94518",
+            "latitude": 37.954796,
+            "longitude": -122.0328918,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Wellness center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/",
+            "phoneNumber": "(404) 364-7000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wnRE1Yl7efTs4zkOUhb0EA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=311.02747&pitch=0&thumbfov=100",
+            "cid": "7159771716586505022",
+            "fid": "0x8085672655555555:0x635c9e713007033e",
+            "placeId": "ChIJVVVVVSZnhYARPgMHMHGeXGM"
+        },
+        {
+            "position": 14,
+            "title": "Kaiser Permanente South Sacramento Medical Center",
+            "address": "6600 Bruceville Rd, Sacramento, CA 95823",
+            "latitude": 38.469878099999995,
+            "longitude": -121.4231009,
+            "rating": 4.3,
+            "ratingCount": 1634,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.kaiserpermanente.org/",
+            "phoneNumber": "(916) 688-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXuOS85w3H-YVjEAmXMXLX_c1wYUjgyTUpiF0d",
+            "cid": "13176948316831254637",
+            "fid": "0x809ac5c1da2eb067:0xb6ddecae0068886d",
+            "placeId": "ChIJZ7Au2sHFmoARbYhoAK7s3bY"
+        },
+        {
+            "position": 15,
+            "title": "Kaiser Permanente Stockton Medical Offices",
+            "address": "7373 West Ln, Stockton, CA 95210",
+            "latitude": 38.017635999999996,
+            "longitude": -121.29749899999999,
+            "rating": 4.3,
+            "ratingCount": 790,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Stockton-Medical-Offices-100318",
+            "phoneNumber": "(209) 476-2000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNIpS6n4gyAcLyV98nJ7vN4uQ3sZoMdzN3huM2c",
+            "cid": "15287078124473462645",
+            "fid": "0x80900c8d8e521a8b:0xd4269c8f4ee2af75",
+            "placeId": "ChIJixpSjo0MkIARda_iTo-cJtQ"
+        },
+        {
+            "position": 16,
+            "title": "Kaiser Permanente Sacramento Medical Center",
+            "address": "2025 Morse Ave, Sacramento, CA 95825",
+            "latitude": 38.6021267,
+            "longitude": -121.3924928,
+            "rating": 4.2,
+            "ratingCount": 1488,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Sacramento-Medical-Center-100330",
+            "phoneNumber": "(916) 973-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZ6iYDP_LorFNW0TcM3jSG9RgDY5D265SzGsWJ",
+            "cid": "825758789253687625",
+            "fid": "0x809adbcea76982db:0xb75af3e679f6949",
+            "placeId": "ChIJ24Jpp87bmoARSWmfZz6vdQs"
+        },
+        {
+            "position": 17,
+            "title": "Kaiser Foundation Health Plan",
+            "address": "1950 Franklin St, Oakland, CA 94612",
+            "latitude": 37.807719999999996,
+            "longitude": -122.26686,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Doctor",
+                "Health insurance agency"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/",
+            "phoneNumber": "(510) 428-2609",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tVx5sGFmTuT_n1UpZKDC4w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=117.873215&pitch=0&thumbfov=100",
+            "cid": "12613652225542048376",
+            "fid": "0x808f80b2e9cda9d3:0xaf0cb1de7fbfca78",
+            "placeId": "ChIJ06nN6bKAj4AReMq_f96xDK8"
+        },
+        {
+            "position": 18,
+            "title": "Kaiser Permanente Manteca Medical Offices",
+            "address": "1721 W Yosemite Ave, Manteca, CA 95337",
+            "latitude": 37.798373399999996,
+            "longitude": -121.2442688,
+            "rating": 3.2,
+            "ratingCount": 161,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Manteca-Medical-Offices-100355",
+            "phoneNumber": "(209) 825-3700",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjL9d__YzcDFkzfRtisBTu6QM1pk1Cqsy6jBJC",
+            "cid": "10075075560794643421",
+            "fid": "0x8090406c99f56bc3:0x8bd1dbd7ae625bdd",
+            "placeId": "ChIJw2v1mWxAkIAR3Vtirtfb0Ys"
+        },
+        {
+            "position": 19,
+            "title": "Kaiser Permanente Pinole Medical Offices",
+            "address": "1301 Pinole Valley Rd, Pinole, CA 94564",
+            "latitude": 37.999051699999995,
+            "longitude": -122.2859019,
+            "rating": 4.5,
+            "ratingCount": 242,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Pinole-Medical-Offices-300005",
+            "phoneNumber": "(510) 243-4000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136\u202fPM",
+                "Friday": "8:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIU-MGvp-Jk4Mne2PfninySfw4Pevw4x3eQikK",
+            "cid": "6312575923215768936",
+            "fid": "0x80857721909c02eb:0x579ac65b50f59d68",
+            "placeId": "ChIJ6wKckCF3hYARaJ31UFvGmlc"
+        },
+        {
+            "position": 20,
+            "title": "Kaiser Healthcare",
+            "address": "3200 Arden Wy, Sacramento, CA 95825",
+            "latitude": 38.594621,
+            "longitude": -121.3899457,
+            "rating": 2.4,
+            "ratingCount": 5,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency",
+                "Hospital"
+            ],
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20138:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20138:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20138:30\u202fPM",
+                "Saturday": "7:30\u202fAM\u20138:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOg1v0Ya8IlkBSLeSrIixib0TB4CuuxWpHkUda",
+            "cid": "7790092721862475703",
+            "fid": "0x809adbb7c6c53a13:0x6c1bf80e8df7ffb7",
+            "placeId": "ChIJEzrFxrfbmoARt__3jQ74G2w"
+        }
+    ],
+    "credits": 3
+}

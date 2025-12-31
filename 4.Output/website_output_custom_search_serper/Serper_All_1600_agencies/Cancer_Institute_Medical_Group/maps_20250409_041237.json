@@ -1,0 +1,628 @@
+{
+    "searchParameters": {
+        "q": "Cancer Institute Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.8721449,-96.4198237,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Center Oncology Med Group",
+            "address": "5555 Grossmont Center Dr, La Mesa, CA 91942",
+            "latitude": 32.7807775,
+            "longitude": -117.00710199999999,
+            "rating": 4,
+            "ratingCount": 9,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "phoneNumber": "(619) 644-3030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PSWBZCCfKu5sctahE0EwmA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=12.681173&pitch=0&thumbfov=100",
+            "cid": "5651221052015931274",
+            "fid": "0x80d9576d687c6723:0x4e6d2b9af89e6f8a",
+            "placeId": "ChIJI2d8aG1X2YARim-e-JorbU4"
+        },
+        {
+            "position": 2,
+            "title": "AdventHealth Cancer Institute",
+            "address": "2501 N Orange Ave, Orlando, FL 32804",
+            "latitude": 28.5752165,
+            "longitude": -81.3718947,
+            "rating": 4.6,
+            "ratingCount": 45,
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital",
+                "Hospital"
+            ],
+            "website": "https://www.adventhealthcancerinstitute.com/",
+            "phoneNumber": "(844) 600-2568",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqiN19CjV38AuBn-tY5xn0vU4MDm5ZgWPtYjiZ",
+            "cid": "16347479684847975112",
+            "fid": "0x88e77bfb36014d17:0xe2ddea2924473ac8",
+            "placeId": "ChIJF00BNvt754gRyDpHJCnq3eI"
+        },
+        {
+            "position": 3,
+            "title": "Piedmont Cancer Institute",
+            "address": "775 Poplar Rd #310, Newnan, GA 30265",
+            "latitude": 33.3566573,
+            "longitude": -84.75402059999999,
+            "rating": 4.9,
+            "ratingCount": 465,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.piedmontcancerinstitute.com/newnan-oncology-office.php",
+            "phoneNumber": "(770) 251-2590",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.piedmontcancerinstitute.com/appointment-scheduling.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdG36dkzgU8MNlVAgYfBEq7D2WK2sGU7EPRNZ9",
+            "cid": "1311517388531466973",
+            "fid": "0x88f4c7c7982283d3:0x1233721dbc2a82dd",
+            "placeId": "ChIJ04MimMfH9IgR3YIqvB1yMxI"
+        },
+        {
+            "position": 4,
+            "title": "Baptist Health Miami Cancer Institute",
+            "address": "8900 N Kendall Dr, Miami, FL 33176",
+            "latitude": 25.6865645,
+            "longitude": -80.3368831,
+            "rating": 4.8,
+            "ratingCount": 2737,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://cancer.baptisthealth.net/miami-cancer-institute?utm_source=yext&utm_medium=google&utm_campaign=listing&y_source=1_MTIwNTAyNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(786) 596-2000",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20137\u202fPM",
+                "Thursday": "6:30\u202fAM\u20137\u202fPM",
+                "Friday": "6:30\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHGi7aOfJwA_IWSZV_iAESPdh8Xz8bFxrRQSJe",
+            "cid": "5868207556065046504",
+            "fid": "0x88d9c710cc6e5caf:0x51700fae5f852fe8",
+            "placeId": "ChIJr1xuzBDH2YgR6C-FX64PcFE"
+        },
+        {
+            "position": 5,
+            "title": "Piedmont Cancer Institute",
+            "address": "1800 Howell Mill Rd #800, Atlanta, GA 30318",
+            "latitude": 33.804654299999996,
+            "longitude": -84.41442119999999,
+            "rating": 5,
+            "ratingCount": 690,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Pharmacy",
+                "Specialized hospital"
+            ],
+            "website": "https://www.piedmontcancerinstitute.com/",
+            "phoneNumber": "(404) 350-9853",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.piedmontcancerinstitute.com/appointment-scheduling.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0DitGCHPlkzhFl63Zs607q2KSdyrINu6Q4Kr6",
+            "cid": "17408409620426875031",
+            "fid": "0x88f50500c90db583:0xf1971850ea096097",
+            "placeId": "ChIJg7UNyQAF9YgRl2AJ6lAYl_E"
+        },
+        {
+            "position": 6,
+            "title": "Prisma Health Cancer Institute\u2013Greer",
+            "address": "340 Medical Pkwy, Greer, SC 29650",
+            "latitude": 34.9192739,
+            "longitude": -82.24364469999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://prismahealth.org/locations/ambulatory-labs-other/cancer-institute/cancer-institute-greer?utm_source=gmb&utm_medium=yext",
+            "phoneNumber": "(864) 334-4900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiAnsqr2BaXld1UKzGPDyJh5EayC3TJxszZrD_",
+            "cid": "13670021659850990528",
+            "fid": "0x88582a583ac9cb5f:0xbdb5ac45d35063c0",
+            "placeId": "ChIJX8vJOlgqWIgRwGNQ00Wstb0"
+        },
+        {
+            "position": 7,
+            "title": "University of Tennessee Cancer Institute",
+            "address": "Medical Building F, 1926 Alcoa Hwy, Knoxville, TN 37920",
+            "latitude": 35.939788899999996,
+            "longitude": -83.94566499999999,
+            "rating": 4.1,
+            "ratingCount": 30,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.utmedicalcenter.org/centers-of-excellence/cancer-institute",
+            "phoneNumber": "(865) 305-6055",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8_us1AgmAHqHYVtKyrbrJ87U_gEOdS2b6l4EK",
+            "cid": "287384509216012471",
+            "fid": "0x885c3d4c57b1d9af:0x3fcfeb041c538b7",
+            "placeId": "ChIJr9mxV0w9XIgRtzjFQbD-_AM"
+        },
+        {
+            "position": 8,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "6400 Sanger Rd STE A-2000 & A-2400, Orlando, FL 32827",
+            "latitude": 28.3658108,
+            "longitude": -81.2884198,
+            "rating": 4.9,
+            "ratingCount": 153,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Radiologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/lake-nona/",
+            "phoneNumber": "(407) 735-5695",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsY62rulf_JYFF5c2mIEspC9NEQCnC23nMnb8I",
+            "cid": "13629584147568194157",
+            "fid": "0x88dd89ce2b95f105:0xbd260291d018f26d",
+            "placeId": "ChIJBfGVK86J3YgRbfIY0JECJr0"
+        },
+        {
+            "position": 9,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "3630 Manatee Ave W, Bradenton, FL 34205",
+            "latitude": 27.495993799999997,
+            "longitude": -82.59749219999999,
+            "rating": 4.8,
+            "ratingCount": 537,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/bradenton-cancer-center/",
+            "phoneNumber": "(941) 792-1881",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgqUpe8j6lwSYWm-PvHruYeRWeJEnSBpcgVwKs",
+            "cid": "6186310964628238424",
+            "fid": "0x88c317bb9a832b07:0x55da310bbcc53058",
+            "placeId": "ChIJByuDmrsXw4gRWDDFvAsx2lU"
+        },
+        {
+            "position": 10,
+            "title": "Memorial Cancer Institute",
+            "address": "12235 Pines Blvd, Pembroke Pines, FL 33026",
+            "latitude": 26.013959399999997,
+            "longitude": -80.3096707,
+            "rating": 5,
+            "ratingCount": 25,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist"
+            ],
+            "website": "https://www.mhs.net/services/cancer-care",
+            "phoneNumber": "(954) 265-4325",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-WA5fIwxcty0sapU-Jsr0vd2RqRPedHBBHruE",
+            "cid": "14155447652922490248",
+            "fid": "0x88d9a77fb2e0e957:0xc47240a43d14fd88",
+            "placeId": "ChIJV-ngsn-n2YgRiP0UPaRAcsQ"
+        },
+        {
+            "position": 11,
+            "title": "Signature Medical Group Greene Cancer Center",
+            "address": "25 Libby St, Brockton, MA 02302",
+            "latitude": 42.0874708,
+            "longitude": -70.9895785,
+            "rating": 4.4,
+            "ratingCount": 15,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Specialized hospital"
+            ],
+            "website": "http://mysignaturecare.org/Locations/Greene-Cancer-Center",
+            "phoneNumber": "(508) 941-7117",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEAxn6yBPV1IqG4JRcn02u7qPrMcACgxri4ikt",
+            "cid": "12042650415512379046",
+            "fid": "0x89e49b3a6e0d744f:0xa72016bf8ad35ea6",
+            "placeId": "ChIJT3QNbjqb5IkRpl7Tir8WIKc"
+        },
+        {
+            "position": 12,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "3402 W Dr Martin Luther King Jr Blvd, Tampa, FL 33607",
+            "latitude": 27.9808335,
+            "longitude": -82.49756789999999,
+            "rating": 4.8,
+            "ratingCount": 958,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Radiologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/tampa-cancer-center/",
+            "phoneNumber": "(813) 875-3950",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMfvbRWGBAfg9RX5XHojans_yT7odhga-DGazOZ",
+            "cid": "3834705078650038113",
+            "fid": "0x88c2c346aef26f99:0x35379bf3af526761",
+            "placeId": "ChIJmW_yrkbDwogRYWdSr_ObNzU"
+        },
+        {
+            "position": 13,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "3000 Medical Park Dr Suite 250, Tampa, FL 33613",
+            "latitude": 28.0715087,
+            "longitude": -82.4252516,
+            "rating": 4.8,
+            "ratingCount": 412,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/new-tampa/",
+            "phoneNumber": "(813) 632-6220",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhGrjI3YYrCJ07l18Qr2xgzwkvoD1SUOIkItgr",
+            "cid": "15511313971336056871",
+            "fid": "0x88c2c7994000508b:0xd74341dfdd0a1027",
+            "placeId": "ChIJi1AAQJnHwogRJxAK3d9BQ9c"
+        },
+        {
+            "position": 14,
+            "title": "SIH Cancer Institute",
+            "address": "1400 Pin Oak Dr, Carterville, IL 62918",
+            "latitude": 37.747141,
+            "longitude": -89.1058578,
+            "rating": 4.5,
+            "ratingCount": 31,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sih.net/services/cancer-care-treatment-and-diagnosis",
+            "phoneNumber": "(618) 985-3333",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7\u202fAM\u20134:30\u202fPM",
+                "Friday": "7\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNC0v7sLmrAorftt4klibaoYCcoMFZeURwUD52u",
+            "cid": "13645883998178737251",
+            "fid": "0x8877163ebdf695ab:0xbd5feb3285a17c63",
+            "placeId": "ChIJq5X2vT4Wd4gRY3yhhTLrX70"
+        },
+        {
+            "position": 15,
+            "title": "Innovative Cancer Institute",
+            "address": "5995 SW 71st St # 1b, South Miami, FL 33143",
+            "latitude": 25.7053953,
+            "longitude": -80.2917904,
+            "rating": 4.9,
+            "ratingCount": 61,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.innovativecancer.com/",
+            "phoneNumber": "(305) 669-6833",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://innovativecancer.com/contact-us/?utm_source=google&utm_medium=organic&utm_campaign=gmb-south-miami"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNn9E2DHC3vpRJN0MnSVGx4f5bZaGeqk0sG5Rus",
+            "cid": "15859734353630774126",
+            "fid": "0x88d9c7ee105d7493:0xdc19185dbc38c36e",
+            "placeId": "ChIJk3RdEO7H2YgRbsM4vF0YGdw"
+        },
+        {
+            "position": 16,
+            "title": "INTEGRIS Health Cancer Institute",
+            "address": "5911 W Memorial Rd, Oklahoma City, OK 73142",
+            "latitude": 35.6107215,
+            "longitude": -97.6227131,
+            "rating": 4.8,
+            "ratingCount": 1319,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://integrishealth.org/locations/cancer/cancer-institute",
+            "phoneNumber": "(405) 773-6400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJZSCF7NafugNB4pL26zuuUuDXDQLuJeIrNsup",
+            "cid": "17452406621364787563",
+            "fid": "0x887679f03954d6bb:0xf233675af61f996b",
+            "placeId": "ChIJu9ZUOfB5dogRa5kf9lpnM_I"
+        },
+        {
+            "position": 17,
+            "title": "Monument Health Cancer Care Institute",
+            "address": "353 Fairmont Blvd, Rapid City, SD 57701",
+            "latitude": 44.0577252,
+            "longitude": -103.2242423,
+            "rating": 4.9,
+            "ratingCount": 763,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://directory.monument.health/facility/sd/rapid-city/353-fairmont-boulevard-6671506",
+            "phoneNumber": "(605) 755-2300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMfoHafKYl1aPVaDVkKA_fRM-VTA3lG77dky6x",
+            "cid": "14776694403397378549",
+            "fid": "0x877d431e8c2e4d5f:0xcd115d450500e1f5",
+            "placeId": "ChIJX00ujB5DfYcR9eEABUVdEc0"
+        },
+        {
+            "position": 18,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "224 Memorial Medical Pkwy Suite 300, Daytona Beach, FL 32117",
+            "latitude": 29.245351,
+            "longitude": -81.1102803,
+            "rating": 4.8,
+            "ratingCount": 204,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/daytona-cancer-center/",
+            "phoneNumber": "(386) 231-4060",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMfEeOprqblwXExAU_K_AEfrGaUFu53DD2vbOUx",
+            "cid": "3462225585531074963",
+            "fid": "0x88e6dc4f1439fcb3:0x300c4bd38dd93993",
+            "placeId": "ChIJs_w5FE_c5ogRkznZjdNLDDA"
+        },
+        {
+            "position": 19,
+            "title": "Cancer Care Institute",
+            "address": "200 Jose Figueres Ave #199, San Jose, CA 95116",
+            "latitude": 37.361262499999995,
+            "longitude": -121.85006879999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cancercareinstitute.com/",
+            "phoneNumber": "(408) 729-4673",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cancercareinstitute.com/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m2Ohj3BMA2zwvrlHiPtW4w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=32.99413&pitch=0&thumbfov=100",
+            "cid": "12531123489117568536",
+            "fid": "0x808fcd04a6171d51:0xade77e6bad67fe18",
+            "placeId": "ChIJUR0XpgTNj4ARGP5nrWt-560"
+        },
+        {
+            "position": 20,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "1970 Golf St, Sarasota, FL 34236",
+            "latitude": 27.334999699999997,
+            "longitude": -82.5313692,
+            "rating": 4.9,
+            "ratingCount": 747,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Radiologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/sarasota-downtown/",
+            "phoneNumber": "(941) 957-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMw3XzoTGmWjaIOv3UyaLesuURBpLhwD1W76B-J",
+            "cid": "9875141253342567939",
+            "fid": "0x88c3406f06219ee3:0x890b8ca6304a1e03",
+            "placeId": "ChIJ454hBm9Aw4gRAx5KMKaMC4k"
+        }
+    ],
+    "credits": 3
+}

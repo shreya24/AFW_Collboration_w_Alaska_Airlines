@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "New Mexico Heart Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0873876,-106.6371413,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Heart Hospital of NM @ Lovelace Medical Center",
+            "address": "504 Elm St NE, Albuquerque, NM 87102",
+            "latitude": 35.0878841,
+            "longitude": -106.6369881,
+            "rating": 4.2,
+            "ratingCount": 587,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Heart hospital"
+            ],
+            "website": "https://hearthospitalnm.com/?utm_source=GMB&utm_medium=organic",
+            "phoneNumber": "(505) 727-1100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbml1p9uTmr8l_4hRiz1Xf8bx570dhG5Qdma2M",
+            "cid": "15216800910685486200",
+            "fid": "0x87220ca47932df73:0xd32cefce633fbc78",
+            "placeId": "ChIJc98yeaQMIocReLw_Y87vLNM"
+        },
+        {
+            "position": 2,
+            "title": "New Mexico Heart Institute",
+            "address": "502 Elm St NE, Albuquerque, NM 87102",
+            "latitude": 35.086891099999995,
+            "longitude": -106.63729459999999,
+            "rating": 4.2,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://lovelacemedicalgroup.com/location/new-mexico-heart-institutelovelace-medical-group",
+            "phoneNumber": "(505) 841-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4euIFxt0srdQCMQrpbd6apu_dNLk9SmOuoMC3",
+            "cid": "13896122704689130004",
+            "fid": "0x87220d00271ccbdf:0xc0d8f1f9a03c6a14",
+            "placeId": "ChIJ38scJwANIocRFGo8oPnx2MA"
+        }
+    ],
+    "credits": 3
+}

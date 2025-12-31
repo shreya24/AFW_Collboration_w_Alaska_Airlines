@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Oregon State Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9381395,-123.0034528,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon State Hospital",
+            "address": "2600 Center St NE, Salem, OR 97301",
+            "latitude": 44.9381395,
+            "longitude": -123.00345279999999,
+            "rating": 3.5,
+            "ratingCount": 50,
+            "type": "Psychiatric hospital",
+            "types": [
+                "Psychiatric hospital"
+            ],
+            "website": "http://osh.oregon.gov/",
+            "phoneNumber": "(503) 945-2800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-H_Zz3Q-ACYLs9hnj9mKTq29YqQjnUyHMH2NAToUi4MQiCKSJ2tB1B0ctHRxI3ZGhTp5kfj_jMFsBeomWZ-ey2cU8c1KF__A2dKfYGq0y5Ed6lSLlikg7dawVUHXlJFmJ9h70w",
+            "cid": "17609676101809319773",
+            "fid": "0x54bfff2022b4d7bd:0xf462231d5207af5d",
+            "placeId": "ChIJvde0IiD_v1QRXa8HUh0jYvQ"
+        }
+    ],
+    "credits": 3
+}

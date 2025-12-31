@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pathways For Women",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.8105735,-122.3149948,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pathways For Women",
+            "address": "6027 208th St SW, Lynnwood, WA 98036",
+            "latitude": 47.8105735,
+            "longitude": -122.3149948,
+            "rating": 4.5,
+            "ratingCount": 55,
+            "type": "Women's protection service",
+            "types": [
+                "Women's protection service",
+                "Non-profit organization",
+                "Shelter"
+            ],
+            "phoneNumber": "(425) 774-9843",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "1\u20135\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135\u202fPM",
+                "Friday": "9:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ge2LfGG9j7PUpwGthfA3vQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=4.0181384&pitch=0&thumbfov=100",
+            "cid": "15851738374900383248",
+            "fid": "0x5490054cb2838919:0xdbfcb010dc5d7e10",
+            "placeId": "ChIJGYmDskwFkFQREH5d3BCw_Ns"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sharp Grossmont Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.781125,-117.0074256,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sharp Grossmont Hospital",
+            "address": "5555 Grossmont Center Dr, La Mesa, CA 91942",
+            "latitude": 32.781124999999996,
+            "longitude": -117.00742559999999,
+            "rating": 2.6,
+            "ratingCount": 684,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sharp.com/locations/locations/hospitals/sharp-grossmont?utm_source=google&utm_medium=organic&utm_campaign=yext&y_source=1_ODQ4MzMyNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(619) 740-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8NUUh7ge1afqAf_4WUIeJwHHHJVkwrixD-VTD55M9pEPvmQhxUlFrmrgLtl6gSlHAF2w4uxvxo7hZUGEwh80rO_OIDonojL5h2Dfqf6ZH83ZD4o_qYu-rzAvgR1k3w9-uFghL6OQ",
+            "cid": "10405628621323876698",
+            "fid": "0x80d9576d687cbdfb:0x9068381986a5b95a",
+            "placeId": "ChIJ-718aG1X2YARWrmlhhk4aJA"
+        }
+    ],
+    "credits": 3
+}

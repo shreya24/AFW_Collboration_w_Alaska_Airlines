@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Life Dental & Orthodontics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9245211,-122.0128715,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Life Dental & Orthodontics",
+            "address": "2651 Oak Grove Rd, Walnut Creek, CA 94598",
+            "latitude": 37.9245211,
+            "longitude": -122.01287149999999,
+            "rating": 5,
+            "ratingCount": 206,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Cosmetic dentist",
+                "Orthodontist",
+                "Teeth whitening service"
+            ],
+            "website": "https://lifedentalortho.com/",
+            "phoneNumber": "(925) 934-3434",
+            "menu": "https://lifedentalortho.com/services?utm_source=google&utm_medium=localsearch&utm_campaign=gmb",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.localmed.com/widgets/5f8ce292-a90c-4e55-825e-3f49cecd4e79/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmCAwDcsyR4CSM2TNtL8F1BteksS4gHWpU-nw",
+            "cid": "8804619606298828829",
+            "fid": "0x808560687df299a1:0x7a304ae20fe1a01d",
+            "placeId": "ChIJoZnyfWhghYARHaDhD-JKMHo"
+        }
+    ],
+    "credits": 3
+}

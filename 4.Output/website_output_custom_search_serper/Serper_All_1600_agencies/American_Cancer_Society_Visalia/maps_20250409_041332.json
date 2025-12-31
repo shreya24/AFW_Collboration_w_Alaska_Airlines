@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "American Cancer Society Visalia",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.331262,-119.2951032,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Cancer Society Discovery Shop",
+            "address": "110 W Main St, Visalia, CA 93291",
+            "latitude": 36.3303757,
+            "longitude": -119.29273189999999,
+            "rating": 4,
+            "ratingCount": 21,
+            "type": "Thrift store",
+            "types": [
+                "Thrift store"
+            ],
+            "website": "http://www.cancer.org/discovery",
+            "phoneNumber": "(559) 627-1955",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsPa_QKfMUfaWFDcVhtRBPq-i7GGG5OuPK38co",
+            "cid": "501191633997076447",
+            "fid": "0x80952f64feaac38d:0x6f49722bccb17df",
+            "placeId": "ChIJjcOq_mQvlYAR3xfLvCKX9AY"
+        },
+        {
+            "position": 2,
+            "title": "American Cancer Society",
+            "address": "110 W Main St, Visalia, CA 93291",
+            "latitude": 36.330422999999996,
+            "longitude": -119.292656,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(559) 627-1955",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "10\u202fAM\u20135:30\u202fPM",
+                "Thursday": "10\u202fAM\u20135:30\u202fPM",
+                "Friday": "10\u202fAM\u20135:30\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "10\u202fAM\u20132\u202fPM",
+                "Monday": "10\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z8M_cXypxLAzxQgaFoHLWw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=7.520857&pitch=0&thumbfov=100",
+            "cid": "13510611837131514929",
+            "fid": "0x80952f64fea02bfd:0xbb7f55e232696431",
+            "placeId": "ChIJ_Sug_mQvlYARMWRpMuJVf7s"
+        },
+        {
+            "position": 3,
+            "title": "American Cancer Society",
+            "address": "300 N Willis St, Visalia, CA 93291",
+            "latitude": 36.3321482,
+            "longitude": -119.29755039999999,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "website": "http://www.cancer.org/",
+            "phoneNumber": "(800) 227-2345",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nWadIx3h16DcTxezMcPfug&cb_client=search.gws-prod.gps&w=80&h=92&yaw=90.425064&pitch=0&thumbfov=100",
+            "cid": "16284299666933668769",
+            "fid": "0x80952f6138c610e9:0xe1fd7444e797dba1",
+            "placeId": "ChIJ6RDGOGEvlYARoduX50R0_eE"
+        }
+    ],
+    "credits": 3
+}

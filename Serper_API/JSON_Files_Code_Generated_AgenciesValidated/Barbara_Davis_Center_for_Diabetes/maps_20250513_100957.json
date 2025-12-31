@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Barbara Davis Center for Diabetes",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7440214,-104.8383469,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barbara Davis Center for Childhood Diabetes - Anschutz",
+            "address": "1775 Aurora Ct # A140, Aurora, CO 80045",
+            "latitude": 39.7440305,
+            "longitude": -104.8383611,
+            "rating": 3.4,
+            "ratingCount": 58,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center"
+            ],
+            "website": "https://www.cumedicine.us/locations/cu-medicine-nephrology-longmont",
+            "phoneNumber": "(303) 724-2323",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu1SQTusVRJinaxJhJCynb8ofZvgV6o-9QnKC-v1s811YmsmQIFQL7pFOfjJC74C8oKu5coPnjtcVOvL-b7VQVpvPKg8Wrv9-AWDzf0MQUb_pzItot02hHccj9aERbr_Sotu1Caw",
+            "cid": "14040684325016332613",
+            "fid": "0x876c634ec46162bf:0xc2da8800bbfe6945",
+            "placeId": "ChIJv2JhxE5jbIcRRWn-uwCI2sI"
+        },
+        {
+            "position": 2,
+            "title": "Barbara Davis Center for Diabetes Adult Clinic - Anschutz Medical Campus",
+            "address": "1775 Aurora Ct # A140, Aurora, CO 80045",
+            "latitude": 39.7440123,
+            "longitude": -104.8383327,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center",
+                "Medical clinic"
+            ],
+            "website": "https://www.cumedicine.us/locations/Barbara-Davis-Center-for-Diabetes-Adult-Clinic---CU-Anschutz-Medical-Campus",
+            "phoneNumber": "(303) 724-6755",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NXG99DYSKHKbrxFXJiJUrQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=134.77016&pitch=0&thumbfov=100",
+            "cid": "11968052999979906659",
+            "fid": "0x876c6335e2fb9e21:0xa61710cb44d9b663",
+            "placeId": "ChIJIZ774jVjbIcRY7bZRMsQF6Y"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Miller David A MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.25396,-81.5823487,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. David A. Miller, MD",
+            "address": "4205 Belfort Rd, Jacksonville, FL 32216",
+            "latitude": 30.25396,
+            "longitude": -81.5823487,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(904) 296-3103",
+            "cid": "11441761166773509727",
+            "fid": "0x88e5ca0b74bf5625:0x9ec94d28fe64de5f",
+            "placeId": "ChIJJVa_dAvK5YgRX95k_ihNyZ4"
+        }
+    ],
+    "credits": 3
+}

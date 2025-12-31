@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "SafeHouse Denver",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7426087,-104.9737279,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SafeHouse Denver",
+            "address": "1649 N Downing St, Denver, CO 80218",
+            "latitude": 39.7426087,
+            "longitude": -104.9737279,
+            "rating": 3,
+            "ratingCount": 27,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Association / Organization",
+                "Halfway house"
+            ],
+            "website": "https://safehouse-denver.org/",
+            "phoneNumber": "(303) 318-9959",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NagjTcadk9lJiUSfHbjHEg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=133.78542&pitch=0&thumbfov=100",
+            "cid": "17327790316034851735",
+            "fid": "0x876c79327e540001:0xf078ad7c61b60397",
+            "placeId": "ChIJAQBUfjJ5bIcRlwO2YXytePA"
+        }
+    ],
+    "credits": 3
+}

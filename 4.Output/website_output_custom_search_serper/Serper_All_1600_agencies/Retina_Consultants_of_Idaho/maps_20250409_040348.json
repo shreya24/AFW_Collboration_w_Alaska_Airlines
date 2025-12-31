@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Retina Consultants of Idaho",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6156313,-116.3520217,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Retina Consultants of Idaho",
+            "address": "3715 E Overland Rd #250, Meridian, ID 83642",
+            "latitude": 43.5898961,
+            "longitude": -116.347735,
+            "rating": 4.4,
+            "ratingCount": 8,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://www.stlukesonline.org/health-services/providers/simpson-scott",
+            "phoneNumber": "(208) 855-5950",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRmpSOS66wMLBg74ZBjqxwk12Gdzhm69ZfkIdh",
+            "cid": "1384152971464318764",
+            "fid": "0x54ae56b5a925f8fd:0x13357fcb42ee9f2c",
+            "placeId": "ChIJ_fglqbVWrlQRLJ_uQst_NRM"
+        },
+        {
+            "position": 2,
+            "title": "Retina Specialists of Idaho PLLC",
+            "address": "13923 W Wainwright Dr STE 301, Boise, ID 83713",
+            "latitude": 43.6413665,
+            "longitude": -116.3563085,
+            "rating": 4.2,
+            "ratingCount": 71,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "http://retinaidaho.com/",
+            "phoneNumber": "(208) 938-5624",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OrJUK4orKQ8SYWUJ3YgxPg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=242.07527&pitch=0&thumbfov=100",
+            "cid": "10164573432248294260",
+            "fid": "0x54ae545778583365:0x8d0fd1aeb2885b74",
+            "placeId": "ChIJZTNYeFdUrlQRdFuIsq7RD40"
+        }
+    ],
+    "credits": 3
+}

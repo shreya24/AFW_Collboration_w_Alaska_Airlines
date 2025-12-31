@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Los Alamos Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.881688,-106.3193207,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Los Alamos Medical Center",
+            "address": "3917 W Rd, Los Alamos, NM 87544",
+            "latitude": 35.8815922,
+            "longitude": -106.3195083,
+            "rating": 3.3,
+            "ratingCount": 162,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.losalamosmedicalcenter.com/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(505) 662-4201",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbAkoJGy6B6w9rDqVsv4_WAfGDnfFcStOHxpqQ",
+            "cid": "1974492059178602587",
+            "fid": "0x8718125cb4e36e49:0x1b66ce11072b905b",
+            "placeId": "ChIJSW7jtFwSGIcRW5ArBxHOZhs"
+        },
+        {
+            "position": 2,
+            "title": "Los Alamos Medical Center: Emergency Room",
+            "address": "3917 W Rd, Los Alamos, NM 87544",
+            "latitude": 35.8817837,
+            "longitude": -106.3191331,
+            "rating": 3.3,
+            "ratingCount": 7,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.losalamosmedicalcenter.com/",
+            "phoneNumber": "(505) 662-4201",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0fCWYr-N3ngs4uupP7X0iidhNMWYDLzLioRzP",
+            "cid": "16733645922513752276",
+            "fid": "0x8718125ccd6f2679:0xe839da4ed09890d4",
+            "placeId": "ChIJeSZvzVwSGIcR1JCY0E7aOeg"
+        }
+    ],
+    "credits": 3
+}

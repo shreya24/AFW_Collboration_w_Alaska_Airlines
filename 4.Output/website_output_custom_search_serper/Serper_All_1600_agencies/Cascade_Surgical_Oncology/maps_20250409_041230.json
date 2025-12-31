@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Cascade Surgical Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.891993,-121.7252216,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cascade Surgicenter",
+            "address": "2200 NE Neff Rd Ste 100, Bend, OR 97701",
+            "latitude": 44.0681571,
+            "longitude": -121.27169289999999,
+            "rating": 4.7,
+            "ratingCount": 23,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Addiction treatment center"
+            ],
+            "website": "http://cascadesc.com/",
+            "phoneNumber": "(541) 322-2395",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "6\u202fAM\u20137:30\u202fPM",
+                "Thursday": "6\u202fAM\u20137:30\u202fPM",
+                "Friday": "6\u202fAM\u20137:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN4Uw-V7b3q-D9USalwBBAnOp1GyrP16ulwHBk1",
+            "cid": "10115812915276538017",
+            "fid": "0x54b8c600c203ef5b:0x8c629640255de0a1",
+            "placeId": "ChIJW-8DwgDGuFQRoeBdJUCWYow"
+        },
+        {
+            "position": 2,
+            "title": "Cascade Cancer Center",
+            "address": "12303 NE 130th Ln # 120, Kirkland, WA 98034",
+            "latitude": 47.7158288,
+            "longitude": -122.17875029999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.evergreenhealth.com/cancer-care",
+            "phoneNumber": "(425) 899-3181",
+            "isPermanentlyClosed": true,
+            "cid": "7482576997560714580",
+            "fid": "0x54900d9ab2e0aeb9:0x67d77422881d8554",
+            "placeId": "ChIJua7gspoNkFQRVIUdiCJ012c"
+        }
+    ],
+    "credits": 3
+}

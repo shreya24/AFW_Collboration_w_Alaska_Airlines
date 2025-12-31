@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Oregon Surgical Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3188443,-122.8325275,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Surgical Specialists",
+            "address": "520 Medical Center Dr UNIT 300, Medford, OR 97504",
+            "latitude": 42.318844299999995,
+            "longitude": -122.8325275,
+            "rating": 3.7,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Bariatric surgeon",
+                "Surgeon",
+                "Vascular surgeon"
+            ],
+            "website": "http://www.oregonsurgical.com/",
+            "phoneNumber": "(541) 930-8900",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMn4KKIB_pA_TUS6jFIuTdSZzygHA5qx8LrxuxH",
+            "cid": "7055525543614228006",
+            "fid": "0x54cf7a76609a25b9:0x61ea4319a2d22626",
+            "placeId": "ChIJuSWaYHZ6z1QRJibSohlD6mE"
+        }
+    ],
+    "credits": 3
+}

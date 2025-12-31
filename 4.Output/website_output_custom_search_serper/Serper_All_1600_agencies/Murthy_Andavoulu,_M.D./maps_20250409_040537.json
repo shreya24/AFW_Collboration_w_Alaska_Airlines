@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Murthy Andavoulu, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7713116,-116.4194283,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Murthy V. Andavolu, MD",
+            "address": "1180 N Indian Canyon Dr, Palm Springs, CA 92262",
+            "latitude": 33.8395185,
+            "longitude": -116.5447073,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://www.desertcancercenter.com/",
+            "phoneNumber": "(760) 416-4800",
+            "cid": "15173125373872116366",
+            "fid": "0x80db1bc6e3cf871d:0xd291c5230a1d128e",
+            "placeId": "ChIJHYfP48Yb24ARjhIdCiPFkdI"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Murthy V. Andavolu, MD",
+            "address": "47647 Caleo Bay Drive, La Quinta, CA 92253",
+            "latitude": 33.703104599999996,
+            "longitude": -116.2941493,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(760) 771-6158",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ey2zz_jPT1D2baYz7L73Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=110.06307&pitch=0&thumbfov=100",
+            "cid": "11370712116263563876",
+            "fid": "0x80daf8e392381e5f:0x9dcce26cd51eb264",
+            "placeId": "ChIJXx44kuP42oARZLIe1WzizJ0"
+        }
+    ],
+    "credits": 3
+}

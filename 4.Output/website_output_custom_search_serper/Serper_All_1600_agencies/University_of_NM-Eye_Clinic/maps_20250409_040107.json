@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "University of NM-Eye Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0994699,-106.6272423,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNMH Eye Clinic",
+            "address": "1600 University Blvd NE, Albuquerque, NM 87102",
+            "latitude": 35.099469899999995,
+            "longitude": -106.62724229999999,
+            "rating": 3.4,
+            "ratingCount": 38,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Doctor"
+            ],
+            "website": "http://hospitals.unm.edu/eyes/",
+            "phoneNumber": "(505) 272-2553",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQtesBwgzZ_UgrZnX43kH2_OYb90WKCZ39OgTH",
+            "cid": "5628315506685719458",
+            "fid": "0x87220b43427c6513:0x4e1bcb221bd333a2",
+            "placeId": "ChIJE2V8QkMLIocRojPTGyLLG04"
+        }
+    ],
+    "credits": 3
+}

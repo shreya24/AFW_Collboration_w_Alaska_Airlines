@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Seattle Special Care Dentistry",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6651707,-122.3018395,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Special Care Dentistry",
+            "address": "4915 25th Ave NE #205, Seattle, WA 98105",
+            "latitude": 47.6651707,
+            "longitude": -122.3018395,
+            "rating": 4.7,
+            "ratingCount": 48,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "http://www.sscdentistry.com/",
+            "phoneNumber": "(206) 524-1600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.seattlespecialcaredentistry.com/contact"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCEtIguz7U8XKzCY3k9NIH3FYo6CVJcTI4VuUc",
+            "cid": "17822408637783393301",
+            "fid": "0x5490148878fddd5d:0xf755ea3a98eec415",
+            "placeId": "ChIJXd39eIgUkFQRFcTumDrqVfc"
+        }
+    ],
+    "credits": 3
+}

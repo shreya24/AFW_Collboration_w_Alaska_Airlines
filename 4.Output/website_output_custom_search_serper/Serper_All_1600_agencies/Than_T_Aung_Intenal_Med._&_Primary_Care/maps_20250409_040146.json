@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Than T Aung Intenal Med. & Primary Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5859378,-122.4067011,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Aung Than MD",
+            "address": "2421 Old Eureka Way, Redding, CA 96001",
+            "latitude": 40.585937799999996,
+            "longitude": -122.40670109999999,
+            "rating": 4.5,
+            "ratingCount": 22,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(530) 225-8775",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qT4wLr6_mdatRTIof6gd6w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=169.42291&pitch=0&thumbfov=100",
+            "cid": "8279181692500338065",
+            "fid": "0x54d2ed04f4078061:0x72e58fe264666591",
+            "placeId": "ChIJYYAH9ATt0lQRkWVmZOKP5XI"
+        }
+    ],
+    "credits": 3
+}

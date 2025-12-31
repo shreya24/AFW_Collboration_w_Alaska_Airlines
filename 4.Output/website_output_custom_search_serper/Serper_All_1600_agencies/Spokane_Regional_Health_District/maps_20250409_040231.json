@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Spokane Regional Health District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6630995,-117.4283672,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spokane Regional Health District",
+            "address": "1101 W College Ave, Spokane, WA 99201",
+            "latitude": 47.6630995,
+            "longitude": -117.4283672,
+            "rating": 3.5,
+            "ratingCount": 70,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.srhd.org/",
+            "phoneNumber": "(509) 324-1500",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u201312:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_VMJz-O3gKY1ayoglVdh2BlnrjJnKo1HuqtKxCYl9qBPIqwb8F1Qf05TqQ4o7XfAXif8G5T9Bb4LQXhwHvHF1qXTIN3hscDl9aWnuxuCa_wD_7Njr2EFp2MFf_7Q-xE-Y7CZo",
+            "cid": "5712880734000286751",
+            "fid": "0x549e185eb7ca0b05:0x4f483ac26a428c1f",
+            "placeId": "ChIJBQvKt14YnlQRH4xCasI6SE8"
+        }
+    ],
+    "credits": 3
+}

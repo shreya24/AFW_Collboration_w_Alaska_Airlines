@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pacific Frontier Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5029903,-122.2567259,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific Frontier Medical, Inc",
+            "address": "865 Laurel St # 7, San Carlos, CA 94070",
+            "latitude": 37.5029903,
+            "longitude": -122.25672589999999,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.pacificfrontiermedical.com/",
+            "phoneNumber": "(650) 474-2130",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_6gjAAPHfHdz_Ma2cLzw9wPrIaEonT4RmCLzYnk6rYz1R9lPBV2FiR6O7PLpTZg56j_u_HQD98wqfd3wS4ibYz3_B3ftgGBMME_JbpR4cpRBnqxV2OgfpnRM0Y6-fBJfGtvAmICA",
+            "cid": "2476567230413543331",
+            "fid": "0x808f98d7b97f97fb:0x225e88c64f2c17a3",
+            "placeId": "ChIJ-5d_udeYj4ARoxcsT8aIXiI"
+        }
+    ],
+    "credits": 3
+}

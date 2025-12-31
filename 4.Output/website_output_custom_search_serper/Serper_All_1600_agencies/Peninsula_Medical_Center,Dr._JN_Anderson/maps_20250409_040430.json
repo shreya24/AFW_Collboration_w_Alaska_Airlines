@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Peninsula Medical Center,Dr. JN Anderson",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4937389,-151.0734024,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anderson John Nels Md",
+            "address": "265 N Binkley St, Soldotna, AK 99669",
+            "latitude": 60.4937389,
+            "longitude": -151.0734024,
+            "rating": 3.6,
+            "ratingCount": 5,
+            "phoneNumber": "(907) 262-4161",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1D3e40c1Q9c-dcj35DqA2w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=272.61713&pitch=0&thumbfov=100",
+            "cid": "16300935678339407750",
+            "fid": "0x56c663de3f39497f:0xe2388ea225e95f86",
+            "placeId": "ChIJf0k5P95jxlYRhl_pJaKOOOI"
+        }
+    ],
+    "credits": 3
+}

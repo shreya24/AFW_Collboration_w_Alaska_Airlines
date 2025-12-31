@@ -1,0 +1,478 @@
+{
+    "searchParameters": {
+        "q": "John Muir Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9318428,-121.911357,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "John Muir Health, Walnut Creek Medical Center",
+            "address": "1601 Ygnacio Valley Rd, Walnut Creek, CA 94598",
+            "latitude": 37.9132083,
+            "longitude": -122.0406242,
+            "rating": 3.4,
+            "ratingCount": 259,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-medical-center-walnut-creek.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 939-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.johnmuirhealth.com/locations/urgent-care-center-concord.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA3NC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOsMX7Ov3cMohejRR2t_TOq02yRQD3WssceIWqp",
+            "cid": "9659955120737027131",
+            "fid": "0x808561b30a555555:0x860f0e006dbf043b",
+            "placeId": "ChIJVVVVCrNhhYAROwS_bQAOD4Y"
+        },
+        {
+            "position": 2,
+            "title": "John Muir, Concord Medical Center",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.9837049,
+            "longitude": -122.03336139999999,
+            "rating": 2.8,
+            "ratingCount": 158,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-medical-center-concord.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 682-8200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN04rSydux_FufGahNirsE3G4ONxc-T0_5AiHqj",
+            "cid": "1664649164421931095",
+            "fid": "0x8085672178f211eb:0x171a059869052057",
+            "placeId": "ChIJ6xHyeCFnhYARVyAFaZgFGhc"
+        },
+        {
+            "position": 3,
+            "title": "John Muir Medical Center",
+            "address": "2700 Grant St, Concord, CA 94520",
+            "latitude": 37.9846135,
+            "longitude": -122.0362002,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s-QAoCVSS66bFoVM1YAiQA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=98.63102&pitch=0&thumbfov=100",
+            "cid": "14684088538720184339",
+            "fid": "0x80856705cf06171b:0xcbc85cb9f0cd2813",
+            "placeId": "ChIJGxcGzwVnhYAREyjN8LlcyMs"
+        },
+        {
+            "position": 4,
+            "title": "John Muir Medical Center",
+            "address": "Brentwood, CA 94513",
+            "latitude": 37.9229949,
+            "longitude": -121.7359321,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqgmCNdNP8iKIWIC9eN71_OQwQZ-_7x7IuPDfp",
+            "cid": "6158413794253984988",
+            "fid": "0x808ff938ca1d00e9:0x557714b79a5fd4dc",
+            "placeId": "ChIJ6QAdyjj5j4AR3NRfmrcUd1U"
+        },
+        {
+            "position": 5,
+            "title": "John Muir Medical Center Emergency Room",
+            "address": "1601 Ygnacio Valley Rd, Walnut Creek, CA 94598",
+            "latitude": 37.913558699999996,
+            "longitude": -122.04121359999999,
+            "rating": 2.6,
+            "ratingCount": 82,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Ambulance service"
+            ],
+            "website": "https://www.johnmuirhealth.com/services/emergency-services.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 939-5800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvUfMv6oSFozB2sKokDaTdeLCI20Hk5QRHCU0M",
+            "cid": "9112501650871964760",
+            "fid": "0x808561b30ef309c5:0x7e761bf8ab625458",
+            "placeId": "ChIJxQnzDrNhhYARWFRiq_gbdn4"
+        },
+        {
+            "position": 6,
+            "title": "John Muir Health",
+            "address": "380 Civic Dr #100, Pleasant Hill, CA 94523",
+            "latitude": 37.9623098,
+            "longitude": -122.07210149999999,
+            "rating": 2,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.johnmuirhealth.com/",
+            "phoneNumber": "(925) 682-7871",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EYU1dgLAIKHwVvgfZwIRDw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=27.369709&pitch=0&thumbfov=100",
+            "cid": "8315012354239845318",
+            "fid": "0x808566b033b1e25d:0x7364dbae6d7353c6",
+            "placeId": "ChIJXeKxM7BmhYARxlNzba7bZHM"
+        },
+        {
+            "position": 7,
+            "title": "John Muir Medical Center Walnut Creek @ Bldg #133",
+            "address": "Walnut Creek, CA 94598",
+            "latitude": 37.912265,
+            "longitude": -122.04037699999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TGzH-uRjlvWZzwjMEvOrXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=55.40805&pitch=0&thumbfov=100",
+            "cid": "2128731925384222248",
+            "fid": "0x808561b36571d2a7:0x1d8ac6685a8f5628",
+            "placeId": "ChIJp9JxZbNhhYARKFaPWmjGih0"
+        },
+        {
+            "position": 8,
+            "title": "John Muir Medical Center, Walnut Creek - Outpatient Surgery Center",
+            "address": "1601 Ygnacio Valley Rd, Walnut Creek, CA 94598",
+            "latitude": 37.913168299999995,
+            "longitude": -122.0411019,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Anesthesiologist",
+                "Cardiologist",
+                "Emergency care physician",
+                "Family practice physician",
+                "Internist",
+                "Neurologist",
+                "Neurosurgeon",
+                "Oral and maxillofacial surgeon",
+                "Pediatric cardiologist",
+                "Radiologist"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-medical-center-walnut-creek.html",
+            "phoneNumber": "(925) 947-5276",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YH5QGpc6NIXQ9D_8CQVapw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=191.35329&pitch=0&thumbfov=100",
+            "cid": "11639150454731455554",
+            "fid": "0x808561b3a99df769:0xa18691abf5983c42",
+            "placeId": "ChIJafedqbNhhYARQjyY9auRhqE"
+        },
+        {
+            "position": 9,
+            "title": "John Muir Health Pleasant Hill Medical Office Building",
+            "address": "2675 Pleasant Hill Rd, Pleasant Hill, CA 94523",
+            "latitude": 37.9549151,
+            "longitude": -122.09043419999999,
+            "rating": 2.5,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/pleasant-hill-medical-office-building.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_MjU2MjUwMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(925) 692-5500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONf5oPR7o38_mg776gKMpkMnS8LboHT3lb7VM4",
+            "cid": "16383802512561284290",
+            "fid": "0x808565f9fae098c7:0xe35ef5947f5e24c2",
+            "placeId": "ChIJx5jg-vllhYARwiRef5T1XuM"
+        },
+        {
+            "position": 10,
+            "title": "John Muir Health Concord Medical Center Emergency Room",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.9826161,
+            "longitude": -122.0323782,
+            "rating": 3.2,
+            "ratingCount": 62,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.johnmuirhealth.com/services/emergency-services.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 674-2333",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCZ9J67xsboTui06d3HQEXXSaSbIwQB-_d-mua",
+            "cid": "8277762964124098763",
+            "fid": "0x808567219bdd069d:0x72e0858ef38060cb",
+            "placeId": "ChIJnQbdmyFnhYARy2CA846F4HI"
+        },
+        {
+            "position": 11,
+            "title": "John Muir Health Tice Valley Medical Office Building",
+            "address": "1914 Tice Valley Blvd, Walnut Creek, CA 94595",
+            "latitude": 37.8789338,
+            "longitude": -122.0738008,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-health-medical-office-building-tice-valley-rossmoor.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_MjU2MjU2ODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(925) 988-7533",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKsnUBaMNBoWEMB2eQHv99jB3PugoM9FRX-BpA",
+            "cid": "6106000123000291465",
+            "fid": "0x808561f5422c1f91:0x54bcdec2c9ec8089",
+            "placeId": "ChIJkR8sQvVhhYARiYDsycLevFQ"
+        },
+        {
+            "position": 12,
+            "title": "John Muir Health Outpatient Center",
+            "address": "2700 Grant St, Concord, CA 94520",
+            "latitude": 37.9847518,
+            "longitude": -122.0363005,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/outpatient-center-concord.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 674-2600",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObFEYcxktbqTaokKvTuEalhL4rKEgluLQcTH9d",
+            "cid": "7890247456892751056",
+            "fid": "0x8085671f8f6ab17d:0x6d7fca41fa058cd0",
+            "placeId": "ChIJfbFqjx9nhYAR0IwF-kHKf20"
+        },
+        {
+            "position": 13,
+            "title": "John Muir Health Urgent Care Center",
+            "address": "2400 Balfour Rd Suite 120, Brentwood, CA 94513",
+            "latitude": 37.924239799999995,
+            "longitude": -121.73488859999999,
+            "rating": 2.8,
+            "ratingCount": 66,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/urgent-care-center-brentwood.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 308-8111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.johnmuirhealth.com/locations/urgent-care-center-brentwood.html?cid=orgloc%3AreservationURL%3Ayext&y_source=1_NDEyMzA4MC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP34yey9j7CR-hu4yWbzQ3YTkbf3JidwUCkxyzj",
+            "cid": "6503698463904578135",
+            "fid": "0x808ff938e8cca4d5:0x5a41c74b7b493a57",
+            "placeId": "ChIJ1aTM6Dj5j4ARVzpJe0vHQVo"
+        },
+        {
+            "position": 14,
+            "title": "John Muir Health Network",
+            "address": "91 Gregory Ln #15, Pleasant Hill, CA 94523",
+            "latitude": 37.948180799999996,
+            "longitude": -122.06209949999999,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/",
+            "phoneNumber": "(925) 685-0843",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ekveiYhUZVMDnX0C9OKDRA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.0083044&pitch=0&thumbfov=100",
+            "cid": "12442147874606760036",
+            "fid": "0x808561487500a50d:0xacab639214d14064",
+            "placeId": "ChIJDaUAdUhhhYARZEDRFJJjq6w"
+        },
+        {
+            "position": 15,
+            "title": "John Muir Health Outpatient Center",
+            "address": "2400 Balfour Rd, Brentwood, CA 94513",
+            "latitude": 37.924259,
+            "longitude": -121.73495249999999,
+            "rating": 3.3,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-health-outpatient-center-brentwood.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 308-8100",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOb45bl17ITu3H_yt5JjTTwOIZEx9_NEPvgzbW",
+            "cid": "12706037420765091465",
+            "fid": "0x808ff938e8cca4d5:0xb054e9b6f7861689",
+            "placeId": "ChIJ1aTM6Dj5j4ARiRaG97bpVLA"
+        },
+        {
+            "position": 16,
+            "title": "John Muir Medical Center: Hiss John B MD",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.9838036,
+            "longitude": -122.0338474,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.johnmuirhealth.com/",
+            "phoneNumber": "(925) 682-8200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JT_YOi5sn5iM0v8tIUo9Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=270.67032&pitch=0&thumbfov=100",
+            "cid": "625089542786609600",
+            "fid": "0x8085672192e4c365:0x8acc3a0969b71c0",
+            "placeId": "ChIJZcPkkiFnhYARwHGblqDDrAg"
+        },
+        {
+            "position": 17,
+            "title": "John Muir Medical Center: Arce Deborah S MD",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.9827242,
+            "longitude": -122.0334585,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-medical-center-concord.html",
+            "phoneNumber": "(925) 682-8200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JT_YOi5sn5iM0v8tIUo9Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=183.38716&pitch=0&thumbfov=100",
+            "cid": "3469315001732821337",
+            "fid": "0x8085672192e4c365:0x30257b9ce437f159",
+            "placeId": "ChIJZcPkkiFnhYARWfE35Jx7JTA"
+        },
+        {
+            "position": 18,
+            "title": "John Muir Medical Center: Mc Lane Katherine L MD",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.983067,
+            "longitude": -122.034139,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/john-muir-medical-center-concord.html",
+            "phoneNumber": "(925) 682-8200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JT_YOi5sn5iM0v8tIUo9Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=219.32979&pitch=0&thumbfov=100",
+            "cid": "5909362277008761602",
+            "fid": "0x8085672192e4c365:0x520245ae8a336302",
+            "placeId": "ChIJZcPkkiFnhYARAmMziq5FAlI"
+        },
+        {
+            "position": 19,
+            "title": "John Muir Health Outpatient Center",
+            "address": "1450 Treat Blvd, Walnut Creek, CA 94597",
+            "latitude": 37.9260636,
+            "longitude": -122.0521349,
+            "rating": 3.2,
+            "ratingCount": 25,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/outpatient-center-walnut-creek.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 296-9700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.johnmuirhealth.com/locations/urgent-care-center-san-ramon.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_NDEyMzA3Mi03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM__X48DvlBbjKUEXbEgq18_BUhd61jVV6_66_n",
+            "cid": "13763399738503507282",
+            "fid": "0x80856108de03c259:0xbf016b23fb34ad52",
+            "placeId": "ChIJWcID3ghhhYARUq00-yNrAb8"
+        },
+        {
+            "position": 20,
+            "title": "John Muir Medical Ctr Walnut Creek",
+            "address": "Walnut Creek, CA 94598",
+            "latitude": 37.912577,
+            "longitude": -122.0411195,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Transport hub",
+            "types": [
+                "Transport hub"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZEwiKhQpJjtwJWdTL5NKT1kpgvPfQYtYjPNl_",
+            "cid": "15471096875180194829",
+            "fid": "0x808561b3756245bb:0xd6b460a37ac57c0d",
+            "placeId": "ChIJu0VidbNhhYARDXzFeqNgtNY"
+        }
+    ],
+    "credits": 3
+}

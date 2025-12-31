@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "St. Andrew Children's Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.7368974,-106.6717537,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Andrews Children Center",
+            "address": "4400 Barranca Pkwy, Irvine, CA 92604",
+            "latitude": 33.6800534,
+            "longitude": -117.8026546,
+            "rating": 4.3,
+            "ratingCount": 11,
+            "type": "Day care center",
+            "types": [
+                "Day care center",
+                "School"
+            ],
+            "website": "https://sa-kids.org/",
+            "phoneNumber": "(949) 651-0198",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20136\u202fPM",
+                "Thursday": "6:30\u202fAM\u20136\u202fPM",
+                "Friday": "6:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOn8aSQbHdaofV08Wpbg7_qh_NdGlG3Y08iFUup",
+            "cid": "8309406058503519309",
+            "fid": "0x80dcddb464460879:0x7350f0c8fb94bc4d",
+            "placeId": "ChIJeQhGZLTd3IARTbyU-8jwUHM"
+        },
+        {
+            "position": 2,
+            "title": "St. Andrew's Presbyterian Children's Center",
+            "address": "3204 Skillman St, Dallas, TX 75206",
+            "latitude": 32.8276044,
+            "longitude": -96.7612887,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Day care center",
+            "types": [
+                "Day care center"
+            ],
+            "website": "https://standrewsdallas.org/childrens-center/",
+            "phoneNumber": "(214) 823-9199",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h-LQ0X3Spn2CYcPeHiXHxQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.75912&pitch=0&thumbfov=100",
+            "cid": "2207895790586063039",
+            "fid": "0x864e9fbe48e5a455:0x1ea405860af668bf",
+            "placeId": "ChIJVaTlSL6fToYRv2j2CoYFpB4"
+        },
+        {
+            "position": 3,
+            "title": "St Andrew Early Childhood Center",
+            "address": "1353 Witte Rd, Houston, TX 77055",
+            "latitude": 29.793741299999997,
+            "longitude": -95.54085289999999,
+            "rating": 4,
+            "ratingCount": 25,
+            "type": "Day care center",
+            "types": [
+                "Day care center",
+                "After school program"
+            ],
+            "website": "http://www.standrew-lcms.org/salecc.html",
+            "phoneNumber": "(713) 468-0026",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "standrew-lcms.org/schedule-a-tour.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNvB0Sv0lgWDNyYIAhG0yvT5Rd__dST8yH3RCun",
+            "cid": "11535346638998418983",
+            "fid": "0x8640c4c1e1119053:0xa015c8a6ba7f3627",
+            "placeId": "ChIJU5AR4cHEQIYRJzZ_uqbIFaA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr. Timothy Adams M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6703781,-121.145784,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Timothy M. Adams, MD",
+            "address": "1650 Creekside Dr, Folsom, CA 95630",
+            "latitude": 38.6703781,
+            "longitude": -121.14578399999999,
+            "type": "Anesthesiologist",
+            "types": [
+                "Anesthesiologist"
+            ],
+            "phoneNumber": "(916) 983-7400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ayWnzTc7YuSKw6zNrMuqkw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=155.13481&pitch=0&thumbfov=100",
+            "cid": "4185978025198929377",
+            "fid": "0x809ae46a8b0a8f2b:0x3a1794d5ed92c5e1",
+            "placeId": "ChIJK48Ki2rkmoAR4cWS7dWUFzo"
+        }
+    ],
+    "credits": 3
+}

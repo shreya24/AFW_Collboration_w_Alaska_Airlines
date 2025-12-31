@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pullman Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.7382379,-117.1674498,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pullman Family Medicine",
+            "address": "915 NE Valley Rd, Pullman, WA 99163",
+            "latitude": 46.738237899999994,
+            "longitude": -117.1674498,
+            "rating": 2.6,
+            "ratingCount": 109,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.pullmanregional.org/pullman-family-medicine",
+            "phoneNumber": "(509) 332-3548",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPL6OSxALysvRTkZ4ZPVonxYWyC-7OFV2Kg109G",
+            "cid": "14049711891811359572",
+            "fid": "0x549f86e2da43ffa7:0xc2fa9a86ebff5b54",
+            "placeId": "ChIJp_9D2uKGn1QRVFv_64aa-sI"
+        }
+    ],
+    "credits": 3
+}

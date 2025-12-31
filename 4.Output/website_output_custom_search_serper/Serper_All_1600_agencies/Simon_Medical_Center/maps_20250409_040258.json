@@ -1,0 +1,633 @@
+{
+    "searchParameters": {
+        "q": "Simon Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.2063399,-99.4811692,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SimonMed Imaging - Avondale",
+            "address": "10815 W McDowell Rd #102, Avondale, AZ 85392",
+            "latitude": 33.4630618,
+            "longitude": -112.2919824,
+            "rating": 4.4,
+            "ratingCount": 5160,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/avondale/",
+            "phoneNumber": "(623) 433-0121",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u201310\u202fPM",
+                "Wednesday": "6:30\u202fAM\u201310\u202fPM",
+                "Thursday": "6:30\u202fAM\u201310\u202fPM",
+                "Friday": "6:30\u202fAM\u201310\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8G-cUv_bPIZo29OSu5ZHhN_cvOJvHoZQenHqr8XxEwu31uwJkEoBScHipLteIX516CC1NshjKG8TTcICeJUmQwJScD5_rSAX4t2dxn-6QgDSHnF68-ilgdBdN3QpyyoiHo_ZNp",
+            "cid": "4283700393976513030",
+            "fid": "0x872b3f0b89f81d25:0x3b72c2cff32bc206",
+            "placeId": "ChIJJR34iQs_K4cRBsIr88_Ccjs"
+        },
+        {
+            "position": 2,
+            "title": "SimonMed Imaging - Peoria Plaza",
+            "address": "9139 W Thunderbird Rd # 112, Peoria, AZ 85381",
+            "latitude": 33.6081016,
+            "longitude": -112.25563299999999,
+            "rating": 4.5,
+            "ratingCount": 4158,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/peoria-plaza/",
+            "phoneNumber": "(623) 875-1637",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201310\u202fPM",
+                "Wednesday": "6\u202fAM\u201310\u202fPM",
+                "Thursday": "6\u202fAM\u201310\u202fPM",
+                "Friday": "6\u202fAM\u201310\u202fPM",
+                "Saturday": "6:30\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "6\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoSa_-GUX_AMFJFClXgwk2vUjAe16Qe5NGHkYw",
+            "cid": "14989689795483884682",
+            "fid": "0x872b426f2c00fd55:0xd0061373411d5c8a",
+            "placeId": "ChIJVf0ALG9CK4cRilwdQXMTBtA"
+        },
+        {
+            "position": 3,
+            "title": "SimonMed Imaging - Sun City West",
+            "address": "13624 W Camino Del Sol Ste 300, Sun City West, AZ 85375",
+            "latitude": 33.6548085,
+            "longitude": -112.35608069999999,
+            "rating": 4.4,
+            "ratingCount": 4294,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/sun-city-west/",
+            "phoneNumber": "(623) 214-6609",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20137\u202fPM",
+                "Wednesday": "6\u202fAM\u20137\u202fPM",
+                "Thursday": "6\u202fAM\u20137\u202fPM",
+                "Friday": "6\u202fAM\u20137\u202fPM",
+                "Saturday": "6\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_TtN1o1DjV_G0FQmkuPyQCxAKDmZ6CwzbrCdWeMxh7zArnzKIGXiCRdnGN9Jc_G24bKP-AdmApwCeT6uQg-Y-kyvPmDgc9_T6h_rqEx1nxK7TJpvYSn-A0HN6jqlix26GImsg",
+            "cid": "4052350561240496831",
+            "fid": "0x872b5b4838629d2b:0x383cd75d7c183abf",
+            "placeId": "ChIJK51iOEhbK4cRvzoYfF3XPDg"
+        },
+        {
+            "position": 4,
+            "title": "SimonMed Imaging - Thunderbird",
+            "address": "5410 W Thunderbird Rd Ste 100, Glendale, AZ 85306",
+            "latitude": 33.611150099999996,
+            "longitude": -112.1759048,
+            "rating": 4.2,
+            "ratingCount": 5940,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/thunderbird/",
+            "phoneNumber": "(602) 682-5000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "8\u202fAM\u20131\u202fPM",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-PxpnzLPEaQQYTpCxDdPX0QMOUniKHFbzt1xVF07kwAJzvR5melRDDcYQvEGM7CSQfA6NaAkljRjlxixbfCbHRNjoBtyKskHEcHaQKJdX_f6JrQSrQmKfCfk4KkQuCWTbsAucsQw",
+            "cid": "4049777726083674423",
+            "fid": "0x872b696dd4d3ce37:0x3833b3629e81b137",
+            "placeId": "ChIJN87T1G1pK4cRN7GBnmKzMzg"
+        },
+        {
+            "position": 5,
+            "title": "SimonMed Imaging - Queen Creek",
+            "address": "36297 N Gantzel Rd Ste 101, Queen Creek, AZ 85140",
+            "latitude": 33.208877199999996,
+            "longitude": -111.5648191,
+            "rating": 4.2,
+            "ratingCount": 4136,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/queen-creek/",
+            "phoneNumber": "(480) 809-4400",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5w-wrLWC-F3NraWU_-Nr08jWOGdhkN3otKk4n",
+            "cid": "45120627935324965",
+            "fid": "0x872a4bf6d55c4c4d:0xa04cf8d820ab25",
+            "placeId": "ChIJTUxc1fZLKocRJasg2PhMoAA"
+        },
+        {
+            "position": 6,
+            "title": "SimonMed Imaging - The Woodlands",
+            "address": "8850 Six Pines Dr #190, The Woodlands, TX 77380",
+            "latitude": 30.175832999999997,
+            "longitude": -95.45889369999999,
+            "rating": 4.5,
+            "ratingCount": 1226,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/tx/the-woodlands/",
+            "phoneNumber": "(832) 381-3800",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20138\u202fPM",
+                "Thursday": "8:30\u202fAM\u20138\u202fPM",
+                "Friday": "8:30\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3h_KhvEYBMHbc-Z-3bOno4TMppBTG71LDWhAy",
+            "cid": "15608743746065060281",
+            "fid": "0x864736dda691c077:0xd89d65bd064ed1b9",
+            "placeId": "ChIJd8CRpt02R4YRudFOBr1lndg"
+        },
+        {
+            "position": 7,
+            "title": "SimonMed Imaging - Laguna Hills",
+            "address": "24022 Calle De La Plata STE 100, Laguna Hills, CA 92653",
+            "latitude": 33.6102308,
+            "longitude": -117.7108543,
+            "rating": 4.3,
+            "ratingCount": 1116,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/ca/laguna-hills/",
+            "phoneNumber": "(949) 330-8996",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201310:30\u202fPM",
+                "Thursday": "8\u202fAM\u201310:30\u202fPM",
+                "Friday": "8\u202fAM\u201310:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201310:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8vIuPNFbWTx4HRIA0YLNz0e-2YrcWeJO6FSUm",
+            "cid": "11750892252301516549",
+            "fid": "0x80dce9ed6e0598ef:0xa3138e3e9c525f05",
+            "placeId": "ChIJ75gFbu3p3IARBV9SnD6OE6M"
+        },
+        {
+            "position": 8,
+            "title": "SimonMed Imaging - Med Center",
+            "address": "2256 W Holcombe Blvd, Houston, TX 77030",
+            "latitude": 29.7067202,
+            "longitude": -95.41164429999999,
+            "rating": 4.6,
+            "ratingCount": 990,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/tx/med-center/",
+            "phoneNumber": "(346) 335-8519",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOkN2FePm_Pnt7PEUxPuGn1qnyZPuafpzowsrN6",
+            "cid": "9821283111707677557",
+            "fid": "0x8640c06bc87ea13d:0x884c34f467e11375",
+            "placeId": "ChIJPaF-yGvAQIYRdRPhZ_Q0TIg"
+        },
+        {
+            "position": 9,
+            "title": "SimonMed Imaging - Peoria Sun City",
+            "address": "9403 W Thunderbird Rd, Peoria, AZ 85381",
+            "latitude": 33.609246299999995,
+            "longitude": -112.2622227,
+            "rating": 4.3,
+            "ratingCount": 4203,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/sun-city-peoria/",
+            "phoneNumber": "(623) 234-8700",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201310\u202fPM",
+                "Wednesday": "6\u202fAM\u201310\u202fPM",
+                "Thursday": "6\u202fAM\u201310\u202fPM",
+                "Friday": "6\u202fAM\u201310\u202fPM",
+                "Saturday": "6:30\u202fAM\u20137\u202fPM",
+                "Sunday": "6:30\u202fAM\u20137\u202fPM",
+                "Monday": "6\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPu_0jNQa0AastbSqim2lj8dNXx3wbO0sU0Bm4V",
+            "cid": "12667926483588133474",
+            "fid": "0x872b426f266a207d:0xafcd8404ef08b262",
+            "placeId": "ChIJfSBqJm9CK4cRYrII7wSEza8"
+        },
+        {
+            "position": 10,
+            "title": "SimonMed Imaging - San Bernardino",
+            "address": "225 W Hospitality Ln # 100, San Bernardino, CA 92408",
+            "latitude": 34.0652664,
+            "longitude": -117.28836559999999,
+            "rating": 4.6,
+            "ratingCount": 2011,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/ca/san-bernardino/",
+            "phoneNumber": "(909) 890-5856",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVJLA0Fxv-S0xAecCxjYcXYutzaUq0YgLxui4U",
+            "cid": "487414963381825837",
+            "fid": "0x80dcac9280877d75:0x6c3a553a695712d",
+            "placeId": "ChIJdX2HgJKs3IARLXGVplOlwwY"
+        },
+        {
+            "position": 11,
+            "title": "SimonMed Imaging - Thomas",
+            "address": "2830 N 3rd St, Phoenix, AZ 85004",
+            "latitude": 33.480001699999995,
+            "longitude": -112.0698383,
+            "rating": 4.4,
+            "ratingCount": 2354,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/thomas/",
+            "phoneNumber": "(602) 200-1750",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDqR2UbSQ7tbnEPtweEBsvoKs_ic6QUi6mrHDi",
+            "cid": "4575642845854624020",
+            "fid": "0x872b1267129e760b:0x3f7ff2ecee38e914",
+            "placeId": "ChIJC3aeEmcSK4cRFOk47uzyfz8"
+        },
+        {
+            "position": 12,
+            "title": "SimonMed Imaging",
+            "address": "775 N Alafaya Trail, Orlando, FL 32828",
+            "latitude": 28.5566426,
+            "longitude": -81.2013162,
+            "rating": 4.5,
+            "ratingCount": 6745,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/fl/waterford-lakes/",
+            "phoneNumber": "(321) 235-8700",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u201310\u202fPM",
+                "Wednesday": "6\u202fAM\u201310\u202fPM",
+                "Thursday": "6\u202fAM\u201310\u202fPM",
+                "Friday": "6\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPW3J9Ov6JHdUW1CHAnUPWD9DHr2iT3shV8aXAV",
+            "cid": "2058133167938394734",
+            "fid": "0x88e767cb58818a49:0x1c8ff536376ada6e",
+            "placeId": "ChIJSYqBWMtn54gRbtpqNzb1jxw"
+        },
+        {
+            "position": 13,
+            "title": "SimonMed Imaging - Irvine",
+            "address": "15775 Laguna Canyon Rd, Irvine, CA 92618",
+            "latitude": 33.6665711,
+            "longitude": -117.7610222,
+            "rating": 4.4,
+            "ratingCount": 591,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/ca/irvine/",
+            "phoneNumber": "(949) 522-8120",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201310:30\u202fPM",
+                "Thursday": "8\u202fAM\u201310:30\u202fPM",
+                "Friday": "8\u202fAM\u201310:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201310:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMT0uNij7-0_ewlW1i8VvYrkxZGrGiH4tecEBAe",
+            "cid": "7792953732917063657",
+            "fid": "0x80dcdd8cbf1a9135:0x6c26222199936fe9",
+            "placeId": "ChIJNZEav4zd3IAR6W-TmSEiJmw"
+        },
+        {
+            "position": 14,
+            "title": "SimonMed Imaging - Biltmore",
+            "address": "2502 E Camelback Rd Ste 160 & 167, Phoenix, AZ 85016",
+            "latitude": 33.511027299999995,
+            "longitude": -112.02636679999999,
+            "rating": 4.2,
+            "ratingCount": 2816,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/biltmore/",
+            "phoneNumber": "(480) 428-5980",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNYa7u2q2SItXROji2Htbz5-nPe1ROiE-3Ules",
+            "cid": "1903446159236935154",
+            "fid": "0x872b1339f44896bd:0x1a6a66326a662df2",
+            "placeId": "ChIJvZZI9DkTK4cR8i1majJmaho"
+        },
+        {
+            "position": 15,
+            "title": "SimonMed Imaging - Riverside",
+            "address": "10111 Hole Ave, Riverside, CA 92503",
+            "latitude": 33.9146523,
+            "longitude": -117.45843769999999,
+            "rating": 4.4,
+            "ratingCount": 1921,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/ca/riverside/",
+            "phoneNumber": "(951) 352-0555",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5v8lXVyIA9tdvTT7J_v02HdJDeWCME5MUYB52",
+            "cid": "1238935150133905096",
+            "fid": "0x80dcb734f572aea1:0x113194f4737a06c8",
+            "placeId": "ChIJoa5y9TS33IARyAZ6c_SUMRE"
+        },
+        {
+            "position": 16,
+            "title": "SimonMed Imaging Ocoee",
+            "address": "10125 W Colonial Dr # 114, Ocoee, FL 34761",
+            "latitude": 28.5531093,
+            "longitude": -81.5260871,
+            "rating": 4.4,
+            "ratingCount": 4880,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/fl/ocoee-ii/",
+            "phoneNumber": "(407) 531-7100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMr1GSG0iFGBrRApFDrTB0rZ7WtDAwONzfgDLpZ",
+            "cid": "3376887021407215117",
+            "fid": "0x88e782861a6f91ff:0x2edd1cdabd9a9e0d",
+            "placeId": "ChIJ_5FvGoaC54gRDZ6avdoc3S4"
+        },
+        {
+            "position": 17,
+            "title": "SimonMed Imaging - Spectrum",
+            "address": "2680 S Val Vista Dr Ste 135 Bldg 7, Gilbert, AZ 85295",
+            "latitude": 33.3028183,
+            "longitude": -111.75619839999999,
+            "rating": 4.3,
+            "ratingCount": 5063,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/spectrum/",
+            "phoneNumber": "(480) 584-4900",
+            "openingHours": {
+                "Tuesday": "6:15\u202fAM\u20137\u202fPM",
+                "Wednesday": "6:15\u202fAM\u20137\u202fPM",
+                "Thursday": "6:15\u202fAM\u20137\u202fPM",
+                "Friday": "6:15\u202fAM\u20137\u202fPM",
+                "Saturday": "6:15\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6:15\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB951EDL6PfLjxTY-5tWO5wjAEsXgkJtgQuSgplrTYb9WU4q900KceahgzjwFO6P9iSEfSFLMb8VqYcGquFZc1PKCz111MaK805aUEfUJGLCAJY18wnspcNesl4eyPrDCx6Ib-rR",
+            "cid": "10806270415413601601",
+            "fid": "0x872bac77217729e1:0x95f795b0518a6541",
+            "placeId": "ChIJ4Sl3IXesK4cRQWWKUbCV95U"
+        },
+        {
+            "position": 18,
+            "title": "SimonMed Imaging - Hunter's Creek",
+            "address": "1125 Miranda Ln, Kissimmee, FL 34741",
+            "latitude": 28.3474133,
+            "longitude": -81.41498349999999,
+            "rating": 4.6,
+            "ratingCount": 3386,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "MRI center",
+                "X-ray lab"
+            ],
+            "website": "https://www.simonmed.com/locations/fl/hunters-creek/",
+            "phoneNumber": "(689) 204-0153",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSeFtcdcNFDbrybHRwZprwE8mJs-kPN9B2RG9q",
+            "cid": "18102873814528891909",
+            "fid": "0x88dd87b07a1554d5:0xfb3a53d238b71c05",
+            "placeId": "ChIJ1VQVerCH3YgRBRy3ONJTOvs"
+        },
+        {
+            "position": 19,
+            "title": "SimonMed Imaging - Altamonte III",
+            "address": "745 Orienta Ave #1161, Altamonte Springs, FL 32701",
+            "latitude": 28.661799499999997,
+            "longitude": -81.36398899999999,
+            "rating": 4.7,
+            "ratingCount": 3974,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/",
+            "phoneNumber": "(321) 207-4474",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8bZGW5_MZl9T6U_2I_vJwI7qGxop9hgBS2c7etBvq-Rvo5n1dOFgNLXXFvd37uOsOGfseUtpb0Y3cT_sYVYeJ8nBv2W_aYJ05Y3o8x03SSQslK43HohNGAzFIv4c7sEH4MuEwj",
+            "cid": "16531809498334359085",
+            "fid": "0x88e771cc72a2afa1:0xe56cc92642a5ee2d",
+            "placeId": "ChIJoa-icsxx54gRLe6lQibJbOU"
+        },
+        {
+            "position": 20,
+            "title": "SimonMed Imaging - Mesa Desert",
+            "address": "1111 S Dobson Rd Ste 105, Mesa, AZ 85202",
+            "latitude": 33.3946396,
+            "longitude": -111.8740924,
+            "rating": 4.2,
+            "ratingCount": 5533,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://www.simonmed.com/locations/az/mesa-desert/",
+            "phoneNumber": "(480) 964-4995",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://simonmed.opendr.com/patient/orders/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9CAhIDp3yStUYOgmn89lKVONeIqlQSmIeKO6xtjRKYQnbLcaBXbsykNpKJlr6le6FPWETwfwj-A_oZHxmYwGSXqlFx4KUoKl3uvvp8PcGRKseOn4tlaUauNEy4OS1Q_v6IQhCF3w",
+            "cid": "5973136812540678587",
+            "fid": "0x872b07e21a3d8c03:0x52e4d848b24bd1bb",
+            "placeId": "ChIJA4w9GuIHK4cRu9FLskjY5FI"
+        }
+    ],
+    "credits": 3
+}

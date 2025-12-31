@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Set Free Alaska, Inc. Homer",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.6476068,-151.5489843,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Set Free Alaska, Inc. Homer",
+            "address": "3964 Bartlett St Unit 2, Homer, AK 99603",
+            "latitude": 59.6476068,
+            "longitude": -151.5489843,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Addiction treatment center"
+            ],
+            "website": "http://www.setfreealaska.org/",
+            "phoneNumber": "(907) 235-4732",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I52Kny5PoT9UzcOibkbl4Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=98.742874&pitch=0&thumbfov=100",
+            "cid": "9959661393103576214",
+            "fid": "0x56c12de34ed6505f:0x8a37d344bb1c5c96",
+            "placeId": "ChIJX1DWTuMtwVYRllwcu0TTN4o"
+        }
+    ],
+    "credits": 3
+}

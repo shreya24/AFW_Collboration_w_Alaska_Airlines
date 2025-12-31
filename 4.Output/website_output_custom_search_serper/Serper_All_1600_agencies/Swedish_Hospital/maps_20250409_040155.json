@@ -1,0 +1,592 @@
+{
+    "searchParameters": {
+        "q": "Swedish Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.7662062,-105.0400969,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Endeavor Health Swedish Hospital",
+            "address": "5140 N California Ave, Chicago, IL 60625",
+            "latitude": 41.975338799999996,
+            "longitude": -87.6993399,
+            "rating": 2.4,
+            "ratingCount": 829,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical clinic",
+                "Wellness center"
+            ],
+            "website": "https://www.endeavorhealth.org/locations/swedish-hospital",
+            "phoneNumber": "(773) 878-8200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOGL9-9-EvDwAJKSL9dsTFSRh_pC63967EeqJbP",
+            "cid": "11227084122317935294",
+            "fid": "0x880fcdffc8d95271:0x9bce9d868e3052be",
+            "placeId": "ChIJcVLZyP_ND4gRvlIwjoadzps"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Hospital - First Hill Campus",
+            "address": "747 Broadway, Seattle, WA 98122",
+            "latitude": 47.608469,
+            "longitude": -122.32148099999999,
+            "rating": 3.1,
+            "ratingCount": 219,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus?Is=location&y_source=1_OTU3NjkyMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-6000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/first-hill-campus#llaid=7437sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeKYFn-8EGtt6Hi5u7zZNfs3ImKMiUYN-DoyOe",
+            "cid": "5633867081434861685",
+            "fid": "0x54906ac851cdd757:0x4e2f8442d4b11075",
+            "placeId": "ChIJV9fNUchqkFQRdRCx1EKEL04"
+        },
+        {
+            "position": 3,
+            "title": "Swedish Hospital Cherry Hill Campus",
+            "address": "500 17th Ave, Seattle, WA 98122",
+            "latitude": 47.6072035,
+            "longitude": -122.3105611,
+            "rating": 3.3,
+            "ratingCount": 222,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus?Is=location&y_source=1_OTU3Njg1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-2000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/cherry-hill-campus#llaid=6645sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOK_aBy_NXBomlRPGifRchh6Q9vpoxpsinrRs3q",
+            "cid": "15972904635050606320",
+            "fid": "0x54906ac5b4da512b:0xddab28233361bef0",
+            "placeId": "ChIJK1HatMVqkFQR8L5hMyMoq90"
+        },
+        {
+            "position": 4,
+            "title": "Swedish Medical Center Ballard Campus",
+            "address": "5300 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.667469,
+            "longitude": -122.3795882,
+            "rating": 2.8,
+            "ratingCount": 104,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus?Is=location&y_source=1_OTU3Njg3MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 782-2700",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPssVWmmO0q7eukZYjXmPoyVVUGzBo0TQNKRz_C",
+            "cid": "5679541174987849367",
+            "fid": "0x549015c87c2ba04d:0x4ed1c89b6e5afe97",
+            "placeId": "ChIJTaArfMgVkFQRl_5abpvI0U4"
+        },
+        {
+            "position": 5,
+            "title": "UW Health SwedishAmerican Hospital",
+            "address": "1401 E State St, Rockford, IL 61104",
+            "latitude": 42.265499,
+            "longitude": -89.07400899999999,
+            "rating": 3.3,
+            "ratingCount": 710,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uwhealth.org/locations/swedishamerican",
+            "phoneNumber": "(779) 696-4400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipND9EWUp0HNhCj079KLkG45SqZk_6Fm3erSLOoV",
+            "cid": "925474425728663100",
+            "fid": "0x8808bfb63b07c0bd:0xcd7f2163a43fe3c",
+            "placeId": "ChIJvcAHO7a_CIgRPP5DOhby1ww"
+        },
+        {
+            "position": 6,
+            "title": "HCA HealthONE Swedish",
+            "address": "501 E Hampden Ave, Englewood, CO 80113",
+            "latitude": 39.6538817,
+            "longitude": -104.980537,
+            "rating": 4.3,
+            "ratingCount": 4618,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/swedish?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(303) 788-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.healthonecares.com/locations/swedish/physicians"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFfUQNPT6XIlWHJ3IcXMiRQUSpPUQ1X1_qTbMx",
+            "cid": "11855944775002216283",
+            "fid": "0x876c8081479edec9:0xa488c6f516a7d75b",
+            "placeId": "ChIJyd6eR4GAbIcRW9enFvXGiKQ"
+        },
+        {
+            "position": 7,
+            "title": "Swedish Edmonds Campus",
+            "address": "21601 76th Ave W, Edmonds, WA 98026",
+            "latitude": 47.8029119,
+            "longitude": -122.3336623,
+            "rating": 2.7,
+            "ratingCount": 333,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/edmonds-campus?Is=location&y_source=1_OTU3NjUxNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 640-4000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5mKpaebMo3GUndswIXKDicOMtEQ1-t-iVMgYp",
+            "cid": "2374052115258188164",
+            "fid": "0x54901abc5fe1fff3:0x20f253d2103aa184",
+            "placeId": "ChIJ8__hX7wakFQRhKE6ENJT8iA"
+        },
+        {
+            "position": 8,
+            "title": "Swedish Issaquah Campus",
+            "address": "751 NE Blakely Dr, Issaquah, WA 98029",
+            "latitude": 47.5362595,
+            "longitude": -122.02198999999999,
+            "rating": 3.1,
+            "ratingCount": 324,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/",
+            "phoneNumber": "(425) 313-4000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPYqPOLZP5MF4SfrsaYHGuQz_TUqyqexwBhfdU1",
+            "cid": "18017036021041301473",
+            "fid": "0x5490656299b15a4b:0xfa095ecd839587e1",
+            "placeId": "ChIJS1qxmWJlkFQR4YeVg81eCfo"
+        },
+        {
+            "position": 9,
+            "title": "Swedish Redmond Campus",
+            "address": "18100 NE Union Hill Rd, Redmond, WA 98052",
+            "latitude": 47.6763693,
+            "longitude": -122.0990518,
+            "rating": 2.8,
+            "ratingCount": 117,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency care physician",
+                "Emergency room",
+                "Medical Center",
+                "Medical clinic",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.swedish.org/locations/redmond-campus?Is=location&y_source=1_OTU3Njc0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-5190",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOYTiQ1HTy5TZYmulXXNIhzi5JxQcacABspBI2f",
+            "cid": "9097953388022222019",
+            "fid": "0x549072c8a89cf1ef:0x7e426c6744204cc3",
+            "placeId": "ChIJ7_GcqMhykFQRw0wgRGdsQn4"
+        },
+        {
+            "position": 10,
+            "title": "Swedish Hospital in Ballard",
+            "address": "5350 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.668368,
+            "longitude": -122.380854,
+            "rating": 2.8,
+            "ratingCount": 18,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus",
+            "phoneNumber": "(206) 782-2700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VP-FpVPl1QP-bp7Ll9LW8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=57.479824&pitch=0&thumbfov=100",
+            "cid": "12240542825110881774",
+            "fid": "0x5490158012f19079:0xa9df24d8a4b0c5ee",
+            "placeId": "ChIJeZDxEoAVkFQR7sWwpNgk36k"
+        },
+        {
+            "position": 11,
+            "title": "First Hill Medical Swedish Pavilion",
+            "address": "1124 Columbia St, Seattle, WA 98104",
+            "latitude": 47.6082647,
+            "longitude": -122.3236534,
+            "rating": 3,
+            "ratingCount": 32,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus",
+            "phoneNumber": "(206) 386-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP31T3j-gEWxnIX4sAfhXTRPcyDm8qRMTZjCvjb",
+            "cid": "18270269158126186912",
+            "fid": "0x54906ac82cea447b:0xfd8d08ffd0e2f1a0",
+            "placeId": "ChIJe0TqLMhqkFQRoPHi0P8Ijf0"
+        },
+        {
+            "position": 12,
+            "title": "Swedish Hospital-Edmonds",
+            "address": "21601 76th Ave W, Edmonds, WA 98026",
+            "latitude": 47.803304,
+            "longitude": -122.3344444,
+            "rating": 2.3,
+            "ratingCount": 23,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/edmonds-campus",
+            "phoneNumber": "(425) 640-4000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TYlEA3cHHLnw4j8TPSwCPw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=100.005424&pitch=0&thumbfov=100",
+            "cid": "4626838409986950051",
+            "fid": "0x54901abc7800611f:0x4035d5051467c3a3",
+            "placeId": "ChIJH2EAeLwakFQRo8NnFAXVNUA"
+        },
+        {
+            "position": 13,
+            "title": "Swedish Urgent Care - Redmond",
+            "address": "18100 NE Union Hill Rd, Redmond, WA 98052",
+            "latitude": 47.6764091,
+            "longitude": -122.0991385,
+            "rating": 3.1,
+            "ratingCount": 70,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/urgent-care/swedish/urgent-care-redmond?Is=location&y_source=1_OTU3NjczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 498-2165",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/urgent-care-redmond"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOyxfOb3drYgTkf2OlE0MElbiYJ8-6u2KaJQZq",
+            "cid": "7686486076956207558",
+            "fid": "0x549072c8a61300c1:0x6aabe25cbbf5e9c6",
+            "placeId": "ChIJwQATpshykFQRxun1u1ziq2o"
+        },
+        {
+            "position": 14,
+            "title": "Swedish Medical Center",
+            "address": "1101 Madison St #700, Seattle, WA 98104",
+            "latitude": 47.6091997,
+            "longitude": -122.3241094,
+            "rating": 3.3,
+            "ratingCount": 22,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/?Is=location&y_source=1_OTU3Njc4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-6000",
+            "bookingLinks": [
+                "https://www.swedish.org/#llaid=8177sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMVV7LdpAt-KRxdl-pyT0umQ9p8etQ4H3jz36Gy",
+            "cid": "7723436565677335646",
+            "fid": "0x54906ac9c4a6b3f9:0x6b2f28a2ce75e45e",
+            "placeId": "ChIJ-bOmxMlqkFQRXuR1zqIoL2s"
+        },
+        {
+            "position": 15,
+            "title": "Swedish Emergency Room - Issaquah",
+            "address": "751 NE Blakely Dr, Issaquah, WA 98029",
+            "latitude": 47.5354351,
+            "longitude": -122.02111719999999,
+            "rating": 3.1,
+            "ratingCount": 84,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/issaquah-campus/emergency-room?Is=location&y_source=1_OTU3NjYyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 394-0610",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnWDT3d6kIMQ5sfgnuVoafptb3fYRXBkrvTa12",
+            "cid": "10217959622409542645",
+            "fid": "0x5490656299b15a4b:0x8dcd7c23b7015bf5",
+            "placeId": "ChIJS1qxmWJlkFQR9VsBtyN8zY0"
+        },
+        {
+            "position": 16,
+            "title": "Swedish Emergency Room - Ballard (Northwest Seattle)",
+            "address": "5350 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.668189899999994,
+            "longitude": -122.3806944,
+            "rating": 2.8,
+            "ratingCount": 102,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus/emergency-room?Is=location&y_source=1_OTU3Njg4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 781-6341",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOkF1QMk3eUr_m89dyU9Pksg2L8OfM5_lUbWK9C",
+            "cid": "3287709554166722696",
+            "fid": "0x549015c898f9b66d:0x2da04a6ba4c3f088",
+            "placeId": "ChIJbbb5mMgVkFQRiPDDpGtKoC0"
+        },
+        {
+            "position": 17,
+            "title": "Swedish Urgent Care - Edmonds",
+            "address": "21600 Hwy 99 Suite 240, Edmonds, WA 98026",
+            "latitude": 47.8028607,
+            "longitude": -122.3307305,
+            "rating": 3.1,
+            "ratingCount": 171,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Emergency care physician"
+            ],
+            "website": "https://www.swedish.org/locations/urgent-care/swedish/urgent-care-edmonds?Is=location&y_source=1_OTU3NjUxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 673-3500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/urgent-care-edmonds"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOl7tNO0QNenTQ47OoZoTjDOsvXeQUiLd7nsjDR",
+            "cid": "7176471298171461533",
+            "fid": "0x54901abb111ce28b:0x6397f29f844bdf9d",
+            "placeId": "ChIJi-IcEbsakFQRnd9LhJ_yl2M"
+        },
+        {
+            "position": 18,
+            "title": "Swedish Mill Creek Campus",
+            "address": "13020 Meridian Ave S, Everett, WA 98208",
+            "latitude": 47.8785307,
+            "longitude": -122.2342338,
+            "rating": 2.3,
+            "ratingCount": 272,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/mill-creek-campus?Is=location&y_source=1_OTU3NjU1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 357-3900",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/mill-creek-campus-specialists#llaid=6737sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLrLNe7j7Z33TlQXHtgbbONiXE8yTVmP7_HUlt",
+            "cid": "493992805271421725",
+            "fid": "0x5490069a53388371:0x6db03d6cfcd431d",
+            "placeId": "ChIJcYM4U5oGkFQRHUPNz9YD2wY"
+        },
+        {
+            "position": 19,
+            "title": "Swedish Emergency Room - Cherry Hill",
+            "address": "540 16th Ave, Seattle, WA 98122",
+            "latitude": 47.607348699999996,
+            "longitude": -122.3110543,
+            "rating": 2.8,
+            "ratingCount": 50,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus/emergency-room?Is=location&y_source=1_OTU3Njg4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOi-bMBXpyVbXeGmrkWZwtmYu7NnbMuUSjiovjC",
+            "cid": "16806384011077932465",
+            "fid": "0x54906ac5c8e49271:0xe93c4536cb1ad5b1",
+            "placeId": "ChIJcZLkyMVqkFQRsdUayzZFPOk"
+        },
+        {
+            "position": 20,
+            "title": "Swedish First Hill Campus Emergency Room",
+            "address": "700 Minor Ave, Seattle, WA 98122",
+            "latitude": 47.608095299999995,
+            "longitude": -122.3218881,
+            "rating": 2.8,
+            "ratingCount": 123,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/first-hill-emergency-room?Is=location&y_source=1_OTU3NjkxNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVFYg9PZPYF_wccwsODYQyoqFoNOzLQR5MJsMw",
+            "cid": "1459797460502512701",
+            "fid": "0x54906ac83958b3cd:0x14423e0e5545043d",
+            "placeId": "ChIJzbNYOchqkFQRPQRFVQ4-QhQ"
+        }
+    ],
+    "credits": 3
+}

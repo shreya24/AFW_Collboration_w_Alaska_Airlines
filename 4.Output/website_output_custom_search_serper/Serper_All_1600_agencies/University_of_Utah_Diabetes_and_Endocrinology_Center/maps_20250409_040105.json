@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Diabetes and Endocrinology Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7562152,-111.8266294,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Utah Diabetes & Endocrinology Center",
+            "address": "615 Arapeen Dr 100 Suite 100, Salt Lake City, UT 84108",
+            "latitude": 40.7562152,
+            "longitude": -111.8266294,
+            "rating": 3.2,
+            "ratingCount": 52,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center",
+                "Endocrinologist",
+                "Medical clinic"
+            ],
+            "website": "https://healthcare.utah.edu/utahdiabetescenter/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 581-7761",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3LikXJZAe6uuHme8m3wrbgkBagaJKuxd2S50a",
+            "cid": "3191484625469674043",
+            "fid": "0x87525fc4a9b414ef:0x2c4a6e5b8f3d923b",
+            "placeId": "ChIJ7xS0qcRfUocRO5I9j1tuSiw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "South Town Dental Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.4145162,-98.4900989,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southtown Dental Group",
+            "address": "930 S Alamo St, San Antonio, TX 78205",
+            "latitude": 29.414516199999998,
+            "longitude": -98.49009889999999,
+            "rating": 4.3,
+            "ratingCount": 68,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Pediatric dentist"
+            ],
+            "phoneNumber": "(210) 227-0101",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnctyfB8Jf4ZXuW_1vqrgmRVRYY-GgnjjXEb-X",
+            "cid": "10872355895777050423",
+            "fid": "0x865c58af4fbeabd1:0x96e25e153f6a3f37",
+            "placeId": "ChIJ0au-T69YXIYRNz9qPxVe4pY"
+        }
+    ],
+    "credits": 3
+}

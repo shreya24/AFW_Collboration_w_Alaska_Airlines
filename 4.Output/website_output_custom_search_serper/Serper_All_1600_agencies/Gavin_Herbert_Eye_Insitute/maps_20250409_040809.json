@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Gavin Herbert Eye Insitute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7144189,-117.8713203,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCI Health Gavin Herbert Eye Institute \u2014 Irvine",
+            "address": "850 Health Sciences Rd, Irvine, CA 92617",
+            "latitude": 33.641907599999996,
+            "longitude": -117.8522247,
+            "rating": 4.6,
+            "ratingCount": 357,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ucihealth.org/locations/irvine/gavin-herbert-eye-institute",
+            "phoneNumber": "(949) 824-2020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQhhm4D2GlWxPDTUyn8e0hEafUzzqP5jDSA64x",
+            "cid": "13384714644986881213",
+            "fid": "0x80dcde170eec616d:0xb9c00f0dea6964bd",
+            "placeId": "ChIJbWHsDhfe3IARvWRp6g0PwLk"
+        },
+        {
+            "position": 2,
+            "title": "UCI Health Gavin Herbert Eye Institute \u2014 Orange",
+            "address": "Pavilion 2, 101 The City Dr S, Orange, CA 92868",
+            "latitude": 33.7869301,
+            "longitude": -117.8904159,
+            "rating": 4.6,
+            "ratingCount": 43,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center"
+            ],
+            "website": "https://www.ucihealth.org/locations/orange/eye-care-services",
+            "phoneNumber": "(714) 456-7183",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_JdGfia4ITe-SM8OkzUCug&cb_client=search.gws-prod.gps&w=80&h=92&yaw=308.6353&pitch=0&thumbfov=100",
+            "cid": "6442937096000657501",
+            "fid": "0x80dcd788721a5083:0x5969e927154e585d",
+            "placeId": "ChIJg1AacojX3IARXVhOFSfpaVk"
+        }
+    ],
+    "credits": 3
+}

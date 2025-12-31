@@ -1,0 +1,110 @@
+{
+    "searchParameters": {
+        "q": "Boston Childrens Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.338183,-71.1048484,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Boston Children's Hospital",
+            "address": "300 Longwood Ave, Boston, MA 02115",
+            "latitude": 42.337507599999995,
+            "longitude": -71.1054497,
+            "rating": 4.2,
+            "ratingCount": 924,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Doctor",
+                "Hospital"
+            ],
+            "website": "https://www.childrenshospital.org/",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNBXuKL7gBb2ODEPqiLIsd-VFdkvzAuyIYKj_qv",
+            "cid": "15086393269280303543",
+            "fid": "0x89e3798c3091e533:0xd15da2bf4d4be9b7",
+            "placeId": "ChIJM-WRMIx544kRt-lLTb-iXdE"
+        },
+        {
+            "position": 2,
+            "title": "Hale Family Center for Families | Boston Children's Hospital",
+            "address": "Children's Hospital, 300 Longwood Ave, Boston, MA 02115",
+            "latitude": 42.337447999999995,
+            "longitude": -71.1050626,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital department"
+            ],
+            "website": "https://www.childrenshospital.org/patient-resources/hale-family-center-families",
+            "phoneNumber": "(617) 355-6279",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5Hp1tJpzKBrVpyzT-Pqto3pG-u0NJ2Kw3MyTP",
+            "cid": "13520868258872092955",
+            "fid": "0x89e3798c3091e533:0xbba3c60b78ece91b",
+            "placeId": "ChIJM-WRMIx544kRG-nseAvGo7s"
+        },
+        {
+            "position": 3,
+            "title": "Boston Childrens Hospital",
+            "address": "333 Longwood Ave, Boston, MA 02215",
+            "latitude": 42.3384624,
+            "longitude": -71.1053946,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center"
+            ],
+            "website": "https://www.childrenshospital.org/",
+            "phoneNumber": "(617) 355-7476",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xGLFXin6_v69PO-VyS2sbg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=132.17104&pitch=0&thumbfov=100",
+            "cid": "13071388924944095200",
+            "fid": "0x89e379c1dcf045f9:0xb566e6f8d84497e0",
+            "placeId": "ChIJ-UXw3MF544kR4JdE2PjmZrU"
+        },
+        {
+            "position": 4,
+            "title": "Boston Children\u2019s Hospital",
+            "address": "Center for Life Science Boston, Copyright \u00a9 2020 Breault Lab - Boston Children's Hospital, 16026 3 Blackfan St, Boston, MA 02115",
+            "latitude": 42.338918,
+            "longitude": -71.104247,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://breaultlab.org/",
+            "phoneNumber": "(617) 919-2930",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfOIRy-DFT46bZ9_BxUuZ4RN22Tua0HQ37AXWp",
+            "cid": "8555212311014120161",
+            "fid": "0x89e3798c89a686a9:0x76ba3844f80b9ae1",
+            "placeId": "ChIJqYamiYx544kR4ZoL-EQ4unY"
+        }
+    ],
+    "credits": 3
+}

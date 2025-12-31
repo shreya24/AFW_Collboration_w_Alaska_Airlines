@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Southeast Digestive Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.660462,-78.998323,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southeastern Digestive Health Center",
+            "address": "725 Oakridge Blvd #A, Lumberton, NC 28358",
+            "latitude": 34.660461999999995,
+            "longitude": -78.998323,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.srmc.org/",
+            "phoneNumber": "(910) 738-3103",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fAM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sehmychart.org/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuNbVqNdLLZcp6jBBucBUX_fdehYa0DPd2BJnx",
+            "cid": "9878233775757060488",
+            "fid": "0x89aae0928dc3cfe1:0x891689482c43e988",
+            "placeId": "ChIJ4c_DjZLgqokRiOlDLEiJFok"
+        }
+    ],
+    "credits": 3
+}

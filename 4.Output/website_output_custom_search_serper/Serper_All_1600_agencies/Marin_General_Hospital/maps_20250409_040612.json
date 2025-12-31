@@ -1,0 +1,108 @@
+{
+    "searchParameters": {
+        "q": "Marin General Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9472762,-122.5366677,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MarinHealth Medical Center",
+            "address": "250 Bon Air Rd, Greenbrae, CA 94904",
+            "latitude": 37.9467741,
+            "longitude": -122.5361142,
+            "rating": 3.1,
+            "ratingCount": 213,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.mymarinhealth.org/locations/medical-center/",
+            "phoneNumber": "(415) 925-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5aKF1uz99Al2-AKodIHcCrahT71VxffPV9PR5",
+            "cid": "10298495728475309631",
+            "fid": "0x80859a0ac1b6f1df:0x8eeb9b4d20a6063f",
+            "placeId": "ChIJ3_G2wQqahYARPwamIE2b644"
+        },
+        {
+            "position": 2,
+            "title": "MarinHealth Medical Center Emergency Room",
+            "address": "250 Bon Air Rd, Greenbrae, CA 94904",
+            "latitude": 37.9473603,
+            "longitude": -122.53602749999999,
+            "rating": 2.7,
+            "ratingCount": 25,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.mymarinhealth.org/",
+            "phoneNumber": "(415) 925-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-bcfEXeH9Sqj0l_HAI_eH7ijaflJh1O7tG42zZbuBXCrTDOiKGeG7cLc_JbUyNyJALafLlxRczKs-KPz3ZBg966okBk9bciStff2cuQNwVmFe7m5kCkK0YfkHo0JOHC0kTXN1v",
+            "cid": "15186658244849640925",
+            "fid": "0x80859a0a8dc7e279:0xd2c1d936198525dd",
+            "placeId": "ChIJeeLHjQqahYAR3SWFGTbZwdI"
+        },
+        {
+            "position": 3,
+            "title": "Marin General Hospital: Women & Children's Services",
+            "address": "250 Bon Air Rd, Greenbrae, CA 94904",
+            "latitude": 37.947778299999996,
+            "longitude": -122.5365465,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Lactation service"
+            ],
+            "website": "http://www.maringeneral.org/",
+            "phoneNumber": "(415) 925-7575",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3lichJETlKlELUSPWOKu6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=60.79752&pitch=0&thumbfov=100",
+            "cid": "8497557234742238098",
+            "fid": "0x80859a0a7c77ba6d:0x75ed6348735c9b92",
+            "placeId": "ChIJbbp3fAqahYARkptcc0hj7XU"
+        },
+        {
+            "position": 4,
+            "title": "Marin Health Medical Center-250 Bon Air Rd",
+            "address": "Kentfield, CA 94904",
+            "latitude": 37.94696,
+            "longitude": -122.537308,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zCuiT3yYn0mrD2TwgPmHDw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=103.26284&pitch=0&thumbfov=100",
+            "cid": "15766088037508647119",
+            "fid": "0x808590a0787b06d5:0xdacc6589ad3d08cf",
+            "placeId": "ChIJ1QZ7eKCQhYARzwg9rYllzNo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Scripps Clinic Torrey Pines",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.898542,-117.2429852,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Clinic Torrey Pines",
+            "address": "10710 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.898542,
+            "longitude": -117.24298519999999,
+            "rating": 3.2,
+            "ratingCount": 156,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center",
+                "Physical therapy clinic",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-torrey-pines?tab=overview",
+            "phoneNumber": "(858) 299-2984",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4qTaWBuMGOYcMaztZF7Yn5Xny-dBDV8foZASwTLZJXy8UB4PEx_lhOA6JZ3R44OhnVtMMn6AdUzk2cDT3JJiXFolhifeKwr5MfVqaZOV6CSb9G7qY9K93i2TFOrtFoQrSh_VGlA",
+            "cid": "9650500844202110598",
+            "fid": "0x80dc0729d3b08431:0x85ed776323462e86",
+            "placeId": "ChIJMYSw0ykH3IARhi5GI2N37YU"
+        },
+        {
+            "position": 2,
+            "title": "Scripps Clinic Urgent Care Torrey Pines",
+            "address": "10710 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.898542,
+            "longitude": -117.24298519999999,
+            "rating": 3,
+            "ratingCount": 115,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.scripps.org/locations/urgent-care/scripps-urgent-care-torrey-pines?tab=overview",
+            "phoneNumber": "(858) 348-5943",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpieDKhCISOwDuayC13qDX9x8Oh2xgD87NXzl0",
+            "cid": "18074599397705009681",
+            "fid": "0x80dc06f3435a1151:0xfad5e0638db24a11",
+            "placeId": "ChIJURFaQ_MG3IAREUqyjWPg1fo"
+        }
+    ],
+    "credits": 3
+}

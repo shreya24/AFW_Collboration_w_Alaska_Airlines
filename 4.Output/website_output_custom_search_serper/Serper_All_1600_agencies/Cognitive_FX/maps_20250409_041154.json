@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Cognitive FX",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.304327,-111.6618947,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cognitive FX",
+            "address": "280 W River Park Dr #110, Provo, UT 84604",
+            "latitude": 40.304327,
+            "longitude": -111.66189469999999,
+            "rating": 4.8,
+            "ratingCount": 298,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Mental health clinic",
+                "MRI center"
+            ],
+            "website": "http://www.cognitivefxusa.com/",
+            "phoneNumber": "(385) 375-8590",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cognitivefxusa.com/get-started-2023"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDKBdpk3yfrNs7dhx1on3yZHASU7-Z1vtkLowS",
+            "cid": "4666999850700773181",
+            "fid": "0x874d900639415d4d:0x40c483a32bd2173d",
+            "placeId": "ChIJTV1BOQaQTYcRPRfSK6ODxEA"
+        }
+    ],
+    "credits": 3
+}

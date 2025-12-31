@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Apreva Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7757866,-117.1214657,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Apreva Hospice",
+            "address": "3333 Camino del Rio S, San Diego, CA 92108",
+            "latitude": 32.775786599999996,
+            "longitude": -117.1214657,
+            "rating": 4.2,
+            "ratingCount": 42,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://aprevahospice.com/hospice-care-san-diego/",
+            "phoneNumber": "(619) 450-4414",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0jKtQstiej7sjAn32O1IzQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=142.84491&pitch=0&thumbfov=100",
+            "cid": "12914847632245698789",
+            "fid": "0x80deaad165c880b9:0xb33ac17ee84cb0e5",
+            "placeId": "ChIJuYDIZdGq3oAR5bBM6H7BOrM"
+        }
+    ],
+    "credits": 3
+}

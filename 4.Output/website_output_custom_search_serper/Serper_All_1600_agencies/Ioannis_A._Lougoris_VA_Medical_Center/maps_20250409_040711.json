@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ioannis A. Lougoris VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.515551,-119.7990505,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Reno VA Medical Center",
+            "address": "975 Kirman Ave, Reno, NV 89502",
+            "latitude": 39.515550999999995,
+            "longitude": -119.79905049999999,
+            "rating": 4,
+            "ratingCount": 87,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "http://www.reno.va.gov/",
+            "phoneNumber": "(888) 838-6256",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2wRcxQpvNIf_Q0ICLJXsunyBW0xkh8Ikg06X_",
+            "cid": "14314228625843927366",
+            "fid": "0x809940a358a0bf0b:0xc6a65b185d27b946",
+            "placeId": "ChIJC7-gWKNAmYARRrknXRhbpsY"
+        }
+    ],
+    "credits": 3
+}

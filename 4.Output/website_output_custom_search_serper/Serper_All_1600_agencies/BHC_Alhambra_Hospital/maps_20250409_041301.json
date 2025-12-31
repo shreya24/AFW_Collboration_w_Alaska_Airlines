@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "BHC Alhambra Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0887458,-118.0738808,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "BHC Alhambra Hospital",
+            "address": "4619 Rosemead Blvd, Rosemead, CA 91770",
+            "latitude": 34.0887458,
+            "longitude": -118.0738808,
+            "rating": 2.6,
+            "ratingCount": 315,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "http://bhcalhambra.com/",
+            "phoneNumber": "(626) 286-1191",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8xGh5zaQMRXiAA2VSb5kiM9LI_hsS9QXIHa8Zevvu662EsfCilVOs8_WMAJj92P9M5BcVHe6UlLnf4qDzcG9CmZ3xyYTYKUTYG3xVq_7PlMt3SCRHemwhWOKFR0fWw4z7JvsTBaA",
+            "cid": "12324534618907188087",
+            "fid": "0x80c2da8ce75e1d3d:0xab098af00df79b77",
+            "placeId": "ChIJPR1e54zawoARd5v3DfCKCas"
+        }
+    ],
+    "credits": 3
+}

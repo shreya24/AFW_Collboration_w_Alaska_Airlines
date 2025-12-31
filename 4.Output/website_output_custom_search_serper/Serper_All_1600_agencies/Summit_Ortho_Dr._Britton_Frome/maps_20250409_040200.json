@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Summit Ortho Dr. Britton Frome",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4161079,-122.7187414,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Britton Frome",
+            "address": "4103 Mercantile Dr suite e, Lake Oswego, OR 97035",
+            "latitude": 45.4161079,
+            "longitude": -122.7187414,
+            "rating": 4.8,
+            "ratingCount": 37,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Doctor",
+                "Hand surgeon",
+                "Orthopedic clinic",
+                "Surgeon"
+            ],
+            "website": "https://summitdocs.com/britton-frome/",
+            "phoneNumber": "(503) 850-9940",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCryKS3h3VSgDKI-BC2FLBIMXPnYAKgmQgKGuz",
+            "cid": "5428931735677746842",
+            "fid": "0x5495a7444e8dd077:0x4b5770a65eeabe9a",
+            "placeId": "ChIJd9CNTkSnlVQRmr7qXqZwV0s"
+        }
+    ],
+    "credits": 3
+}

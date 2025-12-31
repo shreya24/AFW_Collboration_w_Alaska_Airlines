@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mark Menolascino",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4597739,-110.7949129,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mark Menolascino MD",
+            "address": "1325 US-89 APT 105, Jackson, WY 83001",
+            "latitude": 43.459773899999995,
+            "longitude": -110.7949129,
+            "rating": 4.9,
+            "ratingCount": 34,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://menoclinic.com/",
+            "phoneNumber": "(307) 732-1039",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOX6L32OWygCcX1FhYrD1p7wYzhqbOqf1ulAfXs",
+            "cid": "14248664982504190",
+            "fid": "0x53531a4583d00995:0x329f15d6ce42fe",
+            "placeId": "ChIJlQnQg0UaU1MR_kLO1hWfMgA"
+        }
+    ],
+    "credits": 3
+}

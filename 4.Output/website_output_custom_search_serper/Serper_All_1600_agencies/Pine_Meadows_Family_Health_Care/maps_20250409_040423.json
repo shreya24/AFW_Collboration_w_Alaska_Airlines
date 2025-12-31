@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pine Meadows Family Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.268868,-88.999595,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pine Meadows Healthcare Center",
+            "address": "700 Nuckolls Rd, Bolivar, TN 38008",
+            "latitude": 35.268868,
+            "longitude": -88.999595,
+            "rating": 4.7,
+            "ratingCount": 75,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "http://pinemeadowshc.com/",
+            "phoneNumber": "(731) 658-4707",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM21dhLheDYJnvoWBFufZOC7UpxzlbjWuf2mfQJ",
+            "cid": "9411752249310102227",
+            "fid": "0x887e896cdbba792b:0x829d42ce1e1cc2d3",
+            "placeId": "ChIJK3m622yJfogR08IcHs5CnYI"
+        }
+    ],
+    "credits": 3
+}

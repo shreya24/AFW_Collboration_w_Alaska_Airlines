@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Pueblo Womens Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2962159,-104.6047724,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pueblo Women's Center LLC",
+            "address": "4010 Jerry Murphy Rd, Pueblo, CO 81001",
+            "latitude": 38.3104929,
+            "longitude": -104.5984403,
+            "rating": 3.3,
+            "ratingCount": 37,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory",
+                "Fertility clinic",
+                "Obstetrician-gynecologist",
+                "STD testing service"
+            ],
+            "phoneNumber": "(719) 546-2229",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWZtFP0Zd8JlgHdzsfd_6jrKyDqg5LVWHOuZo_",
+            "cid": "7121475561951313406",
+            "fid": "0x8713a3dae9d20f2b:0x62d4904adabbbdfe",
+            "placeId": "ChIJKw_S6dqjE4cR_r272kqQ1GI"
+        },
+        {
+            "position": 2,
+            "title": "Women's Health Center-Pueblo",
+            "address": "1600 N Grand Ave #400, Pueblo, CO 81003",
+            "latitude": 38.2819389,
+            "longitude": -104.6111045,
+            "rating": 3.3,
+            "ratingCount": 30,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/womens-health-center-pueblo/",
+            "phoneNumber": "(719) 585-2500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8TFsefk05NUnAeF11f1g2uzdn2vLD7wRvqKzO",
+            "cid": "18333449415725849349",
+            "fid": "0x8713a358ccd4256f:0xfe6d7f1bdbee9b05",
+            "placeId": "ChIJbyXUzFijE4cRBZvu2xt_bf4"
+        }
+    ],
+    "credits": 3
+}

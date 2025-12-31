@@ -1,0 +1,115 @@
+{
+    "searchParameters": {
+        "q": "Tideline Clinic - Alaska Island Comm Ser",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.4528519,-141.7043333,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Annette Island Service Unit",
+            "address": "563 Brendible St, Metlakatla, AK 99926",
+            "latitude": 55.1243382,
+            "longitude": -131.5757094,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 886-4741",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "11430390296419242014",
+            "fid": "0x540c35e5300d4311:0x9ea0e769ee24101e",
+            "placeId": "ChIJEUMNMOU1DFQRHhAk7mnnoJ4"
+        },
+        {
+            "position": 2,
+            "title": "Tidelines Institute (Good River Campus)",
+            "address": "72 Good River Rd, Gustavus, AK 99826",
+            "latitude": 58.414222099999996,
+            "longitude": -135.7733488,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "School",
+            "types": [
+                "School"
+            ],
+            "website": "http://tidelinesinstitute.org/",
+            "cid": "3621897059518314125",
+            "fid": "0x540199006bc85f93:0x3243902f9d9ef68d",
+            "placeId": "ChIJk1_IawCZAVQRjfaenS-QQzI"
+        },
+        {
+            "position": 3,
+            "title": "Ninilchik Community Clinic - Anchor Point Clinic",
+            "address": "33880 Sterling Hwy, Anchor Point, AK 99556",
+            "latitude": 59.7813655,
+            "longitude": -151.83295719999998,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ninilchiktribe-nsn.gov/health/",
+            "phoneNumber": "(907) 206-2733",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-P2DOxip8BSd83yDWy7vwrCG7VDHrOVbB4VkY9S5yG1_0cazk09rhzyQydszWE4_U1ZKAWmCp2IcWsPnth7vnDcGFBU3qmmHndEIEz33UvSSciwU44w6mFcT_dXjLK1YFP3tSI",
+            "cid": "6760528926238806107",
+            "fid": "0x56c14be6f8e7bd93:0x5dd2393d5637905b",
+            "placeId": "ChIJk73n-OZLwVYRW5A3Vj050l0"
+        },
+        {
+            "position": 4,
+            "title": "Alaska Island Community Services",
+            "address": "320 Bennett St, Wrangell, AK 99929",
+            "latitude": 56.4719748,
+            "longitude": -132.37535739999998,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://searhc.org/tag/alaska-island-community-services/",
+            "phoneNumber": "(907) 874-4700",
+            "isPermanentlyClosed": true,
+            "cid": "5667674227229558224",
+            "fid": "0x5408ca31ac5396f1:0x4ea79fae58a785d0",
+            "placeId": "ChIJ8ZZTrDHKCFQR0IWnWK6fp04"
+        },
+        {
+            "position": 5,
+            "title": "Tideline Clinic",
+            "address": "320 Bennett St, Wrangell, AK 99929",
+            "latitude": 56.471991599999996,
+            "longitude": -132.3756709,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 874-4700",
+            "isPermanentlyClosed": true,
+            "cid": "13915380267701992245",
+            "fid": "0x5408ca31ac5396f1:0xc11d5ca06adb7b35",
+            "placeId": "ChIJ8ZZTrDHKCFQRNXvbaqBcHcE"
+        }
+    ],
+    "credits": 3
+}

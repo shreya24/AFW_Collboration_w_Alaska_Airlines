@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Breast Clinic at Virginia Mason",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6099263,-122.3279433,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Breast Clinic at Virginia Mason",
+            "address": "1201 Terry Ave, Seattle, WA 98101",
+            "latitude": 47.6103777,
+            "longitude": -122.32797889999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "https://www.vmfh.org/our-services/womens-health/breast-health/breast-health-diagnosis-treatment",
+            "phoneNumber": "(877) 433-9813",
+            "openingHours": {
+                "Tuesday": "8:20\u202fAM\u20134:40\u202fPM",
+                "Wednesday": "8:20\u202fAM\u20134:40\u202fPM",
+                "Thursday": "8:20\u202fAM\u20134:40\u202fPM",
+                "Friday": "8:20\u202fAM\u20134:40\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:20\u202fAM\u20134:40\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOydJjsshCz4skMZclRG2og7vtdsashqN2neFHe",
+            "cid": "8864722950501418767",
+            "fid": "0x54906ab5fa711873:0x7b05d28e60e3c70f",
+            "placeId": "ChIJcxhx-rVqkFQRD8fjYI7SBXs"
+        },
+        {
+            "position": 2,
+            "title": "Breast Cancer Department at Virginia Mason",
+            "address": "1100 9th Ave, Seattle, WA 98101",
+            "latitude": 47.609474899999995,
+            "longitude": -122.32790779999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.vmfh.org/our-services/cancer-care/cancers-we-treat/breast-cancer-diagnosis-treatment",
+            "phoneNumber": "(206) 223-6633",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaho5pBUTgTLApjGbh6zPsuq4Yj8v32_3UV738",
+            "cid": "4346957299330041585",
+            "fid": "0x54906ab60b4835ed:0x3c537ea1f05bc6f1",
+            "placeId": "ChIJ7TVIC7ZqkFQR8cZb8KF-Uzw"
+        }
+    ],
+    "credits": 3
+}

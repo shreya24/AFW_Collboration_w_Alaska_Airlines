@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Loma Linda VA Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0501313,-117.249926,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Loma Linda Healthcare System",
+            "address": "11201 Benton St, Loma Linda, CA 92357",
+            "latitude": 34.0501313,
+            "longitude": -117.24992599999999,
+            "rating": 3.5,
+            "ratingCount": 402,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Addiction treatment center",
+                "Hospital department",
+                "Medical Center",
+                "Social worker"
+            ],
+            "website": "https://www.lomalinda.va.gov/",
+            "phoneNumber": "(909) 825-7084",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9e8JuHM6XPCGWKxz4CkdrqY0AcCSvPNQCQCCUpYXvs6s9LHXa7JDYvtELlFBNb8_Es5ULxt2sQAqyxqE2DuyQERVq3YfzfhnB6e8H5eMRE8wervVmucYha_uepOQmf3bCWsSAo",
+            "cid": "1994876911392535269",
+            "fid": "0x80dcab7fde2c6b25:0x1baf39fb4a2e32e5",
+            "placeId": "ChIJJWss3n-r3IAR5TIuSvs5rxs"
+        }
+    ],
+    "credits": 3
+}

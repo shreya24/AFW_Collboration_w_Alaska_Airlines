@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Dr. Tony H. Huynh",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7052424,-122.25608,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Tony Huynh",
+            "address": "1750 112th Ave NE Suite D050, Bellevue, WA 98004",
+            "latitude": 47.625569899999995,
+            "longitude": -122.18988829999999,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.pnwretina.com/retina-specialists/dr-tony-h-huynh",
+            "phoneNumber": "(206) 215-3850",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eSDoNTanrzrxEVi2u7GhOw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=171.61531&pitch=0&thumbfov=100",
+            "cid": "17444893900929464784",
+            "fid": "0x54906cf28091cc1b:0xf218b6936d4779d0",
+            "placeId": "ChIJG8yRgPJskFQR0HlHbZO2GPI"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Tony Huynh",
+            "address": "6100 219th St SW #280, Mountlake Terrace, WA 98043",
+            "latitude": 47.800289899999996,
+            "longitude": -122.316801,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.pnwretina.com/retina-specialists/dr-tony-h-huynh",
+            "phoneNumber": "(206) 215-3850",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zkzMZ6By6GGvP3UW5FRVCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=109.57911&pitch=0&thumbfov=100",
+            "cid": "16506054479248233911",
+            "fid": "0x54901aaf295814ab:0xe511491896d615b7",
+            "placeId": "ChIJqxRYKa8akFQRtxXWlhhJEeU"
+        },
+        {
+            "position": 3,
+            "title": "Pacific Northwest Retina: Huynh Tony H MD",
+            "address": "1229 Madison St #620, Seattle, WA 98104",
+            "latitude": 47.610194799999995,
+            "longitude": -122.3222718,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Doctor"
+            ],
+            "website": "https://www.pnwretina.com/doctors/dr-tony-h-huynh/",
+            "phoneNumber": "(206) 215-3850",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wVcvXkQBiHhSdWhGlYgxHg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=57.590683&pitch=0&thumbfov=100",
+            "cid": "11251796316168720429",
+            "fid": "0x54906ac9dd353b65:0x9c2669228e49102d",
+            "placeId": "ChIJZTs13clqkFQRLRBJjiJpJpw"
+        }
+    ],
+    "credits": 3
+}

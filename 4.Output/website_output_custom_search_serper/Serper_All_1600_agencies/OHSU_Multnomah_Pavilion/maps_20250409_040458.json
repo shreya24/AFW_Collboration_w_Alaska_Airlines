@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "OHSU Multnomah Pavilion",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5007077,-122.6852093,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Multnomah Pavilion",
+            "address": "3161 SW Pavilion Loop, Portland, OR 97239",
+            "latitude": 45.5007077,
+            "longitude": -122.6852093,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ohsu.edu/visit/multnomah-pavilion?utm_source=gmb&utm_medium=organic&utm_content=Building-MultnomahPavilion",
+            "phoneNumber": "(503) 494-8311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-z-ldUn67-t3O7B15VGfBXX1taxL1sOZhGOuwZd-sBBEtfdhz9-8-TV9q4keVpvM1zMAoUAI4Q1qJqjFMmoi2NY7DncWxAk5AfIRmDqCOuwNrppmN5ceuTgmY2zX2Z4EeFqp2QsQ",
+            "cid": "2649923210304301299",
+            "fid": "0x54950a40f05eec7f:0x24c66b1eb04028f3",
+            "placeId": "ChIJf-xe8EAKlVQR8yhAsB5rxiQ"
+        }
+    ],
+    "credits": 3
+}

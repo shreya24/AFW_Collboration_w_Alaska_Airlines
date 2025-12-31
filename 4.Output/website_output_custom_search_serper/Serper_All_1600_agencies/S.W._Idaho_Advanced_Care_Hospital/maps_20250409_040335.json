@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "S.W. Idaho Advanced Care Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6033908,-116.2645467,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southwest Idaho Advanced Care",
+            "address": "6651 Franklin Rd, Boise, ID 83709",
+            "latitude": 43.6033908,
+            "longitude": -116.2645467,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "phoneNumber": "(208) 376-5700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c8A3pYArAD7cQ-796DdqPA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=177.06477&pitch=0&thumbfov=100",
+            "cid": "2921225630141164876",
+            "fid": "0x54ae563bf0bf115d:0x288a473bb954ad4c",
+            "placeId": "ChIJXRG_8DtWrlQRTK1UuTtHiig"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,110 @@
+{
+    "searchParameters": {
+        "q": "Hayden Family Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6109376,-114.3513557,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hayden Lake Family Physicians",
+            "address": "8181 N Cornerstone Dr, Hayden, ID 83835",
+            "latitude": 47.746193899999994,
+            "longitude": -116.7942989,
+            "rating": 4.1,
+            "ratingCount": 208,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "http://www.haydenlakefp.com/",
+            "phoneNumber": "(208) 772-0785",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8V_sqT-6PaEm_g_HDct5281z9tTKoflb0grrfXZS55G-Y7FVk-EejniRsVaF-BgU4O0eKdA4YCH84Wslo-lVe99pWp0vGsFN2Cq5n56GZmZ8TMtu6wiwQhCl-dZfHad2iy4pg",
+            "cid": "4339339729657655799",
+            "fid": "0x5361c0f1db48865f:0x3c386e7e49fbf1f7",
+            "placeId": "ChIJX4ZI2_HAYVMR9_H7SX5uODw"
+        },
+        {
+            "position": 2,
+            "title": "Family Medical Care PLLC",
+            "address": "265 W Prairie Shopping Center, Hayden, ID 83835",
+            "latitude": 47.746691,
+            "longitude": -116.7901828,
+            "rating": 4.5,
+            "ratingCount": 193,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Nurse practitioner",
+                "Physician assistant",
+                "STD clinic",
+                "STD testing service",
+                "Wellness center"
+            ],
+            "website": "https://www.fmcclinic.org/",
+            "phoneNumber": "(208) 772-7850",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fmcclinic.org/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-pcVIbw3bfTQCzeVcooZU-nn6m55kOYWCtWC9",
+            "cid": "6506545988875083337",
+            "fid": "0x5361c0f20b152431:0x5a4be51a8da45e49",
+            "placeId": "ChIJMSQVC_LAYVMRSV6kjRrlS1o"
+        },
+        {
+            "position": 3,
+            "title": "Hayden Family Medical Center",
+            "address": "2445 Hayden Rd, Scottsdale, AZ 85257",
+            "latitude": 33.475184299999995,
+            "longitude": -111.9084125,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical Center"
+            ],
+            "phoneNumber": "(480) 947-3451",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7vPvJdoPHPyQ0Zywyz4AaQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=64.13717&pitch=0&thumbfov=100",
+            "cid": "15843253026250256603",
+            "fid": "0x872b0bd58fc02c75:0xdbde8aafac4770db",
+            "placeId": "ChIJdSzAj9ULK4cR23BHrK-K3ts"
+        }
+    ],
+    "credits": 3
+}

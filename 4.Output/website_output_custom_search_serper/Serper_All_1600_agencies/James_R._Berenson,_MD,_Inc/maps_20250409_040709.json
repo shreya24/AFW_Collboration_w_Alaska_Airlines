@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "James R. Berenson, MD, Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0908621,-118.3925175,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "James R. Berenson, M.D., Inc.",
+            "address": "9201 W Sunset Blvd # 300, West Hollywood, CA 90069",
+            "latitude": 34.090862099999995,
+            "longitude": -118.3925175,
+            "rating": 4.7,
+            "ratingCount": 15,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://www.berensononcology.com/",
+            "phoneNumber": "(310) 623-1222",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNcsr1RKrQjhQ08fnwhrwqI0MdTT_CDu7Nuc78_",
+            "cid": "6634645498838302012",
+            "fid": "0x80c2bea00cb3747d:0x5c12feede8e6bd3c",
+            "placeId": "ChIJfXSzDKC-woARPL3m6O3-Elw"
+        }
+    ],
+    "credits": 3
+}

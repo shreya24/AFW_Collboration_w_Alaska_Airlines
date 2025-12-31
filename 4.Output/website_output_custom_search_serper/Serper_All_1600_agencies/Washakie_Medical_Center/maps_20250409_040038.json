@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Washakie Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0130477,-107.9492504,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Washakie Medical Center",
+            "address": "400 S 15th St, Worland, WY 82401",
+            "latitude": 44.0130477,
+            "longitude": -107.9492504,
+            "rating": 3.5,
+            "ratingCount": 21,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://www.bannerhealth.com/locations/worland/washakie-medical-center?y_source=1_MTE5MDczNTktNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(307) 347-3221",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTlXNAKPsCUFtnQ28O-hGO9mvGlVj_O1hPBCDo",
+            "cid": "14976368270523954759",
+            "fid": "0x534b6d5d663e5a83:0xcfd6bf980602f647",
+            "placeId": "ChIJg1o-Zl1tS1MRR_YCBpi_1s8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Sugar House Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7733636,-111.8348931,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Huntsman Cancer Institute",
+            "address": "1950 Cir of Hope Dr, Salt Lake City, UT 84112",
+            "latitude": 40.773363599999996,
+            "longitude": -111.83489309999999,
+            "rating": 4.6,
+            "ratingCount": 686,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Medical laboratory"
+            ],
+            "website": "https://healthcare.utah.edu/huntsmancancerinstitute/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 587-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://healthcare.utah.edu/huntsmancancerinstitute/appointment.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9UTIM1PSshuHPSN1xUrsfnqimn1sDkRrblGBpjfnkckd4ofZhRClFnMumsMM4M7xNebwuZakFjMC_vzg3jClLJ0wrZFt61ikd8GU_7qJGz5Int31Z14yAwm4vMCCjklXFleKMGQg",
+            "cid": "14502985370057377529",
+            "fid": "0x87525f97c0e46b09:0xc944f45a9cf506f9",
+            "placeId": "ChIJCWvkwJdfUocR-Qb1nFr0RMk"
+        }
+    ],
+    "credits": 3
+}

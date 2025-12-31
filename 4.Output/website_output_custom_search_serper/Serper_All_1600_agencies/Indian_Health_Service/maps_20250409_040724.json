@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Indian Health Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1679889,-171.2052864,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The NATIVE Project",
+            "address": "1803 W Maxwell Ave, Spokane, WA 99201",
+            "latitude": 47.6704916,
+            "longitude": -117.4393176,
+            "rating": 4.4,
+            "ratingCount": 288,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Addiction treatment center",
+                "Dental clinic",
+                "Diabetes center",
+                "Doctor",
+                "Family practice physician",
+                "Mental health clinic",
+                "Pharmacy",
+                "Wellness program"
+            ],
+            "website": "http://nativeproject.org/",
+            "phoneNumber": "(509) 483-7535",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNI0LUzF_rYpcfmupugmifpGOmHhWtiXa3v6d1T",
+            "cid": "7582906926840137585",
+            "fid": "0x549e18514f749365:0x693be5ac8b27c771",
+            "placeId": "ChIJZZN0T1EYnlQRcccni6zlO2k"
+        },
+        {
+            "position": 2,
+            "title": "Welcome Nippon Cheese Curry House",
+            "address": "Arise-517 Ikawadani-ch\u014d, Nishi Ward, Kobe, Hyogo 651-2113, Japan",
+            "latitude": 34.6654862,
+            "longitude": 135.0287448,
+            "rating": 3.2,
+            "ratingCount": 12,
+            "priceLevel": "$",
+            "type": "Indian restaurant",
+            "types": [
+                "Indian restaurant",
+                "Restaurant"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoJuaWy3fxJLnHLQ7DUu3gkm50_8PyxCN0Q9xK",
+            "cid": "12225321098794059669",
+            "fid": "0x60008132f9ca8b49:0xa9a910c44eb54795",
+            "placeId": "ChIJSYvK-TKBAGARlUe1TsQQqak"
+        }
+    ],
+    "credits": 3
+}

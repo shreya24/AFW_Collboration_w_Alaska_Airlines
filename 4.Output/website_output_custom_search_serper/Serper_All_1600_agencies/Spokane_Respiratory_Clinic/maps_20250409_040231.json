@@ -1,0 +1,475 @@
+{
+    "searchParameters": {
+        "q": "Spokane Respiratory Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6963853,-117.3274768,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Pulmonary North",
+            "address": "9631 N Nevada St Suite 300-B, Spokane, WA 99218",
+            "latitude": 47.7451637,
+            "longitude": -117.3975878,
+            "rating": 3.6,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/pulmonary-spokane-north?ls=location&y_source=1_Mjg0OTE1MTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 465-3919",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOkKEAzAUi1ZPBaVqm3U7ZnWbcW7JzxRBjHA7bv",
+            "cid": "10744628973809483360",
+            "fid": "0x549e1d76f40207c7:0x951c971fcb48be60",
+            "placeId": "ChIJxwcC9HYdnlQRYL5Iyx-XHJU"
+        },
+        {
+            "position": 2,
+            "title": "MultiCare Rockwood Pulmonary Critical Care & Sleep Medicine",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651700899999994,
+            "longitude": -117.42529979999999,
+            "rating": 3.2,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist",
+                "Sleep clinic"
+            ],
+            "website": "https://www.multicare.org/location/deaconess-health-education-ctr/pulmonary-sleep-medicine/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.multicare.org/find-a-location/rockwood-clinic/patient-information/new-patients/?y_source=1_MzQ4NTYxMTgtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=27.205025&pitch=0&thumbfov=100",
+            "cid": "5697323883757825602",
+            "fid": "0x549e186596bc06dd:0x4f10f5e2f5bbee42",
+            "placeId": "ChIJ3Qa8lmUYnlQRQu679eL1EE8"
+        },
+        {
+            "position": 3,
+            "title": "Providence Pulmonary - South",
+            "address": "105 W 8th Ave Suite 512C, Spokane, WA 99204",
+            "latitude": 47.6486807,
+            "longitude": -117.4127429,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Sleep clinic",
+            "types": [
+                "Sleep clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/pulmonary-spokane-south?ls=location&y_source=1_MTk1Njg2MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 474-2295",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPYYQYWEbsLBF1n8itbjimjPrvzTQITlrWGSaEG",
+            "cid": "15635786184422658939",
+            "fid": "0x549e192ea6873d33:0xd8fd78b15a79137b",
+            "placeId": "ChIJMz2Hpi4ZnlQRexN5WrF4_dg"
+        },
+        {
+            "position": 4,
+            "title": "John Naylor, MD",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.8,
+            "ratingCount": 54,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Doctor"
+            ],
+            "website": "https://www.multicare.org/provider/john-naylor/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.861504&pitch=0&thumbfov=100",
+            "cid": "200939750670696280",
+            "fid": "0x549e186596bc088f:0x2c9e1a37bfb7f58",
+            "placeId": "ChIJjwi8lmUYnlQRWH_7e6PhyQI"
+        },
+        {
+            "position": 5,
+            "title": "MultiCare Rockwood Pulmonary, Critical Care & Sleep Medicine - Valley",
+            "address": "1215 N McDonald Rd #202, Spokane Valley, WA 99216",
+            "latitude": 47.668405799999995,
+            "longitude": -117.2296538,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.multicare.org/location/multicare-rockwood-pulmonary-sleep-medicine-valley/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOXX2RBR2psVJk3R3fS-PMAfdDnC-IPkeOj7k",
+            "cid": "11365673003620110631",
+            "fid": "0x549e2124d441efe3:0x9dbafb60fe061127",
+            "placeId": "ChIJ4-9B1CQhnlQRJxEG_mD7up0"
+        },
+        {
+            "position": 6,
+            "title": "Jonathan Danaraj, DO",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.8,
+            "ratingCount": 122,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Doctor"
+            ],
+            "website": "https://www.multicare.org/provider/jonathan-danaraj/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.861504&pitch=0&thumbfov=100",
+            "cid": "2388875505039819658",
+            "fid": "0x549e190bc33a6c4f:0x2126fd9d7287c38a",
+            "placeId": "ChIJT2w6wwsZnlQRisOHcp39JiE"
+        },
+        {
+            "position": 7,
+            "title": "Joseph Swiggum, MD",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.7,
+            "ratingCount": 52,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Doctor"
+            ],
+            "website": "https://www.multicare.org/provider/joseph-swiggum/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2L6_MiEAVibGsdPauhspiPZ7siBJpE8ag1n7J",
+            "cid": "13656676923932798959",
+            "fid": "0x549e186596bc06dd:0xbd86434e5f49efef",
+            "placeId": "ChIJ3Qa8lmUYnlQR7-9JX05Dhr0"
+        },
+        {
+            "position": 8,
+            "title": "Angela Olson, MD",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.9,
+            "ratingCount": 29,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.multicare.org/provider/angela-olson/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.861504&pitch=0&thumbfov=100",
+            "cid": "15929181013126651793",
+            "fid": "0x549e1918ff256b75:0xdd0fd1bc2a4f9f91",
+            "placeId": "ChIJdWsl_xgZnlQRkZ9PKrzRD90"
+        },
+        {
+            "position": 9,
+            "title": "Providence Pediatric Pulmonology & Cystic Fibrosis Center",
+            "address": "105 W 8th Ave Suite 660E, Spokane, WA 99204",
+            "latitude": 47.6486866,
+            "longitude": -117.41272339999999,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-childrens-hospital/cystic-fibrosis?ls=location&y_source=1_OTU3Njk2NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-6960",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxTNyioszs0nXG_7lWswt3qOIkmg6muUX_1_j6",
+            "cid": "7809994712638175413",
+            "fid": "0x549e187c5bc0540b:0x6c62accfe07a38b5",
+            "placeId": "ChIJC1TAW3wYnlQRtTh64M-sYmw"
+        },
+        {
+            "position": 10,
+            "title": "Pediatric Pulmonology",
+            "address": "105 W 8th Ave Suite 660E, Spokane, WA 99204",
+            "latitude": 47.6476068,
+            "longitude": -117.4129093,
+            "rating": 4.3,
+            "ratingCount": 3,
+            "type": "Pediatric pulmonologist",
+            "types": [
+                "Pediatric pulmonologist",
+                "Pulmonologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-childrens-hospital/pediatric-pulmonology",
+            "phoneNumber": "(509) 474-6960",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=le0ZlJlVGC6H5hRdjzMS1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.17648&pitch=0&thumbfov=100",
+            "cid": "2397601858296006441",
+            "fid": "0x549e187c67c64875:0x2145fe2fe48cc729",
+            "placeId": "ChIJdUjGZ3wYnlQRKceM5C_-RSE"
+        },
+        {
+            "position": 11,
+            "title": "Mary McVeity-Mejia, PA-C",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.5,
+            "ratingCount": 25,
+            "type": "Physician assistant",
+            "types": [
+                "Physician assistant"
+            ],
+            "website": "https://www.multicare.org/provider/mary-mcveity-mejia/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.861504&pitch=0&thumbfov=100",
+            "cid": "13283310213942632396",
+            "fid": "0x549e193c609ef441:0xb857cc42f75e5fcc",
+            "placeId": "ChIJQfSeYDwZnlQRzF9e90LMV7g"
+        },
+        {
+            "position": 12,
+            "title": "Ben Arthurs, MD",
+            "address": "910 W 5th Ave #1001, Spokane, WA 99204",
+            "latitude": 47.651690599999995,
+            "longitude": -117.42519209999999,
+            "rating": 4.9,
+            "ratingCount": 67,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Family practice physician"
+            ],
+            "website": "https://www.multicare.org/provider/ben-arthurs/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mcdJCrlwMz1V02NuJ1_HMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.861504&pitch=0&thumbfov=100",
+            "cid": "1404968929200540800",
+            "fid": "0x549e19e144237a77:0x137f73cc19758c80",
+            "placeId": "ChIJd3ojROEZnlQRgIx1GcxzfxM"
+        },
+        {
+            "position": 13,
+            "title": "Performance Home Medical",
+            "address": "507 S Washington St Suite 140, Spokane, WA 99204",
+            "latitude": 47.651075399999996,
+            "longitude": -117.41749639999999,
+            "rating": 3.6,
+            "ratingCount": 37,
+            "type": "Oxygen equipment supplier",
+            "types": [
+                "Oxygen equipment supplier",
+                "Medical equipment supplier"
+            ],
+            "website": "https://www.performancehomemed.com/",
+            "phoneNumber": "(866) 687-4463",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMdA8jHkbaOVjwSCvd_YoFHmBxD9sAY4XGktmOP",
+            "cid": "1692520072456000598",
+            "fid": "0x549e1863575d2bf3:0x177d0a09ddf55456",
+            "placeId": "ChIJ8ytdV2MYnlQRVlT13QkKfRc"
+        },
+        {
+            "position": 14,
+            "title": "Griffith E. Liang, MD",
+            "address": "9631 N Nevada St Suite 300, Spokane, WA 99218",
+            "latitude": 47.745162,
+            "longitude": -117.39757039999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist"
+            ],
+            "website": "https://www.providence.org/doctors/pulmonology/wa/spokane/griffith-liang-1891737748?ls=provider&y_source=1_MTAwMzkwNTg1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 465-3919",
+            "bookingLinks": [
+                "https://www.providence.org/doctors/pulmonology/wa/spokane/griffith-liang-1891737748?ls=provider&y_source=1_MTAwMzkwNTg1My03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgTeHETBR4Uoq_rlQvOvj1vCt4xqlsRY5zMsYX",
+            "cid": "9956828069479861383",
+            "fid": "0x549e1c3c3afae16d:0x8a2dc2602afc4c87",
+            "placeId": "ChIJbeH6OjwcnlQRh0z8KmDCLYo"
+        },
+        {
+            "position": 15,
+            "title": "Apria Healthcare",
+            "address": "411 E North Foothills Dr #200, Spokane, WA 99207",
+            "latitude": 47.683062799999995,
+            "longitude": -117.40440629999999,
+            "rating": 2.8,
+            "ratingCount": 125,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Medical supply store",
+                "Oxygen equipment supplier",
+                "Pharmacy"
+            ],
+            "website": "http://www.apria.com/",
+            "phoneNumber": "(509) 489-1000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPM7vedVI5xKFKX5VysxBkqZZx5DcifUEFnvXI2",
+            "cid": "3216212424854389126",
+            "fid": "0x549e18de53318bb3:0x2ca2482901a4c186",
+            "placeId": "ChIJs4sxU94YnlQRhsGkASlIoiw"
+        },
+        {
+            "position": 16,
+            "title": "Providence Sleep Medicine - North",
+            "address": "9631 N Nevada St Suite 300A, Spokane, WA 99218",
+            "latitude": 47.7451637,
+            "longitude": -117.3975878,
+            "rating": 1.8,
+            "ratingCount": 17,
+            "type": "Sleep clinic",
+            "types": [
+                "Sleep clinic",
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/sleep-medicine-spokane-north?ls=location&y_source=1_OTU3Njk3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 944-8971",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9jx7jxYXPZRSsHYwR7KhHC3v9ooj1UTaoSu51zL8fmhrmz03CDp4_tWeTwvMUI6seekfm7oZJhzPaGybVUonqD-icc9mJQISH7yqrc3bpSMe63skvrvtGsd47VF0VOAZdYhyaA",
+            "cid": "7297248326926348644",
+            "fid": "0x549e194b807c5b63:0x654508b0dc423164",
+            "placeId": "ChIJY1t8gEsZnlQRZDFC3LAIRWU"
+        }
+    ],
+    "credits": 3
+}

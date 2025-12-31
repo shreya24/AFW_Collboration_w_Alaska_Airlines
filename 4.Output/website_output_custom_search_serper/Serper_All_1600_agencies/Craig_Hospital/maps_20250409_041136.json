@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Craig Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6542457,-104.9787712,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Craig Hospital",
+            "address": "3425 S Clarkson St, Englewood, CO 80113",
+            "latitude": 39.6542457,
+            "longitude": -104.9787712,
+            "rating": 4.4,
+            "ratingCount": 124,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pharmacy",
+                "Rehabilitation center"
+            ],
+            "website": "https://craighospital.org/",
+            "phoneNumber": "(303) 789-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuMJ931_bgMtmxL3xnt88g4hesdbR2PltLfl4c",
+            "cid": "18163940045450682206",
+            "fid": "0x876c8083ec170333:0xfc13473c12949f5e",
+            "placeId": "ChIJMwMX7IOAbIcRXp-UEjxHE_w"
+        }
+    ],
+    "credits": 3
+}

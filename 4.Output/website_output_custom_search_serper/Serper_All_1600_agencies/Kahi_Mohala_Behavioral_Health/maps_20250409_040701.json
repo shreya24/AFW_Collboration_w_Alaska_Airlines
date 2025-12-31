@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kahi Mohala Behavioral Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3736329,-158.0322528,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kahi Mohala",
+            "address": "91-2301 Old Fort Weaver Rd, Ewa Beach, HI 96706",
+            "latitude": 21.3736329,
+            "longitude": -158.03225279999998,
+            "rating": 3.1,
+            "ratingCount": 34,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/kahi-mohala",
+            "phoneNumber": "(808) 671-8511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8OSOEFuYSN9hir8IZ1marff-Qz2cK3CG0m1xRX-hbjQ8XaVomUXuODNwcIapiPwqTjX_nxkhfjS__MaZX0vP8weNRjWdx3P2CClD-w1Js03BS77oKt6u7ix6vge0-q-nZK0vke",
+            "cid": "18072395894286836526",
+            "fid": "0x7c00646d03617a3b:0xface0c506f31e32e",
+            "placeId": "ChIJO3phA21kAHwRLuMxb1AMzvo"
+        }
+    ],
+    "credits": 3
+}

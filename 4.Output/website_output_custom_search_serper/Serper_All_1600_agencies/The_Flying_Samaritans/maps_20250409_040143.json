@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "The Flying Samaritans",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.4417999,-116.6783247,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CSUF & UCR Flying Samaritans Clinica Medica",
+            "address": "Luis Echeverria Alvarez ( El Hongo), 21505 Col Luis Echeverr\u00eda, Baja California, Mexico",
+            "latitude": 32.5076751,
+            "longitude": -116.3063406,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Free clinic",
+            "types": [
+                "Free clinic"
+            ],
+            "website": "http://www.flyingsamaritanselhongo.org/",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNW1C5HRcwCiuZX4DWZDTMNL3EIkSN1SUB95u0g",
+            "cid": "4818592671728761900",
+            "fid": "0x80d9a51cb1d692e7:0x42df148143b17c2c",
+            "placeId": "ChIJ55LWsRyl2YARLHyxQ4EU30I"
+        },
+        {
+            "position": 2,
+            "title": "Flying Samaritans of SDSU",
+            "address": "Av Del Granero, Granjas Familiares del Matamoros, Delegacion La Presa, 22203 Tijuana, B.C., Mexico",
+            "latitude": 32.528580399999996,
+            "longitude": -116.881658,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "8\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPTNR4xRRPg14aE60oLxF0j9MMHXFtHhBp4ILWW",
+            "cid": "3377378757824244852",
+            "fid": "0x80d940a82ed78561:0x2ededc160c106c74",
+            "placeId": "ChIJYYXXLqhA2YARdGwQDBbc3i4"
+        },
+        {
+            "position": 3,
+            "title": "Flying Samaritans",
+            "address": "C. Chihuahua 488, Constituci\u00f3n (Ampl. Constituci\u00f3n), 22707 Playas de Rosarito, B.C., Mexico",
+            "latitude": 32.3550195,
+            "longitude": -117.0503088,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJVCRmS-Pxfr_5XbZB0Hf0jaG4teBTn9bU7eB5",
+            "cid": "8840119845432975328",
+            "fid": "0x80d931eb2c733561:0x7aae6a2996e9dfe0",
+            "placeId": "ChIJYTVzLOsx2YAR4N_plilqrno"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sutter Health - CPMC Pacific Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7682937,-122.4344995,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CPMC Davies Campus",
+            "address": "601 Duboce Ave, San Francisco, CA 94117",
+            "latitude": 37.7682937,
+            "longitude": -122.4344995,
+            "rating": 3.8,
+            "ratingCount": 190,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-davies-campus",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8efLN6PB0MXUvA6rz3DKroYk8XsfFwUl3siAbiYDtXNWisJGjdsgAd6yDQnAwrjptOFbPaGFoIR4scz88N7gWtuFXbLINEQr_YRGjeL_SwU9hF89sDFbWeNNMhEGq-HDXx9ivDSA",
+            "cid": "16590229511571084107",
+            "fid": "0x808581ada648eab3:0xe63c55d78b65934b",
+            "placeId": "ChIJs-pIpq2BhYARS5Nli9dVPOY"
+        }
+    ],
+    "credits": 3
+}

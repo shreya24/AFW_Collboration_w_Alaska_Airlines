@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Linda McLean",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.3355932,-76.3678317,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MFM Lab",
+            "address": "200 Lees Ave, Ottawa, ON K1N 6N5, Canada",
+            "latitude": 45.4157363,
+            "longitude": -75.6685054,
+            "type": "Laboratory",
+            "types": [
+                "Laboratory"
+            ],
+            "website": "http://mfmlab.ca/contact/",
+            "phoneNumber": "+1 613-562-5800 ext. 4102",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_6n6AkFTwrah-8h3eq8ALN6tJ1XiJvqxMcUZM2qCtF_bF4jHenhc00MHMWtTb7_tkNlxME55bUd4LtLAUsW1wXFSTcHZi2bcVWcKSleJxNXNZHYWVYWk_ZQHnu4mwLYx9Pulk",
+            "cid": "14756448196176285264",
+            "fid": "0x4cce059efbcfcda1:0xccc96f738f8a8e50",
+            "placeId": "ChIJoc3P-54FzkwRUI6Kj3Nvycw"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Linda M. Starck-Mclean, MD",
+            "address": "6692 Middle Rd, Sodus, NY 14551",
+            "latitude": 43.255449999999996,
+            "longitude": -77.06715799999999,
+            "phoneNumber": "(315) 483-3205",
+            "isPermanentlyClosed": true,
+            "cid": "12367477334406022577",
+            "fid": "0x89d72450106ae5ff:0xaba21b1c24f745b1",
+            "placeId": "ChIJ_-VqEFAk14kRsUX3JBwboqs"
+        }
+    ],
+    "credits": 3
+}

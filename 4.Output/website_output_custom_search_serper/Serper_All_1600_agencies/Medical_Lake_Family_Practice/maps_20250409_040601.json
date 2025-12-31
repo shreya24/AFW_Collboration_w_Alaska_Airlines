@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Medical Lake Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5752586,-117.681777,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Medical Lake Family Practice",
+            "address": "317 N Broad St, Medical Lake, WA 99022",
+            "latitude": 47.5752586,
+            "longitude": -117.681777,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(509) 299-5145",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NxkASqSCMzfqo6ZkYZBRWg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=177.73041&pitch=0&thumbfov=100",
+            "cid": "2557489565807475739",
+            "fid": "0x549e6aab9ec385b3:0x237e0735beb8fc1b",
+            "placeId": "ChIJs4XDnqtqnlQRG_y4vjUHfiM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "American Cancer Society Idaho",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.5781338,-116.2130608,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Cancer Society",
+            "address": "2676 S Vista Ave, Boise, ID 83705",
+            "latitude": 43.578133799999996,
+            "longitude": -116.2130608,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(208) 345-2184",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_B7gUuxkxvToG9svHz4MfpoCvUGHZwWISJC6Y9HI0rvENvk_t2530mU9OiKKtgPi6WbJvTncdvDC4ruBpb3t9t4GkBLsXKBYFKPhPZDHo-dqebj-TB5x1huouo9IzZZqvgtACO",
+            "cid": "9294464035199061543",
+            "fid": "0x54aef8f8af2202d7:0x80fc91cbbbaf0e27",
+            "placeId": "ChIJ1wIir_j4rlQRJw6vu8uR_IA"
+        }
+    ],
+    "credits": 3
+}

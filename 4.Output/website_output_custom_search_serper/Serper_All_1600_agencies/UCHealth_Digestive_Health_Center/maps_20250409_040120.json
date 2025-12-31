@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "UCHealth Digestive Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7425177,-104.8391249,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Digestive Health Center - Anschutz Medical Campus",
+            "address": "1635 Aurora Ct 5th floor, Aurora, CO 80045",
+            "latitude": 39.7425177,
+            "longitude": -104.8391249,
+            "rating": 4.5,
+            "ratingCount": 224,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-digestive-health-center-anschutz/",
+            "phoneNumber": "(720) 848-2777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9oSqbri1f3qe8DeOfQPQdxsdWADtwqwrwdgPj",
+            "cid": "7943082156126284766",
+            "fid": "0x876c634eae5daeb9:0x6e3b7f2301a6abde",
+            "placeId": "ChIJua5drk5jbIcR3qumASN_O24"
+        }
+    ],
+    "credits": 3
+}

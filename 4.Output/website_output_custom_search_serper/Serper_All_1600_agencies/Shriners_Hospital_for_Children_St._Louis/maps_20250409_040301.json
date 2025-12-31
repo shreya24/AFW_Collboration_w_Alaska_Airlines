@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Shriners Hospital for Children St. Louis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6322194,-90.2583324,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's St. Louis",
+            "address": "4400 Clayton Ave, St. Louis, MO 63110",
+            "latitude": 38.6322194,
+            "longitude": -90.2583324,
+            "rating": 4.8,
+            "ratingCount": 109,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/st-louis",
+            "phoneNumber": "(314) 432-3600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8kO3pCdwCAjvu7MLLZnd2_UaWbyEN5DTZhG3_Tnq8Co1j2O6bd_H8CILK4vx3pbjGX2q9q3NWb7W39fg8FQk2vRY0Jy09PgEqIFNYaFM8vTahAeUvFW7N9ivHD8ujAjzbDmUtE",
+            "cid": "5399386627888645712",
+            "fid": "0x87d8cce6ad3d7c5f:0x4aee7987e84c0650",
+            "placeId": "ChIJX3w9rebM2IcRUAZM6Id57ko"
+        }
+    ],
+    "credits": 3
+}

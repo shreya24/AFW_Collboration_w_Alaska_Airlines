@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Peace at Home Advocacy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.20993,-123.3396392,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peace at Home Advocacy Center formerly BPA",
+            "address": "1202 SE Douglas Ave, Roseburg, OR 97470",
+            "latitude": 43.20993,
+            "longitude": -123.3396392,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Domestic abuse treatment center"
+            ],
+            "website": "https://peaceathome.com/",
+            "phoneNumber": "(541) 673-7867",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z5ymqEp-30NXAnyBhbmi2w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=356.67154&pitch=0&thumbfov=100",
+            "cid": "14377491857254554119",
+            "fid": "0x54c4233460c60fb3:0xc7871cab40ba9a07",
+            "placeId": "ChIJsw_GYDQjxFQRB5q6QKsch8c"
+        }
+    ],
+    "credits": 3
+}

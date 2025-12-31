@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "National Brain Tumor Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7915637,-122.3993925,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Brain Tumor Society",
+            "address": "\u301294111 California, San Francisco, Battery St",
+            "latitude": 37.7915637,
+            "longitude": -122.39939249999999,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(415) 834-9970",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mH0nnI_FpqDwnbyvo2OBnA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=77.45953&pitch=0&thumbfov=100",
+            "cid": "17038999611627937471",
+            "fid": "0x8085806239c15a1b:0xec76afdecb1a1ebf",
+            "placeId": "ChIJG1rBOWKAhYARvx4ay96vduw"
+        }
+    ],
+    "credits": 3
+}

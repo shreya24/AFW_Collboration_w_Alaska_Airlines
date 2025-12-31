@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "Feather River Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7611736,-121.616596,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health Feather River",
+            "address": "5974 Pentz Rd, Paradise, CA 95969",
+            "latitude": 39.7464325,
+            "longitude": -121.6398966,
+            "rating": 3.3,
+            "ratingCount": 147,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventisthealth.org/feather-river/",
+            "phoneNumber": "(530) 872-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9eOYrvtJQO1nSDQX9yXWnvvC2O9vXdpNDxs1MgLgdP1pR_R3Zf9U_kD0_2GNoX8G8n6x03Jl6hfh9_tClmP_rsGVhz73bwuUEpgr3eg5NUpAfqyd6N78oxPVF8Unz78xouBBUeww",
+            "cid": "10551924561814378398",
+            "fid": "0x809cd38f77e10827:0x926ff77b83aa579e",
+            "placeId": "ChIJJwjhd4_TnIARnleqg3v3b5I"
+        },
+        {
+            "position": 2,
+            "title": "Feather River Hospital (Paradise Primary Care)",
+            "address": "6585 Clark Rd #400, Paradise, CA 95969",
+            "latitude": 39.7759146,
+            "longitude": -121.5932955,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(530) 877-4465",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQZQKo7sub_l6NjlAwFbhg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=302.38147&pitch=0&thumbfov=100",
+            "cid": "6903377334680585349",
+            "fid": "0x809cd48d4db52d43:0x5fcdb91c381e8485",
+            "placeId": "ChIJQy21TY3UnIARhYQeOBy5zV8"
+        },
+        {
+            "position": 3,
+            "title": "Feather River Hospital (Paradise Hospice House)",
+            "address": "1289 Bille Rd, Paradise, CA 95969",
+            "latitude": 39.771727,
+            "longitude": -121.598581,
+            "rating": 3.9,
+            "ratingCount": 8,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.adventisthealth.org/",
+            "phoneNumber": "(530) 877-8755",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1mIqG79EzWBuZylm3T7IWg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=95.67051&pitch=0&thumbfov=100",
+            "cid": "2426139281033015703",
+            "fid": "0x809cd493785031f7:0x21ab60d265983197",
+            "placeId": "ChIJ9zFQeJPUnIARlzGYZdJgqyE"
+        }
+    ],
+    "credits": 3
+}

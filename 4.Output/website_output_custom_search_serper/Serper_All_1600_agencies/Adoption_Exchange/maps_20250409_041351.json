@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Adoption Exchange",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.188479,-149.8919463,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Adoption Services",
+            "address": "471 W 36th Ave #201, Anchorage, AK 99503",
+            "latitude": 61.188478999999994,
+            "longitude": -149.8919463,
+            "rating": 5,
+            "ratingCount": 25,
+            "type": "Adoption agency",
+            "types": [
+                "Adoption agency"
+            ],
+            "website": "http://alaskaadoptionservices.org/",
+            "phoneNumber": "(907) 302-6332",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMY5Rlkhae_KSxr43vfEIhqiq21ymdaGPfuYjs",
+            "cid": "9167631359587662594",
+            "fid": "0x56c8eb2c8374feff:0x7f39f8263bf43b02",
+            "placeId": "ChIJ__50gyzryFYRAjv0Oyb4OX8"
+        }
+    ],
+    "credits": 3
+}

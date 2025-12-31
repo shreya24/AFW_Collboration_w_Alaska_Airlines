@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Dr. Darrell Kammer",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6066035,-116.6169008,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kammer Jr Darrell A MD",
+            "address": "1615 12th Ave Rd, Nampa, ID 83686",
+            "latitude": 43.552953699999996,
+            "longitude": -116.57476919999999,
+            "rating": 3.8,
+            "ratingCount": 23,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist"
+            ],
+            "phoneNumber": "(208) 467-2129",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pKDmVbPoyNhXGsTjXfrmJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=182.32874&pitch=0&thumbfov=100",
+            "cid": "2045076327418072107",
+            "fid": "0x54ae4bfd07680191:0x1c619215a2508c2b",
+            "placeId": "ChIJkQFoB_1LrlQRK4xQohWSYRw"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Darrell A. Kammer Jr, MD",
+            "address": "3115 Medical Dr, Caldwell, ID 83605",
+            "latitude": 43.6602533,
+            "longitude": -116.65903229999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist"
+            ],
+            "phoneNumber": "(208) 453-8668",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vvx5qkWnffZX3IvxS4yo6A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=53.261803&pitch=0&thumbfov=100",
+            "cid": "10874950362539804975",
+            "fid": "0x54afb38ea209d4b1:0x96eb95bc9d30c92f",
+            "placeId": "ChIJsdQJoo6zr1QRL8kwnbyV65Y"
+        }
+    ],
+    "credits": 3
+}

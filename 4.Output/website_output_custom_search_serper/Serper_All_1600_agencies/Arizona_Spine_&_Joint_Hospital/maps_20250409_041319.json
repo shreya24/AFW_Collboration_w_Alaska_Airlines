@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Arizona Spine & Joint Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3805687,-111.734826,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona Spine & Joint Hospital",
+            "address": "4620 E Baseline Rd, Mesa, AZ 85206",
+            "latitude": 33.3805687,
+            "longitude": -111.734826,
+            "rating": 4.3,
+            "ratingCount": 83,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.azspineandjoint.com/",
+            "phoneNumber": "(480) 832-4770",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_i6CCgRB-5VNRqFfcHPNLiPRIsakki4rI5yOJR4M7OvFI10EzPxIY3eyWvvHGgsX77g1QP_guirLYyUNCH9Ytq_go7J05MCdHxV7blKm8u6Y4S_pMSq3-PJy48zsCr3ou6t-5P",
+            "cid": "10248991295194288801",
+            "fid": "0x872baf1fb2aac699:0x8e3bbb48102052a1",
+            "placeId": "ChIJmcaqsh-vK4cRoVIgEEi7O44"
+        }
+    ],
+    "credits": 3
+}

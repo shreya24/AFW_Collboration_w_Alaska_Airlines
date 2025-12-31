@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr. Vikram Udani",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9060045,-117.2264054,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Vikram Udani, MD",
+            "address": "11199 Sorrento Valley Rd STE 203, San Diego, CA 92121",
+            "latitude": 32.9060045,
+            "longitude": -117.22640539999999,
+            "rating": 5,
+            "ratingCount": 23,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://vikudanimd.com/",
+            "phoneNumber": "(619) 566-0640",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "15236183120165428225",
+            "fid": "0x80d955aa80653433:0xd371cbd2b2435c01",
+            "placeId": "ChIJMzRlgKpV2YARAVxDstLLcdM"
+        }
+    ],
+    "credits": 3
+}

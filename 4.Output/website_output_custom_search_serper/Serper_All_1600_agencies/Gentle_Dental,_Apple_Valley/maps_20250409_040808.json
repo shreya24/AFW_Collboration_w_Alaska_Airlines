@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Gentle Dental, Apple Valley",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.5401092,-117.2658077,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gentle Dental Apple Valley",
+            "address": "18245 CA-18 Suite 3 & 4, Apple Valley, CA 92307",
+            "latitude": 34.540109199999996,
+            "longitude": -117.2658077,
+            "rating": 4.3,
+            "ratingCount": 300,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Dental hygienist",
+                "Endodontist",
+                "Oral surgeon",
+                "Orthodontist",
+                "Pediatric dentist",
+                "Periodontist",
+                "Teeth whitening service"
+            ],
+            "website": "https://gentledental.interdent.com/locations/ca/apple-valley/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=GDAPPLE&y_source=1_MTA5NjAyNjY5MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(760) 657-4145",
+            "menu": "https://gentledental.interdent.com/general-dental-care/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=GDAPPLE",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.solutionreach.com/scheduling/subscriber/77627/scheduler?y_source=1_MTA5NjAyNjY5MC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNorG9pq9cf-2sxI4_WUrZ9r-BiUCiiDZ4SwT6C",
+            "cid": "10607482127480477618",
+            "fid": "0x80c3645cf4a4869b:0x933558cb49c757b2",
+            "placeId": "ChIJm4ak9Fxkw4ARslfHSctYNZM"
+        }
+    ],
+    "credits": 3
+}

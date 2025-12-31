@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ketchikan Eye Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3556848,-131.6870334,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ketchikan Eye Care Center",
+            "address": "351 Carlanna Lake Rd, Ketchikan, AK 99901",
+            "latitude": 55.3556848,
+            "longitude": -131.6870334,
+            "rating": 3,
+            "ratingCount": 14,
+            "type": "Optometrist",
+            "types": [
+                "Optometrist"
+            ],
+            "website": "https://ketchikaneyecare.com/",
+            "phoneNumber": "(907) 225-2020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9q2L4rATYIxhzwEESNFnBmErI-q-tUj9WmFjP0PePUzLtAQxOt1c2fUNzXfLkm9Dtp-0uAC0hEMP58oy0tIbm6ueUvBpOxd9oReNSVxvmEA3IdegnZppV16-eD9B9HS1a5Wam5",
+            "cid": "3566916091858938519",
+            "fid": "0x540c25b9a6bb252f:0x31803b4986e06a97",
+            "placeId": "ChIJLyW7prklDFQRl2rghkk7gDE"
+        }
+    ],
+    "credits": 3
+}

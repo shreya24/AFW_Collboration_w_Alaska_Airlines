@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Women's Care of Alaska",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.210372,-149.8313716,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Women's Care of Alaska",
+            "address": "2741 DeBarr Rd STE C205, Anchorage, AK 99508",
+            "latitude": 61.210372,
+            "longitude": -149.83137159999998,
+            "rating": 3.9,
+            "ratingCount": 45,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Fertility clinic",
+                "Pregnancy care center"
+            ],
+            "website": "https://wcakobgyn.com/",
+            "phoneNumber": "(907) 279-2273",
+            "menu": "https://wcakobgyn.com/obstetrics/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://wcakobgyn.com/location/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOYwp0bpgVUva3nig7xRZMzHI_Fj8xWTsRWs5ZX",
+            "cid": "7061576773534222073",
+            "fid": "0x56c89645b6b36cfd:0x61ffc2a964a806f9",
+            "placeId": "ChIJ_WyztkWWyFYR-QaoZKnC_2E"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Well Aging Med",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.7790364,-121.2737693,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Well Aging Med: Denise Bogard, MD, FAARFM, ABAARM",
+            "address": "508 Gibson Dr STE 200, Roseville, CA 95678",
+            "latitude": 38.779036399999995,
+            "longitude": -121.2737693,
+            "rating": 4.8,
+            "ratingCount": 202,
+            "type": "Wellness center",
+            "types": [
+                "Wellness center",
+                "Anesthesiologist",
+                "Holistic medicine practitioner"
+            ],
+            "website": "https://www.bogardhealth.com/",
+            "phoneNumber": "(916) 781-4300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBiVp8aatiY5t2BFC4UeVxWal56OgTFpEhdxUI",
+            "cid": "4612504295871161686",
+            "fid": "0x809b21dcb03c71fb:0x4002e838105d2556",
+            "placeId": "ChIJ-3E8sNwhm4ARViVdEDjoAkA"
+        }
+    ],
+    "credits": 3
+}

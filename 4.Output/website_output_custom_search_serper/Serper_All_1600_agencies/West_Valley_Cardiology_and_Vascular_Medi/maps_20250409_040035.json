@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "West Valley Cardiology and Vascular Medi",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6528991,-116.6948011,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "West Valley Cardiology Services",
+            "address": "1906 S Fairview Ave #230, Caldwell, ID 83605",
+            "latitude": 43.6528991,
+            "longitude": -116.69480109999999,
+            "rating": 4.8,
+            "ratingCount": 144,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://westvalleycardiology.com/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(208) 795-5073",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://westvalleycardiology.com/physicians/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM71pGGKPcx3AEwZbn13BQ_1FZv0lvr_dCKVbp1",
+            "cid": "17935823989773346440",
+            "fid": "0x54afb441be8d5f4d:0xf8e8d8e4005ea688",
+            "placeId": "ChIJTV-NvkG0r1QRiKZeAOTY6Pg"
+        }
+    ],
+    "credits": 3
+}

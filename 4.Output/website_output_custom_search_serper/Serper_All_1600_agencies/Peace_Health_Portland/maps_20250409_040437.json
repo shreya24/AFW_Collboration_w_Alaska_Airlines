@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Peace Health Portland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6248583,-122.5811683,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth Southwest Medical Center",
+            "address": "400 NE Mother Joseph Pl, Vancouver, WA 98664",
+            "latitude": 45.6248583,
+            "longitude": -122.58116829999999,
+            "rating": 2.2,
+            "ratingCount": 712,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/southwest-medical-center?utm_source=gbp&utm_medium=organic&utm_content=VANC-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 514-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-YOF0Iyf52EH81NMs0io7pQc9WMSiBuES3JpAWW3rlfoVaPmNBCGSIhzCMxM1tLDRF5OGW9HyJv3uQdfiX8BgNt-j7fwqz_W9TeFXBm3FlqiSsqgMAgdNoPfhgVJKCdkN6Nh5zWQ",
+            "cid": "15089139715849186813",
+            "fid": "0x5495a59fe6e9fccf:0xd16764a0396dedfd",
+            "placeId": "ChIJz_zp5p-llVQR_e1tOaBkZ9E"
+        }
+    ],
+    "credits": 3
+}

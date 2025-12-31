@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Youth and Family Programs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1691817,-122.1026033,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Youth & Family Programs - Shasta County Foster Care",
+            "address": "2770 Pioneer Dr, Redding, CA 96001",
+            "latitude": 40.58743,
+            "longitude": -122.412421,
+            "rating": 3.6,
+            "ratingCount": 40,
+            "type": "Foster care service",
+            "types": [
+                "Foster care service",
+                "Social services organization",
+                "Social worker"
+            ],
+            "website": "https://www.ncyfp.org/",
+            "phoneNumber": "(530) 365-9197",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNosZYnt3VcEA507vduvQ0Ob5zKAtobKnu_W0qF",
+            "cid": "12503851051118716385",
+            "fid": "0x54d2c16c1b26c75d:0xad869a48625365e1",
+            "placeId": "ChIJXccmG2zB0lQR4WVTYkiahq0"
+        },
+        {
+            "position": 2,
+            "title": "Youth & Family Programs - Butte County Foster Care",
+            "address": "2577 California Park Dr, Chico, CA 95928",
+            "latitude": 39.7509334,
+            "longitude": -121.7927857,
+            "rating": 4.3,
+            "ratingCount": 27,
+            "type": "Foster care service",
+            "types": [
+                "Foster care service",
+                "Social services organization",
+                "Social worker"
+            ],
+            "website": "https://www.ncyfp.org/",
+            "phoneNumber": "(530) 893-1614",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXXuiuMf7SgX6vJcUk5UpY72SG1LoFvOONzrD6",
+            "cid": "1602846011156287752",
+            "fid": "0x8083286b71996c6b:0x163e73f4749f5108",
+            "placeId": "ChIJa2yZcWsog4ARCFGfdPRzPhY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Ivy Park of Wellington",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5991357,-117.7154586,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ivy Park of Wellington",
+            "address": "24962 Calle Aragon, Laguna Woods, CA 92637",
+            "latitude": 33.5991357,
+            "longitude": -117.71545859999999,
+            "rating": 3.9,
+            "ratingCount": 33,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility"
+            ],
+            "website": "https://ivyliving.com/ivyparkwellington",
+            "phoneNumber": "(949) 403-6343",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://ivyliving.com/ivyparkwellington/?modalWidget=sg&utm_source=imps.conversionlogix.com&utm_medium=GBP-sg&utm_content=Google_appt&utm_campaign=TCC"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNjyNDYBi5eqrVOvMbHKXlWa_5Jlw1w0teI5zpv",
+            "cid": "8112162396494222492",
+            "fid": "0x80dce8bfa1e7c501:0x709430b83351d49c",
+            "placeId": "ChIJAcXnob_o3IARnNRRM7gwlHA"
+        }
+    ],
+    "credits": 3
+}

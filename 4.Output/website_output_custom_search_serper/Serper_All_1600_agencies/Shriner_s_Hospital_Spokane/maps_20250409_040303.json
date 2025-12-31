@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Shriner's Hospital Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.650935,-117.425821,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Spokane",
+            "address": "911 W 5th Ave, Spokane, WA 99204",
+            "latitude": 47.650935,
+            "longitude": -117.425821,
+            "rating": 4.3,
+            "ratingCount": 91,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/spokane",
+            "phoneNumber": "(509) 455-7844",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpP_rZgQcEYINK7lrT6ekivvd69YHUJiKS40QJ",
+            "cid": "7517104644735525712",
+            "fid": "0x549e186582c73ce5:0x68521ed8d8e66350",
+            "placeId": "ChIJ5TzHgmUYnlQRUGPm2NgeUmg"
+        }
+    ],
+    "credits": 3
+}

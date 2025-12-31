@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Hospice of Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6525499,-117.4005071,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hospice of Spokane",
+            "address": "121 S Arthur St, Spokane, WA 99202",
+            "latitude": 47.6561835,
+            "longitude": -117.3953547,
+            "rating": 4.1,
+            "ratingCount": 26,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Counselor",
+                "Medical group",
+                "Nursing agency"
+            ],
+            "website": "http://www.hospiceofspokane.org/",
+            "phoneNumber": "(509) 456-0438",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-Z5zaweYtkOn7Z2gGieP8QVjtaq6TPaJbJV8",
+            "cid": "117804212689905473",
+            "fid": "0x549e189aa09997af:0x1a2864eaa6d2741",
+            "placeId": "ChIJr5eZoJoYnlQRQSdtqk6GogE"
+        },
+        {
+            "position": 2,
+            "title": "Hospice of Spokane Hospice House",
+            "address": "367 E 7th Ave, Spokane, WA 99202",
+            "latitude": 47.648916299999996,
+            "longitude": -117.40565959999999,
+            "rating": 4.1,
+            "ratingCount": 22,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://www.hospiceofspokane.org/",
+            "phoneNumber": "(888) 459-0438",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWKA-PoWrur679VbyMyEib_aSeAX1bDdYFwB4C",
+            "cid": "1852078366132441316",
+            "fid": "0x549e1887459e7edd:0x19b3e776158290e4",
+            "placeId": "ChIJ3X6eRYcYnlQR5JCCFXbnsxk"
+        }
+    ],
+    "credits": 3
+}

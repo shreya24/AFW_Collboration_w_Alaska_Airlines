@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Sky Lakes Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2531897,-121.7851746,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sky Lakes Medical Center",
+            "address": "2865 Daggett Ave, Klamath Falls, OR 97601",
+            "latitude": 42.2531897,
+            "longitude": -121.78517459999999,
+            "rating": 2.9,
+            "ratingCount": 323,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "General practitioner",
+                "Hospital",
+                "Medical Center",
+                "Pharmacy"
+            ],
+            "website": "http://www.skylakes.org/",
+            "phoneNumber": "(541) 882-6311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Kq_0bJJtFypymzUrJfZX3u6df24o_LWeVa-GDWHfJfMtWl-eNRG4kHcNK8qEqMZsSY97G4Ov-vWbZ_oleKQMxdYSfNXOnvHYEG3iFKTyjgP-by2VHbXII3x9pso7lQATrY1k",
+            "cid": "14735304959211101709",
+            "fid": "0x54c8d47dc89c56cd:0xcc7e51ca16d45e0d",
+            "placeId": "ChIJzVacyH3UyFQRDV7UFspRfsw"
+        }
+    ],
+    "credits": 3
+}

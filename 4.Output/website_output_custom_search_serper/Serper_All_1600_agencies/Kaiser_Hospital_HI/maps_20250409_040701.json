@@ -1,0 +1,564 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Hospital/HI",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.0721728,-138.2304272,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Moanalua Medical Center",
+            "address": "3288 Moanalua Rd, Honolulu, HI 96819",
+            "latitude": 21.3632331,
+            "longitude": -157.9000891,
+            "rating": 4.4,
+            "ratingCount": 293,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Moanalua-Medical-Center-100434",
+            "phoneNumber": "(808) 432-0000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNG57hy02bl-KPDQXeKpZRrOLQNcKp51rKemUwz",
+            "cid": "13066892549563636669",
+            "fid": "0x7c006ed94ce2c0eb:0xb556ed8adef05bbd",
+            "placeId": "ChIJ68DiTNluAHwRvVvw3ortVrU"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Moanalua Medical Center : Emergency Room",
+            "address": "3288 Moanalua Rd, Honolulu, HI 96819",
+            "latitude": 21.363466799999998,
+            "longitude": -157.9004644,
+            "rating": 3.9,
+            "ratingCount": 18,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/kaiser-permanente-moanalua-medical-center-100434",
+            "phoneNumber": "(808) 432-0000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOOel4N4p6OIjUz-j6bBS9c2pJCpYQJBh0iP8xf",
+            "cid": "14945943298219437693",
+            "fid": "0x7c006ed94bed3883:0xcf6aa83e237fee7d",
+            "placeId": "ChIJgzjtS9luAHwRfe5_Iz6oas8"
+        },
+        {
+            "position": 3,
+            "title": "Kaiser Permanente Maui Lani Medical Office",
+            "address": "55 Maui Lani Pkwy, Wailuku, HI 96793",
+            "latitude": 20.8876469,
+            "longitude": -156.4904541,
+            "rating": 3.4,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Maui-Lani-Medical-Office-100436",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcyY6vS9oOppIgMewMMf8cHY-etoVDm6QiXZg",
+            "cid": "13570343389161947667",
+            "fid": "0x7954d316f5e99cfb:0xbc538b69e7118213",
+            "placeId": "ChIJ-5zp9RbTVHkRE4IR52mLU7w"
+        },
+        {
+            "position": 4,
+            "title": "Kaiser Permanente Honolulu Medical Office",
+            "address": "1010 Pensacola St, Honolulu, HI 96814",
+            "latitude": 21.300896899999998,
+            "longitude": -157.84622009999998,
+            "rating": 4,
+            "ratingCount": 163,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Honolulu-Medical-Office-100446",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjAaovY-CD8SRy4_uhly5F4Rh1hr1pO5BOvUXB",
+            "cid": "749262091149135942",
+            "fid": "0x7c006de63be0d47f:0xa65e9e6f29c5046",
+            "placeId": "ChIJf9TgO-ZtAHwRRlCc8ubpZQo"
+        },
+        {
+            "position": 5,
+            "title": "Kaiser Permanente Mapunapuna Medical Office",
+            "address": "2828 Paa St, Honolulu, HI 96819",
+            "latitude": 21.345625599999998,
+            "longitude": -157.8945636,
+            "rating": 4.4,
+            "ratingCount": 44,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Mapunapuna-Medical-Office-100428",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHDxrHYoz2Y9dY6tHNUHtL3Pm6zjbNkxdBHBe_",
+            "cid": "7055120953686977126",
+            "fid": "0x7c006ee4b69763f7:0x61e8d320b3ed6a66",
+            "placeId": "ChIJ92OXtuRuAHwRZmrtsyDT6GE"
+        },
+        {
+            "position": 6,
+            "title": "Kaiser Permanente",
+            "address": "100 Keokea Pl, Kula, HI 96790",
+            "latitude": 20.7012331,
+            "longitude": -156.3572642,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/doctors-locations#/search-result",
+            "phoneNumber": "(808) 787-1221",
+            "cid": "5241922633878176489",
+            "fid": "0x7954c973fd65a22f:0x48bf0cdcd46382e9",
+            "placeId": "ChIJL6Jl_XPJVHkR6YJj1NwMv0g"
+        },
+        {
+            "position": 7,
+            "title": "Kaiser Permanente Kona Medical Office",
+            "address": "74-517 Honokohau St, Kailua-Kona, HI 96740",
+            "latitude": 19.6744675,
+            "longitude": -156.0148913,
+            "rating": 3.4,
+            "ratingCount": 65,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Kona-Medical-Office-309181",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrf_ZJLRYZNyjEuuiFiAQuI0UxFud9qgN5i0yF",
+            "cid": "14069699417180584906",
+            "fid": "0x1150a1a2df43910f:0xc3419d135191bbca",
+            "placeId": "ChIJD5FD36KhUBERyruRUROdQcM"
+        },
+        {
+            "position": 8,
+            "title": "Kaiser Permanente Fresno Medical Center",
+            "address": "7300 N Fresno St, Fresno, CA 93720",
+            "latitude": 36.842435099999996,
+            "longitude": -119.78044,
+            "rating": 4.2,
+            "ratingCount": 1029,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Fresno-Medical-Center-100363",
+            "phoneNumber": "(559) 448-4500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUBBMgHbkT_kqPMZ5GCHp39gf97JNBWF3E-loT",
+            "cid": "5581824098127312197",
+            "fid": "0x809442aeb48b0813:0x4d769f718797f545",
+            "placeId": "ChIJEwiLtK5ClIARRfWXh3Gfdk0"
+        },
+        {
+            "position": 9,
+            "title": "Kaiser Permanente Waipio Medical Office",
+            "address": "94-1480 Moaniani St, Waipahu, HI 96797",
+            "latitude": 21.4255572,
+            "longitude": -157.9969194,
+            "rating": 3.9,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Waipio-Medical-Office-100429",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqxx20CqU_MKD6Gi6q3TkVQoGQ6XYT2poajsRQ",
+            "cid": "14555033637160778903",
+            "fid": "0x7c00665844bee571:0xc9fdddfa24d47c97",
+            "placeId": "ChIJceW-RFhmAHwRl3zUJPrd_ck"
+        },
+        {
+            "position": 10,
+            "title": "Kaiser Permanente West Oahu Medical Office at Kapolei",
+            "address": "401 Kamokila Blvd, Kapolei, HI 96707",
+            "latitude": 21.3285655,
+            "longitude": -158.08583059999998,
+            "rating": 4.4,
+            "ratingCount": 64,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/West-Oahu-Medical-Office-at-Kapolei-343097",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0eWi-4-urIPW9FM94-ope900qZifgsrG25OrC",
+            "cid": "4203708738449522624",
+            "fid": "0x7c006378367eee3f:0x3a5692d34e7d3fc0",
+            "placeId": "ChIJP-5-NnhjAHwRwD99TtOSVjo"
+        },
+        {
+            "position": 11,
+            "title": "Kaiser Permanente South Sacramento Medical Center",
+            "address": "6600 Bruceville Rd, Sacramento, CA 95823",
+            "latitude": 38.469878099999995,
+            "longitude": -121.4231009,
+            "rating": 4.3,
+            "ratingCount": 1634,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.kaiserpermanente.org/",
+            "phoneNumber": "(916) 688-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXuOS85w3H-YVjEAmXMXLX_c1wYUjgyTUpiF0d",
+            "cid": "13176948316831254637",
+            "fid": "0x809ac5c1da2eb067:0xb6ddecae0068886d",
+            "placeId": "ChIJZ7Au2sHFmoARbYhoAK7s3bY"
+        },
+        {
+            "position": 12,
+            "title": "Kaiser Permanente Wailuku Medical Office",
+            "address": "80 Mahalani St, Wailuku, HI 96793",
+            "latitude": 20.8874225,
+            "longitude": -156.4871215,
+            "rating": 4.3,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Wailuku-Medical-Office-100431",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwnbr1Jdsd8Ziw5xepnjmBrAN6DRGM-NphPpuU",
+            "cid": "16909495685841445361",
+            "fid": "0x7954d317f9aa2c47:0xeaaa98bc659461f1",
+            "placeId": "ChIJRyyq-RfTVHkR8WGUZbyYquo"
+        },
+        {
+            "position": 13,
+            "title": "Kaiser Permanente Hilo Clinic",
+            "address": "1292 Waianuenue Ave, Hilo, HI 96720",
+            "latitude": 19.717724,
+            "longitude": -155.11553279999998,
+            "rating": 4.2,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Hilo-Clinic-100445",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxGZXEL4pRB1keQ_c0tr__4Zp_-PXXUm2tDRBj",
+            "cid": "2721043448428796211",
+            "fid": "0x7953b4bccf1fe3d3:0x25c3169982009933",
+            "placeId": "ChIJ0-Mfz7y0U3kRM5kAgpkWwyU"
+        },
+        {
+            "position": 14,
+            "title": "Kaiser Permanente Koolau Medical Office",
+            "address": "45-602 Kamehameha Hwy, Kaneohe, HI 96744",
+            "latitude": 21.4009867,
+            "longitude": -157.8003933,
+            "rating": 4.6,
+            "ratingCount": 20,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Koolau-Medical-Office-100438",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPHwOA3DH-obpjdguVTe4zGPGxHcKufRnrNCu9",
+            "cid": "4223712348045790189",
+            "fid": "0x7c006b059d1f346d:0x3a9da4009ab34bed",
+            "placeId": "ChIJbTQfnQVrAHwR7UuzmgCknTo"
+        },
+        {
+            "position": 15,
+            "title": "Kaiser Permanente West Los Angeles Medical Center",
+            "address": "6041 Cadillac Ave, Los Angeles, CA 90034",
+            "latitude": 34.0386739,
+            "longitude": -118.37502389999999,
+            "rating": 4,
+            "ratingCount": 1024,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/West-Los-Angeles-Medical-Center-100028",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwtmF24pgJZl_awY1NbEoBZ6yMkfC8eZUX2wY1",
+            "cid": "10198550299852649438",
+            "fid": "0x80c2b9769bb89d8d:0x8d888776a6abb3de",
+            "placeId": "ChIJjZ24m3a5woAR3rOrpnaHiI0"
+        },
+        {
+            "position": 16,
+            "title": "Kaiser Permanente San Leandro Medical Center",
+            "address": "2500 Merced St, San Leandro, CA 94577",
+            "latitude": 37.7064867,
+            "longitude": -122.1647052,
+            "rating": 4.1,
+            "ratingCount": 1066,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Leandro-Medical-Center-301981",
+            "phoneNumber": "(510) 454-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbsR8iPUnaG-PcIJAeVMQUTd73svJ1htK8Z3rm",
+            "cid": "1681622545220279126",
+            "fid": "0x808f8ffaa299a0bd:0x175652cb96249b56",
+            "placeId": "ChIJvaCZovqPj4ARVpsklstSVhc"
+        },
+        {
+            "position": 17,
+            "title": "Kaiser Permanente Hawaii Kai Clinic",
+            "address": "6700 Kalaniana\u02bbole Hwy # 111, Honolulu, HI 96825",
+            "latitude": 21.2825009,
+            "longitude": -157.7131183,
+            "rating": 4.2,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Hawaii-Kai-Clinic-100448",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnCqjurbeRMmzY5q-l_gKm8U5envbYdGQlwm9D",
+            "cid": "11641387375077655085",
+            "fid": "0x7c001261c46e4877:0xa18e84239038822d",
+            "placeId": "ChIJd0huxGESAHwRLYI4kCOEjqE"
+        },
+        {
+            "position": 18,
+            "title": "Kaiser Permanente Kailua Clinic",
+            "address": "201 Hamakua Dr B, Kailua, HI 96734",
+            "latitude": 21.3903191,
+            "longitude": -157.7406921,
+            "rating": 4.5,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Kailua-Clinic-100442",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNLw_1v14st3G6iuJib-WT8cvTu2M33f5CuEqih",
+            "cid": "11598421982558206395",
+            "fid": "0x7c0014c2e22f7b49:0xa0f5df579176b9bb",
+            "placeId": "ChIJSXsv4sIUAHwRu7l2kVff9aA"
+        },
+        {
+            "position": 19,
+            "title": "Kaiser Permanente Behavioral Health Services - Ala Moana",
+            "address": "1441 Kapiolani Blvd # 1600, Honolulu, HI 96814",
+            "latitude": 21.291297999999998,
+            "longitude": -157.8433791,
+            "rating": 2.8,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Behavioral-Health-Services-Ala-Moana-100444",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2gSV8ONFf8M3cCsc2wST1JH2CeAwALeqcXOTh",
+            "cid": "3064818048409942666",
+            "fid": "0x7c006df02649f951:0x2a886bc6e4ae3a8a",
+            "placeId": "ChIJUflJJvBtAHwRijqu5MZriCo"
+        },
+        {
+            "position": 20,
+            "title": "Kaiser Permanente Vacaville Medical Center",
+            "address": "1 Quality Dr, Vacaville, CA 95688",
+            "latitude": 38.3878346,
+            "longitude": -121.93806719999999,
+            "rating": 4.3,
+            "ratingCount": 938,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/northern-california/facilities/Vacaville-Medical-Center-100315",
+            "phoneNumber": "(707) 624-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwZxWuFWABpGkSmEHYOl4aGRgRjY1p5Z0kdG9W",
+            "cid": "5546128188966847281",
+            "fid": "0x80852324f24b603f:0x4cf7ce3406264331",
+            "placeId": "ChIJP2BL8iQjhYARMUMmBjTO90w"
+        }
+    ],
+    "credits": 3
+}

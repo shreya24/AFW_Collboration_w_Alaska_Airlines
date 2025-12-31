@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Saint Alphonsus Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.605381,-116.3865612,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Saint Alphonsus Regional Medical Center",
+            "address": "1055 N Curtis Rd, Boise, ID 83706",
+            "latitude": 43.6131539,
+            "longitude": -116.25555689999999,
+            "rating": 3.1,
+            "ratingCount": 694,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.saintalphonsus.org/location/saint-alphonsus-regional-medical-center?utm_source=gmb&utm_medium=organic&utm_campaign=gmb&utm_content=main_link",
+            "phoneNumber": "(208) 367-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmWfCz04pGHoo_Cerjy0QR3xuzYLSXHNZDT2WG",
+            "cid": "7731701551488457628",
+            "fid": "0x54ae56ef01c0a717:0x6b4c8598c5ce5b9c",
+            "placeId": "ChIJF6fAAe9WrlQRnFvOxZiFTGs"
+        },
+        {
+            "position": 2,
+            "title": "Saint Alphonsus Regional Medical Center Emergency Department",
+            "address": "1055 N Curtis Rd, Boise, ID 83706",
+            "latitude": 43.613291499999995,
+            "longitude": -116.2558421,
+            "rating": 4.1,
+            "ratingCount": 1437,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service",
+                "Hospital department"
+            ],
+            "website": "https://www.saintalphonsus.org/location/saint-alphonsus-boise-emergency-department?utm_source=gmb&utm_medium=organic&utm_campaign=gmb&utm_content=main_link",
+            "phoneNumber": "(208) 367-3221",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-pZxQFH0_dTnEsOpdG1eu8dLzuPqYXtYaaSMg7S5i_E0Xq9S60N9yXrjq414YqIVTeKvhdB96ZXCP9xWiZvejmvMn_GboRRYuKSyZXJDBf_VqChGGwmZY1k1anA1pxPrmOEvQ",
+            "cid": "9061220917761837472",
+            "fid": "0x54ae561e49ed2065:0x7dbfec6a928889a0",
+            "placeId": "ChIJZSDtSR5WrlQRoImIkmrsv30"
+        },
+        {
+            "position": 3,
+            "title": "Saint Alphonsus Medical Center",
+            "address": "4400 E Flamingo Ave, Nampa, ID 83687",
+            "latitude": 43.5974706,
+            "longitude": -116.51756549999999,
+            "rating": 2.8,
+            "ratingCount": 277,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency care service",
+                "Home health care service",
+                "Hospital"
+            ],
+            "website": "https://www.saintalphonsus.org/location/saint-alphonsus-nampa-i84-garrity-emergency-department",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP79pgfuyQlvtR6HZjcVkFj9TeDrvhMi01y6HA_",
+            "cid": "7035725876192932298",
+            "fid": "0x54ae4bfc4e38a085:0x61a3eb685380f1ca",
+            "placeId": "ChIJhaA4TvxLrlQRyvGAU2jro2E"
+        }
+    ],
+    "credits": 3
+}

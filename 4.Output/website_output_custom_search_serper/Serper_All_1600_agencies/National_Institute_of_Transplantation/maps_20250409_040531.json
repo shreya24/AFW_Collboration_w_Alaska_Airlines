@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "National Institute of Transplantation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1597719,-118.3303966,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mendez National Institute of Transplantation Foundation",
+            "address": "2600 W Olive Ave Suite 500, Burbank, CA 91505",
+            "latitude": 34.159771899999996,
+            "longitude": -118.3303966,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://mnitf.org/",
+            "phoneNumber": "(424) 358-4450",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKvI52u_E5ydUwK4fa_FcHv5K6A3uADWg0kVV9",
+            "cid": "1593623317851848402",
+            "fid": "0x80c2c70b18fc5e7b:0x161daff6d656bed2",
+            "placeId": "ChIJe178GAvHwoAR0r5W1vavHRY"
+        }
+    ],
+    "credits": 3
+}

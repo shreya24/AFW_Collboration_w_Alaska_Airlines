@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "SEARHC - Southeast Alaska Regional Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.0529774,-135.3572391,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southeast Alaska Regional Health Consortium SEARHC/Mt. Edgecumbe Medical Center",
+            "address": "222 Tongass Dr, Sitka, AK 99835",
+            "latitude": 57.0515542,
+            "longitude": -135.3552157,
+            "rating": 3.1,
+            "ratingCount": 17,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Addiction treatment center",
+                "Dentist",
+                "Family practice physician",
+                "Hospital",
+                "Physical therapy clinic"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 966-2411",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNr9hp99CF4RYYR8fnTyXzpx4oPMZFfDciNkR6d",
+            "cid": "3645266638594733978",
+            "fid": "0x540467af2bd47073:0x329696b1c105779a",
+            "placeId": "ChIJc3DUK69nBFQRmncFwbGWljI"
+        },
+        {
+            "position": 2,
+            "title": "SouthEast Alaska Regional Health Consortium",
+            "address": "1212 Seward Ave #212, Sitka, AK 99835",
+            "latitude": 57.0544005,
+            "longitude": -135.3592626,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office",
+                "Medical Center"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 966-8710",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2_X1aXxBgB1keg_gWTM23Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=343.48508&pitch=0&thumbfov=100",
+            "cid": "12895294078739254372",
+            "fid": "0x540467aebfdfd30d:0xb2f549a475738c64",
+            "placeId": "ChIJDdPfv65nBFQRZIxzdaRJ9bI"
+        }
+    ],
+    "credits": 3
+}

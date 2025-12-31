@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "UCSF Cancer Center Colorectal Surgical Program UCSF Mission Bay Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7664196,-122.3902655,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Center for Colorectal Surgery",
+            "address": "1825 4th St Fourth Floor, San Francisco, CA 94158",
+            "latitude": 37.7664196,
+            "longitude": -122.3902655,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Gastroenterologist"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/center-for-colorectal-surgery",
+            "phoneNumber": "(415) 885-3606",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.ucsfhealth.org/colorectal-surgery/?_gl=1*3ow8hj*_ga*NTMwMzMxODMxLjE2Mjc1MTA0Nzk.*_ga_6342EFQ19Y*MTY1MDQ5MDc1My41OC4xLjE2NTA0OTIxODcuMA.."
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_tRhhwYMnhYW0mAI60ldXvXa_2q9hXD-qgAJY",
+            "cid": "13477582959015772084",
+            "fid": "0x808580b6033b2fe5:0xbb09fe4b3efe3fb4",
+            "placeId": "ChIJ5S87A7aAhYARtD_-Pkv-Cbs"
+        }
+    ],
+    "credits": 3
+}

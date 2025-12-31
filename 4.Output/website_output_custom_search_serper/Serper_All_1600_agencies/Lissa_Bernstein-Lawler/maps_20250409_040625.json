@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "Lissa Bernstein-Lawler",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8693557,-122.5068563,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rechtin Lissa MD",
+            "address": "4141 Geary Blvd # 3, San Francisco, CA 94118",
+            "latitude": 37.7807536,
+            "longitude": -122.4636195,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(415) 833-2202",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gfcrVBKLIsjQLq4aCMlHdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=167.87009&pitch=0&thumbfov=100",
+            "cid": "16723927342811252240",
+            "fid": "0x808587392d4acc6b:0xe817534fa5b50610",
+            "placeId": "ChIJa8xKLTmHhYAREAa1pU9TF-g"
+        },
+        {
+            "position": 2,
+            "title": "Lisa Elvin, NP",
+            "address": "2 Bon Air Rd #120, Larkspur, CA 94939",
+            "latitude": 37.9434085,
+            "longitude": -122.53924079999999,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "website": "https://www.mymarinhealth.org/find-a-provider/lisa-elvin-rn-msn-anp-c/",
+            "phoneNumber": "(415) 925-8200",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kKbUXg-yWuopfTpAQ2l_zw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=122.71187&pitch=0&thumbfov=100",
+            "cid": "14309955461782547896",
+            "fid": "0x8085909fbdfae68f:0xc6972cacd335adb8",
+            "placeId": "ChIJj-b6vZ-QhYARuK0106wsl8Y"
+        },
+        {
+            "position": 3,
+            "title": "Lisa Leavitt, MD",
+            "address": "250 Bon Air Rd, Greenbrae, CA 94904",
+            "latitude": 37.9473152,
+            "longitude": -122.53603059999999,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://marinclinic.org/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3lichJETlKlELUSPWOKu6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=100.21123&pitch=0&thumbfov=100",
+            "cid": "5829588230063305617",
+            "fid": "0x80859a0a7c77ba6d:0x50e6db9bd7b8b391",
+            "placeId": "ChIJbbp3fAqahYARkbO415vb5lA"
+        },
+        {
+            "position": 4,
+            "title": "Chastain Lorbe Katherine L MD",
+            "address": "1044 Sir Francis Drake Blvd #3, Kentfield, CA 94904",
+            "latitude": 37.957957799999996,
+            "longitude": -122.5500931,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(415) 454-2466",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4LK9e61yvo-h0eW6mtQCAg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=41.034428&pitch=0&thumbfov=100",
+            "cid": "12678015212421145002",
+            "fid": "0x808590b2f4f50949:0xaff15baa295c61aa",
+            "placeId": "ChIJSQn19LKQhYARqmFcKapb8a8"
+        }
+    ],
+    "credits": 3
+}

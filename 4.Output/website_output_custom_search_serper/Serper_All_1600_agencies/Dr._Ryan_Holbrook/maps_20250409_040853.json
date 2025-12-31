@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Dr. Ryan Holbrook",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.1856002,-88.427766,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Ryan M. Holbrook, DDS LLC",
+            "address": "1504 N Church Rd suite a, Liberty, MO 64068",
+            "latitude": 39.268277,
+            "longitude": -94.444634,
+            "rating": 4.7,
+            "ratingCount": 54,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist"
+            ],
+            "website": "http://www.libertydentist.com/",
+            "phoneNumber": "(816) 792-4649",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOiiGgdd8LxZEoG11Jnzsnd7Z-sVzlorQZn_AHB",
+            "cid": "181251208424357502",
+            "fid": "0x87c055af4633dc0b:0x283ef03853e7e7e",
+            "placeId": "ChIJC9wzRq9VwIcRfn4-hQPvgwI"
+        },
+        {
+            "position": 2,
+            "title": "Ryan S. Holbrook, DMD",
+            "address": "200 Capri Isles Blvd Ste 1A, Venice, FL 34292",
+            "latitude": 27.102923399999998,
+            "longitude": -82.410898,
+            "rating": 5,
+            "ratingCount": 11,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Dental implants provider"
+            ],
+            "website": "https://www.venicecomprehensivedentistry.com/doctors/dr-holbrook",
+            "phoneNumber": "(941) 484-3885",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMzI2XdmHcyYb5VbHWFIU_Q4cqjFhO2yXUrtyPX",
+            "cid": "10932533936924189908",
+            "fid": "0x88c35a5df0255555:0x97b829b14d44e4d4",
+            "placeId": "ChIJVVUl8F1aw4gR1ORETbEpuJc"
+        }
+    ],
+    "credits": 3
+}

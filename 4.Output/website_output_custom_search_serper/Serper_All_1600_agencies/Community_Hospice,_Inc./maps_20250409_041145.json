@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Community Hospice, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7026383,-120.9978163,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Hospice, Inc.",
+            "address": "4368 Spyres Way, Modesto, CA 95350",
+            "latitude": 37.7026383,
+            "longitude": -120.9978163,
+            "rating": 3.9,
+            "ratingCount": 15,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Counselor",
+                "Non-profit organization",
+                "Social worker"
+            ],
+            "website": "http://hospiceheart.org/",
+            "phoneNumber": "(209) 578-6300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tluhF78dkTsmCQIyNq0rSw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=52.296032&pitch=0&thumbfov=100",
+            "cid": "3919148579032818284",
+            "fid": "0x809050d76c95ec63:0x36639cde3b3a626c",
+            "placeId": "ChIJY-yVbNdQkIARbGI6O96cYzY"
+        }
+    ],
+    "credits": 3
+}

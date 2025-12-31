@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Center For Physical Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.9536345,-83.5766336,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Center For Physical Health",
+            "address": "2201 W Schaumburg Rd, Schaumburg, IL 60194",
+            "latitude": 42.024879999999996,
+            "longitude": -88.13488799999999,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic",
+                "Chiropractor"
+            ],
+            "website": "http://drcliffordkearnsblog.com/",
+            "phoneNumber": "(847) 301-8585",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20131\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20131\u202fPM",
+                "Friday": "8:30\u202fAM\u20137\u202fPM",
+                "Saturday": "8:30\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvZEMJQBV8HIAS85-Q0u8Q4snM7V4X6yy0o_bV",
+            "cid": "1263480743140669205",
+            "fid": "0x880fa8533fd0752d:0x1188c90aab723715",
+            "placeId": "ChIJLXXQP1OoD4gRFTdyqwrJiBE"
+        },
+        {
+            "position": 2,
+            "title": "CP Health | The Centre for Physical Health - Physiotherapy Ajax",
+            "address": "300 Rossland Rd E Suite 308, Ajax, ON L1Z 0M1, Canada",
+            "latitude": 43.882388999999996,
+            "longitude": -79.0183792,
+            "rating": 4.9,
+            "ratingCount": 54,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic"
+            ],
+            "website": "https://cphealth.ca/",
+            "phoneNumber": "+1 905-239-5001",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXfhB-MpjXTyEDDR2-8GAQdNJE_OeWXC0CRsbk",
+            "cid": "10052326634390848933",
+            "fid": "0x89d51fee6889020f:0x8b8109d0811085a5",
+            "placeId": "ChIJDwKJaO4f1YkRpYUQgdAJgYs"
+        }
+    ],
+    "credits": 3
+}

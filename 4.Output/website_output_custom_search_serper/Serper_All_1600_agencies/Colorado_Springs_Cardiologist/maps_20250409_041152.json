@@ -1,0 +1,515 @@
+{
+    "searchParameters": {
+        "q": "Colorado Springs Cardiologist",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9034399,-104.767631,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colorado Springs Cardiology",
+            "address": "7435 Sisters Grove suite 100, Colorado Springs, CO 80923",
+            "latitude": 38.9389287,
+            "longitude": -104.7128681,
+            "rating": 4.9,
+            "ratingCount": 496,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Cardiovascular and thoracic surgeon",
+                "Heart hospital"
+            ],
+            "website": "https://coscardiology.com/",
+            "phoneNumber": "(719) 960-0363",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0OL7hajlgRL1jKkKo0-NvBkw9OZlUQPy4RDZG",
+            "cid": "3783228208755976867",
+            "fid": "0x871349ec2e275e77:0x3480ba02ef232aa3",
+            "placeId": "ChIJd14nLuxJE4cRoyoj7wK6gDQ"
+        },
+        {
+            "position": 2,
+            "title": "Colorado Springs Cardiology",
+            "address": "1625 Medical Center Point #200, Colorado Springs, CO 80907",
+            "latitude": 38.8742502,
+            "longitude": -104.7962683,
+            "rating": 4.6,
+            "ratingCount": 5,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://coscardiology.com/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rbzRB-8IYLnMfc3jVU0XUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=143.47409&pitch=0&thumbfov=100",
+            "cid": "2238728294280106174",
+            "fid": "0x87134f0049a11d15:0x1f118f85b92e90be",
+            "placeId": "ChIJFR2hSQBPE4cRvpAuuYWPER8"
+        },
+        {
+            "position": 3,
+            "title": "CommonSpirit Structural Heart Penrose",
+            "address": "2222 N Nevada Ave SUITE 4001, Colorado Springs, CO 80907",
+            "latitude": 38.8656638,
+            "longitude": -104.8215149,
+            "rating": 4.7,
+            "ratingCount": 437,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/penrose-hospital/heart-vascular-center",
+            "phoneNumber": "(719) 776-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.cscardiologists.com/patients/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiclLP2DTRYlFRFYOGvQd3drJWz6I0yXmd2Xt5",
+            "cid": "7417217649071395740",
+            "fid": "0x87134f8aa8f9547d:0x66ef40275aa8939c",
+            "placeId": "ChIJfVT5qIpPE4cRnJOoWidA72Y"
+        },
+        {
+            "position": 4,
+            "title": "UCHealth Heart Clinic - Memorial Hospital Central",
+            "address": "1400 E Boulder St #700, Colorado Springs, CO 80909",
+            "latitude": 38.8394455,
+            "longitude": -104.7995905,
+            "rating": 4.1,
+            "ratingCount": 36,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-cardiology-memorial-hospital-central/",
+            "phoneNumber": "(719) 365-7172",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZjMae7hvGBXmPkUL8BslLvJPvrK_Jp_tvObzS",
+            "cid": "13669157252766927786",
+            "fid": "0x8713450819f38d37:0xbdb29a195e208baa",
+            "placeId": "ChIJN43zGQhFE4cRqosgXhmasr0"
+        },
+        {
+            "position": 5,
+            "title": "Kimberly Dulaney, MD - Cardiovascular Disease",
+            "address": "6011 E Woodmen Rd #345, Colorado Springs, CO 80923",
+            "latitude": 38.9380579,
+            "longitude": -104.717174,
+            "rating": 5,
+            "ratingCount": 53,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "phoneNumber": "(719) 960-0363",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPU16rXFyEnaTzBd1EzvmiNodFsDZxy8w9XF_wm",
+            "cid": "17302154822430076945",
+            "fid": "0x871345ed1fd226c7:0xf01d9a23e7c1b011",
+            "placeId": "ChIJxybSH-1FE4cREbDB5yOaHfA"
+        },
+        {
+            "position": 6,
+            "title": "Peter Kriekard, MD - Cardiovascular Disease",
+            "address": "6011 E Woodmen Rd #345, Colorado Springs, CO 80923",
+            "latitude": 38.9381876,
+            "longitude": -104.7135697,
+            "rating": 4.9,
+            "ratingCount": 73,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Internist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/peter-kriekard-md?utm_source=yext&utm_medium=organic&utm_campaign=provider&term=1912172735&utm_content=providers_landing_page",
+            "phoneNumber": "(719) 571-8600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aUgczMlLByrBnD6YArussQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.85876&pitch=0&thumbfov=100",
+            "cid": "358246795626942770",
+            "fid": "0x8713498c2af24c77:0x4f8bf9003441132",
+            "placeId": "ChIJd0zyKoxJE4cRMhFEA5C_-AQ"
+        },
+        {
+            "position": 7,
+            "title": "Colorado Springs Cardiologists: Sherry Paul D MD",
+            "address": "6011 E Woodmen Rd # 105, Colorado Springs, CO 80923",
+            "latitude": 38.938060899999996,
+            "longitude": -104.71670549999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "http://www.cscardiologists.com/",
+            "phoneNumber": "(719) 776-8500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XhdnlOlKR19rsDewCzZZrw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.3061&pitch=0&thumbfov=100",
+            "cid": "16355301774245821668",
+            "fid": "0x8713490d8fd19dc9:0xe2f9b44f403cfce4",
+            "placeId": "ChIJyZ3Rjw1JE4cR5Pw8QE-0-eI"
+        },
+        {
+            "position": 8,
+            "title": "Colorado Springs Cardiology, A CommonSpirit Health Clinic St Francis",
+            "address": "6011 E Woodmen Rd #120, Colorado Springs, CO 80923",
+            "latitude": 38.938283299999995,
+            "longitude": -104.717568,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/colorado-springs-cardiology-commonspirit-health-clinic-0?utm_source=yext&utm_medium=organic&utm_campaign=location&utm_term=102390006&utm_content=facilities_landing_page",
+            "phoneNumber": "(719) 571-8600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=akzCTH0RpE1P4NFvz9VZhQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=319.96976&pitch=0&thumbfov=100",
+            "cid": "6703973276517676717",
+            "fid": "0x871349cd72ede85b:0x5d094c2d028c36ad",
+            "placeId": "ChIJW-jtcs1JE4cRrTaMAi1MCV0"
+        },
+        {
+            "position": 9,
+            "title": "Clinton Malone, MD - Cardiology, Interventional",
+            "address": "2222 N Nevada Ave Ste 4007, Colorado Springs, CO 80907",
+            "latitude": 38.8658137,
+            "longitude": -104.8223939,
+            "rating": 4.9,
+            "ratingCount": 51,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "phoneNumber": "(719) 776-8500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zHAk0njxuBtHJRtHloC8PA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=325.55325&pitch=0&thumbfov=100",
+            "cid": "128676477173903308",
+            "fid": "0x8713456008ad1b75:0x1c9269300e62fcc",
+            "placeId": "ChIJdRutCGBFE4cRzC_mAJMmyQE"
+        },
+        {
+            "position": 10,
+            "title": "Suresh Sharma, MD - Cardiology, Interventional",
+            "address": "6011 E Woodmen Rd #345, Colorado Springs, CO 80923",
+            "latitude": 38.9380579,
+            "longitude": -104.717174,
+            "rating": 5,
+            "ratingCount": 85,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "phoneNumber": "(719) 776-8500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PGxD8SmWgZImulTaZsJOfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=244.84982&pitch=0&thumbfov=100",
+            "cid": "9712965505398116706",
+            "fid": "0x871349c1a09b5acf:0x86cb62aa68e09162",
+            "placeId": "ChIJz1qboMFJE4cRYpHgaKpiy4Y"
+        },
+        {
+            "position": 11,
+            "title": "Preetham Reddy, MD - Cardiovascular Disease",
+            "address": "2222 N Nevada Ave Ste 4007, Colorado Springs, CO 80907",
+            "latitude": 38.8658137,
+            "longitude": -104.8223939,
+            "rating": 5,
+            "ratingCount": 38,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Internist"
+            ],
+            "phoneNumber": "(719) 776-8500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RM78Ns7ssbvxmVUFFbixJQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=315.98892&pitch=0&thumbfov=100",
+            "cid": "4932148267058697385",
+            "fid": "0x87134560061987d3:0x447282b79d9794a9",
+            "placeId": "ChIJ04cZBmBFE4cRqZSXnbeCckQ"
+        },
+        {
+            "position": 12,
+            "title": "Mountain Sky Cardiology: Wickline Cindy L MD",
+            "address": "1849 Austin Bluffs Pkwy #100, Colorado Springs, CO 80918",
+            "latitude": 38.8877738,
+            "longitude": -104.79343,
+            "rating": 4,
+            "ratingCount": 12,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "http://www.mountainskymd.com/",
+            "phoneNumber": "(719) 344-5651",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORFX1E2cRqoqHm5TJOycz8E4R2ifO8kvSxYtPo",
+            "cid": "5018932070228061006",
+            "fid": "0x87134f74837ed7a5:0x45a6d4205dc26b4e",
+            "placeId": "ChIJpdd-g3RPE4cRTmvCXSDUpkU"
+        },
+        {
+            "position": 13,
+            "title": "UCHealth - Bradley Mikaelian MD",
+            "address": "1400 E Boulder St #700, Colorado Springs, CO 80909",
+            "latitude": 38.8394455,
+            "longitude": -104.7995905,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.uchealth.org/provider/bradley-j-mikaelian-md-clinical-cardiac-electrophysiology/",
+            "phoneNumber": "(719) 365-7172",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyStxVk2-LI06SNIew8jdQ-ck8je9EubDg_TzY",
+            "cid": "12824867240018145197",
+            "fid": "0x8713450813ead405:0xb1fb14ce44d36fad",
+            "placeId": "ChIJBdTqEwhFE4cRrW_TRM4U-7E"
+        },
+        {
+            "position": 14,
+            "title": "UCHealth Heart Clinic - Memorial Hospital North",
+            "address": "Medical Office Building One, 4110 Briargate Pkwy #400, Colorado Springs, CO 80920",
+            "latitude": 38.967434399999995,
+            "longitude": -104.7527559,
+            "rating": 4.2,
+            "ratingCount": 15,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-cardiology-memorial-hospital-north/",
+            "phoneNumber": "(719) 364-6550",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAfdzj5LNtbBVaDmhrxxWJs8_06XZzrVHL7-0",
+            "cid": "7028857202008721941",
+            "fid": "0x8713492f44f4640b:0x618b84627ead0a15",
+            "placeId": "ChIJC2T0RC9JE4cRFQqtfmKEi2E"
+        },
+        {
+            "position": 15,
+            "title": "UCHealth Memorial Hospital Central",
+            "address": "1400 E Boulder St, Colorado Springs, CO 80909",
+            "latitude": 38.8397642,
+            "longitude": -104.7994092,
+            "rating": 2.7,
+            "ratingCount": 983,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-central/",
+            "phoneNumber": "(719) 365-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORxEY3OVprYkrKu4n8Si8dye4dqHMB9YX-zTX-",
+            "cid": "13025990946729059480",
+            "fid": "0x87134572ff53c32d:0xb4c59dc05b3d6498",
+            "placeId": "ChIJLcNT_3JFE4cRmGQ9W8CdxbQ"
+        },
+        {
+            "position": 16,
+            "title": "Schooley Chad C MD",
+            "address": "1625 Medical Center Point, Colorado Springs, CO 80907",
+            "latitude": 38.8742291,
+            "longitude": -104.7961268,
+            "rating": 4.8,
+            "ratingCount": 68,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "http://coscardiology.com/",
+            "phoneNumber": "(719) 960-0363",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMWxxsxd-PSohjsJpdkFNuW_K8uuAy0zGmiom2d",
+            "cid": "205038951167408245",
+            "fid": "0x87134f8aa8f9547d:0x2d871d6f973b875",
+            "placeId": "ChIJfVT5qIpPE4cRdbhz-dZx2AI"
+        },
+        {
+            "position": 17,
+            "title": "Christopher Cole, MD - Cardiac Electrophysiology",
+            "address": "2222 N Nevada Ave Ste 4007, Colorado Springs, CO 80907",
+            "latitude": 38.8658137,
+            "longitude": -104.8223939,
+            "rating": 4.9,
+            "ratingCount": 41,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/christopher-cole-md?utm_source=yext&utm_medium=organic&utm_campaign=provider&term=1457348468&utm_content=providers_landing_page",
+            "phoneNumber": "(719) 776-8500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zHAk0njxuBtHJRtHloC8PA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=325.55325&pitch=0&thumbfov=100",
+            "cid": "12187976948604398397",
+            "fid": "0x87134f8aa8f9547d:0xa9246475c836eb3d",
+            "placeId": "ChIJfVT5qIpPE4cRPes2yHVkJKk"
+        },
+        {
+            "position": 18,
+            "title": "Harshal Patil, MD - Cardiology, Interventional",
+            "address": "7435 Sisters Grove suite 100, Colorado Springs, CO 80923",
+            "latitude": 38.9389287,
+            "longitude": -104.7128681,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Internist"
+            ],
+            "website": "http://www.mountain.commonspirit.org/provider-search/harshal-patil-md?utm_source=yext&utm_medium=organic&utm_campaign=provider&term=1255597829&utm_content=providers_landing_page",
+            "phoneNumber": "(719) 285-2149",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MpMji3mR1Ht12B3GgUYkwQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=18.215229&pitch=0&thumbfov=100",
+            "cid": "5521683646928443165",
+            "fid": "0x871349fc1f567643:0x4ca0f6059140d71d",
+            "placeId": "ChIJQ3ZWH_xJE4cRHddAkQX2oEw"
+        },
+        {
+            "position": 19,
+            "title": "UCHealth - Joseph Lee MD",
+            "address": "1400 E Boulder St #700, Colorado Springs, CO 80909",
+            "latitude": 38.8394455,
+            "longitude": -104.7995905,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.uchealth.org/provider/joseph-r-lee-md-cardiology/",
+            "phoneNumber": "(719) 365-7172",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5IpyzLI8MQx3Plbu4hpS160fzZxlEESc4Y0F9",
+            "cid": "3014043718700853113",
+            "fid": "0x8713450813ead405:0x29d408cb06a96779",
+            "placeId": "ChIJBdTqEwhFE4cReWepBssI1Ck"
+        },
+        {
+            "position": 20,
+            "title": "Sunil Nath, MD - Cardiac Electrophysiology",
+            "address": "6011 E Woodmen Rd #345, Colorado Springs, CO 80923",
+            "latitude": 38.9380579,
+            "longitude": -104.717174,
+            "rating": 4.9,
+            "ratingCount": 32,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/sunil-nath-md?utm_source=yext&utm_medium=organic&utm_campaign=provider&term=1811984776&utm_content=providers_landing_page",
+            "phoneNumber": "(719) 285-2149",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=akzCTH0RpE1P4NFvz9VZhQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=326.28653&pitch=0&thumbfov=100",
+            "cid": "12024052518498458368",
+            "fid": "0x871349127f4a7d7f:0xa6de040f35bddb00",
+            "placeId": "ChIJf31KfxJJE4cRANu9NQ8E3qY"
+        }
+    ],
+    "credits": 3
+}

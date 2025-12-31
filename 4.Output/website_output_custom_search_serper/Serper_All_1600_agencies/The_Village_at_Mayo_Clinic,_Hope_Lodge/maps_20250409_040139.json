@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "The Village at Mayo Clinic, Hope Lodge",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8396995,-102.2115345,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Cancer Society Hope Lodge",
+            "address": "411 2nd St NW, Rochester, MN 55901",
+            "latitude": 44.0255447,
+            "longitude": -92.4690639,
+            "rating": 4.7,
+            "ratingCount": 85,
+            "type": "Volunteer organization",
+            "types": [
+                "Volunteer organization"
+            ],
+            "website": "https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/rochester-mn.html?_gl=1*14iqpo6*_ga*MTYxODE1MjU4LjE3MTIxMDQ0Njk.*_ga_12CJLLFFQT*MTcxMjEwNDQ5Ny4xLjEuMTcxMjEwNDQ5Ny4wLjAuMA..*_ga_6LQQS9SG7K*MTcxMjEwNDQ5Ny4xLjEuMTcxMjEwNDQ5Ny4wLjAuMA..*_ga_CYE4LBPKXN*MTcxMjEwNDQ5Ny4xLjEuMTcxMjEwNDQ5Ny4wLjAuMA..",
+            "phoneNumber": "(507) 529-4673",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8VouUKTO9Q4fHT2I_t9kkOKK8Dnmy0xfMFxcNngqgIyOkHpfn1yCCXTqRIu0GWbzE_pYj-Nv8m30ExFydUSfGo3-9bCVY0X8zKDhxS0FkCm9ZDnlVE3WusK7zuoY0dFAlarycA",
+            "cid": "4571166320073917658",
+            "fid": "0x87f75f7a1512908d:0x3f700b8c8d3c44da",
+            "placeId": "ChIJjZASFXpf94cR2kQ8jYwLcD8"
+        },
+        {
+            "position": 2,
+            "title": "American Cancer Society - North Phoenix Hope Lodge",
+            "address": "5811 E Mayo Blvd, Phoenix, AZ 85054",
+            "latitude": 33.6538543,
+            "longitude": -111.9540052,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "http://www.cancer.org/hopelodgenorthphoenix",
+            "phoneNumber": "(800) 227-2345",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8fPkFdTwrfEtDbLTHUWKjpYAh-FyAa-27kPgUEYCPC22WQLmo1Pbn_zPbDrnuO2BsscDMA1TOSAVt2II-KM_UN2AW8IuUhZ_ippVYy5BQIEpDYYyJGOxGE1q8KXVSDk-CCSz1Ctw",
+            "cid": "14393840761248504943",
+            "fid": "0x872b71d1c0a316cf:0xc7c131e917c15c6f",
+            "placeId": "ChIJzxajwNFxK4cRb1zBF-kxwcc"
+        }
+    ],
+    "credits": 3
+}

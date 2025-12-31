@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "New Mexico Cancer Care Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.3967663,-106.2998484,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nexus Health",
+            "address": "4200 Beckner Rd, Santa Fe, NM 87507",
+            "latitude": 35.619701,
+            "longitude": -106.0095429,
+            "rating": 2.7,
+            "ratingCount": 43,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hematologist"
+            ],
+            "website": "https://nexushealth-nm.com/our-location/",
+            "phoneNumber": "(505) 477-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfUF1yITwNwS8QT7uQwcLKLw8dWmGSJdQc4fD_",
+            "cid": "4767745799556911369",
+            "fid": "0x8718509614824e19:0x422a6f8b49f35109",
+            "placeId": "ChIJGU6CFJZQGIcRCVHzSYtvKkI"
+        },
+        {
+            "position": 2,
+            "title": "New Mexico Cancer Center",
+            "address": "4901 Lang Ave NE, Albuquerque, NM 87109",
+            "latitude": 35.1738316,
+            "longitude": -106.590154,
+            "rating": 3.7,
+            "ratingCount": 109,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical diagnostic imaging center",
+                "Pain control clinic",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Urologist"
+            ],
+            "website": "https://nmcancercenter.org/?utm_source=GMBSocialClimb&utm_medium=NewMexicoCancerCenter",
+            "phoneNumber": "(505) 842-8171",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "1\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://nmcancercenter.org/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZKB84QJSM8G9g-nvoLEZ-7gTVY9AoSDXDkohX",
+            "cid": "4664001070577954667",
+            "fid": "0x872274362066408d:0x40b9dc4343d72f6b",
+            "placeId": "ChIJjUBmIDZ0IocRay_XQ0PcuUA"
+        }
+    ],
+    "credits": 3
+}

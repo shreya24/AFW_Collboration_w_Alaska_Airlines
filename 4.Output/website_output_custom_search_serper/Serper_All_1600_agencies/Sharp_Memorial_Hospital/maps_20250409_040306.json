@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sharp Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.79819,-117.1534622,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sharp Memorial Hospital",
+            "address": "7901 Frost St, San Diego, CA 92123",
+            "latitude": 32.79819,
+            "longitude": -117.15346219999999,
+            "rating": 3.4,
+            "ratingCount": 468,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.sharp.com/locations/locations/hospitals/sharp-memorial?utm_source=google&utm_medium=organic&utm_campaign=yext&y_source=1_ODQ4MzM0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(858) 939-3400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUQLXu2VaL6XdaHDvFgwdwYCd7D5KyYcKYD9ik",
+            "cid": "8956622543900625397",
+            "fid": "0x80d9555f40070df1:0x7c4c50bfdc73c9f5",
+            "placeId": "ChIJ8Q0HQF9V2YAR9clz3L9QTHw"
+        }
+    ],
+    "credits": 3
+}

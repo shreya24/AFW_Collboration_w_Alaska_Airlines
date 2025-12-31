@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Roy M Matsuyama MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.8270993,-138.8545127,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Roy M. Matsuyama, MD",
+            "address": "173 Hoohana St Suite 104, Kahului, HI 96732",
+            "latitude": 20.887822099999998,
+            "longitude": -156.4635501,
+            "rating": 3.3,
+            "ratingCount": 14,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "phoneNumber": "(808) 871-7222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fw9bWtf-2WzAPCVXJOyIDA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=25.017828&pitch=0&thumbfov=100",
+            "cid": "8834848013948582205",
+            "fid": "0x7954d2dcd0bcfbd3:0x7a9baf75abf8793d",
+            "placeId": "ChIJ0_u80NzSVHkRPXn4q3Wvm3o"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Roy M. Matsuyama, MD",
+            "address": "6555 Coyle Ave # 330, Carmichael, CA 95608",
+            "latitude": 38.6685424,
+            "longitude": -121.31159149999999,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "phoneNumber": "(916) 965-9650",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wHnLDIEhWkL9I385oFE-XQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=11.549381&pitch=0&thumbfov=100",
+            "cid": "16559253768947355671",
+            "fid": "0x809adef9c924ab19:0xe5ce499173a7d017",
+            "placeId": "ChIJGaskyfnemoARF9Cnc5FJzuU"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Roy M. Matsuyama, MD",
+            "address": "4 Medical Plaza Dr # 205, Roseville, CA 95661",
+            "latitude": 38.7663764,
+            "longitude": -121.24547539999999,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "phoneNumber": "(916) 773-6200",
+            "cid": "3091428461031517479",
+            "fid": "0x809b1f9bdf34a743:0x2ae6f5ce6450ed27",
+            "placeId": "ChIJQ6c035sfm4ARJ-1QZM715io"
+        }
+    ],
+    "credits": 3
+}

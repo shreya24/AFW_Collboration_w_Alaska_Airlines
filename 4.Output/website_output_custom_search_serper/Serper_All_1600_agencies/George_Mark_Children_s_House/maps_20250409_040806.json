@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "George Mark Children's House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7084517,-122.1161844,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "George Mark Children's House",
+            "address": "2121 George Mark Ln, San Leandro, CA 94578",
+            "latitude": 37.7084517,
+            "longitude": -122.1161844,
+            "rating": 4.9,
+            "ratingCount": 18,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Children's home",
+                "Disability services and support organization",
+                "Hospice"
+            ],
+            "website": "http://www.georgemark.org/",
+            "phoneNumber": "(510) 346-4624",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzS93Kd7c3Tm5QTRBJYav7n7HN6ZOrTjRJdYmv",
+            "cid": "9888802511906677744",
+            "fid": "0x808f91d9bfa01fdf:0x893c157dd03023f0",
+            "placeId": "ChIJ3x-gv9mRj4AR8CMw0H0VPIk"
+        }
+    ],
+    "credits": 3
+}

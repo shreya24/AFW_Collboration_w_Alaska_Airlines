@@ -1,0 +1,25 @@
+{
+    "searchParameters": {
+        "q": "denver",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7642445,-104.8547524,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denver",
+            "address": "Colorado",
+            "latitude": 39.739235799999996,
+            "longitude": -104.990251,
+            "website": "http://www.denvergov.org/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlQID_M3ufhMoU_x9fSmJG317PaA5wwjeWmk6D",
+            "cid": "1265217891990124246",
+            "fid": "0x876b80aa231f17cf:0x118ef4f8278a36d6",
+            "placeId": "ChIJzxcfI6qAa4cR1jaKJ_j0jhE"
+        }
+    ],
+    "credits": 3
+}

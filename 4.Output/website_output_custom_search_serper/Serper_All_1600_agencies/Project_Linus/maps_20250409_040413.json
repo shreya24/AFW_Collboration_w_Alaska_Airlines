@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Project Linus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1340616,-106.5307606,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Project Linus",
+            "address": "4645 Pitt St NE, Albuquerque, NM 87111",
+            "latitude": 35.134061599999995,
+            "longitude": -106.5307606,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "http://www.projectlinusabq.org/About-Us.html",
+            "phoneNumber": "(505) 250-1967",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMyKWSLNNjyO1he9JNMMFODILUbCmz47VV4nMut",
+            "cid": "16708321428338732190",
+            "fid": "0x87189fe168c55555:0xe7dfe1d0892d6c9e",
+            "placeId": "ChIJVVXFaOGfGIcRnmwtidDh3-c"
+        }
+    ],
+    "credits": 3
+}

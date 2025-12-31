@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Survivor Outreach Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.6463535,-87.4412005,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ACS Survivor Outreach Services",
+            "address": "5001 Screaming Eagle Blvd, Fort Campbell, KY 42223",
+            "latitude": 36.6463535,
+            "longitude": -87.4412005,
+            "type": "Family service center",
+            "types": [
+                "Family service center"
+            ],
+            "website": "https://www.armymwr.com/programs-and-services/personal-assistance/survivor-outreach",
+            "phoneNumber": "(270) 798-0272",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "cid": "5730191315275832084",
+            "fid": "0x8865296ab9f26729:0x4f85baa4320b5b14",
+            "placeId": "ChIJKWfyuWopZYgRFFsLMqS6hU8"
+        }
+    ],
+    "credits": 3
+}

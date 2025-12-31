@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Okanogan Regional Home Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7079083,-119.4382177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Okanogan Regional Home",
+            "address": "17 Western Ave, Tonasket, WA 98855",
+            "latitude": 48.7079083,
+            "longitude": -119.4382177,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(509) 486-2876",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sdDGlL_6UkE3bEu1sIE4lA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=118.45134&pitch=0&thumbfov=100",
+            "cid": "15738968725868530976",
+            "fid": "0x549d29bb39f62319:0xda6c0caae4604d20",
+            "placeId": "ChIJGSP2ObspnVQRIE1g5KoMbNo"
+        }
+    ],
+    "credits": 3
+}

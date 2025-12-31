@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Cottage Children's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4299455,-119.7233787,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cottage Children's Medical Center",
+            "address": "400 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.429945499999995,
+            "longitude": -119.7233787,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Pediatrician"
+            ],
+            "website": "https://www.cottagehealth.org/childrens/",
+            "phoneNumber": "(805) 682-7111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAjv7ycDyoWm-o-z8rbcI6w8ce8VbjcW1SouUX",
+            "cid": "10184958916209788604",
+            "fid": "0x80e914ed894ee559:0x8d583e2c0ca1c6bc",
+            "placeId": "ChIJWeVOie0U6YARvMahDCw-WI0"
+        }
+    ],
+    "credits": 3
+}

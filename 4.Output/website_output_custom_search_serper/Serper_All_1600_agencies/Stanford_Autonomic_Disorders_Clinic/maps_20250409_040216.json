@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Stanford Autonomic Disorders Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4415723,-122.1693808,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Autonomic Disorders Program",
+            "address": "213 Quarry Rd, Palo Alto, CA 94304",
+            "latitude": 37.4415723,
+            "longitude": -122.1693808,
+            "rating": 2.2,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/autonomic-disorders-program.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6469",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuDWOrszRplB7qp6rpsrpcYRvp89AU9MxHHNaw",
+            "cid": "15179033493847068956",
+            "fid": "0x808fa4d28e80227f:0xd2a6c28a6a82d11c",
+            "placeId": "ChIJfyKAjtKkj4ARHNGCaorCptI"
+        }
+    ],
+    "credits": 3
+}

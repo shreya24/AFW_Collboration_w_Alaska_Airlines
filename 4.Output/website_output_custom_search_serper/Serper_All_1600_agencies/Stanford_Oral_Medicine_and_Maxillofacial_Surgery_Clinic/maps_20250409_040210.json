@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Stanford Oral Medicine and Maxillofacial Surgery Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.452274,-122.1864449,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Oral Medicine and Maxillofacial Surgery Clinic",
+            "address": "724 Oak Grove Ave, Menlo Park, CA 94025",
+            "latitude": 37.452273999999996,
+            "longitude": -122.1864449,
+            "rating": 2,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/oral-medicine-maxillofacial-surgery-clinic.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-7001",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSgXBsTOgdMDNaN3cy0BozqS7RXveW-1RreBKP",
+            "cid": "4036522174003904846",
+            "fid": "0x808fa4cdbf603d67:0x38049b87e57d814e",
+            "placeId": "ChIJZz1gv82kj4ARToF95YebBDg"
+        }
+    ],
+    "credits": 3
+}

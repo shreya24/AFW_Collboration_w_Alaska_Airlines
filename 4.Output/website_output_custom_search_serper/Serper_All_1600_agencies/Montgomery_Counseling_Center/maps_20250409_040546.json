@@ -1,0 +1,118 @@
+{
+    "searchParameters": {
+        "q": "Montgomery Counseling Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2410783,-96.862002,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montgomery County Counseling Center",
+            "address": "3206 Tower Oaks Blvd # 300, Rockville, MD 20852",
+            "latitude": 39.0593923,
+            "longitude": -77.1507183,
+            "rating": 4.6,
+            "ratingCount": 11,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://mccounselingcenter.com/",
+            "phoneNumber": "(240) 772-1199",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "7\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "http://mccounselingcenter.com/contact/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOecpWpyCq4FQetJMRkCmsJdUANlBQIy8CAkcuC",
+            "cid": "13617165081432457086",
+            "fid": "0x89b7cded65db9da9:0xbcf9e37ea6a27f7e",
+            "placeId": "ChIJqZ3bZe3Nt4kRfn-ipn7j-bw"
+        },
+        {
+            "position": 2,
+            "title": "Counseling Center of Montgomery County",
+            "address": "212 Conroe Dr, Conroe, TX 77301",
+            "latitude": 30.3229564,
+            "longitude": -95.4591952,
+            "rating": 1.8,
+            "ratingCount": 5,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Counselor"
+            ],
+            "website": "http://www.counselingcentermc.com/",
+            "phoneNumber": "(936) 760-1880",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKsyfo2wlV-JJX8j5aC8rggcLZNWl-Vo2t-Lq5",
+            "cid": "404039420415048509",
+            "fid": "0x86473eb52958102d:0x59b6fb65117fb3d",
+            "placeId": "ChIJLRBYKbU-R4YRPfsXUbZvmwU"
+        },
+        {
+            "position": 3,
+            "title": "Montgomery Counseling Service, PLLC",
+            "address": "1510 2nd Ave W #102, Williston, ND 58801",
+            "latitude": 48.1592002,
+            "longitude": -103.6252545,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Counselor",
+            "types": [
+                "Counselor"
+            ],
+            "website": "http://www.montgomerycounselingservice.com/",
+            "phoneNumber": "(701) 572-3800",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20137\u202fPM",
+                "Wednesday": "10\u202fAM\u20137\u202fPM",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "10\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20137\u202fPM",
+                "Monday": "10\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIclJJ4xz_We3SSGMjevaVjSI8CX-kMm3YxbLS",
+            "cid": "6885648430844252864",
+            "fid": "0x53215ca2b437b567:0x5f8ebcc420b292c0",
+            "placeId": "ChIJZ7U3tKJcIVMRwJKyIMS8jl8"
+        },
+        {
+            "position": 4,
+            "title": "Montgomery Counseling Center",
+            "address": "Nampa, ID 83686",
+            "latitude": 43.5657492,
+            "longitude": -116.5732857,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Counselor"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I8EYME4LlayoAI2TF2taOQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=354.51743&pitch=0&thumbfov=100",
+            "cid": "13531353659755930969",
+            "fid": "0x54ae4c09f895d02d:0xbbc906761bef2559",
+            "placeId": "ChIJLdCV-AlMrlQRWSXvG3YGybs"
+        }
+    ],
+    "credits": 3
+}

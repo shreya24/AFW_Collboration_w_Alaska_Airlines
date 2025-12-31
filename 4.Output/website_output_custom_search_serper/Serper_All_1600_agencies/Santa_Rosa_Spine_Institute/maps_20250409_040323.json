@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Santa Rosa Spine Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4430253,-122.7064905,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Santa Rosa Spine Institute",
+            "address": "76 Brookwood Ave, Santa Rosa, CA 95404",
+            "latitude": 38.443025299999995,
+            "longitude": -122.7064905,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(707) 523-2381",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nvrBEIR0CcoChA6sSHPGtg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=305.6495&pitch=0&thumbfov=100",
+            "cid": "11114218478660619594",
+            "fid": "0x808447e2d1e0dd81:0x9a3da2d218a60d4a",
+            "placeId": "ChIJgd3g0eJHhIARSg2mGNKiPZo"
+        }
+    ],
+    "credits": 3
+}

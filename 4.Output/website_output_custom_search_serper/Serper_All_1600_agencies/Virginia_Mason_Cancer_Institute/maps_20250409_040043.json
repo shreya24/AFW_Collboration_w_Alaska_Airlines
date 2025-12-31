@@ -1,0 +1,83 @@
+{
+    "searchParameters": {
+        "q": "Virginia Mason Cancer Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4550271,-122.3293789,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Institute - Virginia Mason Federal Way",
+            "address": "33501 1st Way S, Federal Way, WA 98003",
+            "latitude": 47.3005655,
+            "longitude": -122.3307899,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.vmfh.org/our-services/cancer-care",
+            "phoneNumber": "(253) 874-1658",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXJxQ9omBYxx7dTeIg3KDKe4RA3r1hn3Ue5zMK",
+            "cid": "13346041732560395613",
+            "fid": "0x549057af78d85375:0xb936aa3ed2cd1d5d",
+            "placeId": "ChIJdVPYeK9XkFQRXR3N0j6qNrk"
+        },
+        {
+            "position": 2,
+            "title": "Floyd & Delores Jones Cancer Institute at Virginia Mason",
+            "address": "Buck Pavilion, 1100 9th Ave Level 2, Seattle, WA 98101",
+            "latitude": 47.6094886,
+            "longitude": -122.327968,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.vmfh.org/our-services/cancer-care",
+            "phoneNumber": "(206) 223-6193",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZI1oc9Qx5GagN5Pk0kuLwSztO_dKTXbKwvNDL",
+            "cid": "10219921153769169757",
+            "fid": "0x54906ab60b4835ed:0x8dd4742452e9635d",
+            "placeId": "ChIJ7TVIC7ZqkFQRXWPpUiR01I0"
+        },
+        {
+            "position": 3,
+            "title": "Virginia Mason Cancer Institute",
+            "address": "Buck Pavilion, 1100 9th Ave Level 2, Seattle, WA 98101",
+            "latitude": 47.6094886,
+            "longitude": -122.327968,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.vmfh.org/our-services/cancer-care",
+            "phoneNumber": "(206) 223-6193",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP1aiZneNoV31vaoyOTzxr5B2F5wiN2P9Z7CBHN",
+            "cid": "7959096982097553383",
+            "fid": "0x54906ab60b827295:0x6e7464893ecee7e7",
+            "placeId": "ChIJlXKCC7ZqkFQR5-fOPolkdG4"
+        }
+    ],
+    "credits": 3
+}

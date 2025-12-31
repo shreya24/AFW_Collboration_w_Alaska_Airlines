@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Kalispell Regional Medical Center - Department of Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2186306,-114.3274815,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Neuroscience & Spine, Department of Neurology",
+            "address": "200 Commons Way C, Kalispell, MT 59901",
+            "latitude": 48.2213614,
+            "longitude": -114.32783839999999,
+            "rating": 2.9,
+            "ratingCount": 55,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical office",
+                "Neurologist"
+            ],
+            "website": "https://www.logan.org/location/logan-health-neurology/",
+            "phoneNumber": "(406) 752-5095",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zZahnKCizzb015Yr8A83BQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=217.7486&pitch=0&thumbfov=100",
+            "cid": "8761239992143351518",
+            "fid": "0x53665a73f9e9b067:0x79962d5a93a68ede",
+            "placeId": "ChIJZ7Dp-XNaZlMR3o6mk1otlnk"
+        },
+        {
+            "position": 2,
+            "title": "Logan Health Neuroscience & Spine, Department of Physical Medicine",
+            "address": "205 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2158914,
+            "longitude": -114.32711499999999,
+            "rating": 4.2,
+            "ratingCount": 11,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.logan.org/services/neuroscience-and-spine/",
+            "phoneNumber": "(406) 758-7035",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNu42sz1jX-WDQ5LPt36qtujRvxW7_GhsQke6Kb",
+            "cid": "14413562366601936902",
+            "fid": "0x5366509fdf30d4a1:0xc807429b293f4006",
+            "placeId": "ChIJodQw359QZlMRBkA_KZtCB8g"
+        },
+        {
+            "position": 3,
+            "title": "Logan Health Neuroscience & Spine, Department of Neurological Surgery",
+            "address": "200 Commons Way #B, Kalispell, MT 59901",
+            "latitude": 48.2213697,
+            "longitude": -114.3278481,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.logan.org/services/neuroscience-and-spine/neurological-surgery/",
+            "phoneNumber": "(406) 752-5170",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHkz5D1fvdzViOsdRj8R-Vk0VC9SMMum8X5EV2",
+            "cid": "2977389214233176830",
+            "fid": "0x53665bd51a52234f:0x2951cfb72872aafe",
+            "placeId": "ChIJTyNSGtVbZlMR_qpyKLfPUSk"
+        }
+    ],
+    "credits": 3
+}

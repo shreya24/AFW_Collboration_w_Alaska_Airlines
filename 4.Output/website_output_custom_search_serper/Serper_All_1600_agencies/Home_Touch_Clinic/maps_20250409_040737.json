@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Home Touch Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6395581,-106.3383606,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Human Touch Home Health Care",
+            "address": "1160 Lake Plaza Dr, Colorado Springs, CO 80906",
+            "latitude": 38.794671099999995,
+            "longitude": -104.8077903,
+            "rating": 1.7,
+            "ratingCount": 11,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://humantouchhomecare.com/",
+            "phoneNumber": "(719) 635-2003",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Be7j2uaU-bz6tcI09q23-A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.05205&pitch=0&thumbfov=100",
+            "cid": "8020324981773771823",
+            "fid": "0x87134515730d9fc9:0x6f4deb13d1d1242f",
+            "placeId": "ChIJyZ8NcxVFE4cRLyTR0RPrTW8"
+        },
+        {
+            "position": 2,
+            "title": "Touch of Care",
+            "address": "1100 E Main St A, Montrose, CO 81401",
+            "latitude": 38.484445,
+            "longitude": -107.86893099999999,
+            "rating": 3.8,
+            "ratingCount": 10,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Care services",
+                "House cleaning service"
+            ],
+            "website": "https://touchofcarepcp.com/",
+            "phoneNumber": "(970) 249-6080",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNN-XiZka888UQ-pkI9DoT1F6xU7GSH7VuQsbC4",
+            "cid": "4686181675834178932",
+            "fid": "0x873f508e040e527f:0x4108a967dd0a7d74",
+            "placeId": "ChIJf1IOBI5QP4cRdH0K3WepCEE"
+        }
+    ],
+    "credits": 3
+}

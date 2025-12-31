@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "University Healthcare Centerville Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9170949,-111.8796387,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centerville Health Center",
+            "address": "26 S Main St, Centerville, UT 84014",
+            "latitude": 40.917094899999995,
+            "longitude": -111.8796387,
+            "rating": 4.2,
+            "ratingCount": 149,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Women's health clinic",
+                "Pharmacy",
+                "Urgent care center"
+            ],
+            "website": "https://healthcare.utah.edu/locations/centerville/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 693-7900",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healthcare.utah.edu/locations/centerville/appointment.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-aQKctNzU1yss6_mMWUn1KT72LEf4z0qJE6FNHQwehQ6EjvERk7BH9k-XaUy7GGcnFmTRywLfYgUu20hwnH0TWGZkDkI87XnUUnX2DI-B5N18TQG9GygTobsqaqGWBU5QBSrnx2w",
+            "cid": "7034932845181187139",
+            "fid": "0x8752f869b4d28e05:0x61a11a2667c0b443",
+            "placeId": "ChIJBY7StGn4UocRQ7TAZyYaoWE"
+        }
+    ],
+    "credits": 3
+}

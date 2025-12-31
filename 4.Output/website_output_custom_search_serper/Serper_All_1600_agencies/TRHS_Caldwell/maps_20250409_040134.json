@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "TRHS Caldwell",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6581236,-116.6927647,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Trauma & Resilience Center - Arlington Clinic",
+            "address": "2005 Arlington Ave, Caldwell, ID 83605",
+            "latitude": 43.652322,
+            "longitude": -116.6958169,
+            "rating": 2.6,
+            "ratingCount": 30,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Community health centre"
+            ],
+            "website": "http://www.trhs.org/",
+            "phoneNumber": "(208) 323-9600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFCswPJ_GDPO_DAs7Bfrjf73aQncAZ8GKokEzK",
+            "cid": "15441380721759080918",
+            "fid": "0x54afb44174734005:0xd64acdf45a03d1d6",
+            "placeId": "ChIJBUBzdEG0r1QR1tEDWvTNStY"
+        },
+        {
+            "position": 2,
+            "title": "Terry Reilly Health Services - Caldwell Cleveland",
+            "address": "808 Cleveland Blvd, Caldwell, ID 83605",
+            "latitude": 43.6639251,
+            "longitude": -116.6897125,
+            "rating": 4.2,
+            "ratingCount": 82,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Counselor",
+                "Dental clinic",
+                "Dentist",
+                "Doctor",
+                "Mental health clinic",
+                "Pediatrician",
+                "Pharmacy",
+                "Urgent care center"
+            ],
+            "website": "http://www.trhs.org/",
+            "phoneNumber": "(208) 459-1025",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrta-jBhZobZAi2s2T3RyZbOgPI-_OG3B-sWQa",
+            "cid": "816185570193264853",
+            "fid": "0x54afb538fa741677:0xb53ac73a62b50d5",
+            "placeId": "ChIJdxZ0-ji1r1QR1VArpnOsUws"
+        }
+    ],
+    "credits": 3
+}

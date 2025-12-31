@@ -1,0 +1,340 @@
+{
+    "searchParameters": {
+        "q": "Tuscon Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.233252,-110.8895683,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tucson Medical Center",
+            "address": "5301 E Grant Rd, Tucson, AZ 85712",
+            "latitude": 32.2524759,
+            "longitude": -110.8800722,
+            "rating": 3,
+            "ratingCount": 922,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.tmcaz.com/",
+            "phoneNumber": "(520) 327-5461",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0skJT3dI7VPFYIf8V0yiCGZFf1xLckKXudCGX",
+            "cid": "13715435122276979395",
+            "fid": "0x86d66e38be231557:0xbe570393833c52c3",
+            "placeId": "ChIJVxUjvjhu1oYRw1I8g5MDV74"
+        },
+        {
+            "position": 2,
+            "title": "Tucson Clinica Medica Familiar",
+            "address": "3770 S 16th Ave, Tucson, AZ 85713",
+            "latitude": 32.1785622,
+            "longitude": -110.9831275,
+            "rating": 4.3,
+            "ratingCount": 437,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner",
+                "Pediatrician",
+                "Urgent care center",
+                "X-ray lab"
+            ],
+            "website": "https://tucsonclinicamedicafamiliar.com/",
+            "phoneNumber": "(520) 620-1200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxZrKzH13hAHynAF6CIgbetNnkVr-QgIXQrDyB",
+            "cid": "14490733225184295771",
+            "fid": "0x86d670a777025b0d:0xc9196d17d60f7b5b",
+            "placeId": "ChIJDVsCd6dw1oYRW3sP1hdtGck"
+        },
+        {
+            "position": 3,
+            "title": "Northwest Medical Center",
+            "address": "6200 N La Cholla Blvd, Tucson, AZ 85741",
+            "latitude": 32.3195149,
+            "longitude": -111.00908869999999,
+            "rating": 4.3,
+            "ratingCount": 7147,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.healthiertucson.com/?utm_source=gmb&utm_medium=homepage&utm_campaign=biz-listings",
+            "phoneNumber": "(520) 742-9000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAKh4rArJO38gHC2PCWVbAajO5bw0Q06op5iTJ",
+            "cid": "14865435973531345650",
+            "fid": "0x86d67499d9f9a3b3:0xce4ca341e9a622f2",
+            "placeId": "ChIJs6P52Zl01oYR8iKm6UGjTM4"
+        },
+        {
+            "position": 4,
+            "title": "Tucson Medical Center",
+            "address": "Tucson, AZ 85712",
+            "latitude": 32.2533811,
+            "longitude": -110.8820442,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMhqa6VH5dTXlEYQXhj6JMdWJJuAtATS5iQ8FB8",
+            "cid": "17550885855209965763",
+            "fid": "0x86d66e3ed470319f:0xf39145b25d37c8c3",
+            "placeId": "ChIJnzFw1D5u1oYRw8g3XbJFkfM"
+        },
+        {
+            "position": 5,
+            "title": "Tucson Medical Center Emergency Room",
+            "address": "5301 E. Grant Road, Emergency Entrance, Tucson, AZ 85712",
+            "latitude": 32.2519835,
+            "longitude": -110.8794624,
+            "rating": 2.2,
+            "ratingCount": 203,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.tmcaz.com/en/locations/tmc-emergency-department-32",
+            "phoneNumber": "(520) 327-5461",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNAL5iLF7yc8l4BChKW3bgbaLRHnoLqd5SZaOMg",
+            "cid": "13101048686067228858",
+            "fid": "0x86d66e479d99df69:0xb5d0465e1e22a0ba",
+            "placeId": "ChIJad-ZnUdu1oYRuqAiHl5G0LU"
+        },
+        {
+            "position": 6,
+            "title": "Banner - University Medical Center Tucson",
+            "address": "1625 N Campbell Ave, Tucson, AZ 85719",
+            "latitude": 32.242930099999995,
+            "longitude": -110.9462013,
+            "rating": 2.9,
+            "ratingCount": 1361,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/tucson/banner-university-medical-center-tucson?y_source=1_MTE5MDczNzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(520) 694-0111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/2711/visits/new?rwg_token=AAiGsoZl_uihD-knTDvIYyMGfZk96TIVXTFa2axR9Rd01OMNjx-xq5Yo6HArT5PZoXdYGfFmUvBH8yQFFp4j45MFUn514EanVQ%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMaHVERbgm5MRzS3jT1mcjMxE6nEUET494zLyd-",
+            "cid": "5223932672584302058",
+            "fid": "0x86d671a6be9e88a9:0x487f23168ff1bdea",
+            "placeId": "ChIJqYievqZx1oYR6r3xjxYjf0g"
+        },
+        {
+            "position": 7,
+            "title": "Tucson VA Medical Center",
+            "address": "3601 S 6th Ave, Tucson, AZ 85723",
+            "latitude": 32.180983499999996,
+            "longitude": -110.96450709999999,
+            "rating": 3.5,
+            "ratingCount": 365,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Hospital",
+                "Mental health clinic"
+            ],
+            "website": "http://www.va.gov/",
+            "phoneNumber": "(520) 792-1450",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-vxkHQlIu8_pkc3zflZl4VyKLm8UnYqrQezVn",
+            "cid": "11749973953640506689",
+            "fid": "0x86d6709de3e6a713:0xa3104b0e8ad5a541",
+            "placeId": "ChIJE6fm451w1oYRQaXVig5LEKM"
+        },
+        {
+            "position": 8,
+            "title": "TMC Health Human Resources | Atrium Bldg.",
+            "address": "5099 E Grant Rd, Tucson, AZ 85712",
+            "latitude": 32.251155499999996,
+            "longitude": -110.8846354,
+            "rating": 3.4,
+            "ratingCount": 13,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://www.tmcaz.com/en/locations/tmc-health-human-resources-atrium-bldg-23",
+            "phoneNumber": "(520) 324-2775",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNzC-5sfOl8vZkJisrsRo6a7SKOEjj15Z-81yoQ",
+            "cid": "6075809395343264995",
+            "fid": "0x86d66e38ef500975:0x54519c743c6a8ce3",
+            "placeId": "ChIJdQlQ7zhu1oYR44xqPHScUVQ"
+        },
+        {
+            "position": 9,
+            "title": "TMC Urgent Care, Wyatt",
+            "address": "2424 N Wyatt Dr Suite 140, Tucson, AZ 85712",
+            "latitude": 32.2510761,
+            "longitude": -110.8812298,
+            "rating": 3.7,
+            "ratingCount": 43,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.tmcaz.com/en/locations/tmc-urgent-care-wyatt-33",
+            "phoneNumber": "(520) 324-4690",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMa7CgkqjCuRZNmOxCAmTIx4f6IrwkpNNosNSr9",
+            "cid": "14913236561628384833",
+            "fid": "0x86d66fb73e12c6cd:0xcef675a39b3a4e41",
+            "placeId": "ChIJzcYSPrdv1oYRQU46m6N19s4"
+        },
+        {
+            "position": 10,
+            "title": "MHC Healthcare Primary Care Health Center",
+            "address": "2355 N Wyatt Dr STE 101, Tucson, AZ 85712",
+            "latitude": 32.2495487,
+            "longitude": -110.8822725,
+            "rating": 2.6,
+            "ratingCount": 68,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Obstetrician-gynecologist",
+                "Laboratory",
+                "Mental health clinic",
+                "Women's health clinic",
+                "Pediatrician"
+            ],
+            "website": "http://www.mhchealthcare.org/",
+            "phoneNumber": "(520) 616-4948",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnJ-1viZYUzdEDY2ts2m2IN-yyXprLtdGhm44q",
+            "cid": "13172731737645545699",
+            "fid": "0x86d66e38ef500975:0xb6cef1b927e078e3",
+            "placeId": "ChIJdQlQ7zhu1oYR43jgJ7nxzrY"
+        },
+        {
+            "position": 11,
+            "title": "TMC Rincon",
+            "address": "5755 S Houghton Rd, Tucson, AZ 85747",
+            "latitude": 32.146989,
+            "longitude": -110.77004799999999,
+            "rating": 3.3,
+            "ratingCount": 46,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.tmcrincon.com/",
+            "phoneNumber": "(520) 324-4401",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqoQhR_Sg-wsN-KDuTptAK1q3uHNvnNc93pOFb",
+            "cid": "13813135182551289150",
+            "fid": "0x86d667003591bc3b:0xbfb21d436e6b8d3e",
+            "placeId": "ChIJO7yRNQBn1oYRPo1rbkMdsr8"
+        },
+        {
+            "position": 12,
+            "title": "Tucson Medical Park",
+            "address": "5384 E Grant Rd, Tucson, AZ 85712",
+            "latitude": 32.2497851,
+            "longitude": -110.87842789999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2AgBOKgd1ap6RdjiWUOgvg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=16.405056&pitch=0&thumbfov=100",
+            "cid": "13477717115588564688",
+            "fid": "0x86d66e4809617b7d:0xbb0a784f01dbd6d0",
+            "placeId": "ChIJfXthCUhu1oYR0NbbAU94Crs"
+        }
+    ],
+    "credits": 3
+}

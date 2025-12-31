@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "WOMAN, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7746698,-122.4033076,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "WOMAN, Inc.",
+            "address": "26 Boardman Pl, San Francisco, CA 94103",
+            "latitude": 37.7746698,
+            "longitude": -122.40330759999999,
+            "rating": 4.9,
+            "ratingCount": 8,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.womaninc.org/",
+            "phoneNumber": "(877) 384-3578",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8e2E0fiB_Qxermlt6zupYg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=239.00963&pitch=0&thumbfov=100",
+            "cid": "8418674644720734815",
+            "fid": "0x808f7e2197c18b5f:0x74d523fc3e2ad25f",
+            "placeId": "ChIJX4vBlyF-j4ARX9IqPvwj1XQ"
+        }
+    ],
+    "credits": 3
+}

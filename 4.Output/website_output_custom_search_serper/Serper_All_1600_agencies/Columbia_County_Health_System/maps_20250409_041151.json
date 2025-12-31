@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Columbia County Health System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.3122152,-117.9702773,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Columbia County Health System / Dayton General Hospital",
+            "address": "1012 S 3rd St, Dayton, WA 99328",
+            "latitude": 46.3122152,
+            "longitude": -117.97027729999999,
+            "rating": 4,
+            "ratingCount": 22,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency care service",
+                "Emergency room"
+            ],
+            "website": "http://www.cchd-wa.org/",
+            "phoneNumber": "(509) 382-2531",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9D-txAEh29jKNkwdkP-qx4YOk4QAGxFkIT3nKjs7db6Ibj_6mOoYNEMuaVVrA3-uyMz7vFyrGBXKiPSNV0OAvHKSt10jUMJ19Db1ZoHcjbE1JUCFx5ISThmeYO4KEpNvKCG08",
+            "cid": "14593870622946803467",
+            "fid": "0x54a1f7fa65456021:0xca87d8028ac0bf0b",
+            "placeId": "ChIJIWBFZfr3oVQRC7_AigLYh8o"
+        }
+    ],
+    "credits": 3
+}

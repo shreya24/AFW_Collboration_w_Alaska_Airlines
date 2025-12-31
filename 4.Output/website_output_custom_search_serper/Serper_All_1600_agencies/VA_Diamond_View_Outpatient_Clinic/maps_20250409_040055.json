@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "VA Diamond View Outpatient Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4057965,-120.6251031,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Diamond View VA Clinic",
+            "address": "110 Bella Wy, Susanville, CA 96130",
+            "latitude": 40.4057965,
+            "longitude": -120.62510309999999,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.reno.va.gov/locations/VA_Diamond_View_Outpatient_Clinic.asp",
+            "phoneNumber": "(530) 251-4550",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J_fgV1Mm2jmg6DriCOvzsg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=19.814074&pitch=0&thumbfov=100",
+            "cid": "16135101671585530637",
+            "fid": "0x809dbde4a83205c1:0xdfeb657b9daac30d",
+            "placeId": "ChIJwQUyqOS9nYARDcOqnXtl698"
+        }
+    ],
+    "credits": 3
+}

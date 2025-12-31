@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "CommonSpirit - Penrose Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8655367,-104.821745,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CommonSpirit Penrose Hospital",
+            "address": "2222 N Nevada Ave, Colorado Springs, CO 80907",
+            "latitude": 38.8655367,
+            "longitude": -104.82174499999999,
+            "rating": 4,
+            "ratingCount": 1517,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Children's hospital",
+                "Doctor",
+                "Emergency care service",
+                "Emergency room",
+                "Medical clinic"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/penrose-hospital",
+            "phoneNumber": "(719) 776-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFCACLibPg2da_LBCEjZVrTMyXMJCvpFBVZmQJ",
+            "cid": "16350633166847560439",
+            "fid": "0x871345600f52df01:0xe2e91e3c62ab4af7",
+            "placeId": "ChIJAd9SD2BFE4cR90qrYjwe6eI"
+        }
+    ],
+    "credits": 3
+}

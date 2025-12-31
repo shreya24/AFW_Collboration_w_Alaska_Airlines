@@ -1,0 +1,85 @@
+{
+    "searchParameters": {
+        "q": "North Hawaii Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.9895403,-157.6677576,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Queen's North Hawai'i Community Hospital",
+            "address": "67-1125 Mamalahoa Hwy, Waimea, HI 96743",
+            "latitude": 20.0224515,
+            "longitude": -155.6644928,
+            "rating": 4.2,
+            "ratingCount": 164,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.nhch.com/",
+            "phoneNumber": "(808) 885-4444",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqZT4ryfoz3jsMc06EuAmgjTo_ceN58CsE5muM",
+            "cid": "16029508958557604176",
+            "fid": "0x79539cd2bc6abf3b:0xde74417846c48950",
+            "placeId": "ChIJO79qvNKcU3kRUInERnhBdN4"
+        },
+        {
+            "position": 2,
+            "title": "North Hawaii Community Hospital: Emergency Room",
+            "address": "67-1125 Mamalahoa Hwy, Waimea, HI 96743",
+            "latitude": 20.022632599999998,
+            "longitude": -155.664244,
+            "rating": 4,
+            "ratingCount": 7,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.nhch.com/",
+            "phoneNumber": "(808) 885-4444",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWwUXp7rhVrGMX6_25GRvMqArXU6w4Nv7Vyvbc",
+            "cid": "17475646896303037261",
+            "fid": "0x79539cd2c07482a7:0xf285f843224cdb4d",
+            "placeId": "ChIJp4J0wNKcU3kRTdtMIkP4hfI"
+        },
+        {
+            "position": 3,
+            "title": "Queens north Hawaii Community Hospital",
+            "address": "9652 Kaumualii Hwy, Waimea, HI 96796",
+            "latitude": 21.956629,
+            "longitude": -159.6712712,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IB5_7Iyw_gAFPYxZhTREXw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.65984&pitch=0&thumbfov=100",
+            "cid": "3134425192032087531",
+            "fid": "0x7c07a903a27aaa4f:0x2b7fb71af21badeb",
+            "placeId": "ChIJT6p6ogOpB3wR660b8hq3fys"
+        }
+    ],
+    "credits": 3
+}

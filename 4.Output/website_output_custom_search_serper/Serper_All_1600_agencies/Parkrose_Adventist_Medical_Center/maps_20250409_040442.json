@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Parkrose Adventist Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5325998,-122.5371635,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health Primary Care - Parkrose",
+            "address": "1350 NE 122nd Ave, Portland, OR 97230",
+            "latitude": 45.5325838,
+            "longitude": -122.53721379999999,
+            "rating": 4.4,
+            "ratingCount": 273,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://adventisthealth.org/locations/detail/adventist-health-primary-care-parkrose/",
+            "phoneNumber": "(503) 408-7010",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1pKxeLq58NmI7UkFlswaZvHoZBJH_3GhjQAgt",
+            "cid": "9089396381457140478",
+            "fid": "0x5495a3d56f091fc3:0x7e2405d9eb794afe",
+            "placeId": "ChIJwx8Jb9WjlVQR_kp569kFJH4"
+        },
+        {
+            "position": 2,
+            "title": "Adventist Health Urgent Care - Parkrose",
+            "address": "1350 NE 122nd Ave #200, Portland, OR 97230",
+            "latitude": 45.532615899999996,
+            "longitude": -122.5371132,
+            "rating": 3.6,
+            "ratingCount": 186,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://adventisthealth.org/locations/detail/adventist-health-urgent-care-parkrose/",
+            "phoneNumber": "(503) 408-7008",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/2260/visits/new?rwg_token=AAiGsoZ6UtAEJ2qEKwHhvkfyutohOSUAHDqb5201c0zqIBczLB2rlyJ8T56L_vbZRYk_gvYU5klc8Q95V9jIxLmupOs4QFJRZAD2GZkz5u_ZozEoN_L5aSI%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZIefdIyPNVAboR4B3Or2jsibGlnTWG1h8Y4Z7",
+            "cid": "6125658377719899502",
+            "fid": "0x5495a17fd5c85abb:0x5502b5d6e363e56e",
+            "placeId": "ChIJu1rI1X-hlVQRbuVj49a1AlU"
+        }
+    ],
+    "credits": 3
+}

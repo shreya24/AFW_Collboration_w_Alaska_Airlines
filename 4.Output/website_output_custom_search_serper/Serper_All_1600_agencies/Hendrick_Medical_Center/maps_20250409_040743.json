@@ -1,0 +1,388 @@
+{
+    "searchParameters": {
+        "q": "Hendrick Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.0760283,-99.3629725,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hendrick Medical Center",
+            "address": "1900 Pine St, Abilene, TX 79601",
+            "latitude": 32.4720179,
+            "longitude": -99.73317759999999,
+            "rating": 2.5,
+            "ratingCount": 207,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical clinic"
+            ],
+            "website": "https://www.hendrickhealth.org/",
+            "phoneNumber": "(325) 670-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPS1gE5Ncu2WjuiRK0plabJ5UjpwsM7NIjSmdK-",
+            "cid": "12138294756601581455",
+            "fid": "0x86568f4cf6371397:0xa873e2c50a394f8f",
+            "placeId": "ChIJlxM39kyPVoYRj085CsXic6g"
+        },
+        {
+            "position": 2,
+            "title": "Hendrick Medical Center South",
+            "address": "6250 US-83, Abilene, TX 79606",
+            "latitude": 32.375010599999996,
+            "longitude": -99.74384979999999,
+            "rating": 3.3,
+            "ratingCount": 399,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.hendrickhealth.org/locations/hendrick-medical-center-south/",
+            "phoneNumber": "(325) 428-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOwBTMllmbxMoUSBI927mxSud8R4EX0ItCfT_3",
+            "cid": "658845293091657538",
+            "fid": "0x86568d0d50f54281:0x924b04da8aa9742",
+            "placeId": "ChIJgUL1UA2NVoYRQpeqqE2wJAk"
+        },
+        {
+            "position": 3,
+            "title": "Hendrick Medical Center Brownwood",
+            "address": "1501 Burnett Rd, Brownwood, TX 76801",
+            "latitude": 31.677842899999998,
+            "longitude": -98.9933576,
+            "rating": 3.9,
+            "ratingCount": 355,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital department",
+                "Pharmacy"
+            ],
+            "website": "https://www.hendrickhealth.org/locations/hendrick-medical-center-brownwood/",
+            "phoneNumber": "(325) 646-8541",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.hendrickhealth.org/locations/hendrick-medical-center-brownwood/?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP3A3YiSJpytJzbWC-MdGuhmQVXTSO2bzXLmogT",
+            "cid": "8473214464162097969",
+            "fid": "0x8650c7f5083cbf77:0x7596e7a982156b31",
+            "placeId": "ChIJd788CPXHUIYRMWsVgqnnlnU"
+        },
+        {
+            "position": 4,
+            "title": "Hendrick Health",
+            "address": "1900 Pine St, Abilene, TX 79601",
+            "latitude": 32.4718235,
+            "longitude": -99.7325631,
+            "rating": 3,
+            "ratingCount": 255,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital"
+            ],
+            "website": "http://www.hendrickhealth.org/?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+            "phoneNumber": "(325) 670-2000",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "7:30\u202fAM\u20135\u202fPM",
+                "Sunday": "7:30\u202fAM\u20135\u202fPM",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.ehendrick.org/main/home.aspx?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUEizNrz3AR7oDvuX1HUTXMrDY--UP_ho4sWOn",
+            "cid": "6277117573670061808",
+            "fid": "0x86568e2d90eaba75:0x571ccd2cf7f746f0",
+            "placeId": "ChIJdbrqkC2OVoYR8Eb39yzNHFc"
+        },
+        {
+            "position": 5,
+            "title": "Hendrick Medical Center",
+            "address": "1249 Ambler Ave, Abilene, TX 79601",
+            "latitude": 32.4742136,
+            "longitude": -99.7341538,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hendrickhealth.org/",
+            "phoneNumber": "(325) 677-2626",
+            "bookingLinks": [
+                "https://patients.doctor.com/directAppointment?partner=google&practice=9184956"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FCpRPUjr0GEl8bJnyndAtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=177.51445&pitch=0&thumbfov=100",
+            "cid": "13112384504202370158",
+            "fid": "0x86568f7f297fb1ed:0xb5f88c3bf3519c6e",
+            "placeId": "ChIJ7bF_KX-PVoYRbpxR8zuM-LU"
+        },
+        {
+            "position": 6,
+            "title": "Hendrick Clinic | Cedar Mall",
+            "address": "1150 N 18th St, Abilene, TX 79601",
+            "latitude": 32.4705095,
+            "longitude": -99.7327758,
+            "rating": 2.5,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hendrickhealth.org/",
+            "phoneNumber": "(325) 670-2255",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=541r7M6zVyonRGaKnYM4XA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.84756&pitch=0&thumbfov=100",
+            "cid": "17687258994492392636",
+            "fid": "0x86568e2ddf59c34b:0xf575c458290d44bc",
+            "placeId": "ChIJS8NZ3y2OVoYRvEQNKVjEdfU"
+        },
+        {
+            "position": 7,
+            "title": "Hendrick Medical Center",
+            "address": "6250 Regional Plaza STE 1060, Abilene, TX 79606",
+            "latitude": 32.3742424,
+            "longitude": -99.7450221,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hendrickhealth.org/",
+            "phoneNumber": "(325) 428-5660",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vzf8gsdCk9yNiPB0tjj0eg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=292.44174&pitch=0&thumbfov=100",
+            "cid": "9031555692529722259",
+            "fid": "0x86568d642342c5df:0x7d56880d16642393",
+            "placeId": "ChIJ38VCI2SNVoYRkyNkFg2IVn0"
+        },
+        {
+            "position": 8,
+            "title": "Hendrick Clinic Early",
+            "address": "2005 US-183, Early, TX 76802",
+            "latitude": 31.7387056,
+            "longitude": -98.96361789999999,
+            "rating": 2.7,
+            "ratingCount": 84,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hendrickhealth.org/locations/hendrick-clinic-early/",
+            "phoneNumber": "(325) 643-3010",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20137:30\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "7:30\u202fAM\u20137:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.hendrickhealth.org/locations/hendrick-clinic-early/?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNcrVae0_N8Jo3owjdhvBjgKW9kFvqXk6kQ9jRH",
+            "cid": "10304177471472200647",
+            "fid": "0x8650c6f6b0317f6d:0x8effcad101aeebc7",
+            "placeId": "ChIJbX8xsPbGUIYRx-uuAdHK_44"
+        },
+        {
+            "position": 9,
+            "title": "Hendrick Emergency Care Center",
+            "address": "1900 Pine St, Abilene, TX 79601",
+            "latitude": 32.4711498,
+            "longitude": -99.73383779999999,
+            "rating": 2.1,
+            "ratingCount": 39,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://www.hendrickhealth.org/services/emergency-care/",
+            "phoneNumber": "(325) 670-2151",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1d7tCDItHxlCuN4GkjIukn6w-SmWvJK03wmUj",
+            "cid": "12953075202825023253",
+            "fid": "0x86568f6187f72ea5:0xb3c29144c54e6f15",
+            "placeId": "ChIJpS73h2GPVoYRFW9OxUSRwrM"
+        },
+        {
+            "position": 10,
+            "title": "Hendrick Clinic",
+            "address": "1680 Antilley Rd # 200, Abilene, TX 79606",
+            "latitude": 32.3744514,
+            "longitude": -99.7443342,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgical center"
+            ],
+            "website": "https://www.hendrickhealth.org/hendrick-clinic/?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+            "phoneNumber": "(325) 428-5630",
+            "bookingLinks": [
+                "https://www.hendrickhealth.org/hendrick-clinic/?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o4bveScROBzyVNXnxGveyg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.87823&pitch=0&thumbfov=100",
+            "cid": "5691198050314181298",
+            "fid": "0x86568d6d3f6d1d6b:0x4efb3279375f5ab2",
+            "placeId": "ChIJax1tP22NVoYRslpfN3ky-04"
+        },
+        {
+            "position": 11,
+            "title": "Hendrick Urgent Care - Brownwood",
+            "address": "400 E Commerce St, Brownwood, TX 76801",
+            "latitude": 31.7307922,
+            "longitude": -98.9754363,
+            "rating": 4.7,
+            "ratingCount": 783,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational medical physician",
+                "Walk-in clinic",
+                "Wellness center"
+            ],
+            "website": "https://hendrickurgentcare.com/locations/brownwood/",
+            "phoneNumber": "(325) 510-5418",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/6698/visits/new?rwg_token=AAiGsoa6vS3KCft2fCljdCoJcEiLatumYfqycRLIvo6IuBPf6k9X8qOqWf79E0GiMjWdvViKaiVpF5Ancp4mS0UhhqGES5kOAjicMQ8ySBJaCilFfBMCwss%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM83Fcca9JzEQfw-lPVFHArHx8xMeg83-I6sfMD",
+            "cid": "13104091514202207914",
+            "fid": "0x8650c7ee9f4f64b3:0xb5db15cdc03bb6aa",
+            "placeId": "ChIJs2RPn-7HUIYRqrY7wM0V27U"
+        },
+        {
+            "position": 12,
+            "title": "Hendrick Rural Health Clinic Plaza",
+            "address": "2371 Crockett Dr, Brownwood, TX 76801",
+            "latitude": 31.681889199999997,
+            "longitude": -98.99685579999999,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.hendrickhealth.org/locations/hendrick-medical-clinic-in-brownwood/",
+            "phoneNumber": "(325) 641-1140",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.hendrickhealth.org/locations/hendrick-medical-clinic-in-brownwood/?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7oY5asdpfTNoXAac502P20HABQabXXs3KJ_Lj",
+            "cid": "17013226409944027606",
+            "fid": "0x8650c7a32abd7479:0xec1b1f47a80211d6",
+            "placeId": "ChIJeXS9KqPHUIYR1hECqEcfG-w"
+        },
+        {
+            "position": 13,
+            "title": "Hendrick Service Center",
+            "address": "4310 Buffalo Gap Rd, Abilene, TX 79606",
+            "latitude": 32.4023374,
+            "longitude": -99.7623272,
+            "rating": 2.3,
+            "ratingCount": 6,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.hendrickhealth.org/locations/hendrick-service-center/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxHJ7Senh_HL6nPwPI1LBlYbti-iz-hwrwbSfQ",
+            "cid": "9011840059552626066",
+            "fid": "0x86568d4b00b6f5af:0x7d107cc99244f592",
+            "placeId": "ChIJr_W2AEuNVoYRkvVEksl8EH0"
+        },
+        {
+            "position": 14,
+            "title": "Hendrick Clinic",
+            "address": "6200 Regional Plaza STE 1675, Abilene, TX 79606",
+            "latitude": 32.3748363,
+            "longitude": -99.7453353,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(325) 428-4360",
+            "cid": "13092541365647834558",
+            "fid": "0x86568d326fdd675b:0xb5b20d013a8bfdbe",
+            "placeId": "ChIJW2fdbzKNVoYRvv2LOgENsrU"
+        }
+    ],
+    "credits": 3
+}

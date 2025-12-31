@@ -1,0 +1,302 @@
+{
+    "searchParameters": {
+        "q": "Cancer Treatment Center of Tulsa",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0985451,-95.8833381,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oklahoma Cancer Specialists and Research Institute (OCSRI)",
+            "address": "12697 E 51st St, Tulsa, OK 74146",
+            "latitude": 36.0914383,
+            "longitude": -95.8362817,
+            "rating": 3.5,
+            "ratingCount": 147,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Gynecologist",
+                "Laboratory",
+                "Pharmacy",
+                "Radiologist",
+                "Research institute"
+            ],
+            "website": "https://ocsri.org/locations/",
+            "phoneNumber": "(918) 505-3200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB88RI5eydK38mxQmvgeiVrYBXV8qZW0I2uHHkv_2vAyC5iiFrq5cNy7lKOm54oaPQkSLCREZTdO4C5M3zQhL247eY3n5Cb1oDCG8VwCRhmZoipFE7VpuNG-uEZQLknhg7zbFINlkA",
+            "cid": "9928208271675023534",
+            "fid": "0x87b68ced40bfc9fd:0x89c814d23948e0ae",
+            "placeId": "ChIJ_cm_QO2MtocRruBIOdIUyIk"
+        },
+        {
+            "position": 2,
+            "title": "Saint Francis Cancer Center",
+            "address": "11212 E 48th St, Tulsa, OK 74146",
+            "latitude": 36.0928732,
+            "longitude": -95.8529368,
+            "rating": 4.3,
+            "ratingCount": 50,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.saintfrancis.com/location/saint-francis-cancer-center",
+            "phoneNumber": "(918) 556-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.saintfrancis.com/services/cancer-care/?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-X-Mprs6Up9zMG99dBbLd_EHxQiByDMtehHRQ",
+            "cid": "5955412191737890701",
+            "fid": "0x87b68ce3dc00050f:0x52a5dfd5d391478d",
+            "placeId": "ChIJDwUA3OOMtocRjUeR09XfpVI"
+        },
+        {
+            "position": 3,
+            "title": "Cancer Treatment Center-America: Bischoff Bette J MD",
+            "address": "10109 E 79th St, Tulsa, OK 74133",
+            "latitude": 36.0515857,
+            "longitude": -95.8633428,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.cancercenter.com/",
+            "phoneNumber": "(918) 286-5000",
+            "cid": "11197886897126489048",
+            "fid": "0x87b68dc9688cfd73:0x9b66e2cdd239bbd8",
+            "placeId": "ChIJc_2MaMmNtocR2Ls50s3iZps"
+        },
+        {
+            "position": 4,
+            "title": "St. John LaFortune Cancer Center",
+            "address": "1705 E 19th St, Tulsa, OK 74104",
+            "latitude": 36.1354031,
+            "longitude": -95.9667724,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center"
+            ],
+            "phoneNumber": "(918) 748-7585",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7q9VDy-WHHeAdddjZPaGug&cb_client=search.gws-prod.gps&w=80&h=92&yaw=8.096108&pitch=0&thumbfov=100",
+            "cid": "7100230975824854508",
+            "fid": "0x87b6ecbe0e16fe4b:0x628916743143fdec",
+            "placeId": "ChIJS_4WDr7stocR7P1DMXQWiWI"
+        },
+        {
+            "position": 5,
+            "title": "Cancer Care Associates",
+            "address": "1810 E 15th St, Tulsa, OK 74104",
+            "latitude": 36.1401319,
+            "longitude": -95.9655591,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(918) 592-3700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iY3Ml_RyefY2uZy06zGdmQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=203.35547&pitch=0&thumbfov=100",
+            "cid": "12313065117341008318",
+            "fid": "0x87b6ec944340fe33:0xaae0cb7c9f5d41be",
+            "placeId": "ChIJM_5AQ5TstocRvkFdn3zL4Ko"
+        },
+        {
+            "position": 6,
+            "title": "Cancer Treatment Center-America: Abraham Edward H MD",
+            "address": "10109 E 79th St, Tulsa, OK 74133",
+            "latitude": 36.0515857,
+            "longitude": -95.8633428,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://www.cancercenter.com/",
+            "phoneNumber": "(800) 524-4632",
+            "cid": "13393892609278164392",
+            "fid": "0x87b68dc9688cfd73:0xb9e0aa5d3fc13da8",
+            "placeId": "ChIJc_2MaMmNtocRqD3BP12q4Lk"
+        },
+        {
+            "position": 7,
+            "title": "OCSRI Skin Cancer Center",
+            "address": "800 W Boise Cir, Broken Arrow, OK 74012",
+            "latitude": 36.0777359,
+            "longitude": -95.7999038,
+            "rating": 4.7,
+            "ratingCount": 25,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Skin care clinic"
+            ],
+            "website": "https://ocsri.org/locations/skin-cancer-center/",
+            "phoneNumber": "(918) 307-0215",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrBtYzjKBjsMm5B4w7RlRr5xuu3up_MzOsqwv5",
+            "cid": "10938187404151345924",
+            "fid": "0x87b68dd688b9293f:0x97cc3f7db717d304",
+            "placeId": "ChIJPym5iNaNtocRBNMXt30_zJc"
+        },
+        {
+            "position": 8,
+            "title": "OU Health Stephenson Cancer Center at Hillcrest \u2014 Medical Oncology Clinic",
+            "address": "1245 S Utica Ave Suite 100 & 200, Tulsa, OK 74104",
+            "latitude": 36.1455959,
+            "longitude": -95.96665039999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.ouhealth.com/~/find-a-location/stephenson-cancer-center-hillcrest-oncology/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO29ph6LAZP9-56U-OHQRYN1GA91ggxeyJFOiHT",
+            "cid": "10144588772443162395",
+            "fid": "0x87b6ed767f13e8b3:0x8cc8d1bd7de4071b",
+            "placeId": "ChIJs-gTf3bttocRGwfkfb3RyIw"
+        },
+        {
+            "position": 9,
+            "title": "OU Health Stephenson Cancer Center at Hillcrest \u2014 Medical Oncology Clinic",
+            "address": "1245 S Utica Ave Suite 100 and 200, Tulsa, OK 74104",
+            "latitude": 36.1455959,
+            "longitude": -95.96665039999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "http://www.uticaparkclinic.com/physicians/jennifer-ostasik-md#.Vi5ton6rR1s",
+            "phoneNumber": "(918) 579-3850",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1zVZyAhDItxs957hNtYSgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=42.17681&pitch=0&thumbfov=100",
+            "cid": "15773351257888304668",
+            "fid": "0x87b6ec923b7d11e9:0xdae63365f3e4ae1c",
+            "placeId": "ChIJ6RF9O5LstocRHK7k82Uz5to"
+        },
+        {
+            "position": 10,
+            "title": "OCSRI Breast Clinic",
+            "address": "1819 E 19th St, Tulsa, OK 74104",
+            "latitude": 36.135633,
+            "longitude": -95.9656401,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://ocsri.org/locations/ocsri-breast-clinic/",
+            "phoneNumber": "(918) 505-3200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPt3fTPzC3qxc5wohl7Wb5tb1S8SHK2N9F8zj7C",
+            "cid": "17451396463393167597",
+            "fid": "0x87b68def3fd63e85:0xf22fd09f3b0ed8ed",
+            "placeId": "ChIJhT7WP--NtocR7dgOO5_QL_I"
+        },
+        {
+            "position": 11,
+            "title": "Cancer Treatment Centers of America, Tulsa - CTCA",
+            "address": "10109 E 79th St, Tulsa, OK 74133",
+            "latitude": 36.0514943,
+            "longitude": -95.863292,
+            "rating": 4.4,
+            "ratingCount": 103,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.cancercenter.com/locations/tulsa?invsrc=local_search_rioseo_tulsa_facility&t_ch=local_search&t_ctv=&utm_source=google&t_tac=website",
+            "phoneNumber": "(918) 381-0133",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_iMZBbHKlXqxtmmohDxJvL3bRBcgO63QChL6nFLGfDYR_YzoBe2HCUouBEVNWheiQtDDs9LeypWSYOu0MDiCFFFnKCHNAmOVS93qRh0_hWmOCwK0ldXBkFSon2uuEpYkSSobP0",
+            "cid": "103685022901330966",
+            "fid": "0x87b68dc9688cfd73:0x1705cfa9e8fe416",
+            "placeId": "ChIJc_2MaMmNtocRFuSPnvpccAE"
+        },
+        {
+            "position": 12,
+            "title": "Cancer Treatment Centers of America - GI Cancer Center",
+            "address": "10109 E 79th St, Tulsa, OK 74133",
+            "latitude": 36.0515562,
+            "longitude": -95.863328,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cancercenter.com/locations/tulsa/ctca-gi-cancer-center?invsrc=local_search_rioseo_tulsa_department&t_ch=local_search&t_ctv=gi&utm_source=google&t_tac=website",
+            "phoneNumber": "(918) 770-9725",
+            "isPermanentlyClosed": true,
+            "cid": "7667572656506131577",
+            "fid": "0x87b68db1b0cfa099:0x6a68b0b4e08bd479",
+            "placeId": "ChIJmaDPsLGNtocRedSL4LSwaGo"
+        }
+    ],
+    "credits": 3
+}

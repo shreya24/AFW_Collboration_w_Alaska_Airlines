@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Loyd, Brinegar, Short & Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9004201,-77.0385379,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bryan K Short, Attorney at Law",
+            "address": "800 Connecticut Ave NW #300, Washington, DC 20006",
+            "latitude": 38.9004201,
+            "longitude": -77.0385379,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Attorney",
+            "types": [
+                "Attorney"
+            ],
+            "website": "http://www.effectus.legal/",
+            "phoneNumber": "(202) 888-2107",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://my.timetrade.com/book/T6MKK"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjP69rhKI7KOW3PR1Y7AbvbDTENv3rNiWoFCM9",
+            "cid": "18164986373636566653",
+            "fid": "0x89b7b7bbb00a3f19:0xfc16fedd566b2e7d",
+            "placeId": "ChIJGT8KsLu3t4kRfS5rVt3-Fvw"
+        }
+    ],
+    "credits": 3
+}

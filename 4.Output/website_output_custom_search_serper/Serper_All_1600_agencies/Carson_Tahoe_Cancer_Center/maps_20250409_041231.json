@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Carson Tahoe Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2034014,-119.7881107,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Carson Tahoe Cancer Center, an Affiliate of Huntsman Cancer Institute, University of Utah",
+            "address": "1535 Medical Pkwy, Carson City, NV 89703",
+            "latitude": 39.2034014,
+            "longitude": -119.78811069999999,
+            "rating": 4.3,
+            "ratingCount": 19,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.carsontahoe.com/cancer",
+            "phoneNumber": "(775) 445-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_RSskQ1lj_mOY3VBQhAhb_smlqCt8vQyZqsampHW8mdumjn-Hb1K3dtvh0h7J0VM5DrzMNmUpcVr4fdxWQRG83uVpZou_PH_GuctpR0vlLqBaNL5nPjB5J017ZcvXjI_eTZVeB",
+            "cid": "6939482988965601518",
+            "fid": "0x80990b293bd67eb9:0x604dff02f22920ee",
+            "placeId": "ChIJuX7WOykLmYAR7iAp8gL_TWA"
+        }
+    ],
+    "credits": 3
+}

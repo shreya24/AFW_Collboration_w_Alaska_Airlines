@@ -1,0 +1,95 @@
+{
+    "searchParameters": {
+        "q": "John Muir Health Cancer Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9471942,-122.0368104,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF-John Muir Health Jean and Ken Hofmann Cancer Center at Behring Pavilion",
+            "address": "177 La Casa Via, Walnut Creek, CA 94598",
+            "latitude": 37.9116263,
+            "longitude": -122.0394158,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/walnut-creek-behring-pavilion.html?y_source=1_MTA0MTk1NTIyNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(925) 692-5600",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20139\u202fPM",
+                "Wednesday": "6\u202fAM\u20139\u202fPM",
+                "Thursday": "6\u202fAM\u20139\u202fPM",
+                "Friday": "6\u202fAM\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsf4kjoN6gc-ilWdChSb1l7LpfKn7G-2tbgXww",
+            "cid": "14898971005216517828",
+            "fid": "0x8085610882161d2d:0xcec3c730ecc66ec4",
+            "placeId": "ChIJLR0WgghhhYARxG7G7DDHw84"
+        },
+        {
+            "position": 2,
+            "title": "John Muir Radiation Oncology Services",
+            "address": "115 La Casa Via, Walnut Creek, CA 94598",
+            "latitude": 37.9127209,
+            "longitude": -122.0400044,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.johnmuirhealth.com/services/cancer-services/what-we-offer/radiation-oncology.html",
+            "phoneNumber": "(925) 947-3250",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_U7M7fQ2BDalmMs9FOfhGGoyyvsBQwwqWoeU8V9bhQ3CG1uaoMlvQqp68AJ1wK648_dmSEt6BbUzKg0BCdVRCTUN-NkCjNwKdiBnTSzMwJPbNnurg-W0rRXxv0mPqrhHLLsJnb",
+            "cid": "16809115710412558442",
+            "fid": "0x808561b3cdfefdf9:0xe945f9ae1b94106a",
+            "placeId": "ChIJ-f3-zbNhhYARahCUG675Rek"
+        },
+        {
+            "position": 3,
+            "title": "John Muir Radiation Oncology Services",
+            "address": "2540 East St, Concord, CA 94520",
+            "latitude": 37.982762099999995,
+            "longitude": -122.0336164,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://www.johnmuirhealth.com/services/cancer-services/what-we-offer/radiation-oncology.html",
+            "phoneNumber": "(925) 674-2521",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-RIZzZITAUvjLNvUoHDDgNxg0xlFEcGok8OGUxXFvVDnCtjGvytYK0FckyPy4quH8rolkhBnRnDUXk9gdmxyFIEwSSAbEB-6Q8UYnCRdP6Q01OLexCgkdxPBq2TjvrGYP2sCwzFw",
+            "cid": "16518618938329695934",
+            "fid": "0x8085672192e4c365:0xe53dec67af2e86be",
+            "placeId": "ChIJZcPkkiFnhYARvoYur2fsPeU"
+        }
+    ],
+    "credits": 3
+}

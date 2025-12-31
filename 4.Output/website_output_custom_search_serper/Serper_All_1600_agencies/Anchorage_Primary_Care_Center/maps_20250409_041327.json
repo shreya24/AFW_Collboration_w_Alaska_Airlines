@@ -1,0 +1,613 @@
+{
+    "searchParameters": {
+        "q": "Anchorage Primary Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.224657,-149.7345538,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anchorage Native Primary Care Center",
+            "address": "4320 Diplomacy Dr, Anchorage, AK 99508",
+            "latitude": 61.181659499999995,
+            "longitude": -149.8003717,
+            "rating": 3.8,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Emergency care service",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.southcentralfoundation.com/services/primary-care-clinics/",
+            "phoneNumber": "(907) 729-3300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8esEgZ3hoNiT_16kmVOgJ8bxtbVrlEBJxxnpa7BrAfEJeYZK6bS8xw1VJuy9EzC6JI9pven0Ww-LQM7U9OysmZQjpWIQbC7ZMBdSp8FObHlzwTXVX20Tc2I4TXjD6xhH4D9jZluQ",
+            "cid": "5218020606144196765",
+            "fid": "0x56c8971c71c8a645:0x486a221853e4b09d",
+            "placeId": "ChIJRabIcRyXyFYRnbDkUxgiakg"
+        },
+        {
+            "position": 2,
+            "title": "Providence Primary Care - Anchorage (S Tower)",
+            "address": "3831 Piper St S Tower, Ste S-220, Anchorage, AK 99508",
+            "latitude": 61.186203,
+            "longitude": -149.82295299999998,
+            "rating": 4.8,
+            "ratingCount": 418,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.providence.org/locations/ak/primary-care-s-tower?Is=location&y_source=1_OTU3NTY4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(907) 212-3420",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOkqE4-LAhIheTa_WXOFN_BpZJsmt6xq51wVNjp",
+            "cid": "12014014108086305268",
+            "fid": "0x56c897010456fba1:0xa6ba5a2da70401f4",
+            "placeId": "ChIJoftWBAGXyFYR9AEEpy1auqY"
+        },
+        {
+            "position": 3,
+            "title": "Primary Care Associates - Huffman",
+            "address": "12350 Industry Way # 160, Anchorage, AK 99515",
+            "latitude": 61.1091335,
+            "longitude": -149.8622326,
+            "rating": 3.9,
+            "ratingCount": 114,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.primarycareak.com/?utm_medium=PrimaryCareAssociates&utm_source=GMBSocialClimb",
+            "phoneNumber": "(907) 345-4343",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOE9rdQmgBWRQSbe5n8FR6YwdNAep_Ko2bRNEP-",
+            "cid": "7019631118535907021",
+            "fid": "0x56c8999a55774169:0x616abd4f8a9c56cd",
+            "placeId": "ChIJaUF3VZqZyFYRzVacik-9amE"
+        },
+        {
+            "position": 4,
+            "title": "Providence Primary Care - Midtown",
+            "address": "1200 W Northern Lights Blvd A, Anchorage, AK 99503",
+            "latitude": 61.195214899999996,
+            "longitude": -149.9066709,
+            "rating": 4.7,
+            "ratingCount": 493,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/primary-care-midtown?ls=location&y_source=1_NDA0ODY1ODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 212-3420",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyyUTN8h3o_sHPo4cK4Wn9cjJa6xX7ADE7G9ct",
+            "cid": "5203776628310070357",
+            "fid": "0x56c8977d2bb908ed:0x48378745cce6d455",
+            "placeId": "ChIJ7Qi5K32XyFYRVdTmzEWHN0g"
+        },
+        {
+            "position": 5,
+            "title": "Medical Park Family Care",
+            "address": "2211 E Northern Lights Blvd, Anchorage, AK 99508",
+            "latitude": 61.195771699999995,
+            "longitude": -149.8408101,
+            "rating": 4.6,
+            "ratingCount": 1085,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Diabetes center",
+                "Family practice physician",
+                "Laboratory",
+                "Nurse practitioner",
+                "Physician assistant",
+                "Physical therapy clinic",
+                "Sleep clinic",
+                "X-ray lab"
+            ],
+            "website": "http://www.mpfcak.com/",
+            "phoneNumber": "(907) 279-8486",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNO9XIltBZ_aLJGPAIWNqMCFVtLxzaHcPrTVtWc",
+            "cid": "3312426365825841400",
+            "fid": "0x56c897ad433abe81:0x2df81a3acfaff8f8",
+            "placeId": "ChIJgb46Q62XyFYR-Pivzzoa-C0"
+        },
+        {
+            "position": 6,
+            "title": "Primary Care Associates - Lake Otis",
+            "address": "4100 Lake Otis Pkwy #322, Anchorage, AK 99508",
+            "latitude": 61.183067099999995,
+            "longitude": -149.8401302,
+            "rating": 4.2,
+            "ratingCount": 122,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://primarycareak.com/?utm_source=GMBSocialClimb&utm_medium=PrimaryCareAssociates",
+            "phoneNumber": "(907) 562-1234",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkthYLcCO7OxZAgxzelipCxkbykt9axIEWqEwb",
+            "cid": "7619180546658642422",
+            "fid": "0x56c897a6348977ff:0x69bcc456cb27a9f6",
+            "placeId": "ChIJ_3eJNKaXyFYR9qkny1bEvGk"
+        },
+        {
+            "position": 7,
+            "title": "Primary Care Associates\u2013Eagle River",
+            "address": "17101 Snowmobile Ln STE 102, Eagle River, AK 99577",
+            "latitude": 61.340180399999994,
+            "longitude": -149.5624368,
+            "rating": 4.8,
+            "ratingCount": 111,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Occupational medical physician",
+                "Urgent care center"
+            ],
+            "website": "https://www.primarycareak.com/PCA_Medical-Center-Eagle-River?utm_source=GMBSocialClimb&utm_medium=PrimaryCareAssociates%E2%80%93EagleRiver",
+            "phoneNumber": "(907) 694-7223",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNcCnXMuiDL1tq7_3e6HU39Is__DccZRRzKGgG",
+            "cid": "10065487014908636222",
+            "fid": "0x56c8eb37f91e95b5:0x8bafcb1c5eefac3e",
+            "placeId": "ChIJtZUe-TfryFYRPqzvXhzLr4s"
+        },
+        {
+            "position": 8,
+            "title": "First Care Medical Centers, LLC.",
+            "address": "1301 Huffman Rd, Anchorage, AK 99515",
+            "latitude": 61.1092051,
+            "longitude": -149.85775089999998,
+            "rating": 4.5,
+            "ratingCount": 2848,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Occupational medical physician",
+                "Sports medicine clinic",
+                "Travel clinic"
+            ],
+            "website": "http://www.firstcareak.com/",
+            "phoneNumber": "(907) 345-1199",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201311\u202fPM",
+                "Wednesday": "7\u202fAM\u201311\u202fPM",
+                "Thursday": "7\u202fAM\u201311\u202fPM",
+                "Friday": "7\u202fAM\u201311\u202fPM",
+                "Saturday": "7\u202fAM\u201311\u202fPM",
+                "Sunday": "7\u202fAM\u201311\u202fPM",
+                "Monday": "7\u202fAM\u201311\u202fPM"
+            },
+            "bookingLinks": [
+                "https://nextpatient.co/static/practices/1144/index.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-lVcjXMNqBhet2iT6RdZ4pPU6ywVlqT9ahTRVqWvXJcRM5-IGNgLiSbkN2Fd1NCZtZ3-MQ3XnR7ulmSi5zm5TLyoyoJag7Prq2d0o6v7Mnb4wIPuiWkfbxjn_q627jTd1qRp0c",
+            "cid": "18398045366535381313",
+            "fid": "0x56c8999acff8a7b9:0xff52fcc8a9dce141",
+            "placeId": "ChIJuaf4z5qZyFYRQeHcqcj8Uv8"
+        },
+        {
+            "position": 9,
+            "title": "PCA Urgent Care - Lake Otis",
+            "address": "4100 Lake Otis Pkwy Suite 100, Anchorage, AK 99508",
+            "latitude": 61.1830004,
+            "longitude": -149.84073709999998,
+            "rating": 4.7,
+            "ratingCount": 108,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "http://www.primarycareak.com/centers/lake-otis-urgent-care.html?utm_source=GMBSocialClimb&utm_medium=PCAUrgentCare",
+            "phoneNumber": "(907) 563-4006",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOfqV8jkXmDKwl__EwuKewXeLijCuE86WkeSRUh",
+            "cid": "13547198676601931019",
+            "fid": "0x56c89754cc3fa85f:0xbc01516b9480050b",
+            "placeId": "ChIJX6g_zFSXyFYRCwWAlGtRAbw"
+        },
+        {
+            "position": 10,
+            "title": "Anchorage Neighborhood Health Center",
+            "address": "4951 Business Park Blvd, Anchorage, AK 99503",
+            "latitude": 61.1759686,
+            "longitude": -149.88766339999998,
+            "rating": 3.7,
+            "ratingCount": 226,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Medical laboratory",
+                "Mental health clinic",
+                "Pharmacy"
+            ],
+            "website": "http://anhc.org/hours-and-location",
+            "phoneNumber": "(907) 743-7200",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20139\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20139\u202fPM",
+                "Thursday": "7:30\u202fAM\u20139\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-I8b5fhhdtsJIMxcq8S65z4H7THxjWt-VsPU3X2xW74InH9yxZ9_ZRXqlDpbcFfMI8vnqOd7mRMR8773jQpvHH6BiIQIZ-SlTYa0tXDLeplFxaOXG6LgC7PXYyVWeO7tSEw_0Xaw",
+            "cid": "17288056033304741550",
+            "fid": "0x56c89630c8e0f06d:0xefeb835dc22d86ae",
+            "placeId": "ChIJbfDgyDCWyFYRroYtwl2D6-8"
+        },
+        {
+            "position": 11,
+            "title": "Providence Anchorage Family Medicine Center",
+            "address": "1201 E 36th Ave, Anchorage, AK 99508",
+            "latitude": 61.1885681,
+            "longitude": -149.86031509999998,
+            "rating": 2.2,
+            "ratingCount": 93,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.providence.org/locations/ak/family-medicine-center?ls=location&y_source=1_OTU3NTY4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(907) 562-9229",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzjKlgu1Ck87GMR626Iy2q4nR0RpjX9hHixXgy",
+            "cid": "10064727593639401061",
+            "fid": "0x56c897ba7a84d89b:0x8bad186bd3f2d665",
+            "placeId": "ChIJm9iEerqXyFYRZdby02sYrYs"
+        },
+        {
+            "position": 12,
+            "title": "Providence Alaska Primary Care",
+            "address": "3260 Providence Dr c520, Anchorage, AK 99508",
+            "latitude": 61.188008499999995,
+            "longitude": -149.8187946,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.providence.org/our-services/ak/primary-care-c-tower",
+            "phoneNumber": "(907) 212-3420",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZpNHtfBC8SeNnSEW4ntaRg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=185.88628&pitch=0&thumbfov=100",
+            "cid": "7112314550536171237",
+            "fid": "0x56c897010456fba1:0x62b40466ab8ceee5",
+            "placeId": "ChIJoftWBAGXyFYR5e6Mq2YEtGI"
+        },
+        {
+            "position": 13,
+            "title": "Providence Primary Care - Huffman",
+            "address": "1389 Huffman Park Dr Suite 202, Anchorage, AK 99515",
+            "latitude": 61.1106305,
+            "longitude": -149.85548989999998,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner"
+            ],
+            "website": "https://www.providence.org/locations/ak/primary-care-huffman?Is=location&y_source=1_MTYwMDQ1NzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 212-3420",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzWjgWhE2H_TEX75ERhrPNgy0d5HaBPkxe-dRI",
+            "cid": "8972730515578975728",
+            "fid": "0x56c899fde625d28f:0x7c858add466475f0",
+            "placeId": "ChIJj9Il5v2ZyFYR8HVkRt2KhXw"
+        },
+        {
+            "position": 14,
+            "title": "Walk-In Clinic at ANMC",
+            "address": "3900 Ambassador Dr, Anchorage, AK 99508",
+            "latitude": 61.182380599999995,
+            "longitude": -149.8066864,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Private hospital"
+            ],
+            "website": "https://www.anthc.org/departments/walk-in-clinic/#",
+            "phoneNumber": "(907) 729-1680",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20139\u202fPM",
+                "Wednesday": "9\u202fAM\u20139\u202fPM",
+                "Thursday": "9\u202fAM\u20139\u202fPM",
+                "Friday": "9\u202fAM\u20139\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlo0hJo1uuzdBuzzNKLQZqceqrpShYHJ0UDGGR",
+            "cid": "11752471834691715911",
+            "fid": "0x56c897b31f5c9efb:0xa3192addcb954347",
+            "placeId": "ChIJ-55cH7OXyFYRR0OVy90qGaM"
+        },
+        {
+            "position": 15,
+            "title": "Alaska Primary Care Association (APCA)",
+            "address": "3111 C St Suite 500, Anchorage, AK 99503",
+            "latitude": 61.192121799999995,
+            "longitude": -149.88607299999998,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Training centre",
+            "types": [
+                "Training centre",
+                "Adult education school",
+                "Apprenticeship center",
+                "Association / Organization",
+                "Education center",
+                "Students support association",
+                "Technical school"
+            ],
+            "website": "http://www.alaskapca.org/",
+            "phoneNumber": "(907) 929-2722",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9iWAhJNrIXynNarrYuuz_EyH7p5pbCfE94k0MSgESsCIat_e4396HtHWs_dRMB3hhzjoyOkvLjIFKiO15gcmllNcFI9DT-_dKHwbHedFasF2ejKJjq2Nl0cRaQW4KH76i9Aq8V",
+            "cid": "8864513115455981373",
+            "fid": "0x56c897db1e409bb7:0x7b0513b6598b873d",
+            "placeId": "ChIJt5tAHtuXyFYRPYeLWbYTBXs"
+        },
+        {
+            "position": 16,
+            "title": "Alaska Native Medical Center",
+            "address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+            "latitude": 61.182452,
+            "longitude": -149.80024269999998,
+            "rating": 3,
+            "ratingCount": 210,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General hospital"
+            ],
+            "website": "http://anmc.org/",
+            "phoneNumber": "(907) 563-2662",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORct3TdWFPDLi6lh6N2owk7SVZ5nUPtXTUh311",
+            "cid": "12633987291157363904",
+            "fid": "0x56c8971c65d4f657:0xaf54f080ea3bfcc0",
+            "placeId": "ChIJV_bUZRyXyFYRwPw76oDwVK8"
+        },
+        {
+            "position": 17,
+            "title": "ANTHC Healthy Communities Building",
+            "address": "3900 Ambassador Dr, Anchorage, AK 99508",
+            "latitude": 61.1821517,
+            "longitude": -149.8067841,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Private hospital",
+                "Urgent care center",
+                "Wellness program"
+            ],
+            "website": "http://www.anthc.org//walkinclinic",
+            "phoneNumber": "(907) 729-1500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "cid": "9950838016345124495",
+            "fid": "0x56c897ee3b409c13:0x8a187a743db42e8f",
+            "placeId": "ChIJE5xAO-6XyFYRjy60PXR6GIo"
+        },
+        {
+            "position": 18,
+            "title": "Alaska Family Care Associates",
+            "address": "4001 Dale St #210, Anchorage, AK 99508",
+            "latitude": 61.1840547,
+            "longitude": -149.8170283,
+            "rating": 4.1,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Internist"
+            ],
+            "website": "https://alaskafamilycare.com/",
+            "phoneNumber": "(907) 929-5888",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrnwqOIIUuNcWesYReix-g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=96.20519&pitch=0&thumbfov=100",
+            "cid": "9692530489728080171",
+            "fid": "0x56c897041b0ed37d:0x8682c9208ee2992b",
+            "placeId": "ChIJfdMOGwSXyFYRK5nijiDJgoY"
+        },
+        {
+            "position": 19,
+            "title": "Independence Park Medical Services Inc",
+            "address": "9500 Independence Dr STE 900, Anchorage, AK 99507",
+            "latitude": 61.1349452,
+            "longitude": -149.8421459,
+            "rating": 4.7,
+            "ratingCount": 696,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.ipmsak.com/",
+            "phoneNumber": "(907) 522-1341",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGPxoi7OBKnS_lDXium9HD-cpcmnu7b2PXA0TZ",
+            "cid": "8539383781058909819",
+            "fid": "0x56c899e7b91a767d:0x7681fc4e26bf967b",
+            "placeId": "ChIJfXYaueeZyFYRe5a_Jk78gXY"
+        },
+        {
+            "position": 20,
+            "title": "ANMC General Medicine Clinic",
+            "address": "3900 Ambassador Dr, Anchorage, AK 99508",
+            "latitude": 61.182335699999996,
+            "longitude": -149.8068439,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner"
+            ],
+            "website": "https://www.anthc.org/departments/general-medicine/#",
+            "phoneNumber": "(907) 729-1934",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EuWtitSaZBNkh78JUHjMVg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=76.49204&pitch=0&thumbfov=100",
+            "cid": "7335440754585677662",
+            "fid": "0x56c8970012713ba1:0x65ccb8806000af5e",
+            "placeId": "ChIJoTtxEgCXyFYRXq8AYIC4zGU"
+        }
+    ],
+    "credits": 3
+}

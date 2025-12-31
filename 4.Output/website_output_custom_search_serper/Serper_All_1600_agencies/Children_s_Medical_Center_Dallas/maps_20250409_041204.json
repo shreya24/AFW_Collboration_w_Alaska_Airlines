@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Children's Medical Center Dallas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8093936,-96.8368333,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Medical Center Dallas",
+            "address": "1935 Medical District Dr, Dallas, TX 75235",
+            "latitude": 32.8093936,
+            "longitude": -96.8368333,
+            "rating": 3.3,
+            "ratingCount": 1162,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency care physician",
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Pediatrician"
+            ],
+            "website": "https://www.childrens.com/locations/dallas-campus/childrens-medical-center-dallas?utm_source=google?utm_medium=yext&utm_campaign=Children's%20Medical%20Center%20Dallas%20%7C%20%20%7C%20Brand",
+            "phoneNumber": "(214) 456-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Jj1lq-2qTdDBgwEioMdLsJJCOtUK6yG31QFil-7j2WrVewB7FIvFAvgLYi4iIqgGzV6mwb7qbuQfNJTsKmyEcKAb1zFYWkOdYR1EaLI3W5Mf00PdnG5EoB_Dknff2Or6TzTyN",
+            "cid": "18271839534167086103",
+            "fid": "0x864e9c024a47e14d:0xfd929d3f7af7d417",
+            "placeId": "ChIJTeFHSgKcToYRF9T3ej-dkv0"
+        }
+    ],
+    "credits": 3
+}

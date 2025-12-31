@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Norton Thoracic Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4819471,-112.08057,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health Norton Thoracic Institute - Phoenix",
+            "address": "500 W Thomas Rd Ste 500, Phoenix, AZ 85013",
+            "latitude": 33.481693,
+            "longitude": -112.0808392,
+            "rating": 3.7,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-norton-thoracic-institute-phoenix",
+            "phoneNumber": "(602) 406-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJBJd0Jz1MJSOkpD872WxYCELEJIu1CaNeZM8",
+            "cid": "14534901742304631133",
+            "fid": "0x872b1383b9638265:0xc9b658201b46195d",
+            "placeId": "ChIJZYJjuYMTK4cRXRlGGyBYtsk"
+        },
+        {
+            "position": 2,
+            "title": "Norton Thoracic Institute - Dignity Health St. Joseph's Hospital and Medical Center - Phoenix",
+            "address": "350 W Thomas Rd Ste 500, Phoenix, AZ 85013",
+            "latitude": 33.4822011,
+            "longitude": -112.08030079999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/norton-thoracic-institute-dignity-health-st-joseph's-hospital-and-medical-center-phoenix",
+            "phoneNumber": "(602) 406-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9xCQcKvkb_SrPM0wAGfJeQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=336.49625&pitch=0&thumbfov=100",
+            "cid": "5651124687542869000",
+            "fid": "0x872b13b235f3aae7:0x4e6cd3f65e6edc08",
+            "placeId": "ChIJ56rzNbITK4cRCNxuXvbTbE4"
+        }
+    ],
+    "credits": 3
+}

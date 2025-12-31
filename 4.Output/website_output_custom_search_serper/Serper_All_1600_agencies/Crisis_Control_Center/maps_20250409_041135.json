@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Crisis Control Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0625521,-88.2265614,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Crisis Control Ministry",
+            "address": "200 10th St E, Winston-Salem, NC 27101",
+            "latitude": 36.106286,
+            "longitude": -80.2430119,
+            "rating": 3.3,
+            "ratingCount": 324,
+            "type": "Crisis center",
+            "types": [
+                "Crisis center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.crisiscontrol.org/",
+            "phoneNumber": "(336) 724-7453",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNU_M5H4tUJBJtNx9IC6sI5i8xbrZdWbibiRufz",
+            "cid": "14018977769448802325",
+            "fid": "0x8853ae6628d2aebd:0xc28d6a016e180815",
+            "placeId": "ChIJva7SKGauU4gRFQgYbgFqjcI"
+        },
+        {
+            "position": 2,
+            "title": "Crisis Control Center",
+            "address": "50 W Live Oak St, Durant, OK 74701",
+            "latitude": 33.9958592,
+            "longitude": -96.373989,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Family counselor",
+            "types": [
+                "Family counselor"
+            ],
+            "website": "http://www.crisiscenterdurant.org/",
+            "phoneNumber": "(580) 924-3030",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o4hqTB_phaH_6fCg9pr7bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.9082978&pitch=0&thumbfov=100",
+            "cid": "2208135316638457235",
+            "fid": "0x864b5fe726b8e51d:0x1ea4df5f0c3add93",
+            "placeId": "ChIJHeW4JudfS4YRk906DF_fpB4"
+        },
+        {
+            "position": 3,
+            "title": "Crisis Control Ministry Inc",
+            "address": "431 W Bodenhamer St, Kernersville, NC 27284",
+            "latitude": 36.129245,
+            "longitude": -80.0791338,
+            "rating": 4.3,
+            "ratingCount": 101,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.crisiscontrol.org/",
+            "phoneNumber": "(336) 996-5401",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8bSr4SoiVqgAnWZOuM3uzSrEzb60vHxZJSnwT",
+            "cid": "6683024839641992955",
+            "fid": "0x885300bef192177f:0x5cbedfaef7f90efb",
+            "placeId": "ChIJfxeS8b4AU4gR-w75967fvlw"
+        }
+    ],
+    "credits": 3
+}

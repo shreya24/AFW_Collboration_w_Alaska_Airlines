@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Glasgow Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1898492,-106.6362623,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glasgow Clinic Primary Care",
+            "address": "621 3rd St S, Glasgow, MT 59230",
+            "latitude": 48.1898492,
+            "longitude": -106.6362623,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://fmdh.org/glasgow-clinic-primary-care/",
+            "phoneNumber": "(406) 228-3400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMsBI38DrcufnXOtjx8zLpMkgSYq6O8fRia4Wcr",
+            "cid": "12121487031842651887",
+            "fid": "0x533dab75d7957693:0xa8382c3baa7c3eef",
+            "placeId": "ChIJk3aV13WrPVMR7z58qjssOKg"
+        }
+    ],
+    "credits": 3
+}

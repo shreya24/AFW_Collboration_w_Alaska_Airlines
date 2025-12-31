@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "The Permanente Medical Group Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8234884,-122.2581243,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Permanente Medical Group, Inc.",
+            "address": "3600 Broadway, Oakland, CA 94611",
+            "latitude": 37.823488399999995,
+            "longitude": -122.25812429999999,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://permanente.org/the-permanente-medical-group-inc/",
+            "phoneNumber": "(510) 752-1190",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ED4ManbfBvdAcJudl9TvUw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=224.50453&pitch=0&thumbfov=100",
+            "cid": "7973223546223366358",
+            "fid": "0x80857df90592f487:0x6ea69492436c90d6",
+            "placeId": "ChIJh_SSBfl9hYAR1pBsQ5KUpm4"
+        }
+    ],
+    "credits": 3
+}

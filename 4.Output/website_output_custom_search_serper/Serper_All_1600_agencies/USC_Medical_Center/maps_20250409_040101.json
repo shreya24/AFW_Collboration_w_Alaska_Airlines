@@ -1,0 +1,583 @@
+{
+    "searchParameters": {
+        "q": "USC Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0439203,-118.2451387,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Los Angeles General Medical Center",
+            "address": "2051 Marengo St, Los Angeles, CA 90033",
+            "latitude": 34.0580449,
+            "longitude": -118.2073831,
+            "rating": 3.6,
+            "ratingCount": 1171,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Anesthesiologist",
+                "Government hospital"
+            ],
+            "website": "https://dhs.lacounty.gov/lageneral/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM6Yp_fRLcaemFQadcD-eVY7qZJGyBu2W3p29wi",
+            "cid": "492777182623440704",
+            "fid": "0x80c2c675c228d697:0x6d6b23c9bb01f40",
+            "placeId": "ChIJl9YownXGwoARQB-wmzyy1gY"
+        },
+        {
+            "position": 2,
+            "title": "USC University Hospital",
+            "address": "1500 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0619631,
+            "longitude": -118.2014203,
+            "rating": 4,
+            "ratingCount": 44,
+            "priceLevel": "$$",
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Medical diagnostic imaging center",
+                "Personal trainer"
+            ],
+            "phoneNumber": "(323) 442-8500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-HDUzAqyf3E8GyR33SousH8DruKWXBbHNr6eS",
+            "cid": "11254632764494055186",
+            "fid": "0x80c2c5dec0613f27:0x9c307cdea5240712",
+            "placeId": "ChIJJz9hwN7FwoAREgckpd58MJw"
+        },
+        {
+            "position": 3,
+            "title": "Los Angeles General Medical Center",
+            "address": "1200 N State St, Los Angeles, CA 90033",
+            "latitude": 34.059489,
+            "longitude": -118.20809519999999,
+            "rating": 3.7,
+            "ratingCount": 232,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital",
+                "Medical laboratory"
+            ],
+            "website": "http://www.lacusc.org/",
+            "phoneNumber": "(323) 226-2622",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRB6n3i0dHmV9WdZoYFdvHLLPQwEiwAHzJTahb",
+            "cid": "16697900094444591521",
+            "fid": "0x80c2c67519b58aaf:0xe7badbaaa854d9a1",
+            "placeId": "ChIJr4q1GXXGwoARodlUqKrbuuc"
+        },
+        {
+            "position": 4,
+            "title": "Keck Medicine of USC - Willametta Keck Day Healthcare Center (HC2)",
+            "address": "1520 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0626555,
+            "longitude": -118.2025943,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1520-san-pablo-st-los-angeles/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmUu8QxYdpTeK6dagbjtQ9RDfNTb16l4fxNnwo",
+            "cid": "14531991144480094235",
+            "fid": "0x80c2c586ba5da383:0xc9ac00f3bddbb81b",
+            "placeId": "ChIJg6NduobFwoARG7jbvfMArMk"
+        },
+        {
+            "position": 5,
+            "title": "Keck Hospital of USC",
+            "address": "1500 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.062588999999996,
+            "longitude": -118.2018382,
+            "rating": 4,
+            "ratingCount": 468,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1500-san-pablo-st-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/",
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104336&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_oACV9iEAY0-ZMwAXwMMLJR-entity&rwg_token=AAiGsobL6QIoiUPJiy0cKUNCi565p9rzxwUXTKYgH-cb0r7PRAY8vmCdR7LU2DnQmLRTmL1mE3Fy4bWIwAFkDLKTxieXfgZsexCJqiC1CNVlVGxuhSE8XwU%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQS8Nvac3qU6mnL5AQszmTarov5z7oi592miOY",
+            "cid": "10982618905308674526",
+            "fid": "0x80c2c5ded463baf5:0x986a19b4ba69b9de",
+            "placeId": "ChIJ9bpj1N7FwoAR3rlpurQZapg"
+        },
+        {
+            "position": 6,
+            "title": "Engemann Student Health Center",
+            "address": "1031 W 34th St, Los Angeles, CA 90089",
+            "latitude": 34.025185199999996,
+            "longitude": -118.2888571,
+            "rating": 2.9,
+            "ratingCount": 58,
+            "priceLevel": "$$",
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://web-app.usc.edu/ws/soc_archive/soc/term-20141/services/health-center/",
+            "phoneNumber": "(213) 740-9355",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNx74sasmg16LQ0CH47Cs0OMiwsZKEzX9J4SpC9",
+            "cid": "11368664195435525214",
+            "fid": "0x80c2c7e4f5472285:0x9dc59bda1ba2f45e",
+            "placeId": "ChIJhSJH9eTHwoARXvSiG9qbxZ0"
+        },
+        {
+            "position": 7,
+            "title": "University of Southern California Health Sciences Campus",
+            "address": "Zonal Avenue, Biggy St, Los Angeles, CA 90033",
+            "latitude": 34.059438899999996,
+            "longitude": -118.2070672,
+            "rating": 4.7,
+            "ratingCount": 636,
+            "priceLevel": "$$",
+            "type": "Private university",
+            "types": [
+                "Private university"
+            ],
+            "website": "http://www.usc.edu/",
+            "phoneNumber": "(323) 442-2000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtsTsqVnnL5ZjAmqssShkmk586QOHdL7gH9HEn",
+            "cid": "16787263176171732936",
+            "fid": "0x80c2c675edf802a5:0xe8f856ea7eb63fc8",
+            "placeId": "ChIJpQL47XXGwoARyD-2fupW-Og"
+        },
+        {
+            "position": 8,
+            "title": "Keck School of Medicine of USC",
+            "address": "1975 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.061138,
+            "longitude": -118.2057365,
+            "rating": 4.1,
+            "ratingCount": 92,
+            "priceLevel": "$$",
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://keck.usc.edu/",
+            "phoneNumber": "(323) 442-1100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNy1eeoYmP4T6eno1EBB3dMD9UR948U5AJgjBfK",
+            "cid": "1956318532872637592",
+            "fid": "0x80c2c5df2863610d:0x1b263d5733630c98",
+            "placeId": "ChIJDWFjKN_FwoARmAxjM1c9Jhs"
+        },
+        {
+            "position": 9,
+            "title": "Keck Medicine of USC - USC Center for Advanced Lung Disease",
+            "address": "1510 San Pablo St 5th floor, Los Angeles, CA 90033",
+            "latitude": 34.0623862,
+            "longitude": -118.2020003,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1510-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=115106&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_R052O2pxgUmLih25_4S4Ex-entity&rwg_token=AAiGsoZ-qKrgQCzrACQLTkExLp9vwoO3hZhyTEVajH9EulGlGgpZZJ3zWMeo5BQMtgb6hDAPnPhmwHGfcj1r40Vn2Z1dgDEGUH-aoEY7mxjJsJtNBfNzqao%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJISDiScaG08u1_G-obzuE70vg22LQE4yFYby5",
+            "cid": "12372157559221518150",
+            "fid": "0x80c2c5d92ca41c6b:0xabb2bbbfe68fff46",
+            "placeId": "ChIJaxykLNnFwoARRv-P5r-7sqs"
+        },
+        {
+            "position": 10,
+            "title": "Keck Medicine of USC - USC Healthcare Center 1 (HC1)",
+            "address": "1510 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0619493,
+            "longitude": -118.2026724,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1510-san-pablo-st-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOao3Q5qQnnPXx_ESRuAgQVTfsQ0SY4CelACF8",
+            "cid": "16772456040270899255",
+            "fid": "0x80c2c5df2a507583:0xe8c3bbe78333a837",
+            "placeId": "ChIJg3VQKt_FwoARN6gzg-e7w-g"
+        },
+        {
+            "position": 11,
+            "title": "Keck Medicine of USC - USC Healthcare Center - University Park Campus",
+            "address": "1031 W 34th St Suite 430, Los Angeles, CA 90089",
+            "latitude": 34.0252377,
+            "longitude": -118.2887765,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1031-w-34th-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrL_mJ19diVNup_ArwXLs9QHz-otLDCI1_L_lK",
+            "cid": "4304320233417437952",
+            "fid": "0x80c2c7b9630380bf:0x3bbc0472705f7300",
+            "placeId": "ChIJv4ADY7nHwoARAHNfcHIEvDs"
+        },
+        {
+            "position": 12,
+            "title": "Keck Medicine of USC - USC Pain Center (HC2)",
+            "address": "1520 San Pablo St #3450, Los Angeles, CA 90033",
+            "latitude": 34.0626204,
+            "longitude": -118.2027107,
+            "rating": 3.5,
+            "ratingCount": 8,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1520-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDT1dpMbQSAsXiJjMy3hRwewPF7CTizvPTsFO8",
+            "cid": "13867066388659592309",
+            "fid": "0x80c2c5d92a37afcd:0xc071b768dcd05c75",
+            "placeId": "ChIJza83KtnFwoARdVzQ3Gi3ccA"
+        },
+        {
+            "position": 13,
+            "title": "USC Care Medical Group",
+            "address": "1510 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0625967,
+            "longitude": -118.2027074,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "priceLevel": "$$",
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital",
+                "Anesthesiologist",
+                "Dermatologist",
+                "Family practice physician",
+                "Hospital",
+                "Internist",
+                "Neurosurgeon",
+                "Orthopedic surgeon",
+                "Urologist"
+            ],
+            "website": "https://departmentsdirectory.usc.edu/usc-care-medical-group-inc/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqn4a2_ZHsvYyzS5MSa1xvAlZyX28hv3yJAMRs",
+            "cid": "17693717989461725683",
+            "fid": "0x80c2c5df2863610d:0xf58cb6c41dce11f3",
+            "placeId": "ChIJDWFjKN_FwoAR8xHOHcS2jPU"
+        },
+        {
+            "position": 14,
+            "title": "Los Angeles General Medical Center Emergency Room",
+            "address": "1200 N State St, Los Angeles, CA 90033",
+            "latitude": 34.0579666,
+            "longitude": -118.20879839999999,
+            "rating": 2,
+            "ratingCount": 110,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.lacusc.org/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNn6Rthk5UNvxzv4TjRTpiJ6Onz9qsdfz1eWjci",
+            "cid": "10135822705881453763",
+            "fid": "0x80c2c6751c9d7a39:0x8ca9ad0c926714c3",
+            "placeId": "ChIJOXqdHHXGwoARwxRnkgytqYw"
+        },
+        {
+            "position": 15,
+            "title": "Eric Cohen Student Health Center",
+            "address": "1510 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0623216,
+            "longitude": -118.20199179999999,
+            "rating": 4.5,
+            "ratingCount": 15,
+            "priceLevel": "$$",
+            "type": "Academic department",
+            "types": [
+                "Academic department"
+            ],
+            "website": "https://studenthealth.usc.edu/",
+            "phoneNumber": "(213) 740-9355",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQQzyLAeJ5-pbQn-lOWJ0rmX4d7Ifpqqrp2tOc",
+            "cid": "15468947079323443114",
+            "fid": "0x80c2c5decf620951:0xd6acbd692063dfaa",
+            "placeId": "ChIJUQliz97FwoARqt9jIGm9rNY"
+        },
+        {
+            "position": 16,
+            "title": "Keck Medicine of USC- USC Radiology (HC1)",
+            "address": "1510 San Pablo St # 350, Los Angeles, CA 90033",
+            "latitude": 34.0623826,
+            "longitude": -118.20199389999999,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "priceLevel": "$$",
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1510-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBuJBS_lABZXfGZz-uh4fJL_nBUtYH9xCVwiUV",
+            "cid": "3533751552895462924",
+            "fid": "0x80c2c5dedda87d5f:0x310a685092d1ae0c",
+            "placeId": "ChIJX32o3d7FwoARDK7RklBoCjE"
+        },
+        {
+            "position": 17,
+            "title": "Keck Medicine of USC - USC Healthcare Center 4 (HC4)",
+            "address": "1450 San Pablo St, Los Angeles, CA 90089",
+            "latitude": 34.061797999999996,
+            "longitude": -118.20253509999999,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1450-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104327&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_bJMzYseYukS38ZpK4RtBsh-entity&rwg_token=AAiGsoacc6046cptZ4D3zXeZb-KY21X9PH73etwkM07TRjJNW6XTjv4ARLs496K_sZE8zg7OC1ksCIXuIJHvyty9NERdAC_proLvYXT1qYfeEppBsQOEaZQ%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODYcz9kjZNs0n4SwJUC4MHHUb4Xg8cuigqKOc0",
+            "cid": "4001226353886458515",
+            "fid": "0x80c2c5df241f34bd:0x3787362b61557293",
+            "placeId": "ChIJvTQfJN_FwoARk3JVYSs2hzc"
+        },
+        {
+            "position": 18,
+            "title": "The Medical Village LAC+USC Outpatient Department",
+            "address": "2010 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.0586007,
+            "longitude": -118.2067945,
+            "rating": 2.9,
+            "ratingCount": 14,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "phoneNumber": "(323) 409-4440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrFFlrJ5oKFkbDYQ2D7WMNJuI0hYxDzA2ze9YF",
+            "cid": "16337643675256454570",
+            "fid": "0x80c2c67571d2a4cf:0xe2baf85cb2917daa",
+            "placeId": "ChIJz6TScXXGwoARqn2Rslz4uuI"
+        },
+        {
+            "position": 19,
+            "title": "Keck Medicine of USC",
+            "address": "830 Flower St, Los Angeles, CA 90017",
+            "latitude": 34.0464032,
+            "longitude": -118.26042819999999,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic"
+            ],
+            "website": "https://www.keckmedicine.org/locations/830-s-flower-st-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104321&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_khDDgHjrRUugahK0jUA_Kx-entity&rwg_token=AAiGsoZkIPaNz3YM6O-MpUK28S7We0MEipI37i7UuTfXEGJy59AHKNRJkSNlBPkeVz6rXdcUYL6ynatrWcpGc__AUi58Btfxvxq9N7c2vhZ3h-ipp1A6AdU%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM14-2FReHltwurENlRWSzJuNGNC4aJ1KmJSiiF",
+            "cid": "8399501019866702089",
+            "fid": "0x80c2c7cf5ff12a3d:0x749105acd3afa109",
+            "placeId": "ChIJPSrxX8_HwoARCaGv06wFkXQ"
+        },
+        {
+            "position": 20,
+            "title": "USC Medical Ctr Busway Station",
+            "address": "Los Angeles, CA 90033",
+            "latitude": 34.0555006,
+            "longitude": -118.2105813,
+            "rating": 3.3,
+            "ratingCount": 8,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfn_5uO2-DGKj2bhuiojXO4GALc2dTEonNmoHJ",
+            "cid": "14634198029140324252",
+            "fid": "0x80c2c674ad57f405:0xcb171d927ba16f9c",
+            "placeId": "ChIJBfRXrXTGwoARnG-he5IdF8s"
+        }
+    ],
+    "credits": 3
+}

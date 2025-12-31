@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "College Hill Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6898302,-97.2982029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "College Hill Ob/gyn",
+            "address": "3233 E 2nd St N, Wichita, KS 67208",
+            "latitude": 37.689830199999996,
+            "longitude": -97.29820289999999,
+            "rating": 2.8,
+            "ratingCount": 184,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "http://collegehillobgyn.com/",
+            "phoneNumber": "(316) 683-6766",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoUjxbGrvN4MWHc3TB7HnC8yhU9YRxp5q1lbvC",
+            "cid": "6436619014754646622",
+            "fid": "0x87bae30d44caba33:0x595376e428f9ba5e",
+            "placeId": "ChIJM7rKRA3juocRXrr5KOR2U1k"
+        }
+    ],
+    "credits": 3
+}

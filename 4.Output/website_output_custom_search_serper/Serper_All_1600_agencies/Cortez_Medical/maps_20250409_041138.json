@@ -1,0 +1,535 @@
+{
+    "searchParameters": {
+        "q": "Cortez Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5628407,-49.303664,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. med. Tiago Cortez de Lobao Facharzt f\u00fcr Allgemeinmedizin",
+            "address": "Schulstra\u00dfe 72, 66773 Schwalbach, Germany",
+            "latitude": 49.30224,
+            "longitude": 6.816199999999999,
+            "rating": 4.1,
+            "ratingCount": 23,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner",
+                "Doctor"
+            ],
+            "website": "http://www.praxis-cortez-sinn-hirschelmann.de/",
+            "phoneNumber": "+49 6834 952591",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u201312\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 4\u20137\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 4\u20137\u202fPM",
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 4\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T2caRSUgP06fer36eNdD-A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=150.79247&pitch=0&thumbfov=100",
+            "cid": "2175203937180281501",
+            "fid": "0x4795af3965c98751:0x1e2fe074c5a96a9d",
+            "placeId": "ChIJUYfJZTmvlUcRnWqpxXTgLx4"
+        },
+        {
+            "position": 2,
+            "title": "Dr. med. Cortez Gerardo",
+            "address": "Freiestrasse 4, 8805 Richterswil, Switzerland",
+            "latitude": 47.206361,
+            "longitude": 8.705973,
+            "rating": 5,
+            "ratingCount": 9,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon",
+                "Medical clinic"
+            ],
+            "website": "https://www.chirurgie-cortez.ch/",
+            "phoneNumber": "+41 79 903 25 69",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM",
+                "Tuesday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.local.ch/d/YQKBx6559610e9O-D_9hlA#open-booking"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ0buIjSvRGni29j6lfkkVhSOcxFTHEnyw6heO",
+            "cid": "12349274760815445518",
+            "fid": "0x479ab1918c0df73b:0xab616ff7381a060e",
+            "placeId": "ChIJO_cNjJGxmkcRDgYaOPdvYas"
+        },
+        {
+            "position": 3,
+            "title": "Praxis f\u00fcr Psychotherapie Sergio Abel Cortez Robles",
+            "address": "Stegerwaldstra\u00dfe 5, 51373 Leverkusen, Germany",
+            "latitude": 51.0293813,
+            "longitude": 7.0066247,
+            "rating": 2.6,
+            "ratingCount": 16,
+            "type": "Psychotherapist",
+            "types": [
+                "Psychotherapist"
+            ],
+            "website": "http://www.sergio-cortez.de/",
+            "phoneNumber": "+49 214 89085078",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8ivt382CLMRPli7-kOW2Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=58.38775&pitch=0&thumbfov=100",
+            "cid": "14572793868198960179",
+            "fid": "0x47bf2f102d4be78b:0xca3cf6d02afd5c33",
+            "placeId": "ChIJi-dLLRAvv0cRM1z9KtD2PMo"
+        },
+        {
+            "position": 4,
+            "title": "Dipl. Psych. Sergio A. Cortez Psychohterapeut",
+            "address": "Stegerwaldstra\u00dfe 5, 51373 Leverkusen, Germany",
+            "latitude": 51.0293813,
+            "longitude": 7.0066247,
+            "type": "Psychotherapist",
+            "types": [
+                "Psychotherapist"
+            ],
+            "website": "http://psychotherapieleverkusen.de/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8ivt382CLMRPli7-kOW2Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=58.38775&pitch=0&thumbfov=100",
+            "cid": "8988719635633236744",
+            "fid": "0x47bf2ec883be8ef5:0x7cbe58e2637f6b08",
+            "placeId": "ChIJ9Y6-g8guv0cRCGt_Y-JYvnw"
+        },
+        {
+            "position": 5,
+            "title": "Cortes Family Physicians",
+            "address": "5712 21st Ave W, Bradenton, FL 34209",
+            "latitude": 27.480314,
+            "longitude": -82.618535,
+            "rating": 4.5,
+            "ratingCount": 28,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Medical Center",
+                "Medical spa"
+            ],
+            "website": "https://cortesfamilyphysicians.com/",
+            "phoneNumber": "(941) 297-7511",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrjPKRAhzOp11UZI2YgI4_fk2sBfgXQd3p72CT",
+            "cid": "11687920099450585833",
+            "fid": "0x88c316efaa5d033b:0xa233d567bae682e9",
+            "placeId": "ChIJOwNdqu8Ww4gR6YLmumfVM6I"
+        },
+        {
+            "position": 6,
+            "title": "Axis Health System - Cortez Integrated Healthcare",
+            "address": "691 E Empire St, Cortez, CO 81321",
+            "latitude": 37.3556999,
+            "longitude": -108.57665,
+            "rating": 4.5,
+            "ratingCount": 146,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dentist",
+                "Mental health clinic",
+                "Pharmacy"
+            ],
+            "website": "https://www.axishealthsystem.org/locations/cortez/cortez-integrated-healthcare/",
+            "phoneNumber": "(970) 565-7946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMbp7cbOJXa1ApO5JQPxckBJsZHIsk98J3Uq2TY",
+            "cid": "5807395453854576545",
+            "fid": "0x87396fa3d6375223:0x5098036579386fa1",
+            "placeId": "ChIJI1I31qNvOYcRoW84eWUDmFA"
+        },
+        {
+            "position": 7,
+            "title": "Canterbury Health Centre",
+            "address": "26 Old Dover Rd, Canterbury CT1 3JH, United Kingdom",
+            "latitude": 51.2743155,
+            "longitude": 1.0830495,
+            "rating": 2.7,
+            "ratingCount": 83,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "website": "https://canterburyhealthcentre.co.uk/",
+            "phoneNumber": "+44 1227 931999",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-h3FgMmenp0n88kDBOHunzlYgdCqRYsrApfWOzORR56Nc2WjJsQLN2bQMZjGG8D9ID593oGR8TqLOHjOghzDSN0kUPA07nEiT1Qq5R_aKICN_3Gd_Z6VHEiagFLJdv_PUKK1gY",
+            "cid": "11778752661694048363",
+            "fid": "0x47deca34a30b1339:0xa3768923a975e86b",
+            "placeId": "ChIJORMLozTK3kcRa-h1qSOJdqM"
+        },
+        {
+            "position": 8,
+            "title": "Cortez Ferreira-centro De Diagn\u00f3stico Pela Imagem Lda.",
+            "address": "R. Dr. Francisco S\u00e1 Carneiro C, 4990-150 Pte. de Lima, Portugal",
+            "latitude": 41.763355,
+            "longitude": -8.5773417,
+            "rating": 3.7,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "+351 258 943 232",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20136:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Gaj3M6AWSr_TB0qYBE1oHuORsJcUmKJ_U4UbSwOrtPZfQjT6aKC9CjDJBjGQKWWrUWhmASOMU7Cgxos1hj6wPwz3sMxNcnUd18MbVfZToFurkNehnTMO2RKPmAN9ZhuVfrbbFyw",
+            "cid": "2268181796059943395",
+            "fid": "0xd25a5feb64242d5:0x1f7a3353802911e3",
+            "placeId": "ChIJ1UJCtv6lJQ0R4xEpgFMzeh8"
+        },
+        {
+            "position": 9,
+            "title": "Southwest Medical Group - Family Medicine",
+            "address": "1311A N Mildred Rd suite b, Cortez, CO 81321",
+            "latitude": 37.3615278,
+            "longitude": -108.57438529999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ycQXWX7Cs9hTD3oBNYd-K6iHsk3--_p8NW7Jh-j6BC_ZIWpqfPod-wcVN3_KSP_tf9rECg98i0em4ahySClSvv6vHEp34IzxT6MCHhnSGlR8s-p_veiYQWGYBOFNcp7U7mQ4f",
+            "cid": "5022421893000702752",
+            "fid": "0x87396f5f082f8a3f:0x45b33a1a0c73ab20",
+            "placeId": "ChIJP4ovCF9vOYcRIKtzDBo6s0U"
+        },
+        {
+            "position": 10,
+            "title": "Centro Oculistico Firenze",
+            "address": "Via Vittorio Fossombroni, 2/A, 50136 Firenze FI, Italy",
+            "latitude": 43.7732135,
+            "longitude": 11.2725432,
+            "rating": 4.7,
+            "ratingCount": 134,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center"
+            ],
+            "website": "https://www.centrooculisticofirenze.it/it/prenota-on-line/",
+            "phoneNumber": "+39 055 234 4569",
+            "openingHours": {
+                "Wednesday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Tuesday": "8:30\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.centrooculisticofirenze.it/it/prenota-on-line/",
+                "https://www.cupsolidale.it/sede/5f0ed53692fa09bb098b4748?rwg_token=AAiGsobSJd6QGS8Pb92YeDXQ1GPb0Fcl69OGZpdjApttdXh-M00BN0ipS761crsAbGqtbdaRQ1dM3IviNvMHmVTmrltDGfm4Dw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlaP7x4ejOho11lxyhVZbY__cyMH74oRx0YALB",
+            "cid": "10021730185270224935",
+            "fid": "0x132a540d0419af9f:0x8b1456818fd76827",
+            "placeId": "ChIJn68ZBA1UKhMRJ2jXj4FWFIs"
+        },
+        {
+            "position": 11,
+            "title": "Sea of Cortes Clinic - Doctor in Cabo",
+            "address": "Plaza Novva, Calle poligono B Parcela 44-Local 14, 23454 Cabo San Lucas, B.C.S., Mexico",
+            "latitude": 22.908292199999998,
+            "longitude": -109.8798712,
+            "rating": 5,
+            "ratingCount": 311,
+            "type": "Health consultant",
+            "types": [
+                "Health consultant",
+                "Doctor",
+                "Emergency care physician",
+                "Emergency care service",
+                "Family practice physician",
+                "General practitioner",
+                "Nurse practitioner",
+                "Pain control clinic"
+            ],
+            "website": "https://alav.link/Sea-of-Cortes-Medical-Assistance",
+            "phoneNumber": "+52 624 259 0996",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310\u202fPM",
+                "Wednesday": "8\u202fAM\u201310\u202fPM",
+                "Thursday": "8\u202fAM\u201310\u202fPM",
+                "Friday": "8\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u201310\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://alav.link/Sea-of-Cortes-Medical-Assistance"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQu3Cz2UgkTy9Ofy42mIpMZy91p4KBahXnJQqi",
+            "cid": "6091483157281827115",
+            "fid": "0x86af4b69108bac33:0x54894ba8510ee92b",
+            "placeId": "ChIJM6yLEGlLr4YRK-kOUahLiVQ"
+        },
+        {
+            "position": 12,
+            "title": "Southwest Medical Group Primary Care",
+            "address": "1311-A N Mildred Rd, Cortez, CO 81321",
+            "latitude": 37.3621911,
+            "longitude": -108.57443719999999,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.swhealth.org/services/southwest-medical-group/",
+            "phoneNumber": "(970) 565-8556",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8mlpJtPPe-cxjaKBeb3oYa-oGcli2wQ5Zff3Xl4zjrllU19RDr730vtpF2R7WVeM9AOXAgrYlTurAykOQAfSR3k9-g7-5iC9nBAks9BVsOOLu2hWA9Klg97HwCw97XMAGyhbs",
+            "cid": "12710849536634841863",
+            "fid": "0x87396f4e103b8bb5:0xb066024f008eeb07",
+            "placeId": "ChIJtYs7EE5vOYcRB-uOAE8CZrA"
+        },
+        {
+            "position": 13,
+            "title": "MaxHealth Primary Care",
+            "address": "4401 Cortez Rd W, Bradenton, FL 34210",
+            "latitude": 27.461051899999998,
+            "longitude": -82.6052066,
+            "rating": 4.5,
+            "ratingCount": 276,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic"
+            ],
+            "website": "https://www.mymaxdoc.com/",
+            "phoneNumber": "(941) 357-5550",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOYLDf0RVuU-8-aQN-mSYLiB-EVafjBHqDKh5f",
+            "cid": "17048213553112137862",
+            "fid": "0x88c3168827fae481:0xec976be6b83fc086",
+            "placeId": "ChIJgeT6J4gWw4gRhsA_uOZrl-w"
+        },
+        {
+            "position": 14,
+            "title": "MCR Health Cortez",
+            "address": "3501 Cortez Rd W #1, Bradenton, FL 34210",
+            "latitude": 27.4612096,
+            "longitude": -82.59801259999999,
+            "rating": 2.8,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Health care facility"
+            ],
+            "website": "https://mcr.health/cortez-health-center/",
+            "phoneNumber": "(941) 909-7007",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3WQS1uvAmZC6-b373sZ3fQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=150.15851&pitch=0&thumbfov=100",
+            "cid": "9542659119932355127",
+            "fid": "0x88c31664f6a1b565:0x846e55e91035b237",
+            "placeId": "ChIJZbWh9mQWw4gRN7I1EOlVboQ"
+        },
+        {
+            "position": 15,
+            "title": "Cortes Cristobal E DO",
+            "address": "5712 21st Ave W, Bradenton, FL 34209",
+            "latitude": 27.480314,
+            "longitude": -82.618535,
+            "rating": 4.4,
+            "ratingCount": 22,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.cortesfamilyphysicians.com/",
+            "phoneNumber": "(941) 795-0105",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u201311\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7QnPAZW9LffcYsKYHEH9Wg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=69.8065&pitch=0&thumbfov=100",
+            "cid": "6035374859571669876",
+            "fid": "0x88c316efaa5d033b:0x53c1f5753f17ab74",
+            "placeId": "ChIJOwNdqu8Ww4gRdKsXP3X1wVM"
+        },
+        {
+            "position": 16,
+            "title": "Me Time \u00c4sthetik Bochum - Botox\u00ae & Hyaluron",
+            "address": "Huestra\u00dfe 18, 44787 Bochum, Germany",
+            "latitude": 51.4799054,
+            "longitude": 7.219868399999999,
+            "rating": 5,
+            "ratingCount": 102,
+            "type": "Skin care clinic",
+            "types": [
+                "Skin care clinic"
+            ],
+            "website": "http://metimeaesthetik.de/",
+            "phoneNumber": "+49 178 6277937",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "8\u202fAM\u20139\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20139\u202fPM",
+                "Tuesday": "8\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://app.cituro.com/booking/5817589?rwg_merchant=Y29tcGFueT0xMWVmMmM4MjVjMGY0NjA1OTk2YjgzYTEyY2ZmN2MzYSxsb2NhdGlvbj0xMWVmMmM4MjVjMTE2OGU2OTk2YjgzYTEyY2ZmN2MzYQ&rwg_token=AAiGsoY24IJxcEWPtRFizibhGjpRT_23v7xmds_PApwrNJ2krP73ARkZAtxJVOzg-3r_rYxolqQ2AT3eHuTZYBqi3l-6xVWh5I83yBB3WwyKFq5BwWxx490%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONyi4CvQw_qO-paZ8CtSE3kjcjnVSrzyKo-sO3",
+            "cid": "8811821185082715498",
+            "fid": "0x47b8e125c077f63d:0x7a49e0ae491ded6a",
+            "placeId": "ChIJPfZ3wCXhuEcRau0dSa7gSXo"
+        },
+        {
+            "position": 17,
+            "title": "Southwest Medical Group: School-Based Health Center",
+            "address": "418 Sligo St, Cortez, CO 81321",
+            "latitude": 37.3447706,
+            "longitude": -108.5609727,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.swhealth.org/services/southwest-medical-group/#school-based-health-clinic",
+            "phoneNumber": "(970) 564-4855",
+            "cid": "4817344075598064247",
+            "fid": "0x87396f9977b5ab7f:0x42daa4e9d2daea77",
+            "placeId": "ChIJf6u1d5lvOYcRd-ra0umk2kI"
+        },
+        {
+            "position": 18,
+            "title": "St Mark's Dental and Aesthetic Clinic",
+            "address": "6 Chapel St, Chesterton, Cambridge CB4 1DY, United Kingdom",
+            "latitude": 52.2173891,
+            "longitude": 0.139779,
+            "rating": 3.3,
+            "ratingCount": 77,
+            "type": "Dental clinic",
+            "types": [
+                "Dental clinic",
+                "Dental hygienist",
+                "Dental implants provider",
+                "Dental radiology",
+                "Endodontist",
+                "Oral surgeon",
+                "Orthodontist",
+                "Periodontist"
+            ],
+            "website": "http://www.stmarksdental.co.uk/",
+            "phoneNumber": "+44 1223 507750",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Oi8QBwZS6e-U7rJCyHrkHnWcCRVw6tL2oeKGTh_ZwipqAF72Evdk7mlXTYJB_jhwKaPlAmV1GFQWzdIHBM4jjNVnjIm289h3DrL_bnAUvfY3erQZSc_GweJd3Zu-2sDgGBen-",
+            "cid": "1238272667169619072",
+            "fid": "0x47d870f42160de99:0x112f3a6e1db87c80",
+            "placeId": "ChIJmd5gIfRw2EcRgHy4HW46LxE"
+        },
+        {
+            "position": 19,
+            "title": "Southwest Medical Group Women's Health: Obstetrics, Gynecology",
+            "address": "1311-A N Mildred Rd suite b, Cortez, CO 81321",
+            "latitude": 37.3621596,
+            "longitude": -108.5746092,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://www.swhealth.org/locations/southwest-medical-group-map/",
+            "phoneNumber": "(970) 564-2662",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhGoPkNgn_XVX2OqRiopPnw8oSNqbIPOopf1TG",
+            "cid": "1281365858771926619",
+            "fid": "0x87396f5aa098d1a9:0x11c85375a769fe5b",
+            "placeId": "ChIJqdGYoFpvOYcRW_5pp3VTyBE"
+        }
+    ],
+    "credits": 3
+}

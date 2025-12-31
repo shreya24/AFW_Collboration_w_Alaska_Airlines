@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Care Hawaii Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3128388,-157.8735821,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CARE Hawaii, Inc.",
+            "address": "197 Sand Island Access Rd Suite 201D, Honolulu, HI 96819",
+            "latitude": 21.3251775,
+            "longitude": -157.8891145,
+            "rating": 3.1,
+            "ratingCount": 15,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Psychologist"
+            ],
+            "website": "https://www.carehawaii.com/",
+            "phoneNumber": "(808) 533-3936",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ryewWDxkArPAhXqgdlxMew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=129.06876&pitch=0&thumbfov=100",
+            "cid": "9569041050119955993",
+            "fid": "0x7c006e09f204e0ed:0x84cc1022d987e619",
+            "placeId": "ChIJ7eAE8gluAHwRGeaH2SIQzIQ"
+        },
+        {
+            "position": 2,
+            "title": "Care Hawaii Inc",
+            "address": "606 Coral St, Honolulu, HI 96813",
+            "latitude": 21.3005,
+            "longitude": -157.85804969999998,
+            "type": "Health",
+            "types": [
+                "Health"
+            ],
+            "phoneNumber": "(808) 533-3936",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bbKLzbhDSVV-_xO428lbVg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=291.42023&pitch=0&thumbfov=100",
+            "cid": "9544546797683289288",
+            "fid": "0x7c006e09f204e0ed:0x84750abe4a012cc8",
+            "placeId": "ChIJ7eAE8gluAHwRyCwBSr4KdYQ"
+        }
+    ],
+    "credits": 3
+}

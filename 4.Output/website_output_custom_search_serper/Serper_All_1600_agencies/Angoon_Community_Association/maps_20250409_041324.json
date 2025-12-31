@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Angoon Community Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.5011083,-134.5843181,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angoon Community Association",
+            "address": "315 Heendae Rd, Angoon, AK 99820",
+            "latitude": 57.5011083,
+            "longitude": -134.5843181,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Tribal headquarters",
+            "types": [
+                "Tribal headquarters"
+            ],
+            "phoneNumber": "(907) 788-3411",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "cid": "3600766496331964846",
+            "fid": "0x5406a053ffffffff:0x31f87e0cfcfea1ae",
+            "placeId": "ChIJ_____1OgBlQRrqH-_Ax--DE"
+        }
+    ],
+    "credits": 3
+}

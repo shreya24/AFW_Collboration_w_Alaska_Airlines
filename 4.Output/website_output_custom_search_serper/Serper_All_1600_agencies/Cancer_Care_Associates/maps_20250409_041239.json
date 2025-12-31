@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cancer Care Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.512727,-83.1907989,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Care Associates",
+            "address": "Suite 404 Rose Cancer Center, 3577 W 13 Mile Rd, Royal Oak, MI 48073",
+            "latitude": 42.512727,
+            "longitude": -83.19079889999999,
+            "rating": 2.4,
+            "ratingCount": 17,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist"
+            ],
+            "phoneNumber": "(248) 551-6900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdoJoepdkp9Q_S-2lGyPk7be6OMLJrmDMAF40J",
+            "cid": "16140206496610495969",
+            "fid": "0x8824c63c87889dd1:0xdffd884b4febade1",
+            "placeId": "ChIJ0Z2IhzzGJIgR4a3rT0uI_d8"
+        }
+    ],
+    "credits": 3
+}

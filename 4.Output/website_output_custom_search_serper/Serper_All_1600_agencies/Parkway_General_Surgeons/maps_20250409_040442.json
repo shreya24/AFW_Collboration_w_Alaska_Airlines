@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Parkway General Surgeons",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.771722,-122.4744808,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PARKWAY GENERAL SURGEONS",
+            "address": "2940 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.771722,
+            "longitude": -122.4744808,
+            "rating": 4.9,
+            "ratingCount": 159,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Surgeon"
+            ],
+            "website": "https://www.parkwaygeneralsurgeons.com/",
+            "phoneNumber": "(360) 733-0070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzbRZOJtIXF8ujQNPZ9Ils_OL5Gw7hllyeRJ7b",
+            "cid": "11735516921414842882",
+            "fid": "0x5485a3797c1df387:0xa2dcee766c847a02",
+            "placeId": "ChIJh_MdfHmjhVQRAnqEbHbu3KI"
+        }
+    ],
+    "credits": 3
+}

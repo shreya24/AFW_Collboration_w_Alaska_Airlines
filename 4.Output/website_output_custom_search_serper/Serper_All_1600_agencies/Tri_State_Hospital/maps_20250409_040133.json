@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Tri State Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4026485,-117.0550129,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "TriState Health",
+            "address": "1221 Highland Ave, Clarkston, WA 99403",
+            "latitude": 46.4026485,
+            "longitude": -117.0550129,
+            "rating": 2.8,
+            "ratingCount": 111,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.tsh.org/",
+            "phoneNumber": "(509) 758-5511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhFYofrve6owXdObhSmvZUU_dE34R-mb1yYtov",
+            "cid": "2981031253977767658",
+            "fid": "0x54a1ca903b01abf3:0x295ec0219dae9eea",
+            "placeId": "ChIJ86sBO5DKoVQR6p6unSHAXik"
+        }
+    ],
+    "credits": 3
+}

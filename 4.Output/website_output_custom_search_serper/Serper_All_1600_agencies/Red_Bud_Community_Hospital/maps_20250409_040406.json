@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Red Bud Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2090429,-89.9969255,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Red Bud Regional Hospital",
+            "address": "325 Spring St, Red Bud, IL 62278",
+            "latitude": 38.2090429,
+            "longitude": -89.99692549999999,
+            "rating": 3.8,
+            "ratingCount": 68,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://redbudregional.com/",
+            "phoneNumber": "(618) 282-3831",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSH5MVmzzEW_6qtF5TZMDeFyXBkj1P2tqcAfBd",
+            "cid": "217387729498260173",
+            "fid": "0x88762760f1fbcf6d:0x30450fcfb45c2cd",
+            "placeId": "ChIJbc_78WAndogRzcJF-_xQBAM"
+        }
+    ],
+    "credits": 3
+}

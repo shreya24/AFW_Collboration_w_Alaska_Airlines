@@ -1,0 +1,95 @@
+{
+    "searchParameters": {
+        "q": "Dawn Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.68559,-98.4412253,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Dawn Health & Hospice Inc",
+            "address": "Ten Mile Creek Estates, 1604 Strayhorn Dr, DeSoto, TX 75115",
+            "latitude": 32.6105589,
+            "longitude": -96.8993431,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(972) 283-5590",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PO9x0wNfm-hpvrLPu07rSg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=181.93114&pitch=0&thumbfov=100",
+            "cid": "12522046722243671669",
+            "fid": "0x864e922281a964b3:0xadc73f26342db675",
+            "placeId": "ChIJs2SpgSKSToYRdbYtNCY_x60"
+        },
+        {
+            "position": 2,
+            "title": "Dawn Hospice",
+            "address": "Weaverville, CA 96093",
+            "latitude": 40.7415454,
+            "longitude": -122.92813749999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://dawnhospice.org/",
+            "phoneNumber": "(530) 623-4692",
+            "cid": "2133070023476837771",
+            "fid": "0x54d2522249c16d61:0x1d9a2fe2865efd8b",
+            "placeId": "ChIJYW3BSSJS0lQRi_1ehuIvmh0"
+        },
+        {
+            "position": 3,
+            "title": "The Dawn Greene Hospice at Mary Manning Walsh Home",
+            "address": "1339 York Ave, New York, NY 10021",
+            "latitude": 40.7665746,
+            "longitude": -73.9543132,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "https://www.calvaryhospital.org/",
+            "phoneNumber": "(718) 518-2465",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOSLS0v28CYYMawycGX7sJnrfHjLmVVz6luQ0V",
+            "cid": "8429299291594192372",
+            "fid": "0x89c258c14ff1c8c9:0x74fae30b9cec75f4",
+            "placeId": "ChIJycjxT8FYwokR9HXsnAvj-nQ"
+        },
+        {
+            "position": 4,
+            "title": "New Dawn Health & Hospice Inc",
+            "address": "1005 E Pleasant Run Rd, DeSoto, TX 75115",
+            "latitude": 32.604605299999996,
+            "longitude": -96.8333188,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Home health care service"
+            ],
+            "phoneNumber": "(972) 283-5590",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3mVetsZqvedIaJelAXtTzA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=4.7089667&pitch=0&thumbfov=100",
+            "cid": "8287260893161066394",
+            "fid": "0x864e922281a964b3:0x730243dfe1da0f9a",
+            "placeId": "ChIJs2SpgSKSToYRmg_a4d9DAnM"
+        }
+    ],
+    "credits": 3
+}

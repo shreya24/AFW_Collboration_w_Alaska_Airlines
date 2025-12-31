@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7714806,-111.8366141,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Utah Hospital",
+            "address": "50 Medical Dr N, Salt Lake City, UT 84132",
+            "latitude": 40.7714806,
+            "longitude": -111.83661409999999,
+            "rating": 3.6,
+            "ratingCount": 1279,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Birth center",
+                "Emergency room",
+                "Pharmacy",
+                "Surgical center"
+            ],
+            "website": "https://healthcare.utah.edu/hospital/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 581-2121",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgNcpqC6JH1109rtJxbmk-lxrOB4Rcgr-6PTKf",
+            "cid": "5918513551681049251",
+            "fid": "0x87525f97100c035d:0x5222c8b7b648d2a3",
+            "placeId": "ChIJXQMMEJdfUocRo9JItrfIIlI"
+        }
+    ],
+    "credits": 3
+}

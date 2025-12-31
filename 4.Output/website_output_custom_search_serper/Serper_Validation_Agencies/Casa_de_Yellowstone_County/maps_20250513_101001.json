@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Casa de Yellowstone County",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7843928,-108.5463311,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CASA of Yellowstone County",
+            "address": "1201 Grand Ave STE 5, Billings, MT 59102",
+            "latitude": 45.7843928,
+            "longitude": -108.54633109999999,
+            "rating": 4.8,
+            "ratingCount": 15,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://yellowstonecasa.org/",
+            "phoneNumber": "(406) 259-1233",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwSwVXybdHIGKxVQApToDOEOCBdwd3ik9dGCMp",
+            "cid": "13956457930609695464",
+            "fid": "0x53487ca07c5a3f93:0xc1af4c8b1cac9ae8",
+            "placeId": "ChIJkz9afKB8SFMR6JqsHItMr8E"
+        }
+    ],
+    "credits": 3
+}

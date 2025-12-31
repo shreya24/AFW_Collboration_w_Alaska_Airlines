@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Mayo Clinic (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0219155,-92.463579,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mayo Clinic IT Helpdesk",
+            "address": "195 Broadway Ave S, Rochester, MN 55904",
+            "latitude": 44.0219155,
+            "longitude": -92.463579,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.mayoclinic.org/site-help",
+            "phoneNumber": "(507) 284-5500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i9JTCI9jsXWdoOMxh2thFg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=22.855967&pitch=0&thumbfov=100",
+            "cid": "12086292026408868975",
+            "fid": "0x87f75f2224a8a3e5:0xa7bb228fe5bc9c6f",
+            "placeId": "ChIJ5aOoJCJf94cRb5y85Y8iu6c"
+        }
+    ],
+    "credits": 3
+}

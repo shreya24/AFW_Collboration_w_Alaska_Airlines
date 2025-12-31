@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Spirit of Liberty Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0409717,-117.1585692,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Spirit of Liberty Foundation",
+            "address": "Mailing Address: P.O. Box 705, Rancho Santa Fe, CA 92067, Physical Address: 18021, Calle Ambiente Ste, 506, Rancho Santa Fe, CA 92067",
+            "latitude": 33.0409717,
+            "longitude": -117.15856919999999,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://spiritoflibertyfoundation.org/",
+            "phoneNumber": "(858) 759-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hy3DokWG41NqO6nG8IS57w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=84.53421&pitch=0&thumbfov=100",
+            "cid": "5884094344298945004",
+            "fid": "0x80dc08ccf159d8db:0x51a880a180d2d9ec",
+            "placeId": "ChIJ29hZ8cwI3IAR7NnSgKGAqFE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Alaska Spine Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1855284,-149.8250292,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Spine Center",
+            "address": "4100 Lake Otis Pkwy # 212, Anchorage, AK 99508",
+            "latitude": 61.182978899999995,
+            "longitude": -149.84053369999998,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://alaskaspinecenter.com/",
+            "phoneNumber": "(907) 339-7246",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L4DoQylqeH1Lo6PIzSfLLw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.84602&pitch=0&thumbfov=100",
+            "cid": "8465098383146146241",
+            "fid": "0x56c897a631f1a021:0x757a12212428d9c1",
+            "placeId": "ChIJIaDxMaaXyFYRwdkoJCESenU"
+        },
+        {
+            "position": 2,
+            "title": "Alaska Spine Institute: Pulver Francine M MD",
+            "address": "3801 University Lake Dr #200, Anchorage, AK 99508",
+            "latitude": 61.188077899999996,
+            "longitude": -149.8095247,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(907) 563-8876",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K3IXb61H7rhcbnjQaOp6uw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=5.6628804&pitch=0&thumbfov=100",
+            "cid": "11171121348643172998",
+            "fid": "0x56c897025c1e964d:0x9b07cbadf0a8b286",
+            "placeId": "ChIJTZYeXAKXyFYRhrKo8K3LB5s"
+        }
+    ],
+    "credits": 3
+}

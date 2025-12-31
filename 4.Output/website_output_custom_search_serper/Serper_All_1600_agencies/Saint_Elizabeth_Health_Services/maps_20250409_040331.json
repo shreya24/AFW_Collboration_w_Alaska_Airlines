@@ -1,0 +1,583 @@
+{
+    "searchParameters": {
+        "q": "Saint Elizabeth Health Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5559891,-96.5678309,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Elizabeth Healthcare Edgewood Hospital",
+            "address": "1 Medical Village Dr, Edgewood, KY 41017",
+            "latitude": 39.013566399999995,
+            "longitude": -84.5627004,
+            "rating": 2.7,
+            "ratingCount": 498,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-edgewood",
+            "phoneNumber": "(859) 301-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3sc4RrT4Aui1qFvRodELmj3Waj7ZsFuurtDRk",
+            "cid": "4472555603695811618",
+            "fid": "0x8841b8354ff02ce9:0x3e11b59ffc78bc22",
+            "placeId": "ChIJ6SzwTzW4QYgRIrx4_J-1ET4"
+        },
+        {
+            "position": 2,
+            "title": "St. Elizabeth Hospital Florence - St. Elizabeth Healthcare",
+            "address": "4900 Houston Rd, Florence, KY 41042",
+            "latitude": 39.016189499999996,
+            "longitude": -84.63103559999999,
+            "rating": 2.5,
+            "ratingCount": 355,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Addiction treatment center",
+                "Doctor",
+                "General hospital",
+                "Medical Center",
+                "Nursing home"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-florence",
+            "phoneNumber": "(859) 212-5200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNLhQjMHOepIugEV7CGNyQr-gleJsKAWZdY2m2n",
+            "cid": "1330814657544329327",
+            "fid": "0x8841c7c8a205e2c7:0x127800e14cd0186f",
+            "placeId": "ChIJx-IFosjHQYgRbxjQTOEAeBI"
+        },
+        {
+            "position": 3,
+            "title": "St.Elizabeth Healthcare - Business Health Services",
+            "address": "4123 Olympic Blvd #150, Erlanger, KY 41018",
+            "latitude": 39.0491041,
+            "longitude": -84.6262361,
+            "rating": 2.8,
+            "ratingCount": 5,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Occupational health service"
+            ],
+            "website": "https://www.stelizabeth.com/medical-services/business-health-services/business-health-center",
+            "phoneNumber": "(859) 301-2999",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObMuwjicJH_GO09Xopbj7OkKTEgep44V-AM3n3",
+            "cid": "13561574690439015548",
+            "fid": "0x8841c9e8d67e046f:0xbc346454228bac7c",
+            "placeId": "ChIJbwR-1ujJQYgRfKyLIlRkNLw"
+        },
+        {
+            "position": 4,
+            "title": "St. Elizabeth Emergency Department Covington - St. Elizabeth Healthcare",
+            "address": "1500 James Simpson Jr Way, Covington, KY 41011",
+            "latitude": 39.0718624,
+            "longitude": -84.5180917,
+            "rating": 3.6,
+            "ratingCount": 46,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/emergency-department-covington",
+            "phoneNumber": "(859) 655-4353",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVAshDH0ZiwXZpd2l0DSpymtS2tye6BBDN1o03",
+            "cid": "8707393528920472543",
+            "fid": "0x8841b12bea37edc5:0x78d6e047e2d6fbdf",
+            "placeId": "ChIJxe036iuxQYgR3_vW4kfg1ng"
+        },
+        {
+            "position": 5,
+            "title": "St. Elizabeth Home Care",
+            "address": "8100 Burlington Pike #314, Florence, KY 41042",
+            "latitude": 39.0055161,
+            "longitude": -84.65421979999999,
+            "rating": 2.8,
+            "ratingCount": 5,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Care services"
+            ],
+            "website": "https://www.stelizabethhomecare.com/",
+            "phoneNumber": "(859) 283-1500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G2WXoLQN9KMB5iRLxskAAQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=113.3963&pitch=0&thumbfov=100",
+            "cid": "1076126159286526881",
+            "fid": "0x8841c64eb7673189:0xeef2b0a51c763a1",
+            "placeId": "ChIJiTFnt07GQYgRoWPHUQor7w4"
+        },
+        {
+            "position": 6,
+            "title": "St. Elizabeth Healthcare Campus",
+            "address": "701 Armory Rd, Delphi, IN 46923",
+            "latitude": 40.575625599999995,
+            "longitude": -86.67268659999999,
+            "rating": 4,
+            "ratingCount": 9,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Nursing home",
+                "Retirement community",
+                "Retirement home"
+            ],
+            "website": "https://trilogyhs.com/senior-living/in/delphi/st-elizabeth-healthcare-campus/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+            "phoneNumber": "(765) 564-6380",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://trilogyhs.com/senior-living/in/delphi/st-elizabeth-healthcare-campus/?openFurtherBot=500&forceOpen=True&financialChatActivated=True/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHQtJC9x5y85GklcSgDcLbf4PLwYRj9oAJAfn7",
+            "cid": "6377126709232442321",
+            "fid": "0x881309f008e16c6b:0x58801af45f749bd1",
+            "placeId": "ChIJa2zhCPAJE4gR0Zt0X_QagFg"
+        },
+        {
+            "position": 7,
+            "title": "St. Elizabeth Healthcare and Rehabilitation Center",
+            "address": "2800 N Harbor Blvd, Fullerton, CA 92835",
+            "latitude": 33.9027852,
+            "longitude": -117.9289189,
+            "rating": 4.6,
+            "ratingCount": 86,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Nursing home"
+            ],
+            "website": "https://stelizabethrehab.com/",
+            "phoneNumber": "(714) 871-9202",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2sE1XNoiXb0dg9u-k3Y4VGe7Pl0hR-knJeQ_C",
+            "cid": "450745730667111869",
+            "fid": "0x80dd2a811a7e08db:0x6415eda986fe5bd",
+            "placeId": "ChIJ2wh-GoEq3YARveVvmNpeQQY"
+        },
+        {
+            "position": 8,
+            "title": "St. Elizabeth Covington Hospital",
+            "address": "1500 James Simpson Jr Way, Covington, KY 41011",
+            "latitude": 39.071411999999995,
+            "longitude": -84.51803679999999,
+            "rating": 3,
+            "ratingCount": 125,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-covington",
+            "phoneNumber": "(859) 655-8800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNx2VejSXWG_bmB81f9PAPdkM07LC4eJl6uajLU",
+            "cid": "17869783235571151623",
+            "fid": "0x8841b12c323852fd:0xf7fe392cb172f307",
+            "placeId": "ChIJ_VI4MiyxQYgRB_NysSw5_vc"
+        },
+        {
+            "position": 9,
+            "title": "St. Elizabeth's Medical Center",
+            "address": "736 Cambridge St, Boston, MA 02135",
+            "latitude": 42.3489047,
+            "longitude": -71.1480227,
+            "rating": 4.3,
+            "ratingCount": 2289,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.bmchealthsystem.org/patients/st-elizabeths-medical-center",
+            "phoneNumber": "(617) 789-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP28f3W_AQrqy7G8H85x4f8ALLH1NdyIKyYDonb",
+            "cid": "2981535960257934702",
+            "fid": "0x89e3783578e565ad:0x29608b28b43a356e",
+            "placeId": "ChIJrWXleDV444kRbjU6tCiLYCk"
+        },
+        {
+            "position": 10,
+            "title": "HSHS St. Elizabeth's Hospital",
+            "address": "1 St Elizabeth's Blvd, O'Fallon, IL 62269",
+            "latitude": 38.583791399999996,
+            "longitude": -89.9321801,
+            "rating": 3.1,
+            "ratingCount": 456,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.hshs.org/st-elizabeths?utm_campaign=ent-local-listing&utm_medium=local-listing&utm_source=gmb",
+            "phoneNumber": "(618) 234-2120",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNu72rfXpCOiwpN099qckp0xa48DPFXdQ7t-l53",
+            "cid": "8744758150227748940",
+            "fid": "0x8876014f240d561d:0x795b9f34b706e84c",
+            "placeId": "ChIJHVYNJE8BdogRTOgGtzSfW3k"
+        },
+        {
+            "position": 11,
+            "title": "St. Elizabeth Health Services",
+            "address": "3325 Pocahontas Rd, Baker City, OR 97814",
+            "latitude": 44.7951033,
+            "longitude": -117.8470497,
+            "phoneNumber": "(541) 523-6461",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "cid": "8490402370225397585",
+            "fid": "0x54a4e95150f40f8d:0x75d3f7f8bd6b5f51",
+            "placeId": "ChIJjQ_0UFHppFQRUV9rvfj303U"
+        },
+        {
+            "position": 12,
+            "title": "St. Elizabeth Dearborn Hospital",
+            "address": "600 Wilson Creek Rd, Lawrenceburg, IN 47025",
+            "latitude": 39.1121184,
+            "longitude": -84.883837,
+            "rating": 2.9,
+            "ratingCount": 175,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-dearborn",
+            "phoneNumber": "(812) 496-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuoBc6MDCaqiDhVijCGozoarYBcUXCUnS0Gn47",
+            "cid": "13171477800837764529",
+            "fid": "0x8841d690a1e19449:0xb6ca7d463de0d5b1",
+            "placeId": "ChIJSZThoZDWQYgRsdXgPUZ9yrY"
+        },
+        {
+            "position": 13,
+            "title": "St. Elizabeth Emergency Department Florence - St. Elizabeth Healthcare",
+            "address": "4900 Houston Rd, Florence, KY 41042",
+            "latitude": 39.0167763,
+            "longitude": -84.630703,
+            "rating": 1.6,
+            "ratingCount": 70,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/emergency-department-florence",
+            "phoneNumber": "(859) 212-5441",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc_2CoUePniJT4VcK7zD9ZQChaXYCc9PYnPohu",
+            "cid": "18322854474538772301",
+            "fid": "0x8841c7c3c537e231:0xfe47db10e20f674d",
+            "placeId": "ChIJMeI3xcPHQYgRTWcP4hDbR_4"
+        },
+        {
+            "position": 14,
+            "title": "St. Elizabeth Hospital",
+            "address": "1455 Battersby Ave, Enumclaw, WA 98022",
+            "latitude": 47.2091929,
+            "longitude": -121.98763919999999,
+            "rating": 4.4,
+            "ratingCount": 698,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.vmfh.org/our-hospitals/st-elizabeth-hospital",
+            "phoneNumber": "(360) 802-8800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1kOTwEWQKXNxECHPMjXkQlD7chf0dGppITyLn",
+            "cid": "15191780815088815930",
+            "fid": "0x5490f20ff42b6cf7:0xd2d40c296cf68f3a",
+            "placeId": "ChIJ92wr9A_ykFQROo_2bCkM1NI"
+        },
+        {
+            "position": 15,
+            "title": "St. Elizabeths Psychiatric Hospital",
+            "address": "1100 Alabama Ave SE, Washington, DC 20032",
+            "latitude": 38.8478275,
+            "longitude": -76.9884527,
+            "rating": 3.6,
+            "ratingCount": 34,
+            "type": "Psychiatric hospital",
+            "types": [
+                "Psychiatric hospital"
+            ],
+            "website": "https://dbh.dc.gov/page/saint-elizabeths-hospital",
+            "phoneNumber": "(202) 299-5100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN_DT5MXD6SWcEDPs5HNBImSxGaQ0W-uypCjPwg",
+            "cid": "12322498710752866582",
+            "fid": "0x89b7b9f264b4a8e1:0xab024f4a3fa23116",
+            "placeId": "ChIJ4ai0ZPK5t4kRFjGiP0pPAqs"
+        },
+        {
+            "position": 16,
+            "title": "St. Elizabeth Grant Hospital",
+            "address": "238 Barnes Rd, Williamstown, KY 41097",
+            "latitude": 38.6473473,
+            "longitude": -84.577829,
+            "rating": 3.1,
+            "ratingCount": 54,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-grant",
+            "phoneNumber": "(859) 824-8240",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrBA8r308umcCW6cZZGoXQB2y6n5f5RdoK69Mz",
+            "cid": "15344247010621818724",
+            "fid": "0x88418ce3380f97e1:0xd4f1b75bddf68764",
+            "placeId": "ChIJ4ZcPOOOMQYgRZIf23Vu38dQ"
+        },
+        {
+            "position": 17,
+            "title": "CHI Health St. Elizabeth",
+            "address": "555 S 70th St, Lincoln, NE 68510",
+            "latitude": 40.8076766,
+            "longitude": -96.6267309,
+            "rating": 4.3,
+            "ratingCount": 1171,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.chihealth.com/locations/st-elizabeth",
+            "phoneNumber": "(402) 219-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNREvgl6kmt0KFaSHDcaicM1R5gKV1_lsWBzgV",
+            "cid": "16582359205396264932",
+            "fid": "0x8796bdaca456fe4f:0xe6205fd71792b7e4",
+            "placeId": "ChIJT_5WpKy9locR5LeSF9dfIOY"
+        },
+        {
+            "position": 18,
+            "title": "Ascension NE Wisconsin - St. Elizabeth Hospital",
+            "address": "1506 S Oneida St, Appleton, WI 54915",
+            "latitude": 44.2483485,
+            "longitude": -88.4024357,
+            "rating": 2.9,
+            "ratingCount": 299,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://healthcare.ascension.org/locations/wisconsin/wiapa/appleton-ascension-ne-wisconsin-st-elizabeth-campus?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(920) 738-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD9QZj_T_CO1UfsMXhrRFITVU9dhtYqABzSUos",
+            "cid": "16902261758363574893",
+            "fid": "0x8803b74d230d5413:0xea90e58467ee226d",
+            "placeId": "ChIJE1QNI023A4gRbSLuZ4TlkOo"
+        },
+        {
+            "position": 19,
+            "title": "St. Elizabeth's Medical Center Emergency Room",
+            "address": "255 Washington St, Brighton, MA 02135",
+            "latitude": 42.3486824,
+            "longitude": -71.1494293,
+            "rating": 4.2,
+            "ratingCount": 389,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.bmchealthsystem.org/patients/st-elizabeths-medical-center/departments/emergency-room",
+            "phoneNumber": "(617) 789-2666",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNvfIuLxttihqvO4LvAURxGzMR2GHWVZ8-fGr3",
+            "cid": "15310056899558546682",
+            "fid": "0x89e3784a7c05f09b:0xd4783fa24d349cfa",
+            "placeId": "ChIJm_AFfEp444kR-pw0TaI_eNQ"
+        },
+        {
+            "position": 20,
+            "title": "St. Elizabeth Hospital Ft. Thomas - St. Elizabeth Healthcare",
+            "address": "85 N Grand Ave, Fort Thomas, KY 41075",
+            "latitude": 39.078140399999995,
+            "longitude": -84.4670014,
+            "rating": 2.8,
+            "ratingCount": 229,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stelizabeth.com/location/details/st-elizabeth-ft-thomas",
+            "phoneNumber": "(859) 572-3100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP1kGGw0MePUvrymQCOk2Zxy3uOlRyS4teRPv0S",
+            "cid": "8551518155953532486",
+            "fid": "0x8841b1bbbab1e16f:0x76ad187477e9ee46",
+            "placeId": "ChIJb-GxuruxQYgRRu7pd3QYrXY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. Tartak Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9919919,-117.9123135,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Dalel Tartak, MD",
+            "address": "17980 Castleton St #1, City of Industry, CA 91748",
+            "latitude": 33.991991899999995,
+            "longitude": -117.9123135,
+            "rating": 3.5,
+            "ratingCount": 68,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Doctor"
+            ],
+            "phoneNumber": "(866) 456-2015",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20137\u202fPM",
+                "Wednesday": "6:45\u202fAM\u20132\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8T1i9kT8vZu8xtdUmxxYrxDjPDZOkrzsy0JjkzQ7W4ZMpagZ41RLLNZ-uUejIYGK2Lw4SKibEUbNjDxqH918c6NmJ1vbOOvo5JLGnfKxw7uI-BZHf3BtrYanDmEJpePkcYwUIZ4A",
+            "cid": "1664717302062024639",
+            "fid": "0x80c32a64b7f0df55:0x171a4390f0da87bf",
+            "placeId": "ChIJVd_wt2Qqw4ARv4fa8JBDGhc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Northwest Burn Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6662356,-122.3771335,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Burn Foundation",
+            "address": "1515 NW 52nd St, Seattle, WA 98107",
+            "latitude": 47.6662356,
+            "longitude": -122.3771335,
+            "type": "Charity",
+            "types": [
+                "Charity"
+            ],
+            "website": "http://www.nwburn.org/index_htm.html",
+            "phoneNumber": "(206) 789-6838",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OVcGw2CITxLbsSwbKocXbg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=182.46329&pitch=0&thumbfov=100",
+            "cid": "12376044422978440146",
+            "fid": "0x549015c8176ef2bd:0xabc08ad4e4158bd2",
+            "placeId": "ChIJvfJuF8gVkFQR0osV5NSKwKs"
+        }
+    ],
+    "credits": 3
+}

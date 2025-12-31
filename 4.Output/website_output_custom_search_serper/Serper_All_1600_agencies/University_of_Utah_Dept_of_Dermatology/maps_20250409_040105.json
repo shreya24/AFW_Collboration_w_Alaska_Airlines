@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Dept of Dermatology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7056327,-111.8598831,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Department of Dermatology",
+            "address": "Salt Lake City, UT 84103",
+            "latitude": 40.772483,
+            "longitude": -111.8345856,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://medicine.utah.edu/dermatology/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0sBhPe3zDbyuDQf6BxWnBA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.20517&pitch=0&thumbfov=100",
+            "cid": "9380448107623768404",
+            "fid": "0x87525f97bf40f7fd:0x822e0bdaa8e66154",
+            "placeId": "ChIJ_fdAv5dfUocRVGHmqNoLLoI"
+        },
+        {
+            "position": 2,
+            "title": "University of Utah Health Dermatology",
+            "address": "243 E 6100 S, Murray, UT 84107",
+            "latitude": 40.6387824,
+            "longitude": -111.88518069999999,
+            "rating": 3.9,
+            "ratingCount": 140,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist"
+            ],
+            "website": "https://healthcare.utah.edu/dermatology/",
+            "phoneNumber": "(801) 581-2955",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzgt-Ul_UOidXHuTpnzFhz2A5rFBg0fUDJAwTc",
+            "cid": "4807885031835175871",
+            "fid": "0x87528995629d8307:0x42b909f693740bbf",
+            "placeId": "ChIJB4OdYpWJUocRvwt0k_YJuUI"
+        }
+    ],
+    "credits": 3
+}

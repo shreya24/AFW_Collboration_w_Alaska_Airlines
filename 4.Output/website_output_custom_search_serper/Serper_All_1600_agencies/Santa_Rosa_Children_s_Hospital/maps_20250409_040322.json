@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Santa Rosa Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.427517,-98.4984539,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHRISTUS Children's",
+            "address": "333 N Santa Rosa St, San Antonio, TX 78207",
+            "latitude": 29.426965199999998,
+            "longitude": -98.49861299999999,
+            "rating": 3.3,
+            "ratingCount": 529,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.christushealth.org/locations/childrens-hospital?utm_source=organic&utm_medium=GMB&utm_campaign=website",
+            "phoneNumber": "(210) 704-2011",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPW40AsLcOI2obwi86v0OUBPYlKxX0Hi_M5fwTD",
+            "cid": "12991254685047924425",
+            "fid": "0x865c5f4c5065c517:0xb44a354e30e926c9",
+            "placeId": "ChIJF8VlUExfXIYRySbpME41SrQ"
+        },
+        {
+            "position": 2,
+            "title": "Santa Rosa Hospital",
+            "address": "333 N Santa Rosa St, San Antonio, TX 78207",
+            "latitude": 29.4280688,
+            "longitude": -98.49829489999999,
+            "rating": 3.2,
+            "ratingCount": 45,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.christushealth.org/locations/santa-rosa-hospital-medical-center",
+            "phoneNumber": "(210) 704-2011",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-7Q30qqIXpP3GgGIutsquntUB98FvgZD6DxUTAg3WZ6srXibpwl1bnE8vN5P46si4PuEUEZMj5mjNtrjabiae04IESt42hpXkt4xhkgmD_UATRKNZOxSxQVaP2SvXm1vVzULVY",
+            "cid": "3412334863077541939",
+            "fid": "0x865c5f4cf3d52b65:0x2f5b0c7a886b0833",
+            "placeId": "ChIJZSvV80xfXIYRMwhriHoMWy8"
+        }
+    ],
+    "credits": 3
+}

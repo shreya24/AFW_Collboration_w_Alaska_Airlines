@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "CHER",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9393293,-123.0027704,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Cher Yao Chen Chen, MD",
+            "address": "2600 Center St NE, Salem, OR 97301",
+            "latitude": 44.9393293,
+            "longitude": -123.00277039999999,
+            "type": "Psychiatrist",
+            "types": [
+                "Psychiatrist"
+            ],
+            "phoneNumber": "(503) 945-2800",
+            "cid": "17378379486807105418",
+            "fid": "0x54bffee013dabb1d:0xf12c681193129f8a",
+            "placeId": "ChIJHbvaE-D-v1QRip8SkxFoLPE"
+        }
+    ],
+    "credits": 3
+}

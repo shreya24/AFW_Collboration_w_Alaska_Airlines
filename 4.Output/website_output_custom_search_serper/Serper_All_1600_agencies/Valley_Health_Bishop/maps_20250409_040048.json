@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Valley Health Bishop",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3616258,-118.3989211,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Health Team - Bishop Community Health Center",
+            "address": "459 W Line St Suite C, Bishop, CA 93514",
+            "latitude": 37.3616258,
+            "longitude": -118.3989211,
+            "rating": 3.8,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://vht.org/",
+            "phoneNumber": "(760) 784-7020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0p4MTEQiQBCn950C677oBHu8PLwpvhCVX4fLg",
+            "cid": "10433685604563881941",
+            "fid": "0x80be3d89354437eb:0x90cbe5c6fe230fd5",
+            "placeId": "ChIJ6zdENYk9voAR1Q8j_sbly5A"
+        }
+    ],
+    "credits": 3
+}

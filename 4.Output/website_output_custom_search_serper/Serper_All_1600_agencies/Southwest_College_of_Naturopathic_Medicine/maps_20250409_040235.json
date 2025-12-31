@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Southwest College of Naturopathic Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4078179,-111.8945766,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sonoran University of Health Sciences",
+            "address": "2140 E Broadway Rd, Tempe, AZ 85282",
+            "latitude": 33.4078179,
+            "longitude": -111.8945766,
+            "rating": 3.7,
+            "ratingCount": 113,
+            "type": "Medical school",
+            "types": [
+                "Medical school",
+                "College",
+                "Non-profit organization",
+                "University"
+            ],
+            "website": "https://www.sonoran.edu/",
+            "phoneNumber": "(480) 858-9100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLhaBq3D21mCyswMi9esqhr9M5cEFevLwv-uz5",
+            "cid": "4789078489293975177",
+            "fid": "0x872b0865d9aef849:0x427639832bd4ee89",
+            "placeId": "ChIJSfiu2WUIK4cRie7UK4M5dkI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,154 @@
+{
+    "searchParameters": {
+        "q": "Johns Hopkins Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5311143,-79.5937795,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Johns Hopkins Hospital",
+            "address": "1800 Orleans St, Baltimore, MD 21287",
+            "latitude": 39.2967385,
+            "longitude": -76.59273619999999,
+            "rating": 3.2,
+            "ratingCount": 1011,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/?utm_source=Google&utm_medium=Organic&utm_campaign=Yext&utm_content=FAD&utm_keyword=JHH",
+            "phoneNumber": "(410) 955-5000",
+            "description": "Well-known hospital associated with Johns Hopkins University, providing research & medical services.",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8wwac-rqSBxNHV9C_EnC-S9OKy1iSGWrvTphsPPyCZ4UhkNCQkP5k4xVVO1hWzUcTcs9dpusR2fuFM4ZiNBJUHOyatD19rCJmYXmihxozpEGdLXc3O3ig4xTzdfitJVp5Pqqk",
+            "cid": "17072544989189934223",
+            "fid": "0x89c80462dd7f9b41:0xeceddd36a48a8c8f",
+            "placeId": "ChIJQZt_3WIEyIkRj4yKpDbd7ew"
+        },
+        {
+            "position": 2,
+            "title": "Johns Hopkins Howard County Medical Center",
+            "address": "5755 Cedar Ln, Columbia, MD 21044",
+            "latitude": 39.2135539,
+            "longitude": -76.8837479,
+            "rating": 2.3,
+            "ratingCount": 820,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.hopkinsmedicine.org/howard_county_general_hospital/?utm_source=Google&utm_medium=Organic&utm_campaign=Yext&utm_content=FAD&utm_keyword=HCGH",
+            "phoneNumber": "(410) 740-7890",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCEJ25-rKkspQjfOzRJ-kIrz-XNpkCXo4WR9HK",
+            "cid": "17209861165089458605",
+            "fid": "0x89b7df4f8d811093:0xeed5b58c42f289ad",
+            "placeId": "ChIJkxCBjU_ft4kRrYnyQoy11e4"
+        },
+        {
+            "position": 3,
+            "title": "Johns Hopkins Bayview Medical Center",
+            "address": "4940 Eastern Ave, Baltimore, MD 21224",
+            "latitude": 39.2906543,
+            "longitude": -76.5469499,
+            "rating": 2.6,
+            "ratingCount": 602,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.hopkinsbayview.org/",
+            "phoneNumber": "(410) 550-0100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-E0AQnhAH7v6NrsDlBZkFiVlizwCXbikh1pN1",
+            "cid": "4580157047627088255",
+            "fid": "0x89c806a7e50e9663:0x3f8ffc916f50817f",
+            "placeId": "ChIJY5YO5acGyIkRf4FQb5H8jz8"
+        },
+        {
+            "position": 4,
+            "title": "Johns Hopkins All Children's Hospital",
+            "address": "501 6th Ave S, St. Petersburg, FL 33701",
+            "latitude": 27.764978,
+            "longitude": -82.640609,
+            "rating": 4.2,
+            "ratingCount": 1810,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Audiologist",
+                "Dialysis center",
+                "Pharmacy"
+            ],
+            "website": "https://www.hopkinsmedicine.org/all-childrens-hospital/",
+            "phoneNumber": "(727) 898-7451",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZbJhZ8kXoQeLv6EXahditv9htJrhDR_rHKrk-",
+            "cid": "3434448219884759122",
+            "fid": "0x88c2e18f04b765fb:0x2fa99c75a1b42852",
+            "placeId": "ChIJ-2W3BI_hwogRUii0oXWcqS8"
+        },
+        {
+            "position": 5,
+            "title": "The Johns Hopkins Hospital",
+            "address": "600 N Wolfe St, Baltimore, MD 21287",
+            "latitude": 39.2972506,
+            "longitude": -76.5922077,
+            "rating": 2.4,
+            "ratingCount": 18,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Counselor",
+                "Dialysis center",
+                "Medical laboratory",
+                "Social worker"
+            ],
+            "website": "http://www.hopkinsmedicine.org/",
+            "phoneNumber": "(410) 955-2717",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Y2z4PcPDCqyZWIPNAcuJ5RuN4UhbRJmCT0wranueLNe9tNG02oldoLh1taDUChqMTrNCCCX_U70kG7HX8bUfgnDNJwx27qjqA72dRlAqo6KIHXAo0A6bxP59GbZx_HqNji12Z-A",
+            "cid": "11267375878703336177",
+            "fid": "0x89c80462e2407a21:0x9c5dc2aa20eacaf1",
+            "placeId": "ChIJIXpA4mIEyIkR8crqIKrCXZw"
+        }
+    ],
+    "credits": 3
+}

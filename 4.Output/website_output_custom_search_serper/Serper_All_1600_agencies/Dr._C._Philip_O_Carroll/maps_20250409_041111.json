@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. C. Philip O'Carroll",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6219692,-117.9322512,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ocarroll C Phillip MD",
+            "address": "3900 West Coast Hwy #330, Newport Beach, CA 92663",
+            "latitude": 33.621969199999995,
+            "longitude": -117.9322512,
+            "rating": 4.2,
+            "ratingCount": 18,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "website": "http://www.nbneuro.com/",
+            "phoneNumber": "(949) 759-8001",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEWRkWhuMDhO7EC9Jdlxwbhyw06FoLbzi-GVZ3",
+            "cid": "13246290843113484499",
+            "fid": "0x80dce088ad79a7b3:0xb7d447570749f0d3",
+            "placeId": "ChIJs6d5rYjg3IAR0_BJB1dH1Lc"
+        }
+    ],
+    "credits": 3
+}

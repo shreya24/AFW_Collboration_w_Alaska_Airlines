@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Nature Works Best Cancer Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3785833,-111.9181709,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nature Works Best Cancer Clinic",
+            "address": "1250 E Baseline Rd UNIT 205, Tempe, AZ 85283",
+            "latitude": 33.378583299999995,
+            "longitude": -111.91817089999999,
+            "rating": 4.6,
+            "ratingCount": 84,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor"
+            ],
+            "website": "https://natureworksbest.com/",
+            "phoneNumber": "(480) 839-2800",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133:30\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20133:30\u202fPM",
+                "Friday": "9\u202fAM\u20131:30\u202fPM",
+                "Saturday": "9\u202fAM\u20133:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPtyKjByW25NWJWM7g6c5r1KtYXOUeEOyHgT1TM",
+            "cid": "8841555750741510956",
+            "fid": "0x872b06250d039861:0x7ab3841c58c28b2c",
+            "placeId": "ChIJYZgDDSUGK4cRLIvCWByEs3o"
+        }
+    ],
+    "credits": 3
+}

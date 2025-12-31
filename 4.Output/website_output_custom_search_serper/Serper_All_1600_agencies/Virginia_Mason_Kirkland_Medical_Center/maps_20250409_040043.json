@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Virginia Mason Kirkland Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7150124,-122.1838879,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Virginia Mason Franciscan Health Medical Pavilion - Kirkland",
+            "address": "EvergreenHealth Plaza Building, 11800 NE 128th St Suite 300, Kirkland, WA 98034",
+            "latitude": 47.7150124,
+            "longitude": -122.18388789999999,
+            "rating": 2.9,
+            "ratingCount": 60,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.vmfh.org/find-a-location/virginia-mason-franciscan-health-medical-pavilion-kirkland-291293",
+            "phoneNumber": "(425) 814-5100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.vmfh.org/find-a-location/virginia-mason-kirkland-medical-center-291293?y_source=1_Mjc0ODU1OTUtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOxGeO8gQTvFxtLVA_UYEcmpBlwOykLb2gOTwE",
+            "cid": "13518693501287117227",
+            "fid": "0x54900d8f8d0c79c7:0xbb9c0c1d4399b1ab",
+            "placeId": "ChIJx3kMjY8NkFQRq7GZQx0MnLs"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Dept. of Veterans Affairs - Maui",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8772062,-156.4794031,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "US Veterans Affairs Department",
+            "address": "203 Hoohana St #303, Kahului, HI 96732",
+            "latitude": 20.887299,
+            "longitude": -156.46328549999998,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department"
+            ],
+            "website": "https://www.va.gov/",
+            "phoneNumber": "(808) 871-2454",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImHWF5tgJYpNLOwqsO1NBw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=17.46337&pitch=0&thumbfov=100",
+            "cid": "11887423867813429735",
+            "fid": "0x7954d2dd2a258de5:0xa4f89d06878501e7",
+            "placeId": "ChIJ5Y0lKt3SVHkR5wGFhwad-KQ"
+        },
+        {
+            "position": 2,
+            "title": "Maui Vet Center",
+            "address": "157 Maa St, Kahului, HI 96732",
+            "latitude": 20.8671135,
+            "longitude": -156.49552079999998,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/directory/guide/facility.asp?ID=5075",
+            "phoneNumber": "(808) 242-8557",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "cid": "17702427816203446583",
+            "fid": "0x7954d30a7e15ccf7:0xf5aba84eaecce937",
+            "placeId": "ChIJ98wVfgrTVHkRN-nMrk6oq_U"
+        },
+        {
+            "position": 3,
+            "title": "Maui VA Clinic",
+            "address": "203 Hoohana St #303, Kahului, HI 96732",
+            "latitude": 20.887299,
+            "longitude": -156.46328549999998,
+            "rating": 3.3,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.hawaii.va.gov/locations/Maui.asp",
+            "phoneNumber": "(808) 871-2454",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImHWF5tgJYpNLOwqsO1NBw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=17.46337&pitch=0&thumbfov=100",
+            "cid": "18167985091601824418",
+            "fid": "0x7954d2dd2a258de5:0xfc21a62ec584faa2",
+            "placeId": "ChIJ5Y0lKt3SVHkRovqExS6mIfw"
+        }
+    ],
+    "credits": 3
+}

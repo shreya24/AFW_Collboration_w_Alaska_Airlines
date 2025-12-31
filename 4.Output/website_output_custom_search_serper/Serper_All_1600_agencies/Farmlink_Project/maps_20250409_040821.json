@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Farmlink Project",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.975869,-121.9043191,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "California FarmLink",
+            "address": "335 Spreckels Dr Suite D, Aptos, CA 95003",
+            "latitude": 36.975868999999996,
+            "longitude": -121.9043191,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Loan agency"
+            ],
+            "website": "http://www.californiafarmlink.org/",
+            "phoneNumber": "(831) 425-0303",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-RgKnsfRUtfDJZNiAWDIuw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=154.12656&pitch=0&thumbfov=100",
+            "cid": "17286812729998698584",
+            "fid": "0x808e40316b0ad7f5:0xefe71896a645e858",
+            "placeId": "ChIJ9dcKazFAjoARWOhFppYY5-8"
+        }
+    ],
+    "credits": 3
+}

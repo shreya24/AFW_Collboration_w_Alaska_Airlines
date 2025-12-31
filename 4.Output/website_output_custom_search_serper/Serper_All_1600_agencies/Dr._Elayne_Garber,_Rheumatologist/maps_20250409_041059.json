@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dr. Elayne Garber, Rheumatologist",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0740811,-118.3805962,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Elayne K. Garber, MD",
+            "address": "8631 W 3rd St Ste 700E, Los Angeles, CA 90048",
+            "latitude": 34.0740811,
+            "longitude": -118.3805962,
+            "rating": 4.1,
+            "ratingCount": 14,
+            "type": "Rheumatologist",
+            "types": [
+                "Rheumatologist",
+                "Doctor"
+            ],
+            "website": "https://find-a-doctor.cedars-sinai.edu/",
+            "phoneNumber": "(310) 854-3539",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0RIINTqEBBB5KF2vJ-8THw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=1.7492595&pitch=0&thumbfov=100",
+            "cid": "10524750441022938867",
+            "fid": "0x80c2b94d44a3d1cd:0x920f6cc37acedef3",
+            "placeId": "ChIJzdGjRE25woAR897OesNsD5I"
+        }
+    ],
+    "credits": 3
+}

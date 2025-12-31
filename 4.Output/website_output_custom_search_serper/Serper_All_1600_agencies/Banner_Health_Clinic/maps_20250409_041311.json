@@ -1,0 +1,764 @@
+{
+    "searchParameters": {
+        "q": "Banner Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8491257,-108.7996033,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Health Center",
+            "address": "21772 S Ellsworth Lp Rd, Queen Creek, AZ 85142",
+            "latitude": 33.2508925,
+            "longitude": -111.63953719999999,
+            "rating": 3.9,
+            "ratingCount": 519,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Internist",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Mental health service",
+                "Orthopedic clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/queen-creek/banner-health-center-ellsworth?y_source=1_MTE5MDc0NDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 512-3700",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A2868725132%2352352%2384644%2329409%2332191%232868722362%232868728106%232868719951%232868726563%235871041463%232868727300%234790461267%235277336313&y_source=1_MTE5MDc0NDMtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOYQJoR65iRKbFywvo9tfIdf_8xQTBTe7LIx7c0",
+            "cid": "9195453373591363749",
+            "fid": "0x872a4d39da9f7e9f:0x7f9cd01fa994a0a5",
+            "placeId": "ChIJn36f2jlNKocRpaCUqR_QnH8"
+        },
+        {
+            "position": 2,
+            "title": "Banner Health Center",
+            "address": "1917 S Crismon Rd, Mesa, AZ 85209",
+            "latitude": 33.3801498,
+            "longitude": -111.6172409,
+            "rating": 3.9,
+            "ratingCount": 361,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Internist",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Mental health service",
+                "Orthopedic clinic",
+                "Surgeon",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/mesa/banner-health-center-mesa?y_source=1_MTE5MDc0NDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 610-7100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A31950%2335103%232947900603%232947901173%232947899815%232948401635%236637695745%232948402891%237837309283&y_source=1_MTE5MDc0NDItNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpXA-ZozX3pUNr7BDy87Eb-adpHZwJywD6Sna1",
+            "cid": "514182384839290407",
+            "fid": "0x872bb1a0777f03c5:0x722be279e1bee27",
+            "placeId": "ChIJxQN_d6CxK4cRJ-4bnie-Igc"
+        },
+        {
+            "position": 3,
+            "title": "Banner Health Center",
+            "address": "1435 S Alma School Rd, Chandler, AZ 85286",
+            "latitude": 33.284393099999996,
+            "longitude": -111.8569313,
+            "rating": 4.3,
+            "ratingCount": 481,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Internist",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Mental health clinic",
+                "Orthopedic clinic",
+                "Pediatrician",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/chandler/banner-health-center-chandler?y_source=1_MTE5MDc0NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 668-1600",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.bannerhealth.com/physician-directory?y_source=1_MTE5MDc0NjAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNIOCvw2vRKZMaV84Uhp-ykIUb4Qh5pa6EGLxDy",
+            "cid": "12962728192188011267",
+            "fid": "0x872b009d123de1c5:0xb3e4dc9c7f4ed303",
+            "placeId": "ChIJxeE9Ep0AK4cRA9NOf5zc5LM"
+        },
+        {
+            "position": 4,
+            "title": "Banner Health Center",
+            "address": "155 E Warner Rd, Gilbert, AZ 85296",
+            "latitude": 33.3340296,
+            "longitude": -111.786374,
+            "rating": 3.8,
+            "ratingCount": 326,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/gilbert/banner-health-center-gilbert?y_source=1_MTE5MDc0NTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 649-6600",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.bannerhealth.com/physician-directory?y_source=1_MTE5MDc0NTctNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPh6S9nEGaKgU6IHLPrYeWinHqpwrcd2GhZrZS4",
+            "cid": "13891904591139268747",
+            "fid": "0x872baeab5071f2a1:0xc0c9f59f8879688b",
+            "placeId": "ChIJofJxUKuuK4cRi2h5iJ_1ycA"
+        },
+        {
+            "position": 5,
+            "title": "Banner Health Center",
+            "address": "13995 W Statler Blvd, Surprise, AZ 85374",
+            "latitude": 33.628689099999995,
+            "longitude": -112.3613594,
+            "rating": 4.4,
+            "ratingCount": 253,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Internist",
+                "Medical laboratory",
+                "Orthopedic clinic",
+                "Pediatrician",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/surprise/banner-health-center-surprise?y_source=1_MTE5MDc0NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 478-3100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A52359%2326656%2326657%233776229217%233776264391%236280275771%2310280367791&y_source=1_MTE5MDc0NDctNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOY2hjjP0-Rj9tlEM2lWmFONX_eGU8CLZQhM9hw",
+            "cid": "4175198803103809328",
+            "fid": "0x872b44b952fcbd67:0x39f14930b5a37f30",
+            "placeId": "ChIJZ738UrlEK4cRMH-jtTBJ8Tk"
+        },
+        {
+            "position": 6,
+            "title": "Banner Health Center plus",
+            "address": "7701 W Aspera Blvd, Glendale, AZ 85308",
+            "latitude": 33.6685447,
+            "longitude": -112.2250976,
+            "rating": 4.5,
+            "ratingCount": 629,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Bariatric surgeon",
+                "Endocrinologist",
+                "Family practice physician",
+                "Gastroenterologist",
+                "Obstetrician-gynecologist",
+                "Internist",
+                "Orthopedic surgeon",
+                "Pediatrician",
+                "Podiatrist"
+            ],
+            "website": "https://www.bannerhealth.com/locations/glendale/banner-health-center-plus-glendale?y_source=1_MjMyMTY1MzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 248-2100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A8372086705%238372059155%238371883929%238371944517%238372046245%238372010735%238372112085%238372002449%238372149895%238372061331%238372019381%238371976629%239236591143%231003872037106554%23106554%231568544088%231952876377106554%231386232502106554%231336307495106554%231710340070106554%231831716059106554%231548200728106554%231699129742106554%231730526526106554%231851747687106554&y_source=1_MjMyMTY1MzAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAIhLSaBcbg6qOe41fMcaW0Sz1-S2CDpOJYp0X",
+            "cid": "534178323618198811",
+            "fid": "0x872b69969d5f563f:0x769c85ae9f9f51b",
+            "placeId": "ChIJP1ZfnZZpK4cRG_X56VrIaQc"
+        },
+        {
+            "position": 7,
+            "title": "Banner Health Center",
+            "address": "17900 N Porter Rd, Maricopa, AZ 85138",
+            "latitude": 33.0422674,
+            "longitude": -112.01400939999999,
+            "rating": 3.7,
+            "ratingCount": 322,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Internist",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Neurologist",
+                "Orthopedic clinic",
+                "Pediatrician",
+                "Surgeon",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/maricopa/banner-health-center-maricopa?y_source=1_MTE5MDczOTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(520) 233-2500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A20114%2322963%2352342%232948453439%232946556767%232946471495%232946608321%233509967347%232947897679%236670819301%236476072127&y_source=1_MTE5MDczOTAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3yQmFcdEkH1ydB3PcyMR51nTVav1AgbB1_HOB",
+            "cid": "15114803280470689621",
+            "fid": "0x872afa91c196c6b5:0xd1c291807e5d4755",
+            "placeId": "ChIJtcaWwZH6KocRVUddfoCRwtE"
+        },
+        {
+            "position": 8,
+            "title": "Banner Health Center",
+            "address": "4375 E Irma Ln, Phoenix, AZ 85050",
+            "latitude": 33.6743507,
+            "longitude": -111.9856502,
+            "rating": 4.4,
+            "ratingCount": 306,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/phoenix/banner-health-center-irma-desert-ridge?y_source=1_MTE5MDc0MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 890-5800",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A88069%235176759097%235762150631%2387285%236917614947%235974742495%235762162493%236303928785%235756684887%238054305875%23101740&y_source=1_MTE5MDc0MDEtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe2QS4Iio0K5HIDzH5aD_lmW4KEFuur8GTP8c",
+            "cid": "3504266309613880672",
+            "fid": "0x872b70e21ae502cb:0x30a1a7a466e78560",
+            "placeId": "ChIJywLlGuJwK4cRYIXnZqSnoTA"
+        },
+        {
+            "position": 9,
+            "title": "Banner Health Center",
+            "address": "20751 W Market St, Buckeye, AZ 85396",
+            "latitude": 33.4636034,
+            "longitude": -112.505275,
+            "rating": 3.3,
+            "ratingCount": 198,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Neurologist",
+                "Pediatrician",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/buckeye/banner-health-center-buckeye?y_source=1_MTE5MDc0NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 463-5000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A26369%2328765%2352358%233776293329%233776297837%233776307151%235241533579%237401123743%2399977&y_source=1_MTE5MDc0NTMtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuirzQnJT4l5F6Txrs3VfKNSXfsGObiII-ps4",
+            "cid": "338149334288796503",
+            "fid": "0x872b49e967fe80e3:0x4b1590727518b57",
+            "placeId": "ChIJ44D-Z-lJK4cRV4tRJwdZsQQ"
+        },
+        {
+            "position": 10,
+            "title": "Banner Health Clinic",
+            "address": "1300 S Country Club Dr Ste 3, Mesa, AZ 85210",
+            "latitude": 33.391708699999995,
+            "longitude": -111.8421029,
+            "rating": 4.3,
+            "ratingCount": 282,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/mesa/banner-health-clinic-family-medicine-country-club?utm_source=gmb&utm_medium=listing&utm_campaign=bhc_webcta&y_source=1_MTE5MDc0MTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 827-5500",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A56416%2354935%233905593203%234107155881%236385110395%237940364191%238701690821&y_source=1_MTE5MDc0MTctNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLcAo11kTKwnRPGUBrl6qMb5xD8goyAcFPuTgl",
+            "cid": "14901857900253944785",
+            "fid": "0x872ba83d81523b5d:0xcece08ce8dfc1bd1",
+            "placeId": "ChIJXTtSgT2oK4cR0Rv8jc4Izs4"
+        },
+        {
+            "position": 11,
+            "title": "Banner Health Center",
+            "address": "14416 W Meeker Blvd bldg c, Sun City West, AZ 85375",
+            "latitude": 33.6602488,
+            "longitude": -112.3692119,
+            "rating": 4.5,
+            "ratingCount": 350,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Dermatologist",
+                "Endocrinologist",
+                "Family practice physician",
+                "Gastroenterologist",
+                "Geriatrician",
+                "Internist",
+                "Orthopedic clinic",
+                "Podiatrist",
+                "Sleep clinic"
+            ],
+            "website": "https://www.bannerhealth.com/locations/sun-city-west/banner-health-center-meeker?y_source=1_MTQ4NDg0MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 876-3800",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A3893569115%233893570507%233893569803%233893570081%233893574779%233893585447%233893576755%233893571689%233893577277%23116404522519494%23147775796119494%23137699713019494&y_source=1_MTQ4NDg0MDItNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-F31LtEo_98fTOtT5lBa_OXIBCe7nJn_glbZw",
+            "cid": "10774167025096732124",
+            "fid": "0x872b5b3cad8c796f:0x958587d3499e2ddc",
+            "placeId": "ChIJb3mMrTxbK4cR3C2eSdOHhZU"
+        },
+        {
+            "position": 12,
+            "title": "Banner Health Clinic",
+            "address": "37100 N Gantzel Rd #201, San Tan Valley, AZ 85140",
+            "latitude": 33.2159066,
+            "longitude": -111.564178,
+            "rating": 4.4,
+            "ratingCount": 213,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/san-tan-valley/banner-health-clinic-primary-care-gantzel?utm_source=gmb&utm_medium=listing&utm_campaign=bhc_webcta&y_source=1_MTE5MDc0NDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 394-4469",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A31897%2315595%232948410575%234262519237&y_source=1_MTE5MDc0NDYtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVA0Dqb5oQUHdwJXRxmY7-aKVxJgHv7pn7R9Gn",
+            "cid": "6366147732287124316",
+            "fid": "0x872a4bf35cf98631:0x585919a21aa1f35c",
+            "placeId": "ChIJMYb5XPNLKocRXPOhGqIZWVg"
+        },
+        {
+            "position": 13,
+            "title": "Banner Urgent Care",
+            "address": "15521 W Bell Rd, Surprise, AZ 85374",
+            "latitude": 33.637617999999996,
+            "longitude": -112.39453359999999,
+            "rating": 4.4,
+            "ratingCount": 2952,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Diagnostic center",
+                "Medical laboratory",
+                "Sports medicine clinic",
+                "X-ray lab"
+            ],
+            "website": "https://urgentcare.bannerhealth.com/intake/1656?y_source=1_MTE5MDc2NzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 465-6390",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://urgentcare.bannerhealth.com/intake/1656?y_source=1_MTE5MDc2NzQtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpFUASKKhuwbFdmngwcABqfNbmS67maJ5RYCQv",
+            "cid": "16127662157960765520",
+            "fid": "0x872b4532b71d0f59:0xdfd0f748dec2e050",
+            "placeId": "ChIJWQ8dtzJFK4cRUODC3kj30N8"
+        },
+        {
+            "position": 14,
+            "title": "Banner Urgent Care",
+            "address": "5018 N 7th St, Phoenix, AZ 85014",
+            "latitude": 33.5099033,
+            "longitude": -112.065328,
+            "rating": 4.2,
+            "ratingCount": 1442,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Diagnostic center",
+                "Medical laboratory",
+                "X-ray lab"
+            ],
+            "website": "https://urgentcare.bannerhealth.com/intake/1660?y_source=1_MTE5MDc2NzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(602) 255-7680",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://urgentcare.bannerhealth.com/intake/1660?y_source=1_MTE5MDc2NzAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPa2HjmXn-oGl5gyOwGrRt9ov_irED6vZoLlFw1",
+            "cid": "8494531396395877586",
+            "fid": "0x872b12bdfc53f895:0x75e2a34c8f9444d2",
+            "placeId": "ChIJlfhT_L0SK4cR0kSUj0yj4nU"
+        },
+        {
+            "position": 15,
+            "title": "Banner Urgent Care",
+            "address": "1157 S Crismon Rd Ste 101, Mesa, AZ 85208",
+            "latitude": 33.393906699999995,
+            "longitude": -111.614667,
+            "rating": 4.5,
+            "ratingCount": 3891,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Diagnostic center",
+                "Medical laboratory",
+                "Sports medicine clinic",
+                "X-ray lab"
+            ],
+            "website": "https://urgentcare.bannerhealth.com/intake/1638?y_source=1_MTE5MDc2NDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 827-5730",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://urgentcare.bannerhealth.com/intake/1638?y_source=1_MTE5MDc2NDItNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAyMyqpA04st5IjmhvrCk6wZCm3-KHIHbxlmz7",
+            "cid": "7574498858892102426",
+            "fid": "0x872bb106d8bb6d55:0x691e0694abdd8b1a",
+            "placeId": "ChIJVW272AaxK4cRGovdq5QGHmk"
+        },
+        {
+            "position": 16,
+            "title": "Banner Urgent Care",
+            "address": "11685 W Van Buren St, Avondale, AZ 85323",
+            "latitude": 33.4490324,
+            "longitude": -112.3105957,
+            "rating": 4.4,
+            "ratingCount": 2239,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Diagnostic center",
+                "Medical laboratory",
+                "X-ray lab"
+            ],
+            "website": "https://urgentcare.bannerhealth.com/intake/1665?y_source=1_MTE5MDc2NTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 465-6420",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://urgentcare.bannerhealth.com/intake/1665?y_source=1_MTE5MDc2NTEtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCYNCPS6oMNIU2Wf59IDfCsYyh8VUMxznWCXcB",
+            "cid": "11441436020564074717",
+            "fid": "0x872b3f2271f75afb:0x9ec82570fe14a0dd",
+            "placeId": "ChIJ-1r3cSI_K4cR3aAU_nAlyJ4"
+        },
+        {
+            "position": 17,
+            "title": "Banner Health Clinic",
+            "address": "3632 American Way Suite A, Casper, WY 82604",
+            "latitude": 42.814427699999996,
+            "longitude": -106.3654196,
+            "rating": 2.5,
+            "ratingCount": 91,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.bannerhealth.com/Locations/casper/banner-health-clinic-primary-care-american?y_source=1_NTQyNjg1ODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(307) 234-6765",
+            "openingHours": {
+                "Tuesday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Wednesday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Thursday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Friday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Saturday": "12\u20136\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201312\u202fAM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A104116%239082624971&y_source=1_NTQyNjg1ODAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXGRuSlZAD7KfOoKLnLbP1lRsFT0eqnoutmriG",
+            "cid": "4899654623800680138",
+            "fid": "0x8760bc829218a8e9:0x43ff11ebbdbd5eca",
+            "placeId": "ChIJ6agYkoK8YIcRyl69vesR_0M"
+        },
+        {
+            "position": 18,
+            "title": "Banner Health Clinic",
+            "address": "1811 E McMurray Blvd, Casa Grande, AZ 85122",
+            "latitude": 32.8838236,
+            "longitude": -111.70940809999999,
+            "rating": 4.4,
+            "ratingCount": 92,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/casa-grande/banner-health-clinic-mcmurray?utm_source=gmb&utm_medium=listing&utm_campaign=bhc_webcta&y_source=1_MTE5MDc0MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(520) 374-6530",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A81599%2355275%2381526%234071898711&y_source=1_MTE5MDc0MzMtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMiDC5JHTklNRhT5vltrW6jKU0WFhkdIi7e1qVU",
+            "cid": "11603622832521125725",
+            "fid": "0x872a67a69b400a9f:0xa108597cd0089f5d",
+            "placeId": "ChIJnwpAm6ZnKocRXZ8I0HxZCKE"
+        },
+        {
+            "position": 19,
+            "title": "Banner Health Center",
+            "address": "1230 14th St SW, Loveland, CO 80537",
+            "latitude": 40.377553299999995,
+            "longitude": -105.0939317,
+            "rating": 4,
+            "ratingCount": 117,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "X-ray lab"
+            ],
+            "website": "https://www.bannerhealth.com/locations/loveland/banner-health-center-loveland?y_source=1_MTE5MDc0MjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(970) 820-3999",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A23677%233270024511&y_source=1_MTE5MDc0MjUtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxG4Q0UpeR4z3u3fgL5NcbWyzk6YvgTteNilV-",
+            "cid": "15331034493083780221",
+            "fid": "0x876953910775f1b1:0xd4c2c6a4e785047d",
+            "placeId": "ChIJsfF1B5FTaYcRfQSF56TGwtQ"
+        },
+        {
+            "position": 20,
+            "title": "Banner Urgent Care",
+            "address": "16430 W Yuma Rd, Goodyear, AZ 85338",
+            "latitude": 33.4360597,
+            "longitude": -112.4120355,
+            "rating": 4.3,
+            "ratingCount": 1994,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Diagnostic center",
+                "Medical laboratory",
+                "X-ray lab"
+            ],
+            "website": "https://urgentcare.bannerhealth.com/intake/1664?y_source=1_MTE5MDc2NzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(623) 465-6405",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://urgentcare.bannerhealth.com/intake/1664?y_source=1_MTE5MDc2NzUtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPanx0FxCv1dcl_H6KNnuxPBBK8QhvMyEuKQl0r",
+            "cid": "9551717323337888997",
+            "fid": "0x872b383a3106a443:0x848e844c647ff4e5",
+            "placeId": "ChIJQ6QGMTo4K4cR5fR_ZEyEjoQ"
+        }
+    ],
+    "credits": 3
+}

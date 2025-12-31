@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr. Luther Cobb",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7801317,-124.1616159,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Luther F Cobb Md",
+            "address": "636 Harris St, Eureka, CA 95503",
+            "latitude": 40.7801317,
+            "longitude": -124.1616159,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "phoneNumber": "(707) 476-0688",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWrssmwXvalFZ-P4DR_OGXR2-TessO_PdyeGh5",
+            "cid": "5188571857688043909",
+            "fid": "0x54d1574d61c1742d:0x4801829d4515a185",
+            "placeId": "ChIJLXTBYU1X0VQRhaEVRZ2CAUg"
+        }
+    ],
+    "credits": 3
+}

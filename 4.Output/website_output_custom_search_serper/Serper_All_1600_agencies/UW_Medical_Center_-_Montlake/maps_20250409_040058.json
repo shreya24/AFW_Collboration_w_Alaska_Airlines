@@ -1,0 +1,64 @@
+{
+    "searchParameters": {
+        "q": "UW Medical Center - Montlake",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6491809,-122.3069063,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Medical Center - Montlake | Seattle Hospital",
+            "address": "1959 NE Pacific St Main Hospital, Seattle, WA 98195",
+            "latitude": 47.6492651,
+            "longitude": -122.30679549999999,
+            "rating": 3.8,
+            "ratingCount": 316,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.uwmedicine.org/locations/uw-medical-center?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDM0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 598-3300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOZba7qccwWIxcj47C8NmmH2cJCMkODB-_ULJyN",
+            "cid": "10469901287147718853",
+            "fid": "0x549014ec48704f11:0x914c8fbfadd848c5",
+            "placeId": "ChIJEU9wSOwUkFQRxUjYrb-PTJE"
+        },
+        {
+            "position": 2,
+            "title": "Medical Specialties Center at UW Medical Center - Montlake",
+            "address": "1959 NE Pacific St, Seattle, WA 98195",
+            "latitude": 47.649096799999995,
+            "longitude": -122.3070171,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Emergency care physician",
+            "types": [
+                "Emergency care physician",
+                "Doctor",
+                "Surgeon"
+            ],
+            "website": "http://www.uwmedicine.org/uw-medical-center?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDg1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 520-5000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqVw9dD2DtusKZ3jn3srCL2Y-cL_mKZY927ROo",
+            "cid": "687557414795365434",
+            "fid": "0x549014ec5029e57f:0x98ab1d36f904c3a",
+            "placeId": "ChIJf-UpUOwUkFQROkyQb9Oxigk"
+        }
+    ],
+    "credits": 3
+}

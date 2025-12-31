@@ -1,0 +1,35 @@
+{
+    "searchParameters": {
+        "q": "Dr. Gerald Kaplan",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@-26.1565117,28.0769437,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr Gerald B Kaplan - Prosthodontist and Dental Implants",
+            "address": "127 Ivy Rd, Norwood, Johannesburg, 2193, South Africa",
+            "latitude": -26.1565117,
+            "longitude": 28.076943699999998,
+            "rating": 4.6,
+            "ratingCount": 51,
+            "type": "Prosthodontist",
+            "types": [
+                "Prosthodontist",
+                "Cosmetic dentist",
+                "Dental implants provider"
+            ],
+            "website": "https://prosthodontist.co.za/",
+            "phoneNumber": "+27 11 483 2281",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMJSPGTm87atOQ23VColqQKKoUAlkaGbmThTk",
+            "cid": "15392893972677965600",
+            "fid": "0x1e950daf805cae1d:0xd59e8b835ab8b720",
+            "placeId": "ChIJHa5cgK8NlR4RILe4WoOLntU"
+        }
+    ],
+    "credits": 3
+}

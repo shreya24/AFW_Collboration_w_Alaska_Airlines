@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Memorial Hospital North",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.96708,-104.7548251,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCHealth Memorial Hospital North",
+            "address": "4050 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.967079999999996,
+            "longitude": -104.75482509999999,
+            "rating": 3.1,
+            "ratingCount": 572,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-memorial-hospital-north/",
+            "phoneNumber": "(719) 364-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Zdwen7qDJ1KstOUvQYOyKop--dmLpRqeC3Mdc4qrgg7c1bI018p5SErMKC13Wd76v8T04WGj9lsFu4jdNRd3jxU40yoUsuelDNFbaHAhhMm0gATEhW11H9foGgUzUOK56zPA",
+            "cid": "4884588321556751190",
+            "fid": "0x87134c088741ac53:0x43c98b32e4696356",
+            "placeId": "ChIJU6xBhwhME4cRVmNp5DKLyUM"
+        }
+    ],
+    "credits": 3
+}

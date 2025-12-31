@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "New Hope Unlimited",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6824107,-112.1009652,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Hope Unlimited",
+            "address": "21630 N 19th Ave suite b-18, Phoenix, AZ 85027",
+            "latitude": 33.6824107,
+            "longitude": -112.10096519999999,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.newhopemedicalcenter.com/?utm_source=GMBWebsite&utm_campaign=LocalKP",
+            "phoneNumber": "(888) 272-8811",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.newhopemedicalcenter.com/contact-us/?utm_source=GMBAppointmentURL&utm_campaign=LocalKP"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmkpwaGwrHUkuUIAth8aYLQlHWHzMxErXhyO70",
+            "cid": "5674320689997760869",
+            "fid": "0x872b77b12283f9d5:0x4ebf3c9a8cf74965",
+            "placeId": "ChIJ1fmDIrF3K4cRZUn3jJo8v04"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "San Luis Valley Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.472225,-105.8827972,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Luis Valley Health Regional Medical Center",
+            "address": "106 Blanca Avenue, Alamosa, CO 81101",
+            "latitude": 37.472225,
+            "longitude": -105.8827972,
+            "rating": 2.5,
+            "ratingCount": 136,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.sanluisvalleyhealth.org/",
+            "phoneNumber": "(719) 589-2511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNwPAc525O1S2a44zcbv1H1P2kTwPgc2wo0LVo",
+            "cid": "2815988360060909453",
+            "fid": "0x87167bf11677a4f5:0x2714667e6510b78d",
+            "placeId": "ChIJ9aR3FvF7FocRjbcQZX5mFCc"
+        }
+    ],
+    "credits": 3
+}

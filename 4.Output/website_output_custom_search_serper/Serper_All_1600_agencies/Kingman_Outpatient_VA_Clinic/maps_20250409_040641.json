@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Kingman Outpatient VA Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1906893,-114.0163046,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Outpatient Clinic",
+            "address": "2668 Hualapai Mountain Rd, Kingman, AZ 86401",
+            "latitude": 35.1907607,
+            "longitude": -114.0161602,
+            "rating": 3,
+            "ratingCount": 7,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(928) 718-7300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9KFmSX8uuy-8plD-98cRw0O72zLwrEt7IZKCy9c3tc-sA4s6nticEK-YhCoprXbDP1Nt_sXLBzuM6OG0NxanD-NS4R_TUtx96NfQ1vO46Mxb2jLkmURmhgNaZJng2d45NQ0ZQEyg",
+            "cid": "16762586558003085684",
+            "fid": "0x80cdddbaf667d2d9:0xe8a0aba99a830174",
+            "placeId": "ChIJ2dJn9rrdzYARdAGDmqmroOg"
+        },
+        {
+            "position": 2,
+            "title": "Kingman VA Clinic",
+            "address": "2668 Hualapai Mountain Rd, Kingman, AZ 86401",
+            "latitude": 35.1906178,
+            "longitude": -114.0164489,
+            "rating": 2.8,
+            "ratingCount": 34,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/northern-arizona-health-care/locations/kingman-va-clinic/",
+            "phoneNumber": "(928) 718-7300",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.myhealth.va.gov/mhv-portal-web/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-RlFABooWIah7AatpvR8xA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.7972&pitch=0&thumbfov=100",
+            "cid": "9062605074760450612",
+            "fid": "0x15211d7cee26284d:0x7dc4d74cbcbfc234",
+            "placeId": "ChIJTSgm7nwdIRURNMK_vEzXxH0"
+        }
+    ],
+    "credits": 3
+}

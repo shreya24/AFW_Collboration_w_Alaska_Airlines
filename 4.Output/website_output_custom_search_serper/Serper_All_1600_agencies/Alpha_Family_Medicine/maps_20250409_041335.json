@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Alpha Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0874765,-84.2958182,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alpha Family Medicine Inc.",
+            "address": "480 N Main St #202, Alpharetta, GA 30009",
+            "latitude": 34.0874765,
+            "longitude": -84.2958182,
+            "rating": 4.7,
+            "ratingCount": 461,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.alphafammed.com/",
+            "phoneNumber": "(762) 248-5708",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.alphafammed.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.tebra.com/care/practice/alpha-family-medicine-inc-682372?lid=3684734551&rwg_token=AAiGsoYNBHFRMV5aNdWAh4-ThnJNCEyBHtcLjuu-W1gvSRfLaxSVu4pUiMnhvb15Wu7b84Wkxsy8ahTiHQFxzUWHw0jn70tqGMgcxTJGiRWKO1uK2GCpIhU%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_MudL1T_o-pA9rYt0iUCSFzrBJK50VjH7tT8l0EtOLV486qyhuhNHI0HrosMUPn8WpeZzZPzw5pknGEhhcGdRItiKeME3rHYmzkMnsCyLVByAXD5oohI--GEInAYTscjwLEaE5mA",
+            "cid": "3190201190812236893",
+            "fid": "0x88f575bf572f1c55:0x2c45df14a4643c5d",
+            "placeId": "ChIJVRwvV7919YgRXTxkpBTfRSw"
+        }
+    ],
+    "credits": 3
+}

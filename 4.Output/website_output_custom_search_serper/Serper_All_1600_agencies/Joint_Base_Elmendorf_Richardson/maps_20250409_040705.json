@@ -1,0 +1,107 @@
+{
+    "searchParameters": {
+        "q": "Joint Base Elmendorf Richardson",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2515659,-149.7463523,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Joint Base Elmendorf- Richardson",
+            "address": "10471 20th St, Anchorage, AK 99506",
+            "latitude": 61.2464751,
+            "longitude": -149.810681,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Military base",
+            "types": [
+                "Military base"
+            ],
+            "website": "https://www.jber.jb.mil/",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVuQEUS6cmL_EyIPu0jRQX6WuDgQtkaSb_HhjN",
+            "cid": "16361889729797625416",
+            "fid": "0x56c8952247b6c9db:0xe3111c052eb31648",
+            "placeId": "ChIJ28m2RyKVyFYRSBazLgUcEeM"
+        },
+        {
+            "position": 2,
+            "title": "Joint Base Elmendorf-Richardson",
+            "address": "Anchorage, AK 99505",
+            "latitude": 61.2625866,
+            "longitude": -149.698031,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOITBTNw1n0pMoyF3g49OxqlcucIUBZIx_o6W0y",
+            "cid": "11681893119129256716",
+            "fid": "0x56c8945784753ded:0xa21e6be605c7830c",
+            "placeId": "ChIJ7T11hFeUyFYRDIPHBeZrHqI"
+        },
+        {
+            "position": 3,
+            "title": "Military and Family Readiness Center (JBER-R)",
+            "address": "600 Richardson Dr, Anchorage, AK 99505",
+            "latitude": 61.254673399999994,
+            "longitude": -149.69321349999998,
+            "rating": 4.4,
+            "ratingCount": 65,
+            "type": "Family service center",
+            "types": [
+                "Family service center",
+                "Military base"
+            ],
+            "phoneNumber": "(907) 384-1517",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMhN0Mv_xHqSSnNWM2NF2UxgzDu8uaCQVeXVgF1",
+            "cid": "10517719877101561708",
+            "fid": "0x56c8939555555555:0x91f67280c1b4276c",
+            "placeId": "ChIJVVVVVZWTyFYRbCe0wYBy9pE"
+        },
+        {
+            "position": 4,
+            "title": "Joint Base Elmendorf-Richardson Hospital",
+            "address": "5955 Zeamer Ave, Elmendorf AFB, AK 99506",
+            "latitude": 61.235181,
+            "longitude": -149.7449251,
+            "rating": 3.1,
+            "ratingCount": 125,
+            "type": "Military hospital",
+            "types": [
+                "Military hospital"
+            ],
+            "website": "https://elmendorfrichardson.tricare.mil/",
+            "phoneNumber": "(907) 580-2778",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-SELN5h2F55HjlM5hdAZ6omEWig83garDC0HV",
+            "cid": "6126920116019283537",
+            "fid": "0x56c8942ef1a06705:0x550731623a864651",
+            "placeId": "ChIJBWeg8S6UyFYRUUaGOmIxB1U"
+        }
+    ],
+    "credits": 3
+}

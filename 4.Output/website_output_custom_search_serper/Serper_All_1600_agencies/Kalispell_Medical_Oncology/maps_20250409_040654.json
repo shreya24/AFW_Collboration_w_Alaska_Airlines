@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Kalispell Medical Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2168101,-114.3247848,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Hematology & Oncology",
+            "address": "350 Heritage Way #1100, Kalispell, MT 59901",
+            "latitude": 48.216825299999996,
+            "longitude": -114.324789,
+            "rating": 3.9,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hematologist"
+            ],
+            "website": "https://www.logan.org/services/cancer-care/hematology-oncology/",
+            "phoneNumber": "(406) 752-8900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO7PZK8RHdHPo8tBgjnkPc-rWuUcPkFg2ScqR5k",
+            "cid": "14330726213769912542",
+            "fid": "0x53665a75f49091b5:0xc6e0f790612260de",
+            "placeId": "ChIJtZGQ9HVaZlMR3mAiYZD34MY"
+        },
+        {
+            "position": 2,
+            "title": "Kalispell Medical Oncology",
+            "address": "350 Heritage Way, Kalispell, MT 59901",
+            "latitude": 48.2167949,
+            "longitude": -114.3247806,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.logan.org/services/cancer-care/hematology-oncology/",
+            "phoneNumber": "(406) 752-8900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fcn1gcgemHPgcRyKxBu3gA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=276.4524&pitch=0&thumbfov=100",
+            "cid": "14801896894286171699",
+            "fid": "0x53665a75f49091b5:0xcd6ae6cd31e28e33",
+            "placeId": "ChIJtZGQ9HVaZlMRM47iMc3mas0"
+        }
+    ],
+    "credits": 3
+}

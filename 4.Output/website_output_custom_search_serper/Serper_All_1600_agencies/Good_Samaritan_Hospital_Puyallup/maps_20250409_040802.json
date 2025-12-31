@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Good Samaritan Hospital Puyallup",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.1786058,-122.2898179,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MultiCare Good Samaritan Hospital",
+            "address": "401 15th Ave SE, Puyallup, WA 98372",
+            "latitude": 47.1786058,
+            "longitude": -122.28981789999999,
+            "rating": 2.6,
+            "ratingCount": 715,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.multicare.org/location/good-samaritan-hospital/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(253) 697-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9NIdkD1HHgKKI2IYSfzyLWp4sgaxoptiSVo1EMniQA3RyagMbrGuLzr_xsEm6rGa3kXE7_hwwZ_-iEknx2DFpC_vbAlweG5rgzjqg0Foy_Z7z-D97NJCatISimN3i5SMsNPQb4",
+            "cid": "636362443643242418",
+            "fid": "0x5490fc101cee2b4d:0x8d4d04559c147b2",
+            "placeId": "ChIJTSvuHBD8kFQRskfBWUXQ1Ag"
+        }
+    ],
+    "credits": 3
+}

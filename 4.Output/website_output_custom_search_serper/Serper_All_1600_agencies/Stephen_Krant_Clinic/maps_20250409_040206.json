@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Stephen Krant Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8321851,-117.2760298,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stephen Krant Clinic",
+            "address": "528 Nautilus St, La Jolla, CA 92037",
+            "latitude": 32.8321851,
+            "longitude": -117.27602979999999,
+            "rating": 5,
+            "ratingCount": 8,
+            "type": "Cosmetic surgeon",
+            "types": [
+                "Cosmetic surgeon",
+                "Plastic surgeon"
+            ],
+            "website": "https://sk-clinic.com/",
+            "phoneNumber": "(858) 454-3161",
+            "menu": "http://places.singleplatform.com/sk-clinic-and-medical-spa/menu?ref=google",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20135:30\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_I8EhLp3aF4lrfwPgRBm0rqNiMAzEekVoigMJWl4kggQDTbNkze2kHKl7DDDl2wu6eENTMbqvVmisDE-PzzZ3-5DQbCdTemHGZnxFCHI9xinW-U3u_tvhhCEmy8VuiDU7uvIFR",
+            "cid": "3576610027346322598",
+            "fid": "0x80dc03ddaf57eb45:0x31a2abdec413e4a6",
+            "placeId": "ChIJRetXr90D3IARpuQTxN6rojE"
+        }
+    ],
+    "credits": 3
+}

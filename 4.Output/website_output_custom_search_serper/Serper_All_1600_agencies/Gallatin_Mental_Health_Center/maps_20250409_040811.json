@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Gallatin Mental Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6766273,-111.0235977,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nash Michael M",
+            "address": "699 Farmhouse Ln, Bozeman, MT 59715",
+            "latitude": 45.670835,
+            "longitude": -111.0088102,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "http://www.gallatinmentalhealth.org/",
+            "phoneNumber": "(406) 556-6500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zbehNXQVCOW88x68r26GEg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=291.7907&pitch=0&thumbfov=100",
+            "cid": "12184997564754632353",
+            "fid": "0x5345445ab3c30277:0xa919ceb9ec331ea1",
+            "placeId": "ChIJdwLDs1pERVMRoR4z7LnOGak"
+        },
+        {
+            "position": 2,
+            "title": "Western Montana Mental Health Center - Gallatin",
+            "address": "699 Farmhouse Ln, Bozeman, MT 59715",
+            "latitude": 45.670784399999995,
+            "longitude": -111.0088366,
+            "rating": 2.2,
+            "ratingCount": 29,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Medical clinic"
+            ],
+            "website": "http://www.wmmhc.org/",
+            "phoneNumber": "(406) 556-6500",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_siCkoeqXHt_lPu8ScLw4Fs1ajH744FRTiUWeL0Hbetk3y7gXpEOMpkhPfQHiO8La63o42uamXcxk0Jfu85t0s2VnQEp682-L6Pfq9ZSnbg4zr_dwxtrAK3Lwebb-050UErfmrRg",
+            "cid": "8685744013170541981",
+            "fid": "0x5345448e87f3395b:0x7889f6293301859d",
+            "placeId": "ChIJWznzh45ERVMRnYUBMyn2iXg"
+        },
+        {
+            "position": 3,
+            "title": "Gallatin Mental Health Center",
+            "address": "300 N Willson Ave, Bozeman, MT 59715",
+            "latitude": 45.6824702,
+            "longitude": -111.0383852,
+            "website": "http://www.gallatinmentalhealth.org/",
+            "phoneNumber": "(406) 522-7357",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IgN-qdSrPK_O_93-DwQD3g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=111.37509&pitch=0&thumbfov=100",
+            "cid": "4490834495277057719",
+            "fid": "0x5345445ab3c30277:0x3e52a62e140f46b7",
+            "placeId": "ChIJdwLDs1pERVMRt0YPFC6mUj4"
+        }
+    ],
+    "credits": 3
+}

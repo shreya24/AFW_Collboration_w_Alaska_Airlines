@@ -1,0 +1,25 @@
+{
+    "searchParameters": {
+        "q": "City of Seatac",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4422135,-122.2956816,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SeaTac",
+            "address": "Washington",
+            "latitude": 47.4435903,
+            "longitude": -122.29607259999999,
+            "website": "http://www.ci.seatac.wa.us/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9GXKwoogizEn5UDPnJ7lzlJtsCDEpeyYLgQMv4_Zh9-9ynxrr621lSrRisf6frqaq7re0gURFv9sNJbdhf0MaMNoE0kQzvzPQPoCVXdV_gpHusWtGiH9wtJvW5geZtOXeUb847tw",
+            "cid": "8656677274291189318",
+            "fid": "0x54905b6cc75964d3:0x7822b21dad52b646",
+            "placeId": "ChIJ02RZx2xbkFQRRrZSrR2yIng"
+        }
+    ],
+    "credits": 3
+}

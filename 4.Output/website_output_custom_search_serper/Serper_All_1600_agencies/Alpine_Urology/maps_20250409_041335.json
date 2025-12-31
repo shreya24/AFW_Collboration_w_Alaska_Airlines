@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Alpine Urology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.0901263,-105.0831294,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alpine Urology: Clark James E MD",
+            "address": "2030 Mountain View Ave STE 370, Longmont, CO 80501",
+            "latitude": 40.1813449,
+            "longitude": -105.1281631,
+            "type": "Urologist",
+            "types": [
+                "Urologist"
+            ],
+            "phoneNumber": "(303) 776-9400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EQgbLrR1a8dAUgZeHP3Zaw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=65.33586&pitch=0&thumbfov=100",
+            "cid": "16208200333554060137",
+            "fid": "0x876bfbdfd7990b0d:0xe0ef185421db8b69",
+            "placeId": "ChIJDQuZ19_7a4cRaYvbIVQY7-A"
+        },
+        {
+            "position": 2,
+            "title": "Alpine Urology: Anderson C Cragin MD",
+            "address": "16677 Lowell Blvd, Broomfield, CO 80023",
+            "latitude": 39.9989077,
+            "longitude": -105.0380958,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Urologist",
+            "types": [
+                "Urologist"
+            ],
+            "phoneNumber": "(303) 938-3484",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3y698AWMehjrguznU890fA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.72186&pitch=0&thumbfov=100",
+            "cid": "2221701652879407283",
+            "fid": "0x876bf563f6cf251b:0x1ed511e1d8c678b3",
+            "placeId": "ChIJGyXP9mP1a4cRs3jG2OER1R4"
+        }
+    ],
+    "credits": 3
+}

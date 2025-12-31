@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Wailuku",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8875347,-156.4887878,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Wailuku Medical Office",
+            "address": "80 Mahalani St, Wailuku, HI 96793",
+            "latitude": 20.8874225,
+            "longitude": -156.4871215,
+            "rating": 4.3,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Wailuku-Medical-Office-100431",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_PXXWAsy5hRPrA5N5qiz8OzCWlKSFCRKGU0M9zsVNPUqYlejzrt4QJ0j-O0eQXNwjq26jn43eZ6SuwJkUg0-abm5DQ-WAfk-y4CMx93hLs_oKDCIJo6i9adwIP1W54nDjsNpla",
+            "cid": "16909495685841445361",
+            "fid": "0x7954d317f9aa2c47:0xeaaa98bc659461f1",
+            "placeId": "ChIJRyyq-RfTVHkR8WGUZbyYquo"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Maui Lani Medical Office",
+            "address": "55 Maui Lani Pkwy, Wailuku, HI 96793",
+            "latitude": 20.8876469,
+            "longitude": -156.4904541,
+            "rating": 3.4,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Maui-Lani-Medical-Office-100436",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB__uYhDtEZxbAyagOAWy_RpHZEpL_Yll1QkVAc7ozGwhUz_eQjcAD8z8r2nt1jY-tAMlhp9WRxTF14EQeLoDxLwSK-iVu9jgKpiSA8tF9NXNBFUDVhLg3qgM0MFXC6o3kOOOCMC7w",
+            "cid": "13570343389161947667",
+            "fid": "0x7954d316f5e99cfb:0xbc538b69e7118213",
+            "placeId": "ChIJ-5zp9RbTVHkRE4IR52mLU7w"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dogs for Better Lives",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4613113,-122.9403076,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dogs for Better Lives",
+            "address": "10175 Wheeler Rd, Central Point, OR 97502",
+            "latitude": 42.4613113,
+            "longitude": -122.9403076,
+            "rating": 4.5,
+            "ratingCount": 45,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.dogsforbetterlives.org/",
+            "phoneNumber": "(800) 990-3647",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqDn18kelnqeI3cfB_5YA-SA5cvuIa5lSH9ijU",
+            "cid": "3508787559596306540",
+            "fid": "0x54c587db16e07f67:0x30b1b7b1f20c306c",
+            "placeId": "ChIJZ3_gFtuHxVQRbDAM8rG3sTA"
+        }
+    ],
+    "credits": 3
+}

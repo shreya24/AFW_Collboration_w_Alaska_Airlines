@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Arizona Center for Chronic Pelvic Pain",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5784934,-111.8776928,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Michael Hibner MD - Arizona Center for Chronic Pelvic Pain",
+            "address": "9440 E Ironwood Square Dr, Scottsdale, AZ 85258",
+            "latitude": 33.5784934,
+            "longitude": -111.87769279999999,
+            "rating": 4.8,
+            "ratingCount": 69,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://azccpp.com/",
+            "phoneNumber": "(480) 599-9682",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaYIbQJNzJL9PtpoYxclyhBdmUNl9JPYGpW6Ba",
+            "cid": "17410077954955914305",
+            "fid": "0x872b759f3fa52985:0xf19d05a85101ac41",
+            "placeId": "ChIJhSmlP591K4cRQawBUagFnfE"
+        }
+    ],
+    "credits": 3
+}

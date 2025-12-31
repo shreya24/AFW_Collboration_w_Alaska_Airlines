@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Enoch Choi Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3142471,-121.9312672,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Enoch Choi",
+            "address": "750 S Bascom Ave, San Jose, CA 95128",
+            "latitude": 37.314247099999996,
+            "longitude": -121.9312672,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(408) 885-5000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E3N-SJwZUTBg_jzYQ1cjbQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=98.75768&pitch=0&thumbfov=100",
+            "cid": "4227215614824158068",
+            "fid": "0x808fcb3124afffff:0x3aaa163476941374",
+            "placeId": "ChIJ__-vJDHLj4ARdBOUdjQWqjo"
+        }
+    ],
+    "credits": 3
+}

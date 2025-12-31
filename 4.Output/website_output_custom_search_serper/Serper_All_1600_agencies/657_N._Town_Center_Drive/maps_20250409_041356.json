@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "657 N. Town Center Drive",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1810228,-115.3176503,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "657 N Town Center Dr",
+            "address": "657 N Town Center Dr, Las Vegas, NV 89144",
+            "latitude": 36.1810228,
+            "longitude": -115.3176503,
+            "type": "Building",
+            "types": [
+                "Building"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WqntgGBelcbo1a_jW6qJ1A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=321.0334&pitch=0&thumbfov=100",
+            "cid": "16753733528953467973",
+            "fid": "0x80c8bfc56a7d4203:0xe88137e126d2b445",
+            "placeId": "ChIJA0J9asW_yIARRbTSJuE3geg"
+        }
+    ],
+    "credits": 3
+}

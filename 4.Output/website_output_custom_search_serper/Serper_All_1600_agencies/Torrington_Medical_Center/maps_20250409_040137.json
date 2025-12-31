@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "Torrington Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.518006,-54.1666648,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Torrington Health Centre",
+            "address": "New Rd, Great Torrington, Torrington EX38 8EL, United Kingdom",
+            "latitude": 50.952084299999996,
+            "longitude": -4.1400159,
+            "rating": 3.2,
+            "ratingCount": 19,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner",
+                "Doctor"
+            ],
+            "website": "http://www.torringtonhc.co.uk/",
+            "phoneNumber": "+44 1805 622247",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 2\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GupL0zpmAtsetbTZNm4grA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=27.290241&pitch=0&thumbfov=100",
+            "cid": "7378469590276439181",
+            "fid": "0x486c3f5ab451e66b:0x666596ffe272fc8d",
+            "placeId": "ChIJa-ZRtFo_bEgRjfxy4v-WZWY"
+        },
+        {
+            "position": 2,
+            "title": "Banner Health Clinic",
+            "address": "625 Albany Ave, Torrington, WY 82240",
+            "latitude": 42.0839278,
+            "longitude": -104.1933138,
+            "rating": 4.2,
+            "ratingCount": 70,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Family practice physician",
+                "Internist",
+                "Medical clinic",
+                "Pediatrician",
+                "Pulmonologist",
+                "Sleep clinic",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/torrington/banner-health-clinic-family-medicine-albany?utm_source=gmb&utm_medium=listing&utm_campaign=bhc_webcta&y_source=1_MTE5MDc0MzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(307) 532-2107",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A23089%2384338%233157124423%233157131253%233530298479&y_source=1_MTE5MDc0MzQtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZST_OnngSbd4_QwIZykWthezw-rPEw-REpUHM",
+            "cid": "4771236135468645559",
+            "fid": "0x87650932e23695a5:0x4236d5fc721dbcb7",
+            "placeId": "ChIJpZU24jIJZYcRt7wdcvzVNkI"
+        }
+    ],
+    "credits": 3
+}

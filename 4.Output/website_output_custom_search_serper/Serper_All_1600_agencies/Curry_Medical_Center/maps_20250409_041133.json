@@ -1,0 +1,165 @@
+{
+    "searchParameters": {
+        "q": "Curry Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2336279,-124.3528164,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Curry Medical Center - Primary Care, Specialty Care, Same Day Appointments",
+            "address": "500 5th St, Brookings, OR 97415",
+            "latitude": 42.0565006,
+            "longitude": -124.2879529,
+            "rating": 2.4,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Family practice physician",
+                "Pain management physician",
+                "Pediatrician",
+                "Surgeon",
+                "Urologist"
+            ],
+            "website": "http://www.curryhealthnetwork.com/getpage.php?name=curry-medical-center&sub=Locations",
+            "phoneNumber": "(541) 412-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yo13fW_YWrsNgVBQSYbxqg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=134.8791&pitch=0&thumbfov=100",
+            "cid": "12176366800289632527",
+            "fid": "0x54daa12c9a69d2c1:0xa8fb25177a1f910f",
+            "placeId": "ChIJwdJpmiyh2lQRD5Efehcl-6g"
+        },
+        {
+            "position": 2,
+            "title": "Curry Medical Center Emergency Care",
+            "address": "500 5th St, Brookings, OR 97415",
+            "latitude": 42.0559387,
+            "longitude": -124.28701989999999,
+            "rating": 3.2,
+            "ratingCount": 92,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://www.curryhealthnetwork.com/getpage.php?name=ED",
+            "phoneNumber": "(541) 412-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Y5r6yCAm73IdesnExowVE2136U6C4-8efvpykgd5zXwXKUEo6ffgGx0Cz676WWjug2MDYXVJMeYG2bckf_UtqKzJO2BO3MkUmsQS-mgSodgPQjBwA0wfB3pYyYJV_ciIBVuI_",
+            "cid": "776568104194030306",
+            "fid": "0x54daa1e655555555:0xac6ec938a623ae2",
+            "placeId": "ChIJVVVVVeah2lQR4jpiipPsxgo"
+        },
+        {
+            "position": 3,
+            "title": "Curry General Hospital",
+            "address": "94220 4th St, Gold Beach, OR 97444",
+            "latitude": 42.411317,
+            "longitude": -124.418613,
+            "rating": 3.5,
+            "ratingCount": 91,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency care physician",
+                "Emergency room",
+                "General hospital"
+            ],
+            "website": "http://www.curryhealthnetwork.com/getpage.php?name=Curry_General_Hospital&sub=Locations",
+            "phoneNumber": "(541) 247-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Pk0Xyqz3tCPM8DQsGXbOgGiHgwOwEWme1dS6bxXq5p7dvw1eFT1XpSFtPoHf85WKq3vP3EJaaE2hkj6WOWeAcZuNzBqwoCuGnwX4JZChn1_xkkwRacJqxGP7pUFlnKamFGwFT",
+            "cid": "14055765921545602583",
+            "fid": "0x54dace23f0b68e57:0xc3101ca28fc44617",
+            "placeId": "ChIJV4628CPO2lQRF0bEj6IcEMM"
+        },
+        {
+            "position": 4,
+            "title": "Curry Medical Practice",
+            "address": "94220 4th St, Gold Beach, OR 97444",
+            "latitude": 42.4113159,
+            "longitude": -124.4185069,
+            "rating": 2,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Specialized clinic"
+            ],
+            "website": "http://www.curryhealthnetwork.com/getpage.php?name=Curry_Medical_Practice&sub=Locations",
+            "phoneNumber": "(541) 247-3910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "11905635936375800072",
+            "fid": "0x54dace23f747979f:0xa53950ce2cce0108",
+            "placeId": "ChIJn5dH9yPO2lQRCAHOLM5QOaU"
+        },
+        {
+            "position": 5,
+            "title": "Curry Medical Center Primary and Speciality Care",
+            "address": "500 5th St, Brookings, OR 97415",
+            "latitude": 42.0559921,
+            "longitude": -124.2871093,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic",
+                "Specialized clinic"
+            ],
+            "website": "http://www.curryhealthnetwork.com/getpage.php?name=curry-medical-center&sub=Locations",
+            "phoneNumber": "(541) 412-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RMVFqH8tJJB_YokGM1HdUA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.86479&pitch=0&thumbfov=100",
+            "cid": "10512076269025638278",
+            "fid": "0x54daa194ac7df305:0x91e265abdb163786",
+            "placeId": "ChIJBfN9rJSh2lQRhjcW26tl4pE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Kevin Blasingame, D.O.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3635623,-120.7637989,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kevin J Blasingame Do",
+            "address": "665 New York Ranch Rd, Jackson, CA 95642",
+            "latitude": 38.362381899999995,
+            "longitude": -120.76440319999999,
+            "type": "Internal medicine ward",
+            "types": [
+                "Internal medicine ward"
+            ],
+            "phoneNumber": "(209) 223-4700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeDkwmTFp_9RrADIlsAgyw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.58066&pitch=0&thumbfov=100",
+            "cid": "7208223343773730141",
+            "fid": "0x809a7bb60fed8ccf:0x6408c0f0bb4fc55d",
+            "placeId": "ChIJz4ztD7Z7moARXcVPu_DACGQ"
+        },
+        {
+            "position": 2,
+            "title": "Blasingame Kevin DO",
+            "address": "613 New York Ranch Rd, Jackson, CA 95642",
+            "latitude": 38.3647427,
+            "longitude": -120.76319459999999,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(209) 223-4700",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=arK_M3RvjCQi7dg9w6PdvQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=283.77448&pitch=0&thumbfov=100",
+            "cid": "4417309214369290309",
+            "fid": "0x809a7bb42e93c48b:0x3d4d6f53998a9845",
+            "placeId": "ChIJi8STLrR7moARRZiKmVNvTT0"
+        }
+    ],
+    "credits": 3
+}

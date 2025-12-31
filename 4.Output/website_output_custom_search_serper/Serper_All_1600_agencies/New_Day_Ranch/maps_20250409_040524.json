@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "New Day Ranch",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.299424,-96.5634744,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Day Ranch",
+            "address": "1111 Coburn Rd, Billings, MT 59101",
+            "latitude": 45.775068,
+            "longitude": -108.460651,
+            "rating": 3.2,
+            "ratingCount": 29,
+            "type": "Group home",
+            "types": [
+                "Group home",
+                "Addiction treatment center",
+                "Homeless service",
+                "Mental health clinic",
+                "Mental health service",
+                "Support group"
+            ],
+            "website": "https://newdayranch.com/",
+            "phoneNumber": "(406) 254-2340",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNzxDXS9hguVBh64ZYajF23LVNNk3KnHIHhGbzw",
+            "cid": "15396735521111685573",
+            "fid": "0x53486536c03d3c13:0xd5ac31618c8039c5",
+            "placeId": "ChIJEzw9wDZlSFMRxTmAjGExrNU"
+        },
+        {
+            "position": 2,
+            "title": "New Day Ranch",
+            "address": "14838 Rosenstiel Rd, Verona, KY 41092",
+            "latitude": 38.82378,
+            "longitude": -84.66629789999999,
+            "rating": 5,
+            "ratingCount": 20,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Equestrian facility"
+            ],
+            "website": "http://www.newdayranch.org/",
+            "phoneNumber": "(859) 322-2884",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbPG3bDCi-fl-u1zvCcxSiqaE3Sq_ezZQRb-0S",
+            "cid": "14452949251821748433",
+            "fid": "0x8841ebb56aa611af:0xc89330c4ff9540d1",
+            "placeId": "ChIJrxGmarXrQYgR0UCV_8Qwk8g"
+        }
+    ],
+    "credits": 3
+}

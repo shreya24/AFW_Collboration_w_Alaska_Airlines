@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Maniilaq Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@66.8960101,-162.5864796,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Manii\u1e37aq Health Center",
+            "address": "436 5th Ave, Kotzebue, AK 99752",
+            "latitude": 66.8960101,
+            "longitude": -162.5864796,
+            "rating": 4.6,
+            "ratingCount": 28,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre",
+                "Emergency care service",
+                "Hospital",
+                "Non-profit organization",
+                "Urgent care center",
+                "Wellness center"
+            ],
+            "website": "http://www.maniilaq.org/",
+            "phoneNumber": "(907) 442-3321",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPv9V52ugaU5iaaFvfMQHzWw5Lgr5-hePjzpdcC",
+            "cid": "5808491102626836877",
+            "fid": "0x50cd1753f8fc4d1f:0x509be7e21516f18d",
+            "placeId": "ChIJH038-FMXzVARjfEWFeLnm1A"
+        }
+    ],
+    "credits": 3
+}

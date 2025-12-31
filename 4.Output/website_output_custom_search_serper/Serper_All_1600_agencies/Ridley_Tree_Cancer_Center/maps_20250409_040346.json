@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Ridley Tree Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.5146557,-119.9255572,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ridley-Tree Cancer Center",
+            "address": "540 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4275984,
+            "longitude": -119.7254559,
+            "rating": 4.1,
+            "ratingCount": 15,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.ridleytreecc.org/cancer-center",
+            "phoneNumber": "(805) 879-0670",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136\u202fPM",
+                "Friday": "8:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNzfEjggs9v18ft1ZO2eDGQUoX3B88S-ML-LI-g",
+            "cid": "3164147239150992659",
+            "fid": "0x80e914ed7a27d13f:0x2be94f264ea0bd13",
+            "placeId": "ChIJP9Eneu0U6YARE72gTiZP6Ss"
+        },
+        {
+            "position": 2,
+            "title": "Ridley-Tree Cancer Center at Sansum Clinic Nuclear Medicine",
+            "address": "400 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4300008,
+            "longitude": -119.72383389999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.ridleytreecc.org/cancer-center/locations/location/details/cancer-center-of-santa-barbara-300-west-pueblo-st",
+            "phoneNumber": "(805) 563-5870",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cqz4lelAHjrw3unOd_goqQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=134.7143&pitch=0&thumbfov=100",
+            "cid": "13191616012074634358",
+            "fid": "0x80e914ed7a27d13f:0xb71208deed104c76",
+            "placeId": "ChIJP9Eneu0U6YARdkwQ7d4IErc"
+        },
+        {
+            "position": 3,
+            "title": "Ridley-Tree Cancer Center at Sansum Clinic Solvang Oncology & Hematology",
+            "address": "2040 Viborg Rd STE 140, Solvang, CA 93463",
+            "latitude": 34.601713,
+            "longitude": -120.12728059999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist"
+            ],
+            "website": "https://www.ridleytreecc.org/cancer-center/locations/location/details/cancer-center-solvang-office",
+            "phoneNumber": "(805) 686-5370",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "7899892827572081732",
+            "fid": "0x80e9549a59f872b1:0x6da20eabd7171444",
+            "placeId": "ChIJsXL4WZpU6YARRBQX16sOom0"
+        }
+    ],
+    "credits": 3
+}

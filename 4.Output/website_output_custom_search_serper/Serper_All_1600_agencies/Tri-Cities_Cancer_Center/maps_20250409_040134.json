@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Tri-Cities Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2130408,-119.2207272,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kadlec Tri-Cities Cancer Center",
+            "address": "7350 W Deschutes Ave building a, Kennewick, WA 99336",
+            "latitude": 46.213040799999995,
+            "longitude": -119.2207272,
+            "rating": 3.2,
+            "ratingCount": 26,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.providence.org/locations/kadlec/tri-cities-cancer-center?Is=location&y_source=1_MjgxNDkxNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 783-9894",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/provider-listing?related=f57ee49b7ce84206b8398e01fdbe85f7&y_source=1_MjgxNDkxNzktNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMD_3_RYAVRIyhuuQHIeSXjU43xIEKIPc-bT4w",
+            "cid": "11426327890249961639",
+            "fid": "0x549879ed3ca08091:0x9e9278ad497cd0a7",
+            "placeId": "ChIJkYCgPO15mFQRp9B8Sa14kp4"
+        }
+    ],
+    "credits": 3
+}

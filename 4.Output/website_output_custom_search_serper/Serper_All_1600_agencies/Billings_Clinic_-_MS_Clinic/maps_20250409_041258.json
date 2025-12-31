@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Billings Clinic - MS Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7886164,-108.5126747,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Billings Clinic: Will Steven F MD",
+            "address": "2825 8th Ave N, Billings, MT 59101",
+            "latitude": 45.7879843,
+            "longitude": -108.5123914,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.billingsclinic.com/services-specialties/neurosciences/neurology/muscle-disease-and-als-care-center/",
+            "phoneNumber": "(406) 238-2500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fIRAdF1CaX6tKNaDXnGTMg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.9903&pitch=0&thumbfov=100",
+            "cid": "2967487095359997089",
+            "fid": "0x53487b3eab8cc243:0x292ea1ca727d04a1",
+            "placeId": "ChIJQ8KMqz57SFMRoQR9csqhLik"
+        },
+        {
+            "position": 2,
+            "title": "Billings Clinic Hospital",
+            "address": "2800 10th Ave N, Billings, MT 59101",
+            "latitude": 45.789443399999996,
+            "longitude": -108.512958,
+            "rating": 3.5,
+            "ratingCount": 252,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.billingsclinic.com/maps-locations/location-profile/?id=166&utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=9",
+            "phoneNumber": "(406) 238-2500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP48OryqRrvU_l7lXfZLSzDd601qAwIyr4EKaOV",
+            "cid": "8473463763316241480",
+            "fid": "0x534864cddff832dd:0x7597ca65fd9bf448",
+            "placeId": "ChIJ3TL4381kSFMRSPSb_WXKl3U"
+        },
+        {
+            "position": 3,
+            "title": "Billings Clinic",
+            "address": "801 N 29th St, Billings, MT 59101",
+            "latitude": 45.7877894,
+            "longitude": -108.5125865,
+            "rating": 2.6,
+            "ratingCount": 76,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Physician assistant",
+                "Physical therapist"
+            ],
+            "website": "https://www.billingsclinic.com/maps-locations/location-profile/?id=241&utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=18424633211849979989",
+            "phoneNumber": "(406) 238-2500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TJ8yGp7KE0apkVnLEjdwOg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=58.821182&pitch=0&thumbfov=100",
+            "cid": "6434109268117812977",
+            "fid": "0x53487b3eab8cc243:0x594a8c4a3c35f6f1",
+            "placeId": "ChIJQ8KMqz57SFMR8fY1PEqMSlk"
+        }
+    ],
+    "credits": 3
+}

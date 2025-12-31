@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Riverton Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.0348861,-108.4190616,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SageWest Health Care- Riverton Campus",
+            "address": "2100 W Sunset Dr, Riverton, WY 82501",
+            "latitude": 43.0348861,
+            "longitude": -108.41906159999999,
+            "rating": 3,
+            "ratingCount": 81,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.sagewesthealthcare.com/riverton",
+            "phoneNumber": "(307) 856-4161",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8k5aXBDbvpzTZd-NzDiAQGPGqttxWBMWnzfWST7EO4My-4_W3EWoeFGebxJR2R4bny3yExnrXkcdtD6KcL0z6hHE8ZWeRbxi3BOPOfxYbRlXYgvEQ91cAXgDhghU3CNShLxwXngA",
+            "cid": "11757188229598122731",
+            "fid": "0x8758dd5a8a9b9a67:0xa329ec670e9992eb",
+            "placeId": "ChIJZ5qbilrdWIcR65KZDmfsKaM"
+        }
+    ],
+    "credits": 3
+}

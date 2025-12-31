@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Salt Lake Behavioral Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6876443,-111.8728029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Salt Lake Behavioral Health",
+            "address": "3802 S 700 E, Salt Lake City, UT 84106",
+            "latitude": 40.687644299999995,
+            "longitude": -111.8728029,
+            "rating": 3.2,
+            "ratingCount": 243,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://saltlakebehavioralhealth.com/",
+            "phoneNumber": "(801) 264-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM7syqSjn5ma6nsfmcOIdGq-fohrpxzSBmG_FOy",
+            "cid": "12858968662585410777",
+            "fid": "0x87528a6f6c4770b7:0xb2743bde6f4884d9",
+            "placeId": "ChIJt3BHbG-KUocR2YRIb947dLI"
+        }
+    ],
+    "credits": 3
+}

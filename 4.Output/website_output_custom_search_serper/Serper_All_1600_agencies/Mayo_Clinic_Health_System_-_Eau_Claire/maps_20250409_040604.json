@@ -1,0 +1,105 @@
+{
+    "searchParameters": {
+        "q": "Mayo Clinic Health System - Eau Claire",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.8022772,-91.5102921,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mayo Clinic Health System - Eau Claire",
+            "address": "1221 Whipple St, Eau Claire, WI 54703",
+            "latitude": 44.8121511,
+            "longitude": -91.5129161,
+            "rating": 3,
+            "ratingCount": 179,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General practitioner",
+                "Medical clinic"
+            ],
+            "website": "http://mayoclinichealthsystem.org/locations/eau-claire?mc_id=&utm_source=yext&utm_medium=l&utm_content=eauclaireluthergeneral&utm_campaign=mchsmarketing&geo=eauclaire&placementsite=nwwi&invsrc=mchsnwwi&cauid=110704&y_source=1_MzkxODExMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(715) 838-3311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:15\u202fPM",
+                "Thursday": "8\u202fAM\u20135:15\u202fPM",
+                "Friday": "8\u202fAM\u20135:15\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbbYVoV4-s9_pDE-uW8UQr42vMonZJCpYTHazY",
+            "cid": "4975074371747139985",
+            "fid": "0x87f8bd7ad78e347f:0x450b03c833235191",
+            "placeId": "ChIJfzSO13q9-IcRkVEjM8gDC0U"
+        },
+        {
+            "position": 2,
+            "title": "Mayo Clinic Health System - Eau Claire Clairemont Campus",
+            "address": "Clairemont Campus, 733 W Clairemont Ave, Eau Claire, WI 54701",
+            "latitude": 44.792503499999995,
+            "longitude": -91.50766809999999,
+            "rating": 3.3,
+            "ratingCount": 71,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "http://mayoclinichealthsystem.org/locations/eau-claire?mc_id=&utm_source=yext&utm_medium=l&utm_content=eauclaireclairemontgeneral&utm_campaign=mchsmarketing&geo=eauclaire&placementsite=nwwi&invsrc=mchsnwwi&cauid=110703&y_source=1_MzkxODEwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(715) 838-5222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:15\u202fPM",
+                "Thursday": "8\u202fAM\u20135:15\u202fPM",
+                "Friday": "8\u202fAM\u20135:15\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPht69sEwXk_Bvv985zNHlDWXaNnXSj7saXt0Nd",
+            "cid": "13426169254820242439",
+            "fid": "0x87f8bd90c190c4c9:0xba5355cd67d4e407",
+            "placeId": "ChIJycSQwZC9-IcRB-TUZ81VU7o"
+        },
+        {
+            "position": 3,
+            "title": "Mayo Clinic Health System - Urgent Care",
+            "address": "733 W Clairemont Ave, Eau Claire, WI 54701",
+            "latitude": 44.792403199999995,
+            "longitude": -91.50828349999999,
+            "rating": 2.7,
+            "ratingCount": 54,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Urgent care center"
+            ],
+            "website": "https://www.mayoclinichealthsystem.org/locations/eau-claire/services-and-treatments/urgent-care?mc_id=&utm_source=yext&utm_medium=l&utm_content=eauclaireurgentcare&utm_campaign=mchsmarketing&geo=eauclaire&placementsite=nwwi&invsrc=mchsnwwi&cauid=122225&y_source=1_MjM2NjQ1ODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(715) 838-5340",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mayoclinic.org/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNam6lpILmF_PeFrey60PDb5SMM48bVUHFn-qex",
+            "cid": "14118473074021461648",
+            "fid": "0x87f8bd90c190c4c9:0xc3eee4753bf76e90",
+            "placeId": "ChIJycSQwZC9-IcRkG73O3Xk7sM"
+        }
+    ],
+    "credits": 3
+}

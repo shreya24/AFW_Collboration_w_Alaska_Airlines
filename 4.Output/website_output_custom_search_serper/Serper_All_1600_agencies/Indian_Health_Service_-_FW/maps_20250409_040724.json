@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Indian Health Service - FW",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@26.1516628,91.7967407,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Office of the Director of Health Services (FW), Assam",
+            "address": "5Q2W+MM9, Lichubagan, Hengrabari, Guwahati, Assam 781005, India",
+            "latitude": 26.1516628,
+            "longitude": 91.7967407,
+            "rating": 4.1,
+            "ratingCount": 10,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "website": "https://hfw.assam.gov.in/contact-us",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-y_EwPnq1TIZEl_D3sBX4ViSingCU8HLPP1jNj3OVakwGWa2mXPQ4HhIN7Rvl-eiYVYHYDW9b6-ThkX9MUx4AqbelgUqZKXYTPnkhMGqR7fsaMXNRC8i6mkIOBXoEtu2TB",
+            "cid": "16465616411674950989",
+            "fid": "0x375a58e11c148b1b:0xe4819ee349ba3d4d",
+            "placeId": "ChIJG4sUHOFYWjcRTT26SeOegeQ"
+        }
+    ],
+    "credits": 3
+}

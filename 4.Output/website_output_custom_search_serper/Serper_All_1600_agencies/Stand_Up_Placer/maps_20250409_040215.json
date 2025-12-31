@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Stand Up Placer",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8536024,-121.1982377,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stand Up Placer",
+            "address": "300 Derek Pl, Roseville, CA 95678",
+            "latitude": 38.7656918,
+            "longitude": -121.29733979999999,
+            "rating": 3.9,
+            "ratingCount": 26,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Non-profit organization"
+            ],
+            "website": "https://www.standupplacer.org/",
+            "phoneNumber": "(916) 773-7273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpd3JnG1u3C5R4MBY_TwbBDnh-j0aCuv_vl4Q",
+            "cid": "2719570924989865660",
+            "fid": "0x809b2005110001fd:0x25bddb58ed805ebc",
+            "placeId": "ChIJ_QEAEQUgm4ARvF6A7VjbvSU"
+        },
+        {
+            "position": 2,
+            "title": "Stand Up Placer",
+            "address": "11985 Heritage Oak Pl #200, Auburn, CA 95603",
+            "latitude": 38.9415129,
+            "longitude": -121.09913569999999,
+            "rating": 4.4,
+            "ratingCount": 11,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Counselor",
+                "Legal services",
+                "Mental health service",
+                "Shelter",
+                "Social services organization",
+                "Support group"
+            ],
+            "website": "https://www.standupplacer.org/",
+            "phoneNumber": "(530) 885-0443",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "13265323484048020814",
+            "fid": "0x809b10124463f279:0xb817e56d1154554e",
+            "placeId": "ChIJefJjRBIQm4ARTlVUEW3lF7g"
+        }
+    ],
+    "credits": 3
+}

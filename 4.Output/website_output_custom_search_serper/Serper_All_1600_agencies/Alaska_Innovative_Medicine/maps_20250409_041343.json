@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Alaska Innovative Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1963479,-149.839365,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Innovative Medicine",
+            "address": "2221 E Northern Lights Blvd #109, Anchorage, AK 99508",
+            "latitude": 61.1963479,
+            "longitude": -149.839365,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Medical group"
+            ],
+            "website": "http://www.alaskainnovativemed.com/",
+            "phoneNumber": "(907) 229-8777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlkI5PU1-WbsjAdfIesvthUhirvkz4b8nZx4hg",
+            "cid": "15830854979714430693",
+            "fid": "0x56c8979567c4c02d:0xdbb27eba849a36e5",
+            "placeId": "ChIJLcDEZ5WXyFYR5TaahLp-sts"
+        }
+    ],
+    "credits": 3
+}

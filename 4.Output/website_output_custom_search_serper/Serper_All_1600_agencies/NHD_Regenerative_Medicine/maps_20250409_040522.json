@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "NHD Regenerative Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6551465,-116.2812464,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NHD Regenerative Medicine",
+            "address": "5513 N Glenwood St STE A, Garden City, ID 83714",
+            "latitude": 43.6551465,
+            "longitude": -116.2812464,
+            "rating": 5,
+            "ratingCount": 44,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Alternative medicine practitioner",
+                "Doctor",
+                "Holistic medicine practitioner",
+                "Orthopedic clinic",
+                "Pain management physician",
+                "Sports medicine physician",
+                "Weight loss service"
+            ],
+            "website": "https://nhdregenerativemedicine.com/",
+            "phoneNumber": "(208) 370-2380",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://nhdregen.intakeq.com/booking"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4xEGftDSIBXmif7hCRd8d97El63jWbbAObKww",
+            "cid": "7125308986002465725",
+            "fid": "0x549013193d962173:0x62e22ec5719363bd",
+            "placeId": "ChIJcyGWPRkTkFQRvWOTccUu4mI"
+        }
+    ],
+    "credits": 3
+}

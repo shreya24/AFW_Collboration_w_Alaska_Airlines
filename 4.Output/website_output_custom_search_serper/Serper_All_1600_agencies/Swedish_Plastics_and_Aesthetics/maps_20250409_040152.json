@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Swedish Plastics and Aesthetics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5727233,-122.1730476,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Plastics and Aesthetics - Seattle",
+            "address": "1101 Madison St Suite 950, Seattle, WA 98104",
+            "latitude": 47.6092073,
+            "longitude": -122.32402289999999,
+            "rating": 2.9,
+            "ratingCount": 17,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/plastics-and-aesthetics?Is=location&y_source=1_OTU3NjkzMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 215-6221",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNwllf0JEu_BNXVrJznIps9h7k9K_Xis7UHNBH",
+            "cid": "15262485508678751433",
+            "fid": "0x54906ab626012caf:0xd3cf3db4be5814c9",
+            "placeId": "ChIJrywBJrZqkFQRyRRYvrQ9z9M"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Plastics and Aesthetics - Issaquah",
+            "address": "751 NE Blakely Dr Suite 4020, Issaquah, WA 98029",
+            "latitude": 47.5362392,
+            "longitude": -122.0220724,
+            "type": "Cosmetic surgeon",
+            "types": [
+                "Cosmetic surgeon"
+            ],
+            "website": "https://www.swedish.org/locations/plastics-and-aesthetics-issaquah",
+            "phoneNumber": "(206) 320-5251",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OMBBd45MSvsF-VEPhpKPnQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=268.9634&pitch=0&thumbfov=100",
+            "cid": "9846208161766916258",
+            "fid": "0x54906f883d0251bf:0x88a4c227daab40a2",
+            "placeId": "ChIJv1ECPYhvkFQRokCr2ifCpIg"
+        }
+    ],
+    "credits": 3
+}

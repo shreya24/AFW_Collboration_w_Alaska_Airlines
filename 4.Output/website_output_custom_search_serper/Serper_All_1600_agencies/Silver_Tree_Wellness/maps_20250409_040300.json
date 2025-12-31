@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Silver Tree Wellness",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6357612,-111.9770965,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Silver Tree Wellness Phoenix Arizona",
+            "address": "16421 N Tatum Blvd Suite 210, Phoenix, AZ 85032",
+            "latitude": 33.6357612,
+            "longitude": -111.9770965,
+            "rating": 4.7,
+            "ratingCount": 29,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Hair replacement service",
+                "Health and beauty shop",
+                "Medical clinic",
+                "Medical spa",
+                "Skin care clinic",
+                "Weight loss service",
+                "Wellness center"
+            ],
+            "website": "https://www.silvertreewellness.com/",
+            "phoneNumber": "(602) 675-0170",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMclY_yCpwxM6eiSta8RzjWgpqgQvc26mhjGbYk",
+            "cid": "11303593455145341864",
+            "fid": "0x872b71d7d7cd0cf7:0x9cde6e5bc35e53a8",
+            "placeId": "ChIJ9wzN19dxK4cRqFNew1tu3pw"
+        }
+    ],
+    "credits": 3
+}

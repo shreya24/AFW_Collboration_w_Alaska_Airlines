@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Coastal Neurology & Neurosurgery",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.5475879,-119.4212502,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Coast Neurosurgical Associates",
+            "address": "2888 Long Beach Blvd # 240, Long Beach, CA 90806",
+            "latitude": 33.809601799999996,
+            "longitude": -118.18924009999999,
+            "rating": 4.7,
+            "ratingCount": 37,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://coastneurosurgery.com/",
+            "phoneNumber": "(562) 595-7696",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlgEB4g4O1wTDO-y1Z2imltwnsglx9YBvndFaZ",
+            "cid": "17993380503731006373",
+            "fid": "0x80dd33ec0297d4d9:0xf9b5543c31536ba5",
+            "placeId": "ChIJ2dSXAuwz3YARpWtTMTxUtfk"
+        },
+        {
+            "position": 2,
+            "title": "Coastal Neurology Consultants",
+            "address": "433 N Camden Dr # 780, Beverly Hills, CA 90210",
+            "latitude": 34.0692905,
+            "longitude": -118.4051458,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "http://www.coastalneurologicalconsultants.com/index.html",
+            "phoneNumber": "(310) 285-9700",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZmadUgVUsLFOEE8PnUJA0Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.28535&pitch=0&thumbfov=100",
+            "cid": "12443779801597173107",
+            "fid": "0x80c2bc0807d5d42f:0xacb12fccb1615d73",
+            "placeId": "ChIJL9TVBwi8woARc11hscwvsaw"
+        },
+        {
+            "position": 3,
+            "title": "Central Coast Neurological Surgery PC",
+            "address": "1531 Higuera St, San Luis Obispo, CA 93401",
+            "latitude": 35.285574,
+            "longitude": -120.6532604,
+            "rating": 4.2,
+            "ratingCount": 25,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "website": "http://www.ccnsmed.com/",
+            "phoneNumber": "(805) 704-0889",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2uy8ALV-AwsTp39yPLNiqoANZDuT83pac7cmO",
+            "cid": "5349118676477552900",
+            "fid": "0x80ecf108bee24967:0x4a3be3186cda2904",
+            "placeId": "ChIJZ0nivgjx7IARBCnabBjjO0o"
+        }
+    ],
+    "credits": 3
+}

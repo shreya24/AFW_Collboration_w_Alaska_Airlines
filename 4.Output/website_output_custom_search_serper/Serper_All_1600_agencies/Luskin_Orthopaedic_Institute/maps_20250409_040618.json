@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Luskin Orthopaedic Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.028018,-118.2733476,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Luskin Orthopaedic Institute for Children",
+            "address": "403 W Adams Blvd, Los Angeles, CA 90007",
+            "latitude": 34.028017999999996,
+            "longitude": -118.2733476,
+            "rating": 4.5,
+            "ratingCount": 272,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Orthopedic clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "http://luskinoic.org/?utm_campaign=gmb",
+            "phoneNumber": "(213) 460-4311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMmHiVGBGzJQig5Cq_Y7buRMJJNEiXwIoa_XO-q",
+            "cid": "17457793203434037667",
+            "fid": "0x80c2c7dd1ba1654d:0xf2468a6c54ea21a3",
+            "placeId": "ChIJTWWhG93HwoARoyHqVGyKRvI"
+        }
+    ],
+    "credits": 3
+}

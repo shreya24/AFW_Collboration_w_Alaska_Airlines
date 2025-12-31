@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr. William Michael Carter",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7054662,-85.6880731,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Carter Michael MD PLLC",
+            "address": "606 N Main St, Tompkinsville, KY 42167",
+            "latitude": 36.7054662,
+            "longitude": -85.6880731,
+            "rating": 4.8,
+            "ratingCount": 11,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(270) 487-6161",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eOLKEymhidSAdlccZU16bg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=11.197239&pitch=0&thumbfov=100",
+            "cid": "3217125585002215036",
+            "fid": "0x88664e01e6304fc5:0x2ca586acabe0b67c",
+            "placeId": "ChIJxU8w5gFOZogRfLbgq6yGpSw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "A New Leaf - Faith House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4225962,-111.8119958,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "A New Leaf | Administrative Office",
+            "address": "868 E University Dr, Mesa, AZ 85203",
+            "latitude": 33.4225962,
+            "longitude": -111.81199579999999,
+            "rating": 3.4,
+            "ratingCount": 115,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity",
+                "Foundation",
+                "Non-governmental organization"
+            ],
+            "website": "http://www.turnanewleaf.org/",
+            "phoneNumber": "(480) 969-4024",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0b04gTcd5uh4f2Bh46zB2dsg2_C1Cp2y3KZ-N",
+            "cid": "7050408060698810805",
+            "fid": "0x872ba7cc83d396c5:0x61d814c6cb80d9b5",
+            "placeId": "ChIJxZbTg8ynK4cRtdmAy8YU2GE"
+        }
+    ],
+    "credits": 3
+}

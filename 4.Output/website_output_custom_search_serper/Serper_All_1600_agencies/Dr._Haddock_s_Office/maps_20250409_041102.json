@@ -1,0 +1,495 @@
+{
+    "searchParameters": {
+        "q": "Dr. Haddock's Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0652694,-98.9480578,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Christopher Haddock, MD",
+            "address": "6984 Nashville St, Ringgold, GA 30736",
+            "latitude": 34.9177275,
+            "longitude": -85.12235629999999,
+            "rating": 4.7,
+            "ratingCount": 15,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.erlanger.org/pc-cleveland",
+            "phoneNumber": "(423) 778-8682",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpR21_hrv8r7diqspSBcFEg1SkewsOz1wF_y6x",
+            "cid": "9120129462332766867",
+            "fid": "0x88606f5016659507:0x7e91356cebeb3a93",
+            "placeId": "ChIJB5VlFlBvYIgRkzrr62w1kX4"
+        },
+        {
+            "position": 2,
+            "title": "Kristin Haddock, FNP",
+            "address": "420 Society Hill Dr SW Suite 100, Aiken, SC 29803",
+            "latitude": 33.491384,
+            "longitude": -81.7469114,
+            "rating": 4.7,
+            "ratingCount": 67,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "website": "http://aikenphysicians.com/",
+            "phoneNumber": "(803) 648-7774",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPeOMxolGt8-1yDnoGcM2RuwjNQC2jnjmC521Lm",
+            "cid": "950605607579195405",
+            "fid": "0x88f9b3108dffd98f:0xd313ac37940980d",
+            "placeId": "ChIJj9n_jRCz-YgRDZhAecM6MQ0"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Nicholas Haddock",
+            "address": "1801 Inwood Rd, Dallas, TX 75390",
+            "latitude": 32.8160294,
+            "longitude": -96.8464109,
+            "rating": 4.9,
+            "ratingCount": 132,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.drnicholashaddock.com/",
+            "phoneNumber": "(214) 645-2353",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3qeMaBHumTLERZceOY4O73xQQV3kk8_14q4Qb",
+            "cid": "34877063762042165",
+            "fid": "0x864e9c1b28cb9b51:0x7be88134585d35",
+            "placeId": "ChIJUZvLKBucToYRNV1YNIHoewA"
+        },
+        {
+            "position": 4,
+            "title": "Kyle J Haddock, DO",
+            "address": "1530 8th Ave Second Floor, Bethlehem, PA 18018",
+            "latitude": 40.634887899999995,
+            "longitude": -75.39522889999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.slhn.org/providers/kyle-haddock-1134706187",
+            "phoneNumber": "(484) 526-7910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20137:30\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpI1jVxlDPfN2Ynl4KJcRf_oe-580kxHJtBZLp",
+            "cid": "789612800787029573",
+            "fid": "0x89c43fc194fe5b7b:0xaf544a8a5031e45",
+            "placeId": "ChIJe1v-lME_xIkRRR4DpahE9Qo"
+        },
+        {
+            "position": 5,
+            "title": "Dr. David G. Haddock, MD",
+            "address": "1400 Orlando Ave #304, Winter Park, FL 32789",
+            "latitude": 28.5843332,
+            "longitude": -81.36459479999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "phoneNumber": "(407) 622-5900",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YpF1LuSVRHTy6AIAYJxr6Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=265.03833&pitch=0&thumbfov=100",
+            "cid": "10881580981195796739",
+            "fid": "0x88e770757e0306c5:0x9703243fd2d27103",
+            "placeId": "ChIJxQYDfnVw54gRA3HS0j8kA5c"
+        },
+        {
+            "position": 6,
+            "title": "Luis J. Haddock, MD",
+            "address": "7107 Fairway Dr, Palm Beach Gardens, FL 33418",
+            "latitude": 26.837137499999997,
+            "longitude": -80.1333066,
+            "rating": 4.5,
+            "ratingCount": 10,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://doctors.umiamihealth.org/provider/Luis+J.+Haddock/525205",
+            "phoneNumber": "(305) 243-2020",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://umiamihealth.org/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-n0kfqg-dqGEfxC6yd31zCo5ej3_r7hPqn-MP",
+            "cid": "1430648017976380901",
+            "fid": "0x88ded52fc29cbb1b:0x13daaecade194de5",
+            "placeId": "ChIJG7ucwi_V3ogR5U0Z3squ2hM"
+        },
+        {
+            "position": 7,
+            "title": "Amy Haddock, MD",
+            "address": "1401 Centerville Rd # 202, Tallahassee, FL 32308",
+            "latitude": 30.4574672,
+            "longitude": -84.2624895,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.nflwc.com/providers/amy-haddock-md/",
+            "phoneNumber": "(850) 877-7241",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://nflwc-pss.keonahealth.com/selfservicescheduling?MenuItemId=4d56e21d-6df8-4a5d-8aab-b07d013406f4#/?_k=8t9fr7"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOT-O1L49ezCOelCruN2LbAcnkOCMqu-2OxILw",
+            "cid": "15145788491678337058",
+            "fid": "0x88ec5f7b1b5aaaab:0xd230a66329afc822",
+            "placeId": "ChIJq6paG3tf7IgRIsivKWOmMNI"
+        },
+        {
+            "position": 8,
+            "title": "Dr. Samuel T. Haddock, MD",
+            "address": "801 7th Ave, Fort Worth, TX 76104",
+            "latitude": 32.736823699999995,
+            "longitude": -97.3413607,
+            "type": "Emergency care physician",
+            "types": [
+                "Emergency care physician"
+            ],
+            "website": "http://www.cookchildrens.org/",
+            "phoneNumber": "(682) 885-4095",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vuFWRTfK-pfdFZF0GWZf2g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=330.28687&pitch=0&thumbfov=100",
+            "cid": "11441873872558689978",
+            "fid": "0x864e717a68e72e21:0x9ec9b3aa5aaf0eba",
+            "placeId": "ChIJIS7naHpxToYRug6vWqqzyZ4"
+        },
+        {
+            "position": 9,
+            "title": "Luis J. Haddock, MD",
+            "address": "8100 SW 10th St, Plantation, FL 33324",
+            "latitude": 26.1083574,
+            "longitude": -80.2557416,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://doctors.umiamihealth.org/provider/Luis+J.+Haddock/525205",
+            "phoneNumber": "(305) 243-2020",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOA_uXRvQo-eLpkLZ6wdzI_WT-npDoUMBJocgFx",
+            "cid": "6132569265357536558",
+            "fid": "0x88d9c7c79d57444d:0x551b43414e1d3d2e",
+            "placeId": "ChIJTURXncfH2YgRLj0dTkFDG1U"
+        },
+        {
+            "position": 10,
+            "title": "Dr. James B. Haddock, MD",
+            "address": "2000 Medical Pkwy, Annapolis, MD 21401",
+            "latitude": 38.9894878,
+            "longitude": -76.5365581,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist",
+                "Intensivist"
+            ],
+            "website": "http://www.annapolisobgyn.com/",
+            "phoneNumber": "(410) 573-9530",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wszcQZENYui0fUgbF4Z5pQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=246.58795&pitch=0&thumbfov=100",
+            "cid": "2052099959566950168",
+            "fid": "0x89b7f6d9c47aec81:0x1c7a860a6d94df18",
+            "placeId": "ChIJgex6xNn2t4kRGN-UbQqGehw"
+        },
+        {
+            "position": 11,
+            "title": "Haddock Jr Samuel T MD",
+            "address": "7047 Brookshire Dr, Dallas, TX 75230",
+            "latitude": 32.891647299999995,
+            "longitude": -96.78320079999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(214) 363-9061",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sAI101gcryHlqoLzbThaJw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=309.64255&pitch=0&thumbfov=100",
+            "cid": "3769197898897817945",
+            "fid": "0x864e9fd70e06f0e1:0x344ee184dbf40159",
+            "placeId": "ChIJ4fAGDtefToYRWQH024ThTjQ"
+        },
+        {
+            "position": 12,
+            "title": "Dr. James B. Haddock, MD",
+            "address": "2401 Brandermill Blvd, Gambrills, MD 21054",
+            "latitude": 39.0349358,
+            "longitude": -76.6814706,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "http://www.annapolisobgyn.com/",
+            "phoneNumber": "(410) 573-9530",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wpbXB__CSfphq3JXw6hrRA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=203.6556&pitch=0&thumbfov=100",
+            "cid": "10762158826887073248",
+            "fid": "0x89b7ef9bfef06aa7:0x955ade6ec4f04de0",
+            "placeId": "ChIJp2rw_pvvt4kR4E3wxG7eWpU"
+        },
+        {
+            "position": 13,
+            "title": "Dr. Lindsey Haddock",
+            "address": "4150 Clement St Bldg 1306B, San Francisco, CA 94121",
+            "latitude": 37.781259,
+            "longitude": -122.50374049999999,
+            "type": "Geriatrician",
+            "types": [
+                "Geriatrician"
+            ],
+            "website": "https://med.stanford.edu/profiles/lindsey-merrihew",
+            "phoneNumber": "(206) 390-4182",
+            "cid": "3814248588453715034",
+            "fid": "0x808587b27a09dc25:0x34eeeee1e7d19c5a",
+            "placeId": "ChIJJdwJerKHhYARWpzR5-Hu7jQ"
+        },
+        {
+            "position": 14,
+            "title": "Michael G. Haddock, MD",
+            "address": "200 1st St SW, Rochester, MN 55905",
+            "latitude": 44.022181499999995,
+            "longitude": -92.4666893,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.mayoclinic.org/biographies/haddock-michael-g-m-d/bio-20053500",
+            "phoneNumber": "(507) 284-2511",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2WDdzdjOCsqT7h5YVsPx2w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=149.07526&pitch=0&thumbfov=100",
+            "cid": "1119308625702532620",
+            "fid": "0x87f75f7b3595d707:0xf889543c507b60c",
+            "placeId": "ChIJB9eVNXtf94cRDLYHxUOViA8"
+        },
+        {
+            "position": 15,
+            "title": "Fernando J. Haddock, DDS",
+            "address": "2176 Tamiami Trl N, Naples, FL 34102",
+            "latitude": 26.173524999999998,
+            "longitude": -81.799172,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "http://gatewayofnaplesdental.com/?utm_source=gbp&utm_medium=organic&utm_campaign=yext_listing",
+            "phoneNumber": "(239) 403-7200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.gatewayofnaplesdental.com/make-appointment/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6QHRRxsbHsFhwiDxLxCw5A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=336.7157&pitch=0&thumbfov=100",
+            "cid": "4482115518920874997",
+            "fid": "0x88dae1ce5f127991:0x3e33ac51338b5bf5",
+            "placeId": "ChIJkXkSX87h2ogR9VuLM1GsMz4"
+        },
+        {
+            "position": 16,
+            "title": "Richard Haddock, Psychologist",
+            "address": "4040 Barranca Pkwy Suite 260, Irvine, CA 92604",
+            "latitude": 33.6823961,
+            "longitude": -117.8070666,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist",
+                "Biofeedback therapist",
+                "Child psychologist",
+                "Family counselor",
+                "Life coach",
+                "Marriage or relationship counselor",
+                "Mental health clinic",
+                "Mental health service",
+                "Psychotherapist",
+                "Social worker"
+            ],
+            "website": "https://lifestance.com/provider/psychologist/ca/irvine/richard-haddock/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
+            "phoneNumber": "(925) 282-1778",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://book.lifestance.com/find-care/booking/provider/richard-haddock-9322?utm_source=listing&utm_medium=organic&utm_campaign=providers&utm_content=res"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnud6EMLmnkUtGqEr6QpUzSjNTIXkz_yF1XUeS",
+            "cid": "7640696779987623073",
+            "fid": "0x80dcdd8c93576d05:0x6a09353d3fa21ca1",
+            "placeId": "ChIJBW1Xk4zd3IARoRyiPz01CWo"
+        },
+        {
+            "position": 17,
+            "title": "Carly Haddock",
+            "address": "701 Ostrum St # 201, Fountain Hill, PA 18015",
+            "latitude": 40.6096371,
+            "longitude": -75.3923752,
+            "type": "Physician assistant",
+            "types": [
+                "Physician assistant",
+                "Family practice physician"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gWfRAJ9mvk_zarIDNrhPBQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=308.2014&pitch=0&thumbfov=100",
+            "cid": "4885447011052431656",
+            "fid": "0x89c43ef4b8e425d3:0x43cc982c1ec62928",
+            "placeId": "ChIJ0yXkuPQ-xIkRKCnGHiyYzEM"
+        },
+        {
+            "position": 18,
+            "title": "Fernando J Haddock",
+            "address": "1395, 11 Center Dr D1, Gainesville, FL 32610",
+            "latitude": 29.6397604,
+            "longitude": -82.3454931,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "https://ufhealth.org/fernando-j-haddock",
+            "phoneNumber": "(352) 273-7954",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://ufhealth.org/request-appointment-0?title=&specialty=Dentistry&url=https%3A//ufhealth.org/fernando-j-haddock"
+            ],
+            "cid": "7329598712843006550",
+            "fid": "0x88e8a3f795ec3565:0x65b7f732092af256",
+            "placeId": "ChIJZTXslfej6IgRVvIqCTL3t2U"
+        },
+        {
+            "position": 19,
+            "title": "Shannon Haddock, PA-C",
+            "address": "12344 Market Dr, Oklahoma City, OK 73114",
+            "latitude": 35.5957101,
+            "longitude": -97.4983259,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.apexhealthcarepartersllc.com/",
+            "phoneNumber": "(405) 656-7476",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXD5goaGPFkSQp3_jDsammQoJ7UDx6Mf-W4Sb0",
+            "cid": "9579391512878208663",
+            "fid": "0x87b21f673312709d:0x84f0d5d3c17f5697",
+            "placeId": "ChIJnXASM2cfsocRl1Z_wdPV8IQ"
+        },
+        {
+            "position": 20,
+            "title": "Dr. David G. Haddock, MD",
+            "address": "10345 Orangewood Blvd, Orlando, FL 32821",
+            "latitude": 28.416872599999998,
+            "longitude": -81.44177239999999,
+            "type": "Sports medicine physician",
+            "types": [
+                "Sports medicine physician"
+            ],
+            "phoneNumber": "(407) 352-6900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QY3u3H_rZffjFDz5XFCEdg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.428&pitch=0&thumbfov=100",
+            "cid": "7878894980926606174",
+            "fid": "0x88e77e10e3969537:0x6d57753db0bd0b5e",
+            "placeId": "ChIJN5WW4xB-54gRXgu9sD11V20"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Geraldine Villapena - Cod",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1494659,-122.2219488,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Geraldine Villapena, MD",
+            "address": "2450 Sister Mary Columba Dr, Red Bluff, CA 96080",
+            "latitude": 40.149423,
+            "longitude": -122.221852,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.lassenmedical.com/",
+            "phoneNumber": "(530) 527-0414",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgA5vPYM4mF5EROIiV9t2tXFyO77Gvw3vFyAFX",
+            "cid": "13034315601774174656",
+            "fid": "0x8082847d15d50905:0xb4e330fb2614e1c0",
+            "placeId": "ChIJBQnVFX2EgoARwOEUJvsw47Q"
+        },
+        {
+            "position": 2,
+            "title": "Villapena-Cid,",
+            "address": "2450 Sister Mary Columba Dr, Red Bluff, CA 96080",
+            "latitude": 40.1495088,
+            "longitude": -122.2220456,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.lassenmedical.com/",
+            "phoneNumber": "(530) 527-0414",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JwrIrpS6GsoKD0SCu03Gfg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=322.22702&pitch=0&thumbfov=100",
+            "cid": "14637284622095901647",
+            "fid": "0x8082847d10eaa439:0xcb2214cfe85063cf",
+            "placeId": "ChIJOaTqEH2EgoARz2NQ6M8UIss"
+        }
+    ],
+    "credits": 3
+}

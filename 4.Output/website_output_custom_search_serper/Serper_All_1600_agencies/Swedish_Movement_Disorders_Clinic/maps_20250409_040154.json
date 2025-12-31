@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Swedish Movement Disorders Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6073401,-122.3101155,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Movement Disorders Clinic",
+            "address": "550 17th Ave Suite 540, Seattle, WA 98122",
+            "latitude": 47.607340099999995,
+            "longitude": -122.3101155,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus/movement-disorders?Is=location&y_source=1_OTU3NjkwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-5331",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbR1ij2DR8O7e_GieSIblYdEM8BJ37pSr5lAJq",
+            "cid": "17283607405318588089",
+            "fid": "0x54906ac5ae5f4e5d:0xefdbb55cd75346b9",
+            "placeId": "ChIJXU5frsVqkFQRuUZT11y12-8"
+        }
+    ],
+    "credits": 3
+}

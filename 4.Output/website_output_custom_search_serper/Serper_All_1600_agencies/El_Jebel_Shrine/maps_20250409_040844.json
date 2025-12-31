@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "El Jebel Shrine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6545267,-104.8705764,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "El Jebel Shrine",
+            "address": "3443 S Galena St, Denver, CO 80231",
+            "latitude": 39.6545267,
+            "longitude": -104.87057639999999,
+            "rating": 4.3,
+            "ratingCount": 38,
+            "type": "Fraternal organization",
+            "types": [
+                "Fraternal organization"
+            ],
+            "website": "http://www.eljebelshrine.org/",
+            "phoneNumber": "(303) 455-3470",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5x5X4P8EbB0OBzO617VINOA9llDgX10LRxVeO",
+            "cid": "13009368248620750518",
+            "fid": "0x876b8793a957bd31:0xb48a8f7edb4916b6",
+            "placeId": "ChIJMb1XqZOHa4cRthZJ236PirQ"
+        }
+    ],
+    "credits": 3
+}

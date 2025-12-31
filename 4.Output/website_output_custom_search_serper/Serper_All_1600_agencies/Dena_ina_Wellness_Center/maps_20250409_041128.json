@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dena'ina Wellness Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.5528658,-151.2642664,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dena'ina Wellness Center",
+            "address": "508 Upland Dr, Kenai, AK 99611",
+            "latitude": 60.5528658,
+            "longitude": -151.2642664,
+            "rating": 3.1,
+            "ratingCount": 20,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://kenaitze.org/",
+            "phoneNumber": "(907) 335-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEYBCy3uBTklscBKAX1fWQZjgh2z51mamkUeMO",
+            "cid": "16395859600120795568",
+            "fid": "0x56c67c9f1a07e0b1:0xe389cb6ff460d1b0",
+            "placeId": "ChIJseAHGp98xlYRsNFg9G_LieM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Liza Maniquis-Smigel, M.D., LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.5170207,-156.4765746,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hawaii Center for Regenerative Medicine: Liza R Maniquis-Smigel, MD",
+            "address": "928 Nuuanu Ave STE 210, Honolulu, HI 96817",
+            "latitude": 21.3105436,
+            "longitude": -157.8634016,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Physiatrist",
+            "types": [
+                "Physiatrist"
+            ],
+            "phoneNumber": "(808) 933-3444",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://patients.doctor.com/directAppointment?partner=google&provider=3704429"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dHU785_pW4enOzkJkMERzA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=344.17737&pitch=0&thumbfov=100",
+            "cid": "10370669985517076228",
+            "fid": "0x7c006ffda021ece5:0x8fec0567d98cff04",
+            "placeId": "ChIJ5ewhoP1vAHwRBP-M2WcF7I8"
+        },
+        {
+            "position": 2,
+            "title": "Hawaii Center for Regenerative Medicine: Liza R Maniquis-Smigel, MD",
+            "address": "136A Ululani St, Hilo, HI 96720",
+            "latitude": 19.7234978,
+            "longitude": -155.08974759999998,
+            "rating": 4.6,
+            "ratingCount": 21,
+            "type": "Physiatrist",
+            "types": [
+                "Physiatrist",
+                "Holistic medicine practitioner",
+                "Pain management physician",
+                "Sports medicine physician"
+            ],
+            "website": "http://prolohawaii.org/",
+            "phoneNumber": "(808) 933-3444",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "10\u202fAM\u20134:30\u202fPM",
+                "Thursday": "10\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://patients.doctor.com/directAppointment?partner=google&provider=3704429"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9GEtRMadM35oVeF02-iJnkyIYhfBTm2UmrJd9DKPExpNUgtu8dgi7yzQ-jVuvCAtOjyNts4v01Aw1TeilCrsV5LRqBwMU8K_AhW_ZwFFno8TFq0vxUwt051LhutvZES9fOt0X4Uw",
+            "cid": "9731779055041358457",
+            "fid": "0x79524b5678441623:0x870e397d4853aa79",
+            "placeId": "ChIJIxZEeFZLUnkReapTSH05Doc"
+        }
+    ],
+    "credits": 3
+}

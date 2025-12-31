@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Dr. Vince Phillips",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.746035,-84.2193465,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Vincent C. Phillips, MD",
+            "address": "3180 Kettering Blvd, Moraine, OH 45439",
+            "latitude": 39.7040795,
+            "longitude": -84.20576969999999,
+            "type": "Anesthesiologist",
+            "types": [
+                "Anesthesiologist"
+            ],
+            "phoneNumber": "(937) 297-6072",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ua8nfBePvnMGvJYzjRmpTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=311.96808&pitch=0&thumbfov=100",
+            "cid": "216385477944626049",
+            "fid": "0x88408667ef33585b:0x300c1721b714b81",
+            "placeId": "ChIJW1gz72eGQIgRgUtxG3LBAAM"
+        },
+        {
+            "position": 2,
+            "title": "Phillips Vincent C MD",
+            "address": "2222 Philadelphia Dr, Dayton, OH 45406",
+            "latitude": 39.7879904,
+            "longitude": -84.2329233,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Anesthesiologist",
+            "types": [
+                "Anesthesiologist",
+                "Doctor"
+            ],
+            "website": "http://www.goodsamdayton.org/Cardiology-and-Vascular-Services/How-to-Reach-Us/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IVdM5EelPqOyb0BLLKY06Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=272.03522&pitch=0&thumbfov=100",
+            "cid": "922930394952935194",
+            "fid": "0x884080fb3ab8cd7d:0xccee84de794a71a",
+            "placeId": "ChIJfc24OvuAQIgRGqeU503ozgw"
+        }
+    ],
+    "credits": 3
+}

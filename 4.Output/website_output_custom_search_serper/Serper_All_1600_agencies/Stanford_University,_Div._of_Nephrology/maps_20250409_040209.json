@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Stanford University, Div. of Nephrology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4330667,-122.1750582,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Kidney Clinic (Nephrology)",
+            "address": "300 Pasteur Dr Fl 1, Palo Alto, CA 94304",
+            "latitude": 37.4330882,
+            "longitude": -122.1750045,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Nephrologist",
+            "types": [
+                "Nephrologist",
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/nephrology-kidney-clinic-boswell-building.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6961",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMMQkEotIanji8YTvmXz1Fp_-y6Moj51vciVHB",
+            "cid": "384968492305204060",
+            "fid": "0x808fa4d320d8b7cb:0x557aecdd991c35c",
+            "placeId": "ChIJy7fYINOkj4ARXMOR2c2uVwU"
+        },
+        {
+            "position": 2,
+            "title": "Stanford Kidney Transplant Clinic",
+            "address": "300 Pasteur Dr a160, Stanford, CA 94305",
+            "latitude": 37.4330451,
+            "longitude": -122.1751118,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Nephrologist",
+            "types": [
+                "Nephrologist",
+                "Health",
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/kidney-transplant-program.html?ecid=glocalsearch-ls-google-clinicpage-all-KidneyTransplantClinic",
+            "phoneNumber": "(650) 725-9891",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTf-x11l47wRqT86KpJkg3oBLJ_8r0L0-3tToS",
+            "cid": "11297750104160601763",
+            "fid": "0x808fa4ce1c91be99:0x9cc9abdc97a006a3",
+            "placeId": "ChIJmb6RHM6kj4ARowagl9yryZw"
+        }
+    ],
+    "credits": 3
+}

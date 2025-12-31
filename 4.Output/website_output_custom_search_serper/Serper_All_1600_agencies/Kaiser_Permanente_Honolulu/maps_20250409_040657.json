@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Honolulu",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3008969,-157.8462201,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Honolulu Medical Office",
+            "address": "1010 Pensacola St, Honolulu, HI 96814",
+            "latitude": 21.300896899999998,
+            "longitude": -157.84622009999998,
+            "rating": 4,
+            "ratingCount": 163,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Honolulu-Medical-Office-100446",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNAsT-b_EBGw0oTlKw3ReZP-QbgSXol_x8xu-LJ",
+            "cid": "749262091149135942",
+            "fid": "0x7c006de63be0d47f:0xa65e9e6f29c5046",
+            "placeId": "ChIJf9TgO-ZtAHwRRlCc8ubpZQo"
+        }
+    ],
+    "credits": 3
+}

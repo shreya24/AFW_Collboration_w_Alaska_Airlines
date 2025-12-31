@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "University Post-Acute Rehab",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5582024,-121.4616296,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Post-Acute Rehab",
+            "address": "2120 Stockton Blvd, Sacramento, CA 95817",
+            "latitude": 38.5582024,
+            "longitude": -121.4616296,
+            "rating": 4.6,
+            "ratingCount": 50,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center",
+                "Senior citizen center"
+            ],
+            "website": "https://universitypostacute.net/",
+            "phoneNumber": "(916) 452-6631",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8lAQPoSE3NhGIiiIwPaL-g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=235.1806&pitch=0&thumbfov=100",
+            "cid": "9319590630163129450",
+            "fid": "0x809ad0899227ff2d:0x8155d64d02eea46a",
+            "placeId": "ChIJLf8nkonQmoARaqTuAk3WVYE"
+        }
+    ],
+    "credits": 3
+}

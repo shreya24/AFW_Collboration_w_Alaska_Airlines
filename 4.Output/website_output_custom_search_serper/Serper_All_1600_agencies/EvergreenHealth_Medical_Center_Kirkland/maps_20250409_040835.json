@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "EvergreenHealth Medical Center Kirkland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7156418,-122.1795593,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "EvergreenHealth Medical Center Kirkland",
+            "address": "12040 NE 128th St, Kirkland, WA 98034",
+            "latitude": 47.7156418,
+            "longitude": -122.1795593,
+            "rating": 3,
+            "ratingCount": 588,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.evergreenhealth.com/?utm_source=EH-MEDCENTER&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+            "phoneNumber": "(425) 899-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMTOkygwQvE_a8krwIMAlYyuF7IafZaNBrbuPJX",
+            "cid": "14406417902947637237",
+            "fid": "0x54900d8549deee6b:0xc7ede0c1170597f5",
+            "placeId": "ChIJa-7eSYUNkFQR9ZcFF8Hg7cc"
+        }
+    ],
+    "credits": 3
+}

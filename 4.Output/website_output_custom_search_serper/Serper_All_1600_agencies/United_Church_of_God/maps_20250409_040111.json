@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "United Church of God",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "United Church of God",
+            "latitude": 46.423669,
+            "longitude": -129.9427086,
+            "type": "Religious organization",
+            "types": [
+                "Religious organization",
+                "Service establishment"
+            ],
+            "website": "https://www.ucg.org/congregations/oklahoma-city-ok",
+            "cid": "2110489898177387760",
+            "fid": "0xa065fa47ca818f77:0x1d49f7616ae9dcf0",
+            "placeId": "ChIJd4-Bykf6ZaAR8NzpamH3SR0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0939289,-106.5534224,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Presbyterian Hematology / Oncology in Albuquerque at Kaseman Hospital",
+            "address": "8300 Constitution Ave NE, Albuquerque, NM 87110",
+            "latitude": 35.0939289,
+            "longitude": -106.55342239999999,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "https://www.phs.org/doctors-services/cancer-care/oncology-hematology/kaseman?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_pkh_hemonc__082",
+            "phoneNumber": "(505) 559-6100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-4CcqUMgJJ2BDwSkZmoaDI52icoIwLMTnn3hF",
+            "cid": "15331209002100082079",
+            "fid": "0x87220bf46d8efc99:0xd4c3655bf372459f",
+            "placeId": "ChIJmfyObfQLIocRn0Vy81tlw9Q"
+        }
+    ],
+    "credits": 3
+}

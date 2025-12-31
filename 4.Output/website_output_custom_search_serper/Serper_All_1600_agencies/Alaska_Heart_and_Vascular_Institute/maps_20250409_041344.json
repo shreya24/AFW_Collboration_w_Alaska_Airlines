@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Alaska Heart and Vascular Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.3886711,-149.5915236,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Heart and Vascular Institute",
+            "address": "3841 Piper St, Anchorage, AK 99508",
+            "latitude": 61.1862778,
+            "longitude": -149.8216278,
+            "rating": 4.6,
+            "ratingCount": 691,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cardiologist"
+            ],
+            "website": "https://www.alaskaheart.com/",
+            "phoneNumber": "(907) 561-3211",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgG3mUsn2d9lP_opmYCqglgs33ZPutKTKiKyEm",
+            "cid": "2346824766774257030",
+            "fid": "0x56c897072c6b9f7b:0x209198b0fdab2586",
+            "placeId": "ChIJe59rLAeXyFYRhiWr_bCYkSA"
+        },
+        {
+            "position": 2,
+            "title": "Alaska Heart and Vascular Institute - Mat-Su",
+            "address": "3125 E Meridian Park Loop #200, Wasilla, AK 99654",
+            "latitude": 61.5910644,
+            "longitude": -149.36141949999998,
+            "rating": 4.8,
+            "ratingCount": 198,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cardiologist"
+            ],
+            "website": "https://www.alaskaheart.com/about-us/locations/",
+            "phoneNumber": "(907) 561-3211",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0d2wgk198IkKCsp92zzhH6jm7jk-ZR2a516a1",
+            "cid": "11611215145205890721",
+            "fid": "0x56c8e1327d05e77f:0xa12352a7dca1fea1",
+            "placeId": "ChIJf-cFfTLhyFYRof6h3KdSI6E"
+        }
+    ],
+    "credits": 3
+}

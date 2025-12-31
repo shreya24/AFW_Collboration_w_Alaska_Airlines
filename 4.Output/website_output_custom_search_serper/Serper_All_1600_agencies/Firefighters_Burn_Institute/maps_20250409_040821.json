@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Firefighters Burn Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5503522,-121.4548078,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Firefighters Burn Institute",
+            "address": "3101 Stockton Blvd, Sacramento, CA 95820",
+            "latitude": 38.545802099999996,
+            "longitude": -121.45286519999999,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Non-profit organization"
+            ],
+            "website": "https://www.ffburn.org/",
+            "phoneNumber": "(916) 739-8525",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIyzKwYC2PyYac5r_v-PdRxQpfgzP9LZ-ywszO",
+            "cid": "6210925255830677278",
+            "fid": "0x809ad071686f2d4b:0x5631a39d004a271e",
+            "placeId": "ChIJSy1vaHHQmoARHidKAJ2jMVY"
+        },
+        {
+            "position": 2,
+            "title": "The Firefighters Burn Institute Regional Burn Center",
+            "address": "2315 Stockton Blvd, Sacramento, CA 95817",
+            "latitude": 38.554902299999995,
+            "longitude": -121.4567505,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://ffburn.org/",
+            "phoneNumber": "(916) 734-7010",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20133\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20133\u202fAM",
+                "Monday": "8\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tzjb9Uws3E6ZOsHpMiGaTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=0.32288215&pitch=0&thumbfov=100",
+            "cid": "4999762611479065619",
+            "fid": "0x809ad1e434971aad:0x4562b99af27d3413",
+            "placeId": "ChIJrRqXNOTRmoAREzR98pq5YkU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "Eureka Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.787199,-124.1399802,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Medical Group Eureka - Internal Medicine",
+            "address": "2280 Harrison Ave Suite B, Eureka, CA 95501",
+            "latitude": 40.7872166,
+            "longitude": -124.140113,
+            "rating": 2.5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "https://www.providence.org/locations/heritage/providence-medical-group-eureka-internal-medicine-gastroenterology",
+            "phoneNumber": "(707) 443-9371",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ck8RSVuiy2PNGejuSgEyoQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=357.61755&pitch=0&thumbfov=100",
+            "cid": "3957839042634976898",
+            "fid": "0x54d3ffc828b6cc87:0x36ed11a3c66e0e82",
+            "placeId": "ChIJh8y2KMj_01QRgg5uxqMR7TY"
+        },
+        {
+            "position": 2,
+            "title": "Providence Medical Group Eureka - Primary Care",
+            "address": "2280 Harrison Ave Ste. B, Eureka, CA 95501",
+            "latitude": 40.7871813,
+            "longitude": -124.1398473,
+            "rating": 1.5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "https://www.providence.org/locations/norcal/eureka-internal-medicine-gastroenterology?Is=location&y_source=1_OTU3NTc1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(707) 443-9371",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3lQ2cQ1_XPNN3qhVz-WrRbna-Rl1ZOZlGLGwK",
+            "cid": "563569546077365387",
+            "fid": "0x54d3ffcd3c1bdc7b:0x7d23384282b648b",
+            "placeId": "ChIJe9wbPM3_01QRi2QrKIQz0gc"
+        },
+        {
+            "position": 3,
+            "title": "St. Joseph Health Medical Group Eureka - Internal Medicine",
+            "address": "2280 Harrison Ave Ste. B, Eureka, CA 95501",
+            "latitude": 40.7871813,
+            "longitude": -124.1398473,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/norcal/eureka-internal-medicine?ls=location&y_source=1_MTAwNDU1MjEzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(707) 443-9371",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN4EPu4IZ8fxgYSamdY2NkglRxMGaj8W7eyjSH4",
+            "cid": "11136653920191601921",
+            "fid": "0x54d3ff3be7e72b5f:0x9a8d57bc637b5d01",
+            "placeId": "ChIJXyvn5zv_01QRAV17Y7xXjZo"
+        }
+    ],
+    "credits": 3
+}

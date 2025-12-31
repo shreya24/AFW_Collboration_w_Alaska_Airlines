@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Western Cardiology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6916567,-104.9499037,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Western Cardiology",
+            "address": "9141 Grant St STE 140, Thornton, CO 80229",
+            "latitude": 39.862722999999995,
+            "longitude": -104.984785,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist"
+            ],
+            "phoneNumber": "(303) 252-0104",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SAnAQRP091FPTFTuzlVHMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=221.16808&pitch=0&thumbfov=100",
+            "cid": "2799137194804462987",
+            "fid": "0x876c76ff6f14ff0d:0x26d88872bde7458b",
+            "placeId": "ChIJDf8Ub_92bIcRi0XnvXKI2CY"
+        },
+        {
+            "position": 2,
+            "title": "Western Cardiology Associates",
+            "address": "10754 Cougar Ridge, Lone Tree, CO 80124",
+            "latitude": 39.520590399999996,
+            "longitude": -104.91502249999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist"
+            ],
+            "phoneNumber": "(303) 768-8914",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39Cb9TXXrvCV3CiKMwmSVw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=95.69076&pitch=0&thumbfov=100",
+            "cid": "14714135237188753299",
+            "fid": "0x876c84c0acff52f9:0xcc331c0a15b19793",
+            "placeId": "ChIJ-VL_rMCEbIcRk5exFQocM8w"
+        }
+    ],
+    "credits": 3
+}

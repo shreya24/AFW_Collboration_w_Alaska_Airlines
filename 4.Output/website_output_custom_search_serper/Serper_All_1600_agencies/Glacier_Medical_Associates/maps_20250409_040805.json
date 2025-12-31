@@ -1,0 +1,77 @@
+{
+    "searchParameters": {
+        "q": "Glacier Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3871551,-114.2676179,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glacier Medical Associates",
+            "address": "1111 Baker Ave, Whitefish, MT 59937",
+            "latitude": 48.400942,
+            "longitude": -114.3370071,
+            "rating": 4.6,
+            "ratingCount": 1062,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Internist",
+                "Pediatrician",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.glaciermedicalassociates.com/",
+            "phoneNumber": "(406) 862-2515",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "11\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQvi0Y30Zg2mgjE5IneM3Wz8RYsJDKTDTJcPM",
+            "cid": "5310602912882433215",
+            "fid": "0x536668344509d3df:0x49b30d3665831cbf",
+            "placeId": "ChIJ39MJRTRoZlMRvxyDZTYNs0k"
+        },
+        {
+            "position": 2,
+            "title": "Glacier Medical Associates Cedar Palace",
+            "address": "500 12th Ave W, Columbia Falls, MT 59912",
+            "latitude": 48.373368199999994,
+            "longitude": -114.1982287,
+            "rating": 3.9,
+            "ratingCount": 21,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.glaciermedicalassociates.com/",
+            "phoneNumber": "(406) 862-2515",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qH5eJkEc-nK0FA323Xa_Ww&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.08395&pitch=0&thumbfov=100",
+            "cid": "14307873582895752242",
+            "fid": "0x536641d88ca5e953:0xc68fc7379fb26432",
+            "placeId": "ChIJU-mljNhBZlMRMmSynzfHj8Y"
+        }
+    ],
+    "credits": 3
+}

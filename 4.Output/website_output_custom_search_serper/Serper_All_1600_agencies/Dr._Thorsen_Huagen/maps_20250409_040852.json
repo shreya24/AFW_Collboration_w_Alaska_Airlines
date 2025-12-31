@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dr. Thorsen Huagen",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9684437,-76.6007031,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Thorsen Wayne Haugen, MD",
+            "address": "100 N Academy Ave, Danville, PA 17822",
+            "latitude": 40.9684437,
+            "longitude": -76.60070309999999,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic",
+                "Doctor"
+            ],
+            "website": "https://providers.geisinger.org/provider/Thorsen+Wayne+Haugen/776048",
+            "phoneNumber": "(800) 275-6401",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqA3ccH-F4oSrFoJ4PAw0q0bd1hooWu7T-Za-b",
+            "cid": "8432364743960844891",
+            "fid": "0x89cf652f9361a67d:0x7505c70edc505a5b",
+            "placeId": "ChIJfaZhky9lz4kRW1pQ3A7HBXU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Gem State Reg. Dialysis Ctr.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.477587,-111.9896829,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gem State Regional Dialysis Center",
+            "address": "2225 Teton Plaza A, Idaho Falls, ID 83404",
+            "latitude": 43.477587,
+            "longitude": -111.98968289999999,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "phoneNumber": "(208) 715-9570",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20132\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20132\u202fPM",
+                "Friday": "6\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fZ9O57lPdTbyYqHZP9aolQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=356.1262&pitch=0&thumbfov=100",
+            "cid": "9475512558572114779",
+            "fid": "0x53545edfb5e5b825:0x837fc877f671935b",
+            "placeId": "ChIJJbjltd9eVFMRW5Nx9nfIf4M"
+        }
+    ],
+    "credits": 3
+}

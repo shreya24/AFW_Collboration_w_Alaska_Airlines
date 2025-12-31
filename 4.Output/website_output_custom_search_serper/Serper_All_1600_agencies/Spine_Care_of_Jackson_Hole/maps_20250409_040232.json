@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Spine Care of Jackson Hole",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4745808,-110.7838985,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spine Care of Jackson Hole",
+            "address": "945 W Broadway APT 202, Jackson, WY 83001",
+            "latitude": 43.4745808,
+            "longitude": -110.78389849999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(307) 734-5999",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ukrlias4bAWGUowDZaZPQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=328.23712&pitch=0&thumbfov=100",
+            "cid": "3825703328288437616",
+            "fid": "0x53531a77a75066df:0x3517a0e85aa97570",
+            "placeId": "ChIJ32ZQp3caU1MRcHWpWuigFzU"
+        }
+    ],
+    "credits": 3
+}

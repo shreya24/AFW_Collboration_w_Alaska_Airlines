@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "NAPA Center Denver",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5959008,-104.8586419,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NAPA Center Denver",
+            "address": "11211 E Arapahoe Rd Unit 118, Centennial, CO 80112",
+            "latitude": 39.595900799999995,
+            "longitude": -104.8586419,
+            "rating": 4.7,
+            "ratingCount": 7,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic"
+            ],
+            "website": "https://napacenter.org/about-denver/",
+            "phoneNumber": "(720) 791-2881",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://napacenter.org/about-denver/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNtAYn2KIZJuxqWBrUlek4Mc5EZrKos8k9fG_7i",
+            "cid": "14679953081991503210",
+            "fid": "0x876c87aa8879b52f:0xcbb9ab8ce3811d6a",
+            "placeId": "ChIJL7V5iKqHbIcRah2B44yrucs"
+        }
+    ],
+    "credits": 3
+}

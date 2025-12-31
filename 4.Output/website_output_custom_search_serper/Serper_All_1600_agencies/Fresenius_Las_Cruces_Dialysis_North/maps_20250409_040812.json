@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Fresenius Las Cruces Dialysis North",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.3216509,-106.7351764,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fresenius Kidney Care Las Cruces",
+            "address": "3875 Foothills Rd, Las Cruces, NM 88011",
+            "latitude": 32.3216509,
+            "longitude": -106.7351764,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.freseniuskidneycare.com/dialysis-centers/new-mexico/4670?utm_campaign=Website&utm_medium=&utm_source=YextGMB&utm_content=4670&y_source=1_MjYyMzE1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(888) 489-4718",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20135\u202fPM",
+                "Wednesday": "5\u202fAM\u20138\u202fPM",
+                "Thursday": "5\u202fAM\u20135\u202fPM",
+                "Friday": "5\u202fAM\u20138\u202fPM",
+                "Saturday": "5\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "5\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB86sO1h0ZyXLiCHsUvXjFVV7xn5UnAk1LXwSN9TGSSvzrgfac2XCD8AFx1ZgWPFk6AkQPWFxfYxYG5welgsckqOXzPB4L9SwIDq1ssALBYOQMeG6lWo9JSOvQ-VpJTv6ZfZq6IRlw",
+            "cid": "616650269660185117",
+            "fid": "0x86de3d4f810a139f:0x88ec82731be821d",
+            "placeId": "ChIJnxMKgU893oYRHYK-MSfIjgg"
+        }
+    ],
+    "credits": 3
+}

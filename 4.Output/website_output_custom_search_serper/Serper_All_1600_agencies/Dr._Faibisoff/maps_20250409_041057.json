@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr. Faibisoff",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.5613004,-112.4809729,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Prescott Plastic Surgery: Burt Faibisoff",
+            "address": "830 Ainsworth Dr, Prescott, AZ 86301",
+            "latitude": 34.5613004,
+            "longitude": -112.4809729,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon"
+            ],
+            "website": "https://www.plasticsurgeryprescott.com/meet-dr-faibisoff.htm",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Shm_xz220ubhwxeCbBIkxw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=352.60385&pitch=0&thumbfov=100",
+            "cid": "17005418063021028787",
+            "fid": "0x872d2ed714700001:0xebff61a1376135b3",
+            "placeId": "ChIJAQBwFNcuLYcRszVhN6Fh_-s"
+        }
+    ],
+    "credits": 3
+}

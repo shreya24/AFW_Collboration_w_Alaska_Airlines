@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "VA Portland HCS",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4968705,-122.683768,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Portland VA Medical Center",
+            "address": "3710 SW US Veterans Hospital Rd, Portland, OR 97239",
+            "latitude": 45.4968705,
+            "longitude": -122.683768,
+            "rating": 3.6,
+            "ratingCount": 363,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.portland.va.gov/",
+            "phoneNumber": "(503) 220-8262",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8DNDdA8PBmWZdMP3JqoP7wOV1TyWm-fJ5QS36hDKvDUek5iobIab-9G11YYrOCxjJFcIYwblE1mkthd3NOm538apPCB_7I2EbBoxfhV7J3isGaayNfHQH3z8TCN_DxVT4Ccqaf6w",
+            "cid": "1660846202116890722",
+            "fid": "0x54950a452b31944d:0x170c82d23fbbe062",
+            "placeId": "ChIJTZQxK0UKlVQRYuC7P9KCDBc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Deep Brain Stimulation Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4374251,-122.1725625,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Deep Brain Stimulation Program",
+            "address": "300 Pasteur Dr a32, Palo Alto, CA 94304",
+            "latitude": 37.4332779,
+            "longitude": -122.1757442,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Hospital"
+            ],
+            "website": "http://stanfordhealthcare.org/medical-clinics/deep-brain-stimulation-program.html?ecid=glocalsearch-ls-google-clinicpage-all-DeepBrainStimulationProgram",
+            "phoneNumber": "(650) 724-9220",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWpVy8iS5j5ut6lAUfxihD6PfW6xgzMlHWWA1z",
+            "cid": "2426469887701122942",
+            "fid": "0x808fa4d2d12c0b27:0x21ac8d81c29b7f7e",
+            "placeId": "ChIJJwss0dKkj4ARfn-bwoGNrCE"
+        },
+        {
+            "position": 2,
+            "title": "Stanford Deep Brain Stimulation Program",
+            "address": "213 Quarry Rd, Palo Alto, CA 94304",
+            "latitude": 37.4415723,
+            "longitude": -122.1693808,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-treatments/d/deep-brain-stimulation.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-6469",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwW98KAaV6bTZ6_bKQfcJX9Jbqf25svoV_0mq1",
+            "cid": "3985913560494132604",
+            "fid": "0x808fbb36aad711db:0x3750cf43d6aa4d7c",
+            "placeId": "ChIJ2xHXqja7j4ARfE2q1kPPUDc"
+        }
+    ],
+    "credits": 3
+}

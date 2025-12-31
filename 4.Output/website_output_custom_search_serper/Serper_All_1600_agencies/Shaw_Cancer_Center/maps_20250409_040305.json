@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Shaw Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.652033,-106.592937,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shaw Cancer Center",
+            "address": "322 Beard Creek Rd, Edwards, CO 81632",
+            "latitude": 39.652032999999996,
+            "longitude": -106.59293699999999,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.shawcancercenter.org/",
+            "phoneNumber": "(970) 569-7429",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.shawcancercenter.org/patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNAdok-0Usxyn5S0Iz5GyXF8qFN6xRAjXkdmp7d",
+            "cid": "8034949031405382984",
+            "fid": "0x8741d919cfeb1ab3:0x6f81df92b5496d48",
+            "placeId": "ChIJsxrrzxnZQYcRSG1JtZLfgW8"
+        }
+    ],
+    "credits": 3
+}

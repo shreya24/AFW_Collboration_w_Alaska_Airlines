@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Camp Kindle",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@51.5196515,-114.7363511,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Kindle",
+            "address": "29479 Range Rd 61a, Water Valley, AB T0M 2E0, Canada",
+            "latitude": 51.519651499999995,
+            "longitude": -114.7363511,
+            "rating": 4.8,
+            "ratingCount": 79,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "http://campkindle.ca/",
+            "phoneNumber": "(888) 554-2267",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9jdztUhwBe-LWRZbGZfzJBZOV3GlApx0rRdLBmB75vhvt_GUL_kd4hnE30JYIoZ02sgOKywmGXQFz5LBtDwO2Cu7e0pQUd4Yk80L1fANNIqChVrhCIZKeKvRRts_6qOvCXr-Eq",
+            "cid": "17611752836725429536",
+            "fid": "0x5376c90000000001:0xf46983e4d8ff5520",
+            "placeId": "ChIJAQAAAADJdlMRIFX_2OSDafQ"
+        }
+    ],
+    "credits": 3
+}

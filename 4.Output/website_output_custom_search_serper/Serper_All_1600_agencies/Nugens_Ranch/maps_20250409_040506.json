@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Nugens Ranch",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@62.278646,-149.7129325,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nugen's Ranch",
+            "latitude": 62.278645999999995,
+            "longitude": -149.7129325,
+            "type": "Produce wholesaler",
+            "types": [
+                "Produce wholesaler",
+                "Service establishment"
+            ],
+            "website": "http://nugensranchak.org/",
+            "phoneNumber": "(907) 376-4534",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCCk_45KpBeJ17ZGAA8NxI-ZSRQOzXfTmB9MI-",
+            "cid": "15330625044183200241",
+            "fid": "0x71046f72b1bdb8b:0xd4c15240a73f31f1",
+            "placeId": "ChIJi9sbK_dGEAcR8TE_p0BSwdQ"
+        }
+    ],
+    "credits": 3
+}

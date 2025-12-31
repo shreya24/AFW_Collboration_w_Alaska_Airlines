@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Seattle children\u2019s hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6628348,-122.2820633,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Children's Hospital",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6628348,
+            "longitude": -122.28206329999999,
+            "rating": 4,
+            "ratingCount": 823,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/",
+            "phoneNumber": "(206) 987-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB84QcpLrfHDTWecRmMeXUUxh7GpNcDZt_6dlK4ToxWmIq3ipdGDlzdokaUFEjcfTtrWkn_ZLU5gMlXDMSia4Eji2p2oPjY_vH-L2ufA3acEAz9DAXvx_65nM58tmN6xxzJWFZMe",
+            "cid": "11535247879101277020",
+            "fid": "0x54901482d1758cad:0xa0156ed465e8e35c",
+            "placeId": "ChIJrYx10YIUkFQRXOPoZdRuFaA"
+        }
+    ],
+    "credits": 3
+}

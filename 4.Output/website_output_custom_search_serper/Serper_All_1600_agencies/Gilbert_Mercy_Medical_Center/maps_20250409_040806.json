@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Gilbert Mercy Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2870745,-111.7521987,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health Mercy Gilbert Medical Center",
+            "address": "3555 S Val Vista Dr, Gilbert, AZ 85297",
+            "latitude": 33.287074499999996,
+            "longitude": -111.7521987,
+            "rating": 4.4,
+            "ratingCount": 3216,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Children's hospital",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-mercy-gilbert-medical-center",
+            "phoneNumber": "(480) 728-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Emks8y87n18sLzJU_QYqZ-XHBj1Rp85bjE6ThQosRfWCpJ7AmWKIjTtEPpYP5eokLtBBAEyblnVDEN6-j2EI-YZ6owGfXv-UoU2fOAS_7Y2n8vIUWWxLMeuGAHxSD8fLWcJrU",
+            "cid": "15271145630863391187",
+            "fid": "0x872bac86559c3a0b:0xd3ee020a90def9d3",
+            "placeId": "ChIJCzqcVYasK4cR0_nekAoC7tM"
+        }
+    ],
+    "credits": 3
+}

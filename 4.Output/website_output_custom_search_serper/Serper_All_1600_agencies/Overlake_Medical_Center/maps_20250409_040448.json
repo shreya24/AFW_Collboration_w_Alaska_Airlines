@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Overlake Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6204489,-122.187065,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Overlake Medical Center",
+            "address": "1035 116th Ave NE, Bellevue, WA 98004",
+            "latitude": 47.6204489,
+            "longitude": -122.18706499999999,
+            "rating": 3.1,
+            "ratingCount": 511,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.overlakehospital.org/",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.overlakehospital.org/visit/schedule-an-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7l28VwnaYL2kWcc75BZj02Zo9rJwL3VEL1eQU",
+            "cid": "14792161275466343213",
+            "fid": "0x54906ced9c87d997:0xcd48504ecc75e32d",
+            "placeId": "ChIJl9mHnO1skFQRLeN1zE5QSM0"
+        }
+    ],
+    "credits": 3
+}

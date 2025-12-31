@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Clearwater Valley Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4869928,-116.2597653,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clearwater Valley Hospital",
+            "address": "301 Cedar St, Orofino, ID 83544",
+            "latitude": 46.486992799999996,
+            "longitude": -116.2597653,
+            "rating": 3.2,
+            "ratingCount": 13,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family practice physician",
+                "Home health care service",
+                "Hospital department",
+                "Pharmacy",
+                "Physician assistant"
+            ],
+            "website": "http://www.smh-cvhc.org/",
+            "phoneNumber": "(208) 476-4555",
+            "cid": "7678059506078779872",
+            "fid": "0x54a0714bedad46f3:0x6a8df270d02309e0",
+            "placeId": "ChIJ80at7UtxoFQR4Akj0HDyjWo"
+        }
+    ],
+    "credits": 3
+}

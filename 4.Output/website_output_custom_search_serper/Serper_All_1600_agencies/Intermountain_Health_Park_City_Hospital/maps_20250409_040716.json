@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Intermountain Health Park City Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6876928,-111.4694162,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Park City Hospital",
+            "address": "900 Round Valley Dr, Park City, UT 84060",
+            "latitude": 40.6876928,
+            "longitude": -111.4694162,
+            "rating": 4,
+            "ratingCount": 156,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/park-city-hospital",
+            "phoneNumber": "(435) 658-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKE7KYwnY3uk9MsH9QzGi42qsbXANjbAfaja6e",
+            "cid": "10932593592061089559",
+            "fid": "0x875213aaf1a1df99:0x97b85ff2d8835717",
+            "placeId": "ChIJmd-h8aoTUocRF1eD2PJfuJc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Special Mobility Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6678015,-117.3080875,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Special Mobility Services",
+            "address": "707 N Napa St, Spokane, WA 99202",
+            "latitude": 47.6633493,
+            "longitude": -117.38136569999999,
+            "rating": 2.5,
+            "ratingCount": 56,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.sms1.org/",
+            "phoneNumber": "(509) 534-9760",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dc7FMOSaK41AG9kwvKGT8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.97156&pitch=0&thumbfov=100",
+            "cid": "14989096143120645302",
+            "fid": "0x549e18bc46d41d2b:0xd003f786cae23cb6",
+            "placeId": "ChIJKx3URrwYnlQRtjziyob3A9A"
+        },
+        {
+            "position": 2,
+            "title": "Special Mobility Services",
+            "address": "12615 E Mission Ave # 312, Spokane Valley, WA 99216",
+            "latitude": 47.6722537,
+            "longitude": -117.2348092,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "https://www.sms1.org/",
+            "phoneNumber": "(509) 534-9760",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=07eLo0JHkJJnYff5iY9ZFA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=78.813354&pitch=0&thumbfov=100",
+            "cid": "18404268468546529869",
+            "fid": "0x549e21c1b5b264b3:0xff6918a982a36a4d",
+            "placeId": "ChIJs2SytcEhnlQRTWqjgqkYaf8"
+        }
+    ],
+    "credits": 3
+}

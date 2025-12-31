@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Metabolic Genetics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7708896,-111.8408036,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Primary Children's Hospital - Genetics & Metabolic Clinic",
+            "address": "81 Mario Capecchi Dr, Salt Lake City, UT 84112",
+            "latitude": 40.7708896,
+            "longitude": -111.8408036,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city/personalized-medicine?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(801) 213-3599",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hr8Xbcatzuc6OFCfrKFaUA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=83.608025&pitch=0&thumbfov=100",
+            "cid": "17266790378982264051",
+            "fid": "0x87525f3230fb38ff:0xef9ff65dc65eccf3",
+            "placeId": "ChIJ_zj7MDJfUocR88xexl32n-8"
+        }
+    ],
+    "credits": 3
+}

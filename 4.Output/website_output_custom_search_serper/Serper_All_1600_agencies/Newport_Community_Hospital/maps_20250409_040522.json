@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Newport Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1821605,-117.0494207,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Newport Community Hospital",
+            "address": "714 Pine St, Newport, WA 99156",
+            "latitude": 48.1821704,
+            "longitude": -117.0492893,
+            "rating": 3,
+            "ratingCount": 3,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://newporthospitalandhealth.org/",
+            "phoneNumber": "(509) 447-2441",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYwVrIMvL4m2DbwRqETb28NyNQrwh4xeSqoxf-",
+            "cid": "14862418498684578284",
+            "fid": "0x5362238a948322af:0xce41eae14d49e9ec",
+            "placeId": "ChIJryKDlIojYlMR7OlJTeHqQc4"
+        },
+        {
+            "position": 2,
+            "title": "Newport Hospital & Health Services",
+            "address": "714 Pine St, Newport, WA 99156",
+            "latitude": 48.1821506,
+            "longitude": -117.0495521,
+            "rating": 3.3,
+            "ratingCount": 77,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital"
+            ],
+            "website": "http://newporthospitalandhealth.org/",
+            "phoneNumber": "(509) 447-2441",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdEd746CPkY0F1ja6fJ7igu94HyFMRRBV8FfY0",
+            "cid": "11624594902576061240",
+            "fid": "0x5362238a94827835:0xa152db7961dcdb38",
+            "placeId": "ChIJNXiClIojYlMRONvcYXnbUqE"
+        }
+    ],
+    "credits": 3
+}

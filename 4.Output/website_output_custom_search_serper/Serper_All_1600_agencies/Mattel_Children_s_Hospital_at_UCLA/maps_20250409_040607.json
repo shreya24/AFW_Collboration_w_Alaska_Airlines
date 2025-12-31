@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Mattel Children's Hospital at UCLA",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0665972,-118.4465401,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Mattel Children's Hospital",
+            "address": "757 Westwood Plaza, Los Angeles, CA 90095",
+            "latitude": 34.0665972,
+            "longitude": -118.44654009999999,
+            "rating": 3.9,
+            "ratingCount": 54,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pediatrician"
+            ],
+            "website": "https://www.uclahealth.org/mattel/?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 825-9111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8e0eVU23x1KHR05Wkovs13jpYBKlkSu9jIyHaHQAzmuHOIzDWtGQ4otf6u5lUeDm0qBEQdjopg5LQinH3JrMwliC5IRMWLSFu01edATFSENGX_L9qMKpIq_LFoN-EQUj-Soczr",
+            "cid": "10816137830547264627",
+            "fid": "0x80c2bc85cf62ba31:0x961aa40cef6f1473",
+            "placeId": "ChIJMbpiz4W8woARcxRv7wykGpY"
+        }
+    ],
+    "credits": 3
+}

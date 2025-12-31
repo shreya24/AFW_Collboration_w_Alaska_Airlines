@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Healthplan of Nevada Housing First",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.2098347,-115.246347,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Health Plan of Nevada",
+            "address": "2720 N Tenaya Wy, Las Vegas, NV 89128",
+            "latitude": 36.2098347,
+            "longitude": -115.246347,
+            "rating": 1.7,
+            "ratingCount": 168,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://healthplanofnevada.com/member",
+            "phoneNumber": "(702) 242-7300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_mD4ogRMirPfEtD705C9Fb_DeJGryM1h57Qsx7QByj_rkwRfZSsAewroHLdHDpN9XW0zNX5d7UaDz9UVXf6MWwZ88pI8oaFM9qVrzXGOMP58KhItWmf9jXeQ3VUgxHHtN3RPeEQg",
+            "cid": "5523839137287842459",
+            "fid": "0x80c8ea82dc0973bb:0x4ca89e6dc6712a9b",
+            "placeId": "ChIJu3MJ3ILqyIARmypxxm2eqEw"
+        }
+    ],
+    "credits": 3
+}

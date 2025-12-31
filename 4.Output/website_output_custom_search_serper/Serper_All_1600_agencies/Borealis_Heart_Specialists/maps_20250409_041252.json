@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Borealis Heart Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1829896,-149.8406352,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Borealis Heart Specialists",
+            "address": "4100 Lake Otis Pkwy STE 302, Anchorage, AK 99508",
+            "latitude": 61.1829896,
+            "longitude": -149.84063519999998,
+            "rating": 4.4,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist"
+            ],
+            "website": "http://www.borealisheart.com/",
+            "phoneNumber": "(907) 262-4278",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOiPWXdI3tAeIOBlo5OcuuQHsNWRbJMKF8TpUX",
+            "cid": "11433895571102348956",
+            "fid": "0x56c8979a8a549e3d:0x9ead5b714a77b69c",
+            "placeId": "ChIJPZ5UipqXyFYRnLZ3SnFbrZ4"
+        }
+    ],
+    "credits": 3
+}

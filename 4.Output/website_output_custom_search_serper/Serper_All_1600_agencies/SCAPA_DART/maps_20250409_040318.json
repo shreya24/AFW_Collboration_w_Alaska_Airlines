@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "SCAPA DART",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.3107475,-95.4912118,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DART Aerospace",
+            "address": "9900 Cavendish Blvd Suite 310, Saint-Laurent, Quebec H4M 2V2, Canada",
+            "latitude": 45.4959746,
+            "longitude": -73.7003916,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Aerospace company",
+            "types": [
+                "Aerospace company"
+            ],
+            "website": "http://www.dartaerospace.com/",
+            "phoneNumber": "(800) 556-4166",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0qLiYUZ97GGMXQSSSTwxKqpBAf4EalfmG9ET1",
+            "cid": "9042216394058715196",
+            "fid": "0x4cc917ccbe919843:0x7d7c67e71615503c",
+            "placeId": "ChIJQ5iRvswXyUwRPFAVFudnfH0"
+        },
+        {
+            "position": 2,
+            "title": "San Diego CalDART",
+            "address": "2006 Palomar Airport Rd #214, Carlsbad, CA 92008",
+            "latitude": 33.1255204,
+            "longitude": -117.2820321,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.caldart.org/",
+            "phoneNumber": "(760) 586-9093",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaeAj1bTzVcxleMRU5s9UOUFRwl8QdYl8FZNk",
+            "cid": "9430349528727557290",
+            "fid": "0x80dc73b3f955124f:0x82df54eea79414aa",
+            "placeId": "ChIJTxJV-bNz3IARqhSUp-5U34I"
+        }
+    ],
+    "credits": 3
+}

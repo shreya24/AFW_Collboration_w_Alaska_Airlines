@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Yakima Indian Health Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.3756797,-120.343206,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yakama Indian Health Service",
+            "address": "401 Buster Rd, Toppenish, WA 98948",
+            "latitude": 46.3756797,
+            "longitude": -120.343206,
+            "rating": 3.1,
+            "ratingCount": 25,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Doctor",
+                "Medical laboratory",
+                "Optician",
+                "Optometrist"
+            ],
+            "website": "https://www.ihs.gov/Portland/healthcarefacilities/yakama/",
+            "phoneNumber": "(509) 865-2102",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "12:30\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDHCF5OU-PgTiEm6rBdKfxRIRBl1RP2rCtxJDu",
+            "cid": "15127181277129237046",
+            "fid": "0x549787027e1a19df:0xd1ee8b396c3a6236",
+            "placeId": "ChIJ3xkafgKHl1QRNmI6bDmL7tE"
+        }
+    ],
+    "credits": 3
+}

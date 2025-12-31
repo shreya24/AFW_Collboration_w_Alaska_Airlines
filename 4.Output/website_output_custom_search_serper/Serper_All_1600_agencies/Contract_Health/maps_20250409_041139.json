@@ -1,0 +1,103 @@
+{
+    "searchParameters": {
+        "q": "Contract Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.4757519,-104.2189389,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Contract Health Services",
+            "address": "2016 Castaic Ln, Knoxville, TN 37932",
+            "latitude": 35.9461393,
+            "longitude": -84.15657999999999,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory",
+                "Radiotherapist"
+            ],
+            "phoneNumber": "(865) 588-1941",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "10760551024664539345",
+            "fid": "0x885c2e2771197253:0x95552825249870d1",
+            "placeId": "ChIJU3IZcScuXIgR0XCYJCUoVZU"
+        },
+        {
+            "position": 2,
+            "title": "Muscogee (Creek) Nation Department of Health",
+            "address": "1212 S Belmont Ave, Okmulgee, OK 74447",
+            "latitude": 35.612105899999996,
+            "longitude": -95.95324269999999,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "Community health centre"
+            ],
+            "website": "https://www.creekhealth.org/",
+            "phoneNumber": "(800) 782-8291",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DpZDQp2w4mwPgiabvzFkqg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=307.92102&pitch=0&thumbfov=100",
+            "cid": "17227872456980408009",
+            "fid": "0x87b424c3143295b3:0xef15b2b8f20da6c9",
+            "placeId": "ChIJs5UyFMMktIcRyaYN8riyFe8"
+        },
+        {
+            "position": 3,
+            "title": "Koweta Indian Health Center",
+            "address": "31870 OK-51, Coweta, OK 74429",
+            "latitude": 35.950282,
+            "longitude": -95.62056079999999,
+            "rating": 3.6,
+            "ratingCount": 72,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://creekhealth.org/index.php/facilities/health-centers/koweta",
+            "phoneNumber": "(918) 279-3200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPC5mM5cDoamy0Zw-7h-aq0OnwStWkF3JXhfOIt",
+            "cid": "12365066221959296242",
+            "fid": "0x87b67b2949b6eacb:0xab998a374810b4f2",
+            "placeId": "ChIJy-q2SSl7tocR8rQQSDeKmas"
+        },
+        {
+            "position": 4,
+            "title": "Contract Health Services",
+            "address": "1505 Kla Ook Wa Drive, Taholah, WA 98587",
+            "latitude": 47.3393978,
+            "longitude": -124.2812979,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(360) 276-4409",
+            "cid": "8169648521263335481",
+            "fid": "0x548df79a9f504e5f:0x71606c0ba1b24839",
+            "placeId": "ChIJX05Qn5r3jVQROUiyoQtsYHE"
+        }
+    ],
+    "credits": 3
+}

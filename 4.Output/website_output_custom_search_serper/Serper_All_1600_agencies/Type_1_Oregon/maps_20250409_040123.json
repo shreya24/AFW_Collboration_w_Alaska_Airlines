@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Type 1 Oregon",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.061471,-121.312961,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Type 1 Home Repair",
+            "latitude": 44.061471,
+            "longitude": -121.312961,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Handyman/Handywoman/Handyperson",
+            "types": [
+                "Handyman/Handywoman/Handyperson",
+                "Service establishment"
+            ],
+            "website": "https://www.type1home.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6130194684013512832",
+            "phoneNumber": "(541) 728-3313",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZZgYHKZJNBhZIYXjAo3StomjTDJDPfjDRBwX4",
+            "cid": "8181975977960217616",
+            "fid": "0x208adbb0187c9bd:0x718c37cd4f191c10",
+            "placeId": "ChIJvcmHAbutCAIREBwZT803jHE"
+        }
+    ],
+    "credits": 3
+}

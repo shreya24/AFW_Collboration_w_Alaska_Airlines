@@ -1,0 +1,501 @@
+{
+    "searchParameters": {
+        "q": "Generations Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5050102,-97.2473028,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Generations Medical Center",
+            "address": "5135 S Durango Dr STE 102, Las Vegas, NV 89113",
+            "latitude": 36.09556,
+            "longitude": -115.279724,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor"
+            ],
+            "website": "https://generationsmedicalcenter.com/",
+            "phoneNumber": "(702) 407-9994",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM7taZ1vnjUV1_E8xX-Z8AGxzsAwpj3lVKr9ZWy",
+            "cid": "14434713066768170138",
+            "fid": "0x80c8c7613e103c2d:0xc852670e4b67fc9a",
+            "placeId": "ChIJLTwQPmHHyIARmvxnSw5nUsg"
+        },
+        {
+            "position": 2,
+            "title": "Generations Medical Center",
+            "address": "6301 S McClintock Dr, Tempe, AZ 85283",
+            "latitude": 33.3647079,
+            "longitude": -111.9105453,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2vnda9WXRNNYg3kQ8MBmdFRQpGGoyXo-x8zs",
+            "cid": "4236054551514083333",
+            "fid": "0x872b06497f761c85:0x3ac97d2bc82c7005",
+            "placeId": "ChIJhRx2f0kGK4cRBXAsyCt9yTo"
+        },
+        {
+            "position": 3,
+            "title": "Generations Family Health Center",
+            "address": "40 Mansfield Ave, Willimantic, CT 06226",
+            "latitude": 41.7155558,
+            "longitude": -72.2253471,
+            "rating": 2.8,
+            "ratingCount": 79,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.genhealth.org/",
+            "phoneNumber": "(860) 450-7471",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPD5evMqdu6tLZPZu5HV8wLXVOKfZQORVGqYpEf",
+            "cid": "9689430319329754188",
+            "fid": "0x89e663e469581ff5:0x8677c589e38cbc4c",
+            "placeId": "ChIJ9R9YaeRj5okRTLyM44nFd4Y"
+        },
+        {
+            "position": 4,
+            "title": "Generations Family Medical",
+            "address": "206 E Blue Starr Dr, Claremore, OK 74017",
+            "latitude": 36.3222278,
+            "longitude": -95.60277359999999,
+            "rating": 2.6,
+            "ratingCount": 91,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://generationsfamilymedicalclinic.com/",
+            "phoneNumber": "(918) 341-8100",
+            "openingHours": {
+                "Tuesday": "12\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "7:45\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "7:45\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "7:45\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u201312\u202fPM, 1\u202fPM\u201312\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSJrA8Pv3ZkNYEF0wk2-mI7ET8lNJnWr11UoFM",
+            "cid": "14873775442413439626",
+            "fid": "0x87b65083e1a1fcbf:0xce6a43f5d1fb4a8a",
+            "placeId": "ChIJv_yh4YNQtocRikr70fVDas4"
+        },
+        {
+            "position": 5,
+            "title": "Generations Family Health Center",
+            "address": "202 Pomfret St, Putnam, CT 06260",
+            "latitude": 41.911475499999995,
+            "longitude": -71.914954,
+            "rating": 2.8,
+            "ratingCount": 60,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Mental health service",
+                "Non-profit organization"
+            ],
+            "website": "https://www.genhealth.org/",
+            "phoneNumber": "(860) 963-7917",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMTkZCv9_okIMnMIdDck9q5pLK74s4RVY50L91M",
+            "cid": "14216393108896119541",
+            "fid": "0x89e427affd3b8fdb:0xc54ac635fb107af5",
+            "placeId": "ChIJ2487_a8n5IkR9XoQ-zXGSsU"
+        },
+        {
+            "position": 6,
+            "title": "Generations Family Med Clinic",
+            "address": "400 SE Frank Phillips Blvd, Bartlesville, OK 74003",
+            "latitude": 36.7510188,
+            "longitude": -95.9730611,
+            "rating": 3.7,
+            "ratingCount": 62,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://generationsfamilymedicalclinic.com/",
+            "phoneNumber": "(918) 333-3136",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRiRp2F9vyHAnMIsWgvAJNFuUkI6VxGHut42uD",
+            "cid": "14448920778400454800",
+            "fid": "0x87b7125363d563d1:0xc884e0e4f051d890",
+            "placeId": "ChIJ0WPVY1MSt4cRkNhR8OTghMg"
+        },
+        {
+            "position": 7,
+            "title": "Generations Family Practice",
+            "address": "1021 Darrington Dr #101, Cary, NC 27513",
+            "latitude": 35.799011899999996,
+            "longitude": -78.81388799999999,
+            "rating": 4.7,
+            "ratingCount": 2104,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Family service center",
+                "Medical clinic",
+                "Medical office",
+                "Pediatric clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.generationsfamilypractice.com/",
+            "phoneNumber": "(984) 369-8168",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://generationsfamilypractice.com/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP3czRJqUKK6sa-RMLhB901L3nhwJKEkhsqlUSx",
+            "cid": "7177394733326604004",
+            "fid": "0x89acf264ccb09d03:0x639b3a7b84b116e4",
+            "placeId": "ChIJA52wzGTyrIkR5BaxhHs6m2M"
+        },
+        {
+            "position": 8,
+            "title": "Generations Family Medicine PC",
+            "address": "8106 NE Wasco St, Portland, OR 97213",
+            "latitude": 45.5323517,
+            "longitude": -122.57965159999999,
+            "rating": 2.4,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(503) 255-8258",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zGY_akIALqTkvC3eusH-Xw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=69.78827&pitch=0&thumbfov=100",
+            "cid": "16908062998708259149",
+            "fid": "0x5495a113f5384b41:0xeaa581b6edee894d",
+            "placeId": "ChIJQUs49ROhlVQRTYnu7baBpeo"
+        },
+        {
+            "position": 9,
+            "title": "Generations Family Medicine",
+            "address": "1816 Bay Scott Cir #112, Naperville, IL 60540",
+            "latitude": 41.7491371,
+            "longitude": -88.18467179999999,
+            "rating": 3.8,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(630) 637-8630",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "7\u202fAM\u20133\u202fPM",
+                "Friday": "7\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=csS4fP3Kz71uneN5EvfOmA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=20.39266&pitch=0&thumbfov=100",
+            "cid": "1073665580132159311",
+            "fid": "0x880ef81efbcdb4dd:0xee66d2817574f4f",
+            "placeId": "ChIJ3bTN-x74DogRT09XFyht5g4"
+        },
+        {
+            "position": 10,
+            "title": "Generations Women's Healthcare",
+            "address": "1309 Norton Ave #100, Norton, OH 44203",
+            "latitude": 41.0261802,
+            "longitude": -81.6369781,
+            "rating": 4.8,
+            "ratingCount": 141,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.generationswomenshealthcare.com/",
+            "phoneNumber": "(330) 825-2355",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.generationswomenshealthcare.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMj9ebJVeGsCRCSln-_khV1HVc02KGSUK_kUTrt",
+            "cid": "18259096791665726757",
+            "fid": "0x8830d3af8e2732a1:0xfd6557ca8ab5d525",
+            "placeId": "ChIJoTInjq_TMIgRJdW1ispXZf0"
+        },
+        {
+            "position": 11,
+            "title": "Generations Med Center",
+            "address": "8225 W Sahara Ave suite c, Las Vegas, NV 89117",
+            "latitude": 36.1433063,
+            "longitude": -115.2703444,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(725) 251-6390",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dWI9_PszjfMUL9Qgj5nulA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=285.1524&pitch=0&thumbfov=100",
+            "cid": "4567612938689395037",
+            "fid": "0x80c8c175a25ec009:0x3f636bc47a0f395d",
+            "placeId": "ChIJCcBeonXByIARXTkPesRrYz8"
+        },
+        {
+            "position": 12,
+            "title": "Generations Family Practice",
+            "address": "6729 Falls of Neuse Rd #100, Raleigh, NC 27615",
+            "latitude": 35.875735,
+            "longitude": -78.623818,
+            "rating": 4.7,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.generationsfamilypractice.com/",
+            "phoneNumber": "(919) 921-8219",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPv-Kw2I3dYml2haVbGDhIhRbqwTRzcrNXGDO2n",
+            "cid": "15095358653453857503",
+            "fid": "0x89ac59c43a1578a7:0xd17d7cb7783c72df",
+            "placeId": "ChIJp3gVOsRZrIkR33I8eLd8fdE"
+        },
+        {
+            "position": 13,
+            "title": "Generations Women\u2019s Health",
+            "address": "6555 Frank Ave NW, North Canton, OH 44720",
+            "latitude": 40.8757752,
+            "longitude": -81.44193059999999,
+            "rating": 3.6,
+            "ratingCount": 81,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Family planning center",
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Pregnancy care center",
+                "Reproductive health clinic"
+            ],
+            "website": "http://www.gwhobgyn.com/",
+            "phoneNumber": "(330) 956-5300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQIMy644lfG7hWjE7EZcKs_P4hEmNOkLUz3gA",
+            "cid": "3914292392359844821",
+            "fid": "0x8836da0aa226b853:0x36525c31299f5bd5",
+            "placeId": "ChIJU7gmograNogR1VufKTFcUjY"
+        },
+        {
+            "position": 14,
+            "title": "Generations Medical Aesthetics",
+            "address": "12005 Sunrise Valley Dr Suite 160, Reston, VA 20191",
+            "latitude": 38.9462306,
+            "longitude": -77.3617829,
+            "rating": 4.9,
+            "ratingCount": 422,
+            "type": "Medical spa",
+            "types": [
+                "Medical spa",
+                "Cosmetics store",
+                "Skin care clinic",
+                "Tattoo removal service"
+            ],
+            "website": "https://www.gmalaser.com/",
+            "phoneNumber": "(703) 390-9343",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPITOrmr6tXg5LQOA-a1m7crWhcibqZinWAZDAT",
+            "cid": "14984908391616654919",
+            "fid": "0x89b6481324b90b3b:0xcff516c9ea14ae47",
+            "placeId": "ChIJOwu5JBNItokRR64U6skW9c8"
+        },
+        {
+            "position": 15,
+            "title": "Generation Family Medical Clinic-Chelsea",
+            "address": "235 W 6th St, Chelsea, OK 74016",
+            "latitude": 36.5356557,
+            "longitude": -95.4315955,
+            "rating": 2.6,
+            "ratingCount": 23,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://generationsfamilymedicalclinic.com/",
+            "phoneNumber": "(918) 789-3146",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4ucYZBCMquTcOCfDS6PIOg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=40.8295&pitch=0&thumbfov=100",
+            "cid": "7558317407324755256",
+            "fid": "0x87b7b4529b2e57bd:0x68e489a2e33e5538",
+            "placeId": "ChIJvVcum1K0t4cROFU-46KJ5Gg"
+        },
+        {
+            "position": 16,
+            "title": "Generations Healthcare",
+            "address": "6 Hutton Centre Dr # 400, Santa Ana, CA 92707",
+            "latitude": 33.6961242,
+            "longitude": -117.8651769,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Home health care service",
+                "Rehabilitation center"
+            ],
+            "website": "http://www.lifegen.net/",
+            "phoneNumber": "(714) 241-5600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNz8-HRnQsgKpyS1_pKWhTECNOH3D9sKDp7V9wp",
+            "cid": "7372273639096283565",
+            "fid": "0x80dcdfaba4df164f:0x664f93d0954f71ad",
+            "placeId": "ChIJTxbfpKvf3IARrXFPldCTT2Y"
+        },
+        {
+            "position": 17,
+            "title": "Generations Med.Center Dr. Kavag Kashaai",
+            "address": "Spring Valley, NV 89117",
+            "latitude": 36.143538899999996,
+            "longitude": -115.2704751,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z4At7a-aCU9MfBp8hidhig&cb_client=search.gws-prod.gps&w=80&h=92&yaw=236.30263&pitch=0&thumbfov=100",
+            "cid": "8865321718768792565",
+            "fid": "0x80c8c097961060a1:0x7b07f321fac4f3f5",
+            "placeId": "ChIJoWAQlpfAyIAR9fPE-iHzB3s"
+        },
+        {
+            "position": 18,
+            "title": "Generation Family Medicine",
+            "address": "3903 Wiseman Blvd, San Antonio, TX 78251",
+            "latitude": 29.4776687,
+            "longitude": -98.6950602,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.bhsphysiciansnetwork.com/",
+            "phoneNumber": "(210) 681-0126",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lGe65khdiH9_g8pl4JEmIg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=347.43536&pitch=0&thumbfov=100",
+            "cid": "10000319377092751255",
+            "fid": "0x865c42f24491f20b:0x8ac8457d5011af97",
+            "placeId": "ChIJC_KRRPJCXIYRl68RUH1FyIo"
+        }
+    ],
+    "credits": 3
+}

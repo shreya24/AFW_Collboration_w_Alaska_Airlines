@@ -1,0 +1,170 @@
+{
+    "searchParameters": {
+        "q": "GF Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6765313,-104.1789227,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Great Falls Clinic Hospital",
+            "address": "3010 15th Ave S, Great Falls, MT 59405",
+            "latitude": 47.487824499999995,
+            "longitude": -111.25555829999999,
+            "rating": 4.3,
+            "ratingCount": 163,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Orthopedic surgeon",
+                "Radiologist",
+                "Surgical center",
+                "Urgent care center"
+            ],
+            "website": "http://www.gfclinic.com/?y_source=1_MjU3MDI5MTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(406) 216-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlDfIiaz6TrjLxILTZ6YhBXKhXSjagsP510mW8",
+            "cid": "7778237783544283229",
+            "fid": "0x534237c5d71ae3c7:0x6bf1da0da2adc05d",
+            "placeId": "ChIJx-Ma18U3QlMRXcCtog3a8Ws"
+        },
+        {
+            "position": 2,
+            "title": "Great Falls Clinic",
+            "address": "1400 29th St S, Great Falls, MT 59405",
+            "latitude": 47.4906,
+            "longitude": -111.2581932,
+            "rating": 3.2,
+            "ratingCount": 83,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Endocrinologist",
+                "Laboratory",
+                "Optician",
+                "Pediatrician",
+                "Speech pathologist"
+            ],
+            "website": "http://www.gfclinic.com/",
+            "phoneNumber": "(406) 454-2171",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlB3PrnCc76wU68laVjqgpud8Onk9KRqkWJBk8",
+            "cid": "613555932467183345",
+            "fid": "0x534237a913bed979:0x883c9deac8a3ef1",
+            "placeId": "ChIJedm-E6k3QlMR8T6KrN7Jgwg"
+        },
+        {
+            "position": 3,
+            "title": "Grand Forks Clinic",
+            "address": "5750 S Washington St, Grand Forks, ND 58201",
+            "latitude": 47.8652381,
+            "longitude": -97.0466233,
+            "rating": 4.8,
+            "ratingCount": 66,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://grandforksclinic.com/",
+            "phoneNumber": "(701) 775-5800",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8yYVLOQFow2byoq_6x1jUzljDNK3ZvSanZeyP",
+            "cid": "18301996494709886589",
+            "fid": "0x52c681fa4ed9806b:0xfdfdc0d803a08e7d",
+            "placeId": "ChIJa4DZTvqBxlIRfY6gA9jA_f0"
+        },
+        {
+            "position": 4,
+            "title": "Great Falls Clinic Walk-In",
+            "address": "3000 15th Ave S, Great Falls, MT 59405",
+            "latitude": 47.488462399999996,
+            "longitude": -111.25587259999999,
+            "rating": 3.4,
+            "ratingCount": 38,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Doctor",
+                "Medical clinic",
+                "Urgent care center"
+            ],
+            "website": "https://www.gfclinic.com/department/walk-in-care-immediate-care-center/",
+            "phoneNumber": "(406) 454-7200",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20134\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgKtPEHebHxVSQtCGDQGlqpEMrGiJlKz_mt_Yc",
+            "cid": "15399700155832807403",
+            "fid": "0x534237abb5816bf7:0xd5b6b9b35bf12feb",
+            "placeId": "ChIJ92uBtas3QlMR6y_xW7O5ttU"
+        },
+        {
+            "position": 5,
+            "title": "Great Falls Clinic Northwest",
+            "address": "1600 Division Rd, Great Falls, MT 59404",
+            "latitude": 47.5211111,
+            "longitude": -111.3112221,
+            "rating": 3.5,
+            "ratingCount": 45,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Laboratory",
+                "Medical clinic",
+                "Pediatrician",
+                "X-ray lab"
+            ],
+            "website": "http://www.gfclinic.com/",
+            "phoneNumber": "(406) 268-1600",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOT59KXWk_GSgFAPjxJwTiT-6GVIPUoz2m-CQfF",
+            "cid": "1843328060070660219",
+            "fid": "0x53423818dd5d30ad:0x1994d11ab105887b",
+            "placeId": "ChIJrTBd3Rg4QlMRe4gFsRrRlBk"
+        }
+    ],
+    "credits": 3
+}

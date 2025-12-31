@@ -1,0 +1,145 @@
+{
+    "searchParameters": {
+        "q": "Logan Health Surgical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.0683197,-113.0766077,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Surgical Clinic",
+            "address": "1333 Surgical Services Dr, Kalispell, MT 59901",
+            "latitude": 48.213976699999996,
+            "longitude": -114.3250941,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Surgeon"
+            ],
+            "website": "https://www.logan.org/location/logan-health-surgical-clinic/",
+            "phoneNumber": "(406) 752-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "721730199315990499",
+            "fid": "0x5366509fa709e70b:0xa0419cad9e6c7e3",
+            "placeId": "ChIJC-cJp59QZlMR48fm2coZBAo"
+        },
+        {
+            "position": 2,
+            "title": "Logan Surgery Center",
+            "address": "1350 N 500 E, Logan, UT 84341",
+            "latitude": 41.755675,
+            "longitude": -111.822295,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Home health care service"
+            ],
+            "website": "https://logansurgery.com/",
+            "phoneNumber": "(435) 363-9265",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q3tI5rC_Z4Dr7_x-CAGM1w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.47188&pitch=0&thumbfov=100",
+            "cid": "16072413541564296083",
+            "fid": "0x87547dde2dbafe3f:0xdf0caef5f41e2b93",
+            "placeId": "ChIJP_66Ld59VIcRkyse9PWuDN8"
+        },
+        {
+            "position": 3,
+            "title": "Logan Regional Hospital Same Day Surgery",
+            "address": "500 E 1400 N, Logan, UT 84341",
+            "latitude": 41.755672399999995,
+            "longitude": -111.8221181,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/location-details/logan-regional-hospital/logan-regional-hospital/logan-regional-hospital-same-day-surgery/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(435) 716-5303",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "6\u202fAM\u20135\u202fPM",
+                "Friday": "6\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://doctors.intermountainhealth.org/?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_MLP3LP30U1U9hYVTjfq1w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=274.11954&pitch=0&thumbfov=100",
+            "cid": "17231290524639857843",
+            "fid": "0x87547d23eb955243:0xef21d76fd6b68cb3",
+            "placeId": "ChIJQ1KV6yN9VIcRs4y21m_XIe8"
+        },
+        {
+            "position": 4,
+            "title": "Logan Health Surgical Clinic - Whitefish",
+            "address": "2000 Hospital Way, Whitefish, MT 59937",
+            "latitude": 48.380967,
+            "longitude": -114.33109739999999,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon",
+                "Hospital"
+            ],
+            "website": "https://www.logan.org/location/logan-health-surgical-clinic-whitefish/",
+            "phoneNumber": "(406) 862-5575",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "cid": "5539607920853894118",
+            "fid": "0x5366429ccde8ca47:0x4ce0a40dcd6fc3e6",
+            "placeId": "ChIJR8rozZxCZlMR5sNvzQ2k4Ew"
+        },
+        {
+            "position": 5,
+            "title": "Logan Health Outpatient Surgery Center",
+            "address": "111 Sunnyview Ln STE 101, Kalispell, MT 59901",
+            "latitude": 48.2160666,
+            "longitude": -114.3282065,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.logan.org/location/logan-health-outpatient-surgery-center/",
+            "phoneNumber": "(406) 858-8205",
+            "cid": "10854135293176129349",
+            "fid": "0x53665a7560955555:0x96a1a28a9dcb2745",
+            "placeId": "ChIJVVWVYHVaZlMRRSfLnYqioZY"
+        }
+    ],
+    "credits": 3
+}

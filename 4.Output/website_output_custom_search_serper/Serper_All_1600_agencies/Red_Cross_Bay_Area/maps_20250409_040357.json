@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Red Cross Bay Area",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6030486,-122.6279041,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Red Cross",
+            "address": "3131 N Vancouver Ave, Portland, OR 97227",
+            "latitude": 45.545955799999994,
+            "longitude": -122.6682374,
+            "rating": 4,
+            "ratingCount": 67,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity",
+                "Volunteer organization"
+            ],
+            "website": "https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html?CID=organic_gmb_listings",
+            "phoneNumber": "(503) 284-1234",
+            "openingHours": {
+                "Tuesday": "11:30\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "11:30\u202fAM\u20137:30\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "7\u202fAM\u20133\u202fPM",
+                "Sunday": "7\u202fAM\u20133\u202fPM",
+                "Monday": "11:30\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9vq-Q1w_Ze3QEGOytsl5hpMEMGypnl4RM5a_2r_HZUAZzZEvc_JIHRJPjOxhB75A5_VvH_zVJsQFDC4kCXiu5tzkpLsvgGlBEXt2yZy-IZIcEhWlVXsKAdMvChRSI5Qy9VNgjfQQ",
+            "cid": "886493838656795961",
+            "fid": "0x5495a7b7f01bb001:0xc4d75730cb5f539",
+            "placeId": "ChIJAbAb8LenlVQROfW1DHN1TQw"
+        },
+        {
+            "position": 2,
+            "title": "American Red Cross",
+            "address": "5109 NE 82nd Ave, Vancouver, WA 98662",
+            "latitude": 45.660141499999995,
+            "longitude": -122.5875707,
+            "rating": 4.6,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity",
+                "Volunteer organization"
+            ],
+            "website": "https://www.redcross.org/local/oregon/about-us/locations/southwest-washington-chapter.html?CID=organic_gmb_listings",
+            "phoneNumber": "(360) 553-3619",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "9\u202fAM\u20134\u202fPM",
+                "Sunday": "9\u202fAM\u20134\u202fPM",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB86D2s7mfVsThZg8fgmA8xYsKo3ZC4Wm7nP-E9S7hN4cX55MxdVRsIhLu3uvOl2sgHVgm0wwWWdbxIjfChvh82kOKNKqc9P4vRglzG0P6a5fs03BGXsEkwEqy1_mBRmuNt9a0qc",
+            "cid": "6218381990067543275",
+            "fid": "0x5495af6cfbb39e07:0x564c21793ba99ceb",
+            "placeId": "ChIJB56z-2yvlVQR65ypO3khTFY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Swedish First Hill Hospital Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.608469,-122.321481,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Hospital - First Hill Campus",
+            "address": "747 Broadway, Seattle, WA 98122",
+            "latitude": 47.608469,
+            "longitude": -122.32148099999999,
+            "rating": 3.1,
+            "ratingCount": 219,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus?Is=location&y_source=1_OTU3NjkyMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-6000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/first-hill-campus#llaid=7437sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8TjfSWqOXi6EadtizniAsKY7TEwpFTS6yLLrOeK94Lbmsc_IunExhTa84kN0QaPW3VJB64Ed7Duuig-ELvKG50NWSeFSTT_K5xfbB2jXBvwJ-zwoOgDT-03DJ3L8gCcS7KqTuO",
+            "cid": "5633867081434861685",
+            "fid": "0x54906ac851cdd757:0x4e2f8442d4b11075",
+            "placeId": "ChIJV9fNUchqkFQRdRCx1EKEL04"
+        }
+    ],
+    "credits": 3
+}

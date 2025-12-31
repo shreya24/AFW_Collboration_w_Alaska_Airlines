@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Colorado Rural Health Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5972149,-104.8417029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colorado Rural Health Center",
+            "address": "6551 S Revere Pkwy Suite 155, Centennial, CO 80111",
+            "latitude": 39.5972149,
+            "longitude": -104.8417029,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.coruralhealth.org/",
+            "phoneNumber": "(303) 832-7493",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=der2usABxcP_PJkQZeKX7g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=328.70883&pitch=0&thumbfov=100",
+            "cid": "18040927441406389449",
+            "fid": "0x876c87ef86db3455:0xfa5e3fec4b9fecc9",
+            "placeId": "ChIJVTTbhu-HbIcRyeyfS-w_Xvo"
+        }
+    ],
+    "credits": 3
+}

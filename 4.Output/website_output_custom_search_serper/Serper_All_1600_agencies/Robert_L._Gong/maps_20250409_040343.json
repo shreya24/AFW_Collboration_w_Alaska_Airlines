@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Robert L. Gong",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.5635999,-121.0834452,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gong Robert L MD",
+            "address": "2150 Main St #3, Cambria, CA 93428",
+            "latitude": 35.5635999,
+            "longitude": -121.0834452,
+            "rating": 4.1,
+            "ratingCount": 12,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(805) 927-8671",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7AgbqcEwXI6V6bnC6fkGOQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=191.73608&pitch=0&thumbfov=100",
+            "cid": "12284755079776878220",
+            "fid": "0x80ed302b13caf6c1:0xaa7c37a85ac6be8c",
+            "placeId": "ChIJwfbKEysw7YARjL7GWqg3fKo"
+        }
+    ],
+    "credits": 3
+}

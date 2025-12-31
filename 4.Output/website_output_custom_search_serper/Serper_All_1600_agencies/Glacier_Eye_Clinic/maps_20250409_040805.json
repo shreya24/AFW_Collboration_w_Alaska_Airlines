@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Glacier Eye Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2384526,-114.3402838,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glacier Eye Clinic",
+            "address": "175 Timberwolf Pkwy, Kalispell, MT 59901",
+            "latitude": 48.238452599999995,
+            "longitude": -114.3402838,
+            "rating": 4.4,
+            "ratingCount": 289,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center"
+            ],
+            "phoneNumber": "(406) 257-2020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMmNCfp8-N4EVp7FCipXaiMInBGvMp7PEEqpmTD",
+            "cid": "12835642765068508521",
+            "fid": "0x4109044f9a7009a7:0xb2215d16b3b89d69",
+            "placeId": "ChIJpwlwmk8ECUERaZ24sxZdIbI"
+        }
+    ],
+    "credits": 3
+}

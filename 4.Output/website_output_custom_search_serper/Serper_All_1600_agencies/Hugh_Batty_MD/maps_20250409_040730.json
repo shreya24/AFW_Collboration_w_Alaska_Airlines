@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Hugh Batty MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.8071314,-106.9743107,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hugh K Batty PC",
+            "address": "1262 W 5th St, Sheridan, WY 82801",
+            "latitude": 44.807131399999996,
+            "longitude": -106.97431069999999,
+            "rating": 4.5,
+            "ratingCount": 18,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(307) 672-6075",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wLeRrVIaKCLpW04L5-hyDw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=174.44423&pitch=0&thumbfov=100",
+            "cid": "8291827284287217771",
+            "fid": "0x5335faef07e241c9:0x73127cfbaad4e06b",
+            "placeId": "ChIJyUHiB-_6NVMRa-DUqvt8EnM"
+        }
+    ],
+    "credits": 3
+}

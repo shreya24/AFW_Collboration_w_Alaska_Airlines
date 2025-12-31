@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Diagnostic Health Alaska",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1828573,-149.8401454,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Diagnostic Health Alaska",
+            "address": "4100 Lake Otis Pkwy #102, Anchorage, AK 99508",
+            "latitude": 61.182857299999995,
+            "longitude": -149.84014539999998,
+            "rating": 4,
+            "ratingCount": 17,
+            "type": "Diagnostic center",
+            "types": [
+                "Diagnostic center",
+                "Radiologist"
+            ],
+            "website": "https://dhaalaska.com/?y_source=1_NDA5Nzc2MjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 729-5800",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMY6uNO-mM1s9UHaZzeHsxOvys_uqa5YMHkafrp",
+            "cid": "15717313072613221249",
+            "fid": "0x56c897a631f1a021:0xda1f1cf734b6e381",
+            "placeId": "ChIJIaDxMaaXyFYRgeO2NPccH9o"
+        }
+    ],
+    "credits": 3
+}

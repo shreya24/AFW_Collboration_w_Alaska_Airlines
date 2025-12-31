@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Emanuel Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5445615,-122.6700796,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Randall Children's Hospital at Legacy Emanuel",
+            "address": "2801 N Gantenbein Ave, Portland, OR 97227",
+            "latitude": 45.5445615,
+            "longitude": -122.6700796,
+            "rating": 4.1,
+            "ratingCount": 290,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency care service",
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Medical group"
+            ],
+            "website": "https://www.legacyhealth.org/children",
+            "phoneNumber": "(503) 276-6500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNI65j5jBFn4z1bVrEAqVsXcFqJ0eLRX7gdcHkd",
+            "cid": "8251142419154392818",
+            "fid": "0x5495a7444e8dd077:0x7281f25054dad6f2",
+            "placeId": "ChIJd9CNTkSnlVQR8tbaVFDygXI"
+        }
+    ],
+    "credits": 3
+}

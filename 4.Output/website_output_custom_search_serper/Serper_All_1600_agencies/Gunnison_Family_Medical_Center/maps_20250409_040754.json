@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Gunnison Family Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5515089,-106.9259851,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gunnison Valley Health Family Medicine Clinic",
+            "address": "707 N Iowa St, Gunnison, CO 81230",
+            "latitude": 38.5515089,
+            "longitude": -106.92598509999999,
+            "rating": 3.7,
+            "ratingCount": 20,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.gunnisonvalleyhealth.org/Our-Services/Primary-Care/Family-Medicine-Clinic.aspx",
+            "phoneNumber": "(970) 642-8413",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObdxSWx0aACCuZblGqC6oFLy67pNVY3srlwZ4d",
+            "cid": "5291085933420241204",
+            "fid": "0x873f92c7b3c75075:0x496db69f81946134",
+            "placeId": "ChIJdVDHs8eSP4cRNGGUgZ-2bUk"
+        }
+    ],
+    "credits": 3
+}

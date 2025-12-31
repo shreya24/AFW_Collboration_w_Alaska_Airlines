@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Puget Sound Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.3492765,-122.4420138,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Puget Sound Health Care System",
+            "address": "9600 Veterans Dr SW, Tacoma, WA 98498",
+            "latitude": 47.135616899999995,
+            "longitude": -122.57603739999999,
+            "rating": 4.5,
+            "ratingCount": 389,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center",
+                "Military hospital",
+                "Veterans affairs department"
+            ],
+            "website": "https://www.pugetsound.va.gov/",
+            "phoneNumber": "(253) 582-8440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8XAVwot9npVzNZmvJt19SbV7SeVDA65ltgzyhX55x6cJaL-TL7AcvZ1p5dGUcyw1bu6kkWndyKhEl46Xtzc7D3YxmYwyCbRFB6z_CH72Aioia1dUGZEP7u78bhfgs-dU4QgVS0BA",
+            "cid": "17847865120302084435",
+            "fid": "0x549106e13a49f475:0xf7b05ac3ceb0b153",
+            "placeId": "ChIJdfRJOuEGkVQRU7GwzsNasPc"
+        },
+        {
+            "position": 2,
+            "title": "VA Puget Sound Health Care System",
+            "address": "1660 S Columbian Way, Seattle, WA 98108",
+            "latitude": 47.562936099999995,
+            "longitude": -122.3079903,
+            "rating": 3.8,
+            "ratingCount": 523,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.pugetsound.va.gov/",
+            "phoneNumber": "(206) 762-1010",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Zv7EN7z2YsYFuT2coEvY-FF9DlkZQLRT1kwaxFdYoZsMr4RksBIOPCIOTqtoX-uDu8y0WK2z6qj7lwdlGsluwFj3UUYUNX8lau6bhbOaSdFGyzWSYjt1zEai2DotW_g3d4Yk",
+            "cid": "5788650830276156153",
+            "fid": "0x549041d8d6d20811:0x50556b42b3615af9",
+            "placeId": "ChIJEQjS1thBkFQR-Vphs0JrVVA"
+        }
+    ],
+    "credits": 3
+}

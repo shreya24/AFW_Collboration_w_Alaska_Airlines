@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Hutchinson Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.476503,-96.1329031,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hutchinson Regional Medical Center",
+            "address": "1701 E 23rd Ave, Hutchinson, KS 67502",
+            "latitude": 38.077484999999996,
+            "longitude": -97.89203599999999,
+            "rating": 3.8,
+            "ratingCount": 338,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.hutchregional.com/?utm_source=GMBSocialClimb&utm_medium=HutchinsonRegionalMedicalCenter",
+            "phoneNumber": "(620) 524-0799",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhrNpURw_IWlOeIwgh8atniGPyMF5L7a4cMNXo",
+            "cid": "5824738139449985255",
+            "fid": "0x87a4b66bc4c3c6cd:0x50d5a07a1f9608e7",
+            "placeId": "ChIJzcbDxGu2pIcR5wiWH3qg1VA"
+        },
+        {
+            "position": 2,
+            "title": "Hutchinson Health",
+            "address": "1095 MN-15, Hutchinson, MN 55350",
+            "latitude": 44.875521,
+            "longitude": -94.37377029999999,
+            "rating": 2.9,
+            "ratingCount": 48,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthpartners.com/care/hospitals/hutchinson/?utm_campaign=hospital_locallistings_21m1_care_hutch&utm_source=googlemybusiness_&utm_medium=organic&utm_content=hutch-hospital_localpack_conversion&utm_term=_v1__",
+            "phoneNumber": "(320) 234-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCjRBl2owa2Oac9RVZ2OgIJ5IJTGINwMOdsm_r",
+            "cid": "12376442679709025693",
+            "fid": "0x87f581b5c3e9f2b9:0xabc1f50b430a459d",
+            "placeId": "ChIJufLpw7WB9YcRnUUKQwv1was"
+        }
+    ],
+    "credits": 3
+}

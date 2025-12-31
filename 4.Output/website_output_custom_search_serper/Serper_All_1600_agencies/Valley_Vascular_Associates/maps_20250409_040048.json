@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Valley Vascular Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.282328,-118.5276504,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Vascular Associates",
+            "address": "16917 Enadia Way, Van Nuys, CA 91406",
+            "latitude": 34.2003261,
+            "longitude": -118.50187869999999,
+            "rating": 4.9,
+            "ratingCount": 294,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgeon",
+                "Vascular surgeon"
+            ],
+            "website": "http://www.vvahealth.com/",
+            "phoneNumber": "(818) 401-1010",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVHtg8rhk6IcTY-A-AQUQXBAQU5oP17NHPzCuy",
+            "cid": "2234777739465515315",
+            "fid": "0x80c299f109167b3d:0x1f03868380cae133",
+            "placeId": "ChIJPXsWCfGZwoARM-HKgIOGAx8"
+        },
+        {
+            "position": 2,
+            "title": "Valley Vascular Associates, Inc.",
+            "address": "23911 Calgrove Blvd, Newhall, CA 91321",
+            "latitude": 34.3643299,
+            "longitude": -118.55342209999999,
+            "rating": 4.8,
+            "ratingCount": 96,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.vvahealth.com/",
+            "phoneNumber": "(661) 505-7079",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hOUDdPnmEQJ98bdChawJBw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=221.46571&pitch=0&thumbfov=100",
+            "cid": "13741578470992286597",
+            "fid": "0x80c287ec8c3c825f:0xbeb3e4d038a69385",
+            "placeId": "ChIJX4I8jOyHwoARhZOmONDks74"
+        }
+    ],
+    "credits": 3
+}

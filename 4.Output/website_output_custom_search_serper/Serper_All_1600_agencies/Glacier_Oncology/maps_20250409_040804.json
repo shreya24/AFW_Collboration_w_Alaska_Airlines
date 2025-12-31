@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Glacier Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2125202,-114.3237305,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glacier Oncology",
+            "address": "75 Claremont St E, Kalispell, MT 59901",
+            "latitude": 48.2125202,
+            "longitude": -114.3237305,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(406) 752-7600",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ltDm-h3CVUkCaIlwsBgukA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=0.32119355&pitch=0&thumbfov=100",
+            "cid": "10395592081959332029",
+            "fid": "0x5366509f2476e01f:0x90448feb9b0ca8bd",
+            "placeId": "ChIJH-B2JJ9QZlMRvagMm-uPRJA"
+        }
+    ],
+    "credits": 3
+}

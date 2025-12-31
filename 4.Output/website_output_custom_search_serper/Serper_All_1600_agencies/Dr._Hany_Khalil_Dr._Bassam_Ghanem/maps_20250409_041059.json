@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr. Hany Khalil / Dr. Bassam Ghanem",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2867091,-118.7261218,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "BASSAM GHANEM",
+            "address": "3605 Alamo St Suite 103, Simi Valley, CA 93063",
+            "latitude": 34.286709099999996,
+            "longitude": -118.7261218,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(805) 517-4804",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pHAwBwx8zfOacA7nbtBFZw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=312.4165&pitch=0&thumbfov=100",
+            "cid": "11660203196739053077",
+            "fid": "0x80e8294071555555:0xa1d15d076e816615",
+            "placeId": "ChIJVVVVcUAp6IARFWaBbgdd0aE"
+        }
+    ],
+    "credits": 3
+}

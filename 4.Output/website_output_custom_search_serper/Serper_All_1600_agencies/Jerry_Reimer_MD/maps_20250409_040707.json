@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Jerry Reimer MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.838306,-119.715381,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peachwood Medical Group: Reimer Jerry MD",
+            "address": "275 Herndon Ave, Clovis, CA 93611",
+            "latitude": 36.838305999999996,
+            "longitude": -119.715381,
+            "rating": 2.9,
+            "ratingCount": 8,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://peachwoodmedicalgroup.com/",
+            "phoneNumber": "(559) 324-6209",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_8u6xGebdA3NoBbdYEE8g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=269.30728&pitch=0&thumbfov=100",
+            "cid": "7595165622006478126",
+            "fid": "0x80945cbf670c2727:0x696772e46df4752e",
+            "placeId": "ChIJJycMZ79clIARLnX0beRyZ2k"
+        }
+    ],
+    "credits": 3
+}

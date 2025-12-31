@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Clark Fork Valley Hospital/ Family Medic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4686818,-114.8883673,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clark Fork Valley Hospital",
+            "address": "10 Kruger Rd, Plains, MT 59859",
+            "latitude": 47.4686818,
+            "longitude": -114.8883673,
+            "rating": 3.7,
+            "ratingCount": 33,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital"
+            ],
+            "website": "http://www.cfvh.org/",
+            "phoneNumber": "(406) 826-4800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc_K6WHOn-MRjDTf4jQ6LEHKYNGg3UeVA-Bk0A",
+            "cid": "16659854769291228488",
+            "fid": "0x5360b33b263042df:0xe733b1a51d337548",
+            "placeId": "ChIJ30IwJjuzYFMRSHUzHaWxM-c"
+        }
+    ],
+    "credits": 3
+}

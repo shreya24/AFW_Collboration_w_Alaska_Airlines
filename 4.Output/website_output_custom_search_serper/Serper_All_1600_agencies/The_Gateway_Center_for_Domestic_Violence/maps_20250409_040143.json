@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "The Gateway Center for Domestic Violence",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5232634,-122.5567655,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Gateway Center",
+            "address": "10305 E Burnside St, Portland, OR 97216",
+            "latitude": 45.5232634,
+            "longitude": -122.5567655,
+            "rating": 2.6,
+            "ratingCount": 29,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center"
+            ],
+            "website": "http://www.portlandoregon.gov/gatewaycenter/",
+            "phoneNumber": "(503) 988-6400",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fHuLjuHrWQuAMvYR_Tozcw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=23.020607&pitch=0&thumbfov=100",
+            "cid": "16061173039057023825",
+            "fid": "0x5495a19fd21a68f9:0xdee4bfc885133351",
+            "placeId": "ChIJ-Wga0p-hlVQRUTMThci_5N4"
+        }
+    ],
+    "credits": 3
+}

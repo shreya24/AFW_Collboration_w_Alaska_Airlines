@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Alaska Oncology and Hematology, LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2112943,-149.8270757,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Oncology and Hematology, LLC",
+            "address": "2925 DeBarr Rd Building D, Suite 300, Anchorage, AK 99508",
+            "latitude": 61.2112943,
+            "longitude": -149.8270757,
+            "rating": 3.9,
+            "ratingCount": 26,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical laboratory"
+            ],
+            "website": "http://alaskaoncology.com/",
+            "phoneNumber": "(907) 279-3155",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNYnTm8VT8yaJExk8szQ8RGlZnX6tePK14BhHg",
+            "cid": "2638272908152364673",
+            "fid": "0x56c89645b6b36cfd:0x249d073b56f55e81",
+            "placeId": "ChIJ_WyztkWWyFYRgV71VjsHnSQ"
+        }
+    ],
+    "credits": 3
+}

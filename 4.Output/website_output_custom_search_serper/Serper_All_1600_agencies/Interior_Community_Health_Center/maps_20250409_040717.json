@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "Interior Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8264129,-147.7425794,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Interior Community Health Center",
+            "address": "1606 23rd Ave, Fairbanks, AK 99701",
+            "latitude": 64.8264129,
+            "longitude": -147.74257939999998,
+            "rating": 4.4,
+            "ratingCount": 200,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Counselor",
+                "Dental clinic",
+                "Doctor",
+                "Non-profit organization",
+                "Nurse practitioner",
+                "Physician assistant"
+            ],
+            "website": "https://www.interiorcommunityhealth.org/?utm_source=gmb_auth",
+            "phoneNumber": "(907) 455-4567",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.interiorcommunityhealth.org/contactus"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsZVAewSsQgJUWkxhauh18N6znIVoV1mKkboF0",
+            "cid": "10309353068831120082",
+            "fid": "0x51325ab732fbbf23:0x8f122dfeabc31ad2",
+            "placeId": "ChIJI7_7MrdaMlER0hrDq_4tEo8"
+        }
+    ],
+    "credits": 3
+}

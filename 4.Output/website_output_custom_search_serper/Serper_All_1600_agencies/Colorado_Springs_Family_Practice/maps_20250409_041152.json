@@ -1,0 +1,634 @@
+{
+    "searchParameters": {
+        "q": "Colorado Springs Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8825161,-104.7713113,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MedNOW Clinics - Colorado Springs",
+            "address": "2960 N Circle Dr # 200, Colorado Springs, CO 80909",
+            "latitude": 38.8719847,
+            "longitude": -104.79216059999999,
+            "rating": 4.2,
+            "ratingCount": 460,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://mednowclinics.com/",
+            "phoneNumber": "(719) 634-8891",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u201312\u202fPM",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/mednow-clinics-75796?LocIdent=273249&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_hSVtMGdNw0irwQ88KuAA5R-lo_ZgN9nRT3TEmaKjxQDmSaax-entity&rwg_token=AAiGsoY_hSbiGFTHhC6VoG53B9KynPsOmMC1D5aI1yyHPTQWPn_FoWOdmWezkvowXmw-dMpHWKBlGg6sUhkz_i69Qmqb3H8MRA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvoXeQAyVVrU2tALi-tDeiaVXUNYi3rxrS_H3F",
+            "cid": "5590666180143298113",
+            "fid": "0x87134f7ddc9bb183:0x4d9609452d3b3641",
+            "placeId": "ChIJg7Gb3H1PE4cRQTY7LUUJlk0"
+        },
+        {
+            "position": 2,
+            "title": "The Family Practice",
+            "address": "6005 Delmonico Dr #150, Colorado Springs, CO 80919",
+            "latitude": 38.9188226,
+            "longitude": -104.82321189999999,
+            "rating": 4.1,
+            "ratingCount": 87,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner"
+            ],
+            "website": "https://www.thefamilypractice.org/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb",
+            "phoneNumber": "(719) 266-5244",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://thefamilypractice.org/schedule-appointment/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMaXC3BI6BACDbPD6df5aBkBLMqDvrZ4rmq9nRQ",
+            "cid": "9244141325264070241",
+            "fid": "0x87134e3869ebc74b:0x8049c98ec9dfa661",
+            "placeId": "ChIJS8fraThOE4cRYabfyY7JSYA"
+        },
+        {
+            "position": 3,
+            "title": "Front Range Family Medicine",
+            "address": "3260 E Woodmen Rd #120, Colorado Springs, CO 80920",
+            "latitude": 38.9363637,
+            "longitude": -104.7647047,
+            "rating": 4.7,
+            "ratingCount": 260,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician"
+            ],
+            "website": "https://frontrangefamilymedicine.com/",
+            "phoneNumber": "(719) 262-0852",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3qNeCeDvP9o-da5UxxKbs-i-URoDaahcAn5JF",
+            "cid": "15355033859992065920",
+            "fid": "0x87134eb822cf7c9d:0xd51809f0f2ec1780",
+            "placeId": "ChIJnXzPIrhOE4cRgBfs8vAJGNU"
+        },
+        {
+            "position": 4,
+            "title": "Pine Ridge Family Medicine",
+            "address": "9362 Grand Cordera Pkwy #210, Colorado Springs, CO 80924",
+            "latitude": 38.9672115,
+            "longitude": -104.7378099,
+            "rating": 5,
+            "ratingCount": 95,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Urgent care center"
+            ],
+            "website": "http://www.pineridgefamilymedicine.com/",
+            "phoneNumber": "(719) 550-5180",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.online-chat.io/pineridgefamilymedicine"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNYpEoFSHWiqWQl2iYZTPx8rxh_3j-ZBR1-OQ3P",
+            "cid": "13533872097886471513",
+            "fid": "0x87134ebd54c1c293:0xbbd1f8f7ae180559",
+            "placeId": "ChIJk8LBVL1OE4cRWQUYrvf40bs"
+        },
+        {
+            "position": 5,
+            "title": "Strode Family Practice",
+            "address": "6615 Delmonico Dr #101, Colorado Springs, CO 80919",
+            "latitude": 38.927520799999996,
+            "longitude": -104.8297546,
+            "rating": 3.1,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.uchealth.org/provider/lloyd-l-strode-do-family-medicine/",
+            "phoneNumber": "(719) 590-9494",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RINJbSvA6vxnEScYBS2nNw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.28004&pitch=0&thumbfov=100",
+            "cid": "11345960091560345819",
+            "fid": "0x87134e163ed542dd:0x9d74f296fd3680db",
+            "placeId": "ChIJ3ULVPhZOE4cR24A2_ZbydJ0"
+        },
+        {
+            "position": 6,
+            "title": "Family Practice: Heiberger James MD",
+            "address": "3604 Galley Rd Suite 201, Colorado Springs, CO 80909",
+            "latitude": 38.8474692,
+            "longitude": -104.76162579999999,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.qualitymedicalcos.com/",
+            "phoneNumber": "(719) 638-4548",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=chY8FPZo4rWN_d7LhRcIoQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.9607959&pitch=0&thumbfov=100",
+            "cid": "8181329238223291760",
+            "fid": "0x871345ddd4d9676f:0x7189eb987ad10570",
+            "placeId": "ChIJb2fZ1N1FE4cRcAXRepjriXE"
+        },
+        {
+            "position": 7,
+            "title": "Peak Family Practice",
+            "address": "1304 N Academy Blvd #201, Colorado Springs, CO 80909",
+            "latitude": 38.851363,
+            "longitude": -104.757882,
+            "rating": 4,
+            "ratingCount": 169,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Psychiatrist"
+            ],
+            "website": "http://www.peakfamilypractice.com/",
+            "phoneNumber": "(719) 465-2388",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-Z_Vi0EDvag_cJfDx0Kj7slAek34OVYHKle4n",
+            "cid": "4260875077869729190",
+            "fid": "0x871345de80177d53:0x3b21ab4ee8bd75a6",
+            "placeId": "ChIJU30XgN5FE4cRpnW96E6rITs"
+        },
+        {
+            "position": 8,
+            "title": "Meagan Jones, DO - Family Medicine",
+            "address": "2864 S Circle Dr Suite 450, Colorado Springs, CO 80906",
+            "latitude": 38.7978206,
+            "longitude": -104.7935768,
+            "rating": 4.7,
+            "ratingCount": 91,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/meagan-jones-do?utm_source=yext&utm_medium=organic&utm_campaign=provider&term=1508027608&utm_content=providers_landing_page",
+            "phoneNumber": "(719) 776-8850",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j2RMmBGEwIxBn_XSCJyf3g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=284.13504&pitch=0&thumbfov=100",
+            "cid": "15925107017902089438",
+            "fid": "0x87134f7eaff4040b:0xdd0158753c2264de",
+            "placeId": "ChIJCwT0r35PE4cR3mQiPHVYAd0"
+        },
+        {
+            "position": 9,
+            "title": "All In Family Medicine",
+            "address": "7610 N Union Blvd #140, Colorado Springs, CO 80920",
+            "latitude": 38.9433018,
+            "longitude": -104.775266,
+            "rating": 4.3,
+            "ratingCount": 25,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Mental health clinic",
+                "Nurse practitioner"
+            ],
+            "website": "https://allinfamilymed.com/",
+            "phoneNumber": "(719) 550-1172",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://allinfamilymed.com/appointments.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlDge32RIHFscW-zQAurHKkSIGuCIkp_sBzFbI",
+            "cid": "4601066297286783171",
+            "fid": "0x87134f7f31e33fa9:0x3fda456b7dccf0c3",
+            "placeId": "ChIJqT_jMX9PE4cRw_DMfWtF2j8"
+        },
+        {
+            "position": 10,
+            "title": "UCHealth Primary Care - Grandview",
+            "address": "Grandview Medical Center, 5818 N Nevada Ave Suite 200, Colorado Springs, CO 80918",
+            "latitude": 38.9134393,
+            "longitude": -104.81682509999999,
+            "rating": 4.6,
+            "ratingCount": 272,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-primary-care-grandview/",
+            "phoneNumber": "(719) 599-0444",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBMDpUjNADwVPvV1LUL_hnNuSZtzliwRwcGA5-",
+            "cid": "7466160258438778595",
+            "fid": "0x8713495f33d87527:0x679d21329861cee3",
+            "placeId": "ChIJJ3XYM19JE4cR485hmDIhnWc"
+        },
+        {
+            "position": 11,
+            "title": "Robert Vogt, MD",
+            "address": "6005 Delmonico Dr #150, Colorado Springs, CO 80919",
+            "latitude": 38.918656399999996,
+            "longitude": -104.82311779999999,
+            "rating": 4.6,
+            "ratingCount": 50,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://thefamilypractice.org/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb",
+            "phoneNumber": "(719) 266-5244",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://thefamilypractice.org/schedule-appointment/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrlQpSAoR9lJq1P64WWyIe_Ldml1twWmYBzDPb",
+            "cid": "3472399323531234612",
+            "fid": "0x87134ee54b7fef41:0x303070c98562cd34",
+            "placeId": "ChIJQe9_S-VOE4cRNM1ihclwMDA"
+        },
+        {
+            "position": 12,
+            "title": "CommonSpirit Primary Care Powers",
+            "address": "6080 N Carefree Cir, Colorado Springs, CO 80922",
+            "latitude": 38.8862873,
+            "longitude": -104.7139169,
+            "rating": 4.8,
+            "ratingCount": 396,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Geriatrician",
+                "Internist",
+                "Pediatrician",
+                "Surgeon"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-primary-care-powers",
+            "phoneNumber": "(719) 571-1088",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM48QNShcbZzX7bbxM9CuiwOl3NAhkXSu8_I7gR",
+            "cid": "3331996731734780276",
+            "fid": "0x87134884107b9a95:0x2e3da15fb3d06974",
+            "placeId": "ChIJlZp7EIRIE4cRdGnQs1-hPS4"
+        },
+        {
+            "position": 13,
+            "title": "Dr. C. David Bird, MD",
+            "address": "2960 N Circle Dr #125, Colorado Springs, CO 80909",
+            "latitude": 38.8719773,
+            "longitude": -104.7921968,
+            "rating": 4.6,
+            "ratingCount": 33,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Medical office"
+            ],
+            "website": "https://www.mdvip.com/doctors/davidbirdmd?utm_campaign=listing&st-t=rep_&utm_source=google&utm_medium=organic",
+            "phoneNumber": "(719) 428-2065",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmCO6XwjQulq-FM6gAazSgk7q4P5ru9D5uDtgm",
+            "cid": "17719648423060701653",
+            "fid": "0x87134f7dcfe66393:0xf5e8d65ba95801d5",
+            "placeId": "ChIJk2Pmz31PE4cR1QFYqVvW6PU"
+        },
+        {
+            "position": 14,
+            "title": "CommonSpirit Primary Care St. Francis Hospital",
+            "address": "7435 Sisters Grove Ste 400, Colorado Springs, CO 80923",
+            "latitude": 38.9389287,
+            "longitude": -104.7128681,
+            "rating": 4.9,
+            "ratingCount": 363,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Geriatrician",
+                "Internist",
+                "Pediatrician",
+                "Surgeon"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-primary-care-st-francis-hospital",
+            "phoneNumber": "(719) 571-8030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAfvifx-uhOMFe71WTls1nCeqj8KZts7X0nhaV",
+            "cid": "3081606828009963441",
+            "fid": "0x871349c13ba5f0a1:0x2ac4111540f3bfb1",
+            "placeId": "ChIJofClO8FJE4cRsb_zQBURxCo"
+        },
+        {
+            "position": 15,
+            "title": "Summit Primary Care - Colorado Springs",
+            "address": "75 Printers Pkwy # 200, Colorado Springs, CO 80910",
+            "latitude": 38.8315087,
+            "longitude": -104.7877504,
+            "rating": 4.4,
+            "ratingCount": 335,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Internist",
+                "Physician assistant"
+            ],
+            "website": "https://www.summitprimary.com/?utm_source=gmb_auth",
+            "phoneNumber": "(719) 300-8433",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.summitprimary.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.zocdoc.com/practice/summit-primary-care-64814?LocIdent=142603&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_0vOEutI7REa5LW_N49Ed4B-lo_q6YJyk2eSUqcJVh_UELUCh-entity&rwg_token=AAiGsobyPVcH8vwu7aqwcINQcPavCfPIMwTNjAbl9O1H-qwoXLPa0fV_k19zBUWLKNTBRgrFjTE0mEUkm-J345-d3QAjYXv4UB7nagW7dfytyxlGjAzUMkI%3D",
+                "https://www.tebra.com/care/practice/summit-primary-care-126740?lid=1655695437&rwg_token=AAiGsoZrJtf-hQtXw_tS3eKf9Cf4K5En4uAxBm95SHzICLTi4MV1F25aKp65eyFAI1aDEnA-jTgSdt_0HHgb0vfgE3TPccfRNHvopiuuN9vSNNqpltI8-aw%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKv435Eeqtq_68d7gcYOSGLNzNpQZ-NMUsrM7-",
+            "cid": "12268053182414296707",
+            "fid": "0x87134505f70dcdeb:0xaa40e15ed7679683",
+            "placeId": "ChIJ680N9wVFE4cRg5Zn117hQKo"
+        },
+        {
+            "position": 16,
+            "title": "Center Pointe Family Medicine",
+            "address": "5410 Powers Center Point, Colorado Springs, CO 80920",
+            "latitude": 38.9538137,
+            "longitude": -104.72753329999999,
+            "rating": 3.5,
+            "ratingCount": 98,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "Laboratory",
+                "Nurse practitioner",
+                "Physician assistant"
+            ],
+            "website": "http://www.cpfamilymedicine.com/",
+            "phoneNumber": "(719) 282-6100",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPd5jgzf-HrVGzTuONm1YvKlA93EeGL52BN8XOJ",
+            "cid": "266567493471063838",
+            "fid": "0x871349676a148179:0x3b309b915024f1e",
+            "placeId": "ChIJeYEUamdJE4cRHk8CFbkJswM"
+        },
+        {
+            "position": 17,
+            "title": "UCHealth Primary Care - Falcon TEMPORARY RELOCATION to Eastview Medical Center in Colorado Springs",
+            "address": "3843 Rio Vista Dr Suite 2400, Colorado Springs, CO 80917",
+            "latitude": 38.888661899999995,
+            "longitude": -104.7214769,
+            "rating": 4.6,
+            "ratingCount": 36,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-primary-care-falcon/",
+            "phoneNumber": "(719) 364-9555",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAMSccq2NoLk77s2VR7IlXWOiLsLYwSCmo3C-O",
+            "cid": "14124064835381347720",
+            "fid": "0x871336ff2f724d43:0xc402c222a17dc588",
+            "placeId": "ChIJQ01yL_82E4cRiMV9oSLCAsQ"
+        },
+        {
+            "position": 18,
+            "title": "Sunflower Family Medicine",
+            "address": "320 E Fontanero St Suite 100, Colorado Springs, CO 80907",
+            "latitude": 38.8605915,
+            "longitude": -104.8171134,
+            "rating": 3.3,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-primary-care-clinic-fontanero/",
+            "phoneNumber": "(719) 365-7420",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T2yjHRzZmvQTjnUI_Hu9Jw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=357.6156&pitch=0&thumbfov=100",
+            "cid": "11093507852605124026",
+            "fid": "0x87134565c5bf2edf:0x99f40e9db388edba",
+            "placeId": "ChIJ3y6_xWVFE4cRuu2Is50O9Jk"
+        },
+        {
+            "position": 19,
+            "title": "UCHealth Primary Care - Briargate",
+            "address": "8890 N Union Blvd #170, Colorado Springs, CO 80920",
+            "latitude": 38.9607161,
+            "longitude": -104.7657492,
+            "rating": 4.5,
+            "ratingCount": 252,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-primary-care-briargate/",
+            "phoneNumber": "(719) 364-5005",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP44mPOGuWVd_B8EoCRc3aA3rMwtRcXF1bXB5QC",
+            "cid": "8552462639436394417",
+            "fid": "0x87134c1b63632c27:0x76b073752a67efb1",
+            "placeId": "ChIJJyxjYxtME4cRse9nKnVzsHY"
+        },
+        {
+            "position": 20,
+            "title": "Dorothy Saune, DO",
+            "address": "3027 N Circle Dr, Colorado Springs, CO 80909",
+            "latitude": 38.8743988,
+            "longitude": -104.79357379999999,
+            "rating": 4.8,
+            "ratingCount": 64,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/dorothy-saune-do",
+            "phoneNumber": "(719) 776-4646",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWpzL4CWc_nS_DTTT8rCVj8qwcs0Fz4GY0FDAw",
+            "cid": "7603543265304299060",
+            "fid": "0x87134f97633abf07:0x6985365082c6c634",
+            "placeId": "ChIJB786Y5dPE4cRNMbGglA2hWk"
+        }
+    ],
+    "credits": 3
+}

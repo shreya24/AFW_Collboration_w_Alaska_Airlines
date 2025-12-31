@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Fairbanks Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8375347,-147.7181799,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fairbanks Clinic",
+            "address": "1211 Cushman St Suite 200, Fairbanks, AK 99701",
+            "latitude": 64.83753469999999,
+            "longitude": -147.7181799,
+            "rating": 4,
+            "ratingCount": 63,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "http://www.fairbanksclinic.com/",
+            "phoneNumber": "(907) 452-1761",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaAeMGU_v0CombSkuKrCaCwKVp4AGnKC4ahv16",
+            "cid": "5794842624650348314",
+            "fid": "0x51325ab66f9ceaaf:0x506b6aaa2b93871a",
+            "placeId": "ChIJr-qcb7ZaMlERGoeTK6pqa1A"
+        }
+    ],
+    "credits": 3
+}

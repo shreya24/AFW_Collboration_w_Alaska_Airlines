@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Henry Ford Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3673845,-83.0853755,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Henry Ford Hospital",
+            "address": "2799 W Grand Blvd, Detroit, MI 48202",
+            "latitude": 42.3673845,
+            "longitude": -83.0853755,
+            "rating": 3,
+            "ratingCount": 1757,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.henryford.com/locations/henry-ford-hospital?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+            "phoneNumber": "(313) 916-2600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-53DBcV0lkgxUNSfJTl65VxWExTBfma8BZA-xRSrHSeUUQBFCNJuBwaGN7mLaKVTgvgWSeIFZItXrpC4-0xZE3o966OP8IOEvhxYi9467_uTTIN6w0u4F4ttnQvFwoZ3sdLCpsGg",
+            "cid": "4032422404976451189",
+            "fid": "0x8824cd6407b3a5f9:0x37f60ad008f29e75",
+            "placeId": "ChIJ-aWzB2TNJIgRdZ7yCNAK9jc"
+        }
+    ],
+    "credits": 3
+}

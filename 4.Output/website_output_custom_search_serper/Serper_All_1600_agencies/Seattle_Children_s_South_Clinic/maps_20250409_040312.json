@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Seattle Children's South Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2887826,-122.3118505,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Children's South Clinic in Federal Way",
+            "address": "34920 Enchanted Pkwy S, Federal Way, WA 98003",
+            "latitude": 47.2887826,
+            "longitude": -122.31185049999999,
+            "rating": 3.8,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthopedic surgeon",
+                "Pediatric cardiologist",
+                "Pediatric dermatologist",
+                "Pediatric gastroenterologist",
+                "Pediatric neurologist",
+                "Pediatric urologist",
+                "Psychiatrist",
+                "Radiologist",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/south-clinic/",
+            "phoneNumber": "(253) 838-5878",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/mychart/OpenScheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQOHEkownfni9K3mXhmIDwDeG1D_D2mh3UMd5y",
+            "cid": "8207355000312286706",
+            "fid": "0x549057b7165e2a49:0x71e661e36b23cdf2",
+            "placeId": "ChIJSSpeFrdXkFQR8s0ja-Nh5nE"
+        }
+    ],
+    "credits": 3
+}

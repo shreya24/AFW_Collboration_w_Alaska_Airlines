@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Petersburg Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.4539741,-104.653188,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "LG Health Physicians Family Medicine East Petersburg",
+            "address": "5665 Main St, East Petersburg, PA 17520",
+            "latitude": 40.0950791,
+            "longitude": -76.35091419999999,
+            "rating": 3.8,
+            "ratingCount": 38,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.lancastergeneralhealth.org/providers/practice/family-medicine-east-petersburg?fadf=lgh&y_source=1_ODM2OTc3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(717) 569-7011",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.lancastergeneralhealth.org/schedule-an-appointment/primary-care/family-medicine/family-medicine-practice-locations/east-petersburg?y_source=1_ODM2OTc3OC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODarbODdasrd5Ry7BUnpbs1Shd4B2B-IcUjhzd",
+            "cid": "10076058425928250934",
+            "fid": "0x89c623c526e8104d:0x8bd559c0cd88f636",
+            "placeId": "ChIJTRDoJsUjxokRNvaIzcBZ1Ys"
+        },
+        {
+            "position": 2,
+            "title": "Petersburg Medical Center",
+            "address": "103 Fram St, Petersburg, AK 99833",
+            "latitude": 56.8128691,
+            "longitude": -132.9554619,
+            "rating": 3.8,
+            "ratingCount": 13,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.pmcak.org/",
+            "phoneNumber": "(907) 772-4291",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP2YyDIM-w_hWaxEi4O5FD3ajAs7bYOmuXXvO7r",
+            "cid": "1130245847903090366",
+            "fid": "0x540603929b77461b:0xfaf709c411fb6be",
+            "placeId": "ChIJG0Z3m5IDBlQRvrYfQZxwrw8"
+        }
+    ],
+    "credits": 3
+}

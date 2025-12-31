@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Cascade Valley Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1889809,-122.1182793,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cascade Valley Hospital",
+            "address": "330 S Stillaguamish Ave, Arlington, WA 98223",
+            "latitude": 48.1889809,
+            "longitude": -122.1182793,
+            "rating": 2.9,
+            "ratingCount": 319,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Diagnostic center",
+                "Emergency care service",
+                "Emergency room",
+                "Surgical center"
+            ],
+            "website": "https://www.skagitregionalhealth.org/location-details/cascade-valley-hospital",
+            "phoneNumber": "(360) 435-2133",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_qVkTr3pWClfNesYilcdmKVqtn-I9yFu5E4_8mGBMo_XbQAuzA2t0jb-qpr3Ys0IUsS780ZwF2aLMMyLkSYQzTkdYbNQrAoyJm_7BZ723QrOmpXLmBAvSOv1uE-Swi9Xk76nPxtQ",
+            "cid": "7829509590082449878",
+            "fid": "0x54854f98c0c429cf:0x6ca8017d5a60f1d6",
+            "placeId": "ChIJzynEwJhPhVQR1vFgWn0BqGw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "IMS Practice Management Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7469905,-115.0058733,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "IMS - Palm Valley Medical Office Building",
+            "address": "13555 W McDowell Rd # 101, Goodyear, AZ 85395",
+            "latitude": 33.4638753,
+            "longitude": -112.3508774,
+            "rating": 2.4,
+            "ratingCount": 50,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://www.imsaz.com/multi-specialty-centers/goodyear",
+            "phoneNumber": "(623) 935-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOP7_ENjpaEsjUUaLuGtn5O1caKRKME_DZ-B1PV",
+            "cid": "11906646162139461816",
+            "fid": "0x872b38bb79b8c3e5:0xa53ce799b09738b8",
+            "placeId": "ChIJ5cO4ebs4K4cRuDiXsJnnPKU"
+        },
+        {
+            "position": 2,
+            "title": "Integrated Medical Services - Family Medicine",
+            "address": "3815 E Bell Rd #2300, Phoenix, AZ 85032",
+            "latitude": 33.6385536,
+            "longitude": -111.9989057,
+            "rating": 2.9,
+            "ratingCount": 61,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.imsaz.com/?utm_source=GMBSocialClimb&utm_medium=IntegratedMedicalServices-FamilyMedicine",
+            "phoneNumber": "(602) 942-3750",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/integrated-medical-services-83096?LocIdent=202799&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_zynKIydTDUS9psjejxEifh-lo_WG-LFpYtz0O3ozoKCnPenx-entity&rwg_token=AAiGsob8zbUUs--sTbiOoHkvWXIyJra9haaRpciadBJ2ZWpfwJV0E38GOKUGvQOoAKSUXtwgxttEIg-XlqmCtN0Q8ts9_Y0FBg%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOYVsZUdNIc3T8DNp1b8cZ4bJfuw6gnPxsiHJG",
+            "cid": "9085343474781885381",
+            "fid": "0x872b719d632728ff:0x7e159fc10cc993c5",
+            "placeId": "ChIJ_ygnY51xK4cRxZPJDMGfFX4"
+        },
+        {
+            "position": 3,
+            "title": "Innovative Management Systems",
+            "address": "13200 Crossroads Pkwy N #315, City of Industry, CA 91746",
+            "latitude": 34.0301056,
+            "longitude": -118.012841,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Health consultant",
+            "types": [
+                "Health consultant"
+            ],
+            "website": "http://www.imsmso.com/",
+            "phoneNumber": "(323) 800-8283",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nAVUECWf26CArODvcYv5WA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=319.6083&pitch=0&thumbfov=100",
+            "cid": "3991737181257853065",
+            "fid": "0x80c2ce44d36aaaab:0x37657fd13597e889",
+            "placeId": "ChIJq6pq00TOwoARieiXNdF_ZTc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "University of Nevada Reno",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5485651,-119.8156924,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Nevada, Reno",
+            "address": "1664 N Virginia St, Reno, NV 89557",
+            "latitude": 39.5485651,
+            "longitude": -119.81569239999999,
+            "rating": 4.4,
+            "ratingCount": 434,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "https://www.unr.edu/?utm_source=google&utm_medium=organic&utm_campaign=knowledge-panel",
+            "phoneNumber": "(775) 784-1110",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8AhFPkpxTz1jB0OLT-LAn0T--Cyp9seMPvr-3CjP-KgjWmM44c5zp7XANk7Mlst7omHJh5UOqecyR2xAQfZpwin_F7Ahro3dqYfRw4r7p3mHAxW8Q7DhR1ls7wJhSgwCvfThs",
+            "cid": "16394618361528374808",
+            "fid": "0x809946d7874bd11f:0xe385628992fed618",
+            "placeId": "ChIJH9FLh9dGmYARGNb-koliheM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Central Arizona Shelter Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4448876,-112.0888167,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Arizona Shelter Services (CASS)",
+            "address": "230 S 12th Ave, Phoenix, AZ 85007",
+            "latitude": 33.4448876,
+            "longitude": -112.0888167,
+            "rating": 3.2,
+            "ratingCount": 775,
+            "type": "Homeless service",
+            "types": [
+                "Homeless service",
+                "Homeless shelter"
+            ],
+            "website": "http://www.cassaz.org/",
+            "phoneNumber": "(602) 256-6945",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1PKlbOjl8GTKWT42y3whqkjmOJdaVtfB4k3uy",
+            "cid": "857994429553740431",
+            "fid": "0x872b123d7aec3777:0xbe8356348d08a8f",
+            "placeId": "ChIJdzfsej0SK4cRj4rQSGM16As"
+        }
+    ],
+    "credits": 3
+}

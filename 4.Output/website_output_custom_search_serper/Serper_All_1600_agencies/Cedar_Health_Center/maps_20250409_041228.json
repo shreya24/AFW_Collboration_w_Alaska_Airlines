@@ -1,0 +1,456 @@
+{
+    "searchParameters": {
+        "q": "Cedar Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.7327514,-88.8917175,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cedar Centre Psychiatric Group",
+            "address": "1730 1st Ave NE, Cedar Rapids, IA 52402",
+            "latitude": 41.9911373,
+            "longitude": -91.6476629,
+            "rating": 3.1,
+            "ratingCount": 58,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Counselor",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "http://www.cedarcentrepsych.com/",
+            "phoneNumber": "(319) 365-3993",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfSmGjn86RmF4j2DRFo2QpIiuQ0DjlJZt8H2_w",
+            "cid": "1208396871385013202",
+            "fid": "0x87e4f0cdee86c065:0x10c5168d5a98dbd2",
+            "placeId": "ChIJZcCG7s3w5IcR0tuYWo0WxRA"
+        },
+        {
+            "position": 2,
+            "title": "Cedar Ridge Health Center",
+            "address": "2700 S Wisconsin Ave, Rice Lake, WI 54868",
+            "latitude": 45.4743656,
+            "longitude": -91.7510756,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(715) 403-5880",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qm54-3iYoKd-gdt-VvMowQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=33.410507&pitch=0&thumbfov=100",
+            "cid": "359907712796301258",
+            "fid": "0x52acfbd97e884081:0x4fea6286d2597ca",
+            "placeId": "ChIJgUCIftn7rFIRypclbSim_gQ"
+        },
+        {
+            "position": 3,
+            "title": "Mayo Clinic Health System - Red Cedar in Menomonie",
+            "address": "2321 Stout Rd, Menomonie, WI 54751",
+            "latitude": 44.8830938,
+            "longitude": -91.90120879999999,
+            "rating": 2.8,
+            "ratingCount": 129,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General practitioner",
+                "Medical clinic"
+            ],
+            "website": "https://www.mayoclinichealthsystem.org/locations/menomonie?mc_id=&utm_source=yext&utm_medium=l&utm_content=menomoniemedicalcentergeneral&utm_campaign=mchsmarketing&geo=menomonie&placementsite=nwwi&invsrc=mchsnwwi&cauid=110699&y_source=1_MzkxODA4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(715) 235-5531",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpAkOvNX3M1dN271EMcSk99c1itMbRE84rdPkU",
+            "cid": "6253649527563317692",
+            "fid": "0x87f87c7072670ed7:0x56c96d1cb03371bc",
+            "placeId": "ChIJ1w5ncnB8-IcRvHEzsBxtyVY"
+        },
+        {
+            "position": 4,
+            "title": "Cedar Mills Medical Group",
+            "address": "N143W6515 Pioneer Rd, Cedarburg, WI 53012",
+            "latitude": 43.278593799999996,
+            "longitude": -87.9915566,
+            "rating": 1.8,
+            "ratingCount": 15,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://healthcare.ascension.org/locations/wisconsin/wimil/cedarburg-ascension-columbia-st-marys-ozaukee-at-cedar-mills",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WXWGCGANtkG2IDxm0cZ0KQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=183.7393&pitch=0&thumbfov=100",
+            "cid": "9283738002104609866",
+            "fid": "0x8804e518b06a8bdb:0x80d676868b3d6c4a",
+            "placeId": "ChIJ24tqsBjlBIgRSmw9i4Z21oA"
+        },
+        {
+            "position": 5,
+            "title": "Women's Health Clinic",
+            "address": "5303 S Cedar St, Lansing, MI 48911",
+            "latitude": 42.6809815,
+            "longitude": -84.5450061,
+            "rating": 2.7,
+            "ratingCount": 7,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Doula",
+                "Family planning center",
+                "Obstetrician-gynecologist",
+                "Mental health clinic",
+                "Pregnancy care center"
+            ],
+            "website": "http://ingham.org/CHC",
+            "phoneNumber": "(517) 887-4320",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v28zC7DKPToayuDGjDbghQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=288.54617&pitch=0&thumbfov=100",
+            "cid": "7022413222207714617",
+            "fid": "0x8822c1136501e557:0x61749f9e87b27539",
+            "placeId": "ChIJV-UBZRPBIogROXWyh56fdGE"
+        },
+        {
+            "position": 6,
+            "title": "Cedarburg Medical Clinic",
+            "address": "15430 W Capitol Dr # 300, Brookfield, WI 53005",
+            "latitude": 43.0904409,
+            "longitude": -88.10338089999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://lilyhealthcare.org/lily-medical-group/",
+            "phoneNumber": "(262) 421-5133",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnVn6gYMQnp-XFkGSc5bcJBfyQ_YivwCYOXq6L",
+            "cid": "13626420837513757815",
+            "fid": "0x8804e5174c6d99d7:0xbd1ac58e4bfd0477",
+            "placeId": "ChIJ15ltTBflBIgRdwT9S47FGr0"
+        },
+        {
+            "position": 7,
+            "title": "Cedar Creek Nutrition",
+            "address": "10101 Market St, Rothschild, WI 54474",
+            "latitude": 44.8657502,
+            "longitude": -89.6339912,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Fitness center",
+            "types": [
+                "Fitness center"
+            ],
+            "phoneNumber": "(715) 298-4001",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LZVfZGjuhsCEtIuDGwlT2A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=351.35678&pitch=0&thumbfov=100",
+            "cid": "6008864169201280364",
+            "fid": "0x8800235ff72f27f5:0x5363c62024d0a56c",
+            "placeId": "ChIJ9Scv918jAIgRbKXQJCDGY1M"
+        },
+        {
+            "position": 8,
+            "title": "Cedar Creek Dental WI, SC 1851 County Rd XX",
+            "address": "1851 County Rd XX, Kronenwetter, WI 54455",
+            "latitude": 44.857802799999995,
+            "longitude": -89.621314,
+            "rating": 4.9,
+            "ratingCount": 297,
+            "type": "Cosmetic dentist",
+            "types": [
+                "Cosmetic dentist"
+            ],
+            "website": "https://www.cedarcreekdentalwi.com/",
+            "phoneNumber": "(715) 359-0550",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMVG3QpOb7QEig5aw_L_gM8i1xsBhw21U2ez4od",
+            "cid": "18287572422306538182",
+            "fid": "0x880024a8c3e7e567:0xfdca8239f3cfa2c6",
+            "placeId": "ChIJZ-Xnw6gkAIgRxqLP8zmCyv0"
+        },
+        {
+            "position": 9,
+            "title": "M Health Fairview University of Minnesota Medical Center - West Bank",
+            "address": "2450 Riverside Ave, Minneapolis, MN 55454",
+            "latitude": 44.9676684,
+            "longitude": -93.2384289,
+            "rating": 3.1,
+            "ratingCount": 161,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-University-of-Minnesota-Medical-Center---West-Bank-east",
+            "phoneNumber": "(612) 273-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcY4Rqg8SUNFIfaNC6LCNyFWR5uKqcdgCB3fHE",
+            "cid": "4950063888007043985",
+            "fid": "0x52b32d3921c6fe01:0x44b228e12c261b91",
+            "placeId": "ChIJAf7GITkts1IRkRsmLOEoskQ"
+        },
+        {
+            "position": 10,
+            "title": "Aurora Health Center",
+            "address": "313 S Main St, Cedar Grove, WI 53013",
+            "latitude": 43.5682958,
+            "longitude": -87.820567,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://care.aurorahealthcare.org/locations/aurora-health-center-cedar-grove",
+            "phoneNumber": "(920) 668-8502",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAdoCisL8KGVwpLsFFpJDHg2sxZBLAFaOn_AI3",
+            "cid": "3006011248911145686",
+            "fid": "0x8804bd6582edc2c7:0x29b77f4dea2d5ad6",
+            "placeId": "ChIJx8LtgmW9BIgR1lot6k1_tyk"
+        },
+        {
+            "position": 11,
+            "title": "Red Cedar Medical Center: Witgert John C MD",
+            "address": "2321 Stout Rd, Menomonie, WI 54751",
+            "latitude": 44.883233,
+            "longitude": -91.90087299999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://mayoclinichealthsystem.org/",
+            "phoneNumber": "(715) 235-5531",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7cqKy_l2iLsB8VrmXOv7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=28.229698&pitch=0&thumbfov=100",
+            "cid": "9047276773811822505",
+            "fid": "0x87f87c7072670ed7:0x7d8e624a8fb21fa9",
+            "placeId": "ChIJ1w5ncnB8-IcRqR-yj0pijn0"
+        },
+        {
+            "position": 12,
+            "title": "Well Child Health Center",
+            "address": "5303 S Cedar St, Lansing, MI 48911",
+            "latitude": 42.6809815,
+            "longitude": -84.5450061,
+            "rating": 1.3,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.ingham.org/",
+            "phoneNumber": "(517) 267-3400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v28zC7DKPToayuDGjDbghQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=288.54617&pitch=0&thumbfov=100",
+            "cid": "6229517806428136436",
+            "fid": "0x8822c195aaaaaaab:0x5673b170861ea3f4",
+            "placeId": "ChIJq6qqqpXBIogR9KMehnCxc1Y"
+        },
+        {
+            "position": 13,
+            "title": "Froedtert Jackson Health Center",
+            "address": "W225 N16711, Cedar Park Ct, Jackson, WI 53037",
+            "latitude": 43.322852499999996,
+            "longitude": -88.1901426,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.froedtert.com/locations/health-center/jackson-health-center",
+            "phoneNumber": "(262) 677-1101",
+            "openingHours": {
+                "Tuesday": "7:45\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20136\u202fPM",
+                "Thursday": "7:45\u202fAM\u20136\u202fPM",
+                "Friday": "7:45\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.froedtert.com/appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2IEBrVCukm3Rh7_SphFUAb2MDJDRvnI7kFbek",
+            "cid": "4922839314804599593",
+            "fid": "0x88045822f51dcb87:0x4451704645416b29",
+            "placeId": "ChIJh8sd9SJYBIgRKWtBRUZwUUQ"
+        },
+        {
+            "position": 14,
+            "title": "Student Health Center",
+            "address": "1600 W 23rd St Building 0221, Cedar Falls, IA 50614",
+            "latitude": 42.516531,
+            "longitude": -92.4632735,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://health.uni.edu/",
+            "phoneNumber": "(319) 273-2009",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SvIIPnr_Hr2BSO5wTajz2g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=239.98312&pitch=0&thumbfov=100",
+            "cid": "2375714785503905264",
+            "fid": "0x87effff9b05758ed:0x20f83c02a59a85f0",
+            "placeId": "ChIJ7VhXsPn_74cR8IWapQI8-CA"
+        },
+        {
+            "position": 15,
+            "title": "Red Cedar Medical Center: Berglin Laura",
+            "address": "236 Springer Ave, Elmwood, WI 54740",
+            "latitude": 44.7815127,
+            "longitude": -92.144488,
+            "type": "Nursing agency",
+            "types": [
+                "Nursing agency"
+            ],
+            "phoneNumber": "(715) 639-4151",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P-mWkqWtw-7wtvYN5EyMIA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=291.04688&pitch=0&thumbfov=100",
+            "cid": "7663549872014025221",
+            "fid": "0x87f86ccd28f2ca7d:0x6a5a66015fe2e205",
+            "placeId": "ChIJfcryKM1s-IcRBeLiXwFmWmo"
+        },
+        {
+            "position": 16,
+            "title": "Cedar Creek Manor",
+            "address": "2480 Terrebonne Dr, Kronenwetter, WI 54455",
+            "latitude": 44.8571052,
+            "longitude": -89.6236648,
+            "rating": 3.3,
+            "ratingCount": 7,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Adult day care center"
+            ],
+            "website": "https://cedarcreekmanorwi.com/",
+            "phoneNumber": "(715) 355-8246",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=60W_jw6pZg3wt79WcARW2Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.11134&pitch=0&thumbfov=100",
+            "cid": "4817536625450207843",
+            "fid": "0x880024a8536de37f:0x42db54095464ca63",
+            "placeId": "ChIJf-NtU6gkAIgRY8pkVAlU20I"
+        },
+        {
+            "position": 17,
+            "title": "Red Cedar Medical Center: Lockheart Michael S MD",
+            "address": "2321 Stout Rd, Menomonie, WI 54751",
+            "latitude": 44.883233,
+            "longitude": -91.90087299999999,
+            "type": "Allergist",
+            "types": [
+                "Allergist"
+            ],
+            "phoneNumber": "(715) 235-5531",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7cqKy_l2iLsB8VrmXOv7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=28.229698&pitch=0&thumbfov=100",
+            "cid": "13674424717978350314",
+            "fid": "0x87f87c7072670ed7:0xbdc550d4aeebb2ea",
+            "placeId": "ChIJ1w5ncnB8-IcR6rLrrtRQxb0"
+        },
+        {
+            "position": 18,
+            "title": "Red Cedar Medical Center: Zwygart-Stauff Mary C",
+            "address": "2321 Stout Rd, Menomonie, WI 54751",
+            "latitude": 44.883233,
+            "longitude": -91.90087299999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.mayoclinichealthsystem.org/locations/menomonie",
+            "phoneNumber": "(715) 235-5531",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7cqKy_l2iLsB8VrmXOv7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=28.229698&pitch=0&thumbfov=100",
+            "cid": "13038371105806346352",
+            "fid": "0x87f87c7072670e97:0xb4f19970c34de870",
+            "placeId": "ChIJlw5ncnB8-IcRcOhNw3CZ8bQ"
+        }
+    ],
+    "credits": 3
+}

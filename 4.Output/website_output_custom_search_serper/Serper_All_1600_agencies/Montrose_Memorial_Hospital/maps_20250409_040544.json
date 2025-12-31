@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Montrose Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4804616,-107.8684973,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montrose Regional Health",
+            "address": "800 S 3rd St, Montrose, CO 81401",
+            "latitude": 38.4804616,
+            "longitude": -107.8684973,
+            "rating": 4,
+            "ratingCount": 345,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://montrosehealth.com/",
+            "phoneNumber": "(970) 249-2211",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-2suHf6JfOm21yF-RXZMpeZsxThTUZwVkvho5BDyYTrsmVmtY85cKIsgiTTEipzsnazdOXiHPyup493SjYE2DPA3Z4b4ZDuzvRnoKlIcNxxmnG95KozYUYKkcytYQ0Q8gfCmDC",
+            "cid": "378956033229213376",
+            "fid": "0x873f50853f46471f:0x5425281221e4ec0",
+            "placeId": "ChIJH0dGP4VQP4cRwE4eIoFSQgU"
+        }
+    ],
+    "credits": 3
+}

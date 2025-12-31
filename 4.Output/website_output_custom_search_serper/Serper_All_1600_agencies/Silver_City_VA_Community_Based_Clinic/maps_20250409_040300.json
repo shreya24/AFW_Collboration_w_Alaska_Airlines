@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Silver City VA Community Based Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7943801,-108.2628555,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Silver City VA Clinic",
+            "address": "2950 Leslie Rd, Silver City, NM 88061",
+            "latitude": 32.7943801,
+            "longitude": -108.2628555,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/new-mexico-health-care/locations/silver-city-va-clinic/",
+            "phoneNumber": "(575) 538-2921",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rMAOYqDZ1PWr9JyVj0uPGA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=102.565186&pitch=0&thumbfov=100",
+            "cid": "10022726483457920149",
+            "fid": "0x14e4b9e31ef9c047:0x8b17e0a24f68cc95",
+            "placeId": "ChIJR8D5HuO55BQRlcxoT6LgF4s"
+        }
+    ],
+    "credits": 3
+}

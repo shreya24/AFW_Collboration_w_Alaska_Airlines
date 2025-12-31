@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "K.W. Kim M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.5667789,-119.5998246,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "K W Kim, M.D.",
+            "address": "1205 Evergreen St, Selma, CA 93662",
+            "latitude": 36.566778899999996,
+            "longitude": -119.59982459999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(559) 896-2342",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LGXjB960V8welMIYmBJkHQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=171.27618&pitch=0&thumbfov=100",
+            "cid": "11614993052563663977",
+            "fid": "0x8094e554250b4e25:0xa130bea476afec69",
+            "placeId": "ChIJJU4LJVTllIARaeyvdqS-MKE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Billings Clinic - Dialysis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7884853,-108.5070676,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Billings Clinic Dialysis Center",
+            "address": "616 N 25th St, Billings, MT 59101",
+            "latitude": 45.7884853,
+            "longitude": -108.5070676,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.dciinc.org/location/billingsclinicdialysis/",
+            "phoneNumber": "(406) 545-4380",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "6\u202fAM\u20135\u202fPM",
+                "Friday": "6\u202fAM\u20135\u202fPM",
+                "Saturday": "6\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNjdLECX_AfNJy7PvZ7gH6VW7kdTJ4CUuXytrEg",
+            "cid": "4838337050034930372",
+            "fid": "0x53487b3c339976bd:0x432539e992f182c4",
+            "placeId": "ChIJvXaZMzx7SFMRxILxkuk5JUM"
+        }
+    ],
+    "credits": 3
+}

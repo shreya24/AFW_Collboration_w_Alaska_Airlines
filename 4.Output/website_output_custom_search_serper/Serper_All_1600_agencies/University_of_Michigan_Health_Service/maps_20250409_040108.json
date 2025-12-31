@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "University of Michigan Health Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2797614,-83.7366853,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Health Service, University of Michigan",
+            "address": "207 Fletcher St, Ann Arbor, MI 48109",
+            "latitude": 42.2797614,
+            "longitude": -83.73668529999999,
+            "rating": 2.5,
+            "ratingCount": 149,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Family practice physician",
+                "Nutritionist",
+                "Sports medicine physician"
+            ],
+            "website": "https://uhs.umich.edu/",
+            "phoneNumber": "(734) 764-8320",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_8Rmr0gDikDX1TcIB5TB7bfDH3psptEPPHCc6hgonsWw-hqfcnJmJ5pKAhPCs0DKm8GcaEtQNbaTgbi3ZkgWtRwd5L_MANUHp9pxuaCufQnwXCiucC-Byit3JTO_aOgPpJi60",
+            "cid": "17157812235987684197",
+            "fid": "0x883cae41962d4f73:0xee1ccb5298e58b65",
+            "placeId": "ChIJc08tlkGuPIgRZYvlmFLLHO4"
+        }
+    ],
+    "credits": 3
+}

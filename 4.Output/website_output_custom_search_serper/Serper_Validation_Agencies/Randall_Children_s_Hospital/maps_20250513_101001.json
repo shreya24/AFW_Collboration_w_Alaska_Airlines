@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Randall Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5445973,-122.6702698,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Randall Children's Hospital at Legacy Emanuel",
+            "address": "2801 N Gantenbein Ave, Portland, OR 97227",
+            "latitude": 45.5445615,
+            "longitude": -122.6700796,
+            "rating": 4.1,
+            "ratingCount": 296,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency care service",
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Medical group"
+            ],
+            "website": "https://www.legacyhealth.org/children",
+            "phoneNumber": "(503) 276-6500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-v4UOu5VFE92ISbnGvyMC-yXBKpFRbiPOpIfj",
+            "cid": "8251142419154392818",
+            "fid": "0x5495a7444e8dd077:0x7281f25054dad6f2",
+            "placeId": "ChIJd9CNTkSnlVQR8tbaVFDygXI"
+        },
+        {
+            "position": 2,
+            "title": "Randall Children's Hospital at Legacy Emanuel Emergency Room",
+            "address": "2801 N Gantenbein Ave, Portland, OR 97227",
+            "latitude": 45.5446331,
+            "longitude": -122.6704601,
+            "rating": 3.8,
+            "ratingCount": 5,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6rrB_Ur_VOeAsMlHM7vxHg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=122.0502&pitch=0&thumbfov=100",
+            "cid": "794677063412864600",
+            "fid": "0x5495a7441db97fb9:0xb0742942bdfd658",
+            "placeId": "ChIJuX-5HUSnlVQRWNbfK5RCBws"
+        }
+    ],
+    "credits": 3
+}

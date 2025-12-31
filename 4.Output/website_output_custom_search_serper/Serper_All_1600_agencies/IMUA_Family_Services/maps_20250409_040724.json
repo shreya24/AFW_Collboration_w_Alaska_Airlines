@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "IMUA Family Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8857435,-156.4770289,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Imua Family Services",
+            "address": "161 S Wakea Ave, Kahului, HI 96732",
+            "latitude": 20.8857435,
+            "longitude": -156.4770289,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Family service center",
+                "Non-profit organization"
+            ],
+            "website": "http://imuafamily.org/",
+            "phoneNumber": "(808) 244-7467",
+            "openingHours": {
+                "Tuesday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkaVsLya2HS7b-jQLZ3gOLkIM7lpn0Nt0P17pn",
+            "cid": "1335413026373978717",
+            "fid": "0x7954d317c010fe17:0x1288571279734a5d",
+            "placeId": "ChIJF_4QwBfTVHkRXUpzeRJXiBI"
+        }
+    ],
+    "credits": 3
+}

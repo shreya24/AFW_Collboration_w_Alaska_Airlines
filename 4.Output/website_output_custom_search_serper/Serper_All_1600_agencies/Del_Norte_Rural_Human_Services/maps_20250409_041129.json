@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Del Norte Rural Human Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7547721,-124.1926879,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rural Human Services",
+            "address": "286 M St # A, Crescent City, CA 95531",
+            "latitude": 41.7547721,
+            "longitude": -124.1926879,
+            "rating": 4.5,
+            "ratingCount": 31,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://ruralhumanservices.net/",
+            "phoneNumber": "(707) 464-7441",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GGtBJ94yhGfIH7bCA-CTKw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=23.765362&pitch=0&thumbfov=100",
+            "cid": "8734755379147058268",
+            "fid": "0x54d06636ce017cef:0x793815bd15fe2c5c",
+            "placeId": "ChIJ73wBzjZm0FQRXCz-Fb0VOHk"
+        }
+    ],
+    "credits": 3
+}

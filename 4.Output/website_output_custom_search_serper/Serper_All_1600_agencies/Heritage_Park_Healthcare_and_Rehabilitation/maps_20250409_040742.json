@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Heritage Park Healthcare and Rehabilitation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1622861,-112.044336,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Heritage Park Healthcare and Rehabilitation",
+            "address": "2700 W 5600 S, Roy, UT 84067",
+            "latitude": 41.162286099999996,
+            "longitude": -112.044336,
+            "rating": 3.8,
+            "ratingCount": 94,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Physical therapy clinic",
+                "Rehabilitation center"
+            ],
+            "website": "http://www.heritageparkrehab.com/",
+            "phoneNumber": "(801) 825-9731",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20135:30\u202fPM",
+                "Saturday": "9\u202fAM\u20135:30\u202fPM",
+                "Sunday": "9\u202fAM\u20135:30\u202fPM",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuvCvzcQNHWoe7EaqFXt2892F3ifSJWuU2Q-cf",
+            "cid": "9773957536197189125",
+            "fid": "0x87530554f22d755b:0x87a4129832c91e05",
+            "placeId": "ChIJW3Ut8lQFU4cRBR7JMpgSpIc"
+        }
+    ],
+    "credits": 3
+}

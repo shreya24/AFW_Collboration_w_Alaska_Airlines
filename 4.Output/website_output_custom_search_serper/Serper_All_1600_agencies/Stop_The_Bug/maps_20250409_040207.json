@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Stop The Bug",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3100548,-114.7564514,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bug Stop Termite & Pest Control",
+            "address": "2292 W Magee Rd, Tucson, AZ 85742",
+            "latitude": 32.3475108,
+            "longitude": -111.0165608,
+            "rating": 5,
+            "ratingCount": 15,
+            "type": "Pest control service",
+            "types": [
+                "Pest control service"
+            ],
+            "website": "http://www.bugstopllc.com/",
+            "phoneNumber": "(520) 999-0622",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7\u202fAM\u20136:30\u202fPM",
+                "Friday": "7\u202fAM\u20136:30\u202fPM",
+                "Saturday": "7\u202fAM\u20136:30\u202fPM",
+                "Sunday": "8\u202fAM\u20131\u202fPM",
+                "Monday": "7\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://bugstopllc.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLKSh8oDZmthJCFjAABL7kAV4xJM_rWqC5BuPt",
+            "cid": "6705835614064272732",
+            "fid": "0x86d60b107312ed03:0x5d0fe9f64276e55c",
+            "placeId": "ChIJA-0ScxAL1oYRXOV2QvbpD10"
+        },
+        {
+            "position": 2,
+            "title": "Stop Bugging Pest Control Inc.",
+            "address": "11100 Sepulveda Blvd Suite 8 PMB 540, Mission Hills, CA 91345",
+            "latitude": 34.2725988,
+            "longitude": -118.4671003,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Pest control service",
+            "types": [
+                "Pest control service"
+            ],
+            "website": "https://stopbugging.net/contact-us",
+            "phoneNumber": "(888) 904-0375",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzulQNTKD6JPCTBQje6-td2uKVtJbAcukM4P_2",
+            "cid": "8945487985383953046",
+            "fid": "0x80c296f83920d95b:0x7c24c1ed6f55d296",
+            "placeId": "ChIJW9kgOfiWwoARltJVb-3BJHw"
+        }
+    ],
+    "credits": 3
+}

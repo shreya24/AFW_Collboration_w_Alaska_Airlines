@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Dougy Center for Grieving Children",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4945605,-122.6095316,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Dougy Center",
+            "address": "3909 SE 52nd Ave, Portland, OR 97206",
+            "latitude": 45.4945605,
+            "longitude": -122.6095316,
+            "rating": 4.5,
+            "ratingCount": 14,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Mental health service",
+                "Non-profit organization"
+            ],
+            "website": "https://www.dougy.org/",
+            "phoneNumber": "(503) 775-5683",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wCqY8BHI-kKrFKR0k1rbuA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=297.13623&pitch=0&thumbfov=100",
+            "cid": "919891850479879832",
+            "fid": "0x5495a06f1ba859c9:0xcc41cc3a3a14698",
+            "placeId": "ChIJyVmoG2-glVQRmEaho8McxAw"
+        }
+    ],
+    "credits": 3
+}

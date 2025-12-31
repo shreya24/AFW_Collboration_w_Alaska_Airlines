@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "University of Utah Med. Cntr. GYN Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7297325,-111.8458505,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Granger Medical Clinic - Gynecologic Oncology, Gynecology",
+            "address": "1160 E 3900 S #1000, Salt Lake City, UT 84124",
+            "latitude": 40.6861013,
+            "longitude": -111.85680789999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://grangermedical.com/",
+            "phoneNumber": "(801) 262-5153",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gPqVyxeeiYH5d24-EBKLeA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=308.95465&pitch=0&thumbfov=100",
+            "cid": "18042105695759222726",
+            "fid": "0x87528bb000c0b62b:0xfa626f8a03c7c7c6",
+            "placeId": "ChIJK7bAALCLUocRxsfHA4pvYvo"
+        },
+        {
+            "position": 2,
+            "title": "Huntsman Cancer Hospital",
+            "address": "1950 E Cir of Hope Dr, Salt Lake City, UT 84112",
+            "latitude": 40.773363599999996,
+            "longitude": -111.83489309999999,
+            "rating": 4.4,
+            "ratingCount": 40,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Cancer treatment center",
+                "Physical therapy clinic"
+            ],
+            "website": "https://healthcare.utah.edu/huntsmancancerinstitute/",
+            "phoneNumber": "(801) 587-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9BD2kZgHbel1CLS17cfnyWutp1USsoW-Qtg9yjfKfPqXOdsSdfWSBgv7JJ3b3opvkXQL3P5YaMyWqAuqh7eAqX5Q3SAh4WqrffQ6jcPk5sHsgT3S6EQYpgWBzqHUJjWhABQcQP",
+            "cid": "6472744945346673892",
+            "fid": "0x87525f978e76db11:0x59d3cf3bd517fce4",
+            "placeId": "ChIJEdt2jpdfUocR5PwX1TvP01k"
+        }
+    ],
+    "credits": 3
+}

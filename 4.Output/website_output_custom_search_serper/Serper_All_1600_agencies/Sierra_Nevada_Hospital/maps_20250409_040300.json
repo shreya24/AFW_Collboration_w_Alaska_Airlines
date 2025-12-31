@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sierra Nevada Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2280233,-121.0476025,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra Nevada Memorial Hospital",
+            "address": "155 Glasson Way, Grass Valley, CA 95945",
+            "latitude": 39.2280233,
+            "longitude": -121.0476025,
+            "rating": 4.2,
+            "ratingCount": 1187,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/sierra-nevada-memorial-hospital",
+            "phoneNumber": "(530) 274-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_bzAXmH0hEpbfUV_QD1PTOqomH4wyq1CRxLXlf5i1S10xGBdrU9mnZai7fvMM4J6YfbX4cGUe3r55WgVZfSg8Iqg35Az_opB3B_jjP0aAwbVVhG-85bQ-UD8oIVHiw_koiVdUe",
+            "cid": "13428548801391384485",
+            "fid": "0x809b7068529dbba7:0xba5bc9fcc3ee57a5",
+            "placeId": "ChIJp7udUmhwm4ARpVfuw_zJW7o"
+        }
+    ],
+    "credits": 3
+}

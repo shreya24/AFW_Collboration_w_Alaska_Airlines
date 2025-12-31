@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Sunnyside Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4314111,-122.5602391,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Sunnyside Medical Center",
+            "address": "10180 SE Sunnyside Rd, Clackamas, OR 97015",
+            "latitude": 45.4314111,
+            "longitude": -122.56023909999999,
+            "rating": 4,
+            "ratingCount": 1429,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/Kaiser-Permanente-Sunnyside-Medical-Center-100249",
+            "phoneNumber": "(503) 813-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvYpeZBPTJLMAXj25byae2B3Aj0HXQ1Oc8AGB4",
+            "cid": "10088258469650416852",
+            "fid": "0x5495758681ca4a5d:0x8c00b1a0d5d6c4d4",
+            "placeId": "ChIJXUrKgYZ1lVQR1MTW1aCxAIw"
+        }
+    ],
+    "credits": 3
+}

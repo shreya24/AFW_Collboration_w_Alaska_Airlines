@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mtn Cancer Ctr. Pueblo",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2812576,-104.6141433,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Cancer Centers - Pueblo",
+            "address": "525 W 15th St Ste. 200, Pueblo, CO 81003",
+            "latitude": 38.281257599999996,
+            "longitude": -104.6141433,
+            "rating": 4.5,
+            "ratingCount": 118,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.rockymountaincancercenters.com/locations/pueblo?utm_source=local-listings&utm_medium=google-bing&utm_campaign=pg",
+            "phoneNumber": "(719) 296-6000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.rockymountaincancercenters.com/schedule-appointment?utm_source=local-listings&utm_medium=google-bing&utm_campaign=pg"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObpAakQrZc_eJt-MTorWTEVsNp4DIdkzCJ7JMU",
+            "cid": "11709504958731682403",
+            "fid": "0x871398aa845fb52b:0xa28084b868e08263",
+            "placeId": "ChIJK7VfhKqYE4cRY4LgaLiEgKI"
+        }
+    ],
+    "credits": 3
+}

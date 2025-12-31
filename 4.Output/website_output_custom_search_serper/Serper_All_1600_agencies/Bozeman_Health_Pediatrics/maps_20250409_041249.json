@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Bozeman Health Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6689136,-111.0206643,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health Pediatrics",
+            "address": "937 Highland Blvd # 5320, Bozeman, MT 59715",
+            "latitude": 45.668913599999996,
+            "longitude": -111.02066429999999,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "http://www.bozemanhealth.org/Bozeman-Health-Services/Pediatrics.aspx",
+            "phoneNumber": "(406) 414-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOgDhbA_RLlnHJk3Nqfbse2y65XXd7doA-TrXof",
+            "cid": "1749417478822973783",
+            "fid": "0x534544f2e3433909:0x18472ded9d1a5157",
+            "placeId": "ChIJCTlD4_JERVMRV1Eane0tRxg"
+        }
+    ],
+    "credits": 3
+}

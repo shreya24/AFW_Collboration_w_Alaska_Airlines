@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Dorcy Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2344838,-104.6246393,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dorcy Cancer Center",
+            "address": "2004 Lake Ave, Pueblo, CO 81004",
+            "latitude": 38.2344838,
+            "longitude": -104.6246393,
+            "rating": 4.8,
+            "ratingCount": 13,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Doctor",
+                "Hematologist",
+                "Oncologist",
+                "Surgical oncologist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/st-mary-corwin-hospital/cancer-center",
+            "phoneNumber": "(719) 557-5525",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Ca3pZDj0AP7eKLvhQltUWE_GvZ2FLjjbRFAOUQKd9r1sMxWuLgbh9sd838YrGBs3zjecTRp9HH8kmywsY-YpfA_KoLCEhWiDUDW_PyDdzCBARtHT_uQIrCX3__NAndrzVB1-g",
+            "cid": "8099748136092260069",
+            "fid": "0x8713bd32b66ff139:0x70681603f5e956e5",
+            "placeId": "ChIJOfFvtjK9E4cR5Vbp9QMWaHA"
+        }
+    ],
+    "credits": 3
+}

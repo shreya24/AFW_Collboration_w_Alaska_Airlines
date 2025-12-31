@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Moyamoya Center - Stanford",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4416103,-122.1693862,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Moyamoya Center",
+            "address": "213 Quarry Rd, Palo Alto, CA 94304",
+            "latitude": 37.4416103,
+            "longitude": -122.16938619999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/moyamoya-center.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 723-5575",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1O7euoc4vMLfnCznqmo_G8yQJQ8kkC0yr4KO6",
+            "cid": "14164459226078522269",
+            "fid": "0x808fbb36aad71d51:0xc492449e9dea2b9d",
+            "placeId": "ChIJUR3Xqja7j4ARnSvqnZ5EksQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "The University of Arizona",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.2318981,-110.9535407,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The University of Arizona",
+            "address": "1200 E University Blvd, Tucson, AZ 85721",
+            "latitude": 32.231898099999995,
+            "longitude": -110.95354069999999,
+            "rating": 4.5,
+            "ratingCount": 1389,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "Higher education"
+            ],
+            "website": "http://www.arizona.edu/",
+            "phoneNumber": "(520) 621-2211",
+            "description": "Public research university founded in 1885 & known for its sports & science programs.",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMfoogTuvvCH9ca7UKRHNQk8BGpjOMWDTWb0cs",
+            "cid": "10112948138785427302",
+            "fid": "0x86d671aaee5d9a4d:0x8c5868c06440cf66",
+            "placeId": "ChIJTZpd7qpx1oYRZs9AZMBoWIw"
+        }
+    ],
+    "credits": 3
+}

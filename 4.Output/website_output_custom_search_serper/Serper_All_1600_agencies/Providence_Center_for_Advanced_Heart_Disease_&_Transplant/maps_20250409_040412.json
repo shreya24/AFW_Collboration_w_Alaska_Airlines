@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Providence Center for Advanced Heart Disease & Transplant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6490971,-117.41257,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Center for Advanced Heart Disease & Transplant",
+            "address": "62 W 7th Ave # 300, Spokane, WA 99204",
+            "latitude": 47.6490971,
+            "longitude": -117.41256999999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Heart hospital",
+            "types": [
+                "Heart hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center/center-for-advanced-heart-disease-and-transplant?ls=location&y_source=1_MjA3NzQ1NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 474-2041",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsbnkLqSs6aACPWwQQyHYg2p5O3ppqti5DTpNI",
+            "cid": "15926646442553899819",
+            "fid": "0x549e19e591a484df:0xdd06d08e77a9fb2b",
+            "placeId": "ChIJ34SkkeUZnlQRK_upd47QBt0"
+        }
+    ],
+    "credits": 3
+}

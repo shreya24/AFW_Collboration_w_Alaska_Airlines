@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kootenai Clinic Ear, Nose, Throat and Al",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6936499,-116.7937711,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kootenai Clinic Ear, Nose, Throat and Audiology",
+            "address": "700 W Ironwood Dr #278, Coeur d'Alene, ID 83814",
+            "latitude": 47.6936499,
+            "longitude": -116.7937711,
+            "rating": 3.8,
+            "ratingCount": 18,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist"
+            ],
+            "website": "http://www.kh.org/enta",
+            "phoneNumber": "(208) 625-5160",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPml28knuAh7YP8fGICE_qUnJtW-DboexwEhMs",
+            "cid": "10924907791881948962",
+            "fid": "0x5361c6c1c6306533:0x979d11c10b054f22",
+            "placeId": "ChIJM2UwxsHGYVMRIk8FC8ERnZc"
+        }
+    ],
+    "credits": 3
+}

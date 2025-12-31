@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Minnesota Health Masonic Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9740587,-93.226812,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "M Health Fairview Masonic Cancer Clinic",
+            "address": "909 Fulton St SE #202, Minneapolis, MN 55455",
+            "latitude": 44.970412599999996,
+            "longitude": -93.2251938,
+            "rating": 4.2,
+            "ratingCount": 23,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-masonic-cancer-clinic",
+            "phoneNumber": "(612) 676-4200",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9i1iZfFk2nn00OytZI9vPm7Zbq18Q-vmrXRdkTcKtoHfhTIZ4l5SkVite5RbexMf75_IeXlm0tlJkoMnNgFfWMW9TNuC5kwJqXCpuoJwEtFsJi0KaEFOxkb9ri2uz1nTcD6lc",
+            "cid": "15843809037566085932",
+            "fid": "0x52b32d3d37411c29:0xdbe0846025400b2c",
+            "placeId": "ChIJKRxBNz0ts1IRLAtAJWCE4Ns"
+        },
+        {
+            "position": 2,
+            "title": "Masonic Cancer Center",
+            "address": "425 E River Pkwy, Minneapolis, MN 55455",
+            "latitude": 44.9711837,
+            "longitude": -93.23245999999999,
+            "rating": 3.2,
+            "ratingCount": 13,
+            "type": "Research institute",
+            "types": [
+                "Research institute"
+            ],
+            "website": "http://www.cancer.umn.edu/",
+            "phoneNumber": "(612) 624-8484",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8TIi1iRXx8yVVpT6i28vlbreAEfGD3SkxwqO07g33WUUM6_raNqzf-khYVb2KUGY2wWoYFo5jtfgSLbUzmid52pD2JC9OEqlsS0Et90sMECwnvbxKEPxtpAwhRtOqFCBQ56w4lhg",
+            "cid": "6000145208035009817",
+            "fid": "0x52b32d3dabad133f:0x5344cc46cdb06519",
+            "placeId": "ChIJPxOtqz0ts1IRGWWwzUbMRFM"
+        },
+        {
+            "position": 3,
+            "title": "Masonic Cancer Center",
+            "address": "23rd Ave SE, Minneapolis, MN 55455",
+            "latitude": 44.9777048,
+            "longitude": -93.2211641,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://cancer.umn.edu/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QIw-Q84_VFuXph4X09BApA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=307.01666&pitch=0&thumbfov=100",
+            "cid": "17127110719101031445",
+            "fid": "0x52b32d1e042f734f:0xedafb874a8cd5415",
+            "placeId": "ChIJT3MvBB4ts1IRFVTNqHS4r-0"
+        }
+    ],
+    "credits": 3
+}

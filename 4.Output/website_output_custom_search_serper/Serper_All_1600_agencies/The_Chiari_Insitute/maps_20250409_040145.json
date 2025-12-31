@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "The Chiari Insitute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5409904,-51.3534401,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Institut Chiari & Siringomielia & Escoliosis de Barcelona",
+            "address": "Passeig de Manuel Girona, 32, Les Corts, 08034 Barcelona, Spain",
+            "latitude": 41.3907439,
+            "longitude": 2.1230796,
+            "rating": 4.5,
+            "ratingCount": 49,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Diagnostic center",
+                "Neurosurgeon",
+                "Public medical center",
+                "Research institute"
+            ],
+            "website": "https://institutchiaribcn.com/",
+            "phoneNumber": "+34 932 80 08 36",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM",
+                "Tuesday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6X2un2wmq33pjllvqGdUtjEF1zSoZX4Yno00H",
+            "cid": "15590183451963979995",
+            "fid": "0x12a4985c9399f2f1:0xd85b753fcd7c78db",
+            "placeId": "ChIJ8fKZk1yYpBIR23h8zT91W9g"
+        },
+        {
+            "position": 2,
+            "title": "HCA HealthONE Colorado Chiari Center, A part of Aurora Hospital",
+            "address": "1400 S Potomac St Suite 210, Aurora, CO 80012",
+            "latitude": 39.6912369,
+            "longitude": -104.82995989999999,
+            "rating": 4,
+            "ratingCount": 13,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://www.healthonecares.com/locations/colorado-chiari-institute?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(303) 695-2663",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20133\u202fPM",
+                "Wednesday": "8\u202fAM\u20133\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPILW5ETRl4JZEesv3Qv4bK1s1tmm8Jz9I5Kty5",
+            "cid": "7953857368154050842",
+            "fid": "0x876c62bac572403d:0x6e61c7228ef2111a",
+            "placeId": "ChIJPUByxbpibIcRGhHyjiLHYW4"
+        }
+    ],
+    "credits": 3
+}

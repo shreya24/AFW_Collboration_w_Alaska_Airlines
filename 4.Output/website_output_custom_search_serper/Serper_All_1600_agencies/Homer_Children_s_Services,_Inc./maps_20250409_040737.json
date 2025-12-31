@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Homer Children's Services, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.635428,-76.179807,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Homer Children's Center Inc",
+            "address": "28 S Main St, Homer, NY 13077",
+            "latitude": 42.635428,
+            "longitude": -76.179807,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(607) 749-4719",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ySouEOgdICMIcE_3PDhvw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=187.6112&pitch=0&thumbfov=100",
+            "cid": "6715432413565322140",
+            "fid": "0x89da6ca82649e5d9:0x5d32023343b4839c",
+            "placeId": "ChIJ2eVJJqhs2okRnIO0QzMCMl0"
+        }
+    ],
+    "credits": 3
+}

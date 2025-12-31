@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Bear Creek Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.1676055,-122.8463842,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bear Creek Medical Clinic",
+            "address": "9093 King George Blvd #105, Surrey, BC V3V 5V7, Canada",
+            "latitude": 49.1676055,
+            "longitude": -122.84638419999999,
+            "rating": 2,
+            "ratingCount": 335,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Family practice physician"
+            ],
+            "website": "https://bearcreekmedicalclinic.com/",
+            "phoneNumber": "+1 604-503-4947",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "9\u202fAM\u20132\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Z7_KXgwEZ1F40f4JFslDdHgwNDsCLViRklHrZ12cM6ROxotnTZ3IsvOTgCQ4UQgYhJX4NifyyOMtXE-_XnIQFZhqIwJAqcdRCw9y_b4Wr5jPy5NHDdCTstYj2ZGTe0Y1KTLCKtw",
+            "cid": "14320845444614868655",
+            "fid": "0x5485d9eb48da11b5:0xc6bddd0e898a4eaf",
+            "placeId": "ChIJtRHaSOvZhVQRr06KiQ7dvcY"
+        }
+    ],
+    "credits": 3
+}

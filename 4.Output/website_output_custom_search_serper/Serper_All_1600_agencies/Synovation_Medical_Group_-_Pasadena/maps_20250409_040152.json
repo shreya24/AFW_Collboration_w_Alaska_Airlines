@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Synovation Medical Group - Pasadena",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1282831,-118.1506077,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Synovation Medical Group - Pasadena",
+            "address": "1017 S Fair Oaks Ave, Pasadena, CA 91105",
+            "latitude": 34.1282831,
+            "longitude": -118.1506077,
+            "rating": 2.2,
+            "ratingCount": 87,
+            "type": "Physical therapist",
+            "types": [
+                "Physical therapist",
+                "Medical clinic",
+                "Medical group",
+                "Pain management physician"
+            ],
+            "website": "https://www.synovationmedicalgroup.com/location/pasadena-ca/",
+            "phoneNumber": "(626) 403-6200",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7\u202fAM\u20136:30\u202fPM",
+                "Friday": "7\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjjvnVqUOntrwdMafcohBZAIlQtBtrVOlxcSxp",
+            "cid": "12699927251624902950",
+            "fid": "0x80c2c483a1d1e7e1:0xb03f348c5a67c126",
+            "placeId": "ChIJ4efRoYPEwoARJsFnWow0P7A"
+        }
+    ],
+    "credits": 3
+}

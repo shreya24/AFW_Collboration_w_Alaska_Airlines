@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "United Blood Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.928284,-102.212845,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "United Blood Services",
+            "address": "3212 Fortress Dr, Midland, TX 79706",
+            "latitude": 31.928283999999998,
+            "longitude": -102.212845,
+            "rating": 3.1,
+            "ratingCount": 7,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(432) 561-5539",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HuwMAx5-GClExYUPkccI8w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=339.9129&pitch=0&thumbfov=100",
+            "cid": "16549504887659030989",
+            "fid": "0x86fbcba52cccfaff:0xe5aba7032581e9cd",
+            "placeId": "ChIJ__rMLKXL-4YRzemBJQOnq-U"
+        }
+    ],
+    "credits": 3
+}

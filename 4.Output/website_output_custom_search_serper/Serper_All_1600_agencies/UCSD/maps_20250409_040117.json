@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "UCSD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.881168,-117.2343605,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of California San Diego",
+            "address": "9500 Gilman Dr, La Jolla, CA 92093",
+            "latitude": 32.881167999999995,
+            "longitude": -117.2343605,
+            "rating": 4.5,
+            "ratingCount": 1516,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "http://www.ucsd.edu/",
+            "phoneNumber": "(858) 534-2230",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_yNUiczV2oAVYwTaFhnBja7G2YQ2ctgT3fOL6fsAVoGrHD9WJFhv4VHrAUZwSjG4KQTmHJc37BjthLYr-jra_gMbC0R6uM_Vjq8nBzbAPDtCwulcJ7FkYlDXmzzhj7U86IHONmFg",
+            "cid": "17273181422442593959",
+            "fid": "0x80dc06c4414caf4f:0xefb6aafc89913ea7",
+            "placeId": "ChIJT69MQcQG3IARpz6Rifyqtu8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "Durango Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2296505,-107.8428723,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CommonSpirit Cancer Center Mercy",
+            "address": "1 Mercado St # 100, Durango, CO 81301",
+            "latitude": 37.2362049,
+            "longitude": -107.8254985,
+            "rating": 4.8,
+            "ratingCount": 33,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-cancer-center-mercy",
+            "phoneNumber": "(970) 385-4746",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTkL7fyI7j8CuU_wiyYvYChlRl02jP6TgaggBz",
+            "cid": "17579899487049707755",
+            "fid": "0x873c1ce517f67e7f:0xf3f85970f0ab70eb",
+            "placeId": "ChIJf372F-UcPIcR63Cr8HBZ-PM"
+        },
+        {
+            "position": 2,
+            "title": "CommonSpirit Oncology Mercy",
+            "address": "1 Mercado St # 100, Durango, CO 81301",
+            "latitude": 37.2362344,
+            "longitude": -107.8255006,
+            "rating": 5,
+            "ratingCount": 176,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-oncology-mercy",
+            "phoneNumber": "(970) 385-7977",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5BaXvk_X1u1ejkOpJ4Ot9uxl5PWuNmyNwg8xu",
+            "cid": "15265551360360467815",
+            "fid": "0x873c1ce517f67e7f:0xd3da2214f6c44d67",
+            "placeId": "ChIJf372F-UcPIcRZ03E9hQi2tM"
+        },
+        {
+            "position": 3,
+            "title": "Four Corners Cancer Center/San Juan Oncology Associates",
+            "address": "1305 Escalante Dr, Durango, CO 81303",
+            "latitude": 37.2230665,
+            "longitude": -107.8602461,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.sanjuanoncology.com/",
+            "phoneNumber": "(505) 564-6850",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NtR9O55Jwo5adoJ4pPrNtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=217.1426&pitch=0&thumbfov=100",
+            "cid": "15645021025016169765",
+            "fid": "0x873c03871e83f8ef:0xd91e47bb3b9b4525",
+            "placeId": "ChIJ7_iDHocDPIcRJUWbO7tHHtk"
+        }
+    ],
+    "credits": 3
+}

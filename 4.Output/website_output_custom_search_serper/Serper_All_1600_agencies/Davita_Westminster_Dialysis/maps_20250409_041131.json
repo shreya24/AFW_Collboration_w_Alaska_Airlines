@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Davita Westminster Dialysis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7588858,-117.9715461,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DaVita Westminster South Dialysis",
+            "address": "14014 Magnolia St, Westminster, CA 92683",
+            "latitude": 33.7588858,
+            "longitude": -117.9715461,
+            "rating": 4.2,
+            "ratingCount": 6,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center",
+                "Local medical services",
+                "Medical Center"
+            ],
+            "website": "https://www.davita.com/locations/CA/Westminster/14014MagnoliaSt--3545",
+            "phoneNumber": "(833) 366-1386",
+            "openingHours": {
+                "Tuesday": "4:45\u202fAM\u20136\u202fPM",
+                "Wednesday": "4:45\u202fAM\u20139:30\u202fPM",
+                "Thursday": "4:45\u202fAM\u20136\u202fPM",
+                "Friday": "4:45\u202fAM\u20139:30\u202fPM",
+                "Saturday": "4:45\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "4:45\u202fAM\u20139:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMKqtor5wJc76p2GAJvm-L90QqD2xwsDWbF5Ko",
+            "cid": "9612119231521493092",
+            "fid": "0x80dd2623f5c5d9f1:0x85651b838d8a1064",
+            "placeId": "ChIJ8dnF9SMm3YARZBCKjYMbZYU"
+        }
+    ],
+    "credits": 3
+}

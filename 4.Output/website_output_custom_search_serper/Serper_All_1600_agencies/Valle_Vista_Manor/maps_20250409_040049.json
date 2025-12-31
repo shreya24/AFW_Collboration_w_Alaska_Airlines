@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Valle Vista Manor",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.049021,-109.428868,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valle Vista Rehab & Nursing",
+            "address": "402 Summit Ave, Lewistown, MT 59457",
+            "latitude": 47.049020999999996,
+            "longitude": -109.428868,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://www.vallevistamanor.com/",
+            "phoneNumber": "(406) 538-8775",
+            "cid": "9528721932205813094",
+            "fid": "0x5340d4ad3afeea0f:0x843cd21cac99ed66",
+            "placeId": "ChIJD-r-Oq3UQFMRZu2ZrBzSPIQ"
+        }
+    ],
+    "credits": 3
+}

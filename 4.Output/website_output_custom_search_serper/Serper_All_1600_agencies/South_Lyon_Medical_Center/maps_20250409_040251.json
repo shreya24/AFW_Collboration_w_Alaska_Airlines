@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "South Lyon Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9838961,-119.1673158,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Lyon Medical Center",
+            "address": "213 S Whitacre St, Yerington, NV 89447",
+            "latitude": 38.983896099999995,
+            "longitude": -119.1673158,
+            "rating": 2.6,
+            "ratingCount": 25,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family practice physician",
+                "General practitioner",
+                "Medical clinic",
+                "Pharmacy",
+                "Physical therapist"
+            ],
+            "website": "https://slmcnv.org/",
+            "phoneNumber": "(775) 463-2301",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BPDFR8_soCyhShmfQyTEZg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=267.21817&pitch=0&thumbfov=100",
+            "cid": "8817912478918183959",
+            "fid": "0x809838e1ee1a0a63:0x7a5f84ae26670c17",
+            "placeId": "ChIJYwoa7uE4mIARFwxnJq6EX3o"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,84 @@
+{
+    "searchParameters": {
+        "q": "Juneau Alliance for Mental Health, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3319633,-134.4999934,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Salmon Creek Clinic - JAMHI Health & Wellness, Inc. (Mental & Physical Health)",
+            "address": "3406 Glacier Hwy # A, Juneau, AK 99801",
+            "latitude": 58.331809099999994,
+            "longitude": -134.4710194,
+            "rating": 3.2,
+            "ratingCount": 13,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Medical clinic"
+            ],
+            "website": "https://www.jamhihealthandwellness.org/",
+            "phoneNumber": "(907) 463-3303",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-HymK1ipub3vBIAGxIci-vel_zjvsdYaAXxlxzJLTaJYBXkiTeByMjjwXenB-N-Jur-ZTnOVgOyx2Krtm-k3NmHrCV0ScDRYpTlxVd1Qto1fDPJGkA0ItPxhKg48wyhlEPXwNm",
+            "cid": "15878466135541770491",
+            "fid": "0x5400e0061da0cf77:0xdc5ba4d2930968fb",
+            "placeId": "ChIJd8-gHQbgAFQR-2gJk9KkW9w"
+        },
+        {
+            "position": 2,
+            "title": "JAMHI Family - JAMHI Health & Wellness, Inc.",
+            "address": "2075 Jordan Ave, Juneau, AK 99801",
+            "latitude": 58.3619821,
+            "longitude": -134.58026479999998,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "http://www.jamhihealthandwellness.org/",
+            "phoneNumber": "(907) 463-6877",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOf3_kvAFAAn4i1g-cvHyWz9afEKJDvWah57rIy",
+            "cid": "12335089364299713509",
+            "fid": "0x54011f1da30bc03b:0xab2f0a6c37c88be5",
+            "placeId": "ChIJO8ALox0fAVQR5YvIN2wKL6s"
+        },
+        {
+            "position": 3,
+            "title": "Juneau Alliance For Mental",
+            "address": "Juneau, AK 99801",
+            "latitude": 58.3019444,
+            "longitude": -134.4197221,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "phoneNumber": "(907) 463-3363",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0OJKb1-dmaJqFYgiLcjV8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=139.33514&pitch=0&thumbfov=100",
+            "cid": "14541590040885308222",
+            "fid": "0x5400df85d167367f:0xc9ce1b18f853ab3e",
+            "placeId": "ChIJfzZn0YXfAFQRPqtT-Bgbzsk"
+        }
+    ],
+    "credits": 3
+}

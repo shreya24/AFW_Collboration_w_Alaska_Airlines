@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Shriners Hospitals for Children - Portland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.500756,-122.684411,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Portland",
+            "address": "3101 SW Sam Jackson Park Rd, Portland, OR 97239",
+            "latitude": 45.500755999999996,
+            "longitude": -122.684411,
+            "rating": 4.5,
+            "ratingCount": 87,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Anesthesiologist",
+                "Pediatric orthopedic surgeon"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/portland",
+            "phoneNumber": "(503) 241-5090",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwjkfe6mJsTvcGaRXYAwezpKJ-LNZx3bB9ixFi",
+            "cid": "16799964056946240405",
+            "fid": "0x54950a411777299f:0xe925764cbd9c6b95",
+            "placeId": "ChIJnyl3F0EKlVQRlWucvUx2Jek"
+        }
+    ],
+    "credits": 3
+}

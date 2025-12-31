@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "University of New Mexico (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0842892,-106.6184843,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Office of Parents and Families",
+            "address": "University Advisement and Enrichment Center, 400 Cornell Dr NW, Albuquerque, NM 87106",
+            "latitude": 35.0842892,
+            "longitude": -106.61848429999999,
+            "type": "School administration office",
+            "types": [
+                "School administration office"
+            ],
+            "website": "https://parent.unm.edu/",
+            "phoneNumber": "(505) 277-0790",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uOBkpgLHf6cDMAYDLm5j3Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=229.20958&pitch=0&thumbfov=100",
+            "cid": "3297349121685582720",
+            "fid": "0x87220b004963e035:0x2dc2898e5a83f380",
+            "placeId": "ChIJNeBjSQALIocRgPODWo6Jwi0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Spokane Falls Family Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6720688,-117.4139311,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spokane Falls Family Clinic",
+            "address": "120 W Mission Ave, Spokane, WA 99201",
+            "latitude": 47.6720688,
+            "longitude": -117.4139311,
+            "rating": 3,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.yvfwc.com/locations/unify-community-health-mission/",
+            "phoneNumber": "(509) 326-4343",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Awxg--IJh7i5NDtQi5D6rg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=121.20015&pitch=0&thumbfov=100",
+            "cid": "11302137845603077438",
+            "fid": "0x549e18f0033001b3:0x9cd9427d41ab8d3e",
+            "placeId": "ChIJswEwA_AYnlQRPo2rQX1C2Zw"
+        }
+    ],
+    "credits": 3
+}

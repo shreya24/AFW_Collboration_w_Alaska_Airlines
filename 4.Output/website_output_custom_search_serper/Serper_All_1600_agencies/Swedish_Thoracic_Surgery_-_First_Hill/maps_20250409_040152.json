@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Swedish Thoracic Surgery - First Hill",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6091997,-122.3241094,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Thoracic Surgery - First Hill",
+            "address": "1101 Madison St #900, Seattle, WA 98104",
+            "latitude": 47.6091997,
+            "longitude": -122.3241094,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical clinic",
+                "Surgeon"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/thoracic-surgery?Is=location&y_source=1_OTU3Njc5MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 215-6800",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBb3DxPEItKwrZIS3f7O6oiqZ6VOs0EdA5eD09",
+            "cid": "4811824199017796557",
+            "fid": "0x54906ac9c230566f:0x42c7089d681593cd",
+            "placeId": "ChIJb1YwwslqkFQRzZMVaJ0Ix0I"
+        }
+    ],
+    "credits": 3
+}

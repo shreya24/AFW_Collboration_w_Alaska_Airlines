@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Fortuna Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5815482,-124.1322954,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fortuna Community Health Center",
+            "address": "3750 Rohnerville Rd, Fortuna, CA 95540",
+            "latitude": 40.5815482,
+            "longitude": -124.13229539999999,
+            "rating": 2.9,
+            "ratingCount": 67,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Obstetrician-gynecologist"
+            ],
+            "website": "http://opendoorhealth.com/opendoor/locations/fortuna-community-health-center/",
+            "phoneNumber": "(707) 725-4477",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfD6BN7xWMB6MEo8_UFuZMafuBQCGDMCqiUYLL",
+            "cid": "7238384537187157513",
+            "fid": "0x54d40e75e6f5e63f:0x6473e862ceb88609",
+            "placeId": "ChIJP-b15nUO1FQRCYa4zmLoc2Q"
+        }
+    ],
+    "credits": 3
+}

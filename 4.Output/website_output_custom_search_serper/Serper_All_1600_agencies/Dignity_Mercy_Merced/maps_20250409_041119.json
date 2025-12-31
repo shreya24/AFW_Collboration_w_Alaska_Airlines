@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Dignity Mercy Merced",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3399203,-120.46718,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health Hospital - Mercy Medical Center",
+            "address": "333 Mercy Ave, Merced, CA 95340",
+            "latitude": 37.339920299999996,
+            "longitude": -120.46718,
+            "rating": 4,
+            "ratingCount": 1894,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-mercy-medical-center",
+            "phoneNumber": "(209) 564-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPW_9tiEraGR9Qb1ZbRNfwpo_LyHjO2-LatbMTR",
+            "cid": "8438806745003065955",
+            "fid": "0x809143db2211c8e7:0x751caa061c140263",
+            "placeId": "ChIJ58gRIttDkYARYwIUHAaqHHU"
+        }
+    ],
+    "credits": 3
+}

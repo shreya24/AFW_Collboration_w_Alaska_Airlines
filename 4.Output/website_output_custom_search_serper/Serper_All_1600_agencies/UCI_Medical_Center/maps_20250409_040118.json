@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "UCI Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7874476,-117.8887539,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCI Medical Center",
+            "address": "101 The City Dr S, Orange, CA 92868",
+            "latitude": 33.7874476,
+            "longitude": -117.8887539,
+            "rating": 3.1,
+            "ratingCount": 782,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "General hospital",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.ucihealth.org/",
+            "phoneNumber": "(714) 456-7890",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "http://www.ucihealth.org/?utm_source=local&utm_medium=organic&utm_campaign=GMB"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_FOk0eb5mrLgvImoUfRkHtp9OeBKEHuEErUbQwKI-HqQ-Jk3f_7mkAhck3PyGmmlzE19XQL7EcnbAlG9nHheRoZR7J6rc4ERRUfrjBMzFqG-z5AfXr6EUOu9jR0TXi0Nt0GIA8",
+            "cid": "8789927134169794969",
+            "fid": "0x80dcd788875dd44d:0x79fc182851c20999",
+            "placeId": "ChIJTdRdh4jX3IARmQnCUSgY_Hk"
+        }
+    ],
+    "credits": 3
+}

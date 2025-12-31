@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dixie Dialysis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0954371,-113.5576443,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DaVita Dixie Dialysis",
+            "address": "720 S River Rd Ste D1100, St. George, UT 84790",
+            "latitude": 37.0954371,
+            "longitude": -113.55764429999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.davita.com/locations/ut/st-george/720-s-river-rd--12563",
+            "phoneNumber": "(833) 461-2854",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "6\u202fAM\u20135:30\u202fPM",
+                "Thursday": "6\u202fAM\u20135:30\u202fPM",
+                "Friday": "6\u202fAM\u20135:30\u202fPM",
+                "Saturday": "6\u202fAM\u20135:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-MXOksPKxWRuPTJLEC660g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=253.38144&pitch=0&thumbfov=100",
+            "cid": "9096524704368055668",
+            "fid": "0x80ca5adb0075cf8f:0x7e3d5905ee6c5574",
+            "placeId": "ChIJj891ANtayoARdFVs7gVZPX4"
+        }
+    ],
+    "credits": 3
+}

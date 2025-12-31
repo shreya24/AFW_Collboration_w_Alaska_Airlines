@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Timpanogos Regional Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.313354,-111.7140358,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Timpanogos Regional Hospital",
+            "address": "750 W 800 N, Orem, UT 84057",
+            "latitude": 40.313354,
+            "longitude": -111.71403579999999,
+            "rating": 4.4,
+            "ratingCount": 2692,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Birth center",
+                "Cancer treatment center",
+                "Child health care centre",
+                "Emergency room"
+            ],
+            "website": "https://www.mountainstar.com/locations/timpanogos-regional-hospital?utm__campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(801) 714-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNlmtW4UNhaI-OLHPbbezdQj7LLYnM8NTlA4DzZ",
+            "cid": "7394386205689369186",
+            "fid": "0x874d8527f45a65ef:0x669e2313b229d262",
+            "placeId": "ChIJ72Va9CeFTYcRYtIpshMjnmY"
+        }
+    ],
+    "credits": 3
+}

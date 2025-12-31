@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Fall Creek Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.064149,-121.271593,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fall Creek Internal Medicine",
+            "address": "2160 NE Williamson Ct, Bend, OR 97701",
+            "latitude": 44.064149,
+            "longitude": -121.271593,
+            "rating": 4.5,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "http://www.fallcreekmd.com/",
+            "phoneNumber": "(541) 389-1118",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9RddL7KKQ91G_9jykDyniuoMjTa-KRHZimUmRJAavd4v5kv2uSXQV8RSvQzcphaTHnhV3J-tjAKQrpYZpjx9SS49i2YxaaYdUjVRr_BdqSDnvVsDo9dyA1CLUI2Hsm1L8yRi3M",
+            "cid": "11854594004271662699",
+            "fid": "0x54b8c60763f51e53:0xa483fa704516866b",
+            "placeId": "ChIJUx71YwfGuFQRa4YWRXD6g6Q"
+        }
+    ],
+    "credits": 3
+}

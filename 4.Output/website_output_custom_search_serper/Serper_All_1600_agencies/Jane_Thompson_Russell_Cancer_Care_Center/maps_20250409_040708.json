@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Jane Thompson Russell Cancer Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.3639695,-122.6131944,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jane Thompson Russell Cancer Care Center",
+            "address": "Milgard Medical Pavilion At St. Anthony Hospital, 11511 Canterwood Blvd, Gig Harbor, WA 98332",
+            "latitude": 47.3635346,
+            "longitude": -122.6130304,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.vmfh.org/find-a-location/jane-thompson-russell-cancer-care-center-in-the-milgard-medical-pavilion-291349",
+            "phoneNumber": "(253) 530-2695",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.vmfh.org/find-a-location/jane-thompson-russell-cancer-care-center-in-the-milgard-medical-pavilion-291349?y_source=1_MTU2ODQzODQtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMrIU95dEw7HY-qwIyem5hoHpn1XlHgmdUh4DS",
+            "cid": "16051080426093124794",
+            "fid": "0x54904db903151e4f:0xdec0e49af2819cba",
+            "placeId": "ChIJTx4VA7lNkFQRupyB8prkwN4"
+        },
+        {
+            "position": 2,
+            "title": "Jane Thompson Russell Cancer Infusion Clinic",
+            "address": "Milgard Medical Pavilion At St. Anthony Hospital, 11511 Canterwood Blvd 3rd Floor, Gig Harbor, WA 98332",
+            "latitude": 47.3644043,
+            "longitude": -122.61335849999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.vmfh.org/find-a-location/jane-thompson-russell-cancer-infusion-clinic-in-the-milgard-medical-pavilion-291334",
+            "phoneNumber": "(253) 530-2695",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.vmfh.org/find-a-location/jane-thompson-russell-cancer-infusion-clinic-in-the-milgard-medical-pavilion-291334?y_source=1_MTU2ODQyODgtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOfmyixYfoDevYfPBFABx6z7mVaD3lY_6p2WT5C",
+            "cid": "8148938582181434871",
+            "fid": "0x54904d5ff710c74f:0x7116d8772f6655f7",
+            "placeId": "ChIJT8cQ919NkFQR91VmL3fYFnE"
+        }
+    ],
+    "credits": 3
+}

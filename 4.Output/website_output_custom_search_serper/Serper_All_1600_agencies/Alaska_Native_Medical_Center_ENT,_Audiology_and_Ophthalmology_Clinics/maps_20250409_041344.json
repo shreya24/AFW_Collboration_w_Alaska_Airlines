@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Alaska Native Medical Center ENT, Audiology and Ophthalmology Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1881547,-149.809192,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Native Medical Center ENT and Audiology Clinics",
+            "address": "3801 University Lake Dr, Anchorage, AK 99508",
+            "latitude": 61.1881547,
+            "longitude": -149.809192,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://anmc.org/services/ear-nose-throat/",
+            "phoneNumber": "(907) 729-1400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNDE8apeckgkYDwOMb5g2zz7iRXKh0GzXPpEP91",
+            "cid": "9609764901414642239",
+            "fid": "0x56c897d671f13515:0x855cbe435bd6223f",
+            "placeId": "ChIJFTXxcdaXyFYRPyLWW0O-XIU"
+        }
+    ],
+    "credits": 3
+}

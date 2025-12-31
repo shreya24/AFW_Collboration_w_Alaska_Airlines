@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Norton Thoracic Institute Lung Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2067089,-97.3620866,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Norton Community Hospital Black Lung Clinic",
+            "address": "100 15th St NW, Norton, VA 24273",
+            "latitude": 36.9317248,
+            "longitude": -82.64333409999999,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist"
+            ],
+            "website": "https://www.balladhealth.org/locations/hospitals/norton-community",
+            "phoneNumber": "(276) 439-1373",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8u_u3uX77teeUfJADBo9ppMROHZgUYVn6fSL4",
+            "cid": "5454090365034200416",
+            "fid": "0x885ac8d23b83f699:0x4bb0d24a3cbe7d60",
+            "placeId": "ChIJmfaDO9LIWogRYH2-PErSsEs"
+        },
+        {
+            "position": 2,
+            "title": "Dignity Health Norton Thoracic Institute - Phoenix",
+            "address": "500 W Thomas Rd Ste 500, Phoenix, AZ 85013",
+            "latitude": 33.481693,
+            "longitude": -112.0808392,
+            "rating": 3.7,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-norton-thoracic-institute-phoenix",
+            "phoneNumber": "(602) 406-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ZfVZuOC4TbFtSGSgFMgw0YsCoGNSUt-mGI5lLtd-j0PK4N1jYjSLaOandy8jfAxRCepEpTTLmyR2-Brs9vqYcXR_cBVSnuwIw2U9TyUKHaKczWwrrtiNBBXk0D64CxSwBC8IsDw",
+            "cid": "14534901742304631133",
+            "fid": "0x872b1383b9638265:0xc9b658201b46195d",
+            "placeId": "ChIJZYJjuYMTK4cRXRlGGyBYtsk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,619 @@
+{
+    "searchParameters": {
+        "q": "Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.4138729,-100.5607892,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kettering Health Cancer Center - Main Campus",
+            "address": "3700 Southern Blvd, Kettering, OH 45429",
+            "latitude": 39.6960055,
+            "longitude": -84.1901166,
+            "rating": 4.9,
+            "ratingCount": 2732,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "https://ketteringhealth.org/locations/kettering-health-cancer-center-hc014/",
+            "phoneNumber": "(855) 500-2873",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.ketteringhealth.org/cancercare/appointment.cfm"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmdhfZ3gIqdJr8vnnQ2WKrhiqYihimc0mtv724",
+            "cid": "5390158112773744873",
+            "fid": "0x8840867406cc6491:0x4acdb03ecb11a8e9",
+            "placeId": "ChIJkWTMBnSGQIgR6agRyz6wzUo"
+        },
+        {
+            "position": 2,
+            "title": "The Cancer Center at Cookeville Regional Medical Center",
+            "address": "1 Medical Center Blvd, Cookeville, TN 38501",
+            "latitude": 36.170349699999996,
+            "longitude": -85.50866839999999,
+            "rating": 4.7,
+            "ratingCount": 208,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.crmchealth.org/services/cancer/",
+            "phoneNumber": "(931) 783-2497",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXISp8knEv1lATFbPodEoXmPS7Ax2NJ863Jneb",
+            "cid": "4492854164861864594",
+            "fid": "0x8867220f7933daa7:0x3e59d30f0c39ca92",
+            "placeId": "ChIJp9ozeQ8iZ4gRkso5DA_TWT4"
+        },
+        {
+            "position": 3,
+            "title": "City of Hope Cancer Center Atlanta",
+            "address": "600 Celebrate Life Pkwy, Newnan, GA 30265",
+            "latitude": 33.3848428,
+            "longitude": -84.7578331,
+            "rating": 4.2,
+            "ratingCount": 377,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cityofhope.org/locations/atlanta?invsrc=local_search_x_facility_cap_atlanta",
+            "phoneNumber": "(847) 342-6910",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.cancercenter.com/schedule-an-appointment?invsrc=local_search_rioseo_atlanta_facility_appointment_link&t_pur=prospecting&t_med=online&t_ch=local_search&t_con=appointment_link&t_re=atl&t_bud=corporate&utm_campaign=local_search_rioseo_atlanta_facility&utm_medium=local&utm_source=google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMQLWm4NSlf6oti2I0XeZ1rVE4uj-MRBwejAoB",
+            "cid": "1622208087694326177",
+            "fid": "0x88f4c63a1c2f5ba5:0x16833da932c939a1",
+            "placeId": "ChIJpVsvHDrG9IgRoTnJMqk9gxY"
+        },
+        {
+            "position": 4,
+            "title": "Cancer Center",
+            "address": "602 Indiana Ave, Lubbock, TX 79415",
+            "latitude": 33.5878702,
+            "longitude": -101.892037,
+            "rating": 4.4,
+            "ratingCount": 56,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.umchealthsystem.com/locations/umc-cancer-center/",
+            "phoneNumber": "(806) 775-8600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://umc.pub/UMC_CancerCenter"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZAiGeNPp8hQdgJGMyRgTC2jN7igZ0yWYocYLA",
+            "cid": "9288078082720652542",
+            "fid": "0x86fe12a7eb127fdf:0x80e5e1ce4ea7dcfe",
+            "placeId": "ChIJ338S66cS_oYR_tynTs7h5YA"
+        },
+        {
+            "position": 5,
+            "title": "St. Vincent Regional Hospital \u2013 Cancer Centers of Montana",
+            "address": "1315 Golden Valley Circle, Billings, MT 59102",
+            "latitude": 45.7832933,
+            "longitude": -108.5965329,
+            "rating": 4.6,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://intermountainhealthcare.org/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 238-6290",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMACqTE-UpBgcRDo7dbFEgzIpwP6ARZF6BQBlMP",
+            "cid": "95100360976660329",
+            "fid": "0x53487ce3ef35d383:0x151dd4642067769",
+            "placeId": "ChIJg9M17-N8SFMRaXcGQkbdUQE"
+        },
+        {
+            "position": 6,
+            "title": "UH Seidman Cancer Center",
+            "address": "11100 Euclid Ave, Cleveland, OH 44106",
+            "latitude": 41.5075431,
+            "longitude": -81.6060473,
+            "rating": 3.8,
+            "ratingCount": 151,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uhhospitals.org/locations/uh-seidman-cancer-center?utm_campaign=UH_Seidman_Cancer_Center_11100_Euclid_Avenue&utm_source=yext&utm_medium=locallisting&utm_content=website_url",
+            "phoneNumber": "(216) 844-3951",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGNMhgHvAqiLWZbDSV_BJJLCtt1p4IU1MZpwCn",
+            "cid": "178205536269650038",
+            "fid": "0x8830fb8909f2366b:0x2791cfdb65c4876",
+            "placeId": "ChIJazbyCYn7MIgRdkhctv0ceQI"
+        },
+        {
+            "position": 7,
+            "title": "Fresno Cancer Center",
+            "address": "7887 N Cedar Ave, Fresno, CA 93720",
+            "latitude": 36.850647699999996,
+            "longitude": -119.7571157,
+            "rating": 5,
+            "ratingCount": 102,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.fresnocc.health/",
+            "phoneNumber": "(559) 437-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMs3AYYTCuhes3NeKLqmpsZsT1viEJ6cq-1ldOC",
+            "cid": "18178685049577645373",
+            "fid": "0x809442cf01f73bc1:0xfc47a9bcdfc7a53d",
+            "placeId": "ChIJwTv3Ac9ClIARPaXH37ypR_w"
+        },
+        {
+            "position": 8,
+            "title": "CBMC CANCER CENTER.",
+            "address": "4050 Northrise Dr, Las Cruces, NM 88011",
+            "latitude": 32.3670349,
+            "longitude": -106.74067679999999,
+            "rating": 4.6,
+            "ratingCount": 76,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "http://www.nmcbmc.com/",
+            "phoneNumber": "(575) 652-3040",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM08AcNXIKobWR8vbPcypoYt_Xaes9HTkMe-HHD",
+            "cid": "11905407120095082985",
+            "fid": "0x86de17e32e54b045:0xa53880b2bbac79e9",
+            "placeId": "ChIJRbBULuMX3oYR6Xmsu7KAOKU"
+        },
+        {
+            "position": 9,
+            "title": "Harbin Clinic Cancer Center",
+            "address": "255 W 5th St, Rome, GA 30165",
+            "latitude": 34.257575599999996,
+            "longitude": -85.1780909,
+            "rating": 4.9,
+            "ratingCount": 329,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://harbinclinic.com/cancercare",
+            "phoneNumber": "(888) 427-2461",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwLK9-O_ex6YUOC3l3JAysjQWubtPFx4_zgy0d",
+            "cid": "1598766729506837358",
+            "fid": "0x888aa4c1dc485243:0x162ff5deaef7d36e",
+            "placeId": "ChIJQ1JI3MGkiogRbtP3rt71LxY"
+        },
+        {
+            "position": 10,
+            "title": "Comprehensive Cancer Center at Desert Regional Medical Center",
+            "address": "1180 N Indian Canyon Dr # E218, Palm Springs, CA 92262",
+            "latitude": 33.839498,
+            "longitude": -116.5445879,
+            "rating": 3.3,
+            "ratingCount": 23,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.desertcancercenter.com/",
+            "phoneNumber": "(760) 416-4800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "12206665927512886254",
+            "fid": "0x80db1bc6dfbf1b2b:0xa966c9fcc5450bee",
+            "placeId": "ChIJKxu_38Yb24AR7gtFxfzJZqk"
+        },
+        {
+            "position": 11,
+            "title": "Ascension Borgess Cancer Center",
+            "address": "2520 Robert Jones Wy, Kalamazoo, MI 49009",
+            "latitude": 42.26548,
+            "longitude": -85.650032,
+            "rating": 4.4,
+            "ratingCount": 122,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://healthcare.ascension.org/locations/michigan/mikal/kalamazoo-ascension-borgess-cancer-center?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(269) 552-0420",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMxlZjjqP8oCxgcuesp3M7h4KRKVLtYbMGUt6Dm",
+            "cid": "6505423844643078162",
+            "fid": "0x881777e652ba6f11:0x5a47e884fd4e8012",
+            "placeId": "ChIJEW-6UuZ3F4gREoBO_YToR1o"
+        },
+        {
+            "position": 12,
+            "title": "Froedtert Clinical Cancer Center",
+            "address": "8800 W Doyne Ave, Milwaukee, WI 53226",
+            "latitude": 43.0400774,
+            "longitude": -88.0222091,
+            "rating": 4.4,
+            "ratingCount": 88,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center"
+            ],
+            "website": "https://www.froedtert.com/locations/cancer-center/clinical-cancer-center-froedtert-hospital",
+            "phoneNumber": "(414) 805-0505",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.froedtert.com/appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBOu1lS0e4o_w8scU5D48sobCVe-lkXqttfHdc",
+            "cid": "10052573924342213826",
+            "fid": "0x880505212c9dbd63:0x8b81eab92ec5acc2",
+            "placeId": "ChIJY72dLCEFBYgRwqzFLrnqgYs"
+        },
+        {
+            "position": 13,
+            "title": "Maury Regional Cancer Center",
+            "address": "808 S James Campbell Blvd, Columbia, TN 38401",
+            "latitude": 35.5985886,
+            "longitude": -87.05385129999999,
+            "rating": 4.2,
+            "ratingCount": 34,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.mauryregional.com/locations/maury-regional-cancer-center/",
+            "phoneNumber": "(931) 328-0959",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNruibq2q1Rm4Ia3XEimstdOTRXd2dS1Vr7II7a",
+            "cid": "17933603824481584508",
+            "fid": "0x8863720ca698a799:0xf8e0f5a97ccfc57c",
+            "placeId": "ChIJmaeYpgxyY4gRfMXPfKn14Pg"
+        },
+        {
+            "position": 14,
+            "title": "AdventHealth Cancer Institute",
+            "address": "2501 N Orange Ave, Orlando, FL 32804",
+            "latitude": 28.5752165,
+            "longitude": -81.3718947,
+            "rating": 4.6,
+            "ratingCount": 45,
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital",
+                "Hospital"
+            ],
+            "website": "https://www.adventhealthcancerinstitute.com/",
+            "phoneNumber": "(844) 600-2568",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqiN19CjV38AuBn-tY5xn0vU4MDm5ZgWPtYjiZ",
+            "cid": "16347479684847975112",
+            "fid": "0x88e77bfb36014d17:0xe2ddea2924473ac8",
+            "placeId": "ChIJF00BNvt754gRyDpHJCnq3eI"
+        },
+        {
+            "position": 15,
+            "title": "Florida Cancer Specialists & Research Institute",
+            "address": "750 Orienta Ave, Altamonte Springs, FL 32701",
+            "latitude": 28.660635,
+            "longitude": -81.36446269999999,
+            "rating": 4.8,
+            "ratingCount": 232,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Medical group",
+                "Oncologist",
+                "Radiologist",
+                "Research institute"
+            ],
+            "website": "https://flcancer.com/location/altamonte/",
+            "phoneNumber": "(407) 553-7710",
+            "openingHours": {
+                "Tuesday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:45\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ0RaQXHi5vKJnP25v4RwTiAnhQXlmWm5qcB4Y",
+            "cid": "11571635940704800461",
+            "fid": "0x88e7718e284ab16d:0xa096b59433da4ecd",
+            "placeId": "ChIJbbFKKI5x54gRzU7aM5S1lqA"
+        },
+        {
+            "position": 16,
+            "title": "Onvida Health Cancer and Blood Disorders Center",
+            "address": "2375 Ridgeview Dr, Yuma, AZ 85364",
+            "latitude": 32.6843176,
+            "longitude": -114.6370238,
+            "rating": 4.7,
+            "ratingCount": 183,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.onvidahealth.org/location/cancer-and-blood-disorders-center/",
+            "phoneNumber": "(928) 336-2518",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mycare.yumaregional.org/mycare/Authentication/Login?"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVFEHc9Ko05Ijj79lG3u7rpsnRD1CkHB8gNZxD",
+            "cid": "16228689831494376158",
+            "fid": "0x14e4cadd54994133:0xe137e36b20375ade",
+            "placeId": "ChIJM0GZVN3K5BQR3lo3IGvjN-E"
+        },
+        {
+            "position": 17,
+            "title": "Hope Regional Cancer Center",
+            "address": "2900 FL-77, Lynn Haven, FL 32444",
+            "latitude": 30.2146749,
+            "longitude": -85.6499202,
+            "rating": 4.6,
+            "ratingCount": 127,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Diagnostic center",
+                "Medical diagnostic imaging center",
+                "MRI center",
+                "Oncologist"
+            ],
+            "website": "http://www.hoperegionalcancercenter.com/",
+            "phoneNumber": "(850) 481-1687",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUAGYMTWfxncoSf2Bh_55AeL85UBcZW2uhA2Ch",
+            "cid": "9228756145524647436",
+            "fid": "0x889383b1edaaf9a1:0x801320d17cb3260c",
+            "placeId": "ChIJofmq7bGDk4gRDCazfNEgE4A"
+        },
+        {
+            "position": 18,
+            "title": "Kadlec Tri-Cities Cancer Center",
+            "address": "7350 W Deschutes Ave building a, Kennewick, WA 99336",
+            "latitude": 46.213040799999995,
+            "longitude": -119.2207272,
+            "rating": 3.2,
+            "ratingCount": 26,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.providence.org/locations/kadlec/tri-cities-cancer-center?Is=location&y_source=1_MjgxNDkxNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 783-9894",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/provider-listing?related=f57ee49b7ce84206b8398e01fdbe85f7&y_source=1_MjgxNDkxNzktNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzqB_zIzhMThFR3drSiQSoPFPGWvcKpTQ0Uk9n",
+            "cid": "11426327890249961639",
+            "fid": "0x549879ed3ca08091:0x9e9278ad497cd0a7",
+            "placeId": "ChIJkYCgPO15mFQRp9B8Sa14kp4"
+        },
+        {
+            "position": 19,
+            "title": "Emerald Coast Cancer Center",
+            "address": "1024 Marwalt Dr, Fort Walton Beach, FL 32547",
+            "latitude": 30.454893499999997,
+            "longitude": -86.6352146,
+            "rating": 4.1,
+            "ratingCount": 27,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://emeraldcoastcancercenter.com/",
+            "phoneNumber": "(850) 863-3148",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyMsNXG735tr8lf7Bgem_9TtUkDVlGvMQAGwDQ",
+            "cid": "9781105558498889883",
+            "fid": "0x88913e440df4d295:0x87bd77aed4ecd09b",
+            "placeId": "ChIJldL0DUQ-kYgRm9Ds1K53vYc"
+        },
+        {
+            "position": 20,
+            "title": "Lee Health Regional Cancer Center",
+            "address": "8931 Colonial Center Dr, Fort Myers, FL 33905",
+            "latitude": 26.614704999999997,
+            "longitude": -81.80841149999999,
+            "rating": 3.9,
+            "ratingCount": 34,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor"
+            ],
+            "website": "https://www.leehealth.org/find-a-location/regional-cancer-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(239) 343-9500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.leehealth.org/our-services/oncology-cancer-care?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWC8QrDRwg3f-i_LP4aAffxRuaTKwEEtI04VEB",
+            "cid": "15133679772014988449",
+            "fid": "0x88db6ba5cc8e7ce9:0xd205a1922b77cca1",
+            "placeId": "ChIJ6XyOzKVr24gRocx3K5KhBdI"
+        }
+    ],
+    "credits": 3
+}

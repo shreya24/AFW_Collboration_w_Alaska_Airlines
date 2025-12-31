@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "US Dept. of Vetern Affairs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1934568,-149.8854079,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "U.S. Department of Veterans Affairs, Domiciliary Care Program",
+            "address": "3001 C St, Anchorage, AK 99503",
+            "latitude": 61.1934568,
+            "longitude": -149.8854079,
+            "rating": 4.2,
+            "ratingCount": 16,
+            "type": "Veterans affairs department",
+            "types": [
+                "Veterans affairs department"
+            ],
+            "website": "http://www.va.gov/",
+            "phoneNumber": "(907) 273-4000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-CjYIIFJL1IE1xel0ZA0EZpPNG38pkXWy772AbYrkiKGMF-cMNTZFGzKR7y4MAygScsX6-87oZcehY8ViwZdZo9jw9B8OP3DZc8lTBAlav56iTpxUrHyXvuRABDUp9DZT_i7kN",
+            "cid": "7271276103805794124",
+            "fid": "0x56c897c67562961d:0x64e8c3176f21774c",
+            "placeId": "ChIJHZZidcaXyFYRTHchbxfD6GQ"
+        }
+    ],
+    "credits": 3
+}

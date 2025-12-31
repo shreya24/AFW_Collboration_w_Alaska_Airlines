@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Bristol Bay Native Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.0447975,-158.4933367,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bristol Bay Native Association",
+            "address": "1500 Kanakanak Rd, Dillingham, AK 99576",
+            "latitude": 59.044797499999994,
+            "longitude": -158.4933367,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Tribal headquarters",
+            "types": [
+                "Tribal headquarters",
+                "Non-profit organization"
+            ],
+            "website": "http://www.bbna.com/",
+            "phoneNumber": "(907) 842-5257",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOOL6waKXUWJZrndrnvXrO7CC-be-z4N_7WrXno",
+            "cid": "4062411494659592893",
+            "fid": "0x56e73db7bedd224b:0x386095bb16a612bd",
+            "placeId": "ChIJSyLdvrc951YRvRKmFruVYDg"
+        }
+    ],
+    "credits": 3
+}

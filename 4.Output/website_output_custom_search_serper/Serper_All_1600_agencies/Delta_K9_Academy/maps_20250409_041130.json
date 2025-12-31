@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Delta K9 Academy",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2046155,-118.4243653,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Delta K9 Academy",
+            "address": "7360 Varna Ave, Valley Glen, CA 91605",
+            "latitude": 34.204615499999996,
+            "longitude": -118.42436529999999,
+            "rating": 4.7,
+            "ratingCount": 70,
+            "type": "Dog trainer",
+            "types": [
+                "Dog trainer",
+                "Dog breeder",
+                "Dog day care center"
+            ],
+            "website": "https://k9delta.com/",
+            "phoneNumber": "(818) 337-7070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "8\u202fAM\u201312\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO48ode8dDn74t8GyJSfwzgKRpzs0C9_xMphEyR",
+            "cid": "16168892229899896296",
+            "fid": "0x80c295d664238d47:0xe06371d10ec1c5e8",
+            "placeId": "ChIJR40jZNaVwoAR6MXBDtFxY-A"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Bakersfield Firefighters",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.333383,-119.0300113,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bakersfield Firefighter\u2019s hall",
+            "address": "7320 Wible Rd, Bakersfield, CA 93313",
+            "latitude": 35.288299099999996,
+            "longitude": -119.0384686,
+            "rating": 3.5,
+            "ratingCount": 95,
+            "type": "Banquet hall",
+            "types": [
+                "Banquet hall"
+            ],
+            "website": "http://www.bakersfieldfirefighters.net/",
+            "phoneNumber": "(661) 731-3473",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_hMmWNoio8SJ-WGF6mfuSwVhdSI2wVyN_WRsX3t44NNmPl9LkG1WQlB2MECzt-S8qKzrhaorP27X3VFVC3Fo0H02YOQMs7Y7L2-QeeZjxwWuXjI5ZbUPv9pgZcvhNnl0c18xd9",
+            "cid": "8672061283818466820",
+            "fid": "0x80ea6aacedbedc85:0x785959ca846aee04",
+            "placeId": "ChIJhdy-7axq6oARBO5qhMpZWXg"
+        },
+        {
+            "position": 2,
+            "title": "Bakersfield Fire Department",
+            "address": "2101 H St, Bakersfield, CA 93301",
+            "latitude": 35.378467,
+            "longitude": -119.021554,
+            "rating": 4.5,
+            "ratingCount": 20,
+            "type": "Fire station",
+            "types": [
+                "Fire station"
+            ],
+            "website": "https://www.bakersfieldcity.us/233/Fire",
+            "phoneNumber": "(661) 326-3911",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB__Z6LmtDCVESvq9todZnoJWkgB_f81vOIbwse2J-fnhBUr77c6z4WYRnmpeqnXkDbj1ASokFzyY8DNNAxTyQxvB_z4qYZUKM_JKLtFrsK5A-OYbbNyaQjrpEVQ-FnI4SBEdXOk",
+            "cid": "5046794318113060401",
+            "fid": "0x80ea698a607bd717:0x4609d0b17996b631",
+            "placeId": "ChIJF9d7YIpp6oARMbaWebHQCUY"
+        }
+    ],
+    "credits": 3
+}

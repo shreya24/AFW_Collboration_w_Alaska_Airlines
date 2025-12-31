@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Orest Balytsky DMD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2548114,-122.6335268,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Petaluma Endodontics",
+            "address": "1436 Professional Dr STE 304, Petaluma, CA 94954",
+            "latitude": 38.2548114,
+            "longitude": -122.6335268,
+            "rating": 5,
+            "ratingCount": 83,
+            "type": "Endodontist",
+            "types": [
+                "Endodontist"
+            ],
+            "website": "https://www.petalumaendo.com/",
+            "phoneNumber": "(707) 763-2170",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oKY7gGVF2_z4sJetKJYzPA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=126.97254&pitch=0&thumbfov=100",
+            "cid": "6995903408462363758",
+            "fid": "0x8085b40b6320db65:0x611671158857fc6e",
+            "placeId": "ChIJZdsgYwu0hYARbvxXiBVxFmE"
+        }
+    ],
+    "credits": 3
+}

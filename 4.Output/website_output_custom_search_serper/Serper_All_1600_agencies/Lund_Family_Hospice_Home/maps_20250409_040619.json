@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Lund Family Hospice Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2873545,-111.7473796,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lund Home | Hospice of the Valley",
+            "address": "1982 E Woodside Ct, Gilbert, AZ 85297",
+            "latitude": 33.2873545,
+            "longitude": -111.74737959999999,
+            "rating": 4,
+            "ratingCount": 41,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Non-profit organization"
+            ],
+            "website": "https://www.hov.org/",
+            "phoneNumber": "(480) 786-4482",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_sR7BeRe0FKS8o6ckAywYwPQzs94CNw9XilJXHXGsXrkldn52TF6DaBXh2riQEQH5pAqnhk6fzzsdQGe0dsNXaKVNSgAXzVokZvrFLyY8HIU0mxoyXrwR_ukQm0IkSZ-sZXHl9vQ",
+            "cid": "554526441661488383",
+            "fid": "0x872bad105b3f5771:0x7b212dc55cb5cff",
+            "placeId": "ChIJcVc_WxCtK4cR_1zLVdwSsgc"
+        }
+    ],
+    "credits": 3
+}

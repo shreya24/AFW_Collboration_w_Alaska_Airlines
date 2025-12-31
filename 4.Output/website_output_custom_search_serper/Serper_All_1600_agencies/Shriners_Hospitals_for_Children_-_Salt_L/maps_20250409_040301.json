@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Shriners Hospitals for Children - Salt L",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.777232,-111.850456,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Salt Lake City",
+            "address": "1275 E Fairfax Rd, Salt Lake City, UT 84103",
+            "latitude": 40.777232,
+            "longitude": -111.850456,
+            "rating": 4.6,
+            "ratingCount": 159,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Anesthesiologist",
+                "Doctor",
+                "Medical Center",
+                "Non-profit organization",
+                "Pediatric clinic"
+            ],
+            "website": "http://shrinerschildrens.org/en/locations/salt-lake-city",
+            "phoneNumber": "(801) 536-3500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.shrinerschildrens.org/en/request-an-appointment?location=Salt%20Lake%20City"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN9Mr4h5dB_6_vbhOF2XKpKedIIcspZtLnFgv_T",
+            "cid": "12322203816979633126",
+            "fid": "0x87525f86b5b041b9:0xab014315f10893e6",
+            "placeId": "ChIJuUGwtYZfUocR5pMI8RVDAas"
+        }
+    ],
+    "credits": 3
+}

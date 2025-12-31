@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "National Cancer Institue/Nat'l Inst. of Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0286558,-117.8102724,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Research Institute Natl",
+            "address": "Diamond Bar, CA 91765",
+            "latitude": 34.028655799999996,
+            "longitude": -117.81027239999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(909) 623-5000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y6tzGoVqZlKp2v409oFmoQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=15.2873955&pitch=0&thumbfov=100",
+            "cid": "9064566749304080583",
+            "fid": "0x80c32c6a55c890dd:0x7dcbcf6eaf1648c7",
+            "placeId": "ChIJ3ZDIVWosw4ARx0gWr27Py30"
+        }
+    ],
+    "credits": 3
+}

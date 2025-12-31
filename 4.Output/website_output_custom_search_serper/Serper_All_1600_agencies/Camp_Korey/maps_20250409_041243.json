@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Camp Korey",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3112336,-122.2048352,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Korey",
+            "address": "24880 Brotherhood Rd, Mount Vernon, WA 98274",
+            "latitude": 48.3112336,
+            "longitude": -122.20483519999999,
+            "rating": 4.9,
+            "ratingCount": 70,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://campkorey.org/",
+            "phoneNumber": "(425) 440-0850",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOk-tJO_1IJntMswBzj_XUCrmpHczWmng9zUtnh",
+            "cid": "2816441537792028617",
+            "fid": "0x5490743921b42a4b:0x271602a80ebfafc9",
+            "placeId": "ChIJSyq0ITl0kFQRya-_DqgCFic"
+        }
+    ],
+    "credits": 3
+}

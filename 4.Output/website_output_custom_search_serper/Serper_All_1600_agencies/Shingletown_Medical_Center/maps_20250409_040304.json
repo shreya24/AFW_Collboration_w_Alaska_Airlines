@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Shingletown Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4915963,-121.8853338,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shingletown Medical Center",
+            "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+            "latitude": 40.4915963,
+            "longitude": -121.8853338,
+            "rating": 3.5,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Chiropractor",
+                "Community health centre",
+                "Family counselor",
+                "Family practice physician",
+                "Fitness center",
+                "Health counselor",
+                "Mental health clinic",
+                "Psychiatrist"
+            ],
+            "website": "https://shingletownmedcenter.org/",
+            "phoneNumber": "(530) 474-3390",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDs8TyJ81Cg_YV0ubf9sEOjEkSVUK2tZ02xza9",
+            "cid": "14465162646189014363",
+            "fid": "0x54d2a592a7db1eb7:0xc8be94c978587d5b",
+            "placeId": "ChIJtx7bp5Kl0lQRW31YeMmUvsg"
+        }
+    ],
+    "credits": 3
+}

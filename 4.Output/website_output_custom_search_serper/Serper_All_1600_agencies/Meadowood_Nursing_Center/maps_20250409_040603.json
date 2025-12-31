@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Meadowood Nursing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4945237,-121.9922165,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Meadowood Nursing Center",
+            "address": "3805 Dexter Ln, Clearlake, CA 95422",
+            "latitude": 38.9575982,
+            "longitude": -122.628007,
+            "rating": 4,
+            "ratingCount": 43,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Assisted living facility",
+                "Nursing agency"
+            ],
+            "website": "https://www.meadowoodnc.com/?utm_source=Google&utm_medium=gmb&utm_campaign=local",
+            "phoneNumber": "(707) 994-7738",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.meadowoodnc.com/?openFurtherBot=500&forceOpen=True&financialChatActivated=True&utm_source=GMB&utm_medium=VSA"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN8eijHuCgJQi07f53tdysbAUEZU_L00knxW8eN",
+            "cid": "632706448995495897",
+            "fid": "0x80838bd5f366bf53:0x8c7d329c379afd9",
+            "placeId": "ChIJU79m89WLg4AR2a95wynTxwg"
+        },
+        {
+            "position": 2,
+            "title": "Meadowood at O'Connor Woods",
+            "address": "3110 Wagner Heights Rd, Stockton, CA 95209",
+            "latitude": 38.031449099999996,
+            "longitude": -121.3564261,
+            "rating": 3.4,
+            "ratingCount": 18,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Nursing home"
+            ],
+            "website": "https://www.eskaton.org/post/oconnor-woods-rehabilitation-and-skilled-nursing",
+            "phoneNumber": "(209) 956-3444",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8iNKGQA2RDpOxWSXdDL185dFS_px5pKi_J_HRs6z_93qfEk1sFvxaZLwrrDCR4tSPFIWNjHsKPAdXw07hFKmALjSfSTK1kNEfpSekFb_iAJuKYtAq3URoApf0Y2CbfMzXR7_c",
+            "cid": "14307369455094067401",
+            "fid": "0x8090095f251350e5:0xc68dfcb73927f0c9",
+            "placeId": "ChIJ5VATJV8JkIARyfAnObf8jcY"
+        }
+    ],
+    "credits": 3
+}

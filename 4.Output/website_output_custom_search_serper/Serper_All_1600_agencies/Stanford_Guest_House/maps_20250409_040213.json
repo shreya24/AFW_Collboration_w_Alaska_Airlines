@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Stanford Guest House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4197321,-122.2026907,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Guest House",
+            "address": "Guest House, 2575 Sand Hill Rd, Menlo Park, CA 94025",
+            "latitude": 37.4197321,
+            "longitude": -122.20269069999999,
+            "rating": 4.7,
+            "ratingCount": 265,
+            "type": "Hotel",
+            "types": [
+                "Hotel"
+            ],
+            "website": "http://guesthouse.stanford.edu/",
+            "phoneNumber": "(650) 926-2800",
+            "description": "Cozy boutique hotel in the foothills featuring luxury bedding & free continental breakfast.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFQs5RPvE9Pe3423YDhS1xkC6rHShHPLVkeebSibGgVntFXeiIZbSgyWD1w9vTiI-TjpE0vyNKveaDL_a2IOzNNFv96trdN3UEh7OmEFbFfdGp8jiGoq6oI6QmAwCO8fa8k03XIQsNuWzAd1ZL0Bk8VOEOOaGqPDW5Rk5p_Duvf9-VRYR1v78Db",
+            "cid": "8971812403001847549",
+            "fid": "0x808fa4e291132c0d:0x7c8247d8885e6efd",
+            "placeId": "ChIJDSwTkeKkj4AR_W5eiNhHgnw"
+        }
+    ],
+    "credits": 3
+}

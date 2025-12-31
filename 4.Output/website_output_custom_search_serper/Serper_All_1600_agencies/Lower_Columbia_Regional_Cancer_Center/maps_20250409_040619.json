@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Lower Columbia Regional Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.1302764,-122.9408589,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lower Columbia Regional Cancer Center",
+            "address": "1615 Delaware St, Longview, WA 98632",
+            "latitude": 46.1302764,
+            "longitude": -122.9408589,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://www.peacehealth.org/locations/longview/cancer-center-peacehealth-st-john-medical-center",
+            "phoneNumber": "(360) 414-7878",
+            "cid": "14183021634280013002",
+            "fid": "0x54946c7d4240f1f3:0xc4d4370810f0bcca",
+            "placeId": "ChIJ8_FAQn1slFQRyrzwEAg31MQ"
+        }
+    ],
+    "credits": 3
+}

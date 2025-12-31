@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Advanced Surgery Center of Northern Utah",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7150193,-111.8333715,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Advanced Surgery Center of Northern Utah",
+            "address": "55 east Golf Course Rd, Logan, UT 84321",
+            "latitude": 41.7150193,
+            "longitude": -111.8333715,
+            "rating": 4.1,
+            "ratingCount": 15,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://advancedsurgerycenternorthernutah.com/",
+            "phoneNumber": "(435) 787-7190",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20135\u202fPM",
+                "Wednesday": "6\u202fAM\u20135\u202fPM",
+                "Thursday": "6\u202fAM\u20135\u202fPM",
+                "Friday": "6\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN6i_rd0qTWaKf2fU6_777_LDBsy7JY-xiRgrva",
+            "cid": "9355377633944909998",
+            "fid": "0x87547f0b2f7e59db:0x81d4fa6422ebb8ae",
+            "placeId": "ChIJ21l-Lwt_VIcRrrjrImT61IE"
+        }
+    ],
+    "credits": 3
+}

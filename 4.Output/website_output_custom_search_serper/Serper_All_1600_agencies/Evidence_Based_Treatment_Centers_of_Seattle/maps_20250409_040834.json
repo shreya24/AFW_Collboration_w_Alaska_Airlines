@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Evidence Based Treatment Centers of Seattle",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6083586,-122.3332518,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Evidence Based Treatment Centers of Seattle",
+            "address": "1200 5th Ave #800, Seattle, WA 98101",
+            "latitude": 47.608358599999995,
+            "longitude": -122.3332518,
+            "rating": 3.2,
+            "ratingCount": 17,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Counselor",
+                "Mental health service",
+                "Psychiatrist",
+                "Psychologist",
+                "Psychotherapist"
+            ],
+            "website": "https://ebtseattle.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+            "phoneNumber": "(206) 374-0109",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://ebtseattle.com/about-us/contact/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hDsx5ff6NXDh_UktyPPnDQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=13.847041&pitch=0&thumbfov=100",
+            "cid": "245994411370584016",
+            "fid": "0x54906ab403730b41:0x369f29d227997d0",
+            "placeId": "ChIJQQtzA7RqkFQR0Jd5Ip3yaQM"
+        }
+    ],
+    "credits": 3
+}

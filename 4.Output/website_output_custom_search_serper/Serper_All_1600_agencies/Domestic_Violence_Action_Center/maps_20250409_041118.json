@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Domestic Violence Action Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8455968,-77.3073658,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Domestic Violence Action Center",
+            "address": "4000 Chain Bridge Rd #2702, Fairfax, VA 22030",
+            "latitude": 38.845596799999996,
+            "longitude": -77.3073658,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://www.fairfaxcounty.gov/familyservices/domestic-sexual-violence/domestic-violence-action-center",
+            "phoneNumber": "(703) 246-4573",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K_Kxl0nL6kdjUU7_ZVh7xQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=290.86713&pitch=0&thumbfov=100",
+            "cid": "5001433884517196712",
+            "fid": "0x89b64e92ee10f6d1:0x4568a99e863fe3a8",
+            "placeId": "ChIJ0fYQ7pJOtokRqOM_hp6paEU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Loma Linda University Eye Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0472169,-117.2620251,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Loma Linda University Eye Institute",
+            "address": "11370 Anderson St #1800, Loma Linda, CA 92354",
+            "latitude": 34.047216899999995,
+            "longitude": -117.26202509999999,
+            "rating": 4,
+            "ratingCount": 76,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Lasik surgeon",
+                "Ophthalmologist",
+                "Ophthalmology clinic",
+                "Optometrist"
+            ],
+            "website": "https://lluh.org/services/eye-institute",
+            "phoneNumber": "(909) 558-2154",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_oiiuvXAZDg2ull7s_t6nyKHUaWmp0_i_xUqC6DPmLw5RoNbfCabiTG7K6kfd2EmROPiWKWmKkBGtrj79vF0KPPeNx9SA_OEJ4d2E6qC_eVGMLSHoEACibs-ojHcZ39p1EEwAtnQ",
+            "cid": "12559032834230288471",
+            "fid": "0x80dcab862f872d17:0xae4aa5d276c38057",
+            "placeId": "ChIJFy2HL4ar3IARV4DDdtKlSq4"
+        }
+    ],
+    "credits": 3
+}

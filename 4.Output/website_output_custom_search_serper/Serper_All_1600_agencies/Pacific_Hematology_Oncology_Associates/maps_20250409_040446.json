@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pacific Hematology Oncology Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.790622,-122.4321701,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific Hematology Oncology Associates",
+            "address": "2100 Webster St # 225, San Francisco, CA 94115",
+            "latitude": 37.790622,
+            "longitude": -122.4321701,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://phoamd.com/",
+            "phoneNumber": "(415) 923-3012",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JSk081NarRJI4Ngq-zO6hA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=71.41272&pitch=0&thumbfov=100",
+            "cid": "17973677543284204310",
+            "fid": "0x808580c6f3e004f9:0xf96f547f3adee316",
+            "placeId": "ChIJ-QTg88aAhYARFuPeOn9Ub_k"
+        }
+    ],
+    "credits": 3
+}

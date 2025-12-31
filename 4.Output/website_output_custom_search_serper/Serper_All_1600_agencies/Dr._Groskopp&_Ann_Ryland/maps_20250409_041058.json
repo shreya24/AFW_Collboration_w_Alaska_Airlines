@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Groskopp& Ann Ryland",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3276296,-122.8651299,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Groskopp & Ryland",
+            "address": "800 E Main St, Medford, OR 97504",
+            "latitude": 42.3276296,
+            "longitude": -122.8651299,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.roguevalleyphysicians.com/",
+            "phoneNumber": "(541) 608-7683",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y5Beza1nCjI9pB74g6Lw6w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=227.28119&pitch=0&thumbfov=100",
+            "cid": "16967543192228386494",
+            "fid": "0x54cf7a395eb0c2c5:0xeb78d2a2abded6be",
+            "placeId": "ChIJxcKwXjl6z1QRvtbeq6LSeOs"
+        }
+    ],
+    "credits": 3
+}

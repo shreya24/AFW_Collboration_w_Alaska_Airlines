@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Legacy Hospice McMinnville",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.2260012,-123.1808622,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Legacy Hospice - McMinnville",
+            "address": "2275 NE McDaniel Ln, McMinnville, OR 97128",
+            "latitude": 45.2260012,
+            "longitude": -123.18086219999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(503) 472-9685",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3XRokXvujaN1O7JlVVDmIg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=71.50476&pitch=0&thumbfov=100",
+            "cid": "17821310511060443509",
+            "fid": "0x54954891b70af8af:0xf752037d0bb16175",
+            "placeId": "ChIJr_gKt5FIlVQRdWGxC30DUvc"
+        }
+    ],
+    "credits": 3
+}

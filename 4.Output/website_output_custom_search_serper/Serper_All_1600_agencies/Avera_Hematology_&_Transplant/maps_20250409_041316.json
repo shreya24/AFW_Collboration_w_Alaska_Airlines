@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Avera Hematology & Transplant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.5333558,-96.7134211,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Avera Hematology & Transplant",
+            "address": "1000 E 21st St, Sioux Falls, SD 57105",
+            "latitude": 43.5338279,
+            "longitude": -96.7138147,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://www.avera.org/locations/profile/avera-medical-group-hematology-transplant-cellular-therapy-prairie-center-sioux-falls/",
+            "phoneNumber": "(605) 322-3035",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_s7ZPyRJgkAKAXEd5hBnXQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.8253&pitch=0&thumbfov=100",
+            "cid": "15412068137523055712",
+            "fid": "0x878eb5c90f18cb95:0xd5e2aa507f2d8c60",
+            "placeId": "ChIJlcsYD8m1jocRYIwtf1Cq4tU"
+        },
+        {
+            "position": 2,
+            "title": "Avera Medical Group Hematology, Transplant & Cellular Therapy \u2014 Prairie Center",
+            "address": "1000 E 23rd St Suite 200, Sioux Falls, SD 57105",
+            "latitude": 43.5328837,
+            "longitude": -96.7130275,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Oncologist",
+                "Transplant surgeon"
+            ],
+            "website": "https://www.avera.org/locations/profile/avera-medical-group-hematology-transplant-cellular-therapy-prairie-center-sioux-falls/?y_source=1_MTIyMTI1MTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(605) 322-3035",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZsUnRxTRwSMfeDSFH0Lexx45_06eyaRMbXV6_",
+            "cid": "1688489107354051016",
+            "fid": "0x878eb503cf9917ed:0x176eb7e5aaf461c8",
+            "placeId": "ChIJ7ReZzwO1jocRyGH0quW3bhc"
+        }
+    ],
+    "credits": 3
+}

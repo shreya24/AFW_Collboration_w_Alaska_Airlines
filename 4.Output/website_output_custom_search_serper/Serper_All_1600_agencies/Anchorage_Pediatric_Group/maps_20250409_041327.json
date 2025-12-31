@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Anchorage Pediatric Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1881801,-149.816919,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anchorage Pediatric Group",
+            "address": "3340 Providence Dr #500, Anchorage, AK 99508",
+            "latitude": 61.1881801,
+            "longitude": -149.81691899999998,
+            "rating": 3.8,
+            "ratingCount": 33,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.apgkids.com/",
+            "phoneNumber": "(907) 562-2423",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMfRtvLY3R3ChkpOo8kDedBDkyGuQiQ4u6QVzBT",
+            "cid": "7480322473308302243",
+            "fid": "0x56c89701a788454f:0x67cf71a832e9aba3",
+            "placeId": "ChIJT0WIpwGXyFYRo6vpMqhxz2c"
+        }
+    ],
+    "credits": 3
+}

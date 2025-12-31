@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Russell Pardoe",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7857984,-124.1398655,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pardoe Russel MD",
+            "address": "2460 Buhne St, Eureka, CA 95501",
+            "latitude": 40.7857984,
+            "longitude": -124.1398655,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "phoneNumber": "(707) 445-3075",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gVziXcc0Vi826phSB5y_5Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=166.13692&pitch=0&thumbfov=100",
+            "cid": "1064251162080725914",
+            "fid": "0x54d3ffb98cefaf6d:0xec4facb139e4b9a",
+            "placeId": "ChIJba_vjLn_01QRmkueE8v6xA4"
+        }
+    ],
+    "credits": 3
+}

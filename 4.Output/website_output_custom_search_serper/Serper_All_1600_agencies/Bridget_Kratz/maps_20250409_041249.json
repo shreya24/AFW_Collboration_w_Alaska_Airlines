@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Bridget Kratz",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.9079313,-88.1466023,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "BRIDGET K KRATZ-SCHWARTZ",
+            "address": "W225 N16711, W225N16711 Cedar Park Ct, Jackson, WI 53037",
+            "latitude": 43.322852499999996,
+            "longitude": -88.1901426,
+            "type": "Physical therapist",
+            "types": [
+                "Physical therapist"
+            ],
+            "phoneNumber": "(262) 677-1101",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcer6zdIjMOwU1ct4MDdtzLEO013FHfQYe1cII",
+            "cid": "5469224131214659743",
+            "fid": "0x8804582302700001:0x4be6965ec20b509f",
+            "placeId": "ChIJAQBwAiNYBIgRn1ALwl6W5ks"
+        },
+        {
+            "position": 2,
+            "title": "Bridget K. Kratz, PT",
+            "address": "1630 Commanche Ave, Green Bay, WI 54313",
+            "latitude": 44.49301,
+            "longitude": -88.103062,
+            "type": "Physical therapist",
+            "types": [
+                "Physical therapist",
+                "Physical therapy clinic",
+                "Professional services"
+            ],
+            "phoneNumber": "(920) 430-4700",
+            "cid": "9110218939418686230",
+            "fid": "0x8802f976c383a7db:0x7e6dffdb7e163316",
+            "placeId": "ChIJ26eDw3b5AogRFjMWftv_bX4"
+        }
+    ],
+    "credits": 3
+}

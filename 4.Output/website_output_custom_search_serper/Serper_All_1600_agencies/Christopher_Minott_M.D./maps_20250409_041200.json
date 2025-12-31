@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Christopher Minott M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8097285,-98.3426431,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Chris Minotti - Financial Advisor, Ameriprise Financial Services, LLC",
+            "address": "30100 Chagrin Blvd Ste 180, Pepper Pike, OH 44124",
+            "latitude": 41.4610564,
+            "longitude": -81.4655753,
+            "type": "Financial planner",
+            "types": [
+                "Financial planner",
+                "Investment service"
+            ],
+            "website": "https://www.ameripriseadvisors.com/Christopher.Minotti/?cid=IP_local_google",
+            "phoneNumber": "(216) 825-2333",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.ameripriseadvisors.com/Christopher.Minotti/contact/?cid=IP_local_google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxQzjln4qc6f291KRsE-7inZnRqzeW0rFZc1Ov",
+            "cid": "18320147873077719599",
+            "fid": "0x883103cdcf6397c3:0xfe3e3d6d1f6cf22f",
+            "placeId": "ChIJw5djz80DMYgRL_JsH209Pv4"
+        },
+        {
+            "position": 2,
+            "title": "Minott Christopher MD",
+            "address": "5701 W Charleston Blvd # 201, Las Vegas, NV 89146",
+            "latitude": 36.1584006,
+            "longitude": -115.21971099999999,
+            "type": "Urologist",
+            "types": [
+                "Urologist"
+            ],
+            "phoneNumber": "(702) 384-7234",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YkmJch3FERiKgq1Jjq6Uww&cb_client=search.gws-prod.gps&w=80&h=92&yaw=227.00087&pitch=0&thumbfov=100",
+            "cid": "4950384772462297606",
+            "fid": "0x80c8c1114b7840b5:0x44b34cb8e81e4206",
+            "placeId": "ChIJtUB4SxHByIARBkIe6LhMs0Q"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Christopher A. Minott, MD",
+            "address": "501 S Rancho Dr, Las Vegas, NV 89106",
+            "latitude": 36.1649694,
+            "longitude": -115.1717319,
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BGe8E8V5nplANw_oVtDgnA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=167.36317&pitch=0&thumbfov=100",
+            "cid": "17863168368063913803",
+            "fid": "0x80c8c3c23671b2d9:0xf7e6b8fcd5719f4b",
+            "placeId": "ChIJ2bJxNsLDyIARS59x1fy45vc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Robert G. Salazar, M.D., Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8402057,-119.7591877,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Robert Salazar",
+            "address": "7152 N Sharon Ave Ste 102, Fresno, CA 93720",
+            "latitude": 36.8402057,
+            "longitude": -119.7591877,
+            "rating": 3.7,
+            "ratingCount": 12,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician",
+                "Anesthesiologist"
+            ],
+            "website": "https://www.calpainspine.com/robert-salazar-md/",
+            "phoneNumber": "(559) 432-6807",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1kkF4SNXYhOQIUt1QB0_cQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=56.873035&pitch=0&thumbfov=100",
+            "cid": "1012964321798406612",
+            "fid": "0x80945d339d43ffff:0xe0ec5af0af041d4",
+            "placeId": "ChIJ__9DnTNdlIAR1EHwCq_FDg4"
+        }
+    ],
+    "credits": 3
+}

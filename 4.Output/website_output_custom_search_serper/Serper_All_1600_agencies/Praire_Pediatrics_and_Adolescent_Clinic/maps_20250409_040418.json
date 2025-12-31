@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Praire Pediatrics and Adolescent Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.5025543,-96.4055271,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Prairie Pediatrics & Adolescent Clinic",
+            "address": "1125 Pierce St #100, Sioux City, IA 51105",
+            "latitude": 42.5025543,
+            "longitude": -96.4055271,
+            "rating": 3.1,
+            "ratingCount": 33,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.fhcsl.com/prairie-pediatrics/",
+            "phoneNumber": "(712) 255-8901",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNG6FkWSaaMe7YYvElHG2gm5KBXD035Hhx1H3lk",
+            "cid": "17319989643684155656",
+            "fid": "0x878dfd63aadab36f:0xf05cf6d0d13d1108",
+            "placeId": "ChIJb7PaqmP9jYcRCBE90dD2XPA"
+        }
+    ],
+    "credits": 3
+}

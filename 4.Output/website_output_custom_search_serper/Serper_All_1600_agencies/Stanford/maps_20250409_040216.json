@@ -1,0 +1,531 @@
+{
+    "searchParameters": {
+        "q": "Stanford",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.424975,-122.1702825,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford University",
+            "address": "450 Jane Stanford Way, Stanford, CA 94305",
+            "latitude": 37.427659999999996,
+            "longitude": -122.17005999999999,
+            "rating": 4.7,
+            "ratingCount": 4108,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "http://www.stanford.edu/",
+            "phoneNumber": "(650) 723-2300",
+            "description": "Founded in 1885, this private research school is known for law, engineering, business & medicine.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8buj5cr5MLpfpUqbG3NNaFnhzl0iN22m8cXdObf9PtapQ9f4P6_ZBnEWe4EXw17BfPz62erZjY5DTZxxsQnxMGAPgCtkZtZyr3QGUOta_j_zgYsiquL7yABZ0ruazJVQOP-Qe1eg",
+            "cid": "3012327721397938303",
+            "fid": "0x808fbb2a678bea9d:0x29cdf01a44fc687f",
+            "placeId": "ChIJneqLZyq7j4ARf2j8RBrwzSk"
+        },
+        {
+            "position": 2,
+            "title": "Stanford",
+            "address": "California",
+            "latitude": 37.424105999999995,
+            "longitude": -122.1660756,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9iFLXEPqiG09MdwhsxfPJ01StkacuUFqgsptA5-IcgNEmKLYwsHw2onuQzL__fsske5koGqO8d43cDNfgN4ul135RUh8UE9FId1acpIErL3QJB1NGK88oZmdNbhea2RdG7Weo",
+            "cid": "7758872314798448466",
+            "fid": "0x808fbac95ef1decd:0x6bad0d43152c9f52",
+            "placeId": "ChIJzd7xXsm6j4ARUp8sFUMNrWs"
+        },
+        {
+            "position": 3,
+            "title": "Stanford Shopping Center",
+            "address": "660 Stanford Shopping Center, Palo Alto, CA 94304",
+            "latitude": 37.4434721,
+            "longitude": -122.17129229999999,
+            "rating": 4.5,
+            "ratingCount": 10618,
+            "type": "Shopping mall",
+            "types": [
+                "Shopping mall"
+            ],
+            "website": "https://www.simon.com/mall/stanford-shopping-center",
+            "phoneNumber": "(650) 617-8200",
+            "description": "Open-air, garden-lined mall with high-end department stores & boutiques, specialty shops & eateries.",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20137\u202fPM",
+                "Wednesday": "10\u202fAM\u20137\u202fPM",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "10\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "11\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8fK6zey3kPnhbbCIpUzWxpbVQD2_vuaXgl4n1xzzOeTHIIUOVbuY9RFfCwW7h-tXXdtfOYZWTeQVOFR8yDGl_og7jg62fMSXVubTwr-35AdJNTTFkEk3iJ2itcsBXiAny5W20U",
+            "cid": "529337543404583124",
+            "fid": "0x808fbb3471827639:0x75895b0f0e878d4",
+            "placeId": "ChIJOXaCcTS7j4AR1Hjo8LCVWAc"
+        },
+        {
+            "position": 4,
+            "title": "Stanford Stadium",
+            "address": "625 Nelson Rd, Stanford, CA 94305",
+            "latitude": 37.4345298,
+            "longitude": -122.16112269999999,
+            "rating": 4.4,
+            "ratingCount": 1355,
+            "type": "Stadium",
+            "types": [
+                "Stadium"
+            ],
+            "website": "http://www.gostanford.com/facilities/?id=16",
+            "phoneNumber": "(800) 782-6367",
+            "description": "Surrounded by trees, Stanford University's modern football stadium features 2 decks & 50,000 seats.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-G6LgmawUlVsHkk5IWumfS2kFj3Azp0o4Pqlp-4qKNQks1aMFSJ95H8JmkNoxnXbcpCPauFSqC9pFEl57E6yvodMqQXFOd9oLnyDdijyUTFVe0T_ReByfo73QLMe_S7pw857A",
+            "cid": "8227789937549139438",
+            "fid": "0x808fbb2955555533:0x722efb5b02265dee",
+            "placeId": "ChIJM1VVVSm7j4AR7l0mAlv7LnI"
+        },
+        {
+            "position": 5,
+            "title": "Cantor Arts Center at Stanford University",
+            "address": "328 Lomita Dr, Stanford, CA 94305",
+            "latitude": 37.4329672,
+            "longitude": -122.17052659999999,
+            "rating": 4.7,
+            "ratingCount": 2178,
+            "type": "Museum",
+            "types": [
+                "Museum",
+                "Art museum",
+                "Tourist attraction"
+            ],
+            "website": "https://museum.stanford.edu/",
+            "phoneNumber": "(650) 723-4177",
+            "description": "Classic & contemporary art museum with an outdoor sculpture garden featuring Rodin bronzes.",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "11\u202fAM\u20136\u202fPM",
+                "Thursday": "11\u202fAM\u20138\u202fPM",
+                "Friday": "11\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "10\u202fAM\u20135\u202fPM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ivO1DYQ3_VNmuFsq2SW0jCE08_g0klCeuXv7lAENWv_Pd6-yDW6vjJmW9sbc-8NODUh_mjyij8OoicFUx6RiAyrmJdCbzwmvkjHUmA26CKhI5J80Jys1maRMNuN1FAHf5eT-4kQ",
+            "cid": "2031207887627056022",
+            "fid": "0x808fbb2c6da4f739:0x1c304ccfdefb7396",
+            "placeId": "ChIJOfekbSy7j4ARlnP73s9MMBw"
+        },
+        {
+            "position": 6,
+            "title": "Stanford Main Quad",
+            "address": "20 Palm Dr, Stanford, CA 94305",
+            "latitude": 37.427664799999995,
+            "longitude": -122.1701779,
+            "rating": 4.8,
+            "ratingCount": 1007,
+            "type": "Plaza",
+            "types": [
+                "Plaza"
+            ],
+            "website": "http://www.stanford.edu/",
+            "phoneNumber": "(650) 723-2021",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-8jtzGtSVljur-qNjbd36r3x5C9GQewu60n6rvewW_o93i8LXVB_o78BO-cObGp49CCvUkMjwIWDXEG0y4XEUVtjKgwMrpoDyYY6RPrbJsJTEQWK2q-f3hb0yUZbrUQEYdl-Q",
+            "cid": "4895693228300099174",
+            "fid": "0x808fbb2a75232257:0x43f0ff0d7a1cde66",
+            "placeId": "ChIJVyIjdSq7j4ARZt4ceg3_8EM"
+        },
+        {
+            "position": 7,
+            "title": "Stanford Medicine",
+            "address": "300 Pasteur Dr, Palo Alto, CA 94304",
+            "latitude": 37.4332074,
+            "longitude": -122.1755453,
+            "rating": 3.7,
+            "ratingCount": 397,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://stanfordhealthcare.org/for-patients-visitors/video-visits/scheduling-a-video-visit.html?ecid=glocalsearch-ls-google-clinicpage-all-StanfordHospital300Pasteur",
+            "phoneNumber": "(650) 723-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMS685sFQnrasaYx4uCBFc-4Yz18c85ypW0Z-dA",
+            "cid": "11664586628466280754",
+            "fid": "0x808fa4ce1c91b93b:0xa1e0efbca9810932",
+            "placeId": "ChIJO7mRHM6kj4ARMgmBqbzv4KE"
+        },
+        {
+            "position": 8,
+            "title": "Stanford University School Medicine",
+            "address": "291 Campus Drive, Stanford, CA 94305",
+            "latitude": 37.4318102,
+            "longitude": -122.17575799999999,
+            "rating": 4.5,
+            "ratingCount": 89,
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://med.stanford.edu/",
+            "phoneNumber": "(650) 723-2300",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUsNnHN7Fba9fM6gyO4cbCvI8SjFbZ76jhmKcO",
+            "cid": "5610446874980305228",
+            "fid": "0x808fbad80a28090d:0x4ddc4fb51666c94c",
+            "placeId": "ChIJDQkoCti6j4ARTMlmFrVP3E0"
+        },
+        {
+            "position": 9,
+            "title": "Stanford Law School",
+            "address": "559 Nathan Abbott Way, Stanford, CA 94305",
+            "latitude": 37.423876799999995,
+            "longitude": -122.1674405,
+            "rating": 4.6,
+            "ratingCount": 55,
+            "type": "Law school",
+            "types": [
+                "Law school",
+                "Academic department"
+            ],
+            "website": "http://www.law.stanford.edu/",
+            "phoneNumber": "(650) 723-2465",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_VLg9Uyy8L1wIM8l2ihYopWb_fvVyAXlpQnaqu9oO833nVGhTDhlhZ2HXA0nVgY0RHaq3hryabAuiyNskPZm8lIW-o31XHpO4fKScoCjTUhggHK_nb9928L6XOG8FLiBa0CF0",
+            "cid": "17841595256964392504",
+            "fid": "0x808fbad6ae766023:0xf79a145b7da82638",
+            "placeId": "ChIJI2B2rta6j4AROCaofVsUmvc"
+        },
+        {
+            "position": 10,
+            "title": "Stanford Oval",
+            "address": "20 Palm Dr, Stanford, CA 94305",
+            "latitude": 37.4301554,
+            "longitude": -122.16937039999999,
+            "rating": 4.8,
+            "ratingCount": 1400,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Tourist attraction"
+            ],
+            "website": "https://stanford.edu/",
+            "phoneNumber": "(650) 723-2300",
+            "description": "Landmark park featuring the Stanford \"S\" in an oval of flowers, plus sculptures & stately buildings.",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-lNh2tAcLF99Kchod0ZAU_SYwG64HgnStSgEdWOwo3lazrJbw_kuamJt7Lrx7k7ocU9eVYXlkhHa3VhdhoTAMtiB2MbpRm8x5KJshNMh474-V9hYCOj_AZYO4K7_hPY_QwPU3E",
+            "cid": "11024810829460879871",
+            "fid": "0x808fbb2a2cbff0a9:0x98ffff0995e539ff",
+            "placeId": "ChIJqfC_LCq7j4AR_znllQn__5g"
+        },
+        {
+            "position": 11,
+            "title": "Stanford Graduate School of Business",
+            "address": "655 Knight Way, Stanford, CA 94305",
+            "latitude": 37.428052099999995,
+            "longitude": -122.1611732,
+            "rating": 4.7,
+            "ratingCount": 146,
+            "type": "Business school",
+            "types": [
+                "Business school",
+                "Graduate school",
+                "Academic department"
+            ],
+            "website": "https://gsb.stanford.edu/",
+            "phoneNumber": "(650) 723-2146",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-wuiV8mkPeWdne5aRSBByZXKhgZ-9rSM_BOi0QnJ3Gfj5W7-PBhRqqsiOD9RcFAjnClQyVp3uPKcls0lD-_J2rdR5ItKiuvfRF4tKPGXNYwYJyekN1OBX0_pTj-ctB20OEi2xsqw",
+            "cid": "11663806035896341585",
+            "fid": "0x808fbad84adae3fd:0xa1de29cacaa89451",
+            "placeId": "ChIJ_ePaSti6j4ARUZSoysop3qE"
+        },
+        {
+            "position": 12,
+            "title": "Hoover Tower",
+            "address": "550 Jane Stanford Way, Stanford, CA 94305",
+            "latitude": 37.4276085,
+            "longitude": -122.1669747,
+            "rating": 4.5,
+            "ratingCount": 913,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "State archive"
+            ],
+            "website": "https://www.hoover.org/library-archives/visit",
+            "description": "Landmark 285-ft. bell tower at Stanford, with an observation deck & Hoover memorabilia exhibits.",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20134\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "10\u202fAM\u20134\u202fPM",
+                "Saturday": "10\u202fAM\u20134\u202fPM",
+                "Sunday": "10\u202fAM\u20134\u202fPM",
+                "Monday": "10\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9cAz_2CzC8isMcmcbc9J0NOknd6hkWKR9JQeA8q9CtaY1m5gspDeba1AIcNC3mzkheQPRK6jnpCexdZnNWLdyNjzSeTX-11cfvr_HUU-tmOCRZHvMJkRVYGibon415KwCoaUG0",
+            "cid": "16004589033213214725",
+            "fid": "0x808fbb2b199b4dff:0xde1bb8ee04c94005",
+            "placeId": "ChIJ_02bGSu7j4ARBUDJBO64G94"
+        },
+        {
+            "position": 13,
+            "title": "Stanford Maples Pavilion",
+            "address": "655 Campus Drive, Stanford, CA 94305",
+            "latitude": 37.4296194,
+            "longitude": -122.1606333,
+            "rating": 4.6,
+            "ratingCount": 429,
+            "type": "Arena",
+            "types": [
+                "Arena"
+            ],
+            "website": "http://gostanford.com/facilities/?id=10",
+            "description": "Circa 1969 stadium hosting Stanford's basketball, volleyball & gymnastics teams plus NCAA events.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8OXSE2EVP-vrDQt26V2qAC4Wpjb7TXm4ArTYXQ3U-AfrU3hrYPF57X-A946EXoJQRhyG0CWWjjYAN4cCDGY6BNSbB-GGgxe6NiVoszQmRLjgbOO_Kyrio4VlspOdzwlelZtOV3gQ",
+            "cid": "17650452624039460316",
+            "fid": "0x808fbad86197b729:0xf4f301253cbbbddc",
+            "placeId": "ChIJKbeXYdi6j4AR3L27PCUB8_Q"
+        },
+        {
+            "position": 14,
+            "title": "Stanford Dish",
+            "address": "Stanford Dish, 400 Reservoir Rd, Stanford, CA 94305",
+            "latitude": 37.408577799999996,
+            "longitude": -122.1796028,
+            "rating": 4.7,
+            "ratingCount": 697,
+            "type": "Park",
+            "types": [
+                "Park",
+                "Hiking area",
+                "Satellite communication service",
+                "Tourist attraction"
+            ],
+            "website": "http://dish.stanford.edu/",
+            "description": "A scenic paved trail loops around this iconic radio telescope & attracts hikers & joggers.",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20135\u202fPM",
+                "Thursday": "6:30\u202fAM\u20135\u202fPM",
+                "Friday": "6:30\u202fAM\u20135\u202fPM",
+                "Saturday": "6:30\u202fAM\u20135\u202fPM",
+                "Sunday": "6:30\u202fAM\u20135\u202fPM",
+                "Monday": "6:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ZPyQm5uYWLs_NbM60NQQe8i91uiW1PwAPI3PIy0toSKojPBreFoQIMMU6z3VvBuEpTQoXcbpfSmnsipA4w5RzlZ1ppBK4kMS8RZr2CvZPhuHX_yeQJWEJDoBCAIeefhMKHxZWIg",
+            "cid": "4914629311864456648",
+            "fid": "0x808fa53430003fc1:0x44344552006745c8",
+            "placeId": "ChIJwT8AMDSlj4ARyEVnAFJFNEQ"
+        },
+        {
+            "position": 15,
+            "title": "Stanford Hospital",
+            "address": "875 Blake Wilbur Dr, Palo Alto, CA 94304",
+            "latitude": 37.4357495,
+            "longitude": -122.176299,
+            "rating": 2.6,
+            "ratingCount": 52,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://stanfordhealthcare.org/?cid=clinic|local|Google",
+            "phoneNumber": "(650) 724-4750",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_xyBGqliYa7Tq809CzdMroFEW0JXrbxrUKtvPAoeePVBXjqnwfYLKJHdSzAqeIwgf2JHBfVkKL5Sjzj1hly_qk-s_ATbz_klZzw6dDPoE6nEqyS0LZuRlntni3XCTy9GiwY3P7",
+            "cid": "5954545442109242229",
+            "fid": "0x808fa57518174b83:0x52a2cb87f3d7bb75",
+            "placeId": "ChIJg0sXGHWlj4ARdbvX84fLolI"
+        },
+        {
+            "position": 16,
+            "title": "Stanford Doerr School of Sustainability",
+            "address": "397 Panama Mall, Stanford, CA 94305",
+            "latitude": 37.4263006,
+            "longitude": -122.1727025,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://sustainability.stanford.edu/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB84X1BGZTy-ueFWGI3xaOj82gyOp6uwY_8IIKvJ4zKl96fuq_QwJ6veSLJkJQD7XdCJpxTM-WYVJ6uYkhLUwPnLYkvGbJqcITBsxS3jqOkteDhqN3puGflO1eT7xAQ5eJCRx3NE",
+            "cid": "11157167812807915671",
+            "fid": "0x808fbb6ad67a971f:0x9ad6390335d67897",
+            "placeId": "ChIJH5d61mq7j4ARl3jWNQM51po"
+        },
+        {
+            "position": 17,
+            "title": "Memorial Church",
+            "address": "450 Jane Stanford Way, Stanford, CA 94305",
+            "latitude": 37.4267089,
+            "longitude": -122.17048399999999,
+            "rating": 4.8,
+            "ratingCount": 1478,
+            "type": "Church",
+            "types": [
+                "Church",
+                "Place of worship",
+                "Tourist attraction"
+            ],
+            "website": "https://orsl.stanford.edu/get-know-us/memorial-church",
+            "phoneNumber": "(650) 723-1762",
+            "description": "Interdenominational church with public tours featuring pipe organ, stained glass windows & mosaics.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8UFOq7ajJ4w1S-w-kkkWqX1TFKKfNWpVZoFhhUla2L5r-8tnqlhf1NLn_saLNP3f1O9ksBUPn5x2EWhqvPY9-kqZ_RzmMX-JPIaHoqIVRJJD75x9_vVg3WDrZ6kSjQ8iHlXYe7",
+            "cid": "10021086381144479501",
+            "fid": "0x808fa4cd006780e5:0x8b120cf83b9f170d",
+            "placeId": "ChIJ5YBnAM2kj4ARDRefO_gMEos"
+        },
+        {
+            "position": 18,
+            "title": "Stanford Engineering",
+            "address": "475 Via Ortega, Stanford, CA 94305",
+            "latitude": 37.4278441,
+            "longitude": -122.1743497,
+            "rating": 4.7,
+            "ratingCount": 9,
+            "type": "Private university",
+            "types": [
+                "Private university"
+            ],
+            "website": "http://engineering.stanford.edu/visit",
+            "phoneNumber": "(650) 725-1575",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9d7kpqZKMxHJehCFHvovNecqKD8EwOc9Rc5FUqQp4yzsIeKujoSWtFY9ghilgCBxMt_3eBvdCD8d7TVXgVumrDZl_JN2kO6n9dBlziTohykJdGJEjp_lOBkqs9BBDYvbO1TH3-",
+            "cid": "4752956126167410430",
+            "fid": "0x808fbb2ac97723cb:0x41f5e46a1d39a6fe",
+            "placeId": "ChIJyyN3ySq7j4AR_qY5HWrk9UE"
+        },
+        {
+            "position": 19,
+            "title": "Lakeside Dining",
+            "address": "326 Santa Teresa St, Stanford, CA 94305",
+            "latitude": 37.4246646,
+            "longitude": -122.1763587,
+            "rating": 4.1,
+            "ratingCount": 168,
+            "priceLevel": "$10\u201320",
+            "type": "Cafeteria",
+            "types": [
+                "Cafeteria",
+                "Restaurant"
+            ],
+            "website": "http://rde.stanford.edu/dining/lakeside-dining",
+            "phoneNumber": "(650) 723-6190",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "7\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB95f802ewmwu2Dkhm6z_RKBkqzVqSUt5Xt0eOxqfhPFvXuGcYNSNZEVGBEv0ci8CbRooDLsag7j__4JpQZ_NqBXJ9AS447a8nwP5FEKHmJYgg2L2V0bZTESDCASCPMqKfUp8mT6qQ",
+            "cid": "3930651354453285594",
+            "fid": "0x808fa52a9476ac83:0x368c7a94d6189ada",
+            "placeId": "ChIJg6x2lCqlj4AR2poY1pR6jDY"
+        },
+        {
+            "position": 20,
+            "title": "Stanford University Department of Humanities and Sciences",
+            "address": "450 Serra Mall, Stanford, CA 94305",
+            "latitude": 37.4285968,
+            "longitude": -122.17087079999999,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Academic department",
+            "types": [
+                "Academic department"
+            ],
+            "website": "https://humsci.stanford.edu/",
+            "phoneNumber": "(650) 736-9805",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8EKMfc1kS-uk06g0QhVEeJAS6RLCeS8XzYk4hxAJ7krkFYpOJ5VryV8ryi-G08vmtjo2cPuJ9JX5myXKpoY2P_qCEFdguSPCaAYpabB0Ug382SGRJVRGr4kYK1wkYGB1TvjrRg",
+            "cid": "13721504797611540649",
+            "fid": "0x808fbb2a07f62a2f:0xbe6c93e9ed7440a9",
+            "placeId": "ChIJLyr2Byq7j4ARqUB07emTbL4"
+        }
+    ],
+    "credits": 3
+}

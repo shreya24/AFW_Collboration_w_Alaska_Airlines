@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Grande Ronde Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3196848,-118.1061222,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grande Ronde Hospital",
+            "address": "900 Sunset Dr, La Grande, OR 97850",
+            "latitude": 45.3196848,
+            "longitude": -118.1061222,
+            "rating": 2.5,
+            "ratingCount": 41,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.grh.org/",
+            "phoneNumber": "(541) 963-8421",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNtMSF9d6-32oG6I0_2UhknVb_2Z9vaqgq37qP2",
+            "cid": "7676651718016845404",
+            "fid": "0x54a3776e329be1e9:0x6a88f2109cc9465c",
+            "placeId": "ChIJ6eGbMm53o1QRXEbJnBDyiGo"
+        }
+    ],
+    "credits": 3
+}

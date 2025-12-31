@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "University of Colorado",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4500825,-105.0333933,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Colorado Boulder",
+            "address": "Boulder, CO 80309",
+            "latitude": 40.0073499,
+            "longitude": -105.26598709999999,
+            "rating": 4.5,
+            "ratingCount": 809,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "College",
+                "University"
+            ],
+            "website": "http://www.colorado.edu/",
+            "phoneNumber": "(303) 492-1411",
+            "description": "Large public school founded in 1876 & known for its scenic campus & law program.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEESUOcTFq8MkxT6hQtXdbdyC4wnGKitSMETyX",
+            "cid": "227666684368138713",
+            "fid": "0x876bec346a9c1ec1:0x328d5a4a8f431d9",
+            "placeId": "ChIJwR6cajTsa4cR2TH0qKTVKAM"
+        },
+        {
+            "position": 2,
+            "title": "University of Colorado Colorado Springs",
+            "address": "1420 Austin Bluffs Pkwy, Colorado Springs, CO 80918",
+            "latitude": 38.8928151,
+            "longitude": -104.80079959999999,
+            "rating": 3.8,
+            "ratingCount": 131,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "Graduate school",
+                "University"
+            ],
+            "website": "http://www.uccs.edu/",
+            "phoneNumber": "(719) 255-8227",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDJ1UR4CW7Pn4YLKsLB1tD0oKbJx-GpXYS93dx",
+            "cid": "10577512112395933892",
+            "fid": "0x87134fa088fe399d:0x92cadf3962c058c4",
+            "placeId": "ChIJnTn-iKBPE4cRxFjAYjnfypI"
+        }
+    ],
+    "credits": 3
+}

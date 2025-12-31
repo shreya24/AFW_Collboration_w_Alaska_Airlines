@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "The Love and Haiti Project",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.514743,-88.6264297,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Haiti Project",
+            "address": "124 Raymond Ave, Poughkeepsie, NY 12604",
+            "latitude": 41.6857008,
+            "longitude": -73.88992309999999,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://thehaitiproject.org/",
+            "phoneNumber": "(845) 797-2123",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "cid": "6132136322233307580",
+            "fid": "0x89dd3e5698955555:0x5519b97ee0fc91bc",
+            "placeId": "ChIJVVWVmFY-3YkRvJH84H65GVU"
+        },
+        {
+            "position": 2,
+            "title": "Project HOPE Haiti",
+            "address": "Pignon, Haiti",
+            "latitude": 19.3437852,
+            "longitude": -72.1210384,
+            "rating": 4.3,
+            "ratingCount": 8,
+            "type": "Mission",
+            "types": [
+                "Mission"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-u-eMKVhFmWENZyLeDgdvNJpdAkQFcmhyRulZ6KZGFhFv7SMSK3dWr2OcLUXSII8Pqfy3R397MkVW33gOz2wpzllrQcnjdZu0N6lKlgnK0JtRlMt1e1kYqSgEtLXW-PXbc-mQd",
+            "cid": "1477425592272290752",
+            "fid": "0x8eb72960abf172b7:0x1480debf997603c0",
+            "placeId": "ChIJt3Lxq2Apt44RwAN2mb_egBQ"
+        },
+        {
+            "position": 3,
+            "title": "Locally Haiti",
+            "address": "908 Main St, Louisville, CO 80027",
+            "latitude": 39.978989999999996,
+            "longitude": -105.131821,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "http://www.locallyhaiti.org/",
+            "phoneNumber": "(303) 938-5021",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnrSdNk0lJBC02eDlQprQY4BxxQNWSO5xCXR-_",
+            "cid": "11006933673996355344",
+            "fid": "0x876bf35dd955742b:0x98c07bdbf8d68710",
+            "placeId": "ChIJK3RV2V3za4cREIfW-Nt7wJg"
+        }
+    ],
+    "credits": 3
+}

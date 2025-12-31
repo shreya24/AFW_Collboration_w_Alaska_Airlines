@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "NM. B. Ririe Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.2556965,-114.8597757,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "William Bee Ririe Rural Health Clinic",
+            "address": "6 Steptoe Cir, Ely, NV 89301",
+            "latitude": 39.2556965,
+            "longitude": -114.8597757,
+            "rating": 2.3,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Emergency care physician",
+                "Family practice physician",
+                "Internist",
+                "Physician assistant",
+                "Rheumatologist"
+            ],
+            "website": "http://wbrhely.org/",
+            "phoneNumber": "(775) 289-3612",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qplFrm3fu6NdqyiuzHlaJQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=337.6231&pitch=0&thumbfov=100",
+            "cid": "9179003687817432008",
+            "fid": "0x80b1ac864655e5fd:0x7f625f38bc5bcbc8",
+            "placeId": "ChIJ_eVVRoassYARyMtbvDhfYn8"
+        }
+    ],
+    "credits": 3
+}

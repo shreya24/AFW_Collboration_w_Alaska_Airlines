@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Test Test address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Free Random Address Generator - TestingBot",
+            "link": "https://testingbot.com/free-online-tools/random-address-generator",
+            "snippet": "Use this free tool to generate random addresses for a specific country. You can use this in your automated or manual tests, for example to fill in a form.",
+            "position": 1
+        },
+        {
+            "title": "Random US Street Address \u2014 Fake address generator - Random Lists",
+            "link": "https://www.randomlists.com/random-addresses",
+            "snippet": "Generate a fake United States address complete with street, city, state, zip codes. Be careful though: some of these could end up being real addresses.",
+            "position": 2
+        },
+        {
+            "title": "Address Fill Up Test - IBC. Inc.",
+            "link": "https://www.ibcinc.com/test/address",
+            "snippet": "This test gives you an autocomplete based on the city name typed. It leaves the zip code field blank for the user to type it.",
+            "position": 3
+        },
+        {
+            "title": "[PDF] Name Address 13th Street 47 W 13th St, New York, NY 10011 ... - NYU",
+            "link": "https://www.nyu.edu/content/dam/nyu/univTransportation/images/Saferidestoptable.pdf",
+            "snippet": "Name. Address. 13th Street. 47 W 13th St, New York, NY 10011, USA. 20 Cooper Square. 20 Cooper Square, New York, NY 10003, USA. 2nd Street Dorm.",
+            "position": 4
+        },
+        {
+            "title": "Free USPS Address Verification & Address Validation Tools - Smarty",
+            "link": "https://www.smarty.com/products/single-address",
+            "snippet": "Use this free address verifier to cleanse, correct, standardize, validate, and verify addresses worldwide.",
+            "rating": 4.6,
+            "ratingCount": 160,
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Test test address online"
+        },
+        {
+            "query": "Test test address free"
+        },
+        {
+            "query": "Test test address usa"
+        },
+        {
+            "query": "Test test address usps"
+        },
+        {
+            "query": "Random address"
+        },
+        {
+            "query": "Online address check"
+        },
+        {
+            "query": "United States address list"
+        },
+        {
+            "query": "US address with zip code"
+        }
+    ],
+    "credits": 1
+}

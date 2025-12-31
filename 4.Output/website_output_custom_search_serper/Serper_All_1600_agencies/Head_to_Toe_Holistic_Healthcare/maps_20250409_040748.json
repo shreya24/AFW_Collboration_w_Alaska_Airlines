@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Head to Toe Holistic Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Head To Toe Holistic Healthcare",
+            "latitude": 46.423669,
+            "longitude": -129.9427086,
+            "rating": 4.3,
+            "ratingCount": 3,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Service establishment"
+            ],
+            "website": "http://headtotoeak.com/",
+            "phoneNumber": "(907) 222-6887",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20131\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20131\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZTSfMUjNwQTW-FTw_svm_757TNZPjb7Rp0-dm",
+            "cid": "558077826001586198",
+            "fid": "0x56c897cefbf3792d:0x7beb0d36fd8c816",
+            "placeId": "ChIJLXnz-86XyFYRFsjYb9Owvgc"
+        }
+    ],
+    "credits": 3
+}

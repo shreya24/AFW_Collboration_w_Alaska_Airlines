@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Alaska Surgical Oncology: Charles A Portera Jr MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1857514,-149.8219091,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Surgical Oncology",
+            "address": "3851 Piper St tower u suite u230, Anchorage, AK 99508",
+            "latitude": 61.185751399999994,
+            "longitude": -149.8219091,
+            "rating": 4.3,
+            "ratingCount": 14,
+            "type": "Surgical oncologist",
+            "types": [
+                "Surgical oncologist"
+            ],
+            "website": "http://alaskasurgicaloncology.com/",
+            "phoneNumber": "(907) 868-2075",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIjJVNQCFqwjfCQ9llr6uV1PLvYlzeIR82yS5N",
+            "cid": "6270675910662196898",
+            "fid": "0x886060b16b132ad7:0x5705ea846c9e8ea2",
+            "placeId": "ChIJ1yoTa7FgYIgRoo6ebITqBVc"
+        }
+    ],
+    "credits": 3
+}

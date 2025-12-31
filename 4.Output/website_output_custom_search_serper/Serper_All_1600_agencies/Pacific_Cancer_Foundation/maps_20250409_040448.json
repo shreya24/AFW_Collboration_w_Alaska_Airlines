@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pacific Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8869961,-156.4883481,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pacific Cancer Foundation",
+            "address": "95 Mahalani St #8, Wailuku, HI 96793",
+            "latitude": 20.886996099999998,
+            "longitude": -156.4883481,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.pacificcancerfoundation.org/",
+            "phoneNumber": "(808) 242-7661",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxHKBRYFpoWBoma1Mhmo3aFFP9Q9wn2XWe-OIj",
+            "cid": "13242588177725023642",
+            "fid": "0x7954d317c1aa03e5:0xb7c71fc91016659a",
+            "placeId": "ChIJ5QOqwRfTVHkRmmUWEMkfx7c"
+        }
+    ],
+    "credits": 3
+}

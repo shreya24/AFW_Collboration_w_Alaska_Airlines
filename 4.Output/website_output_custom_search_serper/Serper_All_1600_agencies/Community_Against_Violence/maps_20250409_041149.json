@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Community Against Violence",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3776731,-105.5945352,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Against Violence, Inc.",
+            "address": "945 Salazar Rd, Taos, NM 87571",
+            "latitude": 36.385602999999996,
+            "longitude": -105.593678,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Women's shelter"
+            ],
+            "website": "http://www.taoscav.org/",
+            "phoneNumber": "(575) 758-8082",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J-TMQsrNuvcDjIiWCgNvOQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=111.01741&pitch=0&thumbfov=100",
+            "cid": "2886099572128021439",
+            "fid": "0x871764d66eb01e43:0x280d7c450718fbbf",
+            "placeId": "ChIJQx6wbtZkF4cRv_sYB0V8DSg"
+        },
+        {
+            "position": 2,
+            "title": "Community Against Violence Thrift Store",
+            "address": "1509 Paseo Del Pueblo Sur, Taos, NM 87571",
+            "latitude": 36.3697431,
+            "longitude": -105.5953924,
+            "rating": 4,
+            "ratingCount": 79,
+            "type": "Thrift store",
+            "types": [
+                "Thrift store"
+            ],
+            "website": "http://taoscav.org/",
+            "phoneNumber": "(575) 751-4824",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "10\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEh7ZpQP-YLgdO02p0HGa7wfLqdHnRNJy_PmBl",
+            "cid": "17049609586482698386",
+            "fid": "0x871764d1b34b08dd:0xec9c619611655892",
+            "placeId": "ChIJ3QhLs9FkF4cRklhlEZZhnOw"
+        }
+    ],
+    "credits": 3
+}

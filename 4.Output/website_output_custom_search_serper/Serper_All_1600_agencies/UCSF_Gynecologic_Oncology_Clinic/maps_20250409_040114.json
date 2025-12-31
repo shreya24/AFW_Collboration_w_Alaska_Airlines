@@ -1,0 +1,124 @@
+{
+    "searchParameters": {
+        "q": "UCSF Gynecologic Oncology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8550821,-122.4624505,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Gynecologic Oncology Center",
+            "address": "1825 4th St Sixth Floor, San Francisco, CA 94158",
+            "latitude": 37.7662614,
+            "longitude": -122.39019119999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Surgical oncologist",
+            "types": [
+                "Surgical oncologist",
+                "Obstetrician-gynecologist",
+                "Oncologist"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/gynecologic-oncology-center",
+            "phoneNumber": "(415) 353-9600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.ucsfhealth.org/gynecologic-surgical-oncology/?_gl=1*1kej39s*_ga*NTMwMzMxODMxLjE2Mjc1MTA0Nzk.*_ga_6342EFQ19Y*MTY1MDQ5MDc1My41OC4xLjE2NTA0OTIwMDYuMA"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrNWwk5l0kPOJQIe4sW4riAWdBy-EuvoflueBg",
+            "cid": "9398411500317094418",
+            "fid": "0x1532f712555b4389:0x826ddd76f158b212",
+            "placeId": "ChIJiUNbVRL3MhURErJY8XbdbYI"
+        },
+        {
+            "position": 2,
+            "title": "UCSF Gynecologic Oncology Center",
+            "address": "1600 Divisadero St Fourth Floor, San Francisco, CA 94115",
+            "latitude": 37.784695,
+            "longitude": -122.4392274,
+            "type": "Surgical oncologist",
+            "types": [
+                "Surgical oncologist",
+                "Obstetrician-gynecologist",
+                "Oncologist"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/gynecologic-oncology-center",
+            "phoneNumber": "(415) 353-9600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.ucsfhealth.org/gynecologic-surgical-oncology/?_gl=1*1kej39s*_ga*NTMwMzMxODMxLjE2Mjc1MTA0Nzk.*_ga_6342EFQ19Y*MTY1MDQ5MDc1My41OC4xLjE2NTA0OTIwMDYuMA"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaATLINpIN69myzVo8mbRcOYptdPyrjiqxJT9u",
+            "cid": "4324231036051365747",
+            "fid": "0x808580b628a86067:0x3c02c1376e8f9f73",
+            "placeId": "ChIJZ2CoKLaAhYARc5-PbjfBAjw"
+        },
+        {
+            "position": 3,
+            "title": "UCSF Gynecologic Oncology at Greenbrae",
+            "address": "1100 S Eliseo Dr STE 1, Greenbrae, CA 94904",
+            "latitude": 37.9439028,
+            "longitude": -122.53470979999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/gynecologic-oncology-center",
+            "phoneNumber": "(415) 353-9600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.ucsfhealth.org/gynecologic-surgical-oncology/?_gl=1*1kej39s*_ga*NTMwMzMxODMxLjE2Mjc1MTA0Nzk.*_ga_6342EFQ19Y*MTY1MDQ5MDc1My41OC4xLjE2NTA0OTIwMDYuMA"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMln2tZmnyKBXJUIauOJtSFciuP3bs9cLUxAtj",
+            "cid": "14673096443547749354",
+            "fid": "0x80859bba3b5de629:0xcba14f7958b60bea",
+            "placeId": "ChIJKeZdO7qbhYAR6gu2WHlPocs"
+        },
+        {
+            "position": 4,
+            "title": "UCSF Gynecologic Dysplasia Clinic",
+            "address": "2356 Sutter St Seventh Floor, San Francisco, CA 94143",
+            "latitude": 37.7854624,
+            "longitude": -122.4392664,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist",
+                "Women's health clinic"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/gynecologic-dysplasia-clinic",
+            "phoneNumber": "(415) 353-3400",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWpnwY7y-r4FpKkekBClZBdWnaCNyZi1ESKsxk",
+            "cid": "1158068203347463694",
+            "fid": "0x808581c1ee0c034d:0x101248e52e334e0e",
+            "placeId": "ChIJTQMM7sGBhYARDk4zLuVIEhA"
+        }
+    ],
+    "credits": 3
+}

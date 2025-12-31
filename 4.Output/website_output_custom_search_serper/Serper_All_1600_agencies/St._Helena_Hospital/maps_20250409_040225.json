@@ -1,0 +1,120 @@
+{
+    "searchParameters": {
+        "q": "St. Helena Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.5633038,-117.2353215,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health St Helena",
+            "address": "10 Woodland Rd, St Helena, CA 94574",
+            "latitude": 38.542491399999996,
+            "longitude": -122.47477479999999,
+            "rating": 4.7,
+            "ratingCount": 1012,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventisthealth.org/st-helena/",
+            "phoneNumber": "(707) 963-3611",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-nh1T7ey75ufU1dXc5mQPPEfobw8eBB0zE7ueGMBsAfAm6l_Gf_DGnjOWmJXFQVSSMfRsLFxXFn1qOa7DKgpvGeBQAj0MwRxQPhIPZkx3pU2zu0NPBrn5QZsYWh1KxCzM_CanW0Q",
+            "cid": "10577101667200815264",
+            "fid": "0x80845a48ae0fcd19:0x92c969ed2ab250a0",
+            "placeId": "ChIJGc0PrkhahIARoFCyKu1pyZI"
+        },
+        {
+            "position": 2,
+            "title": "Adventist Health St. Helena: Emergency Room",
+            "address": "10 Woodland Rd, St Helena, CA 94574",
+            "latitude": 38.5416921,
+            "longitude": -122.4748214,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.adventisthealth.org/st-helena/services/emergency-services/",
+            "phoneNumber": "(707) 963-6425",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9sKVAnXJdCe8D5pb4QQfSTeRVEahgYEtPOW77Wmpf8JgK9wXw9sMSJHElByZpUWP4jdqjBqhrn2X9YwO7JQDhx2qklnfI1-0V9CsVL4T_AIW3unGOoTDFMMuVbB46WXIbEBANr",
+            "cid": "13877810990677920060",
+            "fid": "0x80845a48dbfd5ac1:0xc097e391775e893c",
+            "placeId": "ChIJwVr920hahIARPIled5Hjl8A"
+        },
+        {
+            "position": 3,
+            "title": "St. Peter's Health",
+            "address": "2550 E Broadway St, Helena, MT 59601",
+            "latitude": 46.5849154,
+            "longitude": -111.9958149,
+            "rating": 2.2,
+            "ratingCount": 300,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cardiologist",
+                "Emergency room",
+                "Surgical center",
+                "Urgent care center"
+            ],
+            "website": "https://www.sphealth.org/",
+            "phoneNumber": "(406) 457-4180",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXrGfIvx2k_cQg7IAooRXXw_g27zhMnQgRb2RG",
+            "cid": "7353184740599315620",
+            "fid": "0x53435598b4218b77:0x660bc2900f3ebca4",
+            "placeId": "ChIJd4shtJhVQ1MRpLw-D5DCC2Y"
+        },
+        {
+            "position": 4,
+            "title": "St. Helena Adventist Hospital",
+            "address": "10Woodland Rd, St Helena, CA 94574",
+            "latitude": 38.542549799999996,
+            "longitude": -122.4748281,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z6jTp6eUXiGwBaZRd8x2IA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=94.54031&pitch=0&thumbfov=100",
+            "cid": "9678121885775577335",
+            "fid": "0x80845b18d3af192f:0x864f9894069640f7",
+            "placeId": "ChIJLxmv0xhbhIAR90CWBpSYT4Y"
+        }
+    ],
+    "credits": 3
+}

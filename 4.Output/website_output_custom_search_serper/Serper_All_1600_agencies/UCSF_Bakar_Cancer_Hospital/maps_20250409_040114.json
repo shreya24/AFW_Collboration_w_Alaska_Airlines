@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "UCSF Bakar Cancer Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7653457,-122.3901928,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Bakar Cancer Hospital",
+            "address": "1855 4th St, San Francisco, CA 94158",
+            "latitude": 37.7653457,
+            "longitude": -122.3901928,
+            "rating": 4.4,
+            "ratingCount": 8,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://medconnection.ucsfhealth.org/ucsf-bakar-cancer-hospital",
+            "phoneNumber": "(415) 353-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNGFUnwOdej8OHT1HmAjNYymz0GYSnhi92krZ62",
+            "cid": "4631797552387916879",
+            "fid": "0x808f7fc898b9dc45:0x40477355659b044f",
+            "placeId": "ChIJRdy5mMh_j4ARTwSbZVVzR0A"
+        }
+    ],
+    "credits": 3
+}

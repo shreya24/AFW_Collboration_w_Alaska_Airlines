@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "UCD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1382844,-119.7710154,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of California, Davis",
+            "address": "1 Shields Ave, Davis, CA 95616",
+            "latitude": 38.538232199999996,
+            "longitude": -121.7617125,
+            "rating": 4.4,
+            "ratingCount": 942,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "https://www.ucdavis.edu/",
+            "phoneNumber": "(530) 752-1011",
+            "description": "Big, research-centric public school founded in 1905 & known for its science & engineering programs.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3VSzkx1PYNCtmkpiMAlIdB-hMVgOrUqkeBMjSr5WKNM8ZUslYFyXG8oxfXFrL9s-tXjgPgnoTAbSoeE-aLXV97nXsPZa1CIEMvFn2_1B7jl-R4qMTyNXiBAJ4HrPx7aOWmFAg",
+            "cid": "17059559676938453812",
+            "fid": "0x80ead37f7489fa3f:0xecbfbb24087e8334",
+            "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w"
+        },
+        {
+            "position": 2,
+            "title": "Ucd Development Inc",
+            "address": "12429 Runyan Pl, Tustin, CA 92782",
+            "latitude": 33.7383367,
+            "longitude": -117.78031829999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Construction",
+            "types": [
+                "Construction",
+                "Real estate"
+            ],
+            "phoneNumber": "(714) 544-6178",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgMXmjkcg9GMschGQCXMrTZbA1SfvsRS9NNHX6igvIPxEULGmRhHUr0rBIQwhjoOIoMqkfbzH5xdWPYfjv6DP754MmwOAetd0tbZfJEwCyW1E_ZwV84XSroSO2fZpM-sNFx6wQYQ",
+            "cid": "7205285917141590298",
+            "fid": "0x80dcdb782ec1e577:0x63fe515dcc59611a",
+            "placeId": "ChIJd-XBLnjb3IARGmFZzF1R_mM"
+        }
+    ],
+    "credits": 3
+}

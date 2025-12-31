@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Central Valley Surgical Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.3667956,-119.0947695,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Valley Surgical Specialists",
+            "address": "8307 Brimhall Rd Suite 1706, Bakersfield, CA 93312",
+            "latitude": 35.366795599999996,
+            "longitude": -119.0947695,
+            "rating": 4.6,
+            "ratingCount": 81,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://cenvalss.com/",
+            "phoneNumber": "(661) 467-1477",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cenvalss.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSchRz9Tp23BnIV4zePPM0hfbSrdI_BRuZbDwX",
+            "cid": "4145545553162142992",
+            "fid": "0x80ea43058829c983:0x3987efb7706e0510",
+            "placeId": "ChIJg8kpiAVD6oAREAVucLfvhzk"
+        }
+    ],
+    "credits": 3
+}

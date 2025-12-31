@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "North Coast Women's Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.9236217,-120.6978197,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Coast Women\u2019s Health",
+            "address": "1930 Myrtle Avenue Ste A, Eureka, CA 95501",
+            "latitude": 40.7902944,
+            "longitude": -124.1339823,
+            "type": "Family planning center",
+            "types": [
+                "Family planning center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RiHVbs1xl21cHWStVrW9bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=263.42783&pitch=0&thumbfov=100",
+            "cid": "9991795688206391096",
+            "fid": "0x54d3ffca92cc40bd:0x8aa9fd3d57d25738",
+            "placeId": "ChIJvUDMksr_01QROFfSVz39qYo"
+        },
+        {
+            "position": 2,
+            "title": "North Coast Women's Care",
+            "address": "477 N El Camino Real, Encinitas, CA 92024",
+            "latitude": 33.056948999999996,
+            "longitude": -117.2616571,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "phoneNumber": "(760) 758-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DRCMyy1eAnM9ZBcDFsiusA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=128.5618&pitch=0&thumbfov=100",
+            "cid": "13811006068068359449",
+            "fid": "0x80dc0b85e32299df:0xbfaa8cd855fa9d19",
+            "placeId": "ChIJ35ki44UL3IARGZ36VdiMqr8"
+        }
+    ],
+    "credits": 3
+}

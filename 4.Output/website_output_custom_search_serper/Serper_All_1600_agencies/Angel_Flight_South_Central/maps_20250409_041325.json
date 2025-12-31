@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "Angel Flight South Central",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.4197143,-103.60313,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angels Flight Railway",
+            "address": "351 S Hill St, Los Angeles, CA 90013",
+            "latitude": 34.0516174,
+            "longitude": -118.2506142,
+            "rating": 4.5,
+            "ratingCount": 3037,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark",
+                "Tourist attraction"
+            ],
+            "website": "http://angelsflight.org/",
+            "phoneNumber": "(213) 626-1901",
+            "description": "World's shortest railway, built in 1901, with 2 funicular cars that travel on a 298ft incline.",
+            "openingHours": {
+                "Tuesday": "6:45\u202fAM\u201310\u202fPM",
+                "Wednesday": "6:45\u202fAM\u201310\u202fPM",
+                "Thursday": "6:45\u202fAM\u201310\u202fPM",
+                "Friday": "6:45\u202fAM\u201310\u202fPM",
+                "Saturday": "6:45\u202fAM\u201310\u202fPM",
+                "Sunday": "6:45\u202fAM\u201310\u202fPM",
+                "Monday": "6:45\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB83tRwHpj2LMm2sA07eOljzSAK2noIWPZzPk6SQZ8a-wAXFUG9M0xFzkh4OxER3a3kDcp3CZXzVvgPQeKSCzefuLJyZRZLyyfpPn2rzAXT2Kb2q_GMAsgSMLHPywHUHP37TVh-x",
+            "cid": "11168564641926513324",
+            "fid": "0x80c2c64c846a29fd:0x9afeb65e450482ac",
+            "placeId": "ChIJ_SlqhEzGwoARrIIERV62_po"
+        },
+        {
+            "position": 2,
+            "title": "Angel Flight West",
+            "address": "3161 Donald Douglas Loop S, Santa Monica, CA 90405",
+            "latitude": 34.016627,
+            "longitude": -118.44787199999999,
+            "rating": 4.9,
+            "ratingCount": 71,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.angelflightwest.org/",
+            "phoneNumber": "(310) 390-2958",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9oJyFbxTswfVyEmN-6d-HPEzrxKZZIwJDZMC5XtvTY1pMSqho_RLpXVU87jb4ku2AzERwUFEGqqfRfrQR1Q8Q7YkZQC_yk0emlF8wPlZrj2BG66RYCfnf5qT1s84ieGm0HuQfhHQ",
+            "cid": "308482486631941757",
+            "fid": "0x80c2bafdf55679cb:0x447f32feb20467d",
+            "placeId": "ChIJy3lW9f26woARfUYg6y_zRwQ"
+        },
+        {
+            "position": 3,
+            "title": "Angels Flight",
+            "address": "350 S Grand Ave, Los Angeles, CA 90013",
+            "latitude": 34.0516122,
+            "longitude": -118.2506128,
+            "rating": 4.3,
+            "ratingCount": 67,
+            "type": "Inclined railway station",
+            "types": [
+                "Inclined railway station"
+            ],
+            "website": "http://angelsflight.org/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB99sjm1OzRSg_g12wYVKxU3WLafyvz9jgIX6es9o_alcllM5f1PfiJ9ehswIiKlsNAOzH1l5Ko4QnheEvR0vrxQxE8CSzDjC9RxJu48vOYYxfSWYrgZgrhgJK8daaY-XLIAn6s",
+            "cid": "11099619332147153157",
+            "fid": "0x80c2c64b801e6229:0x9a09c4f96ab08905",
+            "placeId": "ChIJKWIegEvGwoARBYmwavnECZo"
+        }
+    ],
+    "credits": 3
+}

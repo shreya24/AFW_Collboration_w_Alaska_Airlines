@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "North Star Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8875283,-104.7876241,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northstar Neurology of Colorado Springs P.C.",
+            "address": "3920 N Union Blvd #150, Colorado Springs, CO 80907",
+            "latitude": 38.8875283,
+            "longitude": -104.7876241,
+            "rating": 3.9,
+            "ratingCount": 41,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.northstarneurodoc.com/",
+            "phoneNumber": "(719) 694-3595",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOY-f9wx1F_GVj6sBdL7NtO3VXZtSrZFHKaMbLb",
+            "cid": "9038761393033586474",
+            "fid": "0x87135bd2d6709f8f:0x7d702198f948272a",
+            "placeId": "ChIJj59w1tJbE4cRKidI-ZghcH0"
+        }
+    ],
+    "credits": 3
+}

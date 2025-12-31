@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "ENT Clinic University of New Mexico",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0881912,-106.6190589,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Ear Nose & Throat",
+            "address": "2211 Lomas Blvd NE, Albuquerque, NM 87106",
+            "latitude": 35.0881912,
+            "longitude": -106.6190589,
+            "rating": 2.7,
+            "ratingCount": 16,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic"
+            ],
+            "website": "https://unmhealth.org/services/ear-nose-throat.html",
+            "phoneNumber": "(505) 272-2336",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n3WF-yAI0WD7MLg3pbQA6w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=195.16904&pitch=0&thumbfov=100",
+            "cid": "10815211963099127768",
+            "fid": "0x87220b5cc8191e6b:0x961759fa9f141fd8",
+            "placeId": "ChIJax4ZyFwLIocR2B8Un_pZF5Y"
+        }
+    ],
+    "credits": 3
+}

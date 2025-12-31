@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Merle West Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2527703,-121.7862078,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sky Lakes Medical Center Helipad",
+            "address": "2801 Daggett Ave, Klamath Falls, OR 97601",
+            "latitude": 42.252770299999995,
+            "longitude": -121.7862078,
+            "rating": 3.6,
+            "ratingCount": 8,
+            "type": "Heliport",
+            "types": [
+                "Heliport",
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNT_1AiNh8Tx7CEQcj3845STZyPJYSidiyNCCt0",
+            "cid": "8473204723070384454",
+            "fid": "0x54c8d38763bbb001:0x7596decd7bc5b946",
+            "placeId": "ChIJAbC7Y4fTyFQRRrnFe83elnU"
+        }
+    ],
+    "credits": 3
+}

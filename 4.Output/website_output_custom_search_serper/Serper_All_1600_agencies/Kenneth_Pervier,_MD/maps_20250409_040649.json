@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Kenneth Pervier, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2101908,-149.8314563,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kenneth R Pervier LLC",
+            "address": "2741 DeBarr Rd, Anchorage, AK 99508",
+            "latitude": 61.2101908,
+            "longitude": -149.83145629999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "phoneNumber": "(907) 276-0222",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p3WOtxJTbQbApiIlGm5o5A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=341.4111&pitch=0&thumbfov=100",
+            "cid": "7386009689128655833",
+            "fid": "0x56c89645b6b36cfd:0x668060adf41b5bd9",
+            "placeId": "ChIJ_WyztkWWyFYR2Vsb9K1ggGY"
+        }
+    ],
+    "credits": 3
+}

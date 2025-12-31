@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Denver City Attorney",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7405089,-104.9903027,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denver City Attorney's Office",
+            "address": "201 W Colfax Ave, Denver, CO 80202",
+            "latitude": 39.740508899999995,
+            "longitude": -104.9903027,
+            "rating": 2.3,
+            "ratingCount": 8,
+            "type": "City government office",
+            "types": [
+                "City government office"
+            ],
+            "website": "http://www.denvergov.org/",
+            "phoneNumber": "(720) 913-8050",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Yu40kjEpP1qf-IgRpFDtE-a3mQLGTYPbI7hcBcIGRvHDmVWRZJiCt_wgOOJHba1uMsa7ILHSK0qSQDqB02PqcfBhKxkGLpfza8QaRb8UGURETWkRZteVly-81KJpQXjZa4SO5",
+            "cid": "1439310508707246646",
+            "fid": "0x876c78d46bd76cd3:0x13f9754828fb7236",
+            "placeId": "ChIJ02zXa9R4bIcRNnL7KEh1-RM"
+        }
+    ],
+    "credits": 3
+}

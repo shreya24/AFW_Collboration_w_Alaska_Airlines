@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Broadlawns Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.6161525,-93.6417635,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Broadlawns Medical Center",
+            "address": "1801 Hickman Rd, Des Moines, IA 50314",
+            "latitude": 41.6161525,
+            "longitude": -93.6417635,
+            "rating": 3,
+            "ratingCount": 424,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "http://www.broadlawns.org/",
+            "phoneNumber": "(515) 282-2200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmMpA-5WEQyOKS4BY1BW6dNIXmqD4TJeOnGjJI",
+            "cid": "7070741788378502901",
+            "fid": "0x87ee996764b29879:0x62205231b2cf96f5",
+            "placeId": "ChIJeZiyZGeZ7ocR9ZbPsjFSIGI"
+        }
+    ],
+    "credits": 3
+}

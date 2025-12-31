@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Colorado, Colorado Springs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9681706,-104.7542615,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Colorado, Colorado Springs",
+            "address": "4090 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.9681706,
+            "longitude": -104.7542615,
+            "rating": 4.2,
+            "ratingCount": 1111,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon",
+                "Pediatrician",
+                "Surgeon"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/colorado-springs-hospital/",
+            "phoneNumber": "(719) 305-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIjJL7hAQDbvOu_QkuFbpIuqtLCVelvPATpgL3",
+            "cid": "446600458676907134",
+            "fid": "0x87134dbbc2c18981:0x632a4c03ff6ac7e",
+            "placeId": "ChIJgYnBwrtNE4cRfqz2P8CkMgY"
+        }
+    ],
+    "credits": 3
+}

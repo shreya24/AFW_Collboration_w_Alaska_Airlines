@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dr. David Borchers",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.362032,-107.027961,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. David J. Borchers, MD",
+            "address": "100 Elk Run Dr, Basalt, CO 81621",
+            "latitude": 39.362032,
+            "longitude": -107.02796099999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Doctor"
+            ],
+            "website": "http://www.davidborchersmd.com/",
+            "phoneNumber": "(970) 927-8181",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCoMHgrP-6FMPREEch1p2Ape6q_9L_CvPNq3Xe",
+            "cid": "17309725679852749622",
+            "fid": "0x87404cb7af97c333:0xf0387fcb83148336",
+            "placeId": "ChIJM8OXr7dMQIcRNoMUg8t_OPA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "St petes Health Medical Group Broadway",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5849154,-111.9958149,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Peter's Health Medical Group - Broadway",
+            "address": "2550 E Broadway St, Helena, MT 59601",
+            "latitude": 46.5849154,
+            "longitude": -111.9958149,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.sphealth.org/",
+            "phoneNumber": "(406) 457-4180",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPS2Oo-8WBpNajtW5uFl0n6mzZiGC4bKuyYceGJ",
+            "cid": "9417489449253771544",
+            "fid": "0x534355ca6dfe3afb:0x82b1a4c212c29918",
+            "placeId": "ChIJ-zr-bcpVQ1MRGJnCEsKksYI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Family Health Navigator",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.4960154,-122.2740191,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Family Medicine at PeaceHealth Sedro-Woolley Clinic",
+            "address": "1990 Hospital Dr #200, Sedro-Woolley, WA 98284",
+            "latitude": 48.4960154,
+            "longitude": -122.27401909999999,
+            "rating": 2.5,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.peacehealth.org/locations/sedro-woolley/family-medicine-peacehealth-sedro-woolley-clinic?utm_source=gbp&utm_medium=organic&utm_content=SEDR-002&utm_campaign=gmb",
+            "phoneNumber": "(360) 856-8800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "5569000403847421351",
+            "fid": "0x54856d71653c758f:0x4d49105c89551da7",
+            "placeId": "ChIJj3U8ZXFthVQRpx1ViVwQSU0"
+        }
+    ],
+    "credits": 3
+}

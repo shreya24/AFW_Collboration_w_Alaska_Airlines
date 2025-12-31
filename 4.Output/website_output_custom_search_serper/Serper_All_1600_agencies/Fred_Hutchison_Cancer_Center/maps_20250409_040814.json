@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Fred Hutchison Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6275434,-122.331226,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fred Hutch Cancer Center",
+            "address": "1100 Fairview Ave N, Seattle, WA 98109",
+            "latitude": 47.6275434,
+            "longitude": -122.331226,
+            "rating": 3.9,
+            "ratingCount": 95,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Research institute"
+            ],
+            "website": "https://www.fredhutch.org/",
+            "phoneNumber": "(206) 667-5000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_BVb4_BzP7OX2hkRIYgj0f1TeK_DZl0WvlCsF0X0booHiEK8BU-KQiBqm8or8-87iD-yGZ6GXj1HoaIr8ZiXP_PZ3SZB28182guWyMGSqL9C80WnEjGBYYDYbo0LF2cIbWPAcKpA",
+            "cid": "13660788334964817360",
+            "fid": "0x54901524d2553ecd:0xbd94de9cd960bdd0",
+            "placeId": "ChIJzT5V0iQVkFQR0L1g2ZzelL0"
+        }
+    ],
+    "credits": 3
+}

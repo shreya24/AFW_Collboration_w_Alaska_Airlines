@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "DentALL",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@25.0203345,121.5282674,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "dentall",
+            "address": "100, Taiwan, Taipei City, Zhongzheng District, Section 3, Roosevelt Rd, 136\u865f4\u6a13",
+            "latitude": 25.0203345,
+            "longitude": 121.52826739999999,
+            "rating": 4.3,
+            "ratingCount": 11,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Research and product development",
+                "Software company"
+            ],
+            "website": "https://global.dentall.io/",
+            "phoneNumber": "+886 2 2362 9877",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM",
+                "Tuesday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-VfeL_e1IWu9cbpd2MaUEyGbZxQgT08H7em0BT7brXyz5ioJz0QZ4cQPBGScLDx_7DRHq7lMOAvvQdOiRwpoj8kTZcB3DbgX1T84Dq7hM8pqETmJWvoyFi_-2hF8rOZfA9x2_oyg",
+            "cid": "1875773852672930795",
+            "fid": "0x3442a988eec88801:0x1a081661778933eb",
+            "placeId": "ChIJAYjI7oipQjQR6zOJd2EWCBo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,68 @@
+{
+    "searchParameters": {
+        "q": "DHS - Eugene",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0694122,-123.0938215,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Department of Human Services (DHS) - West Eugene Family Center",
+            "address": "2101 W 11th Ave, Eugene, OR 97402",
+            "latitude": 44.0481799,
+            "longitude": -123.1249464,
+            "rating": 2.9,
+            "ratingCount": 71,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "https://www.oregon.gov/odhs/Pages/default.aspx",
+            "phoneNumber": "(541) 686-7722",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNG9l09DUNQYYMidELXMT_uHzYu69nO0SLTwYLL",
+            "cid": "17464279909353980989",
+            "fid": "0x54c11e7d9e028e59:0xf25d960c3f09043d",
+            "placeId": "ChIJWY4Cnn0ewVQRPQQJPwyWXfI"
+        },
+        {
+            "position": 2,
+            "title": "Human Services Department",
+            "address": "2885 Chad Dr, Eugene, OR 97408",
+            "latitude": 44.090644399999995,
+            "longitude": -123.06269669999999,
+            "rating": 3.7,
+            "ratingCount": 224,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "phoneNumber": "(541) 686-7878",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqpe-SlSC0fF88VBS3-sEczTeqyLk9au-8ShEK",
+            "cid": "9325359449599482486",
+            "fid": "0x54c0e23bcde312ff:0x816a5502f4359a76",
+            "placeId": "ChIJ_xLjzTviwFQRdpo19AJVaoE"
+        }
+    ],
+    "credits": 3
+}

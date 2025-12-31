@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "VA New Mexico",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0549173,-106.581251,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Mexico VA Health Care System",
+            "address": "1501 San Pedro Dr SE, Albuquerque, NM 87108",
+            "latitude": 35.0549173,
+            "longitude": -106.581251,
+            "rating": 3.7,
+            "ratingCount": 378,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Government hospital",
+                "Hospital",
+                "Medical Center",
+                "Veterans affairs department"
+            ],
+            "website": "https://www.va.gov/new-mexico-health-care",
+            "phoneNumber": "(505) 265-1711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaSFpVZBUr2VO13cj8oTyGJUAWaDwCNpB7uSx0",
+            "cid": "2200353659825387243",
+            "fid": "0x87220a4d3677c7ff:0x1e8939fee21f76eb",
+            "placeId": "ChIJ_8d3Nk0KIocR63Yf4v45iR4"
+        }
+    ],
+    "credits": 3
+}

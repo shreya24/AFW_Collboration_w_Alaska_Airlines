@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Primary Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7711317,-111.8387864,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health Primary Children's Hospital",
+            "address": "100 Mario Capecchi Dr, Salt Lake City, UT 84113",
+            "latitude": 40.7711317,
+            "longitude": -111.83878639999999,
+            "rating": 3.8,
+            "ratingCount": 675,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city",
+            "phoneNumber": "(801) 662-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgeMQ8luh30zP5SM8DN1gyo2lqtJ5cWvtEOWrD",
+            "cid": "12660754281819847796",
+            "fid": "0x87525f96d7c6b61d:0xafb408f09460bc74",
+            "placeId": "ChIJHbbG15ZfUocRdLxglPAItK8"
+        }
+    ],
+    "credits": 3
+}

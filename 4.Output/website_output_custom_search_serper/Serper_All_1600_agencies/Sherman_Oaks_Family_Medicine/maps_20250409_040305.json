@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "Sherman Oaks Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1574948,-118.4489739,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sherman Oaks Family Medicine, Inc.",
+            "address": "4835 Van Nuys Blvd Suite 208, Sherman Oaks, CA 91403",
+            "latitude": 34.158423,
+            "longitude": -118.44923349999999,
+            "rating": 4.9,
+            "ratingCount": 153,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.drcashdan.com/?utm_source=gmb_auth",
+            "phoneNumber": "(530) 457-6465",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.drcashdan.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "cid": "7462344301255470177",
+            "fid": "0x80c2961a52500739:0x678f929ad3fe2c61",
+            "placeId": "ChIJOQdQUhqWwoARYSz-05qSj2c"
+        },
+        {
+            "position": 2,
+            "title": "Donna Cashdan, DO, FAAFP",
+            "address": "4835 Van Nuys Blvd Suite 208, Sherman Oaks, CA 91403",
+            "latitude": 34.1584225,
+            "longitude": -118.4492123,
+            "rating": 4.9,
+            "ratingCount": 183,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor"
+            ],
+            "website": "https://www.drcashdan.com/?utm_source=gmb_auth",
+            "phoneNumber": "(818) 981-9880",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20132\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.drcashdan.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3J-EIGWQAHjMsE2urV6D6eezSUXLM9WndbTIh",
+            "cid": "7295179731608161540",
+            "fid": "0x80c2961bad214f3d:0x653daf507b224d04",
+            "placeId": "ChIJPU8hrRuWwoARBE0ie1CvPWU"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Donna M. Cashdan, MD",
+            "address": "4835 #208 Van Nuys Blvd, Sherman Oaks, CA 91403",
+            "latitude": 34.1565666,
+            "longitude": -118.44871429999999,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.drcashdan.com/",
+            "phoneNumber": "(818) 981-9880",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20133\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YQ7qeDpwl7FuacSrj8Msfg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=179.15257&pitch=0&thumbfov=100",
+            "cid": "1042595631582904859",
+            "fid": "0x80c297c83ba1322f:0xe780b33f8df821b",
+            "placeId": "ChIJLzKhO8iXwoARG4Lf-DMLeA4"
+        }
+    ],
+    "credits": 3
+}

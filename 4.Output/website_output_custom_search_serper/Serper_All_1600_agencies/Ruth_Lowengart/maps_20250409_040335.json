@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Ruth Lowengart",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3199192,-122.8307303,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ruth Lowengart MD",
+            "address": "2627 Siskiyou Blvd Ste 100, Medford, OR 97504",
+            "latitude": 42.3199192,
+            "longitude": -122.8307303,
+            "rating": 4.7,
+            "ratingCount": 19,
+            "type": "Osteopath",
+            "types": [
+                "Osteopath",
+                "Occupational medical physician",
+                "Orthopedic surgeon",
+                "Sports medicine clinic"
+            ],
+            "website": "http://lowengartmd.com/",
+            "phoneNumber": "(541) 776-5111",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuwUzGFUijsj2z76BmIqwRh_oLlxhvAbWZzS9t",
+            "cid": "11238407644803683575",
+            "fid": "0x54cf7a709b4016a5:0x9bf6d835958ed4f7",
+            "placeId": "ChIJpRZAm3B6z1QR99SOlTXY9ps"
+        }
+    ],
+    "credits": 3
+}

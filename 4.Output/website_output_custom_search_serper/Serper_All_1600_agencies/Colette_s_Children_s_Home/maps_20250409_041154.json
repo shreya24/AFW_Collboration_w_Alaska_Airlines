@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Colette's Children's Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7178675,-117.9994781,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colette\u2019s Children\u2019s Home",
+            "address": "7372 Prince Dr #106, Huntington Beach, CA 92647",
+            "latitude": 33.7178675,
+            "longitude": -117.99947809999999,
+            "rating": 4.4,
+            "ratingCount": 106,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter"
+            ],
+            "website": "http://www.coletteschildrenshome.com/",
+            "phoneNumber": "(714) 596-1380",
+            "openingHours": {
+                "Tuesday": "1\u20134\u202fPM",
+                "Wednesday": "1\u20134\u202fPM",
+                "Thursday": "1\u20134\u202fPM",
+                "Friday": "1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOFsoMzFgn9WJbXURBMITDRCUqeQKhXqQXnIisO",
+            "cid": "10274229793548339910",
+            "fid": "0x80dd26f223f1f20f:0x8e95658fe12f0ac6",
+            "placeId": "ChIJD_LxI_Im3YARxgov4Y9llY4"
+        }
+    ],
+    "credits": 3
+}

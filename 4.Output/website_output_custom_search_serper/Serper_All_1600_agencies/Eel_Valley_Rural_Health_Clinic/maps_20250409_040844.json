@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Eel Valley Rural Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4935698,-124.1021273,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eel Valley Rural Health Clinic",
+            "address": "129 Wildwood Ave # E, Rio Dell, CA 95562",
+            "latitude": 40.493569799999996,
+            "longitude": -124.10212729999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(707) 764-3139",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f0YrYJvc_7qGtQUwjQJsGA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=208.19658&pitch=0&thumbfov=100",
+            "cid": "7028344675154746120",
+            "fid": "0x54d46d16d6a1e6b3:0x6189b23e899b5b08",
+            "placeId": "ChIJs-ah1hZt1FQRCFubiT6yiWE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Friend's house - Amber Schmied",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.5236144,-79.2156206,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "My Friend\u2019s House",
+            "address": "1341 N Delaware Ave, Philadelphia, PA 19125",
+            "latitude": 39.967892899999995,
+            "longitude": -75.1274864,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(856) 669-6900",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9gf4DTwjm71wNdn7xmQJhvAkAovqTTSQctR1wj9SK_Be_eIzZEBHpm3Y5iQyKsRaYHwQZ9-5JjbbBHK1JEMnqpvvOaaRC4KJUiDUJFf587wmZCZqWkZTK3L8FghHD618ZlqI0utg",
+            "cid": "17069747188054654418",
+            "fid": "0x89c6c843ba63104d:0xece3eca0cdb87dd2",
+            "placeId": "ChIJTRBjukPIxokR0n24zaDs4-w"
+        },
+        {
+            "position": 2,
+            "title": "The Friend Haus",
+            "address": "108 W Maple St, Mason, MI 48854",
+            "latitude": 42.5803896,
+            "longitude": -84.44344029999999,
+            "type": "Boutique",
+            "types": [
+                "Boutique"
+            ],
+            "phoneNumber": "(517) 244-9444",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "12\u20135\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyuK5-UXkulPtVUbZLPO-aQ4LIofFr8pN4uSFV",
+            "cid": "2932625094218305994",
+            "fid": "0x8822c5e99cf6d195:0x28b2c6fc484751ca",
+            "placeId": "ChIJldH2nOnFIogRylFHSPzGsig"
+        },
+        {
+            "position": 3,
+            "title": "Friend House",
+            "address": "106 3rd Ave, New York, NY 10003",
+            "latitude": 40.732946,
+            "longitude": -73.9878008,
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "phoneNumber": "(212) 388-1838",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9LAPUjOV6-GJb6UpdX9NhA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=301.7926&pitch=0&thumbfov=100",
+            "cid": "11958789526978370232",
+            "fid": "0x89c2599fa88e3a2d:0xa5f627b6e3351ab8",
+            "placeId": "ChIJLTqOqJ9ZwokRuBo147Yn9qU"
+        }
+    ],
+    "credits": 3
+}

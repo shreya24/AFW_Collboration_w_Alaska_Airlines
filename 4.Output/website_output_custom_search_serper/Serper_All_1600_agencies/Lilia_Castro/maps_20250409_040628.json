@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Lilia Castro",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@3.9917236,-73.7817261,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colegio 20 de Julio sede Lilia Castro",
+            "address": "Acacias, Acac\u00edas, Meta, Colombia",
+            "latitude": 3.9917236,
+            "longitude": -73.7817261,
+            "rating": 4.4,
+            "ratingCount": 15,
+            "type": "Educational institution",
+            "types": [
+                "Educational institution"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YBeMz_dBJTKkC74sN7D7jg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=149.95494&pitch=0&thumbfov=100",
+            "cid": "18418051635484814216",
+            "fid": "0x8e3e3931f512632b:0xff9a106123dfeb88",
+            "placeId": "ChIJK2MS9TE5Po4RiOvfI2EQmv8"
+        }
+    ],
+    "credits": 3
+}

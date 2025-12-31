@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Center for Healing Neurology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6500289,-122.3178834,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Formally Center for Healing Neurology (Neuroveda Health)",
+            "address": "1700 Westlake Ave N STE 100, Seattle, WA 98109",
+            "latitude": 47.6343719,
+            "longitude": -122.339659,
+            "rating": 3.9,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Acupuncture clinic",
+                "Ayurvedic clinic",
+                "Chinese medicine clinic",
+                "Neurologist"
+            ],
+            "website": "http://www.neurovedahealth.com/",
+            "phoneNumber": "(206) 379-1213",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMPY2MV6XBJZ2rVk8iEhBOGYkzxJa2khUjX3kHw",
+            "cid": "2708767513482504931",
+            "fid": "0x54901486e51e3291:0x259779b3ac3e2ae3",
+            "placeId": "ChIJkTIe5YYUkFQR4yo-rLN5lyU"
+        },
+        {
+            "position": 2,
+            "title": "Center For Healing Neurology",
+            "address": "NE Blakeley St, Seattle, WA 98105",
+            "latitude": 47.6656858,
+            "longitude": -122.2961078,
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "8044414021991134229",
+            "fid": "0x54901486ed7551c5:0x6fa37fee8ef3f415",
+            "placeId": "ChIJxVF17YYUkFQRFfTzju5_o28"
+        }
+    ],
+    "credits": 3
+}

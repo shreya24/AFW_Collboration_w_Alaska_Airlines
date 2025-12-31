@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Palo Alto VA Health Care System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.405063,-122.1402524,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Palo Alto VA Medical Center",
+            "address": "3801 Miranda Ave, Palo Alto, CA 94304",
+            "latitude": 37.405063,
+            "longitude": -122.1402524,
+            "rating": 4.3,
+            "ratingCount": 270,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/palo-alto-health-care/",
+            "phoneNumber": "(650) 493-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLA9aIrKicx1Xgt_YCGvzPKWHRx3R-QELJqGiM",
+            "cid": "15847808240644638624",
+            "fid": "0x808fba9b6a76c905:0xdbeeb9a12c21c7a0",
+            "placeId": "ChIJBcl2apu6j4ARoMchLKG57ts"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,99 @@
+{
+    "searchParameters": {
+        "q": "Mary Bridge Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.2595263,-122.4540001,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MultiCare Mary Bridge Children's Hospital",
+            "address": "317 M.L.K. Jr Way, Tacoma, WA 98403",
+            "latitude": 47.2593575,
+            "longitude": -122.45293339999999,
+            "rating": 3.2,
+            "ratingCount": 235,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.marybridge.org/locations/mary-bridge-childrens-hospital/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(253) 403-1400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJvglYk76ak28c8BsNCfJUf5LzHTG8tfTyhuOC",
+            "cid": "8533617283203109802",
+            "fid": "0x5490550631110063:0x766d7fb4be7493aa",
+            "placeId": "ChIJYwARMQZVkFQRqpN0vrR_bXY"
+        },
+        {
+            "position": 2,
+            "title": "MultiCare Mary Bridge Children's Hospital - Emergency Department",
+            "address": "317 M.L.K. Jr Way, Tacoma, WA 98405",
+            "latitude": 47.2593319,
+            "longitude": -122.45292509999999,
+            "rating": 2.6,
+            "ratingCount": 66,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital department"
+            ],
+            "website": "https://www.marybridge.org/services/neurobehavioral-medicine/developmental-behavioral-pediatrics/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(253) 403-1418",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzixXIM5ybQT3HpYDFo8muGN4CYZMHb6v6JPXm",
+            "cid": "695675771239817566",
+            "fid": "0x5490550631110063:0x9a7896d9798615e",
+            "placeId": "ChIJYwARMQZVkFQRXmGYl22Jpwk"
+        },
+        {
+            "position": 3,
+            "title": "Mary Bridge Children's Outpatient Center - Tacoma",
+            "address": "311 S L St, Tacoma, WA 98405",
+            "latitude": 47.259720699999995,
+            "longitude": -122.45507509999999,
+            "rating": 4.2,
+            "ratingCount": 36,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.marybridge.org/locations/mary-bridge-childrens-outpatient-center-tacoma/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(800) 552-1419",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdphp400TDOaifxMqJ21DzD7DYu4humzOhVn4j",
+            "cid": "8639129888376046428",
+            "fid": "0x549055063f4f7ccf:0x77e45adc851d435c",
+            "placeId": "ChIJz3xPPwZVkFQRXEMdhdxa5Hc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Covenant House Alaska",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2150417,-149.8825468,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Covenant House Alaska",
+            "address": "755 A St, Anchorage, AK 99501",
+            "latitude": 61.2150417,
+            "longitude": -149.8825468,
+            "rating": 3.9,
+            "ratingCount": 66,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter"
+            ],
+            "website": "http://ak.covenanthouse.org/",
+            "phoneNumber": "(907) 272-1255",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9qcvtCDnCvp9B-piWMs7Y82_V9k0lPuIgl53em9tUIogpP_TP4iMkDnUs0TpJMofsg2ol4rfVBMbc4reaF7jymFh7mAzfrindpbBxHQlfWu3985X8xv3qRyPiNfz99xpeTnvuN",
+            "cid": "5736590038781098698",
+            "fid": "0x56c896294d210f7b:0x4f9c763f1b977aca",
+            "placeId": "ChIJew8hTSmWyFYRynqXGz92nE8"
+        }
+    ],
+    "credits": 3
+}

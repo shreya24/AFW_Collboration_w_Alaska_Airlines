@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pediatric Diagnostic Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2781886,-119.2531201,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Diagnostic Center",
+            "address": "300 Hillmont Ave building 340 suite 302, Ventura, CA 93003",
+            "latitude": 34.2781886,
+            "longitude": -119.25312009999999,
+            "rating": 4.4,
+            "ratingCount": 32,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Community health centre"
+            ],
+            "website": "https://vchca.org/",
+            "phoneNumber": "(805) 652-6255",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrwHs3fPY1tXgqS42MO9SEihoByjbKV6aw2iqd",
+            "cid": "9641279124531328975",
+            "fid": "0x80e9ad40c4465f77:0x85ccb448361437cf",
+            "placeId": "ChIJd19GxECt6YARzzcUNki0zIU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "Clara Vista Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.235078,-110.8350878,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clara Vista Pediatrics Tucson Pediatrician",
+            "address": "7340 E Speedway Blvd #104, Tucson, AZ 85710",
+            "latitude": 32.235125599999996,
+            "longitude": -110.83504699999999,
+            "rating": 3.5,
+            "ratingCount": 57,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Child health care centre"
+            ],
+            "phoneNumber": "(520) 547-7045",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAFz7GA_CFnsJB13jeFm5TNBq8PVOBF3JZKZyu",
+            "cid": "14430634887345971837",
+            "fid": "0x86d66f177b2a41e5:0xc843e9f9279da27d",
+            "placeId": "ChIJ5UEqexdv1oYRfaKdJ_npQ8g"
+        },
+        {
+            "position": 2,
+            "title": "Clara Vista Pediatrics: Dr. Jennifer J. Martin, MD",
+            "address": "7340 E Speedway Blvd #104, Tucson, AZ 85710",
+            "latitude": 32.2350304,
+            "longitude": -110.8351287,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(520) 547-7045",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M4_gKmRd9St0j4Rg9FqbbQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=187.24657&pitch=0&thumbfov=100",
+            "cid": "12108889264756006433",
+            "fid": "0x86d66f138fac3cf7:0xa80b6aa172529e21",
+            "placeId": "ChIJ9zysjxNv1oYRIZ5ScqFqC6g"
+        },
+        {
+            "position": 3,
+            "title": "TMCOne - Clara Vista Pediatrics",
+            "address": "7340 E Speedway Blvd, Tucson, AZ 85710",
+            "latitude": 32.2350304,
+            "longitude": -110.8351287,
+            "rating": 3.3,
+            "ratingCount": 4,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.tmcaz.com/tmc-one/",
+            "phoneNumber": "(520) 547-7045",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNkgTcTlWURKgXssoDD8RoYkXubCCaXZ28kcxnQ",
+            "cid": "4053058439558442531",
+            "fid": "0x86d66fdc31ccc665:0x383f5b2d3fc7ae23",
+            "placeId": "ChIJZcbMMdxv1oYRI67HPy1bPzg"
+        }
+    ],
+    "credits": 3
+}

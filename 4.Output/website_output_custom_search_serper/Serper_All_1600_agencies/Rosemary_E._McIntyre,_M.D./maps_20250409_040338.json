@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Rosemary E. McIntyre, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2590049,-119.1393764,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rosemary McIntyre, MD, Emeritus",
+            "address": "2900 Loma Vista Rd # 200, Ventura, CA 93003",
+            "latitude": 34.2752177,
+            "longitude": -119.2569358,
+            "type": "Hematologist",
+            "types": [
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "http://www.venturaoncology.com/",
+            "phoneNumber": "(805) 643-4283",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aw9W-ugetuv7IRIM5p__NQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.47183&pitch=0&thumbfov=100",
+            "cid": "4515959729335450437",
+            "fid": "0x80e9ad3f478ad15f:0x3eabe9727f023b45",
+            "placeId": "ChIJX9GKRz-t6YARRTsCf3Lpqz4"
+        },
+        {
+            "position": 2,
+            "title": "Mcintyre Rosemary MD",
+            "address": "2460 N Ponderosa Dr, Camarillo, CA 93010",
+            "latitude": 34.242792,
+            "longitude": -119.021817,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.venturaoncology.com/",
+            "phoneNumber": "(805) 383-1567",
+            "cid": "16280437167703217173",
+            "fid": "0x80e835de0f392b71:0xe1efbb58b9045415",
+            "placeId": "ChIJcSs5D9416IARFVQEuVi77-E"
+        }
+    ],
+    "credits": 3
+}

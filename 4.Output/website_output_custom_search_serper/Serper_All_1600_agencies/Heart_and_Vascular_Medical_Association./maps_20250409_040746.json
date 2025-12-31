@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Heart and Vascular Medical Association.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5151836,-121.5870372,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sacramento Heart & Vascular Medical Associates",
+            "address": "500 University Ave # 200, Sacramento, CA 95825",
+            "latitude": 38.568332,
+            "longitude": -121.417943,
+            "rating": 3.7,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Hospital",
+                "Internist",
+                "Radiologist"
+            ],
+            "website": "http://www.sacheart.com/",
+            "phoneNumber": "(916) 830-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9A5A0CsyRZQX52HWkEDUc5v1FhVQxY1w-LOwna81zCqX1LgduP9q6AjIppYNHU8ctcsXszYDOiWANuliTJHCdgXzy6VdTUAWWe-hOJhxjpSi2pQMaOK3m4nagZEH71iLWJ1eJlZg",
+            "cid": "12176150263417050643",
+            "fid": "0x809adaf5c3042ba5:0xa8fa60270ec09613",
+            "placeId": "ChIJpSsEw_XamoARE5bADidg-qg"
+        },
+        {
+            "position": 2,
+            "title": "Sacramento Heart & Vascular Medical Associates",
+            "address": "635 Anderson Rd #15, Davis, CA 95616",
+            "latitude": 38.548577099999996,
+            "longitude": -121.759661,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.sacheart.com/",
+            "phoneNumber": "(530) 757-1999",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOeZ12MAPdL6UT3GLUu9J8w1nA6dagk3uLrlKDX",
+            "cid": "8688028753817254685",
+            "fid": "0x80852997476b57ed:0x7892141ed5a83b1d",
+            "placeId": "ChIJ7VdrR5cphYARHTuo1R4Ukng"
+        },
+        {
+            "position": 3,
+            "title": "Sacramento Heart & Vascular Medical Associates",
+            "address": "8120 Timberlake Way Ste 207, Sacramento, CA 95823",
+            "latitude": 38.4620351,
+            "longitude": -121.4144135,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Transplant surgeon",
+            "types": [
+                "Transplant surgeon",
+                "Cardiologist"
+            ],
+            "website": "http://www.sacheart.com/",
+            "phoneNumber": "(916) 688-1600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x2RCE770MxQ1lL77eJHccw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=207.21437&pitch=0&thumbfov=100",
+            "cid": "4046262700404122911",
+            "fid": "0x809ac5da2b032141:0x3827367ced80251f",
+            "placeId": "ChIJQSEDK9rFmoARHyWA7Xw2Jzg"
+        }
+    ],
+    "credits": 3
+}

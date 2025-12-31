@@ -1,0 +1,83 @@
+{
+    "searchParameters": {
+        "q": "Klamath Trinity School Readiness Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1127865,-123.7050375,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Klamath Trinity Joint Unified School District Office",
+            "address": "11800 CA-96, Hoopa, CA 95546",
+            "latitude": 41.0534161,
+            "longitude": -123.68012019999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "School district office",
+            "types": [
+                "School district office"
+            ],
+            "website": "https://www.ktjusd.k12.ca.us/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "1727354877337622146",
+            "fid": "0x54d17b0929535f6b:0x17f8cc1be8bf5682",
+            "placeId": "ChIJa19TKQl70VQRgla_6BvM-Bc"
+        },
+        {
+            "position": 2,
+            "title": "Klamath Trinity School",
+            "address": "11850 CA-96, Hoopa, CA 95546",
+            "latitude": 41.0550084,
+            "longitude": -123.6807743,
+            "type": "Ready mix concrete supplier",
+            "types": [
+                "Ready mix concrete supplier",
+                "Government"
+            ],
+            "phoneNumber": "(530) 625-9307",
+            "cid": "17275489726092478426",
+            "fid": "0x54d177421b348efd:0xefbede605ca707da",
+            "placeId": "ChIJ_Y40G0J30VQR2genXGDevu8"
+        },
+        {
+            "position": 3,
+            "title": "Klamath-Trinity Joint Unified School District",
+            "address": "California",
+            "latitude": 41.148381799999996,
+            "longitude": -123.68237339999999,
+            "cid": "13199702106809997086",
+            "fid": "0x54d17657a2e06481:0xb72ec3219162971e",
+            "placeId": "ChIJgWTgold20VQRHpdikSHDLrc"
+        },
+        {
+            "position": 4,
+            "title": "Klamath Trinity Joint Unified School District",
+            "address": "Loop Rd, Hoopa, CA 95546",
+            "latitude": 41.049054999999996,
+            "longitude": -123.6765362,
+            "type": "School district office",
+            "types": [
+                "School district office",
+                "School"
+            ],
+            "website": "https://www.ktjusd.k12.ca.us/",
+            "phoneNumber": "(530) 625-5600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FCRuqm5Hqvahkg62eLLo6g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=60.992107&pitch=0&thumbfov=100",
+            "cid": "9121521410952077071",
+            "fid": "0x54d1768555555555:0x7e96276536eb1f0f",
+            "placeId": "ChIJVVVVVYV20VQRDx_rNmUnln4"
+        }
+    ],
+    "credits": 3
+}

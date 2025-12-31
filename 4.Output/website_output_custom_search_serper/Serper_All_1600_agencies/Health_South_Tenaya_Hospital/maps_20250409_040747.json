@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Health South Tenaya Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.2071991,-115.249517,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Complex Care Hospital at Tenaya",
+            "address": "2500 N Tenaya Wy, Las Vegas, NV 89128",
+            "latitude": 36.2055394,
+            "longitude": -115.2502627,
+            "rating": 2.8,
+            "ratingCount": 43,
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital",
+                "Hospital"
+            ],
+            "website": "http://phppd.providence.org/Intel/Facility/View/560707994904158?PlanName=",
+            "phoneNumber": "(702) 562-2021",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMG3AifSPGMLaPQWci7VIwvitsBWC414BYUCMd7",
+            "cid": "13378539449878173442",
+            "fid": "0x80c8c027aff8a79f:0xb9aa1ebf4389d702",
+            "placeId": "ChIJn6f4ryfAyIARAteJQ78eqrk"
+        },
+        {
+            "position": 2,
+            "title": "Tenaya Healthcare Center",
+            "address": "2704 N Tenaya Wy, Las Vegas, NV 89128",
+            "latitude": 36.2088587,
+            "longitude": -115.2487714,
+            "rating": 3.5,
+            "ratingCount": 93,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.smalv.com/locations-nav/locations/nv/tenaya-healthcare-center-2704-n-tenaya-way-las-vegas-nv-89128/DMC46398115.html",
+            "phoneNumber": "(702) 877-5088",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.smalv.com/en/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOohV9DhAmGZrUBl2eiDPJTtSBAuUp0EFIXo8Mh",
+            "cid": "4846940008123029767",
+            "fid": "0x80c8ea9d496b69c5:0x4343ca41d7cd5907",
+            "placeId": "ChIJxWlrSZ3qyIARB1nN10HKQ0M"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "AWAIC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.2091313,-149.8839487,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AWAIC",
+            "address": "100 W 13th Ave, Anchorage, AK 99501",
+            "latitude": 61.209131299999996,
+            "longitude": -149.8839487,
+            "rating": 3.8,
+            "ratingCount": 43,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Charity",
+                "Social services organization",
+                "Social worker"
+            ],
+            "website": "https://awaic.org/",
+            "phoneNumber": "(907) 279-9581",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMq5NiZW0QmxUxxtvntbhxsOYmnYmnR3lP17NRx",
+            "cid": "920224170601637537",
+            "fid": "0x56c8962cdebe3745:0xcc54b01f27066a1",
+            "placeId": "ChIJRTe-3iyWyFYRoWZw8gFLxQw"
+        }
+    ],
+    "credits": 3
+}

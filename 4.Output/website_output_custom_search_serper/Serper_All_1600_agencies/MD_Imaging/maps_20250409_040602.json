@@ -1,0 +1,107 @@
+{
+    "searchParameters": {
+        "q": "MD Imaging",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1364877,-98.1475421,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MD Imaging - Poughkeepsie",
+            "address": "14 Raymond Ave, Poughkeepsie, NY 12603",
+            "latitude": 41.6949533,
+            "longitude": -73.9010445,
+            "rating": 4.3,
+            "ratingCount": 208,
+            "type": "X-ray lab",
+            "types": [
+                "X-ray lab",
+                "Diagnostic center",
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Radiologist"
+            ],
+            "website": "http://mdimagingny.com/",
+            "phoneNumber": "(845) 471-2848",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ppzXcm9Jk3yEPakZOkQV6Pd4_7LMrm7Z5Asg6WI5oDDI-So_L4QrfqloNWY2EAYU1QILs98dnLZ8i-7TJUe8r5JM3WIufN-0Mi1IujZpfd0TLmw1KS5XSr48TLJR6dxRXTXde",
+            "cid": "18071811272223966229",
+            "fid": "0x89dd3e455e195d43:0xfacbf89a80cf4415",
+            "placeId": "ChIJQ10ZXkU-3YkRFUTPgJr4y_o"
+        },
+        {
+            "position": 2,
+            "title": "MD Imaging",
+            "address": "2020 Court St STE 110, Redding, CA 96001",
+            "latitude": 40.5780221,
+            "longitude": -122.39403979999999,
+            "rating": 4.1,
+            "ratingCount": 180,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "website": "http://www.mdimaging.net/",
+            "phoneNumber": "(530) 243-1249",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mdimaging.net/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnWMhi1GgOlJ7l4gf2WX33psQ-FMt7wkeoqueI",
+            "cid": "10848474449466444317",
+            "fid": "0x54d2ecfb47eb348b:0x968d8608bb594a1d",
+            "placeId": "ChIJizTrR_vs0lQRHUpZuwiGjZY"
+        },
+        {
+            "position": 3,
+            "title": "MD Imaging - Wappingers Falls",
+            "address": "1323 US-9, Wappingers Falls, NY 12590",
+            "latitude": 41.5787561,
+            "longitude": -73.9101709,
+            "rating": 4.7,
+            "ratingCount": 142,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "http://www.mdimagingny.com/",
+            "phoneNumber": "(845) 471-2848",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-XS8TKZVXFdWARDZanWsmudovJD3zqHuQqiIT8tFpi6HjNGrE1sL0TJjF-_Xg48cl3nSW005ODCx2hh1NOtMbRaEM6tcdxEjZETaAz1ZbGz-MzqbBuUwRZcxqAjC-i6QT9L8k",
+            "cid": "9115539341203086139",
+            "fid": "0x89dd39be76e471f7:0x7e80e6bc10821b3b",
+            "placeId": "ChIJ93Hkdr453YkROxuCELzmgH4"
+        }
+    ],
+    "credits": 3
+}

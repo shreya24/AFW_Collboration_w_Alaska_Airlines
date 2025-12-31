@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "UCD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.9239795,-63.9916511,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of California, Davis",
+            "address": "1 Shields Ave, Davis, CA 95616",
+            "latitude": 38.538232199999996,
+            "longitude": -121.7617125,
+            "rating": 4.4,
+            "ratingCount": 942,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "https://www.ucdavis.edu/",
+            "phoneNumber": "(530) 752-1011",
+            "description": "Big, research-centric public school founded in 1905 & known for its science & engineering programs.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3VSzkx1PYNCtmkpiMAlIdB-hMVgOrUqkeBMjSr5WKNM8ZUslYFyXG8oxfXFrL9s-tXjgPgnoTAbSoeE-aLXV97nXsPZa1CIEMvFn2_1B7jl-R4qMTyNXiBAJ4HrPx7aOWmFAg",
+            "cid": "17059559676938453812",
+            "fid": "0x80ead37f7489fa3f:0xecbfbb24087e8334",
+            "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w"
+        },
+        {
+            "position": 2,
+            "title": "University College Dublin",
+            "address": "University College Dublin, Belfield, Dublin 4, Ireland",
+            "latitude": 53.3097268,
+            "longitude": -6.2215897,
+            "rating": 4.6,
+            "ratingCount": 948,
+            "type": "University",
+            "types": [
+                "University",
+                "Public university"
+            ],
+            "website": "http://www.ucd.ie/",
+            "phoneNumber": "+353 1 716 7777",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4RHuD9hg94ROxcBArQMKSHuHQhisdF5X-JRttxkNS6W3KS7CQe0tsdoSIaJAdjSemI9dfNaaGszsdMBNsxXx03J0niiChb9TUQ2FNmUw6EtyRzNbEGUNB_bI8tWqPqrMOfaaF",
+            "cid": "3924371348803338191",
+            "fid": "0x4867093120c83a63:0x36762af31424bfcf",
+            "placeId": "ChIJYzrIIDEJZ0gRz78kFPMqdjY"
+        }
+    ],
+    "credits": 3
+}

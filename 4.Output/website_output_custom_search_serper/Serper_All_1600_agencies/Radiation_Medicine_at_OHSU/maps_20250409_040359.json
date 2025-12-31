@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Radiation Medicine at OHSU",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4991139,-122.6851334,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "OHSU Knight Cancer Institute Radiation Medicine, Marquam Hill",
+            "address": "Kohler Pavilion, 808 SW Campus Dr 4th Floor, Portland, OR 97239",
+            "latitude": 45.4991139,
+            "longitude": -122.6851334,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center"
+            ],
+            "website": "https://www.ohsu.edu/knight-cancer-institute/ohsu-knight-cancer-institute-radiation-medicine-marquam-hill?utm_source=gmb&utm_medium=organic&utm_content=33d083c5-def1-5d1f-a747-850c0fc9a470",
+            "phoneNumber": "(503) 494-8756",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2LSVCTtPv25HnfvpQlm0bp2Lfot_PjCOgjc23",
+            "cid": "8511704647524877399",
+            "fid": "0x54950b9c07098327:0x761fa647acc30457",
+            "placeId": "ChIJJ4MJB5wLlVQRVwTDrEemH3Y"
+        }
+    ],
+    "credits": 3
+}

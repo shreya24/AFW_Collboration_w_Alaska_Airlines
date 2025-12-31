@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Solstice Family Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5864231,-149.4270914,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valerie Krozel, MD",
+            "address": "950 E Bogard Rd Suite 233, Wasilla, AK 99654",
+            "latitude": 61.5864231,
+            "longitude": -149.4270914,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.sunshineclinic.org/",
+            "phoneNumber": "(907) 376-2273",
+            "bookingLinks": [
+                "https://www.sunshineclinic.org/"
+            ],
+            "cid": "9731534008466044826",
+            "fid": "0x56c8e10cb597cf19:0x870d5a9eee40779a",
+            "placeId": "ChIJGc-XtQzhyFYRmndA7p5aDYc"
+        }
+    ],
+    "credits": 3
+}

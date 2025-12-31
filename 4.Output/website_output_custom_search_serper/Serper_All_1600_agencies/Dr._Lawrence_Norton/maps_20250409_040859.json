@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Lawrence Norton",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1972556,-149.8777197,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Lawrence Norton",
+            "address": "2550 Denali St # 1606, Anchorage, AK 99503",
+            "latitude": 61.1972556,
+            "longitude": -149.8777197,
+            "rating": 5,
+            "ratingCount": 14,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "http://www.drlawrencenorton.com/",
+            "phoneNumber": "(907) 334-9842",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=so_XX8GSFdFBC4KRV0vznQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=23.353703&pitch=0&thumbfov=100",
+            "cid": "9163871029784936934",
+            "fid": "0x56c897c92237ec29:0x7f2c9c2639d301e6",
+            "placeId": "ChIJKew3IsmXyFYR5gHTOSacLH8"
+        }
+    ],
+    "credits": 3
+}

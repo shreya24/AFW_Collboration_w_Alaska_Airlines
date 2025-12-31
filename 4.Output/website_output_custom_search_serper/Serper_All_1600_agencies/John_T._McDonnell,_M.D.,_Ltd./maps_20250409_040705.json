@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "John T. McDonnell, M.D., Ltd.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.4188485,-157.8019931,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. John McDonnell MD",
+            "address": "46-001 Kamehameha Hwy Ste 401, Kaneohe, HI 96744",
+            "latitude": 21.4188485,
+            "longitude": -157.8019931,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Allergist",
+            "types": [
+                "Allergist",
+                "Doctor"
+            ],
+            "website": "https://www.adventisthealth.org/provider/john-t-mcdonnell-md-allergy",
+            "phoneNumber": "(808) 247-6070",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "3373143742380363264",
+            "fid": "0x7c006afbea9ad1d9:0x2ecfd05cace9ce00",
+            "placeId": "ChIJ2dGa6vtqAHwRAM7prFzQzy4"
+        }
+    ],
+    "credits": 3
+}

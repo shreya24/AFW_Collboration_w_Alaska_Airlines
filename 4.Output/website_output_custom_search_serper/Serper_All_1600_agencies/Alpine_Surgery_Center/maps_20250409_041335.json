@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Alpine Surgery Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.8706839,-127.5374357,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alpine Surgery Center",
+            "address": "3801 Lake Otis Pkwy Suite 100, Anchorage, AK 99508",
+            "latitude": 61.1857538,
+            "longitude": -149.8373805,
+            "rating": 4.6,
+            "ratingCount": 17,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://alpinesurgery.com/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(907) 563-1555",
+            "openingHours": {
+                "Tuesday": "5:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "5:30\u202fAM\u20135\u202fPM",
+                "Thursday": "5:30\u202fAM\u20135\u202fPM",
+                "Friday": "5:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "5:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://alpinesurgery.com/physicians/"
+            ],
+            "cid": "6769980902475178344",
+            "fid": "0x56c897a8f0d8ec61:0x5df3cdc30c362168",
+            "placeId": "ChIJYezY8KiXyFYRaCE2DMPN810"
+        },
+        {
+            "position": 2,
+            "title": "Alpine Surgery Center",
+            "address": "112 Spencer Ave, Gunnison, CO 81230",
+            "latitude": 38.555614,
+            "longitude": -106.9278836,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "phoneNumber": "(970) 641-6788",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A4YM0sBVXm89pYlF7ruYyg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.1742&pitch=0&thumbfov=100",
+            "cid": "3015043394617617741",
+            "fid": "0x873f92b8f63b973d:0x29d795fe36922d4d",
+            "placeId": "ChIJPZc79riSP4cRTS2SNv6V1yk"
+        },
+        {
+            "position": 3,
+            "title": "Alpine Surgical",
+            "address": "4743 Arapahoe Ave STE 102, Boulder, CO 80303",
+            "latitude": 40.0159109,
+            "longitude": -105.23749099999999,
+            "rating": 4.4,
+            "ratingCount": 76,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Medical examiner",
+                "Surgeon",
+                "Vascular surgeon"
+            ],
+            "website": "https://www.alpinesurgical.net/",
+            "phoneNumber": "(303) 449-3642",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9CQf95IKNGjVWL-pHoYCccSrggvCsMw1LwzmMnRq7qkIyvhNTG23GLLiugGrSh9aZiGLlrW2ChDc5PCfsBOhJbVQNxMm2QGM9JbVjZKY8OY5NSzrLuKAZBozhSo1PI9iWaGdBT",
+            "cid": "17751402712397066492",
+            "fid": "0x876bedef2df9fae3:0xf659a6b7495530fc",
+            "placeId": "ChIJ4_r5Le_ta4cR_DBVSbemWfY"
+        }
+    ],
+    "credits": 3
+}

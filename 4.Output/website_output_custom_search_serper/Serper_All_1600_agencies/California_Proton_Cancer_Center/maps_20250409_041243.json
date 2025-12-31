@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "California Proton Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.89327,-117.17038,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "California Protons Cancer Therapy Center",
+            "address": "9730 Summers Ridge Rd, San Diego, CA 92121",
+            "latitude": 32.89327,
+            "longitude": -117.17038,
+            "rating": 4.4,
+            "ratingCount": 37,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.californiaprotons.com/?utm_source=gbp&utm_medium=organic&utm_campaign=local",
+            "phoneNumber": "(858) 218-0548",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://my.californiaprotons.com/?utm_source=google&utm_medium=gbp&utm_campaign=appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPTxcyCF-9fCMbHrY-1u4Y4wvCmKDcbHELBtWgL",
+            "cid": "2173402430853950183",
+            "fid": "0x80dbf8a6fcddf7ed:0x1e2979fee5052ae7",
+            "placeId": "ChIJ7ffd_Kb424AR5yoF5f55KR4"
+        }
+    ],
+    "credits": 3
+}

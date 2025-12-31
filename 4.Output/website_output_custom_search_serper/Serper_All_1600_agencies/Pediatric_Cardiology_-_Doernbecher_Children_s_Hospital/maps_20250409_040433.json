@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Pediatric Cardiology - Doernbecher Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4977224,-122.6862687,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "OHSU Doernbecher Children's Hospital",
+            "address": "700 SW Campus Dr, Portland, OR 97239",
+            "latitude": 45.4977224,
+            "longitude": -122.6862687,
+            "rating": 4.4,
+            "ratingCount": 371,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.ohsu.edu/doernbecher?utm_source=gmb&utm_medium=organic&utm_content=LocationDoernbecher",
+            "phoneNumber": "(503) 346-0640",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPY7kCW5ikH3MNVzncAghipnorVsxcFafu23uqr",
+            "cid": "173832843666032373",
+            "fid": "0x54950a46e997ecab:0x269940ce10286f5",
+            "placeId": "ChIJq-yX6UYKlVQR9YYC4QyUaQI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Group Health Coop/Riverfront Med.Cntr.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.074331,-89.4609828,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Group Health Cooperative",
+            "address": "8202 Excelsior Dr, Madison, WI 53717",
+            "latitude": 43.0807571,
+            "longitude": -89.5252289,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://ghcscw.com/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q7B5yCqiZirPYhTSKhQ-oQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=124.0693&pitch=0&thumbfov=100",
+            "cid": "11295266636341338529",
+            "fid": "0x8807af3c149252cf:0x9cc0d9292e7261a1",
+            "placeId": "ChIJz1KSFDyvB4gRoWFyLinZwJw"
+        },
+        {
+            "position": 2,
+            "title": "Group Health Co-Op",
+            "address": "700 Regent St # 302, Madison, WI 53715",
+            "latitude": 43.0679048,
+            "longitude": -89.39673669999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://ghcscw.com/",
+            "phoneNumber": "(608) 441-3290",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ezd2g73o3ij0vlYJaOQ91A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=182.60193&pitch=0&thumbfov=100",
+            "cid": "5898863093093482856",
+            "fid": "0x88065332f18b79cb:0x51dcf8baca7fc168",
+            "placeId": "ChIJy3mL8TJTBogRaMF_yrr43FE"
+        }
+    ],
+    "credits": 3
+}

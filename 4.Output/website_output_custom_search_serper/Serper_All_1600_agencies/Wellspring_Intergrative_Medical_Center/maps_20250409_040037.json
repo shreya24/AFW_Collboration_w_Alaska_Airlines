@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Wellspring Intergrative Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.248806,-123.1252466,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wellspring Clinic For Holistic Medicine: Weidong Yu, TCMD, R.Ac, BM, MPH",
+            "address": "916 W King Edward Ave, Vancouver, BC V5Z 2E2, Canada",
+            "latitude": 49.248805999999995,
+            "longitude": -123.1252466,
+            "rating": 4,
+            "ratingCount": 22,
+            "type": "Acupuncture clinic",
+            "types": [
+                "Acupuncture clinic",
+                "Chinese medicine clinic",
+                "Eye care center"
+            ],
+            "website": "http://tcmrp.com/",
+            "phoneNumber": "+1 604-737-7876",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNDaiCcHvhR7TjT3QTrRqIpm5xrPrQ3eP8B4cMb",
+            "cid": "17485128236662565759",
+            "fid": "0x548673928d2f220d:0xf2a7a77db66cab7f",
+            "placeId": "ChIJDSIvjZJzhlQRf6tstn2np_I"
+        }
+    ],
+    "credits": 3
+}

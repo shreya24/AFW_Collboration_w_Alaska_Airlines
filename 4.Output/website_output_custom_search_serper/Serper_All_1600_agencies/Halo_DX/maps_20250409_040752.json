@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Halo DX",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7207537,-116.3601299,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HALO Dx",
+            "address": "74785 CA-111, Indian Wells, CA 92210",
+            "latitude": 33.720753699999996,
+            "longitude": -116.36012989999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.halodx.com/location_indian_wells",
+            "phoneNumber": "(760) 322-8883",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwqhICnDtsDFmQ4jpiR1CGWkka0SxDCnaKfuRD",
+            "cid": "2412149060652594011",
+            "fid": "0x80dafe91d5a30dd5:0x2179acca617d735b",
+            "placeId": "ChIJ1Q2j1ZH-2oARW3N9YcqseSE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,583 @@
+{
+    "searchParameters": {
+        "q": "University Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8341142,-108.6031433,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Medical Center",
+            "address": "1800 W Charleston Blvd, Las Vegas, NV 89102",
+            "latitude": 36.1603396,
+            "longitude": -115.1675578,
+            "rating": 2.5,
+            "ratingCount": 1039,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Children's hospital",
+                "Emergency room",
+                "General hospital",
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.umcsn.com/",
+            "phoneNumber": "(702) 383-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFubUToINWP6WxdDYfJHLhNxN0LAxXidxqJbQ",
+            "cid": "18346410434570994005",
+            "fid": "0x80c8c3eb7bc196c1:0xfe9b8b16381fc155",
+            "placeId": "ChIJwZbBe-vDyIARVcEfOBaLm_4"
+        },
+        {
+            "position": 2,
+            "title": "UCI Medical Center",
+            "address": "101 The City Dr S, Orange, CA 92868",
+            "latitude": 33.7874476,
+            "longitude": -117.8887539,
+            "rating": 3.1,
+            "ratingCount": 782,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "General hospital",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.ucihealth.org/",
+            "phoneNumber": "(714) 456-7890",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "http://www.ucihealth.org/?utm_source=local&utm_medium=organic&utm_campaign=GMB"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-V9sjRH6NMSeBdUh81keYNxl5281bYbVahZisBh3aiYLrcxns26rN95iMk1QnJ0Tvb9cwSsywyiXFL0LQiHjkSgcDBkLrUadYyVFp3GTCFYnbPEzD49otzSNnYkt6oYdgJnI7T",
+            "cid": "8789927134169794969",
+            "fid": "0x80dcd788875dd44d:0x79fc182851c20999",
+            "placeId": "ChIJTdRdh4jX3IARmQnCUSgY_Hk"
+        },
+        {
+            "position": 3,
+            "title": "University Hospital Tower",
+            "address": "101 The City Dr S Building 1A, Orange, CA 92868",
+            "latitude": 33.788047299999995,
+            "longitude": -117.8892035,
+            "rating": 4.3,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.ucihealth.org/",
+            "phoneNumber": "(714) 456-7890",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFGtwPcYG6rNhJQsyTBEFdQ6mAHP5TP8M_OAkB",
+            "cid": "7302013911940277780",
+            "fid": "0x80dcd787d3ca87d7:0x6555f6f716292614",
+            "placeId": "ChIJ14fK04fX3IARFCYpFvf2VWU"
+        },
+        {
+            "position": 4,
+            "title": "Loma Linda University Medical Center",
+            "address": "11234 Anderson St, Loma Linda, CA 92354",
+            "latitude": 34.049411899999996,
+            "longitude": -117.2634176,
+            "rating": 3.2,
+            "ratingCount": 870,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://lluh.org/?utm_source=google-local&utm_medium=organic&utm_campaign=yext",
+            "phoneNumber": "(909) 558-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://lluh.org/patients-visitors/patients/appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_SO339f9MSkpxwkHohCZIUY7m3mHo5CMADZpNYk50gEO4SCp5ba30okBwwWQwZtDgW014I8SNyVqiP02HZWRwTcxXEDD-f9AuCaOcIqvkUwwHvNVHTx1tqbJG0e-WGncsnbWyD",
+            "cid": "6206621071981658383",
+            "fid": "0x80dcab862f872d17:0x562258fb1aebc10f",
+            "placeId": "ChIJFy2HL4ar3IARD8HrGvtYIlY"
+        },
+        {
+            "position": 5,
+            "title": "Riverside University Health System Medical Center",
+            "address": "26520 Cactus Ave, Moreno Valley, CA 92555",
+            "latitude": 33.9121565,
+            "longitude": -117.19600009999999,
+            "rating": 3,
+            "ratingCount": 751,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "http://www.ruhealth.org/",
+            "phoneNumber": "(951) 486-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNzSr0YQSwFwNHhYa_uFYa9vqlioImtyB-6lctS",
+            "cid": "13130308091680572376",
+            "fid": "0x80dca79fe3a6e3e3:0xb63839a45c0ec3d8",
+            "placeId": "ChIJ4-Om45-n3IAR2MMOXKQ5OLY"
+        },
+        {
+            "position": 6,
+            "title": "USC University Hospital",
+            "address": "1500 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0619631,
+            "longitude": -118.2014203,
+            "rating": 4,
+            "ratingCount": 44,
+            "priceLevel": "$$",
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Medical diagnostic imaging center",
+                "Personal trainer"
+            ],
+            "phoneNumber": "(323) 442-8500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-KRjsRUfJ1hUnmLy61ZvaK_E-VRp2e1ciNV31HObXIEla_e8B10STc9BDEi_8wsXmhIM_NKO3VQea5MGfZ7-kS2941wM69PeG1Pw9xXHIvxrVyJ138iYq5POmKFO74jccni7askQ",
+            "cid": "11254632764494055186",
+            "fid": "0x80c2c5dec0613f27:0x9c307cdea5240712",
+            "placeId": "ChIJJz9hwN7FwoAREgckpd58MJw"
+        },
+        {
+            "position": 7,
+            "title": "UCLA West Valley Medical Center",
+            "address": "7300 Medical Center Dr, West Hills, CA 91307",
+            "latitude": 34.2028189,
+            "longitude": -118.62878149999999,
+            "rating": 4.1,
+            "ratingCount": 2589,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "General hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.uclahealth.org/hospitals/west-valley",
+            "phoneNumber": "(818) 676-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-6QbbTxMtNW0IMLYCiEoagY2EY5TYXKcmC7QLHO5sYiCw_YdX3yksTW5uXnfJzUEx57w4HeYTD4TcK4SMoQkaoYHko8eivMaiuim3LOQdZXgZGN0bxiv5fue75GBgAeD-0sdk",
+            "cid": "15422253077435768779",
+            "fid": "0x80c29db3ae29c899:0xd606d9769cbbdfcb",
+            "placeId": "ChIJmcgprrOdwoARy9-7nHbZBtY"
+        },
+        {
+            "position": 8,
+            "title": "University Health University Hospital",
+            "address": "4502 Medical Dr, San Antonio, TX 78229",
+            "latitude": 29.5078888,
+            "longitude": -98.5775051,
+            "rating": 2.8,
+            "ratingCount": 1834,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital",
+                "Internist"
+            ],
+            "website": "http://www.universityhealth.com/?utm_source=Yext&utm_medium=online_listings_location&utm_campaign=UH_digital&utm_content=UH_University_Hospital",
+            "phoneNumber": "(210) 358-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPV5pLFrD8Vc-vhkCvCBiH1okw7u6vQgWx54ag",
+            "cid": "3269778978862236901",
+            "fid": "0x865c5df924b62555:0x2d6096a8411f84e5",
+            "placeId": "ChIJVSW2JPldXIYR5YQfQaiWYC0"
+        },
+        {
+            "position": 9,
+            "title": "Olive View-UCLA Medical Center",
+            "address": "14445 Olive View Dr, Sylmar, CA 91342",
+            "latitude": 34.3258447,
+            "longitude": -118.4457245,
+            "rating": 3.3,
+            "ratingCount": 747,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://dhs.lacounty.gov/oliveview/",
+            "phoneNumber": "(747) 210-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-OAvCRHj61QBVC9XlviNlS3_43qrJnEaPoSK9pvQXkrFGuwv0IOwnCpvhCtvciUEgeRVZbmdJPAuN_ziW0ZKfvBYIa-8upuZ-tHamYvB4Fo9VQxPKOqMoxC3yiXUTb2eioZ8Fekg",
+            "cid": "10884819722008722395",
+            "fid": "0x80c28fb9e354db25:0x970ea5ddee7efbdb",
+            "placeId": "ChIJJdtU47mPwoAR2_t-7t2lDpc"
+        },
+        {
+            "position": 10,
+            "title": "Seoul National University Hospital LA Office",
+            "address": "3699 Wilshire Blvd #730, Los Angeles, CA 90010",
+            "latitude": 34.0623108,
+            "longitude": -118.30618129999999,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://usa.snuh.org/",
+            "phoneNumber": "(866) 808-4148",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H41s2pKnQrehDNGgZMqHog&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.27162&pitch=0&thumbfov=100",
+            "cid": "14208985231930436317",
+            "fid": "0x80c2b884ba9aaaf7:0xc53074c937fc2add",
+            "placeId": "ChIJ96qauoS4woAR3Sr8N8l0MMU"
+        },
+        {
+            "position": 11,
+            "title": "Ronald Reagan UCLA Medical Center",
+            "address": "757 Westwood Plaza, Los Angeles, CA 90095",
+            "latitude": 34.066399,
+            "longitude": -118.44635099999999,
+            "rating": 3.8,
+            "ratingCount": 740,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Emergency care service",
+                "Medical Center",
+                "Pediatrician",
+                "Urgent care center",
+                "Vascular surgeon"
+            ],
+            "website": "https://www.uclahealth.org/hospitals/reagan?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 825-9111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ztNOmZ1-mSzehOQqJyLLz4LQzTqnW8jK20ngI91-HLO7mMxAiOEXkCsZUatDiem29fGaPS8QZU1sDU5Wqmu-90UR04n89jlb3KVBR7IoEdSGRqixBXJ7Z3DG-F42_4eqvFT9C",
+            "cid": "2932246831633774083",
+            "fid": "0x80c2bc85f05c0f65:0x28b16ef5294bb603",
+            "placeId": "ChIJZQ9c8IW8woARA7ZLKfVusSg"
+        },
+        {
+            "position": 12,
+            "title": "Los Angeles General Medical Center",
+            "address": "2051 Marengo St, Los Angeles, CA 90033",
+            "latitude": 34.0580449,
+            "longitude": -118.2073831,
+            "rating": 3.6,
+            "ratingCount": 1171,
+            "type": "Government hospital",
+            "types": [
+                "Government hospital",
+                "Anesthesiologist",
+                "Medical Center"
+            ],
+            "website": "https://dhs.lacounty.gov/lageneral/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-VyQlVJAQSE7TWMkrS70M9U8cC5IIDxGvPfgtBqBtshqURxJODEzYstPh2ACEa278afnKEqroxTliEHD1ZNuRuMzxeQmsEDatdPjYQGVA9yUiBJ-sd3fdc0saEHVAZDNpFdxj8",
+            "cid": "492777182623440704",
+            "fid": "0x80c2c675c228d697:0x6d6b23c9bb01f40",
+            "placeId": "ChIJl9YownXGwoARQB-wmzyy1gY"
+        },
+        {
+            "position": 13,
+            "title": "UC San Diego Division of Hospital Medicine",
+            "address": "200 W Arbor Dr # 8485, San Diego, CA 92103",
+            "latitude": 32.7548221,
+            "longitude": -117.1658317,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "http://hospitalmedicine.ucsd.edu/",
+            "phoneNumber": "(619) 471-9186",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_H3f_x71WXkqLePJJYUQw77LA1qt79Dvjybxc5dbc04bIq8LqQOuxji9FtXPqN7hxPGCiLdeSTS5n3LdHzT9A-kDfcmHn3KswNnFfXO72lzSWAb0W-4Z_l-q63SGdUjPAfd_esuw",
+            "cid": "1709125510670962960",
+            "fid": "0x89e370999524529b:0x17b80898bc19d110",
+            "placeId": "ChIJm1IklZlw44kRENEZvJgIuBc"
+        },
+        {
+            "position": 14,
+            "title": "Biola University Student Health Center",
+            "address": "13800 Biola Ave, La Mirada, CA 90639",
+            "latitude": 33.9059449,
+            "longitude": -118.01577259999999,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "http://www.biola.edu/",
+            "phoneNumber": "(562) 903-4841",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "227545019170490403",
+            "fid": "0x80dd2ca81b77cdc7:0x32866fd46110823",
+            "placeId": "ChIJx813G6gs3YARIwgRRv1mKAM"
+        },
+        {
+            "position": 15,
+            "title": "UC Irvine Health",
+            "address": "101 The City Dr S, Orange, CA 92868",
+            "latitude": 33.7862808,
+            "longitude": -117.88641039999999,
+            "rating": 2.8,
+            "ratingCount": 11,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.ucihealth.org/",
+            "phoneNumber": "(714) 456-7890",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R5m7OFVZxnuAfUPvJHzwFg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=301.82108&pitch=0&thumbfov=100",
+            "cid": "8586381943878369941",
+            "fid": "0x80dcd7878a3c1189:0x7728f4e2a6b2c295",
+            "placeId": "ChIJiRE8iofX3IARlcKypuL0KHc"
+        },
+        {
+            "position": 16,
+            "title": "Hillcrest Medical Center at UC San Diego Health",
+            "address": "200 W Arbor Dr, San Diego, CA 92103",
+            "latitude": 32.753879999999995,
+            "longitude": -117.16555,
+            "rating": 3.1,
+            "ratingCount": 489,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/200-w.-arbor-drive/7000-02002?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB84Vy7BHZvuz2CmMRenj3sTv1SD6BpA4z8CFInxE3O_PIvPl4D8wtX8t_2cFYNjrESRndRSe2giBr22CYZRbEjbmga97ol_yoPLx7lSsldXu622vfzHR_OTqxIK461zaUWfTgI",
+            "cid": "9238643860163141024",
+            "fid": "0x80d954d63eb5d0d7:0x803641a4735e1da0",
+            "placeId": "ChIJ19C1PtZU2YARoB1ec6RBNoA"
+        },
+        {
+            "position": 17,
+            "title": "Los Angeles General Medical Center",
+            "address": "1200 N State St, Los Angeles, CA 90033",
+            "latitude": 34.059489,
+            "longitude": -118.20809519999999,
+            "rating": 3.7,
+            "ratingCount": 232,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital",
+                "Medical laboratory"
+            ],
+            "website": "http://www.lacusc.org/",
+            "phoneNumber": "(323) 226-2622",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9wyIRt9Wzdo4fYcCaT5kJ8h0f6oHQDXv_2wLHDsbXjUI-jlei8meFyYjI67Rcc2isrTvL2_8Eq0WePKl-GBusXUGJtRKCiOTAhhHSvJJ3lK2gjJVwZmc7n3FF3nC1fBfjR5F5P",
+            "cid": "16697900094444591521",
+            "fid": "0x80c2c67519b58aaf:0xe7badbaaa854d9a1",
+            "placeId": "ChIJr4q1GXXGwoARodlUqKrbuuc"
+        },
+        {
+            "position": 18,
+            "title": "Riverside University Health System Medical Center Emergency Room",
+            "address": "26520 Cactus Ave, Moreno Valley, CA 92555",
+            "latitude": 33.912859,
+            "longitude": -117.1958475,
+            "rating": 1.9,
+            "ratingCount": 95,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.ruhealth.org/",
+            "phoneNumber": "(951) 486-5650",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8JwWOK43LyaN3Ip7qwjQgmJ9LVfQvPaoLmpLX9JziylOOEdwbdP9Rcsa2yl8TAs9GjbQut0eWCdY38dofSKCpW-2aUqf787JUnlgu2guSUZo3oGXqki3vZuGPG2c12Butptu4o",
+            "cid": "10656562738928223060",
+            "fid": "0x80dca79fe4326061:0x93e3b759a47b0354",
+            "placeId": "ChIJYWAy5J-n3IARVAN7pFm345M"
+        },
+        {
+            "position": 19,
+            "title": "College Medical Center",
+            "address": "2776 Pacific Ave, Long Beach, CA 90806",
+            "latitude": 33.8071464,
+            "longitude": -118.1932533,
+            "rating": 2.5,
+            "ratingCount": 83,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "http://www.collegemedicalcenter.com/",
+            "phoneNumber": "(562) 997-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0CGkfsTuDIY9tjZf81jaj14FCPnMDVfkDqb-n",
+            "cid": "13973830627390864567",
+            "fid": "0x80dd33ee397c91cf:0xc1ed04eb491b3cb7",
+            "placeId": "ChIJz5F8Oe4z3YARtzwbSesE7cE"
+        },
+        {
+            "position": 20,
+            "title": "Loma Linda University Medical Center East Campus",
+            "address": "25333 Barton Rd, Loma Linda, CA 92354",
+            "latitude": 34.046857599999996,
+            "longitude": -117.2515366,
+            "rating": 3.4,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://lluh.org/locations/loma-linda-university-medical-center-east-campus?utm_source=google-local&utm_medium=organic&utm_campaign=yext",
+            "phoneNumber": "(909) 825-8601",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_dnPXp9fgWjbcbhBCdfo4v8zranFwqlaMsGlj6rMThms-B3POpMTCiXyzZpRkcS2vk5mz3ygWPZ7CzbzJTer0kCaYCUWq2Wa5-1e9J9v9B5JfK8AVa35bGF1qHf3BBmwapGvvH",
+            "cid": "8935604809077044198",
+            "fid": "0x80dcab93ebd0b021:0x7c01a53b224f33e6",
+            "placeId": "ChIJIbDQ65Or3IAR5jNPIjulAXw"
+        }
+    ],
+    "credits": 3
+}

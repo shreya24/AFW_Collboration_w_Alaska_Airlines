@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Valley Radiation Therapy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5627675,-149.2561399,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Radiation Therapy Center",
+            "address": "2490 S Woodworth Loop #150, Palmer, AK 99645",
+            "latitude": 61.5627675,
+            "longitude": -149.2561399,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.alaskaradiationtherapy.com/?utm_medium=Click&utm_source=GoogleMyBusiness",
+            "phoneNumber": "(907) 745-2900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMzYyNxspbqoFS6jlLEnRJwGHJjSKoMm4DGCyH",
+            "cid": "6214680332235816130",
+            "fid": "0x56c8e10c63199f5d:0x563efad5db85bcc2",
+            "placeId": "ChIJXZ8ZYwzhyFYRwryF29X6PlY"
+        }
+    ],
+    "credits": 3
+}

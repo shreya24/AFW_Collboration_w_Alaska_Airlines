@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Women's Resource Agency",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8430404,-104.7613983,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Women's Resource Agency Inc",
+            "address": "750 Citadel Dr E # 3128, Colorado Springs, CO 80909",
+            "latitude": 38.8430404,
+            "longitude": -104.7613983,
+            "rating": 4.4,
+            "ratingCount": 31,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Social services organization"
+            ],
+            "phoneNumber": "(719) 471-3170",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uCP2urAa7UJ5BPtci3PXhQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=247.36821&pitch=0&thumbfov=100",
+            "cid": "5514849107199509680",
+            "fid": "0x871345da1115c657:0x4c88ae0b4881c4b0",
+            "placeId": "ChIJV8YVEdpFE4cRsMSBSAuuiEw"
+        }
+    ],
+    "credits": 3
+}

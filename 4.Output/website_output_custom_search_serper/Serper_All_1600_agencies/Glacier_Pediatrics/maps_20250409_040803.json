@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Glacier Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3049552,-134.4268965,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glacier Pediatrics, LLC.",
+            "address": "1600 Glacier Ave, Juneau, AK 99801",
+            "latitude": 58.304955199999995,
+            "longitude": -134.4268965,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.glacierpediatrics.com/",
+            "phoneNumber": "(907) 586-1542",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8EVZ2Pn-mJdze9lqG0z5_-0BCZEMjH1I0T7nwgYsNmaV2I5hVi83RDGaqxhRbpcHVLHntSGkTm4vK7UEHEJVbrnM44lGKlLVf7h101khD0kJ5R-bsZFc8NDh91ptRQvzOTjx34mA",
+            "cid": "17095806630657373365",
+            "fid": "0x5400df8f2d1ff797:0xed40818d9919b4b5",
+            "placeId": "ChIJl_cfLY_fAFQRtbQZmY2BQO0"
+        }
+    ],
+    "credits": 3
+}

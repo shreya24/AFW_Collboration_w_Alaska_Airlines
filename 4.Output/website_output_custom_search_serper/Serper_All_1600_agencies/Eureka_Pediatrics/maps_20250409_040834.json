@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Eureka Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6431959,-107.3832727,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eureka Pediatrics",
+            "address": "515 N Virginia Ave, Eureka, MO 63025",
+            "latitude": 38.5077084,
+            "longitude": -90.62942369999999,
+            "rating": 4.1,
+            "ratingCount": 26,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://eurekapediatrics.godaddysites.com/",
+            "phoneNumber": "(636) 587-3000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4C4s1_gjF_LbF5ZW4TiuaEsNI-QaDKzpONpdp",
+            "cid": "3089469865645559690",
+            "fid": "0x87d92843304cdf77:0x2ae000795e13cf8a",
+            "placeId": "ChIJd99MMEMo2YcRis8TXnkA4Co"
+        },
+        {
+            "position": 2,
+            "title": "Providence Medical Group Eureka - Pediatrics",
+            "address": "3200 Walford Ave, Eureka, CA 95503",
+            "latitude": 40.7786833,
+            "longitude": -124.1371217,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.providence.org/locations/norcal/eureka-pediatrics?ls=location&y_source=1_MjM2OTQ3NDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(707) 444-6011",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/norcal/eureka-pediatrics?y_source=1_MjM2OTQ3NDEtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D#Providers"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8vJv2-XbfTbF_hmfp6XqgMgWVWqSTKbVCQXMU",
+            "cid": "6184430223637556722",
+            "fid": "0x54d3ffc95445a4e9:0x55d382859a1b2df2",
+            "placeId": "ChIJ6aRFVMn_01QR8i0bmoWC01U"
+        }
+    ],
+    "credits": 3
+}

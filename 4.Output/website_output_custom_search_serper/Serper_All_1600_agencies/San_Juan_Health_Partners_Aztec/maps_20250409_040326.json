@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "San Juan Health Partners Aztec",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8192623,-107.9969817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Juan Health Partners Family Medicine",
+            "address": "102 Llano St, Aztec, NM 87410",
+            "latitude": 36.8191355,
+            "longitude": -107.9967502,
+            "rating": 4.7,
+            "ratingCount": 513,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sanjuanregional.com/family-medicine-aztec",
+            "phoneNumber": "(505) 334-3404",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6WlfST_PXIQUkkr8gxpspIVCEosZbLIY17byM",
+            "cid": "3657182049336569874",
+            "fid": "0x873c76f44c16f837:0x32c0ebb281a43012",
+            "placeId": "ChIJN_gWTPR2PIcREjCkgbLrwDI"
+        },
+        {
+            "position": 2,
+            "title": "San Juan Health Partners Walk-in Clinic",
+            "address": "120 Llano St, Aztec, NM 87410",
+            "latitude": 36.819389,
+            "longitude": -107.9972133,
+            "rating": 4.5,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sanjuanregional.com/walk-in",
+            "phoneNumber": "(505) 334-3404",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcSKSCVCczwAwLbSs1cFAPuScdAfyidAREsXuk",
+            "cid": "10058527589141325259",
+            "fid": "0x873c77d2dca9ae57:0x8b97118cca3c25cb",
+            "placeId": "ChIJV66p3NJ3PIcRyyU8yowRl4s"
+        }
+    ],
+    "credits": 3
+}

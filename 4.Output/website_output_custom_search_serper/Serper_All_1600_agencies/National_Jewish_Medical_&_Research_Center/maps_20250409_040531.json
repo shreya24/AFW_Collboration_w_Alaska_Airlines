@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "National Jewish Medical & Research Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6494499,-104.9251231,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Jewish Health",
+            "address": "1400 Jackson St, Denver, CO 80206",
+            "latitude": 39.7390914,
+            "longitude": -104.94211209999999,
+            "rating": 3.3,
+            "ratingCount": 409,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.nationaljewish.org/?utm_source=gmb&utm_medium=yext&utm_id=1&y_source=1_MTIyNzk2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(303) 398-1355",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCWJmY7xeDeQeDza_-zZlhj7W2RLVkFAG4N0tu",
+            "cid": "1987703094369308485",
+            "fid": "0x876c7eabd53b35c7:0x1b95bd6edad3cf45",
+            "placeId": "ChIJxzU71at-bIcRRc_T2m69lRs"
+        },
+        {
+            "position": 2,
+            "title": "National Jewish Health Highlands Ranch",
+            "address": "8671 S Quebec St STE 120, Highlands Ranch, CO 80130",
+            "latitude": 39.559808499999995,
+            "longitude": -104.9081341,
+            "rating": 2.9,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.nationaljewish.org/about/locations/highlands-ranch?utm_source=gmb&utm_medium=yext&utm_id=highlandsranch&y_source=1_MTIyNzk2ODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(303) 703-3646",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://my.njhealth.org/PatientPortal/Users/Common/Forms/AppointmentRequest.aspx?utm_source=gmb&utm_medium=yext&utm_id=highlandsranch&y_source=1_MTIyNzk2ODYtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPr9zry4ghB8CelE0vMhssHxrb18KodfNKq9q3z",
+            "cid": "14081489515201754311",
+            "fid": "0x876c844442cbc9b3:0xc36b801b6dfcf4c7",
+            "placeId": "ChIJs8nLQkSEbIcRx_T8bRuAa8M"
+        }
+    ],
+    "credits": 3
+}

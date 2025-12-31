@@ -1,0 +1,511 @@
+{
+    "searchParameters": {
+        "q": "Sansum Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.5145909,-119.924732,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sansum Clinic Pueblo Multi-Specialty Clinic",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4293384,
+            "longitude": -119.72242659999999,
+            "rating": 3,
+            "ratingCount": 24,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/pueblo-multi-specialty-clinic",
+            "phoneNumber": "(805) 681-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-4gnEB5ZQQMa5PnbKzcxjpqna9fmeYt8E55qSi2hyUGYgq_D3Y7indId96wg7hGuASB_mXm8gMKY4sCDbOjhJgQcULlh4ji5vqnshyJdjMcSs0fQaxZ8zB_F1dtvc0JQjGIpDaVA",
+            "cid": "8856283677323076653",
+            "fid": "0x80e914ed80dd465b:0x7ae7d714f8eea42d",
+            "placeId": "ChIJW0bdgO0U6YARLaTu-BTX53o"
+        },
+        {
+            "position": 2,
+            "title": "Sansum Clinic Pesetas Urgent Care",
+            "address": "215 Pesetas Ln, Santa Barbara, CA 93110",
+            "latitude": 34.442539499999995,
+            "longitude": -119.75902959999999,
+            "rating": 3.5,
+            "ratingCount": 107,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/pesetas-urgent-care",
+            "phoneNumber": "(805) 563-6110",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "8\u202fAM\u20137\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB81Jt6b-zq_LrJs6XoYhZQ1KKOpP-7OOhL6Wyjt1DDm22-NdQ_JXCWBOrmvLZRqO6CM-mqlxEbCq1WCCp4VaB3iT1dPN2PjxYIu3L4My46IRQwlZYEzfRkfFCOqm5yslT9-ePt_",
+            "cid": "9595928629535546266",
+            "fid": "0x80e91520bf551dcf:0x852b963f45779b9a",
+            "placeId": "ChIJzx1VvyAV6YARmpt3RT-WK4U"
+        },
+        {
+            "position": 3,
+            "title": "Sansum Clinic Pesetas Multi-Specialty Clinic",
+            "address": "215 Pesetas Ln, Santa Barbara, CA 93110",
+            "latitude": 34.4425934,
+            "longitude": -119.7591089,
+            "rating": 3.9,
+            "ratingCount": 19,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/pesetas-multi-specialty-clinic",
+            "phoneNumber": "(805) 681-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-49FdfrRYfvfHKvEYA5PCir3-5_Im1M9OR9jSB68xfRSNoT20flbmqKnPwJyireU3fgjpsUKa9nTgCuKNrkccVc5HBxhX7zTLzFJC9_NUWuFmYMVQ8G_mSItW0xLPlS2aOcF0C",
+            "cid": "12599093534539658870",
+            "fid": "0x80e91530dbadd7c9:0xaed8f8d11a283676",
+            "placeId": "ChIJydet2zAV6YARdjYoGtH42K4"
+        },
+        {
+            "position": 4,
+            "title": "Sansum Clinic Foothill Medical & Surgical Center",
+            "address": "4151 Foothill Rd, Santa Barbara, CA 93110",
+            "latitude": 34.4509468,
+            "longitude": -119.7602005,
+            "rating": 3.2,
+            "ratingCount": 20,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Surgical center"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/foothill-medical-surgical-center-building-a",
+            "phoneNumber": "(805) 681-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_7tiwWqstegQDFAVj3OFEnL8FZxF0iGjhmleze_DEY2utwkGOtLPRUz7mlUnpyNaX7oR0mqAGLvKW2FVHlc4ijcKi8SPxiUYUG-CCWGIx1DB4MBuuPLNAJa8RClf9ADi1i_57uVw",
+            "cid": "16400577501822154711",
+            "fid": "0x80e96acb69fdee0b:0xe39a8e580b5f77d7",
+            "placeId": "ChIJC-79actq6YAR13dfC1iOmuM"
+        },
+        {
+            "position": 5,
+            "title": "Sansum Clinic Goleta Family Medicine",
+            "address": "122 S Patterson Ave, Santa Barbara, CA 93111",
+            "latitude": 34.4377523,
+            "longitude": -119.8083475,
+            "rating": 4,
+            "ratingCount": 9,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.sansumclinic.org/body.cfm?id=300&action=detail&ref=7",
+            "phoneNumber": "(805) 681-7500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_k-rtZ7LpSyaqeGnpO0qDZu1EJcgm7Q5C-8XrLJLS2FsXy5sluRVKsp9Qizt7d3LKZEY-4B0wc41Cp35udt_d0812M1_9QPi4lGOO8_qMEJeeddvaKpQz8u83uj5lgeJMxcyevVQ",
+            "cid": "824446347966277088",
+            "fid": "0x80e9400a78490acf:0xb710595dae5e5e0",
+            "placeId": "ChIJzwpJeApA6YAR4OXl2pUFcQs"
+        },
+        {
+            "position": 6,
+            "title": "Sansum Clinic",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4293384,
+            "longitude": -119.72242659999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sansumclinic.org/",
+            "phoneNumber": "(805) 681-1761",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-lY9W4C0Woa2EHOKjroTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=161.49997&pitch=0&thumbfov=100",
+            "cid": "12198316948221118844",
+            "fid": "0x80e914f27d1337c7:0xa94920a28c58c97c",
+            "placeId": "ChIJxzcTffIU6YARfMlYjKIgSak"
+        },
+        {
+            "position": 7,
+            "title": "Sansum Country Clinic",
+            "address": "2027 Village Ln STE 102, Solvang, CA 93463",
+            "latitude": 34.6012207,
+            "longitude": -120.1274912,
+            "rating": 3.2,
+            "ratingCount": 21,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Internal medicine ward"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/sansum-country-clinic",
+            "phoneNumber": "(805) 688-3440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JfSs2FC4r36QV4kL5ieymw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=337.98605&pitch=0&thumbfov=100",
+            "cid": "12834975029422406475",
+            "fid": "0x80e9549a543eabcd:0xb21efdc961bb3b4b",
+            "placeId": "ChIJzas-VJpU6YARSzu7Ycn9HrI"
+        },
+        {
+            "position": 8,
+            "title": "Sansum Clinic Obstetrics & Gynecology",
+            "address": "515 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.427960999999996,
+            "longitude": -119.7244722,
+            "rating": 2.7,
+            "ratingCount": 16,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/obstetrics-gynecology-515-w-pueblo-st",
+            "phoneNumber": "(805) 681-8911",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SmtxhxuWAptiAUCqu1sLsg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=149.50948&pitch=0&thumbfov=100",
+            "cid": "17046587407947320887",
+            "fid": "0x80e914f2225c9459:0xec91a4ee4b58ce37",
+            "placeId": "ChIJWZRcIvIU6YARN85YS-6kkew"
+        },
+        {
+            "position": 9,
+            "title": "Sansum Clinic Hitchcock Pediatrics & Adolescent Medicine",
+            "address": "51 Hitchcock Way, Santa Barbara, CA 93105",
+            "latitude": 34.4384788,
+            "longitude": -119.7443005,
+            "rating": 3.5,
+            "ratingCount": 15,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/hitchcock-pediatrics-adolescent-medicine",
+            "phoneNumber": "(805) 563-6211",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9gZbNNXowA1DVSF55sTXC7JuQUAAqTpZ7oCeTEx63UqvA-IjAWdy3wZ1bELIwFR7AbqiajY7Cxkt2p3mwQ8HZsN9iQp1s5egCivXBB5Li-gQjHyhnBUWfCUnm7-JD692oTOJ4",
+            "cid": "1172564004608159468",
+            "fid": "0x80e9152734b137d7:0x1045c8bfeb142eec",
+            "placeId": "ChIJ1zexNCcV6YAR7C4U67_IRRA"
+        },
+        {
+            "position": 10,
+            "title": "Sansum Clinic Pesetas Internal Medicine",
+            "address": "215 Pesetas Ln, Santa Barbara, CA 93110",
+            "latitude": 34.442539499999995,
+            "longitude": -119.75902959999999,
+            "rating": 3,
+            "ratingCount": 3,
+            "type": "Internal medicine ward",
+            "types": [
+                "Internal medicine ward"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/pesetas-multi-specialty-clinic",
+            "phoneNumber": "(805) 681-7602",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fvMzJk-HGaHdsUAAFe6pqA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.6732156&pitch=0&thumbfov=100",
+            "cid": "6452433084667968965",
+            "fid": "0x80e91530dbadd7c9:0x598ba5b43c9cbdc5",
+            "placeId": "ChIJydet2zAV6YARxb2cPLSli1k"
+        },
+        {
+            "position": 11,
+            "title": "Sansum Clinic State Street Psychiatry & Psychology",
+            "address": "3916 State St # 300, Santa Barbara, CA 93105",
+            "latitude": 34.4414647,
+            "longitude": -119.7522716,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Marriage or relationship counselor"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/state-street-psychiatry-psychology",
+            "phoneNumber": "(805) 681-7517",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YImutEK0EwcJoyvIJeu0uw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=185.1287&pitch=0&thumbfov=100",
+            "cid": "152737013579829679",
+            "fid": "0x80e914f2879ab6c7:0x21ea1812e7ad1af",
+            "placeId": "ChIJx7aah_IU6YARr9F6LoGhHgI"
+        },
+        {
+            "position": 12,
+            "title": "Sansum Clinic Pueblo Internal Medicine",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4293384,
+            "longitude": -119.72242659999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Internal medicine ward",
+            "types": [
+                "Internal medicine ward"
+            ],
+            "website": "https://www.sansumclinic.org/locations/location/details/pueblo-multi-specialty-clinic",
+            "phoneNumber": "(805) 898-3104",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-lY9W4C0Woa2EHOKjroTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=161.49997&pitch=0&thumbfov=100",
+            "cid": "14867902751178577823",
+            "fid": "0x80e914ed80dd465b:0xce5566c7570d579f",
+            "placeId": "ChIJW0bdgO0U6YARn1cNV8dmVc4"
+        },
+        {
+            "position": 13,
+            "title": "Sansum Clinic Pueblo Neurology",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.429393999999995,
+            "longitude": -119.722286,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/neurology",
+            "phoneNumber": "(805) 898-3240",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-lY9W4C0Woa2EHOKjroTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=148.50098&pitch=0&thumbfov=100",
+            "cid": "9060832243781063557",
+            "fid": "0x80e914ed80dd465b:0x7dbe8aeb5bf9d385",
+            "placeId": "ChIJW0bdgO0U6YARhdP5W-uKvn0"
+        },
+        {
+            "position": 14,
+            "title": "Sansum Clinic Pueblo Cardiology",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4294465,
+            "longitude": -119.7227621,
+            "rating": 2.3,
+            "ratingCount": 9,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/cardiology",
+            "phoneNumber": "(805) 898-3138",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-lY9W4C0Woa2EHOKjroTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=192.58243&pitch=0&thumbfov=100",
+            "cid": "771970510223212299",
+            "fid": "0x80e914ed80dd465b:0xab69716c6ee7f0b",
+            "placeId": "ChIJW0bdgO0U6YARC3_uxhaXtgo"
+        },
+        {
+            "position": 15,
+            "title": "Sansum Clinic Pueblo Gastroenterology",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.429393999999995,
+            "longitude": -119.722286,
+            "rating": 2.3,
+            "ratingCount": 19,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/gastroenterology",
+            "phoneNumber": "(805) 898-3120",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8LF9EM11aM55StHOgSrkuiCl-58eagfJmqa222rLgP0T0piqUzHD0zxrA3MhG9VnK8UMdn74_YJTmbkYwnxyoSulNb0n4Qa4wIeGNlGlDZtww0Bdd3D1s5ASZzvF0TDp_RRXbP",
+            "cid": "3335690050917958491",
+            "fid": "0x80e914ed80dd465b:0x2e4ac06d95c5035b",
+            "placeId": "ChIJW0bdgO0U6YARWwPFlW3ASi4"
+        },
+        {
+            "position": 16,
+            "title": "Sansum Clinic Pueblo Surgery",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4303099,
+            "longitude": -119.7219729,
+            "rating": 2.7,
+            "ratingCount": 3,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/surgery",
+            "phoneNumber": "(805) 898-3140",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XuO7sfagm4yC5nYQ9wNjTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=113.44411&pitch=0&thumbfov=100",
+            "cid": "15547906530348336275",
+            "fid": "0x80e914f27d42f8f1:0xd7c5429cee638493",
+            "placeId": "ChIJ8fhCffIU6YARk4Rj7pxCxdc"
+        },
+        {
+            "position": 17,
+            "title": "Sansum Clinic Pueblo Dermatology",
+            "address": "317 W Pueblo St, Santa Barbara, CA 93105",
+            "latitude": 34.4294025,
+            "longitude": -119.7222946,
+            "rating": 1.5,
+            "ratingCount": 6,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist"
+            ],
+            "website": "https://www.sansumclinic.org/medical-services/medical-service/details/dermatology",
+            "phoneNumber": "(805) 898-3050",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S-lY9W4C0Woa2EHOKjroTw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=148.66647&pitch=0&thumbfov=100",
+            "cid": "1451989941074960186",
+            "fid": "0x80e914ed80dd465b:0x142681288f369f3a",
+            "placeId": "ChIJW0bdgO0U6YAROp82jyiBJhQ"
+        },
+        {
+            "position": 18,
+            "title": "Sansum Clinic Foothill Medical & Surgical Center Orthopedics",
+            "address": "4151 Foothill Rd, Santa Barbara, CA 93110",
+            "latitude": 34.4502696,
+            "longitude": -119.76011179999999,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "http://www.sansumclinic.org/orthopedics",
+            "phoneNumber": "(805) 681-7584",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xQcJB8NqIOsnHXS726BKfg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=224.14037&pitch=0&thumbfov=100",
+            "cid": "17256314029241787677",
+            "fid": "0x80e96acb69fdee0b:0xef7abe2e858be51d",
+            "placeId": "ChIJC-79actq6YARHeWLhS6-eu8"
+        }
+    ],
+    "credits": 3
+}

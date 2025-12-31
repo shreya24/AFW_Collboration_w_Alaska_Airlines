@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Orthopedic Specialists PC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5840587,-90.450346,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Orthopedic Specialists, PC",
+            "address": "2325 Dougherty Ferry Rd, Des Peres, MO 63131",
+            "latitude": 38.5840587,
+            "longitude": -90.450346,
+            "rating": 3.3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "http://www.stlorthospecialists.com/",
+            "phoneNumber": "(314) 909-1359",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9Hle17uHJeGKMwHV0I4Knw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=28.461239&pitch=0&thumbfov=100",
+            "cid": "15356237150895119228",
+            "fid": "0x87d8cdf5fddc84e7:0xd51c5053f1c29b7c",
+            "placeId": "ChIJ54Tc_fXN2IcRfJvC8VNQHNU"
+        }
+    ],
+    "credits": 3
+}

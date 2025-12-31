@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Stanford Cystic Fibrosis Adult Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4381666,-122.1760496,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cystic Fibrosis Program at Stanford Children's Health",
+            "address": "770 Welch Rd Ste 380, Palo Alto, CA 94304",
+            "latitude": 37.438166599999995,
+            "longitude": -122.1760496,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/service/cystic-fibrosis?utm_source=local&utm_medium=Yext&utm_campaign=GMB",
+            "phoneNumber": "(844) 724-4140",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eELWpYkP1yYY2xtSGjKa6A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=323.23093&pitch=0&thumbfov=100",
+            "cid": "12980964620061618362",
+            "fid": "0x808fa5f7f4d4b57b:0xb425a68bbcafb0ba",
+            "placeId": "ChIJe7XU9Pelj4ARurCvvIumJbQ"
+        }
+    ],
+    "credits": 3
+}

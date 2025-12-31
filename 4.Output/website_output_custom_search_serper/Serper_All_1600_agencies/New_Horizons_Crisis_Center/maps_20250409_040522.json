@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "New Horizons Crisis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.6089753,-104.1859647,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Horizons Crisis Center",
+            "address": "145 E 100 N, Richfield, UT 84701",
+            "latitude": 38.7697067,
+            "longitude": -112.0823211,
+            "rating": 4.5,
+            "ratingCount": 40,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://centralutahcrisisintervention.org/",
+            "phoneNumber": "(435) 896-9294",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_AvjO-qUuXf2lnZDt8fEQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=347.15152&pitch=0&thumbfov=100",
+            "cid": "806168185460313388",
+            "fid": "0x874b125836f03625:0xb3015b183954d2c",
+            "placeId": "ChIJJTbwNlgSS4cRLE2Vg7EVMAs"
+        },
+        {
+            "position": 2,
+            "title": "New Horizons Crisis Center",
+            "address": "Delta, UT 84624",
+            "latitude": 39.352602399999995,
+            "longitude": -112.5810638,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KWxLjOF9IA44pzQYTguiOA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=355.0931&pitch=0&thumbfov=100",
+            "cid": "6108054281063229794",
+            "fid": "0x874cca8455424073:0x54c42b01bb93e962",
+            "placeId": "ChIJc0BCVYTKTIcRYumTuwErxFQ"
+        },
+        {
+            "position": 3,
+            "title": "New Horizons Crisis Center",
+            "address": "349 W Main St suite 3, Marshall, MN 56258",
+            "latitude": 44.4482438,
+            "longitude": -95.79086559999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Crime victim service",
+            "types": [
+                "Crime victim service"
+            ],
+            "website": "http://newhorizonscrisiscenter.org/",
+            "phoneNumber": "(507) 532-5764",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Sunday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UIjxsX-8sw7pcNXzYMo9vg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=81.9181&pitch=0&thumbfov=100",
+            "cid": "7020890324132498116",
+            "fid": "0x878a590d2e8f15eb:0x616f368d30e50ac4",
+            "placeId": "ChIJ6xWPLg1ZiocRxArlMI02b2E"
+        }
+    ],
+    "credits": 3
+}

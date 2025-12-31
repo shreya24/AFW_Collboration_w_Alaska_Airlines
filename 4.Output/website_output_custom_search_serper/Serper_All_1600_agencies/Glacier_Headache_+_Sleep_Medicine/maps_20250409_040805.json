@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Glacier Headache + Sleep Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2132722,-114.3254308,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Glacier Headache & Sleep Medicine",
+            "address": "1297 Burns Way, Kalispell, MT 59901",
+            "latitude": 48.2132722,
+            "longitude": -114.32543079999999,
+            "rating": 4.9,
+            "ratingCount": 22,
+            "type": "Medical supply store",
+            "types": [
+                "Medical supply store",
+                "Sleep clinic"
+            ],
+            "phoneNumber": "(406) 752-1729",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EMNql6nI1L1TuB5xxK-4HQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=40.293373&pitch=0&thumbfov=100",
+            "cid": "11034447445704269360",
+            "fid": "0x5366509f0dbf738b:0x99223b7d25eb5e30",
+            "placeId": "ChIJi3O_DZ9QZlMRMF7rJX07Ipk"
+        }
+    ],
+    "credits": 3
+}

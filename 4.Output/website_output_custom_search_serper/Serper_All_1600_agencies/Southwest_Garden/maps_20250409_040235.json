@@ -1,0 +1,23 @@
+{
+    "searchParameters": {
+        "q": "Southwest Garden",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6115128,-90.2733634,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southwest Garden",
+            "address": "St. Louis, MO",
+            "latitude": 38.6081686,
+            "longitude": -90.275555,
+            "cid": "16186113473503830989",
+            "fid": "0x87d8b5a777e9e755:0xe0a0a0724a5c23cd",
+            "placeId": "ChIJVefpd6e12IcRzSNcSnKgoOA"
+        }
+    ],
+    "credits": 3
+}

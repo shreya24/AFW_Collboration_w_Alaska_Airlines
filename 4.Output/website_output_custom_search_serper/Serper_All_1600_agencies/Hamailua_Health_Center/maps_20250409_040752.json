@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Hamailua Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.0758589,-155.4700508,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hamakua Health Center",
+            "address": "45-549 Plumeria St, Honokaa, HI 96727",
+            "latitude": 20.0758589,
+            "longitude": -155.4700508,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Counselor",
+                "Dentist",
+                "Family practice physician"
+            ],
+            "website": "http://www.hamakua-health.org/?utm_source=GMBSocialClimb&utm_medium=HamakuaHealthCenter",
+            "phoneNumber": "(808) 775-7204",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPut-SjoAvY0PBDVGI1xFjIz64CoeGZXDbwKkhS",
+            "cid": "7737654208253471830",
+            "fid": "0x79530acb8bdfba41:0x6b61ab81adc12c56",
+            "placeId": "ChIJQbrfi8sKU3kRVizBrYGrYWs"
+        }
+    ],
+    "credits": 3
+}

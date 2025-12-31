@@ -1,0 +1,481 @@
+{
+    "searchParameters": {
+        "q": "Dr. Juneau's Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0446231,-120.4315229,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Patrick A Juneau, III, MD",
+            "address": "1103 Kaliste Saloom Rd Ste 206, Lafayette, LA 70508",
+            "latitude": 30.174483,
+            "longitude": -92.0264047,
+            "rating": 4.5,
+            "ratingCount": 10,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(337) 267-1319",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3OG_H6tEQtG2kskDON0XzA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=50.758633&pitch=0&thumbfov=100",
+            "cid": "560779140031741068",
+            "fid": "0x86249d09c8ae20fd:0x7c849a81f0a7c8c",
+            "placeId": "ChIJ_SCuyAmdJIYRjHwKH6hJyAc"
+        },
+        {
+            "position": 2,
+            "title": "Juneau Jr Mark MD",
+            "address": "920 Avenue B, Marrero, LA 70072",
+            "latitude": 29.894425899999998,
+            "longitude": -90.094152,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(504) 349-6804",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6gQ09wfqyXq_TMNGYvR95A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.361&pitch=0&thumbfov=100",
+            "cid": "3486740515928342456",
+            "fid": "0x8620a46d33f995df:0x3063640693deffb8",
+            "placeId": "ChIJ35X5M22kIIYRuP_ekwZkYzA"
+        },
+        {
+            "position": 3,
+            "title": "Jeffrey Juneau, MD",
+            "address": "15655 Cypress Woods Medical Dr Suite 100, Houston, TX 77014",
+            "latitude": 30.000920999999998,
+            "longitude": -95.47171929999999,
+            "rating": 4.9,
+            "ratingCount": 26,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://www.kelsey-seybold.com/find-a-houston-doctor/jeffrey-juneau-gastroenterology?utm_source=googlemybusiness&utm_medium=backlink&utm_campaign=provider-bios&eid=200000351",
+            "phoneNumber": "(713) 442-1700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.kelsey-seybold.com/find-a-houston-doctor/jeffrey-juneau-gastroenterology?utm_source=googlemybusiness&utm_medium=backlink&utm_campaign=provider-bios&eid=200000351"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnMO5RswGYf_YJDH_GVDJ63_i2VPA9o4JsVTB2",
+            "cid": "7943463903031601930",
+            "fid": "0x8640cb3ab8fe7cd5:0x6e3cda5562562b0a",
+            "placeId": "ChIJ1Xz-uDrLQIYRCitWYlXaPG4"
+        },
+        {
+            "position": 4,
+            "title": "Juneau Urgent and Family Care",
+            "address": "8505 Old Dairy Rd, Juneau, AK 99801",
+            "latitude": 58.362064399999994,
+            "longitude": -134.5728979,
+            "rating": 4.5,
+            "ratingCount": 884,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Family practice physician",
+                "Urgent care center"
+            ],
+            "website": "https://www.juneauurgentcare.com/",
+            "phoneNumber": "(907) 790-4111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.solvhealth.com/juneau-urgent--family-care-juneau-ak-0x1LkA?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-QaVewp&rwg_token=AAiGsoZJk0ApoyahLYI5iof2reXHCk5tGJ9huYJMYfSPTXHUyyu9yV6TcWPs_4PTJ0KPRYEntFoN5TEYhDWPW7RltiYkh5xaYA%3D%3D",
+                "https://clockwisemd.com/hospitals/5179/visits/new?rwg_token=AAiGsoaG7gaxIP5tKiN7MxRNCuXpj7w-46DX1VMyfLxWa_ipNw6wnfY5NpHeBR2SriShvnC2Cl9wH3MjQeC24hsYlBC2UxcgMw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5gmfzg7zcIn9_NiddoE8sLjhe7VC0_Rbsz_s4",
+            "cid": "7627695279922681749",
+            "fid": "0x54011e20c09b22c1:0x69db04719eb71795",
+            "placeId": "ChIJwSKbwCAeAVQRlRe3nnEE22k"
+        },
+        {
+            "position": 5,
+            "title": "Caroline Juneau, MD",
+            "address": "888 Westheimer Rd Suite 200, Houston, TX 77006",
+            "latitude": 29.7450022,
+            "longitude": -95.3902626,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Fertility physician",
+            "types": [
+                "Fertility physician",
+                "Fertility clinic",
+                "Reproductive health clinic"
+            ],
+            "website": "https://rmanetwork.com/staff/caroline-juneau/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(281) 643-7703",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "7:30\u202fAM\u201312\u202fPM",
+                "Sunday": "7:30\u202fAM\u201312\u202fPM",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://rmanetwork.com/contact-us/",
+                "https://www.zocdoc.com/doctor/caroline-juneau-md-472518?LocIdent=247236&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pr_8O1Mt4v7tUWA4co4_K43sR-lo_UM1M_vtsvU6TtPJ1rULkAB-entity&rwg_token=AAiGsoY0_BjoCLnnE7sayeya94bXBpgl2Ywpaq9Vg_30uM-Fr1P0RKTu-wkb4zCd2ttEpiZo-IS0DrpJxYGEfH5aai-Gf5tYcpnLT6KGFp6w4_OX-sXD2t4%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPV2RO3aUCC--pM00M22rVWxZydUELFsdCMSkRZ",
+            "cid": "16856285292445061385",
+            "fid": "0x89c3bd1e3421f7dd:0xe9ed8e2a40d45109",
+            "placeId": "ChIJ3fchNB69w4kRCVHUQCqO7ek"
+        },
+        {
+            "position": 6,
+            "title": "Juneau Bone & Joint Center",
+            "address": "3220 Hospital Dr, Juneau, AK 99801",
+            "latitude": 58.3299119,
+            "longitude": -134.4710244,
+            "rating": 3.5,
+            "ratingCount": 49,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Nurse practitioner",
+                "Orthopedic surgeon",
+                "Physiatrist",
+                "Physical therapist",
+                "Sports medicine clinic",
+                "Sports medicine physician"
+            ],
+            "website": "http://jbjcortho.com/",
+            "phoneNumber": "(907) 364-2663",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPC2DK0GJucFl52KAefWC4Ny3ekIYNLdGeTBUOF",
+            "cid": "6698996595408198475",
+            "fid": "0x5400e006405bf6d5:0x5cf79de924db5b4b",
+            "placeId": "ChIJ1fZbQAbgAFQRS1vbJOmd91w"
+        },
+        {
+            "position": 7,
+            "title": "Watertown Regional Medical Center - Juneau Clinic",
+            "address": "334 Western Ave, Juneau, WI 53039",
+            "latitude": 43.403917299999996,
+            "longitude": -88.7130761,
+            "rating": 4.7,
+            "ratingCount": 33,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.watertownregional.com/locations/juneau-clinic",
+            "phoneNumber": "(920) 386-0290",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201312\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMTCfiXXi6d09MILsjsZ_S-g_dBdKyxUP2XG9T5",
+            "cid": "6975830542128284491",
+            "fid": "0x8804215435e8fb57:0x60cf20eb24e0834b",
+            "placeId": "ChIJV_voNVQhBIgRS4PgJOsgz2A"
+        },
+        {
+            "position": 8,
+            "title": "Dr. Carl F. Juneau, MD",
+            "address": "2874 N Carson St #120, Carson City, NV 89706",
+            "latitude": 39.185266999999996,
+            "longitude": -119.771048,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "phoneNumber": "(775) 841-6700",
+            "cid": "12238766254976942196",
+            "fid": "0x80990ac383867da9:0xa9d8d510acf04074",
+            "placeId": "ChIJqX2Gg8MKmYARdEDwrBDV2Kk"
+        },
+        {
+            "position": 9,
+            "title": "Valley Medical Care",
+            "address": "1801 Salmon Creek Ln, Juneau, AK 99801",
+            "latitude": 58.330994399999994,
+            "longitude": -134.4650089,
+            "rating": 4.8,
+            "ratingCount": 304,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Children's hospital",
+                "Family practice physician",
+                "Women's health clinic",
+                "Pregnancy care center"
+            ],
+            "website": "http://www.valleymedicalcare.com/",
+            "phoneNumber": "(907) 586-2434",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnzpWTRttysCCPdrx5FW8QBT2weIr-waBtiAbO",
+            "cid": "17309287875252307597",
+            "fid": "0x5400e007e24fa32d:0xf036f19d2f63c68d",
+            "placeId": "ChIJLaNP4gfgAFQRjcZjL53xNvA"
+        },
+        {
+            "position": 10,
+            "title": "Juneau Pediatric Dentistry",
+            "address": "9309 Glacier Hwy Suite B103, Juneau, AK 99801",
+            "latitude": 58.3637782,
+            "longitude": -134.590543,
+            "rating": 5,
+            "ratingCount": 57,
+            "type": "Pediatric dentist",
+            "types": [
+                "Pediatric dentist",
+                "Dentist"
+            ],
+            "website": "http://www.juneaupediatricdentistry.com/",
+            "phoneNumber": "(907) 523-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNziE0geV6ULNLwKqKfHUWvS6TjQN8SrFXRgDmh",
+            "cid": "2008567289202074883",
+            "fid": "0x54011e1ea16f7f27:0x1bdfdd4ec45be503",
+            "placeId": "ChIJJ39voR4eAVQRA-VbxE7d3xs"
+        },
+        {
+            "position": 11,
+            "title": "Family Practice Physicians Inc: Haddock Nathaniel L MD",
+            "address": "10301 Glacier Hwy, Juneau, AK 99801",
+            "latitude": 58.3723404,
+            "longitude": -134.61723759999998,
+            "rating": 3.9,
+            "ratingCount": 8,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(907) 789-2910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYC1NfKpNxqQAHBaC3PBdw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=202.9336&pitch=0&thumbfov=100",
+            "cid": "14358007930822098562",
+            "fid": "0x54011e065bf3c483:0xc741e4241ee47e82",
+            "placeId": "ChIJg8TzWwYeAVQRgn7kHiTkQcc"
+        },
+        {
+            "position": 12,
+            "title": "Juneau Foot & Ankle",
+            "address": "8800 Glacier Hwy # 218, Juneau, AK 99801",
+            "latitude": 58.3641309,
+            "longitude": -134.5787155,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.juneaufootankle.com/",
+            "phoneNumber": "(907) 789-0405",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOLqdxGxcKZXvat3aIZEKtIUsuFKwWeaEySJEyk",
+            "cid": "17312156872297507348",
+            "fid": "0x54011e2024b65b1f:0xf04122f39d216a14",
+            "placeId": "ChIJH1u2JCAeAVQRFGohnfMiQfA"
+        },
+        {
+            "position": 13,
+            "title": "Juneau Medical Clinic",
+            "address": "Juneau, AK 99801",
+            "latitude": 58.3019444,
+            "longitude": -134.4197221,
+            "rating": 3.5,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 463-4040",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20138:30\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIV4xK2B2ujuqQHg0NJZokRlK4X8o1pR4k5J2G",
+            "cid": "1629835056452105349",
+            "fid": "0x5400e007cdb37e9f:0x169e56593e4e7485",
+            "placeId": "ChIJn36zzQfgAFQRhXROPllWnhY"
+        },
+        {
+            "position": 14,
+            "title": "Janelle Juneau, FNP",
+            "address": "510 S Cottonwood St, Bunkie, LA 71322",
+            "latitude": 30.9542023,
+            "longitude": -92.17579959999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(318) 346-3303",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EaAbueRQaNmiAdgXfMC4DQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=294.92883&pitch=0&thumbfov=100",
+            "cid": "17115645682227263308",
+            "fid": "0x8625219a42f41e57:0xed86fd10be9ab74c",
+            "placeId": "ChIJVx70QpohJYYRTLeavhD9hu0"
+        },
+        {
+            "position": 15,
+            "title": "Dr. Gustavo Garcia, MD",
+            "address": "3220 Hospital Dr, Juneau, AK 99801",
+            "latitude": 58.3299119,
+            "longitude": -134.4710244,
+            "rating": 4.3,
+            "ratingCount": 10,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Medical group",
+                "Medical office"
+            ],
+            "website": "http://jbjcortho.com/gustavo-garcia-md/",
+            "phoneNumber": "(907) 364-2663",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JSkaEZmHuIb-YmE3T64xrw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=216.10959&pitch=0&thumbfov=100",
+            "cid": "4486035246342275114",
+            "fid": "0x5400e1be21df170d:0x3e419949dc1d002a",
+            "placeId": "ChIJDRffIb7hAFQRKgAd3EmZQT4"
+        },
+        {
+            "position": 16,
+            "title": "Dr. Carl Juneau",
+            "address": "1285 Waianuenue Ave, Hilo, HI 96720",
+            "latitude": 19.716905699999998,
+            "longitude": -155.1133489,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.hilomedicalcenter.org/physician/carl-juneau/",
+            "phoneNumber": "(808) 432-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CYaRCtAMr_3K3crGjtNRPw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.42781&pitch=0&thumbfov=100",
+            "cid": "9079873088225223025",
+            "fid": "0x7953b4bb5efaaaab:0x7e0230776d4b2171",
+            "placeId": "ChIJq6r6Xru0U3kRcSFLbXcwAn4"
+        },
+        {
+            "position": 17,
+            "title": "Search Juneau Medical Center:",
+            "address": "3245 Hospital Dr, Juneau, AK 99801",
+            "latitude": 58.329875099999995,
+            "longitude": -134.46924339999998,
+            "type": "Dental clinic",
+            "types": [
+                "Dental clinic"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 463-4040",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO0IcTJ-RplIeQzbsVv97_Vlk1BL8lklAUCIUMK",
+            "cid": "13010592902808314853",
+            "fid": "0x5400e007cdb37e9f:0xb48ee94fe11ba3e5",
+            "placeId": "ChIJn36zzQfgAFQR5aMb4U_pjrQ"
+        },
+        {
+            "position": 18,
+            "title": "John Nattin Juneau",
+            "address": "231 E Chestnut St, Louisville, KY 40202",
+            "latitude": 38.248447399999996,
+            "longitude": -85.74969689999999,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Health care facility"
+            ],
+            "phoneNumber": "(502) 587-7874",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3lQv5ZSB8B3kO1fMMV2d_g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=4.1889033&pitch=0&thumbfov=100",
+            "cid": "16407403873685411859",
+            "fid": "0x886972b7174c3365:0xe3b2cee499631813",
+            "placeId": "ChIJZTNMF7dyaYgRExhjmeTOsuM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,550 @@
+{
+    "searchParameters": {
+        "q": "Sea Mar",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.3062272,-42.3272478,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sea Mar Vancouver Medical Clinic - Salmon Creek",
+            "address": "14508 NE 20th Ave, Vancouver, WA 98686",
+            "latitude": 45.726379,
+            "longitude": -122.6527474,
+            "rating": 2.3,
+            "ratingCount": 156,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "http://www.seamar.org/clark-medical-vancouver-salmon-creek.html",
+            "phoneNumber": "(360) 852-9070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-B2YrwLbnWOKIv67CuN7PsYQRqZ9P7n7AW24kL6befgRsB2fmxZDygvMK4FY6DdAyVTpkn7V45CD-SgsUUFHv2Rpuqh0B9DvjwUPWesfCfp7lz0h4V7-WHCB3uT5smCJGlT8OWhw",
+            "cid": "16518697699711987522",
+            "fid": "0x5495af37e48991bd:0xe53e3409bf652f42",
+            "placeId": "ChIJvZGJ5DevlVQRQi9lvwk0PuU"
+        },
+        {
+            "position": 2,
+            "title": "Sea Mar Seattle Medical Clinic",
+            "address": "8720 14th Ave S, Seattle, WA 98108",
+            "latitude": 47.5249885,
+            "longitude": -122.31460779999999,
+            "rating": 3.1,
+            "ratingCount": 71,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "http://www.seamar.org/king-medical-seattle.html",
+            "phoneNumber": "(206) 762-3730",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_e-oyqOpoA0tWq6uwCHE-sUSv3dNTpafT-8X5gY05aboyAA_5uQg5Oa8twvzJEjFybQqE5kSlHNeyNAr9c_LN2JfbaGGxfYuGQ2B5IViUpygrNerI21gB2wn9RlZKv3tJiwsS-",
+            "cid": "11574095609974533485",
+            "fid": "0x5490422f42f2ea89:0xa09f72a294f0ad6d",
+            "placeId": "ChIJieryQi9CkFQRba3wlKJyn6A"
+        },
+        {
+            "position": 3,
+            "title": "Sea Mar Vancouver Medical Clinic - Delaware",
+            "address": "7410 Delaware Ln, Vancouver, WA 98664",
+            "latitude": 45.624486999999995,
+            "longitude": -122.59469,
+            "rating": 1.9,
+            "ratingCount": 157,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "http://www.seamar.org/clark-medical-vancouver-delaware.html",
+            "phoneNumber": "(360) 566-4402",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB98-RolhhCaGyrMrs407SHKBsxigaC6GqlLLgUgFrDOEsWQFMLo70jUOxKwUuFpcaH-lB24Z7UbkhwB2kto59Krr9Ym-TsSGCn3MHpEI9o5MHaLDsvgjqh9kXZj_22_00YGZsrr",
+            "cid": "15722519477369831969",
+            "fid": "0x5495a59bae73d167:0xda319c29c6ca0221",
+            "placeId": "ChIJZ9FzrpullVQRIQLKximcMdo"
+        },
+        {
+            "position": 4,
+            "title": "Sea Mar Vancouver Medical Clinic - Fourth Plain",
+            "address": "6100 NE Fourth Plain Blvd, Vancouver, WA 98661",
+            "latitude": 45.643765099999996,
+            "longitude": -122.6095776,
+            "rating": 2.3,
+            "ratingCount": 124,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Family practice physician"
+            ],
+            "website": "http://www.seamar.org/clark-medical-vancouver-fourth-plain.html",
+            "phoneNumber": "(360) 947-2550",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_iEFkUHHMCLc_1upnRsF54YMMmDYFM7-chymGvnl4Xjyve2vbG96VVt0VWK6Z7MmvmAywKpd4iV7Og14Exe3YwhdWMZREHwolHA6VzDYgKPL-pRO1fdNj3XJHpuGP7UJFv1WAQ",
+            "cid": "11521938683444472818",
+            "fid": "0x5495af85838e33d9:0x9fe6262fce8a2bf2",
+            "placeId": "ChIJ2TOOg4WvlVQR8iuKzi8m5p8"
+        },
+        {
+            "position": 5,
+            "title": "Sea Mar Everett Medical Clinic",
+            "address": "1920 100th St SE building b, Everett, WA 98208",
+            "latitude": 47.907086899999996,
+            "longitude": -122.2061583,
+            "rating": 2.5,
+            "ratingCount": 75,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Family planning center",
+                "Medical laboratory",
+                "Mental health clinic",
+                "Nutritionist",
+                "Women's health clinic",
+                "Pediatric clinic"
+            ],
+            "website": "http://www.seamar.org/snohomish-medical-everett.html",
+            "phoneNumber": "(425) 312-0202",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8_LMalkUFR8TMGDpY9S4xfkIHwJcoF4NyV_naThfH0QHrfNcqKVM0p5mC3lQNDJriCVAm6L2L66XZZP7GUo99mevh6OWpz_jnkv6NX4TZz2Ciz8ziDTS5oxso1qP2jloc6ytn3",
+            "cid": "7151165264022108708",
+            "fid": "0x549007286d752067:0x633e0aeb4c267a24",
+            "placeId": "ChIJZyB1bSgHkFQRJHomTOsKPmM"
+        },
+        {
+            "position": 6,
+            "title": "Sea Mar White Center Medical Clinic",
+            "address": "9650 15th Ave SW Ste 100, Seattle, WA 98106",
+            "latitude": 47.5159567,
+            "longitude": -122.35351759999999,
+            "rating": 2.7,
+            "ratingCount": 90,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dentist",
+                "Nutritionist"
+            ],
+            "website": "http://www.seamar.org/king-medical-whitecenter.html",
+            "phoneNumber": "(206) 965-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-6ExyLKjYREy4WdKTF014vs2bCWSjfd9QAvuw3BhXDwGSD8--mAnrwF5EPUkGbLDLbnU6kyU5DQMSMLD7W0yDtFQam86z7hXxZNHnx7H9hf_9Il2y7DnHAORbqJC9qpNnrxTHK",
+            "cid": "7465299971422163174",
+            "fid": "0x549043def6f0e415:0x679a12c56a5a10e6",
+            "placeId": "ChIJFeTw9t5DkFQR5hBaasUSmmc"
+        },
+        {
+            "position": 7,
+            "title": "Syvash",
+            "address": "Kherson Oblast, Ukraine",
+            "latitude": 46.083332999999996,
+            "longitude": 34.333332999999996,
+            "rating": 4.5,
+            "ratingCount": 176,
+            "type": "Water",
+            "types": [
+                "Water"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB88AWmCWj3ED-tjySIya8GiAQ1ZjuBcuYuZtswcx4dPuiMqS8TvEuGN3UfQNtS1yaitKmPS3JybUuLCgbYtbBhLRjL4LhD2EPB5-8BjVLFVxVyQKnhqt3z293JE0jKa0NzZDMSjlw",
+            "cid": "17368917531623868905",
+            "fid": "0x40c2055ec0905fa5:0xf10aca78757ec9e9",
+            "placeId": "ChIJpV-QwF4FwkAR6cl-dXjKCvE"
+        },
+        {
+            "position": 8,
+            "title": "Del Mar",
+            "address": "Bulwar Nadmorski im.Feliksa Nowowiejskiego 1, 81-374 Gdynia, Poland",
+            "latitude": 54.516456,
+            "longitude": 18.548762,
+            "rating": 3.8,
+            "ratingCount": 1184,
+            "priceLevel": "$$",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "phoneNumber": "+48 609 341 599",
+            "openingHours": {
+                "Wednesday": "11\u202fAM\u201310\u202fPM",
+                "Thursday": "11\u202fAM\u201310\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "11\u202fAM\u201310\u202fPM",
+                "Monday": "Closed",
+                "Tuesday": "11\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvpwrEy91aGhxvXeY7xyjMmkXgOEuIsnFMUUWx",
+            "cid": "16313159166685440696",
+            "fid": "0x46fda725bbc88bdf:0xe263fbd4ceb16ab8",
+            "placeId": "ChIJ34vIuyWn_UYRuGqxztT7Y-I"
+        },
+        {
+            "position": 9,
+            "title": "Sea Mar CHC",
+            "address": "4111 Alderwood Mall Blvd, Lynnwood, WA 98036",
+            "latitude": 47.8178066,
+            "longitude": -122.2890824,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Community health centre"
+            ],
+            "website": "https://www.seamar.org/snohomish-medical-lynnwood.html",
+            "phoneNumber": "(425) 977-2560",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JIdd0Ma8qRK2JGy8qEkGlA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=153.56065&pitch=0&thumbfov=100",
+            "cid": "13372204223256645873",
+            "fid": "0x549005424387b1e1:0xb9939ce45f30d0f1",
+            "placeId": "ChIJ4bGHQ0IFkFQR8dAwX-Sck7k"
+        },
+        {
+            "position": 10,
+            "title": "Danube-Black Sea Canal",
+            "address": "Romania",
+            "latitude": 44.1537022,
+            "longitude": 28.428217,
+            "rating": 4.6,
+            "ratingCount": 84,
+            "type": "Canal",
+            "types": [
+                "Canal"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8f6VlrXraXWd7pIJ5FyIuLuDt6-ixwaxxGFzf2JpiC7MjUyw6U3G9wDM5Vr1pTbxGVbSe23jI7CpMELSs5ugTeg9bl2GiNJ4kRfhKJ2-OJgV7hKuKJNSigKiN16DV-VMEmVTVz",
+            "cid": "7272988439862032802",
+            "fid": "0x40bae9a8d3993a95:0x64eed873bd7fb9a2",
+            "placeId": "ChIJlTqZ06jpukARorl_vXPY7mQ"
+        },
+        {
+            "position": 11,
+            "title": "Sea Mar Community Health Center",
+            "address": "2781 S 242nd St, Des Moines, WA 98198",
+            "latitude": 47.384208199999996,
+            "longitude": -122.29749919999999,
+            "rating": 3,
+            "ratingCount": 8,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Dentist",
+                "Family planning center"
+            ],
+            "website": "https://www.seamar.org/king-medical-desmoines.html",
+            "phoneNumber": "(206) 212-4500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4hO3s-LW0rVfK_jR3iPA8g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=251.40793&pitch=0&thumbfov=100",
+            "cid": "4758478292717506383",
+            "fid": "0x54905bb58a119bb1:0x420982cbb4d58f4f",
+            "placeId": "ChIJsZsRirVbkFQRT4_VtMuCCUI"
+        },
+        {
+            "position": 12,
+            "title": "Sea Mar Medical",
+            "address": "1040 S Henderson St, Seattle, WA 98108",
+            "latitude": 47.5239608,
+            "longitude": -122.31867159999999,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "https://www.seamar.org/king-medical-seattle.html",
+            "phoneNumber": "(206) 767-2648",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5uC-K3OSd51BcxIByu0L_g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=340.46442&pitch=0&thumbfov=100",
+            "cid": "16972743992209971840",
+            "fid": "0x54906ab43fffffff:0xeb8b4cbc47521a80",
+            "placeId": "ChIJ____P7RqkFQRgBpSR7xMi-s"
+        },
+        {
+            "position": 13,
+            "title": "Sea Mar Olympia Medical Clinic",
+            "address": "3030 Limited Ln NW, Olympia, WA 98502",
+            "latitude": 47.0488408,
+            "longitude": -122.93943139999999,
+            "rating": 2.5,
+            "ratingCount": 115,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Addiction treatment center",
+                "Community health centre",
+                "Family planning center"
+            ],
+            "website": "http://www.seamar.org/thurston-medical-olympia.html",
+            "phoneNumber": "(360) 491-1399",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM58MiN-7kq7q2KE_xmofM-bmHDMHNeNiHJUMvb",
+            "cid": "5965466822628397150",
+            "fid": "0x5491759f61b5b815:0x52c998780224d05e",
+            "placeId": "ChIJFbi1YZ91kVQRXtAkAniYyVI"
+        },
+        {
+            "position": 14,
+            "title": "Sea-Mar Community Health Center Main Office",
+            "address": "1040 S Henderson St, Seattle, WA 98108",
+            "latitude": 47.523936,
+            "longitude": -122.31848799999999,
+            "rating": 2.8,
+            "ratingCount": 13,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://www.seamar.org/",
+            "phoneNumber": "(206) 763-5277",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5uC-K3OSd51BcxIByu0L_g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=5.58512&pitch=0&thumbfov=100",
+            "cid": "10671376004791855104",
+            "fid": "0x5490422ec1854f91:0x941857efde3ee800",
+            "placeId": "ChIJkU-FwS5CkFQRAOg-3u9XGJQ"
+        },
+        {
+            "position": 15,
+            "title": "Sea Mar Community Health Center",
+            "address": "4455 Cordata Pkwy, Bellingham, WA 98226",
+            "latitude": 48.801691,
+            "longitude": -122.4968883,
+            "rating": 2.6,
+            "ratingCount": 9,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Community health centre",
+                "Dentist",
+                "Family planning center",
+                "Nutritionist"
+            ],
+            "website": "https://www.seamar.org/whatcom-medical-bellingham.html",
+            "phoneNumber": "(360) 671-3225",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_gsquG1P1j81HjOGAliDixa5VQRKYdWNROzBbEy-ZSQGYtAc3Iw_xUle91qvZlNX8DU0mjfK1z-L-FBpS911AL0_z0cVB7py2UEjzIkh-Nvm2AMrx-ZQnPlXV76U_Edm1T-a_jaA",
+            "cid": "6985664615756733260",
+            "fid": "0x5485a4aa63cb8d9d:0x60f210f4d6321b4c",
+            "placeId": "ChIJnY3LY6qkhVQRTBsy1vQQ8mA"
+        },
+        {
+            "position": 16,
+            "title": "Sea Mar Community Health Center",
+            "address": "1004 M Ave, Anacortes, WA 98221",
+            "latitude": 48.5140439,
+            "longitude": -122.61748929999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://www.seamar.org/",
+            "phoneNumber": "(360) 428-4075",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KdP7yGdEG78H_Ax_T5YBpQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=318.6009&pitch=0&thumbfov=100",
+            "cid": "2671186273146770071",
+            "fid": "0x548579e5ff9ea875:0x2511f5c34bd01297",
+            "placeId": "ChIJdaie_-V5hVQRlxLQS8P1ESU"
+        },
+        {
+            "position": 17,
+            "title": "Sea Mar",
+            "address": "1400 N Laventure Rd, Mount Vernon, WA 98273",
+            "latitude": 48.4337374,
+            "longitude": -122.312963,
+            "rating": 4.6,
+            "ratingCount": 16,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy",
+                "Dentist",
+                "Family planning center",
+                "Family practice physician"
+            ],
+            "website": "http://www.seamar.org/skagit-pharmacy-mountvernon.html",
+            "phoneNumber": "(360) 542-8800",
+            "openingHours": {
+                "Tuesday": "8:15\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:15\u202fAM\u20135\u202fPM",
+                "Thursday": "8:15\u202fAM\u20135\u202fPM",
+                "Friday": "8:15\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:15\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDh6fzjNBppUOtKBJeJWeuCO0Jz0Sy7y7jGAbc",
+            "cid": "8434895112750820187",
+            "fid": "0x54856c22f882253b:0x750ec46a4130eb5b",
+            "placeId": "ChIJOyWC-CJshVQRW-swQWrEDnU"
+        },
+        {
+            "position": 18,
+            "title": "Sea Mar Burien Medical Clinic",
+            "address": "14434 Ambaum Blvd SW Ste. 5, Burien, WA 98166",
+            "latitude": 47.4730194,
+            "longitude": -122.3467105,
+            "rating": 2.5,
+            "ratingCount": 91,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family planning center",
+                "Family practice physician",
+                "Nutritionist"
+            ],
+            "website": "http://www.seamar.org/king-medical-burien.html",
+            "phoneNumber": "(206) 812-6140",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8cPe2U-idCmVQAO_XAcRptBP0PZMfDG1zQKkzESZu82Y5xsfXK_xcSBL6tToX8r79KfbsIT_VHL5fY2XiIDSrEx6VDza34P3_NC_-mZwtxQ-ngFZN5-MrZeuUqKmTXl_EujoXlqQ",
+            "cid": "13171172524630517297",
+            "fid": "0x5490448178c60975:0xb6c967a095fca631",
+            "placeId": "ChIJdQnGeIFEkFQRMab8laBnybY"
+        },
+        {
+            "position": 19,
+            "title": "Sea Mar Des Moines Medical Clinic",
+            "address": "2781 S 242nd St, Des Moines, WA 98198",
+            "latitude": 47.3841514,
+            "longitude": -122.29755399999999,
+            "rating": 2.8,
+            "ratingCount": 51,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "http://www.seamar.org/king-medical-desmoines.html",
+            "phoneNumber": "(206) 212-4500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9iavc5M4TFbm0hw5WMJSskMGsKlYkRRmW3cLFaey3N-1zmNCQYml6SR7_yjFE6vE3baCa8-tbYKYb_hzai2wEWbiRT_wq3kmh-3nK5QkcRsn-KJlwvevm0XSzuFXkTvF5ywOJaBw",
+            "cid": "9008064957612215522",
+            "fid": "0x54905bb591af8e91:0x7d03135a281ecce2",
+            "placeId": "ChIJkY6vkbVbkFQR4sweKFoTA30"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,111 @@
+{
+    "searchParameters": {
+        "q": "Massachusetts General Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3620965,-71.066873,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Massachusetts General Hospital",
+            "address": "55 Fruit St, Boston, MA 02114",
+            "latitude": 42.3625651,
+            "longitude": -71.068394,
+            "rating": 3.7,
+            "ratingCount": 884,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Community health centre",
+                "Private hospital"
+            ],
+            "website": "https://www.massgeneral.org/",
+            "phoneNumber": "(617) 726-2000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObwyky9NtGbGNao-7wa6gTtBh3w4DCjzp1pQ9i",
+            "cid": "1653338456928523551",
+            "fid": "0x89e37099e65ca44d:0x16f1d6911ab7951f",
+            "placeId": "ChIJTaRc5plw44kRH5W3GpHW8RY"
+        },
+        {
+            "position": 2,
+            "title": "Massachusetts General Hospital",
+            "address": "275 Cambridge St, Boston, MA 02114",
+            "latitude": 42.361367099999995,
+            "longitude": -71.0681857,
+            "rating": 3.2,
+            "ratingCount": 48,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://www.massgeneral.org/",
+            "phoneNumber": "(617) 726-8707",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvORA1WGQTqdetUQ-oGDvOHcXFVdzoJgQdwqhk",
+            "cid": "17343306812630476064",
+            "fid": "0x89e37099830ca737:0xf0afcda84573a520",
+            "placeId": "ChIJN6cMg5lw44kRIKVzRajNr_A"
+        },
+        {
+            "position": 3,
+            "title": "Massachusetts General Hospital Emergency Room",
+            "address": "55 Fruit St #2622, Boston, MA 02114",
+            "latitude": 42.3628259,
+            "longitude": -71.0691788,
+            "rating": 2.2,
+            "ratingCount": 186,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.massgeneral.org/",
+            "phoneNumber": "(617) 724-4100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOfOueNL35jQfUsqrDkwJdLNGLpgZW8a68I42rt",
+            "cid": "18205951095167236318",
+            "fid": "0x89e37099bea5d153:0xfca8880fd193b8de",
+            "placeId": "ChIJU9Glvplw44kR3riT0Q-IqPw"
+        },
+        {
+            "position": 4,
+            "title": "Massachusetts General Hospital",
+            "address": "50 Staniford St, Boston, MA 02114",
+            "latitude": 42.3625405,
+            "longitude": -71.0645672,
+            "rating": 2.8,
+            "ratingCount": 13,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital",
+                "Skin care clinic"
+            ],
+            "website": "https://www.massgeneral.org/",
+            "phoneNumber": "(617) 726-2914",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ft38nEze3NZmnXAMP2eIVQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=13.103132&pitch=0&thumbfov=100",
+            "cid": "994496223494008814",
+            "fid": "0x89e3709a8741be45:0xdcd290bd3d3efee",
+            "placeId": "ChIJRb5Bh5pw44kR7u_T0wspzQ0"
+        }
+    ],
+    "credits": 3
+}

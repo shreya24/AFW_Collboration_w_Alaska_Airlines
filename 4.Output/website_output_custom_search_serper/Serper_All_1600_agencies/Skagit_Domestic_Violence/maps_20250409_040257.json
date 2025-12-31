@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Skagit Domestic Violence",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.4346096,-122.328659,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Skagit Domestic Violence & Sexual Assault Services.",
+            "address": "1521 Leigh Way, Mount Vernon, WA 98273",
+            "latitude": 48.434609599999995,
+            "longitude": -122.32865899999999,
+            "rating": 3.3,
+            "ratingCount": 14,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.skagitdvsas.org/",
+            "phoneNumber": "(360) 336-9591",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "623290867592524218",
+            "fid": "0x54856c224094f0c9:0x8a65fbde298f1ba",
+            "placeId": "ChIJyfCUQCJshVQRuvGY4r1fpgg"
+        }
+    ],
+    "credits": 3
+}

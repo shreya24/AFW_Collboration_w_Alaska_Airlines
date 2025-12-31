@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Avamere Bellingham Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7764112,-122.4889805,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Avamere Bellingham Healthcare and Rehabilitation Services",
+            "address": "1200 Birchwood Ave, Bellingham, WA 98225",
+            "latitude": 48.7764112,
+            "longitude": -122.4889805,
+            "rating": 3.9,
+            "ratingCount": 8,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Medical Center",
+                "Occupational therapist",
+                "Physical therapist",
+                "Rehabilitation center",
+                "Speech pathologist"
+            ],
+            "website": "https://www.avamere.com/avamere-bellingham-rehabilitation",
+            "phoneNumber": "(360) 734-9295",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-1q5Fe5ALIzahTmbAl63C-tZ7KYzXjWsZK-Dc",
+            "cid": "6885737169842174120",
+            "fid": "0x5485a36f0d36b0d9:0x5f8f0d79492578a8",
+            "placeId": "ChIJ2bA2DW-jhVQRqHglSXkNj18"
+        }
+    ],
+    "credits": 3
+}

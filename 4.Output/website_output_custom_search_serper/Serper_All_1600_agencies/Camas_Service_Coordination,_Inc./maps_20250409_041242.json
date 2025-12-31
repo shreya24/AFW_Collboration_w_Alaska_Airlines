@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Camas Service Coordination, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4795779,-99.5731958,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Service Coordination Inc.",
+            "address": "5283 Corporate Dr #103, Frederick, MD 21703",
+            "latitude": 39.3771334,
+            "longitude": -77.4184604,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.servicecoord.org/",
+            "phoneNumber": "(301) 663-8044",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpYOILHyML9a4m-t_IsOrpr6Bn3fhJqJEbpLHE",
+            "cid": "13661906673104364107",
+            "fid": "0x89c9d98a5a61f35d:0xbd98d7bc3ceca24b",
+            "placeId": "ChIJXfNhWorZyYkRS6LsPLzXmL0"
+        },
+        {
+            "position": 2,
+            "title": "Camas Community Center",
+            "address": "1718 SE 7th Ave, Camas, WA 98607",
+            "latitude": 45.5820224,
+            "longitude": -122.39096789999999,
+            "rating": 4.4,
+            "ratingCount": 81,
+            "type": "Event venue",
+            "types": [
+                "Event venue"
+            ],
+            "website": "https://www.cityofcamas.us/parksrec/page/community-center-information",
+            "phoneNumber": "(360) 834-5307",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-d2LgY7efuzRYcp5N06SrOgrlY6DdMJmZ4HFWxKyDvzGZahzQj_vC-xQ8pOKvwbdArOlEZE--ACB6C9fm7XsS-7ow2zPhl5v-Ns8RfQNyYbHS_ZQ5X01088mW_dX2godSwiSAR",
+            "cid": "15950137763759155237",
+            "fid": "0x5495bcfeac6b966f:0xdd5a45c9e7686825",
+            "placeId": "ChIJb5ZrrP68lVQRJWho58lFWt0"
+        },
+        {
+            "position": 3,
+            "title": "Service Coordination, Inc.",
+            "address": "9 Park Center Ct #301, Owings Mills, MD 21117",
+            "latitude": 39.399793599999995,
+            "longitude": -76.7554238,
+            "rating": 3.5,
+            "ratingCount": 11,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://servicecoord.org/",
+            "phoneNumber": "(410) 235-8110",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIXyu_VjSPu3hao2PQ7uCQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=52.68228&pitch=0&thumbfov=100",
+            "cid": "4178886109250431745",
+            "fid": "0x89c817426ac54279:0x39fe62c692afab01",
+            "placeId": "ChIJeULFakIXyIkRAauvksZi_jk"
+        }
+    ],
+    "credits": 3
+}

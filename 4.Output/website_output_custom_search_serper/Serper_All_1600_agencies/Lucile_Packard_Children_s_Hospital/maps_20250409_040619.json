@@ -1,0 +1,94 @@
+{
+    "searchParameters": {
+        "q": "Lucile Packard Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4373911,-122.173041,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lucile Packard Children's Hospital Stanford",
+            "address": "725 Welch Rd, Palo Alto, CA 94304",
+            "latitude": 37.436029399999995,
+            "longitude": -122.1745392,
+            "rating": 4.1,
+            "ratingCount": 400,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital"
+            ],
+            "website": "https://www.stanfordchildrens.org/?utm_source=local&utm_medium=Yext&utm_campaign=GMB&y_source=1_MTY1NzU0NDYtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(650) 497-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMO3t8fFWGTW2ZQqqbEqjczpzJ3dX9QS8gWg-I5",
+            "cid": "3181841079003460938",
+            "fid": "0x808fa4cd4e3e1f87:0x2c282b9a6dbf354a",
+            "placeId": "ChIJhx8-Ts2kj4ARSjW_bZorKCw"
+        },
+        {
+            "position": 2,
+            "title": "Ls Packard Children's Pul",
+            "address": "730 Welch Rd, Palo Alto, CA 94304",
+            "latitude": 37.4377346,
+            "longitude": -122.17438329999999,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/lucile-packard-childrens-hospital",
+            "phoneNumber": "(650) 497-8841",
+            "cid": "15262130482678717524",
+            "fid": "0x808fbb32d3b33957:0xd3cdfacfcfb9dc54",
+            "placeId": "ChIJVzmz0zK7j4ARVNy5z8_6zdM"
+        },
+        {
+            "position": 3,
+            "title": "Lucile Packard Children's Hospital: Parker Bruce MD",
+            "address": "725 Welch Rd, Palo Alto, CA 94304",
+            "latitude": 37.4360743,
+            "longitude": -122.1750352,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/about/timeline",
+            "phoneNumber": "(650) 497-8000",
+            "cid": "9391079971805532299",
+            "fid": "0x808fa4cd45fa1e35:0x8253d17a70c1108b",
+            "placeId": "ChIJNR76Rc2kj4ARixDBcHrRU4I"
+        },
+        {
+            "position": 4,
+            "title": "Lucile Salter Packard Children's Hospital",
+            "address": "401 Quarry Rd, Palo Alto, CA 94304",
+            "latitude": 37.4387529,
+            "longitude": -122.1710469,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(650) 723-5511",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_gmQCvENAb75nSaL5hq44Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=112.2406&pitch=0&thumbfov=100",
+            "cid": "13792640578986670999",
+            "fid": "0x808fbb326052f409:0xbf694d87b1237b97",
+            "placeId": "ChIJCfRSYDK7j4ARl3sjsYdNab8"
+        }
+    ],
+    "credits": 3
+}

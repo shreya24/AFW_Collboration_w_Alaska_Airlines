@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "The Road Home Gill Miller Resource Cente",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7370056,-111.8983092,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Road Home- Gail Miller Resource Center",
+            "address": "242 Paramount Ave, Salt Lake City, UT 84115",
+            "latitude": 40.737005599999996,
+            "longitude": -111.8983092,
+            "rating": 3.4,
+            "ratingCount": 119,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Homeless service",
+                "Social services organization"
+            ],
+            "website": "http://www.theroadhome.org/",
+            "phoneNumber": "(801) 456-5900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8qSXD-DDJFSFT-v7VXarBx8w0Pmnhe1kXpX85KSBK2h_dJkb7V5ozl6jKIVGJQJvDOyUAiVLYh09EdJaUpeSXy1sCiuwvwkPcUT2PBzacMRfMh2jaX6zBFKMiNxZHoBqcW2N8_0g",
+            "cid": "9195921907114557346",
+            "fid": "0x8752f596c5860171:0x7f9e7a409fcbbfa2",
+            "placeId": "ChIJcQGGxZb1UocRor_Ln0B6nn8"
+        }
+    ],
+    "credits": 3
+}

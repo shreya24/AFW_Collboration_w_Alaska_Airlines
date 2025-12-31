@@ -1,0 +1,65 @@
+{
+    "searchParameters": {
+        "q": "Intermountain CF Cntr/Primary Child.Hosp",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7714475,-111.8388825,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health Primary Children's Hospital",
+            "address": "100 Mario Capecchi Dr, Salt Lake City, UT 84113",
+            "latitude": 40.7711317,
+            "longitude": -111.83878639999999,
+            "rating": 3.8,
+            "ratingCount": 675,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city",
+            "phoneNumber": "(801) 662-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNZ9sBz0XOX_x1RtVkLW2u2k_iNtyQtK7_OVv9",
+            "cid": "12660754281819847796",
+            "fid": "0x87525f96d7c6b61d:0xafb408f09460bc74",
+            "placeId": "ChIJHbbG15ZfUocRdLxglPAItK8"
+        },
+        {
+            "position": 2,
+            "title": "Intermountain Foundation at Primary Children's Hospital",
+            "address": "100 Mario Capecchi Dr, Salt Lake City, UT 84113",
+            "latitude": 40.771763299999996,
+            "longitude": -111.83897859999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/location-details/primary-children-s-hospital/primary-children-s-hospital/intermountain-foundation-at-primary-children-s-hospital/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(801) 442-3443",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=do44vtRMvKmRfB962U-pkg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=275.7469&pitch=0&thumbfov=100",
+            "cid": "14730564148222943384",
+            "fid": "0x87525fb659ebaffb:0xcc6d7a0c03eee098",
+            "placeId": "ChIJ-6_rWbZfUocRmODuAwx6bcw"
+        }
+    ],
+    "credits": 3
+}

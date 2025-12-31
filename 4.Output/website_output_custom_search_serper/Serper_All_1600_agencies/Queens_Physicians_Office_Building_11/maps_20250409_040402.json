@@ -1,0 +1,448 @@
+{
+    "searchParameters": {
+        "q": "Queens Physicians Office Building 11",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.0220506,-115.9772797,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Queen's Physicians Office",
+            "address": "1380 Lusitana St, Honolulu, HI 96813",
+            "latitude": 21.3080213,
+            "longitude": -157.852902,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.queens.org/find-a-doctor/",
+            "phoneNumber": "(808) 691-4755",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XCCqZ5NmTt_WcHJdjoZ_og&cb_client=search.gws-prod.gps&w=80&h=92&yaw=246.7033&pitch=0&thumbfov=100",
+            "cid": "3365843676587787100",
+            "fid": "0x7c006dde5b08480d:0x2eb5e0fda882835c",
+            "placeId": "ChIJDUgIW95tAHwRXIOCqP3gtS4"
+        },
+        {
+            "position": 2,
+            "title": "Queen's POB 1",
+            "address": "1380 Lusitana St # 801, Honolulu, HI 96813",
+            "latitude": 21.3080213,
+            "longitude": -157.852902,
+            "rating": 4.2,
+            "ratingCount": 114,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Pharmacy"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/parking-and-directions/",
+            "phoneNumber": "(808) 691-4745",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-mgkKIqP1eesVGYiFeGoEgK4lWEle-ro9vDMz",
+            "cid": "10531523249884585237",
+            "fid": "0x7c006dde5b5e79fd:0x92277c98ed235d15",
+            "placeId": "ChIJ_XleW95tAHwRFV0j7Zh8J5I"
+        },
+        {
+            "position": 3,
+            "title": "The Queen's Health Care Center - Honolulu (Suite 401)",
+            "address": "550 S Beretania St. Physicians Office Building 3, Suite 401, Honolulu, HI 96813",
+            "latitude": 21.3064104,
+            "longitude": -157.8543967,
+            "rating": 4.3,
+            "ratingCount": 12,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/",
+            "phoneNumber": "(808) 691-7744",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlMEz7csH_Vu8uI0PjrKmVxYYWbxtyP9BNuikq",
+            "cid": "15140417650607690307",
+            "fid": "0x7c006d9514014bed:0xd21d91a2c7869243",
+            "placeId": "ChIJ7UsBFJVtAHwRQ5KGx6KRHdI"
+        },
+        {
+            "position": 4,
+            "title": "Queen's Radiology Scheduling",
+            "address": "1329 Lusitana St, Honolulu, HI 96813",
+            "latitude": 21.3076091,
+            "longitude": -157.8520883,
+            "rating": 2.3,
+            "ratingCount": 6,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist",
+                "Medical diagnostic imaging center"
+            ],
+            "phoneNumber": "(808) 691-7171",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNPHHQGu9yF5Nhq7m3xQOhofBxykiilibDsEN0",
+            "cid": "782620081255781404",
+            "fid": "0x7c006dde6cc1f15d:0xadc6cd14156941c",
+            "placeId": "ChIJXfHBbN5tAHwRHJRWQdFs3Ao"
+        },
+        {
+            "position": 5,
+            "title": "Primary Care - The Queen's Medical Center - West Oahu",
+            "address": "Physicians Office Building West, 91-2139 Fort Weaver Rd #101, Ewa Beach, HI 96706",
+            "latitude": 21.3717932,
+            "longitude": -158.0271577,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc-west-oahu/services/primary-care/",
+            "phoneNumber": "(808) 691-3173",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNn-q6KOCdQuOctatrvQaDPRZrOiaI9W6pV69_-",
+            "cid": "7783023671456497440",
+            "fid": "0x7c0065c206b08b31:0x6c02dacaff9eff20",
+            "placeId": "ChIJMYuwBsJlAHwRIP-e_8raAmw"
+        },
+        {
+            "position": 6,
+            "title": "Queen's POB III Pharmacy",
+            "address": "550 S Beretania St. Suite 102, Honolulu, HI 96813",
+            "latitude": 21.3066693,
+            "longitude": -157.8545943,
+            "rating": 4.3,
+            "ratingCount": 38,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/services/pharmacy/",
+            "phoneNumber": "(808) 691-8925",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJs1y5yO3gJWQIyFWUhO0l-ohV01PExqwFpe2j",
+            "cid": "10366592574624729959",
+            "fid": "0x7c006ddfd1f657a1:0x8fdd8905a5b58b67",
+            "placeId": "ChIJoVf20d9tAHwRZ4u1pQWJ3Y8"
+        },
+        {
+            "position": 7,
+            "title": "The Queen's Medical Center",
+            "address": "1301 Punchbowl St, Honolulu, HI 96813",
+            "latitude": 21.308469799999997,
+            "longitude": -157.853858,
+            "rating": 3.4,
+            "ratingCount": 345,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Dental clinic",
+                "Dentist",
+                "Hospital department",
+                "Nursing home",
+                "Pharmacy"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/",
+            "phoneNumber": "(808) 691-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKmKOTl0RhBeOSMFVy7q6HFGN5wH0lfoIPgf9y",
+            "cid": "17855853242645249370",
+            "fid": "0x7c006ddfb9473dd5:0xf7ccbbeb79607d5a",
+            "placeId": "ChIJ1T1Hud9tAHwRWn1geeu7zPc"
+        },
+        {
+            "position": 8,
+            "title": "The Queen's Medical Center Emergency Room",
+            "address": "1301 Punchbowl St, Honolulu, HI 96813",
+            "latitude": 21.3082773,
+            "longitude": -157.8542901,
+            "rating": 3,
+            "ratingCount": 49,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "http://www.queens.org/",
+            "phoneNumber": "(808) 691-4311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUqbqVERpeYnB2F_OC5zbhpKX_l_z0ZcNW6VJ-",
+            "cid": "3479866417851475962",
+            "fid": "0x7c006dde52faf491:0x304af811e5d927fa",
+            "placeId": "ChIJkfT6Ut5tAHwR-ifZ5RH4SjA"
+        },
+        {
+            "position": 9,
+            "title": "Queen\u2019s Clinically Integrated Physician Network",
+            "address": "1301 Punchbowl St, Honolulu, HI 96813",
+            "latitude": 21.3078118,
+            "longitude": -157.8541845,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(808) 691-1000",
+            "cid": "1549463836888749721",
+            "fid": "0x7c006ddfba27d437:0x1580cd2676115699",
+            "placeId": "ChIJN9Qnut9tAHwRmVYRdibNgBU"
+        },
+        {
+            "position": 10,
+            "title": "The Queen's Health Care Center - Honolulu (Suite 706)",
+            "address": "1380 Lusitana St Physicians Office Building 1, Suite 706, Honolulu, HI 96813",
+            "latitude": 21.307957299999998,
+            "longitude": -157.85285679999998,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/honolulu/",
+            "phoneNumber": "(808) 521-8913",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQjC_RaQL6BPUJThAdh5y6OxypU4YuP-Wo_47i",
+            "cid": "11889907071853352805",
+            "fid": "0x7c006de1df4b24f9:0xa5016f7c86395765",
+            "placeId": "ChIJ-SRL3-FtAHwRZVc5hnxvAaU"
+        },
+        {
+            "position": 11,
+            "title": "The Queen's Medical Center - West Oahu",
+            "address": "91-2141 Fort Weaver Rd, Ewa Beach, HI 96706",
+            "latitude": 21.3725013,
+            "longitude": -158.02679,
+            "rating": 3.4,
+            "ratingCount": 177,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc-west-oahu/",
+            "phoneNumber": "(808) 691-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdy__-P_bIHffs_Uyl2Wh06BZxB1HofEJBm71E",
+            "cid": "4798161417718076782",
+            "fid": "0x7c00646b0208f2e7:0x42967e633e12156e",
+            "placeId": "ChIJ5_IIAmtkAHwRbhUSPmN-lkI"
+        },
+        {
+            "position": 12,
+            "title": "Queen\u2019s POB 2",
+            "address": "1329 Lusitana St, Honolulu, HI 96813",
+            "latitude": 21.3077593,
+            "longitude": -157.8522183,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.queens.org/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOzFV8hIAyin-EbQHbzJklXmlWqh7xh32NGsIQn",
+            "cid": "4262337513145197908",
+            "fid": "0x7c006d0004933861:0x3b26dd62a7d76554",
+            "placeId": "ChIJYTiTBABtAHwRVGXXp2LdJjs"
+        },
+        {
+            "position": 13,
+            "title": "The Queen's Health Care Center - Aiea / Pearl City (Mary Savio)",
+            "address": "98-1247 Ka\u02bbahumanu St STE 315, Aiea, HI 96701",
+            "latitude": 21.388529899999998,
+            "longitude": -157.95318989999998,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/mary-savio/",
+            "phoneNumber": "(808) 691-8200",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMW4smnmXqDEZlg6sBj9m0Ea89CPcSGw5DdIDFr",
+            "cid": "1042725464525868853",
+            "fid": "0x7c00673e74bf882b:0xe7881490f518f35",
+            "placeId": "ChIJK4i_dD5nAHwRNY9RD0mBeA4"
+        },
+        {
+            "position": 14,
+            "title": "Queen Emma Clinics",
+            "address": "1301 Punchbowl St, Honolulu, HI 96813",
+            "latitude": 21.3076541,
+            "longitude": -157.85433559999998,
+            "rating": 3.7,
+            "ratingCount": 38,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.queens.org/locations/primary-care/queen-emma-clinics/",
+            "phoneNumber": "(808) 691-4970",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOE3b0TCU42dEgcefVoKYJpQBnP0IKfxNBfw-NA",
+            "cid": "13344706671764653846",
+            "fid": "0x7c006ddfb9473dd5:0xb931ec03c2514716",
+            "placeId": "ChIJ1T1Hud9tAHwRFkdRwgPsMbk"
+        },
+        {
+            "position": 15,
+            "title": "Queens Health Center",
+            "address": "37-11 Queens Blvd, Long Island City, NY 11101",
+            "latitude": 40.744501,
+            "longitude": -73.9274018,
+            "rating": 3.4,
+            "ratingCount": 319,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.hotelfunds.org/",
+            "phoneNumber": "(718) 606-3863",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:45\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:45\u202fPM",
+                "Thursday": "8\u202fAM\u20135:45\u202fPM",
+                "Friday": "8\u202fAM\u20135:45\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:45\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNo1mABCW4_hmyry_L2FlRgpsHEEeZ7lFBziLIG",
+            "cid": "7690553105336698626",
+            "fid": "0x89c25ed6f970ec1b:0x6aba554d91df0702",
+            "placeId": "ChIJG-xw-dZewokRAgffkU1Vumo"
+        },
+        {
+            "position": 16,
+            "title": "The Queen's Health Care Center - Hale Pawa\u2018a",
+            "address": "1401 S Beretania St. # 350, Honolulu, HI 96814",
+            "latitude": 21.2996001,
+            "longitude": -157.8394051,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.queens.org/locations/primary-care/queens-healthcare-centers/hale-pawaa/",
+            "phoneNumber": "(808) 691-8200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN76FS3KWoIG9DL6NISw7ymzaRf_QUc703G1jvH",
+            "cid": "13099965204531138316",
+            "fid": "0x7c006d785807c107:0xb5cc6cf26a0e4f0c",
+            "placeId": "ChIJB8EHWHhtAHwRDE8OavJszLU"
+        },
+        {
+            "position": 17,
+            "title": "The Queen's Medical Center: Outpatient Diabetes Education Center",
+            "address": "1301 Punchbowl St B-5, Honolulu, HI 96813",
+            "latitude": 21.307871799999997,
+            "longitude": -157.85488189999998,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center"
+            ],
+            "phoneNumber": "(808) 691-4823",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5umaYMC9fsUfkQaMG5t2NQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=125.89425&pitch=0&thumbfov=100",
+            "cid": "6084423849591077475",
+            "fid": "0x7c006ddfb8dabc03:0x5470374129ca7a63",
+            "placeId": "ChIJA7zauN9tAHwRY3rKKUE3cFQ"
+        }
+    ],
+    "credits": 3
+}

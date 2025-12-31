@@ -1,0 +1,155 @@
+{
+    "searchParameters": {
+        "q": "Clearwater Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1855718,-119.2224512,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clearwater Healthcare Center",
+            "address": "1517 Knickerbocker Dr, Stockton, CA 95210",
+            "latitude": 38.025158499999996,
+            "longitude": -121.29281069999999,
+            "rating": 4,
+            "ratingCount": 119,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "https://clearwaterhealthcare.com/",
+            "phoneNumber": "(209) 957-4539",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMOSi2ct8iwr0Vuo-k4SVPsnZgisw45y904Sin",
+            "cid": "9220881011670671050",
+            "fid": "0x80900c9099a54e53:0x7ff7266d00c65eca",
+            "placeId": "ChIJU06lmZAMkIARyl7GAG0m938"
+        },
+        {
+            "position": 2,
+            "title": "TriState Clearwater Medical Clinic",
+            "address": "1522 17th St, Lewiston, ID 83501",
+            "latitude": 46.404334399999996,
+            "longitude": -117.00835289999999,
+            "rating": 3.2,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.tsh.org/clinics-services/family-practice-clearwater/",
+            "phoneNumber": "(208) 743-8416",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cwmKD8b6M85sAgx7ib03gA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=244.53798&pitch=0&thumbfov=100",
+            "cid": "2886135629313879445",
+            "fid": "0x54a1caaab05a756d:0x280d9d103eda2d95",
+            "placeId": "ChIJbXVasKrKoVQRlS3aPhCdDSg"
+        },
+        {
+            "position": 3,
+            "title": "Clearwater Medical Clinic: Evans Geni MD",
+            "address": "1522 17th St, Lewiston, ID 83501",
+            "latitude": 46.4043164,
+            "longitude": -117.00833399999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Wellness center"
+            ],
+            "website": "http://www.clearwatermedclinic.com/",
+            "phoneNumber": "(208) 743-8416",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cwmKD8b6M85sAgx7ib03gA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.64526&pitch=0&thumbfov=100",
+            "cid": "4393870132355370770",
+            "fid": "0x54a1caaab05a8995:0x3cfa299b0c3d8f12",
+            "placeId": "ChIJlYlasKrKoVQREo89DJsp-jw"
+        },
+        {
+            "position": 4,
+            "title": "Clearwater Counseling & Assessment Services",
+            "address": "1 Bates Blvd Ste 400, Orinda, CA 94563",
+            "latitude": 37.881695199999996,
+            "longitude": -122.1803609,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Psychologist"
+            ],
+            "website": "http://www.clearwaterclinic.com/",
+            "phoneNumber": "(510) 596-8137",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fAM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMnQY3hK8ytKyOkID7PcR1-7C1rROhaiG23WO87",
+            "cid": "10336828820185011933",
+            "fid": "0x80857dfbe1d12447:0x8f73cb0b8b25d6dd",
+            "placeId": "ChIJRyTR4ft9hYAR3dYliwvLc48"
+        },
+        {
+            "position": 5,
+            "title": "Clearwater Valley Health",
+            "address": "1055 Riverside Ave, Orofino, ID 83544",
+            "latitude": 46.489448499999995,
+            "longitude": -116.2645416,
+            "rating": 3.3,
+            "ratingCount": 19,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.smh-cvh.org/",
+            "phoneNumber": "(208) 476-5777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "16838990617929087381",
+            "fid": "0x54a07196620b4f07:0xe9b01cc00dcc7995",
+            "placeId": "ChIJB08LYpZxoFQRlXnMDcAcsOk"
+        }
+    ],
+    "credits": 3
+}

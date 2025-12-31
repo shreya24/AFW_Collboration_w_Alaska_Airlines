@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Samaritan Pacific Communities Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.6284144,-124.0601333,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Samaritan Pacific Communities Hospital",
+            "address": "930 SW Abbey St, Newport, OR 97365",
+            "latitude": 44.6284144,
+            "longitude": -124.06013329999999,
+            "rating": 3.1,
+            "ratingCount": 162,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://samhealth.org/find-a-location/samaritan-pacific-communities-hospital/",
+            "phoneNumber": "(541) 265-2244",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOEKVxZK__iPh7IqeVt_b_PSZVAtdtIoRWqOTYz",
+            "cid": "6221931119823397175",
+            "fid": "0x54c1d7b79b22ee29:0x5658bd636605a137",
+            "placeId": "ChIJKe4im7fXwVQRN6EFZmO9WFY"
+        }
+    ],
+    "credits": 3
+}

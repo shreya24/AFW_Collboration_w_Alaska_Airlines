@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "American Cancer Society Inyo Kern",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.0693121,-104.875527,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Cancer Society",
+            "address": "865 Albion St Suite 250, Denver, CO 80220",
+            "latitude": 39.730208999999995,
+            "longitude": -104.9396275,
+            "rating": 3.9,
+            "ratingCount": 8,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(800) 227-2345",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A6piKYfJ2POaQsdh0eCwqw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=340.13977&pitch=0&thumbfov=100",
+            "cid": "6499410090142547514",
+            "fid": "0x876c7d8e745f6e8d:0x5a328b0aa8893e3a",
+            "placeId": "ChIJjW5fdI59bIcROj6JqAqLMlo"
+        },
+        {
+            "position": 2,
+            "title": "American Cancer Society",
+            "address": "1665 Aurora Ct, Aurora, CO 80045",
+            "latitude": 39.7427734,
+            "longitude": -104.83924139999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(800) 227-2345",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U2_bglZUfxnVkwNxJgDNLw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=332.56018&pitch=0&thumbfov=100",
+            "cid": "2995504048338883513",
+            "fid": "0x876c63495358a53d:0x29922b0fa47bd3b9",
+            "placeId": "ChIJPaVYU0ljbIcRudN7pA8rkik"
+        },
+        {
+            "position": 3,
+            "title": "American Cancer Society",
+            "address": "8221 W 20th St ste a, Greeley, CO 80634",
+            "latitude": 40.4084151,
+            "longitude": -104.8114264,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(800) 227-2345",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H63plNvDKgCuT_HXgBn-Qw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=71.54182&pitch=0&thumbfov=100",
+            "cid": "14987839174442393207",
+            "fid": "0x876ea5d995c7275b:0xcfff8051f7529e77",
+            "placeId": "ChIJWyfHldmlbocRd55S91GA_88"
+        }
+    ],
+    "credits": 3
+}

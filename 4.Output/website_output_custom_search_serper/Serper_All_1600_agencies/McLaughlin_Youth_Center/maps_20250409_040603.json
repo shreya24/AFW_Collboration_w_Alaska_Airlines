@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "McLaughlin Youth Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1876279,-149.8313312,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "McLaughlin Youth Center",
+            "address": "2600 Providence Dr, Anchorage, AK 99508",
+            "latitude": 61.187627899999995,
+            "longitude": -149.8313312,
+            "type": "Juvenile detention center",
+            "types": [
+                "Juvenile detention center"
+            ],
+            "phoneNumber": "(907) 261-4399",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ccl8hO-wk_TIu0sa24dcqQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=184.35025&pitch=0&thumbfov=100",
+            "cid": "9207370678872798624",
+            "fid": "0x56c897a9bbde0dcf:0x7fc726d9858f75a0",
+            "placeId": "ChIJzw3eu6mXyFYRoHWPhdkmx38"
+        }
+    ],
+    "credits": 3
+}

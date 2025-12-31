@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Alpine Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7689649,-111.8601946,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alpine Medical Group, LLC",
+            "address": "24 1100 E #310, Salt Lake City, UT 84102",
+            "latitude": 40.7689649,
+            "longitude": -111.8601946,
+            "rating": 2.8,
+            "ratingCount": 65,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist",
+                "Surgeon"
+            ],
+            "website": "http://www.alpinemedicalgroup.com/",
+            "phoneNumber": "(801) 328-1260",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9fvYrNh3ZcleT4QKvCsklYjA4fS5x6-h9jLyi_3yS6L2MsmhCBTwtHDgSdn3zc31GSO4W0y23O6okyehTEe29Fb2rT1CjiY0A8A04_oKmZL9Y9KrG5Pj8enWXdcwhUBlq0X0U",
+            "cid": "4924326633655984752",
+            "fid": "0x8752f56336db0533:0x4456b8fbad0f6270",
+            "placeId": "ChIJMwXbNmP1UocRcGIPrfu4VkQ"
+        }
+    ],
+    "credits": 3
+}

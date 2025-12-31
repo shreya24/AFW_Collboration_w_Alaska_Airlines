@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "North Coast Family Health Cntr, Ft Bragg",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4319668,-123.8021288,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Medical Office: Adventist Health Mendocino Coast",
+            "address": "721 River Dr Suites A, B, and C, Fort Bragg, CA 95437",
+            "latitude": 39.4319668,
+            "longitude": -123.80212879999999,
+            "rating": 3.1,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.adventisthealth.org/locations/adventist-health-mendocino-coast-medical-office/",
+            "phoneNumber": "(707) 961-4631",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMY83KMNhpeRIWVeFc3d3FwuzzqDm4gBndhHiDr",
+            "cid": "7617865913220209419",
+            "fid": "0x80803555f28b33db:0x69b818afd80c1b0b",
+            "placeId": "ChIJ2zOL8lU1gIARCxsM2K8YuGk"
+        }
+    ],
+    "credits": 3
+}

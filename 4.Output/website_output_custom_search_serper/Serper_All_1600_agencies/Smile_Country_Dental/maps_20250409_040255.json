@@ -1,0 +1,83 @@
+{
+    "searchParameters": {
+        "q": "Smile Country Dental",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3737513,-122.5195165,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Smile Country Dental",
+            "address": "140 Stony Point Rd # A, Santa Rosa, CA 95401",
+            "latitude": 38.441784399999996,
+            "longitude": -122.7442548,
+            "rating": 4.5,
+            "ratingCount": 259,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "website": "https://www.smilecountrydental.com/?utm_campaign=gmb",
+            "phoneNumber": "(707) 578-3118",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.smilecountrydental.com/request_appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1E7c4gmTpwsF9AHcdCNuNnAKeVnc4d7NJmbeK",
+            "cid": "8945667097265805490",
+            "fid": "0x8084399f5af8a21f:0x7c2564d42b6d98b2",
+            "placeId": "ChIJH6L4Wp85hIARsphtK9RkJXw"
+        },
+        {
+            "position": 2,
+            "title": "Smile Country Dental",
+            "address": "2016 Jefferson St, Napa, CA 94559",
+            "latitude": 38.3057182,
+            "longitude": -122.29477829999999,
+            "rating": 4.4,
+            "ratingCount": 174,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Dental implants periodontist",
+                "Denture care center",
+                "Emergency dental service",
+                "Oral surgeon",
+                "Orthodontist",
+                "Periodontist",
+                "Teeth whitening service"
+            ],
+            "website": "https://www.smilecountrydental.com/?utm_campaign=gmb",
+            "phoneNumber": "(707) 603-4955",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.smilecountrydental.com/request_appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMc4p6AkYBqhO8qmmT7AkTK2_BM5nBwOw49rHMA",
+            "cid": "1637378704074235964",
+            "fid": "0x808506f66dacb0a1:0x16b923419322603c",
+            "placeId": "ChIJobCsbfYGhYARPGAik0EjuRY"
+        }
+    ],
+    "credits": 3
+}

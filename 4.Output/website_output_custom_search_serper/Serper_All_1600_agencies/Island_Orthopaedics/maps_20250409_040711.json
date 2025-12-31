@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Island Orthopaedics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2856694,-157.803951,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Island Orthopaedics",
+            "address": "3382 Waialae Ave, Honolulu, HI 96816",
+            "latitude": 21.2856694,
+            "longitude": -157.80395099999998,
+            "rating": 4.7,
+            "ratingCount": 90,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://islandorthopaedics.com/",
+            "phoneNumber": "(808) 548-7033",
+            "menu": "http://islandorthopaedics.com/services-we-provide/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://islandorthopaedics.com/patient-resources/appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPP5wubn3OcljYBfgOFmRFX11-J_LScVcS8Jx0F",
+            "cid": "11326295899401617840",
+            "fid": "0x7c006ebaaaaaaaab:0x9d2f161c78cc01b0",
+            "placeId": "ChIJq6qqqrpuAHwRsAHMeBwWL50"
+        }
+    ],
+    "credits": 3
+}

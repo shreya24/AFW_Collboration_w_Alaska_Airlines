@@ -1,0 +1,37 @@
+{
+    "searchParameters": {
+        "q": "Denver Ctr. for Anthroposophic Therapies",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7555694,-104.9817608,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denver Center for Anthroposophic Therapies",
+            "address": "840 26th St, Denver, CO 80205",
+            "latitude": 39.7555694,
+            "longitude": -104.98176079999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Alternative medicine practitioner",
+            "types": [
+                "Alternative medicine practitioner",
+                "Holistic medicine practitioner"
+            ],
+            "website": "http://denvertherapies.com/ContactUs.aspx",
+            "phoneNumber": "(720) 404-9199",
+            "menu": "http://places.singleplatform.com/denver-center-for-anthroposophic-therapies/menu?ref=google",
+            "bookingLinks": [
+                "https://www.genbook.com/bookings/slot/reservation/30178662?bookingSourceId=1000%27%20target=%27_blank"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J4obQtdDjLX2gXUVDL_rbw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=228.18712&pitch=0&thumbfov=100",
+            "cid": "16414242653635021966",
+            "fid": "0x876c79211156cab1:0xe3cb1aba22fb0c8e",
+            "placeId": "ChIJscpWESF5bIcRjgz7Iroay-M"
+        }
+    ],
+    "credits": 3
+}

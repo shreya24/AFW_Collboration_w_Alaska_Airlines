@@ -1,0 +1,92 @@
+{
+    "searchParameters": {
+        "q": "Young Lives, Kenai Peninsula",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.423669,-129.9427085,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Young Life Alaska",
+            "address": "12310 Lorraine St, Anchorage, AK 99516",
+            "latitude": 61.1094374,
+            "longitude": -149.8076605,
+            "type": "Youth organization",
+            "types": [
+                "Youth organization"
+            ],
+            "website": "https://anchorage.younglife.org/",
+            "phoneNumber": "(907) 336-5100",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dq8YTJ7zTzbyIcDSjVtEKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=237.51176&pitch=0&thumbfov=100",
+            "cid": "4053905911422325307",
+            "fid": "0x56c8977f1befe245:0x38425df2ab2f123b",
+            "placeId": "ChIJReLvG3-XyFYROxIvq_JdQjg"
+        },
+        {
+            "position": 2,
+            "title": "Alaska SeaLife Center",
+            "address": "301 Railway Ave, Seward, AK 99664",
+            "latitude": 60.0998464,
+            "longitude": -149.4407077,
+            "rating": 4.6,
+            "ratingCount": 3860,
+            "type": "Aquarium",
+            "types": [
+                "Aquarium",
+                "Animal rescue service",
+                "Park",
+                "Research institute"
+            ],
+            "website": "https://www.alaskasealife.org/",
+            "phoneNumber": "(907) 224-6300",
+            "description": "Exhibits on Alaskan marine life, from harbor seals to king crabs, with a hands-on touch tank.",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "10\u202fAM\u20135\u202fPM",
+                "Friday": "10\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20135\u202fPM",
+                "Sunday": "10\u202fAM\u20135\u202fPM",
+                "Monday": "10\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvRxEwi_LtobgB9zkSZaTLhO7qB1g65P_xXwjX",
+            "cid": "674284725607732521",
+            "fid": "0x56c79c622bf41389:0x95b8a62ab521529",
+            "placeId": "ChIJiRP0K2Kcx1YRKRVSq2KKWwk"
+        },
+        {
+            "position": 3,
+            "title": "The Church of Jesus Christ of Latter-day Saints",
+            "address": "609 N Forest Dr, Kenai, AK 99611",
+            "latitude": 60.570282299999995,
+            "longitude": -151.2784419,
+            "rating": 4.9,
+            "ratingCount": 42,
+            "type": "Christian church",
+            "types": [
+                "Christian church",
+                "Church of Jesus Christ of Latter-day Saints",
+                "Religious organization"
+            ],
+            "website": "https://local.churchofjesuschrist.org/en/us/ak/kenai/609-north-forest-drive?utm_source=gmb&utm_medium=yext&y_source=1_MzAwNjE1MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 252-2927",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20132:30\u202fPM",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAXE35PDJCdA_OcW-155mEh0bEDI5AdikxY-g8",
+            "cid": "16645798561344494684",
+            "fid": "0x56c67b80df47c4c9:0xe701c1992ba59c5c",
+            "placeId": "ChIJycRH34B7xlYRXJylK5nBAec"
+        }
+    ],
+    "credits": 3
+}

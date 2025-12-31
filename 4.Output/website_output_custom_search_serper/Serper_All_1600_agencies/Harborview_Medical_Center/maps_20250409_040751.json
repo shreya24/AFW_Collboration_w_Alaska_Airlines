@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Harborview Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6039167,-122.323905,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Harborview Medical Center",
+            "address": "325 9th Ave Main Hospital, Seattle, WA 98104",
+            "latitude": 47.6039167,
+            "longitude": -122.323905,
+            "rating": 3.6,
+            "ratingCount": 828,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.uwmedicine.org/locations/harborview-medical-center?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDM0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 744-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8kHT2PgCUYD83kAKSWF5ZxNj7w7EHm-00YzPh_rQqVm5b4rpDoRNIbuXUsJl69YbgIUfrutRvdAQ9vQST_br7vNR2NhaVFDh7dKnMUziieS09fj_9PkgG6remaCpxkv9hw1jku",
+            "cid": "6803544737971406536",
+            "fid": "0x549015378ac40def:0x5e6b0be4784386c8",
+            "placeId": "ChIJ7w3EijcVkFQRyIZDeOQLa14"
+        }
+    ],
+    "credits": 3
+}

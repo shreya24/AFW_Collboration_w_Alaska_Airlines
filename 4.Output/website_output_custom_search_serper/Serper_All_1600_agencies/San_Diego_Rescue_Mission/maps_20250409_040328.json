@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "San Diego Rescue Mission",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7243474,-117.1634829,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Diego Rescue Mission",
+            "address": "120 Elm St, San Diego, CA 92101",
+            "latitude": 32.7243474,
+            "longitude": -117.16348289999999,
+            "rating": 3.2,
+            "ratingCount": 76,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Domestic abuse treatment center",
+                "Mental health service",
+                "Non-profit organization",
+                "Social services organization"
+            ],
+            "website": "http://www.sdrescue.org/",
+            "phoneNumber": "(619) 687-3720",
+            "description": "Thrift store selling used clothes, furniture, electronics & baby supplies to benefit the homeless.",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9NtzFlaTOL-uTmqNxqjxi34H1nV_7nadIScjausjyBdyn6Ijq5OJvjfhiXb-TFTuYTBepKw9-MBvi_wCqEFGieXoDo37M1F-iSENSIZpQRXOfBACGxTReZc02zo9HTRwSs7Kc",
+            "cid": "4839516731694925296",
+            "fid": "0x80d954afdc7afb6d:0x43296ad39d3c45f0",
+            "placeId": "ChIJbft63K9U2YAR8EU8ndNqKUM"
+        }
+    ],
+    "credits": 3
+}

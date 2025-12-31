@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Kartini Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5488429,-122.6676567,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kartini Clinic for Children and Families",
+            "address": "3530 N Vancouver Ave #400, Portland, OR 97227",
+            "latitude": 45.5488429,
+            "longitude": -122.6676567,
+            "rating": 3.1,
+            "ratingCount": 105,
+            "type": "Eating disorder treatment center",
+            "types": [
+                "Eating disorder treatment center",
+                "Counselor",
+                "Mental health clinic",
+                "Nurse practitioner",
+                "Pediatrician"
+            ],
+            "website": "http://www.kartiniclinic.com/",
+            "phoneNumber": "(503) 249-8851",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPYoaRs6YCXh4IdddL5ct0l3VtXvwdqQTauy_hq",
+            "cid": "504364639524135516",
+            "fid": "0x5495a7467abcfb79:0x6ffdcf7a81aa25c",
+            "placeId": "ChIJefu8ekanlVQRXKIaqPfc_wY"
+        }
+    ],
+    "credits": 3
+}

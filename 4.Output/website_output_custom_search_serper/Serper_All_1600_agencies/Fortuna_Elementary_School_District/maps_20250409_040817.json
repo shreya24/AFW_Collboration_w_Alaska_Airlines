@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Fortuna Elementary School District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5967019,-124.1547177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fortuna Elementary School District",
+            "address": "534 12th St, Fortuna, CA 95540",
+            "latitude": 40.5967019,
+            "longitude": -124.15471769999999,
+            "type": "School district office",
+            "types": [
+                "School district office"
+            ],
+            "website": "https://www.fortunaesd.com/",
+            "phoneNumber": "(707) 725-2293",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=83Yntu6sBE8NDweED3RkuQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=256.7081&pitch=0&thumbfov=100",
+            "cid": "2946646820659016904",
+            "fid": "0x54d40e415ad1173b:0x28e497abdfea34c8",
+            "placeId": "ChIJOxfRWkEO1FQRyDTq36uX5Cg"
+        }
+    ],
+    "credits": 3
+}

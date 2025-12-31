@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "University of Hawai\u02bbi Maui College",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8896179,-156.4814158,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Hawai\u02bbi Maui College",
+            "address": "310 W Kaahumanu Ave, Kahului, HI 96732",
+            "latitude": 20.8903364,
+            "longitude": -156.4794948,
+            "rating": 4.5,
+            "ratingCount": 34,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "http://maui.hawaii.edu/",
+            "phoneNumber": "(808) 984-3500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8jO4q14xB2KChzn1JAGn7nWulGqRXkWz8ZtoP0C3Kya5P_iacKv_Lz6c_BZfWVAp-xyfJFxbZkBfNDfNfvtyxNOeGt0BsrtqQIJMSf7Ih9_UL9YFkYrnQCOBSrLvKPVN1q9Zk",
+            "cid": "16734704954895864804",
+            "fid": "0x79553725303345b5:0xe83d9d7e018993e4",
+            "placeId": "ChIJtUUzMCU3VXkR5JOJAX6dPeg"
+        },
+        {
+            "position": 2,
+            "title": "University of Hawai'i Maui Clg",
+            "address": "W Kaahumanu Ave, Kahului, HI 96732",
+            "latitude": 20.8888994,
+            "longitude": -156.48333689999998,
+            "type": "Private university",
+            "types": [
+                "Private university"
+            ],
+            "phoneNumber": "(808) 660-3720",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VcbRz0u8oW2M45OJrHMH6A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.60486&pitch=0&thumbfov=100",
+            "cid": "17894191023865463803",
+            "fid": "0x7c006ebaaaaaaaab:0xf854efedc07c03fb",
+            "placeId": "ChIJq6qqqrpuAHwR-wN8wO3vVPg"
+        }
+    ],
+    "credits": 3
+}

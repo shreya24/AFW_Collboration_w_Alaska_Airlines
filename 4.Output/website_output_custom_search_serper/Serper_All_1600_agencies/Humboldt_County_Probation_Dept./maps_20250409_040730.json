@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Humboldt County Probation Dept.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7955129,-124.1524135,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Humboldt County Probation Department",
+            "address": "2002 Harrison Ave, Eureka, CA 95501",
+            "latitude": 40.7894067,
+            "longitude": -124.14137179999999,
+            "rating": 2,
+            "ratingCount": 3,
+            "type": "Probation office",
+            "types": [
+                "Probation office"
+            ],
+            "website": "http://humboldtgov.org/145/Probation-Department",
+            "phoneNumber": "(707) 445-7401",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yvfqH4F-UfD8ezsmpKjaPQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=142.12662&pitch=0&thumbfov=100",
+            "cid": "16302566638381327737",
+            "fid": "0x54d3ffc9993e481b:0xe23e59fb9fda6579",
+            "placeId": "ChIJG0g-mcn_01QReWXan_tZPuI"
+        },
+        {
+            "position": 2,
+            "title": "Humboldt County Adult Probation",
+            "address": "555 H St suite d, Eureka, CA 95501",
+            "latitude": 40.801619099999996,
+            "longitude": -124.1634553,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "http://humboldtgov.org/149/Adult-Probation-Services",
+            "phoneNumber": "(707) 444-0600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuLsE5V0pVh_Y-5X9iEnR92AH548uLulwHqVzG",
+            "cid": "15848449188759583787",
+            "fid": "0x54d15563356b3d11:0xdbf1009188d7bc2b",
+            "placeId": "ChIJET1rNWNV0VQRK7zXiJEA8ds"
+        }
+    ],
+    "credits": 3
+}

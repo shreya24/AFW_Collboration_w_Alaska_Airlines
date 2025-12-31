@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Northcoast Neurosurgical Assoc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8096018,-118.1892401,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Coast Neurosurgical Associates",
+            "address": "2888 Long Beach Blvd # 240, Long Beach, CA 90806",
+            "latitude": 33.809601799999996,
+            "longitude": -118.18924009999999,
+            "rating": 4.7,
+            "ratingCount": 37,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://coastneurosurgery.com/",
+            "phoneNumber": "(562) 595-7696",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgufYfoJUt5xJ6Ii0l7X0SDwws5Vl_G9vkYzzk",
+            "cid": "17993380503731006373",
+            "fid": "0x80dd33ec0297d4d9:0xf9b5543c31536ba5",
+            "placeId": "ChIJ2dSXAuwz3YARpWtTMTxUtfk"
+        }
+    ],
+    "credits": 3
+}

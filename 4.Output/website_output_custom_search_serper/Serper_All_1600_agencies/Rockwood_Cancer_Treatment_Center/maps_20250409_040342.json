@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Rockwood Cancer Treatment Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6606694,-117.3315771,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rockwood Cancer Treatment Center",
+            "address": "12410 E Sinto Ave, Spokane Valley, WA 99216",
+            "latitude": 47.669438,
+            "longitude": -117.237394,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(509) 755-5850",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODL9CBq3I3mAEHLwawIDqB-YioctU7bqtXvBiz",
+            "cid": "9206542281136200034",
+            "fid": "0x549e200df65843bb:0x7fc4356d24bcd962",
+            "placeId": "ChIJu0NY9g0gnlQRYtm8JG01xH8"
+        },
+        {
+            "position": 2,
+            "title": "Rockwood Cancer Treatment Center: Keyes Ted W MD",
+            "address": "910 W 5th Ave, Spokane, WA 99204",
+            "latitude": 47.6519008,
+            "longitude": -117.4257603,
+            "type": "Radiotherapist",
+            "types": [
+                "Radiotherapist"
+            ],
+            "website": "http://www.rockwoodclinic.com/",
+            "phoneNumber": "(509) 838-2531",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vfcIR9jv3jQ4gwv-JkIFeQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=3.4851663&pitch=0&thumbfov=100",
+            "cid": "6832650873117774818",
+            "fid": "0x549e186596bc06dd:0x5ed273c4a67293e2",
+            "placeId": "ChIJ3Qa8lmUYnlQR4pNypsRz0l4"
+        }
+    ],
+    "credits": 3
+}

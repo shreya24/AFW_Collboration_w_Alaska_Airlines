@@ -1,0 +1,64 @@
+{
+    "searchParameters": {
+        "q": "Redrock Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.9111414,-112.7793007,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intermountain Health Redrock Pediatrics",
+            "address": "1380 E Medical Center Dr #3100, St. George, UT 84790",
+            "latitude": 37.097162999999995,
+            "longitude": -113.5538601,
+            "rating": 4,
+            "ratingCount": 100,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/redrock-pediatrics?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(435) 251-2740",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20139:30\u202fPM",
+                "Thursday": "8\u202fAM\u20139:30\u202fPM",
+                "Friday": "8\u202fAM\u20139:30\u202fPM",
+                "Saturday": "3\u20137\u202fPM",
+                "Sunday": "3\u20137\u202fPM",
+                "Monday": "8\u202fAM\u20139:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/redrock-pediatrics?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHyM1PwQ975orVat7V5pca7YbYNN1V8G3glEyx",
+            "cid": "3997135987268745249",
+            "fid": "0x80ca5adc09287cff:0x3778ae00b0157821",
+            "placeId": "ChIJ_3woCdxayoARIXgVsACueDc"
+        },
+        {
+            "position": 2,
+            "title": "Red Rock Pediatrics: Meyer Alice C",
+            "address": "800 Cove Pkwy, Cottonwood, AZ 86326",
+            "latitude": 34.725119899999996,
+            "longitude": -112.00474129999999,
+            "rating": 3,
+            "ratingCount": 8,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "website": "https://www.phoenixchildrenspediatrics.org/800-cove-pkwy",
+            "phoneNumber": "(928) 649-3003",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9aZjmc22-e2RNKtHstEhTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=331.8519&pitch=0&thumbfov=100",
+            "cid": "13842973528084044177",
+            "fid": "0x872d057e60c02da7:0xc01c1f14a095d991",
+            "placeId": "ChIJpy3AYH4FLYcRkdmVoBQfHMA"
+        }
+    ],
+    "credits": 3
+}

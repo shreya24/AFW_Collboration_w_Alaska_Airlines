@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Yakima Neighborhood Health website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Yakima Neighborhood Health Services: Home",
+            "link": "https://ynhs.org/",
+            "snippet": "For more information, please call (509) 454-4143. To contact the Joint Commission, follow this link: https://www.jointcommission.org/ ...",
+            "sitelinks": [
+                {
+                    "title": "Locations",
+                    "link": "https://ynhs.org/locations"
+                },
+                {
+                    "title": "Services",
+                    "link": "https://ynhs.org/services"
+                },
+                {
+                    "title": "Providers",
+                    "link": "https://ynhs.org/about/providers"
+                },
+                {
+                    "title": "Our Locations",
+                    "link": "https://ynhs.org/locations/yakima"
+                },
+                {
+                    "title": "Be Part of Something Big!",
+                    "link": "https://ynhs.org/about/careers"
+                }
+            ],
+            "position": 1
+        },
+        {
+            "title": "Yakima Neighborhood Health Services",
+            "link": "https://nhchc.org/grantee-directory/yakima-neighborhood-health-services-2/",
+            "snippet": "YNHS provides comprehensive medical, dental, behavioral health, vision, and basic needs assistance at nine locations in urban and rural settings in the Yakima ...",
+            "position": 2
+        }
+    ],
+    "credits": 1
+}

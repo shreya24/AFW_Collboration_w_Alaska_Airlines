@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Camp Mak-A-Dream",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5781592,-112.9367756,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Mak-A-Dream",
+            "address": "90 Church Rd, Goldcreek, MT 59733",
+            "latitude": 46.578159199999995,
+            "longitude": -112.93677559999999,
+            "rating": 5,
+            "ratingCount": 53,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "https://www.campdream.org/",
+            "phoneNumber": "(406) 288-3030",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNv0gb0YaCp3j7Qp4mCdcue_0eB7ZGk5_dxpB1w",
+            "cid": "13188867261931629804",
+            "fid": "0x535c892cd802bfff:0xb70844e5a936acec",
+            "placeId": "ChIJ_78C2CyJXFMR7Kw2qeVECLc"
+        }
+    ],
+    "credits": 3
+}

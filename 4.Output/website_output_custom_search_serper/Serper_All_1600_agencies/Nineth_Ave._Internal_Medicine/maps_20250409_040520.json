@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Nineth Ave. Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.730754,-104.934277,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ninth Avenue Internal Medicine",
+            "address": "4500 E 9th Ave #140, Denver, CO 80220",
+            "latitude": 39.730754,
+            "longitude": -104.934277,
+            "rating": 4.7,
+            "ratingCount": 420,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.nineim.com/",
+            "phoneNumber": "(303) 394-2152",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.nineim.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.zocdoc.com/practice/ninth-avenue-internal-medicine-15182?LocIdent=25098&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_eunUqdaJxUeXpKq2Zdps0R-lo__imzDFzNvki6Rf1vE3TYHx-entity&rwg_token=AAiGsoaZ-vZ9nziuHYpEzt2G_WtoZcUl_JyQp_XSvUw_MNafiQlWITiykhCB2PGO4ZMugCcGMYRdCKIxsodXGGT9NoL_IlVCOA%3D%3D",
+                "https://www.tebra.com/care/practice/ninth-avenue-internal-medicine-403344?lid=3004418380&rwg_token=AAiGsoaxJqfCi52SLDHY6IZpDrNbDXwi14lHJ0_tpSEkFpceXUFg2MbK749ayNLuVCimifvgAgbJYfkPHnw3igm248dKA5IN8g%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOsM2W5yzdO0hEFg2xyA2k2cU4Q2QdqFrqG5Soc",
+            "cid": "15494824234731055750",
+            "fid": "0x876c7c1c3d82e591:0xd708ac8be0422a86",
+            "placeId": "ChIJkeWCPRx8bIcRhipC4IusCNc"
+        }
+    ],
+    "credits": 3
+}

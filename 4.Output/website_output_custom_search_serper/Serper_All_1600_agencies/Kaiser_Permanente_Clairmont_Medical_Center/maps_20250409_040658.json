@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Clairmont Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8318353,-117.1454124,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente San Diego Medical Center",
+            "address": "9455 Clairemont Mesa Blvd, San Diego, CA 92123",
+            "latitude": 32.830009499999996,
+            "longitude": -117.12491419999999,
+            "rating": 3.8,
+            "ratingCount": 536,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Kaiser-Permanente-San-Diego-Medical-Center-331581?utm_source=GMB_listing",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOexF1Z4B-KEFV7x5dJrv4cCFPoirSbCgtsERs",
+            "cid": "13901917293918604633",
+            "fid": "0x80dbfe4b20b72401:0xc0ed881f90e0cd59",
+            "placeId": "ChIJASS3IEv-24ARWc3gkB-I7cA"
+        },
+        {
+            "position": 2,
+            "title": "Kaiser Permanente Clairemont Mesa Medical Offices",
+            "address": "6911 Convoy Ct, San Diego, CA 92111",
+            "latitude": 32.8336611,
+            "longitude": -117.1659107,
+            "rating": 4,
+            "ratingCount": 136,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Clairemont-Mesa-Medical-Offices-339715",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNT1Qzb02zQ4L-6g3dxM9pH3ueLg9P4rv1HL40u",
+            "cid": "6022752347118830421",
+            "fid": "0x80dbff8485ad6ecf:0x53951d598c2b0355",
+            "placeId": "ChIJz26thYT_24ARVQMrjFkdlVM"
+        }
+    ],
+    "credits": 3
+}

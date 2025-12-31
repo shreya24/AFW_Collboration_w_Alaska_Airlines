@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Central MT Skilled Nursing address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Central Montana Nursing & Rehabilitation Center",
+            "link": "https://phppd.providence.org/BaseSearch/Facility/View/114033538588750?AltCareDisclaimer=True&Distance=5&GoBackFromSearch=False&GoToSearch=True&HealthPlanBaseID=50000&HealthPlanID=53101&MemberSearch=True&PlanName=Providence+Choice+Network&ProvSwedishPHS=False&ProviderTypeName=Facility&ResultsPerPage=50&SearchGroup=BaseSearch&ShowAll=False&TruHearing=True&Type=Provider&ProviderSERPIndex=13&OrderedHPProvIDString=114033546161231%2C114033546161697%2C114033542022631%2C114033547371176%2C114033542023584%2C114033539296299%2C114033536836832%2C114033547371296%2C114033542022569%2C114033547370735%2C114033544565512%2C114033546162080%2C114033531740597%2C114033538588750%2C114033542023317%2C114033546160965%2C114033547371640%2C114033542025355%2C114033529431715%2C114033529427999%2C114033546070277%2C114033546070276%2C114033529429285%2C114033540047481%2C114033536960983%2C114033529423851%2C114033529427063%2C114033529429917%2C114033529424977%2C114033546481123%2C114033538215506%2C114033544279632%2C114033546133851%2C114033538807131%2C114033529431602%2C114033529437135%2C114033529436437%2C114033529423085%2C114033529423607%2C114033529421345%2C114033539296300%2C114033529422245%2C114033529438027%2C114033529428211%2C114033529424858%2C114033529422761%2C114033539135204%2C114033542346545%2C114033529421640%2C114033538807132",
+            "snippet": "Open a location dialog with the map focused on the address: 410 Wendell Ave, Lewistown, MT 59457-2261 410 Wendell Ave, Lewistown, MT 59457-2261.",
+            "position": 1
+        },
+        {
+            "title": "CENTRAL MONTANA NURSING AND REHABILITATION CENTER",
+            "link": "https://www.yelp.com/biz/central-montana-nursing-and-rehabilitation-center-lewistown",
+            "snippet": "Map \u00b7 410 Wendell Ave. Lewistown, MT 59457. Directions \u00b7 (406) 538-6225. Call Now \u00b7 More Info. Hours \u00b7 Other Amenities. Does Central Montana Nursing And ...",
+            "position": 2
+        },
+        {
+            "title": "Central Montana Nursing & Rehabilitation Center - Medicare",
+            "link": "https://www.medicare.gov/care-compare/details/nursing-home/275064/view-all?city=Lewistown&state=MT&zipcode=59457",
+            "snippet": "Phone Number. (406) 535-6229. Save to Favorites. Ratings. Ratings. Overall ... How Medicare covers skilled nursing facility care. Conditions treatedServices ...",
+            "position": 3
+        },
+        {
+            "title": "Central Montana Nursing and Rehabilitation Center - Enjoy Lewistown",
+            "link": "https://www.enjoylewistown.com/central-montana-nursing-and-rehabilitation-center",
+            "snippet": "Nestled in one of Lewistown's quiet residential neighborhoods, the senior care facility is located within easy reach of Lewistown's acute hospitals.",
+            "attributes": {
+                "Missing": "Skilled | Show results with:Skilled"
+            },
+            "position": 4
+        },
+        {
+            "title": "Central Montana Skilled Nursing, 408 Wendell Ave, Lewistown, MT ...",
+            "link": "https://www.mapquest.com/us/montana/central-montana-skilled-nursing-351470542",
+            "snippet": "Central Montana Skilled Nursing. +1 (406) 535-6225 \u00b7 Website. More. Directions. Advertisement. Advertisement. 408 Wendell Ave. Lewistown, MT 59457.",
+            "position": 5
+        }
+    ],
+    "places": [
+        {
+            "title": "Von Sola Private Assisted Living",
+            "address": "Virginia Beach, VA",
+            "rating": 5,
+            "ratingCount": 11,
+            "cid": "8580196286042481334"
+        },
+        {
+            "title": "Yellowstone River Nursing and Rehabilitation",
+            "address": "Billings, MT",
+            "rating": 2.1,
+            "ratingCount": 36,
+            "cid": "7732806526172619631"
+        },
+        {
+            "title": "Yanique'z Daycare/practical Nurse",
+            "address": "Nursing home",
+            "rating": 5,
+            "ratingCount": 2,
+            "cid": "13800337827284506724"
+        }
+    ],
+    "credits": 1
+}

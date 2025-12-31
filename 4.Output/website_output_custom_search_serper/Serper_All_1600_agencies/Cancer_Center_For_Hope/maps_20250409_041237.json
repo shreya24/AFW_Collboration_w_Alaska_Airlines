@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cancer Center For Hope",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.2001832,-81.0541848,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Halifax Health - Cancer Center for Hope",
+            "address": "303 N Clyde Morris Blvd, Daytona Beach, FL 32114",
+            "latitude": 29.200183199999998,
+            "longitude": -81.0541848,
+            "rating": 4,
+            "ratingCount": 38,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.halifaxhealth.org/locations/cancer-care/center-oncology-daytona-beach",
+            "phoneNumber": "(386) 425-4210",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB95q6cLnHwwZLzQIhbhpQ-pyOwBsbq9eheyrH5WdcCQZbbY9ncxMN2Mlxz6Qv54E3AvQRioK3OKwdFpAByCihC56Tz57H8ocx-xrSOWrmP5JvFyqmhprfj20CRqmwmnnPI4zPRkkQ",
+            "cid": "8700282132731847857",
+            "fid": "0x88e6d95ccf9e5015:0x78bd9c80ef28e4b1",
+            "placeId": "ChIJFVCez1zZ5ogRseQo74CcvXg"
+        }
+    ],
+    "credits": 3
+}

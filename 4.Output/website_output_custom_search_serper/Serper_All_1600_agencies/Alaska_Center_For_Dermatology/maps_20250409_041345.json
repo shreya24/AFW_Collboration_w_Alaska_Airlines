@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Alaska Center For Dermatology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1862778,-149.8216278,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Center for Dermatology",
+            "address": "3841 Piper St Suite T4-020, Anchorage, AK 99508",
+            "latitude": 61.1862778,
+            "longitude": -149.8216278,
+            "rating": 4.8,
+            "ratingCount": 2464,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist",
+                "Skin care clinic"
+            ],
+            "website": "https://www.dermalaska.com/",
+            "phoneNumber": "(907) 646-8500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1pDBKFN1E92fRH8Zsys-IiTzkuIC_OZEsnhxA",
+            "cid": "18424847612538080107",
+            "fid": "0x56c897072c6b9f7b:0xffb23548da094b6b",
+            "placeId": "ChIJe59rLAeXyFYRa0sJ2kg1sv8"
+        }
+    ],
+    "credits": 3
+}

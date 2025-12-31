@@ -1,0 +1,374 @@
+{
+    "searchParameters": {
+        "q": "California Pacific Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6788873,-122.3830247,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CPMC Davies Campus",
+            "address": "601 Duboce Ave, San Francisco, CA 94117",
+            "latitude": 37.7682937,
+            "longitude": -122.4344995,
+            "rating": 3.8,
+            "ratingCount": 190,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-davies-campus",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAjJCVF9xK1W69lpUWTaE15B6ssNdFxUKtgT5W",
+            "cid": "16590229511571084107",
+            "fid": "0x808581ada648eab3:0xe63c55d78b65934b",
+            "placeId": "ChIJs-pIpq2BhYARS5Nli9dVPOY"
+        },
+        {
+            "position": 2,
+            "title": "California Pacific Medical Center",
+            "address": "3555 Cesar Chavez St, San Francisco, CA 94110",
+            "latitude": 37.7477047,
+            "longitude": -122.4206925,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "http://www.cpmc.org/",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=42s2HqpmanzQnUUD_Aeb8Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=171.18782&pitch=0&thumbfov=100",
+            "cid": "10803827579726923349",
+            "fid": "0x808f7e43d703a01b:0x95eee7f150310655",
+            "placeId": "ChIJG6AD10N-j4ARVQYxUPHn7pU"
+        },
+        {
+            "position": 3,
+            "title": "CPMC Mission Bernal Campus & Orthopedic Institute",
+            "address": "3555 Cesar Chavez St, San Francisco, CA 94110",
+            "latitude": 37.7475411,
+            "longitude": -122.4211318,
+            "rating": 3.3,
+            "ratingCount": 79,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-mission-bernal-campus-orthopedic-institute",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOazXFdExLLrSr2zdMNCiZBClipUUbIrULklbvG",
+            "cid": "485020966413670085",
+            "fid": "0x808f7e43d80e8e17:0x6bb23ffcbb416c5",
+            "placeId": "ChIJF44O2EN-j4ARxRa0y_8juwY"
+        },
+        {
+            "position": 4,
+            "title": "CPMC Pacific Heights Outpatient Center | 2333 Buchanan Street",
+            "address": "2333 Buchanan St, San Francisco, CA 94115",
+            "latitude": 37.790738,
+            "longitude": -122.43169449999999,
+            "rating": 4.2,
+            "ratingCount": 48,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-pacific-heights-outpatient-center-2333-buchanan-street",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_ZxeXqL3GGCrzANxgoxskM26IKasY9dZjN8E8",
+            "cid": "2068813887620684009",
+            "fid": "0x808561634a249013:0x1cb5e7450e0698e9",
+            "placeId": "ChIJE5AkSmNhhYAR6ZgGDkXntRw"
+        },
+        {
+            "position": 5,
+            "title": "CPMC Van Ness Campus",
+            "address": "1101 Van Ness Ave, San Francisco, CA 94109",
+            "latitude": 37.785997,
+            "longitude": -122.42230199999999,
+            "rating": 3.5,
+            "ratingCount": 230,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-van-ness-campus",
+            "phoneNumber": "(415) 600-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSCj4hGKH_OYiW-2LlHDyiWQdPQSh6M8JTt2ok",
+            "cid": "2595098014896950106",
+            "fid": "0x808580bddec11691:0x2403a3e527410b5a",
+            "placeId": "ChIJkRbB3r2AhYARWgtBJ-WjAyQ"
+        },
+        {
+            "position": 6,
+            "title": "California Pacific Medical Center; Guedel Memorial Anesthesia Center",
+            "address": "2395 Sacramento St, San Francisco, CA 94115",
+            "latitude": 37.789904899999996,
+            "longitude": -122.43208159999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.cpmc.org/professionals/hslibrary/collections/guedel/",
+            "phoneNumber": "(415) 923-3240",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yjKq3WWx4H76PFV8WLadaw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=172.23752&pitch=0&thumbfov=100",
+            "cid": "3254716831744984682",
+            "fid": "0x808580c6fce807a1:0x2d2b13b6d8a5066a",
+            "placeId": "ChIJoQfo_MaAhYARagal2LYTKy0"
+        },
+        {
+            "position": 7,
+            "title": "CPMC Emergency, Van Ness Campus",
+            "address": "1260 Franklin St, San Francisco, CA 94109",
+            "latitude": 37.786164899999996,
+            "longitude": -122.42284629999999,
+            "rating": 3.4,
+            "ratingCount": 52,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-emergency-van-ness-campus",
+            "phoneNumber": "(415) 600-3333",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMZGuW3vQ2RHQlNutxjvGf9w9MbcHZvr30tqyJk",
+            "cid": "14735792851479197698",
+            "fid": "0x8085813156af8cb5:0xcc800d865c287802",
+            "placeId": "ChIJtYyvVjGBhYARAngoXIYNgMw"
+        },
+        {
+            "position": 8,
+            "title": "Surgical Services: California Pacific Medical Center: Pacific Campus",
+            "address": "2333 Buchanan St, San Francisco, CA 94115",
+            "latitude": 37.7908706,
+            "longitude": -122.4312411,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(415) 600-3288",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kiUINhuOOR8Yi9jd5yQpxA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=262.9324&pitch=0&thumbfov=100",
+            "cid": "3083678055766937349",
+            "fid": "0x8085673acf53b1d7:0x2acb6cda8ba7cf05",
+            "placeId": "ChIJ17FTzzpnhYARBc-ni9psyyo"
+        },
+        {
+            "position": 9,
+            "title": "Sutter Health - CPMC/PAMF Medical Office Building",
+            "address": "1100 Van Ness Ave, San Francisco, CA 94109",
+            "latitude": 37.7860775,
+            "longitude": -122.4209011,
+            "rating": 2.9,
+            "ratingCount": 15,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "http://www.sutterhealth.org/",
+            "phoneNumber": "(415) 600-0140",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAikOfIUlXcYzyxWBSpSord06Lah6MvuMmEozD",
+            "cid": "13870050363913475664",
+            "fid": "0x8085812a4e049191:0xc07c5151bdd71650",
+            "placeId": "ChIJkZEETiqBhYARUBbXvVFRfMA"
+        },
+        {
+            "position": 10,
+            "title": "Health Care Center: California Pacific Medical Center: St Luke's Campus",
+            "address": "1580 Valencia St #506, San Francisco, CA 94110",
+            "latitude": 37.746724199999996,
+            "longitude": -122.4206339,
+            "rating": 2.3,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "http://www.cpmc.org/services/slh-healthcarecenter.html?utm_medium=local&utm_source=google_plus-local&utm_campaign=local-San-Francisco-CPMC-54",
+            "phoneNumber": "(415) 641-6996",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPB80_oYs6jsdjARnwOTtB-RwcotRNbsc-hBml7",
+            "cid": "2497004871709854695",
+            "fid": "0x808f7e43c8218287:0x22a724b37caf8be7",
+            "placeId": "ChIJh4IhyEN-j4AR54uvfLMkpyI"
+        },
+        {
+            "position": 11,
+            "title": "Pacific Medical Center",
+            "address": "45 Castro St # 309, San Francisco, CA 94114",
+            "latitude": 37.7686242,
+            "longitude": -122.4354309,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/45-castro-street-care-center",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FzKlQUb7VIX6OYWHj_ZEKw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=271.17175&pitch=0&thumbfov=100",
+            "cid": "7359898583597270539",
+            "fid": "0x80d9550282abaf03:0x66239cc47237460b",
+            "placeId": "ChIJA6-rggJV2YARC0Y3csScI2Y"
+        },
+        {
+            "position": 12,
+            "title": "CPMC Emergency, Davies Campus",
+            "address": "601 Duboce Ave N. Tower Level A, San Francisco, CA 94117",
+            "latitude": 37.7682937,
+            "longitude": -122.4344995,
+            "rating": 3.2,
+            "ratingCount": 22,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/cpmc-emergency-davies-campus",
+            "phoneNumber": "(415) 600-0600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMyVS6H6iiBGIYkuHDwqdCXKq1GFMeG87lh9tow",
+            "cid": "11157398798145782568",
+            "fid": "0x808580a76dbebb0d:0x9ad70b17acd98328",
+            "placeId": "ChIJDbu-baeAhYARKIPZrBcL15o"
+        },
+        {
+            "position": 13,
+            "title": "California Pacific Medical Center: Washington Stuart MD",
+            "address": "2323 Sacramento St, San Francisco, CA 94115",
+            "latitude": 37.7899755,
+            "longitude": -122.43156359999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(415) 600-1489",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vLCpfCNC4SaLX7HLGLgrrg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=161.08893&pitch=0&thumbfov=100",
+            "cid": "3342939819124292907",
+            "fid": "0x808559e16a84ff67:0x2e64820dc8697d2b",
+            "placeId": "ChIJZ_-EauFZhYARK31pyA2CZC4"
+        },
+        {
+            "position": 14,
+            "title": "California Pacific Med Center",
+            "address": "101 N El Camino Real # 1, San Mateo, CA 94401",
+            "latitude": 37.566904099999995,
+            "longitude": -122.3306186,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.cpmc.org/",
+            "phoneNumber": "(650) 343-8171",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4-7GpAPmdkV01SO2VR_Iew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=210.84622&pitch=0&thumbfov=100",
+            "cid": "4335402547717379123",
+            "fid": "0x808f9e745eeb72b3:0x3c2a71a5af049433",
+            "placeId": "ChIJs3LrXnSej4ARM5QEr6VxKjw"
+        }
+    ],
+    "credits": 3
+}

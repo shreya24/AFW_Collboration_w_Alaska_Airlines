@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "San Francisco VA medical center  415-221",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7824225,-122.4511689,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Francisco VA Medical Center",
+            "address": "4150 Clement St, San Francisco, CA 94121",
+            "latitude": 37.782336199999996,
+            "longitude": -122.50528999999999,
+            "rating": 4.3,
+            "ratingCount": 422,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.sanfrancisco.va.gov/",
+            "phoneNumber": "(415) 221-4810",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXEOXWUN0xM_GmLX93fG6Q6REaOCBXl0hb3Hgh",
+            "cid": "10336824218251549044",
+            "fid": "0x808587b2597df76b:0x8f73c6dc1289d974",
+            "placeId": "ChIJa_d9WbKHhYARdNmJEtzGc48"
+        },
+        {
+            "position": 2,
+            "title": "San Francisco VA Downtown Clinic",
+            "address": "401 3rd St, San Francisco, CA 94107",
+            "latitude": 37.782508799999995,
+            "longitude": -122.39704789999999,
+            "rating": 4.2,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.sanfrancisco.va.gov/locations/downtownclinic.asp",
+            "phoneNumber": "(415) 281-5100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwCFZVMwYpZLwmatMkSYNzHLGIK9wd2iJdcR-c",
+            "cid": "358072781446185938",
+            "fid": "0x8085807ec06fb5e1:0x4f8214c2dd603d2",
+            "placeId": "ChIJ4bVvwH6AhYAR0gPWLUwh-AQ"
+        }
+    ],
+    "credits": 3
+}

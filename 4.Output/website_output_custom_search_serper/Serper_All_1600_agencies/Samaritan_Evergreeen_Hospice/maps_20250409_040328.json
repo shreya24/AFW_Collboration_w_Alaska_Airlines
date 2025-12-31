@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Samaritan Evergreeen Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.6012896,-123.0773373,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Samaritan Evergreen Hospice",
+            "address": "4600 Evergreen St SE, Albany, OR 97322",
+            "latitude": 44.6012896,
+            "longitude": -123.0773373,
+            "rating": 4.4,
+            "ratingCount": 40,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://samhealth.org/find-a-location/samaritan-evergreen-hospice/",
+            "phoneNumber": "(541) 812-4662",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_l9p44CtYdFCEfoufcg1FThNCpLMSP8YSX5TqGI9zcPnn_vIyeVA9OGn-7TjEfKxY2f1j5oKUzc9NSyK1raqqyJul1UJx0F657kttJWNgq_uYh0FXvX9ZKRXfMRPv03Ld6X9vXng",
+            "cid": "6076656850627089591",
+            "fid": "0x54c06b51bdad7caf:0x54549f35cb9254b7",
+            "placeId": "ChIJr3ytvVFrwFQRt1SSyzWfVFQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Livingston Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6753179,-110.5263655,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Livingston HealthCare",
+            "address": "320 Alpenglow Ln, Livingston, MT 59047",
+            "latitude": 45.675317899999996,
+            "longitude": -110.5263655,
+            "rating": 3.3,
+            "ratingCount": 93,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Health consultant",
+                "Home health care service",
+                "Hospital",
+                "Medical Center",
+                "Pharmacy"
+            ],
+            "website": "http://www.livingstonhealthcare.org/",
+            "phoneNumber": "(406) 222-3541",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8nwEZma-BVs0ExDpUndR7D-WP6mybpmcIS46rBGE9-cMro7OdWozN2jz5b6IZlgx0TqPAPQOBYeNKeJR09GsYY4_OV41Z3XPizHSXiNhQhGSFzu6gqwrnwtcdEm0ldK6N49WnLsQ",
+            "cid": "2015737872791895760",
+            "fid": "0x53457b7bfd5d9f03:0x1bf956ea5c0ffed0",
+            "placeId": "ChIJA59d_Xt7RVMR0P4PXOpW-Rs"
+        }
+    ],
+    "credits": 3
+}

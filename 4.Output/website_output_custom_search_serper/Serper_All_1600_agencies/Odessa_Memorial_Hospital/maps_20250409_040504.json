@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Odessa Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.3314125,-118.6822877,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Odessa Memorial Healthcare Center",
+            "address": "502 E Amende Dr, Odessa, WA 99159",
+            "latitude": 47.3314125,
+            "longitude": -118.68228769999999,
+            "rating": 3.2,
+            "ratingCount": 9,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Assisted living facility",
+                "Doctor",
+                "Medical clinic",
+                "Physical therapist"
+            ],
+            "website": "https://www.omhc.org/",
+            "phoneNumber": "(509) 982-2611",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uGNQ-51zrKhEE1OBVsrpQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=254.14357&pitch=0&thumbfov=100",
+            "cid": "18062255865171623189",
+            "fid": "0x549eb8cc04afd707:0xfaaa0602edc53d15",
+            "placeId": "ChIJB9evBMy4nlQRFT3F7QIGqvo"
+        }
+    ],
+    "credits": 3
+}

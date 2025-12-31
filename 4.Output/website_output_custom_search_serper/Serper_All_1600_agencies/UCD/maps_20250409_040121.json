@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "UCD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5382322,-121.7617125,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of California, Davis",
+            "address": "1 Shields Ave, Davis, CA 95616",
+            "latitude": 38.538232199999996,
+            "longitude": -121.7617125,
+            "rating": 4.4,
+            "ratingCount": 930,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "University"
+            ],
+            "website": "https://www.ucdavis.edu/",
+            "phoneNumber": "(530) 752-1011",
+            "description": "Big, research-centric public school founded in 1905 & known for its science & engineering programs.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-4kZMqKKQKPVIotrvK91Dqcedk_uDG7JnOdG7iVBZmfriPEF7eECsVJLh529OajlZ6nSC6Fz1QB4Ms5b00nxPcwJ8jeuZe9sIEx10CamnBWIZRv4fOjvgs9XZ6px8paePVryL7RQ",
+            "cid": "17059559676938453812",
+            "fid": "0x80ead37f7489fa3f:0xecbfbb24087e8334",
+            "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w"
+        }
+    ],
+    "credits": 3
+}

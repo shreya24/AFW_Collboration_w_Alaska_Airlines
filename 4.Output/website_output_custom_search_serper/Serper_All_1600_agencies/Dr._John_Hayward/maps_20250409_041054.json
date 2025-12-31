@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Dr. John Hayward",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.0528185,-98.5883392,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. John B. Hayward, DO",
+            "address": "700 Lawn Ave, Sellersville, PA 18960",
+            "latitude": 40.363583,
+            "longitude": -75.326214,
+            "type": "Anesthesiologist",
+            "types": [
+                "Anesthesiologist"
+            ],
+            "website": "http://www.gvh.org/",
+            "phoneNumber": "(215) 453-4675",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xp4g_HUkwnSQTFipXYO1-A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=209.88675&pitch=0&thumbfov=100",
+            "cid": "4248984813610352486",
+            "fid": "0x89c41f93a9e5c0e7:0x3af76d2d07463f66",
+            "placeId": "ChIJ58DlqZMfxIkRZj9GBy1t9zo"
+        },
+        {
+            "position": 2,
+            "title": "Hayward John A MD",
+            "address": "1531 Esplanade, Chico, CA 95926",
+            "latitude": 39.742053999999996,
+            "longitude": -121.8504645,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(530) 332-7300",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RG4L_AN0BqjU9ZlC5r23SA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=55.92341&pitch=0&thumbfov=100",
+            "cid": "13893452837911345606",
+            "fid": "0x8083279c88af2389:0xc0cf75bed35939c6",
+            "placeId": "ChIJiSOviJwng4ARxjlZ0751z8A"
+        }
+    ],
+    "credits": 3
+}

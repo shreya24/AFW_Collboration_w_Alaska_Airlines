@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "William Sokol MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6447566,-117.8336599,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Allergy & Asthma Adults Children: Sokol Jr William N MD",
+            "address": "400 Newport Center Dr #406, Newport Beach, CA 92660",
+            "latitude": 33.6141605,
+            "longitude": -117.8723965,
+            "rating": 3.8,
+            "ratingCount": 11,
+            "type": "Allergist",
+            "types": [
+                "Allergist"
+            ],
+            "phoneNumber": "(949) 645-3374",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9T964axzVahRyX7NcDll_jApLKsOcCQeiNNk6hmxcjrA1K9eLcnx8IfPFtn7IQEdGnmyBzk79QVEptMMAdzOIEDYFdV3dS3564smu8GnsuaxKB75pQBUN0Xg62RPaBdZLcjDC3-w",
+            "cid": "2889595571255543097",
+            "fid": "0x80dcdfef5195bc07:0x2819e7dcc13a8539",
+            "placeId": "ChIJB7yVUe_f3IAROYU6wdznGSg"
+        },
+        {
+            "position": 2,
+            "title": "WILLIAM N SOKOL JR MD",
+            "address": "4950 Barranca Pkwy #306, Irvine, CA 92604",
+            "latitude": 33.6753527,
+            "longitude": -117.7949233,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Allergist",
+            "types": [
+                "Allergist"
+            ],
+            "phoneNumber": "(949) 651-1427",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tquhoWvSewlGbHZG4BSQ6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=118.106384&pitch=0&thumbfov=100",
+            "cid": "13876009012388778837",
+            "fid": "0x80dcddaff1832b91:0xc0917cadb38d5355",
+            "placeId": "ChIJkSuD8a_d3IARVVONs618kcA"
+        }
+    ],
+    "credits": 3
+}

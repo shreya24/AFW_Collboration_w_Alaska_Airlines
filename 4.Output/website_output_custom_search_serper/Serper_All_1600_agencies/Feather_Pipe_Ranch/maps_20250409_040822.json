@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Feather Pipe Ranch",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5274875,-112.1682283,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Feathered Pipe Ranch",
+            "address": "2409 Bear Crk Rd, Helena, MT 59601",
+            "latitude": 46.5274875,
+            "longitude": -112.1682283,
+            "rating": 5,
+            "ratingCount": 38,
+            "type": "Yoga retreat center",
+            "types": [
+                "Yoga retreat center",
+                "Event venue",
+                "Health resort",
+                "Meditation center",
+                "Non-profit organization",
+                "Retreat center",
+                "Wellness center"
+            ],
+            "website": "https://featheredpipe.com/",
+            "phoneNumber": "(406) 442-8196",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxBVAnwAdZIVvS7ZL2NmSTCBJSwMgeIHOI6pnn",
+            "cid": "17751594050713350828",
+            "fid": "0x534355187f1685af:0xf65a54bcb5b4f2ac",
+            "placeId": "ChIJr4UWfxhVQ1MRrPK0tbxUWvY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "St. Elias Specialty Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1765643,-149.8802333,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Elias Specialty Hospital",
+            "address": "4800 Cordova St, Anchorage, AK 99503",
+            "latitude": 61.176564299999995,
+            "longitude": -149.8802333,
+            "rating": 3.6,
+            "ratingCount": 21,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Hospital department"
+            ],
+            "website": "https://www.providence.org/locations/ak/st-elias-specialty-hospital?ls=location&y_source=1_MjUwMTczODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 561-3333",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOI73wEWPXihEAsTxQmFhLy3oTwLlt_gXnjbAvl",
+            "cid": "5867968233680591478",
+            "fid": "0x56c89796987ee429:0x516f3604c9ceda76",
+            "placeId": "ChIJKeR-mJaXyFYRdtrOyQQ2b1E"
+        }
+    ],
+    "credits": 3
+}

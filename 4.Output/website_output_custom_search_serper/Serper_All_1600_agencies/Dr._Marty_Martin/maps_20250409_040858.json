@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Dr. Marty Martin",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8384181,-119.7153917,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "\u201cMarty\u201d Merle Martin Jr., MD F.A.A.P.",
+            "address": "275 Herndon Ave, Clovis, CA 93612",
+            "latitude": 36.8384181,
+            "longitude": -119.7153917,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.peachwoodmedicalgroup.com/",
+            "phoneNumber": "(559) 324-6200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6RgZVMZlELFQFvcjk3qZRA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=274.95963&pitch=0&thumbfov=100",
+            "cid": "17213790232952230080",
+            "fid": "0x80945cc0c7d33615:0xeee3ab03a934d0c0",
+            "placeId": "ChIJFTbTx8BclIARwNA0qQOr4-4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,596 @@
+{
+    "searchParameters": {
+        "q": "Northern Valley Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.5978096,-96.8384991,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Valley Hospital",
+            "address": "126 S Whitcomb Ave, Tonasket, WA 98855",
+            "latitude": 48.7066521,
+            "longitude": -119.43843349999999,
+            "rating": 3.5,
+            "ratingCount": 45,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Doctor",
+                "Medical Center",
+                "Nursing home"
+            ],
+            "website": "http://www.nvhospital.org/",
+            "phoneNumber": "(509) 486-2151",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-wnC0f_F7E9k4jY6QSuxZjKckR1JK4HA-PeAc",
+            "cid": "13500062029355635653",
+            "fid": "0x549d29bac09e3dd7:0xbb59dae3a97b53c5",
+            "placeId": "ChIJ1z2ewLopnVQRxVN7qePaWbs"
+        },
+        {
+            "position": 2,
+            "title": "The Valley Hospital",
+            "address": "4 Valley Health Plaza, Paramus, NJ 07652",
+            "latitude": 40.9649595,
+            "longitude": -74.07172849999999,
+            "rating": 2.8,
+            "ratingCount": 827,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.valleyhealth.com/valley-hospital",
+            "phoneNumber": "(201) 447-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoqoWl8W-bit9TlL7n3Q4Z6eU7j0W98sNv_Gdj",
+            "cid": "9402565385315299367",
+            "fid": "0x89c2e4b8aa8a0f1b:0x827c9f66a91a3027",
+            "placeId": "ChIJGw-KqrjkwokRJzAaqWaffII"
+        },
+        {
+            "position": 3,
+            "title": "Northern Regional Hospital",
+            "address": "830 Rockford St, Mt Airy, NC 27030",
+            "latitude": 36.488966999999995,
+            "longitude": -80.611891,
+            "rating": 2.8,
+            "ratingCount": 212,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General hospital",
+                "Medical laboratory",
+                "Surgical center"
+            ],
+            "website": "http://www.choosenorthern.org/",
+            "phoneNumber": "(336) 719-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXItpS-7vWQW3Lh3HsOUnAfpgceKPOh_MzgmB6",
+            "cid": "8599394377152743712",
+            "fid": "0x88523b5d3c0ecfa1:0x77572f9fddae4920",
+            "placeId": "ChIJoc8OPF07UogRIEmu3Z8vV3c"
+        },
+        {
+            "position": 4,
+            "title": "NorthBay Health VacaValley Hospital",
+            "address": "1000 Nut Tree Rd, Vacaville, CA 95687",
+            "latitude": 38.355705199999996,
+            "longitude": -121.9516979,
+            "rating": 2.9,
+            "ratingCount": 102,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Surgical center"
+            ],
+            "website": "https://www.northbay.org/about/northbay-vacavalley-hospital.cfm?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(707) 624-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO_Bf7xfeubxJGBBlP04Ee_uyYv40I63sJyr85G",
+            "cid": "4963842686008829795",
+            "fid": "0x80853d210cf67729:0x44e31c9f947a2763",
+            "placeId": "ChIJKXf2DCE9hYARYyd6lJ8c40Q"
+        },
+        {
+            "position": 5,
+            "title": "Santa Clara Valley Medical Center",
+            "address": "751 S Bascom Ave, San Jose, CA 95128",
+            "latitude": 37.3139499,
+            "longitude": -121.9340007,
+            "rating": 2.9,
+            "ratingCount": 953,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Allergist",
+                "Dermatologist",
+                "Dialysis center",
+                "Emergency care physician",
+                "Emergency care service",
+                "General hospital",
+                "Hospital",
+                "Hospital department",
+                "Internist",
+                "Medical laboratory",
+                "Pathologist",
+                "Pediatrician",
+                "Sports medicine physician",
+                "Surgical center"
+            ],
+            "website": "https://www.scvmc.org/",
+            "phoneNumber": "(408) 885-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVqiE_LenuYc_AE2sF9d8irPs0u3cAdEzm39NN",
+            "cid": "16193186071065437632",
+            "fid": "0x808fcb31a15c82e7:0xe0b9c0efbba8a5c0",
+            "placeId": "ChIJ54JcoTHLj4ARwKWou-_AueA"
+        },
+        {
+            "position": 6,
+            "title": "Valley Regional Hospital",
+            "address": "243 Elm St, Claremont, NH 03743",
+            "latitude": 43.3847206,
+            "longitude": -72.34109219999999,
+            "rating": 3,
+            "ratingCount": 70,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://vrh.org/",
+            "phoneNumber": "(603) 542-7771",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjMISHGO89cC-IGul-NFM0GYab5uED_GilxJo1",
+            "cid": "6677029286059852786",
+            "fid": "0x89e1c1fac9d7ba0f:0x5ca992c25e7a43f2",
+            "placeId": "ChIJD7rXyfrB4YkR8kN6XsKSqVw"
+        },
+        {
+            "position": 7,
+            "title": "Upper Connecticut Valley Hospital",
+            "address": "181 Corliss Ln, Colebrook, NH 03576",
+            "latitude": 44.9047646,
+            "longitude": -71.4812079,
+            "rating": 3.1,
+            "ratingCount": 24,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency care physician",
+                "Gynecologist",
+                "Home health care service",
+                "Hospital",
+                "Internist",
+                "Medical laboratory",
+                "Nursing home",
+                "Orthopedic surgeon",
+                "Radiologist",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "http://www.ucvh.org/",
+            "phoneNumber": "(603) 237-4971",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7qFKaqnJCLNGrifCi5tN9iJM5Oe7pEW4nF8Yq",
+            "cid": "4333401017686857073",
+            "fid": "0x4cb6bdf122204a13:0x3c235544288a9571",
+            "placeId": "ChIJE0ogIvG9tkwRcZWKKERVIzw"
+        },
+        {
+            "position": 8,
+            "title": "North Valley Health Center",
+            "address": "300 Good Samaritan Dr, Warren, MN 56762",
+            "latitude": 48.1913294,
+            "longitude": -96.7730766,
+            "rating": 4.1,
+            "ratingCount": 16,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.northvalleyhealth.org/",
+            "phoneNumber": "(218) 745-4211",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcoqmrxKjXo3Ab_Cof79xXKXts9dWfcbrrtvS6",
+            "cid": "6664574035136059766",
+            "fid": "0x52c6ea7c27ee9a5f:0x5c7d52c647939976",
+            "placeId": "ChIJX5ruJ3zqxlIRdpmTR8ZSfVw"
+        },
+        {
+            "position": 9,
+            "title": "Valley County Health System Hospital",
+            "address": "2707 L St, Ord, NE 68862",
+            "latitude": 41.6027275,
+            "longitude": -98.9419132,
+            "rating": 3.3,
+            "ratingCount": 19,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family practice physician",
+                "Nurse practitioner",
+                "Otolaryngologist",
+                "Physician assistant",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.valleycountyhealthsystem.org/",
+            "phoneNumber": "(308) 728-4200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgm8nlStop9xFgAx8lVrJSMn49Qk1sl7Aqo9x8",
+            "cid": "17147937700191450219",
+            "fid": "0x879b76667719c04d:0xedf9b67c1270b46b",
+            "placeId": "ChIJTcAZd2Z2m4cRa7RwEny2-e0"
+        },
+        {
+            "position": 10,
+            "title": "Northern Nevada Medical Center",
+            "address": "2375 E Prater Way, Sparks, NV 89434",
+            "latitude": 39.541041299999996,
+            "longitude": -119.6972916,
+            "rating": 4.4,
+            "ratingCount": 2733,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.nnmc.com/?utm_source=Google-Business-Yext&utm_medium=organic",
+            "phoneNumber": "(775) 331-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4KkzW0nRN_khPkyuVaeFDRJNc7DA-HLUdoFXI",
+            "cid": "1383825831704848428",
+            "fid": "0x80993ea0166a5885:0x1334564319c6e82c",
+            "placeId": "ChIJhVhqFqA-mYARLOjGGUNWNBM"
+        },
+        {
+            "position": 11,
+            "title": "North Valley Hospital",
+            "address": "Whitefish, MT 59937",
+            "latitude": 48.3802769,
+            "longitude": -114.3313438,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.logan.org/logan-health-whitefish/",
+            "phoneNumber": "(406) 863-3500",
+            "cid": "6269455424010349711",
+            "fid": "0x5366429cb861eceb:0x5701947dbb486c8f",
+            "placeId": "ChIJ6-xhuJxCZlMRj2xIu32UAVc"
+        },
+        {
+            "position": 12,
+            "title": "Northern Valley Indian Health",
+            "address": "207 N Butte St, Willows, CA 95988",
+            "latitude": 39.5220322,
+            "longitude": -122.1957903,
+            "rating": 3.7,
+            "ratingCount": 38,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Doctor",
+                "Mental health clinic"
+            ],
+            "website": "https://nvih.org/",
+            "phoneNumber": "(530) 934-4641",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBQw8GitRnuCi2B5lu-v7AcUN-TKO5LNI64ZBo",
+            "cid": "8576014369246639830",
+            "fid": "0x8083053e70d58993:0x77041fa1939776d6",
+            "placeId": "ChIJk4nVcD4Fg4AR1naXk6EfBHc"
+        },
+        {
+            "position": 13,
+            "title": "Valley Health Center North County",
+            "address": "4151 Middlefield Rd, Palo Alto, CA 94303",
+            "latitude": 37.4172136,
+            "longitude": -122.1043811,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://scvmc.scvh.org/hospitals-clinics/valley-health-center-north-county",
+            "phoneNumber": "(888) 334-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOl5n708Oue2RtSrvVA1WhNnut_Y_DUAoZEMQIw",
+            "cid": "17337705247202337451",
+            "fid": "0x808fbb0009a8c2f3:0xf09be7102febe2ab",
+            "placeId": "ChIJ88KoCQC7j4ARq-LrLxDnm_A"
+        },
+        {
+            "position": 14,
+            "title": "The Valley Hospital #1",
+            "address": "650 Winters Ave, Paramus, NJ 07652",
+            "latitude": 40.9648233,
+            "longitude": -74.0720537,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8UQLdu-4PEbqV_QUcCY4RQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=120.8128&pitch=0&thumbfov=100",
+            "cid": "1899661712495505038",
+            "fid": "0x89c2fb003f425919:0x1a5cf4433eb46e8e",
+            "placeId": "ChIJGVlCPwD7wokRjm60PkP0XBo"
+        },
+        {
+            "position": 15,
+            "title": "Logan Health - Whitefish",
+            "address": "1600 Hospital Way, Whitefish, MT 59937",
+            "latitude": 48.3800646,
+            "longitude": -114.3308249,
+            "rating": 3.5,
+            "ratingCount": 99,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.logan.org/logan-health-whitefish/",
+            "phoneNumber": "(406) 863-3500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOEk4u46-JLVz1xOgwtWs2nrg0xVzxqgJyrGWe9",
+            "cid": "10297440276660100570",
+            "fid": "0x5366410890c3b12f:0x8ee7db5f9a201dda",
+            "placeId": "ChIJL7HDkAhBZlMR2h0gml_b544"
+        },
+        {
+            "position": 16,
+            "title": "Niobrara Valley Hospital",
+            "address": "401 5th St, Lynch, NE 68746",
+            "latitude": 42.8245631,
+            "longitude": -98.468482,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.nvhcares.org/",
+            "phoneNumber": "(402) 569-2451",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9xtChRGkNvyUZN2fn1NHv025G_70Wit1ed6LU",
+            "cid": "15294975081211995375",
+            "fid": "0x878500314e26f981:0xd442aaccd417a4ef",
+            "placeId": "ChIJgfkmTjEAhYcR76QX1MyqQtQ"
+        },
+        {
+            "position": 17,
+            "title": "Northern Valley Indian Health",
+            "address": "1990 Concord Ave, Chico, CA 95928",
+            "latitude": 39.7273789,
+            "longitude": -121.7921745,
+            "rating": 4.9,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Endocrinologist",
+                "Mental health service",
+                "Physical therapist",
+                "Podiatrist"
+            ],
+            "website": "http://nvih.org/",
+            "phoneNumber": "(530) 809-3300",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMaF4CmYL-SGghapoM3Q2lBYpPRFNwXPvoj_ali",
+            "cid": "12772219161458900948",
+            "fid": "0x80832985b5497c01:0xb14009a84031ffd4",
+            "placeId": "ChIJAXxJtYUpg4AR1P8xQKgJQLE"
+        },
+        {
+            "position": 18,
+            "title": "Northern Nevada Health System",
+            "address": "2345 E Prater Way # 111, Sparks, NV 89434",
+            "latitude": 39.5390496,
+            "longitude": -119.6975509,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://northernnevadahealth.com/?utm_source=Google-Business-Yext&utm_medium=organic",
+            "phoneNumber": "(775) 331-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsl8W3fd5bIfI6Yr-_wAdrsQV1TyEASvH5O4xR",
+            "cid": "2531735973876160304",
+            "fid": "0x80993fb23681d9fd:0x232288745bf75730",
+            "placeId": "ChIJ_dmBNrI_mYARMFf3W3SIIiM"
+        },
+        {
+            "position": 19,
+            "title": "North Valley Hospital: Emergency Room",
+            "address": "126 S Whitcomb Ave, Tonasket, WA 98855",
+            "latitude": 48.706561799999996,
+            "longitude": -119.43905919999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.nvhospital.org/",
+            "phoneNumber": "(509) 486-2151",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-DvdD13KIzdBSE0oU7MZ-g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=293.67526&pitch=0&thumbfov=100",
+            "cid": "2504179073511954263",
+            "fid": "0x549d29baf85ccc8d:0x22c0a19982a59757",
+            "placeId": "ChIJjcxc-LopnVQRV5elgpmhwCI"
+        },
+        {
+            "position": 20,
+            "title": "NorthBay Health Medical Center",
+            "address": "1200 B Gale Wilson Blvd, Fairfield, CA 94533",
+            "latitude": 38.2620937,
+            "longitude": -122.047389,
+            "rating": 2.7,
+            "ratingCount": 237,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital"
+            ],
+            "website": "https://www.northbay.org/about/northbay-medical-center.cfm?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+            "phoneNumber": "(707) 646-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.northbay.org/about/northbay-medical-center.cfm?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHU8o3V6lP8DPexbGJ87IW08zyAZ4QCmDmcGgj",
+            "cid": "2963409501832461970",
+            "fid": "0x80851428cfebad2b:0x2920253db8bdbe92",
+            "placeId": "ChIJK63rzygUhYARkr69uD0lICk"
+        }
+    ],
+    "credits": 3
+}

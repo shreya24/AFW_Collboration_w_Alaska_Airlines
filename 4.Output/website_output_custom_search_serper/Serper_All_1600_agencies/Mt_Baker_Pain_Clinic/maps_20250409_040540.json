@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Mt Baker Pain Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.967846,-122.4321954,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mt. Baker Pain Clinic - Bellingham (A Sound Pain Alliance Member)",
+            "address": "4029 Northwest Ave # 301, Bellingham, WA 98226",
+            "latitude": 48.7878275,
+            "longitude": -122.50711559999999,
+            "rating": 4.5,
+            "ratingCount": 171,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Medical laboratory",
+                "Pain management physician",
+                "Surgical center"
+            ],
+            "website": "https://www.soundpainalliance.com/mt-baker-pain-clinic/",
+            "phoneNumber": "(360) 752-0518",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gOrDZ2MThP_xZXmAapiYtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=179.32503&pitch=0&thumbfov=100",
+            "cid": "15027295615295450301",
+            "fid": "0x5485a345b73034a5:0xd08badbe7c786cbd",
+            "placeId": "ChIJpTQwt0WjhVQRvWx4fL6ti9A"
+        },
+        {
+            "position": 2,
+            "title": "Mt. Baker Pain Clinic - Burlington (A Sound Pain Alliance Member)",
+            "address": "340 E George Hopper Rd, Burlington, WA 98233",
+            "latitude": 48.451763799999995,
+            "longitude": -122.3311502,
+            "rating": 4.5,
+            "ratingCount": 167,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Surgical center"
+            ],
+            "website": "https://www.soundpainalliance.com/mt-baker-pain-clinic/",
+            "phoneNumber": "(360) 707-7260",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMi-yfZUBWdlf1lDSOpvGaG3P4uuQsnPxkbjGSK",
+            "cid": "1835449012620239716",
+            "fid": "0x54856c34f311e723:0x1978d32700922364",
+            "placeId": "ChIJI-cR8zRshVQRZCOSACfTeBk"
+        },
+        {
+            "position": 3,
+            "title": "Mt Baker Pain Clinic - Arlington (A Sound Pain Alliance Member)",
+            "address": "16410-16404 Smokey Point Blvd, Arlington, WA 98223",
+            "latitude": 48.1455497,
+            "longitude": -122.18397519999999,
+            "rating": 4.5,
+            "ratingCount": 102,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic"
+            ],
+            "website": "https://www.soundpainalliance.com/mt-baker-pain-clinic/",
+            "phoneNumber": "(360) 200-4388",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:15\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtzfygQqXskgMzAxGrmArPoMv0lgqF2WUz0rhk",
+            "cid": "11066273223227105658",
+            "fid": "0x5485521514bc79ef:0x99934cdd69de617a",
+            "placeId": "ChIJ73m8FBVShVQRemHead1Mk5k"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "YWCA San Diego County",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.716912,-117.1553652,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "YWCA San Diego County",
+            "address": "1012 C St, San Diego, CA 92101",
+            "latitude": 32.716912,
+            "longitude": -117.15536519999999,
+            "rating": 3.8,
+            "ratingCount": 17,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Domestic abuse treatment center",
+                "Homeless service",
+                "Social services organization"
+            ],
+            "website": "https://www.ywcasandiego.org/",
+            "phoneNumber": "(619) 239-0355",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNtaJyZ9NuePI-lB0u6hfruROQWvlbpe7d6Ao1O",
+            "cid": "4044956017999660300",
+            "fid": "0x80d954a0b72af749:0x3822921138f2c50c",
+            "placeId": "ChIJSfcqt6BU2YARDMXyOBGSIjg"
+        }
+    ],
+    "credits": 3
+}

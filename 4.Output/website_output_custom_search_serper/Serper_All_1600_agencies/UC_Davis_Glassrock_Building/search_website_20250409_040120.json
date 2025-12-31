@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "UC Davis Glassrock Building website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "knowledgeGraph": {
+        "title": "UC Davis Outpatient Clinic Glassrock Building",
+        "type": "Medical clinic in Sacramento, California",
+        "website": "https://health.ucdavis.edu/patients-visitors/locations/primary-care/glassrock-bldg-2521-stockton-blvd",
+        "rating": 5,
+        "ratingCount": 4,
+        "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7mf0K_sdZXfPUi3AwfH9yA&cb_client=search.gws-prod.gps&yaw=88.318474&pitch=0&thumbfov=100&w=240&h=360",
+        "attributes": {
+            "Address": "Glassrock Building, 2521 Stockton Blvd, Sacramento, CA 95817",
+            "Phone": "(916) 734-6900"
+        }
+    },
+    "organic": [
+        {
+            "title": "Glassrock Building | Primary Care Locations - UC Davis Health",
+            "link": "https://health.ucdavis.edu/patients-visitors/locations/primary-care/glassrock-bldg-2521-stockton-blvd",
+            "snippet": "Primary and specialty care services available at the UC Davis Health Glassrock Building clinic located at 2521 Stockton Boulevard in Sacramento, CA.",
+            "position": 1
+        },
+        {
+            "title": "Contact Us | Department of Pediatrics - UC Davis Health",
+            "link": "https://health.ucdavis.edu/pediatrics/contact-us/",
+            "snippet": "Pediatrics Clinic - Glassrock Building. 2521 Stockton Boulevard \u00b7 Sacramento, CA 95817. Main contact number: 916-734-3112 \u00b7 Online directions to Glassrock ...",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 2
+        },
+        {
+            "title": "UC Davis Department of Otolaryngology (Ear Nose & Throat)",
+            "link": "https://health.ucdavis.edu/otolaryngology/map/",
+            "snippet": "Next tall building is the Glassrock Building (outside sign will say Pediatrics, Otolaryngology, etc.) Turn left into parking lot directly after passing building ...",
+            "position": 3
+        },
+        {
+            "title": "PATH Glassrock Blood Draw Clinic - MIND Institute - UC Davis Health",
+            "link": "https://health.ucdavis.edu/mind-institute/clinic/access-to-healthcare/glassrock-clinic",
+            "snippet": "A dedicated blood draw clinic every Thursday afternoon for all children with autism and other neurodevelopmental disabilities.",
+            "attributes": {
+                "Missing": "Building website"
+            },
+            "position": 4
+        },
+        {
+            "title": "Maps and Directions | UC Davis Children's Hospital",
+            "link": "https://health.ucdavis.edu/children/directions/",
+            "snippet": "Glassrock Building. The Glassrock Building is located on the UC Davis Health campus in Sacramento. Clinical services provided at this ...",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "2521 stockton blvd. suite 3200 sacramento ca 95817"
+        },
+        {
+            "query": "UC Davis Pediatrics Sacramento"
+        },
+        {
+            "query": "UC Davis Stockton Blvd"
+        },
+        {
+            "query": "UC Davis Pediatrics Residency"
+        },
+        {
+            "query": "UC Davis Pediatrics Midtown"
+        },
+        {
+            "query": "Cypress building UC Davis"
+        },
+        {
+            "query": "2521 Stockton Blvd Ste 5200 Sacramento, CA 95817"
+        },
+        {
+            "query": "2521 Stockton blvd suite 4100 sacramento"
+        }
+    ],
+    "credits": 1
+}

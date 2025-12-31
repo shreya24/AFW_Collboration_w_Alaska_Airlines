@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "St. Johns Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.9501546,-96.8312491,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St John's Internal Medicine",
+            "address": "108 W Higham St, St Johns, MI 48879",
+            "latitude": 43.0036827,
+            "longitude": -84.5593035,
+            "rating": 3,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(989) 224-0646",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u201311\u202fAM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-tm5vZ6HGmgXzvCVJgHPMiD9qAE3YMgxS0QbXo2-WN0EVD3IcMoHIwoO--L9-Sz_pVKuW3rB_N3Zm7n4VJsK6PuraX5bJhWwgGgyEEg1IBKDW9r3_rCuiVxGwmoyLBR0elJTnc",
+            "cid": "15816165180261134236",
+            "fid": "0x8822f4538c0b510d:0xdb7e4e6f0e5def9c",
+            "placeId": "ChIJDVELjFP0IogRnO9dDm9Ofts"
+        },
+        {
+            "position": 2,
+            "title": "Henry Ford Internal Medicine - Grosse Pointe Woods",
+            "address": "19251 Mack Ave #333, Grosse Pointe Woods, MI 48236",
+            "latitude": 42.419637099999996,
+            "longitude": -82.9112382,
+            "rating": 4.7,
+            "ratingCount": 163,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.henryford.com/locations/internal-medicine-st-john-hospital?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+            "phoneNumber": "(313) 343-7280",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOR2R-5CWx7nuFrmrJYw5TN7D9oY4GBh276SQrb",
+            "cid": "10372070071322470358",
+            "fid": "0x8824d604f234a7e9:0x8ff0fec6baa2e7d6",
+            "placeId": "ChIJ6ac08gTWJIgR1ueiusb-8I8"
+        },
+        {
+            "position": 3,
+            "title": "St. John's Health Internal Medicine",
+            "address": "555 E Broadway Ave Suite 201, Jackson, WY 83001",
+            "latitude": 43.4806722,
+            "longitude": -110.7512601,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.tetonhospital.org/services/internal-medicine/",
+            "phoneNumber": "(307) 733-7222",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWhP7wP_IdFfp6vrKSVeb2nVoquHFyPBeIuZDc",
+            "cid": "14194078746686177419",
+            "fid": "0x53531a4583d00995:0xc4fb7f6aaa26c08b",
+            "placeId": "ChIJlQnQg0UaU1MRi8Amqmp_-8Q"
+        }
+    ],
+    "credits": 3
+}

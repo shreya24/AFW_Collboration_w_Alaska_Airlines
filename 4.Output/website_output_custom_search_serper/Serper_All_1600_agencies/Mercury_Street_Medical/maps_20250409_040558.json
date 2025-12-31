@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Mercury Street Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0107114,-112.541126,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mercury Street Medical Group, PLLC",
+            "address": "300 W Mercury St, Butte, MT 59701",
+            "latitude": 46.0107114,
+            "longitude": -112.54112599999999,
+            "rating": 3.8,
+            "ratingCount": 13,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Infectious disease physician",
+                "Medical laboratory",
+                "Medical office",
+                "Women's health clinic",
+                "Physical examination center",
+                "Research institute",
+                "Transportation service",
+                "Walk-in clinic"
+            ],
+            "website": "http://mercurystmed.com/",
+            "phoneNumber": "(406) 723-1300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwJ8uIBUwJGDU01WqnkU581F4l986VliV4vp_Q",
+            "cid": "13663199026343872785",
+            "fid": "0x535b09b56746dec3:0xbd9d6f1facb08911",
+            "placeId": "ChIJw95GZ7UJW1MREYmwrB9vnb0"
+        }
+    ],
+    "credits": 3
+}

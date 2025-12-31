@@ -1,0 +1,534 @@
+{
+    "searchParameters": {
+        "q": "UMC Primary Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1202302,-115.16826,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UMC Quick Care - Spring Valley",
+            "address": "4180 S Rainbow Blvd # 810, Las Vegas, NV 89103",
+            "latitude": 36.1121887,
+            "longitude": -115.2417409,
+            "rating": 4.2,
+            "ratingCount": 616,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://www.umcsn.com/quickcare",
+            "phoneNumber": "(702) 383-3645",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Kx8HNhoLlTZdYyZkySiL3VWmTtLyTJsnUPrBVLVfJbLjiY2ItB02Zj9TKFuFFtkTDuRMgr91QhnwmNbOLUXz-D3GPZw0v-5mBasWFQbDUpdI74GKskLTSUhw5KNHyJXsOr6yRsQ",
+            "cid": "1808223900783221835",
+            "fid": "0x80c8c72150e0d2fd:0x19181a0eb08e1c4b",
+            "placeId": "ChIJ_dLgUCHHyIARSxyOsA4aGBk"
+        },
+        {
+            "position": 2,
+            "title": "UMC Primary Care - Spring Valley",
+            "address": "4180 S Rainbow Blvd # 810, Las Vegas, NV 89103",
+            "latitude": 36.112218999999996,
+            "longitude": -115.2417919,
+            "rating": 3.9,
+            "ratingCount": 101,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.umcsn.com/primary/",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U43IhVv3euapHo7Sk15ISA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=79.64684&pitch=0&thumbfov=100",
+            "cid": "15995396480565417987",
+            "fid": "0x80c8c723f8b9490b:0xddfb105a11a29803",
+            "placeId": "ChIJC0m5-CPHyIARA5iiEVoQ-90"
+        },
+        {
+            "position": 3,
+            "title": "UMC Quick Care - Peccole Ranch",
+            "address": "9320 W Sahara Ave, Las Vegas, NV 89117",
+            "latitude": 36.145016999999996,
+            "longitude": -115.2995797,
+            "rating": 3.6,
+            "ratingCount": 208,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://www.umcsn.com/quickcare",
+            "phoneNumber": "(702) 383-3850",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9lRc8K2pnb8AA5QS3NroCgm-o-8PKK-96UDp4fV7Sc4IPbwOteTaspiF5IescL7RseQnP-1THTaxCtKtfTVJnIYRzxEX0U3ukgQLdmEYKTnvHLI0_mKEkeyL0vPgkjlKZTq5wd",
+            "cid": "8779616865361505823",
+            "fid": "0x80c8bf6e19a92723:0x79d77705cbe6ae1f",
+            "placeId": "ChIJIyepGW6_yIARH67mywV313k"
+        },
+        {
+            "position": 4,
+            "title": "UMC Quick Care - Nellis",
+            "address": "61 N Nellis Blvd UNIT 61, Las Vegas, NV 89110",
+            "latitude": 36.160922,
+            "longitude": -115.063597,
+            "rating": 2.9,
+            "ratingCount": 364,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/quickcare/",
+            "phoneNumber": "(702) 383-6240",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8xshkiz3hl0QlpMyu1XQkwKWr0dCqD81q5BL38SaXRBXkfXT6-yc87dZdEu7gseDyEZRbAfeAVHkN55K68DCV7CoyQAXZW7X1gqQbBeyexxi6WWcsVqewic0E1rRwneH2xKc5rSA",
+            "cid": "5787059925326255913",
+            "fid": "0x80c8db65bb2f2f3b:0x504fc45746f85729",
+            "placeId": "ChIJOy8vu2XbyIARKVf4RlfET1A"
+        },
+        {
+            "position": 5,
+            "title": "UMC Quick Care - Summerlin",
+            "address": "2031 N Buffalo Dr, Las Vegas, NV 89128",
+            "latitude": 36.1974972,
+            "longitude": -115.26081939999999,
+            "rating": 2.9,
+            "ratingCount": 342,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://www.umcsn.com/quickcare",
+            "phoneNumber": "(702) 383-3750",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8aJuVeZwamTlTyefIs1jvncBSQaCtHw6HRGPQDi5Hh2ThBNB4qK092KIhH-H7DqCDHyR4QM8zgEYfKnRP96jtO1i8d8eLli5P6Tz3ImG40TuGz9BM3021LGHurMG2vWW_0Hf5Z",
+            "cid": "2264487789246423288",
+            "fid": "0x80c8c01888f3e0d9:0x1f6d13a5843e20f8",
+            "placeId": "ChIJ2eDziBjAyIAR-CA-hKUTbR8"
+        },
+        {
+            "position": 6,
+            "title": "UMC Quick Care - Enterprise",
+            "address": "1700 Wheeler Peak Dr, Las Vegas, NV 89106",
+            "latitude": 36.1907826,
+            "longitude": -115.16299509999999,
+            "rating": 3.5,
+            "ratingCount": 149,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/medical-services/quick-care",
+            "phoneNumber": "(702) 383-2565",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB903hp5PA3qU691VYTdBYA2TUkMHg6cJsg_0kReH3sDsXxwSYzmKZLBYE9oWT9zEe4nZ0Y2SOqzp-2luHa-ecyCvNB4oOb78scP6Qcfzphr90jx0lVrsOdwZ6zqwsD38XL2OTg",
+            "cid": "15618108354793616731",
+            "fid": "0x80c8c24a49cdec9f:0xd8beaacce708b55b",
+            "placeId": "ChIJn-zNSUrCyIARW7UI58yqvtg"
+        },
+        {
+            "position": 7,
+            "title": "UMC Primary Care - Summerlin",
+            "address": "2031 N Buffalo Dr, Las Vegas, NV 89128",
+            "latitude": 36.1975615,
+            "longitude": -115.260814,
+            "rating": 3.8,
+            "ratingCount": 54,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.umcsn.com/primary/",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-iZW4ftEjNAJieb4THWKgkml1aiPJP3tZGJXmofikhKE2SqxpjmN1V4G38qU5izigL2fnXg2yJUQlQclAmGBnMNt2v2tXzomBy-4usu3M69pdFBLw08VRAKf9mZ-scISKoftN_",
+            "cid": "13080477217634886",
+            "fid": "0x80c8c0188870072d:0x2e789fee0cba46",
+            "placeId": "ChIJLQdwiBjAyIARRroM7p94LgA"
+        },
+        {
+            "position": 8,
+            "title": "UMC Primary Care - Peccole Ranch",
+            "address": "9320 W Sahara Ave, Las Vegas, NV 89117",
+            "latitude": 36.1450077,
+            "longitude": -115.29965209999999,
+            "rating": 3.7,
+            "ratingCount": 50,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician"
+            ],
+            "website": "https://www.umcsn.com/primary/",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eaSdyk6MBLy5VEhAzs2Atg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=5.408457&pitch=0&thumbfov=100",
+            "cid": "5425324020214620878",
+            "fid": "0x80c8bf6e24844a8f:0x4b4a9f73a84962ce",
+            "placeId": "ChIJj0qEJG6_yIARzmJJqHOfSks"
+        },
+        {
+            "position": 9,
+            "title": "UMC Primary Care - Aliante",
+            "address": "5860 Losee Rd, North Las Vegas, NV 89081",
+            "latitude": 36.266393,
+            "longitude": -115.1162366,
+            "rating": 4.8,
+            "ratingCount": 117,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://umcsn.com/primarycare",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHE3aNPsDRF059_bqr0_5mZXBxcWzcW3nTfP0W",
+            "cid": "9474211381415138126",
+            "fid": "0x80c8e927ffdef0d5:0x837b290e0c36534e",
+            "placeId": "ChIJ1fDe_yfpyIARTlM2DA4pe4M"
+        },
+        {
+            "position": 10,
+            "title": "UMC Primary Care - Centennial Hills",
+            "address": "5785 Centennial Center Blvd STE 230, Las Vegas, NV 89149",
+            "latitude": 36.265209,
+            "longitude": -115.2603,
+            "rating": 3.2,
+            "ratingCount": 71,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/primary/",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "7\u202fAM\u20135:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB95AZq9PJOlCpXGcWhJamFCiHG7wAlFDHAGbbZWh3QyxcyC6iq5iv59fyFkyfvg9KyJimKXQ5nXpUJ201yQp63BmsIqF6t6bkA5WJyU-tTjeHyYIkiFxxEoQ9c9CVLcF_RxVH21bw",
+            "cid": "4628994575216500541",
+            "fid": "0x80c8eb3fe165c0d9:0x403d7e0a6afd5f3d",
+            "placeId": "ChIJ2cBl4T_ryIARPV_9agp-PUA"
+        },
+        {
+            "position": 11,
+            "title": "UMC Quick Care - Blue Diamond",
+            "address": "4760 Blue Diamond Rd #110, Las Vegas, NV 89139",
+            "latitude": 36.0353704,
+            "longitude": -115.20569599999999,
+            "rating": 3.8,
+            "ratingCount": 237,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/quickcare/",
+            "phoneNumber": "(702) 383-2300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqCgT4cqY2qx9KBzS65vTV4ZFBYj9zI-V0tlcT",
+            "cid": "14015837878868057506",
+            "fid": "0x80c8c8c7598f51e3:0xc282424aaf651da2",
+            "placeId": "ChIJ41GPWcfIyIARoh1lr0pCgsI"
+        },
+        {
+            "position": 12,
+            "title": "UMC Primary Care - Southern Highlands",
+            "address": "11860 Southern Highlands Pkwy #102, Las Vegas, NV 89141",
+            "latitude": 35.9740673,
+            "longitude": -115.18297709999999,
+            "rating": 2.8,
+            "ratingCount": 53,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/medical-services/primary-care",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_EHiP0v2H95NKkBclivBOoPRVOgunNEgXBuylWBLwMntv3Y76JdEQWgueFFDTd5Qe6spIk_tYOJjF0AKSow1MqK1bbkOi44oSnHfMkGO5SIKwNg1_KiqhEpcOzIMqt8MVOyBRK",
+            "cid": "9031586061812311018",
+            "fid": "0x80c8cc03e041f3ff:0x7d56a3abfcb123ea",
+            "placeId": "ChIJ__NB4APMyIAR6iOx_KujVn0"
+        },
+        {
+            "position": 13,
+            "title": "UMC Quick Care Urgent Care",
+            "address": "9320 W Sahara Ave, Las Vegas, NV 89117",
+            "latitude": 36.1450077,
+            "longitude": -115.29965209999999,
+            "rating": 3.6,
+            "ratingCount": 14,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.umcsn.com/umc-locations/quick-primary-online-care",
+            "phoneNumber": "(702) 383-3850",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eaSdyk6MBLy5VEhAzs2Atg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=5.408457&pitch=0&thumbfov=100",
+            "cid": "820671898527923216",
+            "fid": "0x80c8bf6e24844a8f:0xb639cbe5ce6fc10",
+            "placeId": "ChIJj0qEJG6_yIAREPzmXL6cYws"
+        },
+        {
+            "position": 14,
+            "title": "UMC Quick Care - Centennial Hills",
+            "address": "5785 Centennial Center Blvd #190, Las Vegas, NV 89149",
+            "latitude": 36.2651742,
+            "longitude": -115.26023939999999,
+            "rating": 3.7,
+            "ratingCount": 235,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/quickcare/",
+            "phoneNumber": "(702) 383-6270",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_zu-O8RW1z0phgL5xON72R51rtVgYUQ2QKIv8gjmVdg_PA4W_vq6yzfDw--NN5JIg7ynaQYtGwotw0_is4umRgwvqgDQUj72nglWGsTfP7VCFRpRvNqKSo4SEHqjbmtVSH0IPj",
+            "cid": "16642577738283899046",
+            "fid": "0x80c8eb3fe165c0d9:0xe6f65046dd3c58a6",
+            "placeId": "ChIJ2cBl4T_ryIARplg83UZQ9uY"
+        },
+        {
+            "position": 15,
+            "title": "UMC Quick Care - Sunset",
+            "address": "525 Marks St, Henderson, NV 89014",
+            "latitude": 36.060839,
+            "longitude": -115.036868,
+            "rating": 2.9,
+            "ratingCount": 278,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "http://www.umcsn.com/quickcare",
+            "phoneNumber": "(702) 383-6210",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-yIE3Xwmry4bfod-rdnfDnDpAh_O5NOfRH1gEQu3JcgpJgS-JxfGaABeidH0XZZPBzZONWg5sDZRvTR1ZtADTFkReXIIb1slr9o4ocz5XjN_R1NfY_EjPYeJP4_zohjO8oGlnzhw",
+            "cid": "8533859292427386950",
+            "fid": "0x80c8d0fa8fddb5e3:0x766e5bcfe84d0046",
+            "placeId": "ChIJ47Xdj_rQyIARRgBN6M9bbnY"
+        },
+        {
+            "position": 16,
+            "title": "UMC Primary Care - Nellis",
+            "address": "61 N Nellis Blvd Suite 63, Las Vegas, NV 89110",
+            "latitude": 36.1608385,
+            "longitude": -115.0634637,
+            "rating": 3.6,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.umcsn.com/primary/",
+            "phoneNumber": "(702) 383-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e2SwCA_W_1qUqTPxQudAXQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.06757&pitch=0&thumbfov=100",
+            "cid": "11544094935858369203",
+            "fid": "0x80c8db275d697151:0xa034dd2e513952b3",
+            "placeId": "ChIJUXFpXSfbyIARs1I5US7dNKA"
+        },
+        {
+            "position": 17,
+            "title": "UMC Quick Care - Aliante",
+            "address": "5860 Losee Rd, North Las Vegas, NV 89081",
+            "latitude": 36.266393,
+            "longitude": -115.1162366,
+            "rating": 4.3,
+            "ratingCount": 66,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "http://umcsn.com/quickcare",
+            "phoneNumber": "(702) 383-3910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9OxIhzAQgJci-VhwMV3SvYnE6lUEJE9ZqBdD1fbQrtex2or14YLrua1X_1fgPuVLTPpBe4kLR0W308Wt-9dJwvwOtQo026BU6OYNxhpscKm_i3X70YnMZIGrR86vlyBOAubdJdNw",
+            "cid": "5208021530601010656",
+            "fid": "0x80c8e9540727bd85:0x48469bfd220f35e0",
+            "placeId": "ChIJhb0nB1TpyIAR4DUPIv2bRkg"
+        },
+        {
+            "position": 18,
+            "title": "UMC Primary Care @ The Medical District",
+            "address": "1524 Pinto Ln 2nd Floor, Las Vegas, NV 89106",
+            "latitude": 36.164711,
+            "longitude": -115.1629449,
+            "rating": 4.3,
+            "ratingCount": 11,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOT7HFbqwxGV4Ky20VPwDWIbogZW4a1Ozd8zoGn",
+            "cid": "35830646320245501",
+            "fid": "0x80c8c3000a4b587d:0x7f4bc871fdaafd",
+            "placeId": "ChIJfVhLCgDDyIAR_ar9cchLfwA"
+        }
+    ],
+    "credits": 3
+}

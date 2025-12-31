@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Bozeman Health Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6687951,-111.0207348,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health Internal Medicine Clinic",
+            "address": "937 Highland Blvd Suite 5410, Bozeman, MT 59715",
+            "latitude": 45.6687951,
+            "longitude": -111.0207348,
+            "rating": 3.4,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPq3AFwj2Xegw6J2KPOuCDgj8S47AWVk_zvJFi2",
+            "cid": "7417173950839903253",
+            "fid": "0x534544f1f1356a0d:0x66ef18691117d415",
+            "placeId": "ChIJDWo18fFERVMRFdQXEWkY72Y"
+        }
+    ],
+    "credits": 3
+}

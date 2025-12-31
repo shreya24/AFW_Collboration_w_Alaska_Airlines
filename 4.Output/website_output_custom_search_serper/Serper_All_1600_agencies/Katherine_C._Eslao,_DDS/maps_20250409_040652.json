@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Katherine C. Eslao, DDS",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7966177,-122.4002461,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Katherine C. Eslao, DDS",
+            "address": "556 Battery St, San Francisco, CA 94111",
+            "latitude": 37.7966177,
+            "longitude": -122.40024609999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cosmetic dentist",
+            "types": [
+                "Cosmetic dentist"
+            ],
+            "website": "http://www.adsfcity.com/",
+            "phoneNumber": "(415) 398-5200",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOruLCAAN_7CSvAGUp1pOi3k6PXUPNqu2suyUok",
+            "cid": "4226571034327544289",
+            "fid": "0x808580600de690ed:0x3aa7cbf65f0c71e1",
+            "placeId": "ChIJ7ZDmDWCAhYAR4XEMX_bLpzo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,97 @@
+{
+    "searchParameters": {
+        "q": "Stanford Urologic Cancer Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5471086,-122.1205414,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Urologic Cancer Program",
+            "address": "875 Blake Wilbur Dr, Palo Alto, CA 94304",
+            "latitude": 37.4357319,
+            "longitude": -122.1762866,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/urologic-cancer-program-palo-alto.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 498-6000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZgFQiLSGRfOvyi4ixVXaxKIcSjAqACdanwzmk",
+            "cid": "13402850478079047749",
+            "fid": "0x808fa4d2b0b08071:0xba007d7f9b937845",
+            "placeId": "ChIJcYCwsNKkj4ARRXiTm399ALo"
+        },
+        {
+            "position": 2,
+            "title": "Stanford Urologic Oncology Program in San Jose",
+            "address": "2589 Samaritan Dr, San Jose, CA 95124",
+            "latitude": 37.253532299999996,
+            "longitude": -121.9516532,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/urologic-cancer-program-san-jose.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(408) 426-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sj82lFbgbS7b_vi07yGffA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=294.63126&pitch=0&thumbfov=100",
+            "cid": "7593985195458535098",
+            "fid": "0x808e35adf5422e6b:0x6963414cf4e19eba",
+            "placeId": "ChIJay5C9a01joARup7h9ExBY2k"
+        },
+        {
+            "position": 3,
+            "title": "Stanford Urologic Cancer Program in Emeryville",
+            "address": "5800 Hollis St, Emeryville, CA 94608",
+            "latitude": 37.8406849,
+            "longitude": -122.28942959999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stanfordhealthcare.org/medical-clinics/urologic-cancer-program-emeryville.html?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(510) 806-2100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nJJolltLbrwh5s5sIGvoUA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=84.084305&pitch=0&thumbfov=100",
+            "cid": "7456451523409966922",
+            "fid": "0x80857e42b4c00001:0x677aa32791c5774a",
+            "placeId": "ChIJAQDAtEJ-hYARSnfFkSejemc"
+        }
+    ],
+    "credits": 3
+}

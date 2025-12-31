@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Robert J. Kim M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7655643,-73.9551571,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Robert J. Kim, M.D.",
+            "address": "1305 York Ave 8th floor, New York, NY 10021",
+            "latitude": 40.7655643,
+            "longitude": -73.9551571,
+            "rating": 5,
+            "ratingCount": 407,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Doctor"
+            ],
+            "website": "https://weillcornell.org/robertjkim?utm_source=yextgmb&utm_medium=organic&utm_campaign=yext_doctor_listings",
+            "phoneNumber": "(646) 962-5558",
+            "bookingLinks": [
+                "https://weillcornell.org/robertjkim?content=locations-and-appointments&visit=in-office&utm_source=yextnetwork&utm_medium=organic&utm_campaign=appointment_url"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOek2tri6U1WaPeAnb6garRtuinj_EF9B2OBAsS",
+            "cid": "10956502162462684272",
+            "fid": "0x89c258c3f6444169:0x980d50aaae633470",
+            "placeId": "ChIJaUFE9sNYwokRcDRjrqpQDZg"
+        }
+    ],
+    "credits": 3
+}

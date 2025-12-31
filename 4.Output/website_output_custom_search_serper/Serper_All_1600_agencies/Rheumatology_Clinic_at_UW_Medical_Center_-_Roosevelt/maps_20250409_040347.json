@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Rheumatology Clinic at UW Medical Center - Roosevelt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6588312,-122.3179059,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rheumatology Clinic at UW Medical Center - Roosevelt",
+            "address": "4245 Roosevelt Way NE 1st floor, Seattle, WA 98105",
+            "latitude": 47.658831199999995,
+            "longitude": -122.3179059,
+            "rating": 3.1,
+            "ratingCount": 15,
+            "type": "Rheumatologist",
+            "types": [
+                "Rheumatologist"
+            ],
+            "website": "https://www.uwmedicine.org/locations/rheumatology-uwmc?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNTY2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 598-3300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uwmedicine.org/locations/rheumatology-uwmc?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCKZ6X-l7b4e4WPnD1goBajbh9MwOqytD8XRY",
+            "cid": "15266527601511996016",
+            "fid": "0x549014f4508a57d1:0xd3dd99f7d1d19a70",
+            "placeId": "ChIJ0VeKUPQUkFQRcJrR0feZ3dM"
+        }
+    ],
+    "credits": 3
+}

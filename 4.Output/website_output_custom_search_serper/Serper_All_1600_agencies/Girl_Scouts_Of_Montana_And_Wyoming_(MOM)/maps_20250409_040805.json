@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Girl Scouts Of Montana And Wyoming (MOM)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.9936767,-111.454174,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Girl Scouts of Montana and Wyoming",
+            "address": "2303 Grand Ave, Billings, MT 59102",
+            "latitude": 45.7843981,
+            "longitude": -108.57408389999999,
+            "rating": 3.9,
+            "ratingCount": 18,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.gsmw.org/",
+            "phoneNumber": "(406) 252-0488",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEJHrkoz45NBEWocsqAKOZJ72S5EPD12C82mDh",
+            "cid": "1998637694854971828",
+            "fid": "0x53487ceb2a710bf5:0x1bbc9664ec8941b4",
+            "placeId": "ChIJ9QtxKut8SFMRtEGJ7GSWvBs"
+        },
+        {
+            "position": 2,
+            "title": "Girl Scouts Of Montana And Wyoming",
+            "address": "1203 U.S. Hwy 2 W, Kalispell, MT 59901",
+            "latitude": 48.2029552,
+            "longitude": -114.33426419999999,
+            "type": "Youth organization",
+            "types": [
+                "Youth organization"
+            ],
+            "website": "http://gsmw.org/",
+            "phoneNumber": "(406) 252-0488",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUVFwx2XGUYq0KQ7hvY09q5ZgD8_HiIdSJ6Ibb",
+            "cid": "7213207749033493242",
+            "fid": "0x536650b08f8403d7:0x641a763b043c82fa",
+            "placeId": "ChIJ1wOEj7BQZlMR-oI8BDt2GmQ"
+        }
+    ],
+    "credits": 3
+}

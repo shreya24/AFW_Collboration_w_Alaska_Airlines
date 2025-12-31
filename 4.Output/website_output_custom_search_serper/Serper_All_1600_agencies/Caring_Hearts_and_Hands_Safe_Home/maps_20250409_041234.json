@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Caring Hearts and Hands Safe Home",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.5258921,-97.5595618,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Caring Heart Caring Hands Home Care",
+            "address": "2601 Northwest Expy Ste 208W, Oklahoma City, OK 73112",
+            "latitude": 35.5258921,
+            "longitude": -97.5595618,
+            "rating": 4.8,
+            "ratingCount": 17,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://www.caringheartcaringhands.com/",
+            "phoneNumber": "(405) 300-2945",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20132\u202fPM",
+                "Wednesday": "9\u202fAM\u20132\u202fPM",
+                "Thursday": "9\u202fAM\u20132\u202fPM",
+                "Friday": "9\u202fAM\u20132\u202fPM",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "9\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-4VXt7oCxnqS4HpqlfX8JNue4inJOScWDKcUI",
+            "cid": "2388711107967073092",
+            "fid": "0x87b21bba56b24db5:0x21266818c5683b44",
+            "placeId": "ChIJtU2yVrobsocRRDtoxRhoJiE"
+        }
+    ],
+    "credits": 3
+}

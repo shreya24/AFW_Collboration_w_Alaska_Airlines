@@ -1,0 +1,288 @@
+{
+    "searchParameters": {
+        "q": "Group Health Cooperative",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.900771,-89.5694905,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Group Health Cooperative",
+            "address": "625 W Washington Ave, Madison, WI 53703",
+            "latitude": 43.0671426,
+            "longitude": -89.3939417,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://ghcscw.com/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMslHzur1csfbLwRDaHg0qr-l7ixc2pJkoqAzXO",
+            "cid": "2902659321177850756",
+            "fid": "0x8806533202062d69:0x284851460ec84384",
+            "placeId": "ChIJaS0GAjJTBogRhEPIDkZRSCg"
+        },
+        {
+            "position": 2,
+            "title": "Group Health Cooperative",
+            "address": "8202 Excelsior Dr, Madison, WI 53717",
+            "latitude": 43.0807571,
+            "longitude": -89.5252289,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://ghcscw.com/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q7B5yCqiZirPYhTSKhQ-oQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=124.0693&pitch=0&thumbfov=100",
+            "cid": "11295266636341338529",
+            "fid": "0x8807af3c149252cf:0x9cc0d9292e7261a1",
+            "placeId": "ChIJz1KSFDyvB4gRoWFyLinZwJw"
+        },
+        {
+            "position": 3,
+            "title": "GHC-SCW Appointment-Based Urgent Care Clinic at Capitol Clinic",
+            "address": "675 W Washington Ave, Madison, WI 53703",
+            "latitude": 43.067171599999995,
+            "longitude": -89.3941859,
+            "rating": 3,
+            "ratingCount": 48,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://ghcscw.com/",
+            "phoneNumber": "(608) 442-8100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20139\u202fPM",
+                "Sunday": "9\u202fAM\u20139\u202fPM",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2DurkAihD9lxrilN19KIpEMxmjtG-rSj2SgNd",
+            "cid": "6310127222115216874",
+            "fid": "0x880653321b11e011:0x57921346a9b32dea",
+            "placeId": "ChIJEeARGzJTBogR6i2zqUYTklc"
+        },
+        {
+            "position": 4,
+            "title": "GHC-SCW Hatchery Hill Clinic",
+            "address": "3051 Cahill Main, Fitchburg, WI 53711",
+            "latitude": 43.0214548,
+            "longitude": -89.4204283,
+            "rating": 4,
+            "ratingCount": 130,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Pharmacy"
+            ],
+            "website": "http://www.ghcscw.com/",
+            "phoneNumber": "(608) 661-7200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLposAkXyLpTFqb8bLI1_t8G87v5xiVlH9n2Kg",
+            "cid": "1166899659631608108",
+            "fid": "0x8807ad610f9a7129:0x1031a90ed4ddc12c",
+            "placeId": "ChIJKXGaD2GtB4gRLMHd1A6pMRA"
+        },
+        {
+            "position": 5,
+            "title": "GHC-SCW Sauk Trails Clinic",
+            "address": "8202 Excelsior Dr, Madison, WI 53717",
+            "latitude": 43.080629599999995,
+            "longitude": -89.5252039,
+            "rating": 4.5,
+            "ratingCount": 120,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pharmacy"
+            ],
+            "website": "https://www.ghcscw.com/clinic/Sauk%20Trails%20Clinic",
+            "phoneNumber": "(608) 257-9700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMURVI5Ow7ef5Y5SKMnz_l7yoOLHR0ffRrdDNcc",
+            "cid": "4476831044083035253",
+            "fid": "0x8807af3c40b04015:0x3e20e61d8602ac75",
+            "placeId": "ChIJFUCwQDyvB4gRdawChh3mID4"
+        },
+        {
+            "position": 6,
+            "title": "Group Health Cooperative - Administrative Offices",
+            "address": "1265 John Q Hammons Dr # 200, Madison, WI 53717",
+            "latitude": 43.086198499999995,
+            "longitude": -89.5239407,
+            "rating": 4.2,
+            "ratingCount": 32,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "http://www.ghcscw.com/",
+            "phoneNumber": "(608) 251-4156",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuErrS9wI52Rslw_DtJsBb6Cs2FjNeWQ0f0tVF",
+            "cid": "13223578578898922210",
+            "fid": "0x8807af3a9daedf3f:0xb78396a7eebc2ae2",
+            "placeId": "ChIJP9-unTqvB4gR4iq87qeWg7c"
+        },
+        {
+            "position": 7,
+            "title": "Group Health Co-Op",
+            "address": "700 Regent St # 302, Madison, WI 53715",
+            "latitude": 43.0679048,
+            "longitude": -89.39673669999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://ghcscw.com/",
+            "phoneNumber": "(608) 441-3290",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ezd2g73o3ij0vlYJaOQ91A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=182.60193&pitch=0&thumbfov=100",
+            "cid": "5898863093093482856",
+            "fid": "0x88065332f18b79cb:0x51dcf8baca7fc168",
+            "placeId": "ChIJy3mL8TJTBogRaMF_yrr43FE"
+        },
+        {
+            "position": 8,
+            "title": "GHC-SCW East Clinic",
+            "address": "5249 E Terrace Dr, Madison, WI 53718",
+            "latitude": 43.14477,
+            "longitude": -89.2887686,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "Health",
+            "types": [
+                "Health"
+            ],
+            "website": "https://ghcscw.com/",
+            "phoneNumber": "(608) 222-9777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNv15Cv69HNqf2fLI_ZVwFHPuaIHa7SoeCtXiWn",
+            "cid": "9596043446443140916",
+            "fid": "0x8806564dc2efffff:0x852bfeac2a756734",
+            "placeId": "ChIJ___vwk1WBogRNGd1Kqz-K4U"
+        },
+        {
+            "position": 9,
+            "title": "Common Ground Healthcare Cooperative",
+            "address": "300 N Executive Dr # 300, Brookfield, WI 53005",
+            "latitude": 43.0331779,
+            "longitude": -88.1136654,
+            "rating": 3,
+            "ratingCount": 284,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "http://www.commongroundhealthcare.org/",
+            "phoneNumber": "(877) 514-2442",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpUhsplINQRDb010u7z2_ZL6qBCD1b35N60FSE",
+            "cid": "12268791372098343557",
+            "fid": "0x880505c4f35200df:0xaa4380c0054c9285",
+            "placeId": "ChIJ3wBS88QFBYgRhZJMBcCAQ6o"
+        },
+        {
+            "position": 10,
+            "title": "GHC-SCW Olin Clinic",
+            "address": "208 E Olin Ave Suite 105, Madison, WI 53713",
+            "latitude": 43.052506199999996,
+            "longitude": -89.3800802,
+            "rating": 3.8,
+            "ratingCount": 5,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Doctor"
+            ],
+            "website": "https://www.ghcscw.com/",
+            "phoneNumber": "(608) 257-9700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWxrgMZNmfs9umbXXBh4aTJQayXd7jgsko_x_9",
+            "cid": "18147952332596457765",
+            "fid": "0x88065332f18b79cb:0xfbda7a7e99223125",
+            "placeId": "ChIJy3mL8TJTBogRJTEimX562vs"
+        },
+        {
+            "position": 11,
+            "title": "Group Health Co-Op: Hayes Jack",
+            "address": "675 W Washington Ave, Madison, WI 53703",
+            "latitude": 43.0671763,
+            "longitude": -89.3941588,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Physician assistant",
+            "types": [
+                "Physician assistant"
+            ],
+            "website": "https://ghcscw.com/",
+            "phoneNumber": "(608) 257-9700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IFebCUQaJ4zqV_0eajGv1w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=289.72888&pitch=0&thumbfov=100",
+            "cid": "1254404739074811005",
+            "fid": "0x88065332102d201b:0x11688a76cd1ee47d",
+            "placeId": "ChIJGyAtEDJTBogRfeQezXaKaBE"
+        }
+    ],
+    "credits": 3
+}

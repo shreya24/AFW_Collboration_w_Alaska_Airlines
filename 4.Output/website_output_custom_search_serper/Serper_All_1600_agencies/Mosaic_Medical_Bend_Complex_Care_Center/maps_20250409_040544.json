@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Mosaic Medical Bend Complex Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0697167,-121.2603402,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mosaic Medical Bend Complex Care Center",
+            "address": "2965 NE Conners Ave, Bend, OR 97701",
+            "latitude": 44.0697167,
+            "longitude": -121.26034019999999,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner"
+            ],
+            "phoneNumber": "(541) 383-3005",
+            "cid": "666466641300479066",
+            "fid": "0x54b8c5f757155555:0x93fc3e1115cdc5a",
+            "placeId": "ChIJVVUVV_fFuFQRWtxcEeHDPwk"
+        }
+    ],
+    "credits": 3
+}

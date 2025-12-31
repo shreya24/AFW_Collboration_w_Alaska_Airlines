@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Inland Northwest Blood Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7092573,-117.4075958,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "INBC",
+            "address": "N Normandie St, Spokane, WA 99201",
+            "latitude": 47.666473599999996,
+            "longitude": -117.41474129999999,
+            "rating": 4.9,
+            "ratingCount": 10,
+            "type": "Blood donation center",
+            "types": [
+                "Blood donation center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nMk5AsUmB_-g2JTTjl-BGw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=155.2945&pitch=0&thumbfov=100",
+            "cid": "14121664857179583660",
+            "fid": "0x549e18f3e6320305:0xc3fa3b5e294e74ac",
+            "placeId": "ChIJBQMy5vMYnlQRrHROKV47-sM"
+        },
+        {
+            "position": 2,
+            "title": "Inland Northwest Blood Center",
+            "address": "Country Homes, WA 99218",
+            "latitude": 47.7520409,
+            "longitude": -117.40045029999999,
+            "type": "Blood donation center",
+            "types": [
+                "Blood donation center"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J2HfxDBIOgsrrh8m2TmIyA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=75.300476&pitch=0&thumbfov=100",
+            "cid": "13217796132096869633",
+            "fid": "0x549e1c474873c81f:0xb76f0b8d1f2a8501",
+            "placeId": "ChIJH8hzSEccnlQRAYUqH40Lb7c"
+        }
+    ],
+    "credits": 3
+}

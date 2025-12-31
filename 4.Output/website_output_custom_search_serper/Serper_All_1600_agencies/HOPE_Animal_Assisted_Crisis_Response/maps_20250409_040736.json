@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "HOPE Animal Assisted Crisis Response",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0457009,-123.0884819,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HOPE Animal-Assisted Crisis Response",
+            "address": "1292 High St, Eugene, OR 97401",
+            "latitude": 44.0457009,
+            "longitude": -123.08848189999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Crisis center"
+            ],
+            "website": "http://www.hopeaacr.org/contact/",
+            "phoneNumber": "(877) 467-3597",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMv6zeGiN7G5O36vOt2WwaPcF3t3zFQ01JS9W8i",
+            "cid": "12852370304175425592",
+            "fid": "0x54c11e4073b00001:0xb25ccab26627c838",
+            "placeId": "ChIJAQCwc0AewVQROMgnZrLKXLI"
+        }
+    ],
+    "credits": 3
+}

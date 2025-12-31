@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Modern Therapies for Mind and Soul",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7429307,-121.434752,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Modern Therapies for Mind and Soul",
+            "address": "552 W Eaton Ave, Tracy, CA 95376",
+            "latitude": 37.742930699999995,
+            "longitude": -121.43475199999999,
+            "rating": 3.9,
+            "ratingCount": 11,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "phoneNumber": "(209) 835-4043",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FcRLKsosRh19wBYylSPAVQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=79.08079&pitch=0&thumbfov=100",
+            "cid": "14880577037984185046",
+            "fid": "0x80903d37f0f1822b:0xce826df9b1e1bad6",
+            "placeId": "ChIJK4Lx8Dc9kIAR1rrhsfltgs4"
+        }
+    ],
+    "credits": 3
+}

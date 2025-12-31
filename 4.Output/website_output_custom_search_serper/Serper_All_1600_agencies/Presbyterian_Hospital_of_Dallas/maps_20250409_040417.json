@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian Hospital of Dallas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8812304,-96.7623099,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Texas Health Presbyterian Hospital Dallas",
+            "address": "8200 Walnut Hill Ln, Dallas, TX 75231",
+            "latitude": 32.8812304,
+            "longitude": -96.76230989999999,
+            "rating": 3.2,
+            "ratingCount": 831,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.texashealth.org/Locations/Texas-Health-Dallas",
+            "phoneNumber": "(214) 345-6789",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrdmMU4_bbhyq1WsjL1X6MTrvik_OQX9Pmnh-r",
+            "cid": "2898559807244638920",
+            "fid": "0x864e9fee79ebff01:0x2839c0c9970a9ac8",
+            "placeId": "ChIJAf_ree6fToYRyJoKl8nAOSg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,35 @@
+{
+    "searchParameters": {
+        "q": "Consistent Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6689896,-117.4240467,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Consistent Care Services",
+            "address": "1235 N Post St STE 201, Spokane, WA 99201",
+            "latitude": 47.668989599999996,
+            "longitude": -117.42404669999999,
+            "rating": 4.1,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Care services",
+                "Family practice physician",
+                "Social services organization"
+            ],
+            "website": "https://www.consistentcare.org/",
+            "phoneNumber": "(509) 392-6965",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNsjtPjvXZeChPNjJzPyK6y2NbOehBz7RXEX2I",
+            "cid": "5488994367456297420",
+            "fid": "0x549e18f79ea55555:0x4c2cd34b965a41cc",
+            "placeId": "ChIJVVWlnvcYnlQRzEFalkvTLEw"
+        }
+    ],
+    "credits": 3
+}

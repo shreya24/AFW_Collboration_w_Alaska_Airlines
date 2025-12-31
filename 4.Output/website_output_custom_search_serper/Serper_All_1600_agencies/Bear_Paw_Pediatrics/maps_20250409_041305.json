@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Bear Paw Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.1855432,-93.4529844,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bear Pond Family Medicine and Pediatrics",
+            "address": "55 Hazard Ave, Enfield, CT 06082",
+            "latitude": 41.9901276,
+            "longitude": -72.5748713,
+            "rating": 3.5,
+            "ratingCount": 41,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://bearpondhealth.com/",
+            "phoneNumber": "(860) 744-2244",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnQy_Z2B1LQzkAGogQLNCoR-mgrio0PhKN418b",
+            "cid": "7740805768940593282",
+            "fid": "0x89e6e58b59e56715:0x6b6cddd594ffa082",
+            "placeId": "ChIJFWflWYvl5okRgqD_lNXdbGs"
+        },
+        {
+            "position": 2,
+            "title": "Bear Paw Pediatrics",
+            "address": "2004 Hospital Way, Whitefish, MT 59937",
+            "latitude": 48.380958899999996,
+            "longitude": -114.3310975,
+            "type": "Veterinary care",
+            "types": [
+                "Veterinary care"
+            ],
+            "phoneNumber": "(406) 863-2363",
+            "isPermanentlyClosed": true,
+            "cid": "17978372611827870880",
+            "fid": "0x5366429ccde8ca47:0xf98002a30f9caca0",
+            "placeId": "ChIJR8rozZxCZlMRoKycD6MCgPk"
+        }
+    ],
+    "credits": 3
+}

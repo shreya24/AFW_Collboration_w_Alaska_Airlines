@@ -1,0 +1,88 @@
+{
+    "searchParameters": {
+        "q": "Veltkamp Neuropsychology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.8480047,-122.4810832,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Veltkamp Neuropsychology",
+            "address": "3400 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.7721008,
+            "longitude": -122.46600719999999,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "http://www.veltkampneuropsychology.com/",
+            "phoneNumber": "(360) 676-7445",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "8:30\u202fAM\u20133\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_1A9pBaizw-YLYTicLnjbw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.47414&pitch=0&thumbfov=100",
+            "cid": "4686249685613306775",
+            "fid": "0x5485a3a66f52176f:0x4108e7429fc46397",
+            "placeId": "ChIJbxdSb6ajhVQRl2PEn0LnCEE"
+        },
+        {
+            "position": 2,
+            "title": "Veltkamp Neuropsychology",
+            "address": "1610 Grover St b10, Lynden, WA 98264",
+            "latitude": 48.9414272,
+            "longitude": -122.4686579,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "http://www.veltkampneuropsychology.com/",
+            "phoneNumber": "(360) 676-7445",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YyKo0i4c8lr29xkixPct5w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=194.62505&pitch=0&thumbfov=100",
+            "cid": "7494473951328317167",
+            "fid": "0x5485a4a0a71a8c29:0x6801b859ef57aeef",
+            "placeId": "ChIJKYwap6CkhVQR765X71m4AWg"
+        },
+        {
+            "position": 3,
+            "title": "Veltkamp Neuropsychology",
+            "address": "11 Bellwether Way Suite 201, Bellingham, WA 98225",
+            "latitude": 48.754582199999994,
+            "longitude": -122.4961592,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "website": "https://veltkampneuropsychology.com/",
+            "phoneNumber": "(360) 676-7445",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_2GcsDa0r8DsdNyk694kKw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=324.2427&pitch=0&thumbfov=100",
+            "cid": "8470209571902678330",
+            "fid": "0x5485a3a66f52176f:0x758c3aba825f653a",
+            "placeId": "ChIJbxdSb6ajhVQROmVfgro6jHU"
+        }
+    ],
+    "credits": 3
+}

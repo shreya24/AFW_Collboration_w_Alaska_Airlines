@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Melinda Powers",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9561205,-95.2795089,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Parlami LLC - Melinda Powers, LSCSW",
+            "address": "1505 Kasold Dr suite 4, Lawrence, KS 66047",
+            "latitude": 38.9561205,
+            "longitude": -95.2795089,
+            "type": "Psychotherapist",
+            "types": [
+                "Psychotherapist"
+            ],
+            "website": "http://www.melinda-powers.com/",
+            "phoneNumber": "(785) 337-0667",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20133\u202fPM",
+                "Wednesday": "8\u202fAM\u20133\u202fPM",
+                "Thursday": "8\u202fAM\u20133\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMRfnj23SsCZY9WjWfetmpijPsIwwgbPYWtXpgl",
+            "cid": "18180908506264286469",
+            "fid": "0x87bf6f7b18ec0d0b:0xfc4f8ff5b9c2b505",
+            "placeId": "ChIJCw3sGHtvv4cRBbXCufWPT_w"
+        }
+    ],
+    "credits": 3
+}

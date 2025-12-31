@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Watts Dialysis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.808659,-106.975756,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Watt Dialysis Center LLC",
+            "address": "1401 W 5th St, Sheridan, WY 82801",
+            "latitude": 44.808659,
+            "longitude": -106.97575599999999,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.dciinc.org/location/watt-dialysis-center-llc-478",
+            "phoneNumber": "(307) 672-1191",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "5:30\u202fAM\u20137\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "5:30\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "5:30\u202fAM\u20137\u202fPM"
+            },
+            "cid": "3733776366020837087",
+            "fid": "0x5335fb569df3f815:0x33d109d28f6bbedf",
+            "placeId": "ChIJFfjznVb7NVMR375rj9IJ0TM"
+        }
+    ],
+    "credits": 3
+}

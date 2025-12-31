@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Susannah Wesley",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3325651,-157.875594,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Susannah Wesley Community Center",
+            "address": "1117 Kaili St, Honolulu, HI 96819",
+            "latitude": 21.3325341,
+            "longitude": -157.87571979999998,
+            "rating": 4.3,
+            "ratingCount": 34,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.susannahwesley.org/",
+            "phoneNumber": "(808) 847-1535",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ZiDl1nVqylkJCtvYEkiFxnPNQ3rRvNMejp_kqyr1VuEZvc9PFpAAfTvCfG9mViXZuM8smTSlNagepGclImIR0XoSMuTFVKtzHdjPQ2c9NVnuaWQR21fjC1KQ8NbsxeLK6MDZA",
+            "cid": "14849831278129168603",
+            "fid": "0x7c006e8a3d6c2c5b:0xce1532dea35fc0db",
+            "placeId": "ChIJWyxsPYpuAHwR28Bfo94yFc4"
+        },
+        {
+            "position": 2,
+            "title": "Susannah Wesley Community Center Emergency Food Pantry",
+            "address": "1117 Kaili St, Honolulu, HI 96819",
+            "latitude": 21.3325961,
+            "longitude": -157.8754683,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Food bank",
+            "types": [
+                "Food bank"
+            ],
+            "website": "https://www.susannahwesley.org/services-and-programs/food-pantry/",
+            "phoneNumber": "(808) 847-1535",
+            "openingHours": {
+                "Tuesday": "12\u20132\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "12\u20132\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "cid": "1499036208031698629",
+            "fid": "0x7c006e8a19900001:0x14cda57d2d2d8ec5",
+            "placeId": "ChIJAQCQGYpuAHwRxY4tLX2lzRQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Hospice of the Valley, Eckstein Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.575609,-111.8765551,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eckstein Center | Hospice of the Valley",
+            "address": "9808 N 95th St, Scottsdale, AZ 85258",
+            "latitude": 33.575609,
+            "longitude": -111.87655509999999,
+            "rating": 4.1,
+            "ratingCount": 20,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Non-profit organization"
+            ],
+            "website": "http://www.hov.org/",
+            "phoneNumber": "(480) 661-4500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO679UxfCcgOKQ24S3WPxgMBC1ix5QZ96Y8_a9h",
+            "cid": "11964221078713894826",
+            "fid": "0x872b75489713a843:0xa60973ae92fb87aa",
+            "placeId": "ChIJQ6gTl0h1K4cRqof7kq5zCaY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Ontario Orthopedic Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.7505612,-79.3563647,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ontario Orthopaedic Association",
+            "address": "38 Grenville St #301, Toronto, ON M4Y 1A5, Canada",
+            "latitude": 43.6623157,
+            "longitude": -79.3859777,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.ooa.ca/",
+            "phoneNumber": "+1 416-498-4145",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=49KHB_IMZS1Wi64AKiPlNw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.0065&pitch=0&thumbfov=100",
+            "cid": "548596599162766304",
+            "fid": "0x882b34b428334b41:0x79d01b34a1583e0",
+            "placeId": "ChIJQUszKLQ0K4gR4IMVSrMBnQc"
+        },
+        {
+            "position": 2,
+            "title": "Ontario Orthopaedic Association",
+            "address": "20 Crown Steel Dr, Markham, ON L3R 9X9, Canada",
+            "latitude": 43.8388068,
+            "longitude": -79.3267517,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.ooa.ca/Contact",
+            "phoneNumber": "+1 289-846-5381 ext. 233",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kgQu-TQ62aA5Sn63T7Wjzg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=337.27707&pitch=0&thumbfov=100",
+            "cid": "15639064579071069016",
+            "fid": "0x89d4d46662bfffff:0xd9091e6016eccb58",
+            "placeId": "ChIJ__-_YmbU1IkRWMvsFmAeCdk"
+        }
+    ],
+    "credits": 3
+}

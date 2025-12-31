@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Colonial Home Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8079885,-117.8557262,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colonial Home Care Services",
+            "address": "326 W Katella Ave F, Orange, CA 92867",
+            "latitude": 33.8079885,
+            "longitude": -117.85572619999999,
+            "rating": 4.5,
+            "ratingCount": 13,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "http://www.colonialhomecareservices.com/",
+            "phoneNumber": "(714) 289-7220",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.colonialhomecareservices.com/service-request/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTb_SHArxb7VYgCysvlDiB1XobsmFTdS1rDEmk",
+            "cid": "2319010819691300991",
+            "fid": "0x80dcd74fda1e4555:0x202ec80dc9fcc87f",
+            "placeId": "ChIJVUUe2k_X3IARf8j8yQ3ILiA"
+        }
+    ],
+    "credits": 3
+}

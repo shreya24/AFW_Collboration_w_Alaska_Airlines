@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Willow Springs Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5019086,-119.7572659,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Willow Springs Center",
+            "address": "690 Edison Way, Reno, NV 89502",
+            "latitude": 39.5019086,
+            "longitude": -119.7572659,
+            "rating": 2.7,
+            "ratingCount": 148,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://willowspringscenter.com/",
+            "phoneNumber": "(775) 858-3303",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjN2UsZb6grl_8nVvUTJlWJQAXHLK-brsjArg4",
+            "cid": "7733363050456623184",
+            "fid": "0x80993fa6f889af77:0x6b526cb8a5992850",
+            "placeId": "ChIJd6-J-KY_mYARUCiZpbhsUms"
+        }
+    ],
+    "credits": 3
+}

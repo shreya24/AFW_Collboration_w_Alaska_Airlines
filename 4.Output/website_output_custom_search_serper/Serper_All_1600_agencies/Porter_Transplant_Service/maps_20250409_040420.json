@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Porter Transplant Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6704232,-104.974143,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AdventHealth Transplant Institute Porter",
+            "address": "2535 S Downing St #380, Denver, CO 80210",
+            "latitude": 39.670423199999995,
+            "longitude": -104.974143,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.adventhealth.com/Institute/transplant",
+            "phoneNumber": "(303) 778-5797",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsjj1x7Y99moL6d9JW8sFhqtpNdT3fc0cWkj4F",
+            "cid": "9651798717603625374",
+            "fid": "0x876c7f0189c9a273:0x85f213cbd655b99e",
+            "placeId": "ChIJc6LJiQF_bIcRnrlV1ssT8oU"
+        }
+    ],
+    "credits": 3
+}

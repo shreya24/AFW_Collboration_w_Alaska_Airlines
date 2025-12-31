@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ride Out Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1383656,-121.5932974,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health and Rideout",
+            "address": "726 4th St, Marysville, CA 95901",
+            "latitude": 39.1383656,
+            "longitude": -121.5932974,
+            "rating": 4.1,
+            "ratingCount": 2565,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventisthealth.org/rideout/",
+            "phoneNumber": "(530) 749-4300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-5oIpD8Krx56Mcxw1pL7GAS78oInRhVXpIPh07cV56UxAUc8gw8AOc754FqeVJfG6S5oXbPPyQpTMVUlDQu-aSPjZsScu_Hy0boSJjtyFLeAsdJqEVGBGdkAyk_kjsmOKY_f4",
+            "cid": "7256088136783838391",
+            "fid": "0x809b53129feec397:0x64b2cdb74bed3cb7",
+            "placeId": "ChIJl8PunxJTm4ARtzztS7fNsmQ"
+        }
+    ],
+    "credits": 3
+}

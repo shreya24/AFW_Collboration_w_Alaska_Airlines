@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Dr. Jorge Burgos Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1770475,-115.115588,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jorge Burgos, MD / Medicis Primary Care",
+            "address": "750 N Eastern Ave #100, Las Vegas, NV 89101",
+            "latitude": 36.1770475,
+            "longitude": -115.11558799999999,
+            "rating": 4.5,
+            "ratingCount": 81,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "General practitioner",
+                "Internist",
+                "Laser hair removal service",
+                "Medical clinic",
+                "Medical examiner",
+                "Skin care clinic"
+            ],
+            "website": "http://medicisprimarycare.com/",
+            "phoneNumber": "(702) 227-0022",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO-MuQ53iGOgkBdrZn9Un1AHomz3HeBIrrjDIOz",
+            "cid": "6620707874197131564",
+            "fid": "0x80c8c2e1d8ebc3ad:0x5be17abbcb26d12c",
+            "placeId": "ChIJrcPr2OHCyIARLNEmy7t64Vs"
+        }
+    ],
+    "credits": 3
+}

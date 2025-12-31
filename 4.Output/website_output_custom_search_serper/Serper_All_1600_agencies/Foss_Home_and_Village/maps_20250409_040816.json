@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Foss Home and Village",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.723928,-122.356677,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Broadview Center",
+            "address": "13023 Greenwood Ave N, Seattle, WA 98133",
+            "latitude": 47.723928,
+            "longitude": -122.35667699999999,
+            "rating": 3.7,
+            "ratingCount": 27,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Assisted living facility",
+                "Rehabilitation center"
+            ],
+            "website": "https://thebroadviewcenter.com/",
+            "phoneNumber": "(206) 364-1300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-UK1o4XcqGZC1nfWRb_w1w3slZGgOVLTHHOYK5QzGnzbSe-2lJlCTEf71irk4MIi2vIhyqVjz6PBg8uS-1Ine17cAoes_d7rAhbAm3ZDJFpKEh6cDN_o0G-hBt1EbwqSqExeO5BQ",
+            "cid": "5444842982045667790",
+            "fid": "0x5490113329611a79:0x4b8ff7d81a9c51ce",
+            "placeId": "ChIJeRphKTMRkFQRzlGcGtj3j0s"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Barrow Neurology Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4820351,-112.0785499,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barrow Neurological Institute",
+            "address": "2910 N 3rd Ave, Phoenix, AZ 85013",
+            "latitude": 33.4820351,
+            "longitude": -112.0785499,
+            "rating": 4.7,
+            "ratingCount": 2236,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Neurologist",
+                "Neurosurgeon",
+                "Radiologist"
+            ],
+            "website": "https://www.barrowneuro.org/",
+            "phoneNumber": "(844) 324-6684",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.barrowneuro.org/about/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgerDRQFwgOM0tIwdCQKV_RE2XqQuuyeaPSINW",
+            "cid": "7905974692194708263",
+            "fid": "0x872b125965824b23:0x6db7aa184b7e6b27",
+            "placeId": "ChIJI0uCZVkSK4cRJ2t-Sxiqt20"
+        }
+    ],
+    "credits": 3
+}

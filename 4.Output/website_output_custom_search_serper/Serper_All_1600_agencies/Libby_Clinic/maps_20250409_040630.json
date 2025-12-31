@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Libby Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3930185,-115.5486855,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Libby Clinic",
+            "address": "211 E 2nd St, Libby, MT 59923",
+            "latitude": 48.3930185,
+            "longitude": -115.54868549999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family planning center",
+                "Laboratory",
+                "Women's health clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.libbyclinic.com/",
+            "phoneNumber": "(406) 293-8711",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HXke37E72V3sO7vRznG0nw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=356.5716&pitch=0&thumbfov=100",
+            "cid": "13106336119030813628",
+            "fid": "0x5366a904785d4203:0xb5e30f4289b413bc",
+            "placeId": "ChIJA0JdeASpZlMRvBO0iUIP47U"
+        }
+    ],
+    "credits": 3
+}

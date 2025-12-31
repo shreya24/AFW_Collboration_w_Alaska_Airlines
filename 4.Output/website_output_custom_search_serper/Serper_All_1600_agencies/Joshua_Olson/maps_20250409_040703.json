@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "Joshua Olson",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.074135,-86.3257744,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Olsen Orthodontics",
+            "address": "100 Pavilion Wy H, Southern Pines, NC 28387",
+            "latitude": 35.1760139,
+            "longitude": -79.4200973,
+            "rating": 4.9,
+            "ratingCount": 146,
+            "type": "Orthodontist",
+            "types": [
+                "Orthodontist"
+            ],
+            "website": "http://www.olsenbraces.com/",
+            "phoneNumber": "(910) 246-3232",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20131\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9hVqhCq12ZsYffuOLU1ExUn-KDknDesM9Ej7ocg68QCdhlTBwIlUqVtPcYUGDx8QVfYwvnuYf2MYWctBiCIbuRGFcmU6CP8okWSWHl24uA72oK5C-AwwBiB5xis7EjbcjnPMzx",
+            "cid": "16077342630459082281",
+            "fid": "0x8854b48a904e10e1:0xdf1e31f0e4c20629",
+            "placeId": "ChIJ4RBOkIq0VIgRKQbC5PAxHt8"
+        },
+        {
+            "position": 2,
+            "title": "Joshua H. Olson, MD",
+            "address": "516 Delaware St SE, Minneapolis, MN 55455",
+            "latitude": 44.972256099999996,
+            "longitude": -93.23145149999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Ophthalmologist"
+            ],
+            "website": "https://providers.mhealthfairview.org/provider/joshua-olson/2239145",
+            "phoneNumber": "(612) 625-4400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-VTmst8p8UEYfDsIWF6LA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=174.31519&pitch=0&thumbfov=100",
+            "cid": "4537695839887618",
+            "fid": "0x52b32d6f21c8283f:0x101f02a4a2a102",
+            "placeId": "ChIJPyjIIW8ts1IRAqGipAIfEAA"
+        }
+    ],
+    "credits": 3
+}

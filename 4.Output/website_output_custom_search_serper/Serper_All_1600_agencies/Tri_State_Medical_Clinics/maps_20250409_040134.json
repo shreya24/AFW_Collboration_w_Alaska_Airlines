@@ -1,0 +1,611 @@
+{
+    "searchParameters": {
+        "q": "Tri State Medical Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4439531,-96.0301491,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tri State Community Health Center",
+            "address": "621 Kelly Rd, Cumberland, MD 21502",
+            "latitude": 39.6445801,
+            "longitude": -78.77951039999999,
+            "rating": 2.5,
+            "ratingCount": 72,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Community health centre",
+                "Doctor"
+            ],
+            "website": "https://www.tschc.com/",
+            "phoneNumber": "(301) 722-3270",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM7N-62-xGzRGvPAQKN9x7xQ9H9olj4pZuflvdy",
+            "cid": "10133395884834774131",
+            "fid": "0x89ca8ee3a83245b3:0x8ca10dde43fb5c73",
+            "placeId": "ChIJs0UyqOOOyokRc1z7Q94NoYw"
+        },
+        {
+            "position": 2,
+            "title": "Tri-State Health & Wellness Medical Center",
+            "address": "31-00 Broadway, Fair Lawn, NJ 07410",
+            "latitude": 40.924143099999995,
+            "longitude": -74.1050011,
+            "rating": 4.8,
+            "ratingCount": 81,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Family practice physician",
+                "Internist",
+                "Pain management physician",
+                "Wellness center"
+            ],
+            "website": "http://www.tristate-health.com/",
+            "phoneNumber": "(201) 791-7771",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOka0a36z3r5neqSIC5OW3QOjkI69T6eKNl80Vz",
+            "cid": "678835069967616542",
+            "fid": "0x89c2fb99718bb3c9:0x96bb4e6467f4a1e",
+            "placeId": "ChIJybOLcZn7wokRHkp_Rua0awk"
+        },
+        {
+            "position": 3,
+            "title": "TriState Health",
+            "address": "1221 Highland Ave, Clarkston, WA 99403",
+            "latitude": 46.4026485,
+            "longitude": -117.0550129,
+            "rating": 2.8,
+            "ratingCount": 111,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.tsh.org/",
+            "phoneNumber": "(509) 758-5511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWHN1zBljFdiL1bwWeHl4Ca91Kc34vhPUg8pRy",
+            "cid": "2981031253977767658",
+            "fid": "0x54a1ca903b01abf3:0x295ec0219dae9eea",
+            "placeId": "ChIJ86sBO5DKoVQR6p6unSHAXik"
+        },
+        {
+            "position": 4,
+            "title": "Tri-State Community Healthcare Center",
+            "address": "8700 AZ-95, Mohave Valley, AZ 86440",
+            "latitude": 34.903881,
+            "longitude": -114.59753099999999,
+            "rating": 4.7,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "https://www.tristateclinics.org/",
+            "phoneNumber": "(928) 768-7113",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/tri-state-community-healthcare-107155?LocIdent=270252&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_-Ly15lDTvEajqPrVIdVpfx-lo_T2tULKGG_U64ztIVTypanR-entity&rwg_token=AAiGsoanYzJP8LxdAQBw8QNnyu07Kds1yRq_Tuja0gikwvMV4cxGdZ1puZwbkjC4c7XuQchaaGgx8EvpEi1tJyMpwQ_-Cup6Is1IU1uiCTH3vR0bdTOx6eg%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOsoCDVOB2FdVK8TmLxPOuSavo37O4dPceaEHFS",
+            "cid": "18440122139111352593",
+            "fid": "0x80ce3c8d644334ab:0xffe87962b48c6911",
+            "placeId": "ChIJqzRDZI08zoAREWmMtGJ56P8"
+        },
+        {
+            "position": 5,
+            "title": "TriState Minor Care Center",
+            "address": "1267 Belmont Way, Clarkston, WA 99403",
+            "latitude": 46.4024162,
+            "longitude": -117.05687289999999,
+            "rating": 3.4,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.tsh.org/clinics-services/minor-care-center/",
+            "phoneNumber": "(509) 769-2200",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaqVfGCyYni-NmG3uQbbtz0wSTVCGF9dDtHj4",
+            "cid": "10709423133083312423",
+            "fid": "0x54a1ca8feeb15555:0x949f83993cc82127",
+            "placeId": "ChIJVVWx7o_KoVQRJyHIPJmDn5Q"
+        },
+        {
+            "position": 6,
+            "title": "Tri-State Community Healthcare Center",
+            "address": "540 N San Jacinto St Ste# P, Hemet, CA 92543",
+            "latitude": 33.7553894,
+            "longitude": -116.95774069999999,
+            "rating": 4.5,
+            "ratingCount": 294,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Blood testing service",
+                "Community health centre",
+                "Mental health service",
+                "Pediatrician",
+                "Podiatrist",
+                "STD testing service"
+            ],
+            "website": "http://www.tristateclinics.org/",
+            "phoneNumber": "(951) 929-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healow.com/apps/practice/tristate-community-healthcare-center-19087?v=2&t=1&f=RXBQ76vGyVpmowN5",
+                "https://www.zocdoc.com/practice/tri-state-community-healthcare-107155?LocIdent=270254&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_-Ly15lDTvEajqPrVIdVpfx-lo_Wbxg-5cEEkinEhfzsiD8kx-entity&rwg_token=AAiGsobGzxiPCgwr9uAw-0IqzuXyicNFfLotkmZ4l4IIRahu09DYvr6MGtpj_6ylpeDyzVKcZ9emXEVTwsekodik7yaVpsrFlw%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQlQVOLMim372XBx794snTL4OPXP_WyMeggSk",
+            "cid": "18400871248235723547",
+            "fid": "0x80db6f36905f3531:0xff5d06e884c9fb1b",
+            "placeId": "ChIJMTVfkDZv24ARG_vJhOgGXf8"
+        },
+        {
+            "position": 7,
+            "title": "TriState Clearwater Medical Clinic",
+            "address": "1522 17th St, Lewiston, ID 83501",
+            "latitude": 46.404334399999996,
+            "longitude": -117.00835289999999,
+            "rating": 3.2,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.tsh.org/clinics-services/family-practice-clearwater/",
+            "phoneNumber": "(208) 743-8416",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cwmKD8b6M85sAgx7ib03gA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=244.53798&pitch=0&thumbfov=100",
+            "cid": "2886135629313879445",
+            "fid": "0x54a1caaab05a756d:0x280d9d103eda2d95",
+            "placeId": "ChIJbXVasKrKoVQRlS3aPhCdDSg"
+        },
+        {
+            "position": 8,
+            "title": "Willis Knighton Tri State Medical Clinic",
+            "address": "2551 Greenwood Rd Suite 410, Shreveport, LA 71103",
+            "latitude": 32.4835717,
+            "longitude": -93.77825589999999,
+            "rating": 4.9,
+            "ratingCount": 472,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.tristatemedicalclinic.com/",
+            "phoneNumber": "(318) 621-2929",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMq2dlqg4Temcrq1XKu3i3R4HkcsCGBrdGLlg5P",
+            "cid": "13603389519078853441",
+            "fid": "0x8636cd7c37e81715:0xbcc8f2b199f78b41",
+            "placeId": "ChIJFRfoN3zNNoYRQYv3mbHyyLw"
+        },
+        {
+            "position": 9,
+            "title": "Tri-State Medical",
+            "address": "3263 Westchester Ave, Bronx, NY 10461",
+            "latitude": 40.852610999999996,
+            "longitude": -73.8281931,
+            "rating": 4.3,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.tristatemedicalbronx.com/",
+            "phoneNumber": "(347) 281-4610",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.tristatemedicalbronx.com/appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuJ3FXAvGm3e8CtRFlc9Vl47TYMM_phgjNpz_D",
+            "cid": "13760652202280114815",
+            "fid": "0x89c28dcec0d1d6f9:0xbef7a8455a9a5a7f",
+            "placeId": "ChIJ-dbRwM6NwokRf1qaWkWo974"
+        },
+        {
+            "position": 10,
+            "title": "TriState Family Practice & Internal Medicine Clarkston",
+            "address": "1119 Highland Ave Suite 10, Clarkston, WA 99403",
+            "latitude": 46.4033005,
+            "longitude": -117.05292469999999,
+            "rating": 3.7,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.tsh.org/clinics-services/family-practice-clarkston/",
+            "phoneNumber": "(509) 758-1450",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLHqraNJcicYoVf_UG2NrnCXJMAyKSgUL82W9b",
+            "cid": "8220607158280355408",
+            "fid": "0x54a1ca908a2a9053:0x721576a7e3557e50",
+            "placeId": "ChIJU5AqipDKoVQRUH5V46d2FXI"
+        },
+        {
+            "position": 11,
+            "title": "Tri-State Community Health Center",
+            "address": "4041 Knight Arnold Rd, Memphis, TN 38118",
+            "latitude": 35.064369899999996,
+            "longitude": -89.928649,
+            "rating": 2.8,
+            "ratingCount": 30,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Medical clinic"
+            ],
+            "website": "http://www.tristatechc.com/",
+            "phoneNumber": "(901) 572-1573",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20137\u202fPM",
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qq2sJo_PxLViNkGLi3lKjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=136.16948&pitch=0&thumbfov=100",
+            "cid": "12651016185275799926",
+            "fid": "0x887f86744316caf9:0xaf9170314b14d976",
+            "placeId": "ChIJ-coWQ3SGf4gRdtkUSzFwka8"
+        },
+        {
+            "position": 12,
+            "title": "Tri State Community Clinics, LLC",
+            "address": "1033 E Mt Pleasant Rd # D, Evansville, IN 47725",
+            "latitude": 38.057012799999995,
+            "longitude": -87.5443033,
+            "rating": 3.5,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(888) 492-8722",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JCX6Pdis6m-rSq4o9TMXDg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=86.37659&pitch=0&thumbfov=100",
+            "cid": "9133359485979127792",
+            "fid": "0x8871d55f6191f415:0x7ec0360fd7baeff0",
+            "placeId": "ChIJFfSRYV_VcYgR8O-61w82wH4"
+        },
+        {
+            "position": 13,
+            "title": "Tri-State Community Healthcare Center",
+            "address": "4137 Verdugo Rd, Los Angeles, CA 90065",
+            "latitude": 34.1260951,
+            "longitude": -118.23210519999999,
+            "rating": 4.8,
+            "ratingCount": 121,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Doctor",
+                "Family practice physician",
+                "Food bank",
+                "Immunologist",
+                "Medical Center",
+                "Mental health service",
+                "Ophthalmologist",
+                "Pediatrician"
+            ],
+            "website": "http://tristateclinics.org/",
+            "phoneNumber": "(323) 344-9255",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healow.com/apps/practice/tristate-community-healthcare-center-19087?v=2&t=1&f=qK6QgyAeLvbMEZB3",
+                "https://www.zocdoc.com/practice/tri-state-community-healthcare-107155?LocIdent=271055&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_-Ly15lDTvEajqPrVIdVpfx-lo_a-9Byr0LgEOGqBM06HHvFh-entity&rwg_token=AAiGsoYoNpRsA0arm-hISy1U7VGQlcWOdE7ikTwtkdXR_6NOG2TNBo-X6KChjbBdjjBxZUffQzck59wjq45nGhtvZ5z5fgHXmfeejvBjsIRgFRo2iOUE7f8%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgplEVeQODtdfZ3mOMJYaMYOH-XBjrcUa5eH1F",
+            "cid": "3353704567139430801",
+            "fid": "0x80c2c1f96f1b51b7:0x2e8ac088fdf37191",
+            "placeId": "ChIJt1Ebb_nBwoARkXHz_YjAii4"
+        },
+        {
+            "position": 14,
+            "title": "Tri-State Community Healthcare Center",
+            "address": "820 W Broadway St, Needles, CA 92363",
+            "latitude": 34.8390625,
+            "longitude": -114.6051979,
+            "rating": 3.7,
+            "ratingCount": 46,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Medical Center",
+                "Medical office",
+                "Mental health service",
+                "Non-profit organization",
+                "Pediatrician",
+                "Podiatrist"
+            ],
+            "website": "http://tristateclinics.org/",
+            "phoneNumber": "(760) 326-0222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healow.com/apps/practice/tristate-community-healthcare-center-19087?v=2&t=1&f=6jGZQ0k1QkyWnLO9",
+                "https://www.zocdoc.com/practice/tri-state-community-healthcare-107155?LocIdent=271057&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_-Ly15lDTvEajqPrVIdVpfx-lo_Csr4lZg06UG67o6vjmXIfx-entity&rwg_token=AAiGsoZwnSWwb75PkwgJD4pWVR381k3vjhGQvC9DPd-RnbwSbzd8iocfFIgCtGMxpB1hqIp1sYi98QSJErJCUg4f4de8oSnj7A%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMK4yy3F36-4Iu0Ju9WZpBqYmZqI-lLZlfZSNI5",
+            "cid": "7717791721602928268",
+            "fid": "0x80ce237e04e88b19:0x6b1b1aae2097ce8c",
+            "placeId": "ChIJGYvoBH4jzoARjM6XIK4aG2s"
+        },
+        {
+            "position": 15,
+            "title": "Tri-State Community Health Center: Morton Ronda",
+            "address": "525 Fulton Dr, Mcconnellsburg, PA 17233",
+            "latitude": 39.9234168,
+            "longitude": -77.9949449,
+            "rating": 3.3,
+            "ratingCount": 28,
+            "type": "Nursing agency",
+            "types": [
+                "Nursing agency"
+            ],
+            "website": "https://www.tschc.com/fulton.html",
+            "phoneNumber": "(717) 485-3850",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEnscDLoPQ66vPz0w_U6i5taop0zRSOjAnl7Cz",
+            "cid": "4292820779861355141",
+            "fid": "0x89ca296735e934d5:0x3b9329c1440d2a85",
+            "placeId": "ChIJ1TTpNWcpyokRhSoNRMEpkzs"
+        },
+        {
+            "position": 16,
+            "title": "Tri-State Community Health Center",
+            "address": "261 Berkmore Pl, Berkeley Springs, WV 25411",
+            "latitude": 39.611316599999995,
+            "longitude": -78.2344818,
+            "rating": 3.7,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "https://www.tschc.com/berkeley.html",
+            "phoneNumber": "(304) 258-5790",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "cid": "14455989841165316117",
+            "fid": "0x89ca139717960a2d:0xc89dfe2b5f507015",
+            "placeId": "ChIJLQqWF5cTyokRFXBQXyv-ncg"
+        },
+        {
+            "position": 17,
+            "title": "Tri-State Community Healthcare Center Specialty Clinic",
+            "address": "11888 Bartlett Ave, Adelanto, CA 92301",
+            "latitude": 34.5795033,
+            "longitude": -117.406836,
+            "rating": 4.3,
+            "ratingCount": 159,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Blood testing service",
+                "Doctor",
+                "Drug testing service",
+                "HIV testing center",
+                "Mental health service",
+                "Pediatrician",
+                "Podiatrist",
+                "STD testing service"
+            ],
+            "website": "https://www.tristateclinics.org/",
+            "phoneNumber": "(760) 530-9944",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://app.nexhealth.com/appt/tristatecommunityhealthcare?lid=19911"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEwl3olUhubgFQmSAdpK7HjN7tnEbzA8dOlfRe",
+            "cid": "9565255892685409649",
+            "fid": "0x80c370351483c265:0x84be9d8e3539cd71",
+            "placeId": "ChIJZcKDFDVww4ARcc05NY6dvoQ"
+        },
+        {
+            "position": 18,
+            "title": "Tri-State Community Health Center",
+            "address": "130 W High St, Hancock, MD 21750",
+            "latitude": 39.700863,
+            "longitude": -78.182712,
+            "rating": 2.7,
+            "ratingCount": 15,
+            "type": "Health",
+            "types": [
+                "Health",
+                "Community health centre",
+                "Doctor"
+            ],
+            "website": "https://www.tschc.com/",
+            "phoneNumber": "(301) 678-7256",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4QFMK1378JCeKaP-otf5fw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=99.28225&pitch=0&thumbfov=100",
+            "cid": "4786189984907836049",
+            "fid": "0x89ca161ee64796a1:0x426bf66ed5f6ba91",
+            "placeId": "ChIJoZZH5h4WyokRkbr21W72a0I"
+        },
+        {
+            "position": 19,
+            "title": "Tri-State Family Healthcare",
+            "address": "3503 W Cumberland Ave, Middlesboro, KY 40965",
+            "latitude": 36.6050834,
+            "longitude": -83.7383346,
+            "rating": 4.4,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner"
+            ],
+            "phoneNumber": "(606) 242-3100",
+            "openingHours": {
+                "Tuesday": "8:45\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:45\u202fAM\u20135\u202fPM",
+                "Thursday": "8:45\u202fAM\u20135\u202fPM",
+                "Friday": "8:45\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:45\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPSGiP7kWXFORhypNmIbV8y7kJZy6-dIUZVr1n1",
+            "cid": "15507464191660627870",
+            "fid": "0x885c84d7eca14e71:0xd73594852f05979e",
+            "placeId": "ChIJcU6h7NeEXIgRnpcFL4WUNdc"
+        },
+        {
+            "position": 20,
+            "title": "Tri State Clinic",
+            "address": "1520 Slate Creek Rd #102, Grundy, VA 24614",
+            "latitude": 37.2849423,
+            "longitude": -82.06789959999999,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist",
+                "Pediatrician",
+                "Physician assistant"
+            ],
+            "phoneNumber": "(276) 935-6055",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwjV4Yw0ERmGnkF7dJNBAZGKUErsU4_UUKTiGM",
+            "cid": "11501090194970793844",
+            "fid": "0x884ff116f2e16b21:0x9f9c1498d0f65774",
+            "placeId": "ChIJIWvh8hbxT4gRdFf20JgUnJ8"
+        }
+    ],
+    "credits": 3
+}

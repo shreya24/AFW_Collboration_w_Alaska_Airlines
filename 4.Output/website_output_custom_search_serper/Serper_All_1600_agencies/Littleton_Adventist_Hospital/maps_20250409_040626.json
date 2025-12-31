@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Littleton Adventist Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.576102,-104.985752,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AdventHealth Hospital Littleton",
+            "address": "7700 S Broadway, Littleton, CO 80122",
+            "latitude": 39.576102,
+            "longitude": -104.98575199999999,
+            "rating": 4.3,
+            "ratingCount": 1330,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventhealth.com/hospital/adventhealth-littleton",
+            "phoneNumber": "(303) 730-8900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8auBsuwHPJk1HMOiZiNF_qEWoDdjZqwMXIqZgAAnOb3HNaxCLmJqYmPWozJsoh0OJK8qQaqFkVi550RiGmmFBe6A16nN4Cv5I4jjSU7XdjENH4t3ALfvQssVdvu37Ayg1MOaP3",
+            "cid": "2068204182141740218",
+            "fid": "0x876c822ab6e11c17:0x1cb3bcbeef8924ba",
+            "placeId": "ChIJFxzhtiqCbIcRuiSJ7768sxw"
+        }
+    ],
+    "credits": 3
+}

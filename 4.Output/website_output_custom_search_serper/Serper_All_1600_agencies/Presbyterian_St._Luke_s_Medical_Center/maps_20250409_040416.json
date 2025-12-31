@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian St. Luke's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7466017,-104.9666911,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HCA HealthONE Presbyterian St. Luke's",
+            "address": "1719 E 19th Ave, Denver, CO 80218",
+            "latitude": 39.7466017,
+            "longitude": -104.96669109999999,
+            "rating": 4.5,
+            "ratingCount": 2537,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/presbyterian-st-lukes?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(720) 754-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9geu5BQmy_qCmpmPIL_5N7KIQS7GUtFFVKfPi1wwAN0Zql24gHkM51ZklOzEII0kOCM2_nC555K8_rppQBj95xVPPzjCf-dr97-ENdaLl8niyQFWzRYHY_pqmzMWcSjbeeIkp1DA",
+            "cid": "17076938788581503393",
+            "fid": "0x876c7936a175e7ed:0xecfd7959c87d71a1",
+            "placeId": "ChIJ7ed1oTZ5bIcRoXF9yFl5_ew"
+        }
+    ],
+    "credits": 3
+}

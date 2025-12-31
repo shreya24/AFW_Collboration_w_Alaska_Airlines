@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "St. Vincent's Hospital(Professional Bldg",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2013082,-73.2011143,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Vincent's Medical Center",
+            "address": "2800 Main St, Bridgeport, CT 06606",
+            "latitude": 41.2013082,
+            "longitude": -73.2011143,
+            "rating": 2.8,
+            "ratingCount": 395,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.stvincents.org/",
+            "phoneNumber": "(203) 576-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwvGHk84MD4egaZig0MAQehlgoGRBkB3rZzxtd",
+            "cid": "2865938298798911072",
+            "fid": "0x89e80e8d8befec81:0x27c5dbb2c818ae60",
+            "placeId": "ChIJgezvi40O6IkRYK4YyLLbxSc"
+        }
+    ],
+    "credits": 3
+}

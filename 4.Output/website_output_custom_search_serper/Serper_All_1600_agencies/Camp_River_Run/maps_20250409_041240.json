@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Camp River Run",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6136526,-116.217338,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp River Run",
+            "address": "Boise, ID 83711",
+            "latitude": 43.613652599999995,
+            "longitude": -116.217338,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.campriverrun.org/",
+            "phoneNumber": "(208) 286-1078",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyEUm1pXA_eP8KxmCvBkEnrTi9fk4ePWFEmJu_",
+            "cid": "4336672013949004479",
+            "fid": "0x54ae55540ce3bb83:0x3c2ef43852ceeabf",
+            "placeId": "ChIJg7vjDFRVrlQRv-rOUjj0Ljw"
+        }
+    ],
+    "credits": 3
+}

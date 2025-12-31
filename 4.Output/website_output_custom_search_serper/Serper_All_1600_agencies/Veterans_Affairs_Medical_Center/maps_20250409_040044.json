@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Veterans Affairs Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@26.7849889,-80.1123779,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Thomas H. Corey VA Medical Center",
+            "address": "7305 N Military Trl, West Palm Beach, FL 33410",
+            "latitude": 26.7849889,
+            "longitude": -80.1123779,
+            "rating": 3.9,
+            "ratingCount": 533,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Hospital department",
+                "Medical clinic",
+                "Medical laboratory",
+                "Military hospital",
+                "Pharmacy",
+                "Social worker"
+            ],
+            "website": "https://www.va.gov/west-palm-beach-health-care/",
+            "phoneNumber": "(561) 422-8262",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPV-4UU18Lv50TC47cJ0J1cZAmgocd7J2eyPUKL",
+            "cid": "18290437099349224708",
+            "fid": "0x88d92a86683f9097:0xfdd4afa28d562d04",
+            "placeId": "ChIJl5A_aIYq2YgRBC1WjaKv1P0"
+        }
+    ],
+    "credits": 3
+}

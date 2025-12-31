@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Clinical Labs at Kapiolani Medical Center for Women and Children",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.299963,-157.833318,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clinical Labs of Hawaii Kapiolani Medical Center",
+            "address": "Basement, Parking lot, 1319 Punahou St, Honolulu, HI 96826",
+            "latitude": 21.299962999999998,
+            "longitude": -157.833318,
+            "rating": 3.3,
+            "ratingCount": 4,
+            "type": "Pathologist",
+            "types": [
+                "Pathologist"
+            ],
+            "website": "https://www.clinicallabs.com/locationsCLH-7OP/Kapiolani-Medical-Center",
+            "phoneNumber": "(808) 983-8569",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "6:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "6:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "6:30\u202fAM\u20131\u202fPM",
+                "Sunday": "6:30\u202fAM\u201312\u202fPM",
+                "Monday": "6:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoiM6MELix-ljb0KK_XU92EGOgD_mtzf1eOnKP",
+            "cid": "7385082606929614489",
+            "fid": "0x7c006deb22f366ff:0x667d1580cef49699",
+            "placeId": "ChIJ_2bzIuttAHwRmZb0zoAVfWY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Community Hospital of Monterey",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.5785565,-121.9134146,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Hospital of the Monterey Peninsula",
+            "address": "23625 Holman Hwy, Monterey, CA 93940",
+            "latitude": 36.5785565,
+            "longitude": -121.9134146,
+            "rating": 3.3,
+            "ratingCount": 266,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.montagehealth.org/locations/profile/community-hospital-monterey-peninsula/",
+            "phoneNumber": "(831) 624-5311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODRYzpz30rJoja81U_pANXDBnzCbnf4XxQS7vp",
+            "cid": "6398749124632570023",
+            "fid": "0x808de687e280bfed:0x58ccec6d4490e8a7",
+            "placeId": "ChIJ7b-A4ofmjYARp-iQRG3szFg"
+        }
+    ],
+    "credits": 3
+}

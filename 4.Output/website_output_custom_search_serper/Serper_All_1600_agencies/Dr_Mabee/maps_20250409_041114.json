@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Dr Mabee",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1398904,-81.6527953,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scott Mabee, MD",
+            "address": "3800 Embassy Pkwy Ste 240, Fairlawn, OH 44333",
+            "latitude": 41.142814699999995,
+            "longitude": -81.6467617,
+            "rating": 4,
+            "ratingCount": 6,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Doctor"
+            ],
+            "website": "https://www.uhhospitals.org/doctors/Mabee-Scott-1336320456?utm_campaign=Mabee_Scott_3800_Embassy_Pkwy&utm_source=yext&utm_medium=locallisting&utm_content=website_url",
+            "phoneNumber": "(330) 666-9002",
+            "bookingLinks": [
+                "https://www.uhhospitals.org/doctors/Mabee-Scott-1336320456?utm_campaign=Mabee_Scott_3800_Embassy_Pkwy&utm_source=yext&utm_medium=locallisting&utm_content=appointment_url"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-4FXHE5rXjLhmoZV8e1t7lLm3OS9Wkr7RdHtd",
+            "cid": "8404527954532044724",
+            "fid": "0x8830db4d0ec2c295:0x74a2e1a542b90fb4",
+            "placeId": "ChIJlcLCDk3bMIgRtA-5QqXhonQ"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Grant W. Mabee, MD",
+            "address": "4125 Medina Rd # 200B, Akron, OH 44333",
+            "latitude": 41.136966,
+            "longitude": -81.658829,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(330) 666-3781",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YyOE9EzaSc-MM8DA_1Dmgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=201.9987&pitch=0&thumbfov=100",
+            "cid": "14569904271352702865",
+            "fid": "0x8830d09f8d710c8b:0xca32b2bd796ca791",
+            "placeId": "ChIJiwxxjZ_QMIgRkadseb2yMso"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Hawaii Pacific Dental Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2824676,-157.7131307,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hawaii Pacific Dental Group, Inc.",
+            "address": "6700 Kalaniana\u02bbole Hwy Ste 216, Honolulu, HI 96825",
+            "latitude": 21.2824676,
+            "longitude": -157.7131307,
+            "rating": 4.5,
+            "ratingCount": 39,
+            "type": "Dentist",
+            "types": [
+                "Dentist",
+                "Cosmetic dentist",
+                "Dental clinic",
+                "Dental implants provider",
+                "Denture care center",
+                "Teeth whitening service"
+            ],
+            "website": "http://www.hawaiipacificdental.com/",
+            "phoneNumber": "(808) 955-0008",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.hawaiipacificdental.com/consultation"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMjofDHkTODDJk6XAYodlIhg80tO7lHVqnfed-N",
+            "cid": "8381588201101792862",
+            "fid": "0x7c006df02f0bfd4d:0x7451620fb447165e",
+            "placeId": "ChIJTf0LL_BtAHwRXhZHtA9iUXQ"
+        }
+    ],
+    "credits": 3
+}

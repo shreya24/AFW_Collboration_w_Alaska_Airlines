@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Trellis Chino",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0267958,-117.6859036,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Trellis Chino",
+            "address": "5454 Walnut Ave, Chino, CA 91710",
+            "latitude": 34.026795799999995,
+            "longitude": -117.68590359999999,
+            "rating": 3.3,
+            "ratingCount": 45,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "https://trellischino.com/",
+            "phoneNumber": "(909) 465-0246",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHo9QiWZ7WgVsXwMiIwYugpZ2Gwui9mmmd2djU",
+            "cid": "3759704238014962747",
+            "fid": "0x80c3331c3baf49eb:0x342d2715af699c3b",
+            "placeId": "ChIJ60mvOxwzw4ARO5xprxUnLTQ"
+        }
+    ],
+    "credits": 3
+}

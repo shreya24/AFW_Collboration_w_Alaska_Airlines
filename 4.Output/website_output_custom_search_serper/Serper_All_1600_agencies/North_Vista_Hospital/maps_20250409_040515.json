@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "North Vista Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1962414,-115.1220938,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Vista Hospital",
+            "address": "1409 E Lake Mead Blvd, North Las Vegas, NV 89030",
+            "latitude": 36.1950921,
+            "longitude": -115.12286449999999,
+            "rating": 3.6,
+            "ratingCount": 855,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Heart hospital",
+                "Hospital",
+                "Hospital department",
+                "Medical diagnostic imaging center",
+                "Mental health service",
+                "Surgical center",
+                "Weight loss service"
+            ],
+            "website": "https://www.northvistahospital.com/?utm_source=GMBlisting&utm_medium=Organic&utm_campaign=GMBWebsite",
+            "phoneNumber": "(702) 649-7711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsD9BLdrX2N-p-ib8quQxZFu7hOI-Lre0IrLrI",
+            "cid": "8768311887015640786",
+            "fid": "0x80c8c31e232b0a27:0x79af4d346966fed2",
+            "placeId": "ChIJJworIx7DyIAR0v5maTRNr3k"
+        },
+        {
+            "position": 2,
+            "title": "North vista hospital medical center",
+            "address": "2031 N McDaniel St, North Las Vegas, NV 89030",
+            "latitude": 36.1973908,
+            "longitude": -115.12132319999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOo65bMNcfu3--3sRj3hEMEPUwISG9M8axL9QJ4",
+            "cid": "571601202053329884",
+            "fid": "0x80c8c2e1b0711267:0x7eebc43c99333dc",
+            "placeId": "ChIJZxJxsOHCyIAR3DOTyUO87gc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Mat Su Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5631321,-149.2577137,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mat-Su Regional Medical Center",
+            "address": "2500 S Woodworth Loop, Palmer, AK 99645",
+            "latitude": 61.5631321,
+            "longitude": -149.25771369999998,
+            "rating": 4.5,
+            "ratingCount": 2040,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.matsuregional.com/?utm_source=gmb&utm_medium=homepage&utm_campaign=biz-listings",
+            "phoneNumber": "(907) 861-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAtcuqw4LyQ-acqlNEBcVkBsKgzF58_7mE1XNi",
+            "cid": "326787996786308655",
+            "fid": "0x56c8e10c4056f261:0x488fbf3a14f362f",
+            "placeId": "ChIJYfJWQAzhyFYRLzZPofP7iAQ"
+        }
+    ],
+    "credits": 3
+}

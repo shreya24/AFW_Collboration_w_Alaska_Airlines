@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Bellevue ENT",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5365564,-122.0196592,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bellevue Ear Nose & Throat",
+            "address": "510 8th Ave NE #310, Issaquah, WA 98029",
+            "latitude": 47.536556399999995,
+            "longitude": -122.01965919999999,
+            "rating": 4.8,
+            "ratingCount": 672,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Hearing aid store",
+                "Medical spa",
+                "Otolaryngology clinic",
+                "Plastic surgeon",
+                "Surgeon",
+                "Surgical center"
+            ],
+            "website": "https://bellevueent.com/",
+            "phoneNumber": "(425) 454-3938",
+            "menu": "http://bellevueent.com/about-us/physicians/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyaNy84cXjvoU9BwrwlrYnZ67t8O9K0_IkiHXP",
+            "cid": "12136273259999158084",
+            "fid": "0x54906f9c7f1dba6f:0xa86cb43aaf525f44",
+            "placeId": "ChIJb7odf5xvkFQRRF9Srzq0bKg"
+        }
+    ],
+    "credits": 3
+}

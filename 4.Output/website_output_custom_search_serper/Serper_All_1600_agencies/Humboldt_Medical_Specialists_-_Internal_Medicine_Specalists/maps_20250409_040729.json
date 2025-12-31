@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Humboldt Medical Specialists - Internal Medicine Specalists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.895655,-124.092294,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Humboldt Medical Specialists",
+            "address": "3770 Janes Rd, Arcata, CA 95521",
+            "latitude": 40.895655,
+            "longitude": -124.092294,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(707) 822-2404",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xZ-QEAhwt1OOoGlDAFxJhg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=166.67737&pitch=0&thumbfov=100",
+            "cid": "11337495257030317755",
+            "fid": "0x54d1574d784ef83f:0x9d56dfde1df7d6bb",
+            "placeId": "ChIJP_hOeE1X0VQRu9b3Hd7fVp0"
+        }
+    ],
+    "credits": 3
+}

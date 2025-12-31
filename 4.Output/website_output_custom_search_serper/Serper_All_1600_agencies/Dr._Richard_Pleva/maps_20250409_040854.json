@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. Richard Pleva",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6292638,-112.4219361,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Richard Pleva, MD",
+            "address": "5350 Distinction Way, Prescott, AZ 86301",
+            "latitude": 34.6292638,
+            "longitude": -112.4219361,
+            "rating": 3.5,
+            "ratingCount": 25,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "http://prescottdigestive.com/",
+            "phoneNumber": "(928) 445-4066",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP2YN8KOEA6VB2s93IBaeArsnMvnySuXbnYBV5P",
+            "cid": "11856048568681889749",
+            "fid": "0x872d255c19b15fe1:0xa489255b700fffd5",
+            "placeId": "ChIJ4V-xGVwlLYcR1f8PcFsliaQ"
+        }
+    ],
+    "credits": 3
+}

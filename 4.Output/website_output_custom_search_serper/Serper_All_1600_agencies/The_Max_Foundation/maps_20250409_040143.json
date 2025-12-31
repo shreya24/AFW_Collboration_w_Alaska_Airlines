@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "The Max Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6689862,-122.3757752,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Max Foundation",
+            "address": "1448 NW Market St Suite 500, Seattle, WA 98107",
+            "latitude": 47.6689862,
+            "longitude": -122.37577519999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://themaxfoundation.org/",
+            "phoneNumber": "(425) 778-8660",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrz1zKRvUUGVpsg6JiGBqar-H0e4JqEPq5FUYV",
+            "cid": "11831684403138989660",
+            "fid": "0x54901af905e6a7bd:0xa432964717a10e5c",
+            "placeId": "ChIJvafmBfkakFQRXA6hF0eWMqQ"
+        }
+    ],
+    "credits": 3
+}

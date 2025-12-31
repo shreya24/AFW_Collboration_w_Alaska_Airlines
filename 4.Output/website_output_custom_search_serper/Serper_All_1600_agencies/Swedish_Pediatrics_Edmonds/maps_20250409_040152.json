@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Swedish Pediatrics Edmonds",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.8028607,-122.3307305,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Pediatrics - Edmonds",
+            "address": "21600 Hwy 99 Suite 290, Edmonds, WA 98026",
+            "latitude": 47.8028607,
+            "longitude": -122.3307305,
+            "rating": 3.9,
+            "ratingCount": 45,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.swedish.org/locations/pediatrics-edmonds?Is=location&y_source=1_OTU3NjUxMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 673-3456",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20136:30\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2Ux0rIPpO9sWx78pnOY1Nr00UIO0bf1VRkRVz",
+            "cid": "5503529777912883984",
+            "fid": "0x54901abb16542655:0x4c60772c8f482b10",
+            "placeId": "ChIJVSZUFrsakFQRECtIjyx3YEw"
+        }
+    ],
+    "credits": 3
+}

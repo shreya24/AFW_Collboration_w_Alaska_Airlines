@@ -1,0 +1,89 @@
+{
+    "searchParameters": {
+        "q": "SCCI Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3135008,-109.6749629,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kentfield Hospital",
+            "address": "1125 Sir Francis Drake Blvd, Kentfield, CA 94904",
+            "latitude": 37.9587453,
+            "longitude": -122.5524318,
+            "rating": 3.5,
+            "ratingCount": 69,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Specialized hospital"
+            ],
+            "website": "http://www.kentfieldhospital.com/",
+            "phoneNumber": "(415) 456-9680",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFA5nZC5CHkponIyHcDKVLO65o4vjOZRm7ZHvn",
+            "cid": "1787656381898737547",
+            "fid": "0x808590b347876533:0x18cf08020788c78b",
+            "placeId": "ChIJM2WHR7OQhYARi8eIBwIIzxg"
+        },
+        {
+            "position": 2,
+            "title": "Kentfield Hospital San Francisco",
+            "address": "450 Stanyan St 6th Floor, San Francisco, CA 94117",
+            "latitude": 37.774181899999995,
+            "longitude": -122.45369459999999,
+            "rating": 3.4,
+            "ratingCount": 49,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Specialized hospital"
+            ],
+            "website": "http://www.kentfieldsanfrancisco.com/",
+            "phoneNumber": "(415) 688-3200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPql-QX0cAygVcHJFL01e7kbUY9B2dLPYe4Yroa",
+            "cid": "14538507295525250399",
+            "fid": "0x8085874e8d7a2c6f:0xc9c3275b6235255f",
+            "placeId": "ChIJbyx6jU6HhYARXyU1Ylsnw8k"
+        },
+        {
+            "position": 3,
+            "title": "SCCI Hospitals-Central Dkts",
+            "address": "1720 S University Dr, Fargo, ND 58103",
+            "latitude": 46.8528197,
+            "longitude": -96.797494,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(701) 241-7694",
+            "isPermanentlyClosed": true,
+            "cid": "9324468278294736758",
+            "fid": "0x52c8cc06615b759d:0x81672a7ef727ef76",
+            "placeId": "ChIJnXVbYQbMyFIRdu8n934qZ4E"
+        }
+    ],
+    "credits": 3
+}

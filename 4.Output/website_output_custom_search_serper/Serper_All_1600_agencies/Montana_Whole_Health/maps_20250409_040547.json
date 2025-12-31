@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Montana Whole Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.8460668,-114.0489499,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montana Whole Health",
+            "address": "2835 Fort Missoula Rd # 306, Missoula, MT 59804",
+            "latitude": 46.846066799999996,
+            "longitude": -114.0489499,
+            "rating": 4.8,
+            "ratingCount": 28,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Doctor",
+                "Pediatrician"
+            ],
+            "website": "http://mtwholehealth.com/",
+            "phoneNumber": "(406) 552-1717",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://mtwholehealth.com/schedule"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqotRLqxRa4YQYzjxfZllmy9hK0n9ndWgt8B6c",
+            "cid": "11042897299017678158",
+            "fid": "0x535dce8752745271:0x99404095ef11bd4e",
+            "placeId": "ChIJcVJ0UofOXVMRTr0R75VAQJk"
+        }
+    ],
+    "credits": 3
+}

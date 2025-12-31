@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Clovis Community Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8407583,-119.6601531,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Clovis Community Medical Center",
+            "address": "2755 Herndon Ave, Clovis, CA 93611",
+            "latitude": 36.8407583,
+            "longitude": -119.66015309999999,
+            "rating": 2.6,
+            "ratingCount": 736,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.communitymedical.org/hospitals-facilities/Clovis-Community-Medical-Center",
+            "phoneNumber": "(559) 324-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9TE08msQvO-D8u4ow2fIHrjeTP2NktfI2NOLzteq9gKr2gWXdFbPcdfkrHJLggcQMEpSBJD7ytB6_mrgoGN3ZY_bC3tBC3oNJKrau7kixWBF-gkpq-ema8JC1MXru6nk56wVV0",
+            "cid": "8752083068325668494",
+            "fid": "0x80945b0548b4f213:0x7975a52e1c43268e",
+            "placeId": "ChIJE_K0SAVblIARjiZDHC6ldXk"
+        }
+    ],
+    "credits": 3
+}

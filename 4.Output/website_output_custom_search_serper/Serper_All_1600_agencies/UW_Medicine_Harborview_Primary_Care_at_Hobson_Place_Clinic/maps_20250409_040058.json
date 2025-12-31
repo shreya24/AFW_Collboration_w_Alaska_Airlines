@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "UW Medicine Harborview Primary Care at Hobson Place Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5857467,-122.3046188,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Medicine Harborview Primary Care at Hobson Place Clinic",
+            "address": "2120 S Plum St Suite B, Seattle, WA 98144",
+            "latitude": 47.5857467,
+            "longitude": -122.3046188,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.uwmedicine.org/locations/primary-care-hobson-place",
+            "phoneNumber": "(206) 744-2001",
+            "openingHours": {
+                "Tuesday": "8:15\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:15\u202fAM\u20134\u202fPM",
+                "Thursday": "8:15\u202fAM\u20134\u202fPM",
+                "Friday": "8:15\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:15\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EgLo20n6G2ZyRg2n1JLL1A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=8.579265&pitch=0&thumbfov=100",
+            "cid": "9976248959250247327",
+            "fid": "0x54906bee4eaa1f71:0x8a72c1926ef8ae9f",
+            "placeId": "ChIJcR-qTu5rkFQRn674bpLBcoo"
+        }
+    ],
+    "credits": 3
+}

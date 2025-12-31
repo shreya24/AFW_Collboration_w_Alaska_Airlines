@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Abrazo Arrowhead Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6547318,-112.201219,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Abrazo Arrowhead Campus",
+            "address": "18701 N 67th Ave, Glendale, AZ 85308",
+            "latitude": 33.6547318,
+            "longitude": -112.201219,
+            "rating": 2.9,
+            "ratingCount": 1012,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.abrazohealth.com/locations/detail/abrazo-arrowhead-campus/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-abrazo-arrowhead-campus&utm_medium=google-local",
+            "phoneNumber": "(623) 561-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0-xZcZd1eMlQ0_35M9m7TA5Ifm81vNwdNJOcp",
+            "cid": "14846232124923141102",
+            "fid": "0x872b686778fc7a47:0xce0869757b095bee",
+            "placeId": "ChIJR3r8eGdoK4cR7lsJe3VpCM4"
+        }
+    ],
+    "credits": 3
+}

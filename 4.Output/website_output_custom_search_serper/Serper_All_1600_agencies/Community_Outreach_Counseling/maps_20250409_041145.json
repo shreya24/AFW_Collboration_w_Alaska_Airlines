@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Community Outreach Counseling",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.1189899,-95.0667389,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Outreach Counseling",
+            "address": "217 Industrial Dr SW, Willmar, MN 56201",
+            "latitude": 45.118989899999995,
+            "longitude": -95.06673889999999,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Counselor",
+            "types": [
+                "Counselor"
+            ],
+            "website": "http://www.communityoutreachcounseling.net/",
+            "phoneNumber": "(320) 905-4206",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7-eGm6f0AqXR5AfsdmIa5w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=113.775696&pitch=0&thumbfov=100",
+            "cid": "4653139470079550768",
+            "fid": "0x52b55ea638baaaab:0x409345b1d470e530",
+            "placeId": "ChIJq6q6OKZetVIRMOVw1LFFk0A"
+        }
+    ],
+    "credits": 3
+}

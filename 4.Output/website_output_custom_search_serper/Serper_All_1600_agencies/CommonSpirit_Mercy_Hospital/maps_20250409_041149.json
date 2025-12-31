@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "CommonSpirit Mercy Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2361018,-107.8255618,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CommonSpirit Mercy Hospital",
+            "address": "1010 Three Springs Blvd, Durango, CO 81301",
+            "latitude": 37.2361018,
+            "longitude": -107.82556179999999,
+            "rating": 4.4,
+            "ratingCount": 824,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency care service",
+                "Medical Center"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/mercy-hospital",
+            "phoneNumber": "(970) 247-4311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9KSY3G5Tj81bnnyTNqBZ4YqoX_YAanb8duliIsn9ZXQNhNJtBtqUaa-nQSOASng0qusuIjY0iju_2etPRa4fPBjE2QkoCKGOTCv4dXnZlujvdezFekokI_9i5fkv5DtbwO3Rsj",
+            "cid": "6520136982323254700",
+            "fid": "0x873c1ce507bbbc9d:0x5a7c2e0a4e43d5ac",
+            "placeId": "ChIJnby7B-UcPIcRrNVDTgoufFo"
+        }
+    ],
+    "credits": 3
+}

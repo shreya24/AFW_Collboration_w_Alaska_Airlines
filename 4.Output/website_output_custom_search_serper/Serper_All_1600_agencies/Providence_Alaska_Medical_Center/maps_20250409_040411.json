@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Providence Alaska Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1865955,-149.822128,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Alaska Medical Center",
+            "address": "3200 Providence Dr, Anchorage, AK 99508",
+            "latitude": 61.186595499999996,
+            "longitude": -149.822128,
+            "rating": 3.3,
+            "ratingCount": 269,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/alaska-medical-center?ls=location&y_source=1_OTU3NTY4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+            "phoneNumber": "(907) 562-2211",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFWJhSUC1mvYCB1cFXUAOD-9Lf6VDcxHla6un8",
+            "cid": "1990875543032169585",
+            "fid": "0x56c89700cedafaff:0x1ba102c21e720471",
+            "placeId": "ChIJ__razgCXyFYRcQRyHsICoRs"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Stephanie Lautenbach",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.4160796,-73.0734484,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denise Lautenbach",
+            "address": "50 Old Kings Hwy N, Darien, CT 06820",
+            "latitude": 41.080256,
+            "longitude": -73.4651105,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(203) 662-9333",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AjWy4NF68XHlaccTpUPfGw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=297.92233&pitch=0&thumbfov=100",
+            "cid": "3484487344080052628",
+            "fid": "0x89e81e29df92678d:0x305b62c7203c6194",
+            "placeId": "ChIJjWeS3yke6IkRlGE8IMdiWzA"
+        },
+        {
+            "position": 2,
+            "title": "Richard E. Lautenbach, PHD",
+            "address": "200 Retreat Ave, Hartford, CT 06106",
+            "latitude": 41.7519032,
+            "longitude": -72.6817864,
+            "type": "Psychologist",
+            "types": [
+                "Psychologist"
+            ],
+            "phoneNumber": "(860) 545-7229",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KOcMR5a9C__gCQBSWZaZ8Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=342.13956&pitch=0&thumbfov=100",
+            "cid": "4054328565266150992",
+            "fid": "0x89e653145ffb5c8b:0x3843de596f687650",
+            "placeId": "ChIJi1z7XxRT5okRUHZob1neQzg"
+        }
+    ],
+    "credits": 3
+}

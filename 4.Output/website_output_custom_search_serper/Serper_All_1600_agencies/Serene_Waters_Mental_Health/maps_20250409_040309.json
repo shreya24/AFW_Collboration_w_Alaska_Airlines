@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Serene Waters Mental Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.6502739,-151.5481393,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Serene Waters Mental Health",
+            "address": "4135 Hohe St, Homer, AK 99603",
+            "latitude": 59.650273899999995,
+            "longitude": -151.5481393,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://www.homermedical.org/behavioral-health/",
+            "phoneNumber": "(907) 235-7202",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GfRdwvN8xkPHNtQRxYL_ug&cb_client=search.gws-prod.gps&w=360&h=120&yaw=274.84207&pitch=0&thumbfov=100",
+            "cid": "8143822697347716787",
+            "fid": "0x56c1334953cbdb55:0x7104ab986d2c96b3",
+            "placeId": "ChIJVdvLU0kzwVYRs5YsbZirBHE"
+        }
+    ],
+    "credits": 3
+}

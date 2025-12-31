@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Flathead Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1881532,-114.311195,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Flathead City-County Health Department",
+            "address": "1035 1st Ave W #5607, Kalispell, MT 59901",
+            "latitude": 48.1881457,
+            "longitude": -114.311127,
+            "rating": 3.8,
+            "ratingCount": 20,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Environmental health service",
+                "Public health department"
+            ],
+            "website": "https://flathead.mt.gov/department-directory/health",
+            "phoneNumber": "(406) 751-8101",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB813sGMKUQYOA82Yhf514sudAvTz2QovGdHniS5jtlJd_GLVzxtRRScIXldwTaHBMW_mYWQcJutzio5AXkFUxqH0mMF-0PVzvfzHwXijGo_fIfP0gUZCrOpp6cFsjR-F-sLIV0V",
+            "cid": "11513716719562665427",
+            "fid": "0x536650c334ffab1d:0x9fc8f05aaa022dd3",
+            "placeId": "ChIJHav_NMNQZlMR0y0CqlrwyJ8"
+        },
+        {
+            "position": 2,
+            "title": "Greater Valley Health Center",
+            "address": "1035 1st Ave W 3rd Floor, Kalispell, MT 59901",
+            "latitude": 48.1881607,
+            "longitude": -114.31126309999999,
+            "rating": 3.1,
+            "ratingCount": 46,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Dental clinic",
+                "Mental health clinic"
+            ],
+            "website": "http://greatervalleyhealth.org/",
+            "phoneNumber": "(406) 607-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9_95foO4k0rym1eN_VS4J4Nt57XriM-ayp0NvN4wIDFBWuKoMXRzfIXQfaUurB_8rzf7A_FkqnXKqlryxlep3FRTRIVC_mTYOBuJ_JGpviBIguPtRsAWexwj2PCJpy3yPbJ3L1YQ",
+            "cid": "9471067979114763345",
+            "fid": "0x536650c334ffab1d:0x836ffe25aab65451",
+            "placeId": "ChIJHav_NMNQZlMRUVS2qiX-b4M"
+        }
+    ],
+    "credits": 3
+}

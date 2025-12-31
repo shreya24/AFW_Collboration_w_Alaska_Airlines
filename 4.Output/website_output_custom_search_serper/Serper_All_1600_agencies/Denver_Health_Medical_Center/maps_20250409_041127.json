@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Denver Health Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7282084,-104.9910754,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Denver Health",
+            "address": "777 Bannock St, Denver, CO 80204",
+            "latitude": 39.7282084,
+            "longitude": -104.9910754,
+            "rating": 3.9,
+            "ratingCount": 2817,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://www.denverhealth.org/?utm_medium=local_listing&utm_source=network&utm_campaign=brand",
+            "phoneNumber": "(303) 436-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-UFiJ4RcYUbse-tM1_EE6bI4-Bf1Koi2LduBj5IVinRosHKq-cjYzxa0XI6bT-Q7XsuEvOW22ySU6y3oQghghXb1xog_SvQcdCC891OQ1QGhVgtW8TRIfxOZvXJYMFHqsK6oIx",
+            "cid": "7897844294615798027",
+            "fid": "0x876c7f260ef2d78b:0x6d9ac78a97eb910b",
+            "placeId": "ChIJi9fyDiZ_bIcRC5Hrl4rHmm0"
+        }
+    ],
+    "credits": 3
+}

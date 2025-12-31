@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Joe Eyring",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.680088,-111.8690275,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Center-Colon & Rectal Disease: Eyring Edward J MD",
+            "address": "348 E 4500 S #200, Murray, UT 84107",
+            "latitude": 40.6742371,
+            "longitude": -111.8810101,
+            "rating": 1,
+            "ratingCount": 4,
+            "type": "Proctologist",
+            "types": [
+                "Proctologist"
+            ],
+            "phoneNumber": "(801) 265-3978",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vHalFNckMzhqRkCeBt9Nuw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=178.1859&pitch=0&thumbfov=100",
+            "cid": "12800458575296341022",
+            "fid": "0x87528a3e21767763:0xb1a45d4126a4241e",
+            "placeId": "ChIJY3d2IT6KUocRHiSkJkFdpLE"
+        },
+        {
+            "position": 2,
+            "title": "Eyring II Edward J MD",
+            "address": "1140 E 3900 S #340, Salt Lake City, UT 84124",
+            "latitude": 40.6859389,
+            "longitude": -111.85704489999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(801) 262-8666",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j9FM2wW5nRj4XLqFvmZsCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.26376&pitch=0&thumbfov=100",
+            "cid": "771335706935735101",
+            "fid": "0x87528a75da310e3d:0xab455bd1e7ab33d",
+            "placeId": "ChIJPQ4x2nWKUocRPbN6Hr1VtAo"
+        }
+    ],
+    "credits": 3
+}

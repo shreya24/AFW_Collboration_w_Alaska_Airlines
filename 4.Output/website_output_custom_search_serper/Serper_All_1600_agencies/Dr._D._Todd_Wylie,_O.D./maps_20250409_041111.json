@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr. D. Todd Wylie, O.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6544682,-117.358615,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. D. Todd Wylie, O.D.",
+            "address": "White Flag, 104 S Freya St #220, Spokane, WA 99202",
+            "latitude": 47.6544682,
+            "longitude": -117.358615,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "Optometrist",
+            "types": [
+                "Optometrist"
+            ],
+            "website": "http://drwylie.com/",
+            "phoneNumber": "(509) 535-5855",
+            "openingHours": {
+                "Tuesday": "7:45\u202fAM\u20132\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20134:15\u202fPM",
+                "Thursday": "7:45\u202fAM\u20134:15\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u20134:15\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jt8rYB3jXdZtfC_sZ3QXvA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=5.919856&pitch=0&thumbfov=100",
+            "cid": "10038416163991205728",
+            "fid": "0x549e229218ffd7ef:0x8b4f9e50ba3c3760",
+            "placeId": "ChIJ79f_GJIinlQRYDc8ulCeT4s"
+        }
+    ],
+    "credits": 3
+}

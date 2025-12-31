@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Morning Star Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.2248768,-92.7041409,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Morning Star Care Center",
+            "address": "4 N Fork Rd, Fort Washakie, WY 82514",
+            "latitude": 43.0042397,
+            "longitude": -108.8802918,
+            "rating": 3.8,
+            "ratingCount": 9,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "https://www.morningstarcarecenter.com/",
+            "phoneNumber": "(307) 332-6902",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_WzrwSunKSRYuyiMSR4RvXyqHjgjHnT5JwmiIkAmWmQDlh8XAPt4iTSbTaOQEr3OKKm1pzGGgFObkHGglAjEeQ_C4OavG2P0mY5VySxViD6ddfbyy6OOW6zfUg26BNBKSDvBOPdQ",
+            "cid": "4396780944947085181",
+            "fid": "0x8758599fb7d776eb:0x3d0480f96ac6ff7d",
+            "placeId": "ChIJ63bXt59ZWIcRff_GavmABD0"
+        },
+        {
+            "position": 2,
+            "title": "Morningstar Residential Care Center",
+            "address": "17 Sunrise Terrace, Oswego, NY 13126",
+            "latitude": 43.445513999999996,
+            "longitude": -76.52799,
+            "rating": 3,
+            "ratingCount": 20,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://www.morningstarcares.com/",
+            "phoneNumber": "(315) 342-4790",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMaOCUzPjCr9ba0KTEoKx77HT90VkBaJvYFdSQO",
+            "cid": "13801829178744356899",
+            "fid": "0x89d7634a37a4bb79:0xbf89f28349adc023",
+            "placeId": "ChIJebukN0pj14kRI8CtSYPyib8"
+        }
+    ],
+    "credits": 3
+}

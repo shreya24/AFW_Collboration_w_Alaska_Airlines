@@ -1,0 +1,64 @@
+{
+    "searchParameters": {
+        "q": "LAPD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0737799,-118.2873529,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "LAPD Headquarters",
+            "address": "100 W 1st St, Los Angeles, CA 90012",
+            "latitude": 34.0518273,
+            "longitude": -118.24394869999999,
+            "type": "Police department",
+            "types": [
+                "Police department",
+                "District government office"
+            ],
+            "phoneNumber": "(213) 486-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9sCnPgT4-EGQERorztudf_ljm5xuORl2sISrQ",
+            "cid": "14361284420531470977",
+            "fid": "0x80c2c16c4bf0c4fb:0xc74d881754214281",
+            "placeId": "ChIJ-8TwS2zBwoARgUIhVBeITcc"
+        },
+        {
+            "position": 2,
+            "title": "Los Angeles Police Department - Hollywood Station",
+            "address": "1358 Wilcox Ave, Los Angeles, CA 90028",
+            "latitude": 34.0957325,
+            "longitude": -118.3307571,
+            "type": "Police department",
+            "types": [
+                "Police department"
+            ],
+            "phoneNumber": "(213) 972-2971",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5R1m9NWbdEWIBCsc7zcFcuTlmU705GqqxSpUB",
+            "cid": "14477997770953953526",
+            "fid": "0x80c2bf30f1c4bc7b:0xc8ec2e43d49b90f6",
+            "placeId": "ChIJe7zE8TC_woAR9pCb1EMu7Mg"
+        }
+    ],
+    "credits": 3
+}

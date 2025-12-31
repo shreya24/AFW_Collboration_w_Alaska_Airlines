@@ -1,0 +1,584 @@
+{
+    "searchParameters": {
+        "q": "Pediatric Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.6265569,-103.3247331,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Medical Group of Santa Maria Inc.",
+            "address": "1430 E Main St, Santa Maria, CA 93454",
+            "latitude": 34.952709,
+            "longitude": -120.4127877,
+            "rating": 3.6,
+            "ratingCount": 59,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist"
+            ],
+            "website": "http://www.pmgsm.com/",
+            "phoneNumber": "(805) 922-3548",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKTm9WbNMJgHgB3qoiym6D8nBjBB3r0jleeD1G",
+            "cid": "6294128890828077295",
+            "fid": "0x80ec6cf4aff45217:0x57593ce0e454b8ef",
+            "placeId": "ChIJF1L0r_Rs7IAR77hU5OA8WVc"
+        },
+        {
+            "position": 2,
+            "title": "Pediatric Medical Group of Riverside, Inc.",
+            "address": "6950 Brockton Ave # 5, Riverside, CA 92506",
+            "latitude": 33.9474466,
+            "longitude": -117.3963819,
+            "rating": 3.4,
+            "ratingCount": 20,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.riversidepmg.com/",
+            "phoneNumber": "(951) 686-8223",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hexYQbjyT6S1bKM4lFq27g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=65.92071&pitch=0&thumbfov=100",
+            "cid": "1233248759614349698",
+            "fid": "0x80dcb1b2bca95a8f:0x111d61367c812182",
+            "placeId": "ChIJj1qpvLKx3IARgiGBfDZhHRE"
+        },
+        {
+            "position": 3,
+            "title": "San Pedro Pediatric Medical Group",
+            "address": "1294 W 6th St #102, San Pedro, CA 90731",
+            "latitude": 33.73899,
+            "longitude": -118.30523529999999,
+            "rating": 4.4,
+            "ratingCount": 13,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.sanpedropediatricmedicalgroup.com/",
+            "phoneNumber": "(310) 832-6487",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 2\u20136\u202fPM",
+                "Saturday": "8\u20139\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 2\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ekRbo-YZ7BMkrc89BYgw1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.13672&pitch=0&thumbfov=100",
+            "cid": "1530198718104082077",
+            "fid": "0x80dd49d958054cdf:0x153c5ba0745a169d",
+            "placeId": "ChIJ30wFWNlJ3YARnRZadKBbPBU"
+        },
+        {
+            "position": 4,
+            "title": "Children's Medical Group, P.C - Atlanta",
+            "address": "1875 Century Blvd NE #150, Atlanta, GA 30345",
+            "latitude": 33.845940399999996,
+            "longitude": -84.3124304,
+            "rating": 4.9,
+            "ratingCount": 556,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical Center"
+            ],
+            "website": "http://www.cmg-pc.com/",
+            "phoneNumber": "(404) 633-4595",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healow.com/apps/practice/childrens-medical-group-2173?v=1&locale=en"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4nUG5VLWh18vxsNeVkOesL9Uhg08D9FoihwnI",
+            "cid": "6276494413968321870",
+            "fid": "0x88f508807a4e3e41:0x571a966a4b4e2d4e",
+            "placeId": "ChIJQT5OeoAI9YgRTi1OS2qWGlc"
+        },
+        {
+            "position": 5,
+            "title": "Pediatric Medical Group",
+            "address": "901 Campus Dr #207, Daly City, CA 94015",
+            "latitude": 37.665267,
+            "longitude": -122.47562309999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(415) 242-5433",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ZKUiM_DiD5vlArR80e2Gg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=122.43981&pitch=0&thumbfov=100",
+            "cid": "17548815542303151594",
+            "fid": "0x808f7dba55555555:0xf389eac213d555ea",
+            "placeId": "ChIJVVVVVbp9j4AR6lXVE8LqifM"
+        },
+        {
+            "position": 6,
+            "title": "Chino Pediatric Medical Group, Inc.",
+            "address": "15944 Los Serranos Country Club Dr STE 220, Chino Hills, CA 91709",
+            "latitude": 33.9623981,
+            "longitude": -117.6966468,
+            "rating": 4.5,
+            "ratingCount": 19,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(909) 393-6202",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v_QmgSeRm4wOXoafRE-6Fw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.814&pitch=0&thumbfov=100",
+            "cid": "17494068176873926926",
+            "fid": "0x14e1baeb24468995:0xf2c76a51bf09310e",
+            "placeId": "ChIJlYlGJOu64RQRDjEJv1Fqx_I"
+        },
+        {
+            "position": 7,
+            "title": "Pediatric Medical Group of Watsonville",
+            "address": "222 Green Valley Rd, Freedom, CA 95019",
+            "latitude": 36.9378617,
+            "longitude": -121.7706635,
+            "rating": 3.1,
+            "ratingCount": 8,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.watsonvillepediatrics.com/",
+            "phoneNumber": "(831) 728-2969",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6BoWpiMz1cwz8WbZO5yGng&cb_client=search.gws-prod.gps&w=80&h=92&yaw=120.18552&pitch=0&thumbfov=100",
+            "cid": "10568467292874667268",
+            "fid": "0x808e1a5179573781:0x92aabd023c20f504",
+            "placeId": "ChIJgTdXeVEajoARBPUgPAK9qpI"
+        },
+        {
+            "position": 8,
+            "title": "Valley Pediatric Medical Group",
+            "address": "5353 Balboa Blvd #104, Encino, CA 91316",
+            "latitude": 34.1688162,
+            "longitude": -118.502043,
+            "rating": 4.6,
+            "ratingCount": 57,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.valleypediatrics.net/",
+            "phoneNumber": "(818) 789-7181",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "cid": "16078965984716194947",
+            "fid": "0x80c299ccf150d47d:0xdf23f65f82990483",
+            "placeId": "ChIJfdRQ8cyZwoARgwSZgl_2I98"
+        },
+        {
+            "position": 9,
+            "title": "Children's Medical Group, P.C - Johns Creek",
+            "address": "6918 McGinnis Ferry Rd Suite 200, Suwanee, GA 30024",
+            "latitude": 34.0700273,
+            "longitude": -84.1738431,
+            "rating": 4.8,
+            "ratingCount": 472,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical Center",
+                "Medical office"
+            ],
+            "website": "http://www.cmg-pc.com/",
+            "phoneNumber": "(770) 622-5758",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healow.com/apps/practice/childrens-medical-group-2173?v=1&locale=en"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNjGbTN4AOSL6icF0CICN69LA-PEO09Ewz6FzDG",
+            "cid": "12512728047252404768",
+            "fid": "0x88f599252a0b6dcb:0xada623dd1b8bfa20",
+            "placeId": "ChIJy20LKiWZ9YgRIPqLG90jpq0"
+        },
+        {
+            "position": 10,
+            "title": "Sacramento Valley Pediatric Medical Group Inc.",
+            "address": "7501 Hospital Dr #203, Sacramento, CA 95823",
+            "latitude": 38.4646148,
+            "longitude": -121.4167131,
+            "rating": 2.9,
+            "ratingCount": 21,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner",
+                "Pediatrician"
+            ],
+            "website": "http://www.sacramentovalleypediatric.com/",
+            "phoneNumber": "(916) 681-1130",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y_KaSrSaEv3B-vxtpqlvAg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=292.0374&pitch=0&thumbfov=100",
+            "cid": "7525846305668286274",
+            "fid": "0x809ada5badabdb71:0x68712d57638b4742",
+            "placeId": "ChIJcdurrVvamoARQkeLY1ctcWg"
+        },
+        {
+            "position": 11,
+            "title": "Pediatric Associates Medical Group",
+            "address": "4330 Fulton Ave, Sherman Oaks, CA 91423",
+            "latitude": 34.1494912,
+            "longitude": -118.4221432,
+            "rating": 3.8,
+            "ratingCount": 21,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Child health care centre",
+                "Doctor",
+                "Medical clinic",
+                "Pediatrician"
+            ],
+            "website": "http://pamgdocs.com/",
+            "phoneNumber": "(818) 784-1102",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM78z0bg-1a1uT-vo96vse9Bx_B4ndch8wzPutd",
+            "cid": "5643949220907856047",
+            "fid": "0x80c29626cb5ea69b:0x4e5355e9da8e30af",
+            "placeId": "ChIJm6ZeyyaWwoARrzCO2ulVU04"
+        },
+        {
+            "position": 12,
+            "title": "Children's Medical Group, P.A. - Providence",
+            "address": "610 Providence Park Dr E #201, Mobile, AL 36695",
+            "latitude": 30.679678799999998,
+            "longitude": -88.20255519999999,
+            "rating": 4.8,
+            "ratingCount": 134,
+            "type": "Child health care centre",
+            "types": [
+                "Child health care centre",
+                "Medical clinic"
+            ],
+            "website": "http://cmgdoctors.com/",
+            "phoneNumber": "(251) 639-1300",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20138\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20138\u202fPM",
+                "Thursday": "7:15\u202fAM\u20138\u202fPM",
+                "Friday": "7:15\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20136\u202fPM",
+                "Sunday": "7\u202fAM\u20136\u202fPM",
+                "Monday": "7:15\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ-4J1bpfaf_pS2tw_airuajm72DFWx_6LUlLR",
+            "cid": "6707527678046352918",
+            "fid": "0x889bb28b7c948115:0x5d15ece29b0db616",
+            "placeId": "ChIJFYGUfIuym4gRFrYNm-LsFV0"
+        },
+        {
+            "position": 13,
+            "title": "West Sacramento Pediatric Medical Group Inc",
+            "address": "1035 Jefferson Blvd, West Sacramento, CA 95691",
+            "latitude": 38.5734351,
+            "longitude": -121.5235924,
+            "rating": 3.4,
+            "ratingCount": 33,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://capitalpeds.com/west-sacramento-pediatrics/",
+            "phoneNumber": "(916) 371-3787",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxJTx2KvRbaKMC4LfohqrfC1qk1TkWFoBtycvv",
+            "cid": "1986201966983502751",
+            "fid": "0x809ad14dbd1eac77:0x1b90682a663bdb9f",
+            "placeId": "ChIJd6wevU3RmoARn9s7ZipokBs"
+        },
+        {
+            "position": 14,
+            "title": "OC Pediatrics Medical Group Inc",
+            "address": "26700 Towne Centre Dr STE 150, Foothill Ranch, CA 92610",
+            "latitude": 33.674301299999996,
+            "longitude": -117.6642219,
+            "rating": 4.2,
+            "ratingCount": 13,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.ocpediatrics.com/",
+            "phoneNumber": "(949) 837-7337",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUIJNKpUxgTDWu2-0Jii-cR2S5U9SE-rIPkaOb",
+            "cid": "16562751810519705907",
+            "fid": "0x80dce9b155555555:0xe5dab704b8fc2933",
+            "placeId": "ChIJVVVVVbHp3IARMyn8uAS32uU"
+        },
+        {
+            "position": 15,
+            "title": "Monterey Peninsula Pediatric Medical Group",
+            "address": "2 Upper Ragsdale Dr suite b-210, Monterey, CA 93940",
+            "latitude": 36.5779815,
+            "longitude": -121.81573159999999,
+            "rating": 3.6,
+            "ratingCount": 30,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.mppmg.com/",
+            "phoneNumber": "(831) 333-0999",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPOBHEmeH4SPS54_W26oSl_dZN6PMGWEQtKV4Gn",
+            "cid": "13570692785012724214",
+            "fid": "0x808de54d8a5e8805:0xbc54c92ff6a3d1f6",
+            "placeId": "ChIJBYheik3ljYAR9tGj9i_JVLw"
+        },
+        {
+            "position": 16,
+            "title": "Pediatric Medical Center",
+            "address": "2921 Redondo Ave, Long Beach, CA 90806",
+            "latitude": 33.808197299999996,
+            "longitude": -118.1517552,
+            "rating": 4.8,
+            "ratingCount": 44,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Pediatrician"
+            ],
+            "website": "http://www.pediatricmedicalcenterlb.com/",
+            "phoneNumber": "(562) 426-5551",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Saturday": "8:30\u201311\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEi0psv0-d0YHGbtPlGXy14z6dzEOTtfH-fxSA",
+            "cid": "10802415077082138904",
+            "fid": "0x80dd3229361dcbeb:0x95e9e34769ce0918",
+            "placeId": "ChIJ68sdNiky3YARGAnOaUfj6ZU"
+        },
+        {
+            "position": 17,
+            "title": "Salinas Pediatric Medical Group",
+            "address": "505 E Romie Ln K, Salinas, CA 93901",
+            "latitude": 36.660395,
+            "longitude": -121.646791,
+            "rating": 4.4,
+            "ratingCount": 45,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic"
+            ],
+            "website": "http://www.salinaspediatrics.com/",
+            "phoneNumber": "(831) 422-9066",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HVWS8StLIiWBsXHPvScNrQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=8.592807&pitch=0&thumbfov=100",
+            "cid": "17162619685397571165",
+            "fid": "0x808df88bc743a41f:0xee2ddfac233fa65d",
+            "placeId": "ChIJH6RDx4v4jYARXaY_I6zfLe4"
+        },
+        {
+            "position": 18,
+            "title": "Pleasant Valley Pediatric Medical Group",
+            "address": "2486 N Ponderosa Dr # D211, Camarillo, CA 93010",
+            "latitude": 34.242822,
+            "longitude": -119.021554,
+            "rating": 3.6,
+            "ratingCount": 17,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://pleasantvalleypediatrics.com/",
+            "phoneNumber": "(805) 484-2818",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMneJIUvxAErNZPljRolC1koItviAQHID3sst3d",
+            "cid": "10119998646091410271",
+            "fid": "0x80e835de0bfc10dd:0x8c7175268bb66b5f",
+            "placeId": "ChIJ3RD8C9416IARX2u2iyZ1cYw"
+        },
+        {
+            "position": 19,
+            "title": "Salinas Pediatric Medical Group",
+            "address": "601 E Romie Ln STE 3, Salinas, CA 93901",
+            "latitude": 36.659897199999996,
+            "longitude": -121.6441078,
+            "rating": 4,
+            "ratingCount": 35,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.salinaspediatrics.com/",
+            "phoneNumber": "(831) 422-9066",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5np8ZVd0VWTqOKj8vI8r7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=35.715862&pitch=0&thumbfov=100",
+            "cid": "4697016297374198164",
+            "fid": "0x808df8899edd7587:0x412f276fc535a994",
+            "placeId": "ChIJh3Xdnon4jYARlKk1xW8nL0E"
+        },
+        {
+            "position": 20,
+            "title": "The Pediatric Group of Southern California",
+            "address": "18370 Burbank Blvd #307, Tarzana, CA 91356",
+            "latitude": 34.170389,
+            "longitude": -118.532956,
+            "rating": 4.9,
+            "ratingCount": 389,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Allergist",
+                "Nurse practitioner"
+            ],
+            "website": "https://www.thepediatricgroup.net/Contact.html",
+            "phoneNumber": "(818) 996-6000",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://app.nexhealth.com/appt/pediatricgroupofsoutherncalifornia/l,1216,h:y"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlKCiVMCQYA-k5RPej5p5zZdMYzDXP2L8asFuK",
+            "cid": "13425312728699153965",
+            "fid": "0x80c299a7f5a82b17:0xba504acbe0a4ae2d",
+            "placeId": "ChIJFyuo9aeZwoARLa6k4MtKULo"
+        }
+    ],
+    "credits": 3
+}

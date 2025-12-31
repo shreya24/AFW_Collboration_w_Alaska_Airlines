@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Reno VA Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.515775,-119.7991268,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Reno VA Medical Center",
+            "address": "975 Kirman Ave, Reno, NV 89502",
+            "latitude": 39.515550999999995,
+            "longitude": -119.79905049999999,
+            "rating": 4,
+            "ratingCount": 87,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "http://www.reno.va.gov/",
+            "phoneNumber": "(888) 838-6256",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1gbxz5yqK8pqbjmcGjJmdi_uonIULU2bcjGi0",
+            "cid": "14314228625843927366",
+            "fid": "0x809940a358a0bf0b:0xc6a65b185d27b946",
+            "placeId": "ChIJC7-gWKNAmYARRrknXRhbpsY"
+        },
+        {
+            "position": 2,
+            "title": "VA Sierra Nevada Health Care System",
+            "address": "975 Kirman Ave, Reno, NV 89502",
+            "latitude": 39.515999099999995,
+            "longitude": -119.7992031,
+            "rating": 4.1,
+            "ratingCount": 136,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Military hospital",
+                "Veterans hospital"
+            ],
+            "website": "http://www.reno.va.gov/",
+            "phoneNumber": "(775) 786-7200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPo4ojJWKJ2AlYgSeaP2axJtFGpS-in1zbR6TzG",
+            "cid": "15437453478836289001",
+            "fid": "0x809940a358a0bf0b:0xd63cda25daa7bde9",
+            "placeId": "ChIJC7-gWKNAmYAR6b2n2iXaPNY"
+        }
+    ],
+    "credits": 3
+}

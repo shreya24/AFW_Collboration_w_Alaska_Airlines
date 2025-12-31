@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence St. Luke\u2019s Physiatry & Neuromuscular Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6497185,-117.407273,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence St. Luke\u2019s Physiatry & Neuromuscular Center",
+            "address": "715 S Cowley St Ste 228, Spokane, WA 99202",
+            "latitude": 47.6497185,
+            "longitude": -117.40727299999999,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Physiatrist",
+            "types": [
+                "Physiatrist",
+                "Physical therapy clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-lukes-physiatry-neuromuscular-center?ls=location&y_source=1_MjQ5NTU0MTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 473-6706",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMefWzwuFkKN657d0F6jCm4M2d8QSuyx1wMBNTP",
+            "cid": "12092052691603920710",
+            "fid": "0x549e187d871b6835:0xa7cf99db485b9746",
+            "placeId": "ChIJNWgbh30YnlQRRpdbSNuZz6c"
+        }
+    ],
+    "credits": 3
+}

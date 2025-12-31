@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Houston Methodist Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.7099061,-95.3997186,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Houston Methodist Hospital",
+            "address": "6565 Fannin St, Houston, TX 77030",
+            "latitude": 29.709906099999998,
+            "longitude": -95.3997186,
+            "rating": 3.6,
+            "ratingCount": 966,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.houstonmethodist.org/locations/texas-medical-center/?utm_source=gmb&utm_medium=organic&utm_campaign=all_location_gmb&utm_content=website-click",
+            "phoneNumber": "(713) 790-3311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNntZlyC-9BXyFdsUVfaAcIqxMGRs-xx2eEYuI-",
+            "cid": "14993415476628073483",
+            "fid": "0x8640c07130c55555:0xd0134feffe42ac0b",
+            "placeId": "ChIJVVXFMHHAQIYRC6xC_u9PE9A"
+        }
+    ],
+    "credits": 3
+}

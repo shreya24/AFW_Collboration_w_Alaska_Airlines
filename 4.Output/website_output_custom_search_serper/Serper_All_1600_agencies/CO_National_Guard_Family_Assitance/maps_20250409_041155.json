@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "CO National Guard Family Assitance",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.8051905,-90.6173034,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arkansas National Guard Family Assistance Centers",
+            "address": "6109 C W Post Rd, Jonesboro, AR 72401",
+            "latitude": 35.8051905,
+            "longitude": -90.6173034,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Family service center",
+            "types": [
+                "Family service center"
+            ],
+            "website": "https://arkansas.nationalguard.mil/Families/FAC/",
+            "phoneNumber": "(501) 212-7080",
+            "cid": "11025596601257117122",
+            "fid": "0x87d42cbf65e6d275:0x9902c9b156af45c2",
+            "placeId": "ChIJddLmZb8s1IcRwkWvVrHJApk"
+        }
+    ],
+    "credits": 3
+}

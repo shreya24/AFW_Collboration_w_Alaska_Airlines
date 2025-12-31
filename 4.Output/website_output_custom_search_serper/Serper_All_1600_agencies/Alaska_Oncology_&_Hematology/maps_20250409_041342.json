@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Alaska Oncology & Hematology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.2824757,-140.7568551,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Infusion and Oncology at PeaceHealth Ketchikan Medical Center",
+            "address": "Clinic Entrance, 3100 Tongass Ave 1st Floor, Ketchikan, AK 99901",
+            "latitude": 55.3536571,
+            "longitude": -131.6866346,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.peacehealth.org/locations/ketchikan/oncology-peacehealth-ketchikan-medical-center?utm_source=gbp&utm_medium=organic&utm_content=KETC-006&utm_campaign=gmb",
+            "phoneNumber": "(907) 228-7628",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Sunday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IFO3RhS-p4bkOk5hDxUNdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=147.51086&pitch=0&thumbfov=100",
+            "cid": "14604737654403432434",
+            "fid": "0x540c25311dbac9fd:0xcaae7384787cfff2",
+            "placeId": "ChIJ_cm6HTElDFQR8v98eIRzrso"
+        },
+        {
+            "position": 2,
+            "title": "Alaska Oncology and Hematology, LLC",
+            "address": "2925 DeBarr Rd Building D, Suite 300, Anchorage, AK 99508",
+            "latitude": 61.2112943,
+            "longitude": -149.8270757,
+            "rating": 3.9,
+            "ratingCount": 26,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical laboratory"
+            ],
+            "website": "http://alaskaoncology.com/",
+            "phoneNumber": "(907) 279-3155",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPO-SPQWvi8FoXTi6p4ISbfEgUT2SAtfY8WJcc",
+            "cid": "2638272908152364673",
+            "fid": "0x56c89645b6b36cfd:0x249d073b56f55e81",
+            "placeId": "ChIJ_WyztkWWyFYRgV71VjsHnSQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,68 @@
+{
+    "searchParameters": {
+        "q": "Anthem Hills Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0461472,-115.1765101,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anthem Hills Pediatrics",
+            "address": "871 Coronado Center Dr Suite 141, Henderson, NV 89052",
+            "latitude": 36.000470299999996,
+            "longitude": -115.1109609,
+            "rating": 2.6,
+            "ratingCount": 113,
+            "type": "Children Policlinic",
+            "types": [
+                "Children Policlinic"
+            ],
+            "website": "http://www.anthemhillspediatrics.com/",
+            "phoneNumber": "(702) 566-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTBwAw4pgfuPF_l8dRirPgz8PCDfUIEyYsoTRp",
+            "cid": "16477912459108557637",
+            "fid": "0x80c8ce125bcd5b67:0xe4ad4e13ed262345",
+            "placeId": "ChIJZ1vNWxLOyIARRSMm7RNOreQ"
+        },
+        {
+            "position": 2,
+            "title": "Anthem Hills Pediatrics",
+            "address": "5320 S Rainbow Blvd #172, Las Vegas, NV 89118",
+            "latitude": 36.091823999999995,
+            "longitude": -115.2420593,
+            "rating": 3.1,
+            "ratingCount": 45,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic"
+            ],
+            "website": "http://www.anthemhillspediatrics.com/",
+            "phoneNumber": "(702) 566-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "1654586792897386360",
+            "fid": "0x80c8c7015249ce77:0x16f645ebf8b39778",
+            "placeId": "ChIJd85JUgHHyIAReJez-OtF9hY"
+        }
+    ],
+    "credits": 3
+}

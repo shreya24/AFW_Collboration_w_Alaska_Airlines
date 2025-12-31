@@ -1,0 +1,524 @@
+{
+    "searchParameters": {
+        "q": "UCSF",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.275472,-121.1209826,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of California San Francisco Parnassus Campus",
+            "address": "505 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.762645899999995,
+            "longitude": -122.45871059999999,
+            "rating": 4.4,
+            "ratingCount": 513,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "http://www.ucsf.edu/",
+            "phoneNumber": "(415) 476-1000",
+            "description": "Health sciences University with professional schools in dentistry, medicine, nursing & pharmacy.",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGoP3l_JThQN-pjMiMXu4Y9kASmVsWcul6eRZ-sS6mxVpnm2F1Tn8tfsKbK_KQUUcN37R6ClqppibOEjKUcGcZ_WZbmtP7xfF7T-IWj-mBoG4loHbIzUfJPS91NmZM1U2tgDU",
+            "cid": "6262617438594736725",
+            "fid": "0x80858759c4691563:0x56e949612f9b2255",
+            "placeId": "ChIJYxVpxFmHhYARVSKbL2FJ6VY"
+        },
+        {
+            "position": 2,
+            "title": "UCSF Medical Center",
+            "address": "505 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7627945,
+            "longitude": -122.4580139,
+            "rating": 3.5,
+            "ratingCount": 335,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.ucsfhealth.org/",
+            "phoneNumber": "(415) 476-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSQeaEE1hK3ImGP-cb_r5LzpBO-Rnqfn4V8yXVCi2pr2SfnkRJ7dZF0YePPi_jStGsbBHUjz5nfZpgulXPkArDd5H3qglEwoBDMFFiG9CYZ4Y4nvIwoOQdDGqOwleI3JQ3zk-k",
+            "cid": "5468235918457274412",
+            "fid": "0x80858759dacb6383:0x4be313988bad802c",
+            "placeId": "ChIJg2PL2lmHhYARLICti5gT40s"
+        },
+        {
+            "position": 3,
+            "title": "UCSF",
+            "address": "1600 Divisadero St, San Francisco, CA 94115",
+            "latitude": 37.7848533,
+            "longitude": -122.4391778,
+            "rating": 4.1,
+            "ratingCount": 22,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://www.ucsf.edu/",
+            "phoneNumber": "(415) 567-6600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2mcmvNouj61Zjnpo_sGoqtUNpbKDRv5J4xavhuq2Rl7qKyGt7sdq1HqTOoRiqbneQ2IKSx0T_3PHmO7HGK4b69W5qdo-bFsQKp2DgM97Xy_gvLP9Y3kC39H_lvxGJ6gX_3cenvA",
+            "cid": "9116445549691750098",
+            "fid": "0x808580b6269345fb:0x7e841eed2b9146d2",
+            "placeId": "ChIJ-0WTJraAhYAR0kaRK-0ehH4"
+        },
+        {
+            "position": 4,
+            "title": "UCSF Fresno",
+            "address": "155 N Fresno St, Fresno, CA 93701",
+            "latitude": 36.7435693,
+            "longitude": -119.7822114,
+            "rating": 4.1,
+            "ratingCount": 27,
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://fresno.ucsf.edu/",
+            "phoneNumber": "(559) 499-6400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPtct-Vb8xMBUxmi5WSEmaKFrXy5sslQPyKYWJL",
+            "cid": "9411325068179217694",
+            "fid": "0x80945e1bc1df9783:0x829bbe49428d1d1e",
+            "placeId": "ChIJg5ffwRtelIARHh2NQkm-m4I"
+        },
+        {
+            "position": 5,
+            "title": "University of California, San Francisco",
+            "address": "1701 Divisadero St, San Francisco, CA 94115",
+            "latitude": 37.7854795,
+            "longitude": -122.44015809999999,
+            "rating": 4.5,
+            "ratingCount": 27,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "http://www.ucsf.edu/",
+            "phoneNumber": "(415) 353-7800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yUJx_hhllj-QFPkqtiAyAQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=285.67038&pitch=0&thumbfov=100",
+            "cid": "8822710241091065151",
+            "fid": "0x808580c9e6ed241f:0x7a709038346f153f",
+            "placeId": "ChIJHyTt5smAhYARPxVvNDiQcHo"
+        },
+        {
+            "position": 6,
+            "title": "Mission Hall UCSF",
+            "address": "550 16th St, San Francisco, CA 94158",
+            "latitude": 37.7675087,
+            "longitude": -122.3905228,
+            "rating": 4.4,
+            "ratingCount": 49,
+            "type": "Academic department",
+            "types": [
+                "Academic department",
+                "University"
+            ],
+            "website": "https://missionhall.ucsf.edu/",
+            "phoneNumber": "(415) 476-5190",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norbCl7IcSIu3EHTy_xu4vsdzV4WCJ0dIoNAYh6cA9qCbvCWRMFjbglvOkvy2FIKeCBbR_3e6qDv9fpCi79i-U9FdPh0Ts4_rK_C7wmxwmfCRelja6G8R0f_VZEntp1QdEguIWo9Q",
+            "cid": "5947107244328869443",
+            "fid": "0x808f7fcf5aa6273f:0x52885e87935fde43",
+            "placeId": "ChIJPyemWs9_j4ARQ95fk4deiFI"
+        },
+        {
+            "position": 7,
+            "title": "Ucsf Medical Center",
+            "address": "400 Parnassus Ave Floor B1, San Francisco, CA 94143",
+            "latitude": 37.764201,
+            "longitude": -122.45738519999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nurse practitioner",
+                "Optometrist",
+                "Orthotics & prosthetics service",
+                "Physician assistant"
+            ],
+            "website": "https://www.ucsfhealth.org/",
+            "phoneNumber": "(415) 353-2497",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq__-TUGEEijwk2SWAPrOlYcu6JWBbu539FgY2BJ9jvATv6GWk2IhdywARis0_uJJPtWD9hx6zaUKqbtXeKUV9yZKH53ctxr9E4Si0NUUqms487NhW9S-4gmYp9VDwWnpGqT_IV",
+            "cid": "16715512940412617703",
+            "fid": "0x808587575b5e199b:0xe7f96e74ebbd43e7",
+            "placeId": "ChIJmxleW1eHhYAR50O963Ru-ec"
+        },
+        {
+            "position": 8,
+            "title": "UCSF Medical Center at Mission Bay",
+            "address": "1975 4th St, San Francisco, CA 94158",
+            "latitude": 37.767757599999996,
+            "longitude": -122.39215349999999,
+            "rating": 4.3,
+            "ratingCount": 250,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.ucsfhealth.org/locations/mission-bay",
+            "phoneNumber": "(415) 353-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPO3Hc_wb5jsvFtUdLOddm8PZG8LITIJKbxmto0",
+            "cid": "12427039180427455099",
+            "fid": "0x808f7fcf4dfe58b7:0xac75b64b173d6a7b",
+            "placeId": "ChIJt1j-Tc9_j4ARe2o9F0u2daw"
+        },
+        {
+            "position": 9,
+            "title": "UCSF Medical Sciences Building",
+            "address": "San Francisco, CA 94131",
+            "latitude": 37.7627927,
+            "longitude": -122.45808729999999,
+            "rating": 4.6,
+            "ratingCount": 5,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://edtech.ucsf.edu/medical-sciences-building",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20139\u202fPM",
+                "Wednesday": "6\u202fAM\u20139\u202fPM",
+                "Thursday": "6\u202fAM\u20139\u202fPM",
+                "Friday": "6\u202fAM\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=APkUFkIzm5kv1W1e6m4BsQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=192.27724&pitch=0&thumbfov=100",
+            "cid": "6234212465181114914",
+            "fid": "0x808587436e170845:0x56845f34f16ec222",
+            "placeId": "ChIJRQgXbkOHhYARIsJu8TRfhFY"
+        },
+        {
+            "position": 10,
+            "title": "UCSF General Internal Medicine at Post Street",
+            "address": "First and Second Floors, 1545 Divisadero St, San Francisco, CA 94115",
+            "latitude": 37.7840345,
+            "longitude": -122.4399117,
+            "rating": 3.7,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/general-internal-medicine-at-post-street?utm_source=GMBSocialClimb&utm_medium=UCSFGeneralInternalMedicineatPostStreet",
+            "phoneNumber": "(415) 353-7900",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2fa_dlHBmcE9PrAAC8j7C-PStiNjsrM3_lLnb",
+            "cid": "15609564494789900994",
+            "fid": "0x808587576439924d:0xd8a050347a807ac2",
+            "placeId": "ChIJTZI5ZFeHhYARwnqAejRQoNg"
+        },
+        {
+            "position": 11,
+            "title": "UCSF Kalmanovitz Library",
+            "address": "530 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7633027,
+            "longitude": -122.4590156,
+            "rating": 4.4,
+            "ratingCount": 54,
+            "type": "University library",
+            "types": [
+                "University library"
+            ],
+            "website": "https://www.library.ucsf.edu/about/hours/",
+            "phoneNumber": "(415) 476-2336",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNboJIuIldhnKg78x0eJye4hxfpbPnlrfBE68TL",
+            "cid": "662192150657284365",
+            "fid": "0x80858759c487fa73:0x9309440a8fab90d",
+            "placeId": "ChIJc_qHxFmHhYARDbn6qECUMAk"
+        },
+        {
+            "position": 12,
+            "title": "UCSF Center for Aortic Disease",
+            "address": "400 Parnassus Ave Suite 501, San Francisco, CA 94143",
+            "latitude": 37.7645542,
+            "longitude": -122.4572508,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/center-for-aortic-disease",
+            "phoneNumber": "(415) 353-2256",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8982PaCZSuwcRFES8-pS7PjP55XAZaZTfPoq8",
+            "cid": "589588946793851660",
+            "fid": "0x808587c4d7c0b46b:0x82ea405f924eb0c",
+            "placeId": "ChIJa7TA18SHhYARDOsk-QWkLgg"
+        },
+        {
+            "position": 13,
+            "title": "University of California San Francisco",
+            "address": "513 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7631569,
+            "longitude": -122.45824669999999,
+            "rating": 4.3,
+            "ratingCount": 3,
+            "type": "University",
+            "types": [
+                "University",
+                "Community college"
+            ],
+            "website": "http://www.ucsf.edu/",
+            "phoneNumber": "(415) 476-8868",
+            "cid": "8847256522406236563",
+            "fid": "0x808587338064717d:0x7ac7c4eeaec81193",
+            "placeId": "ChIJfXFkgDOHhYARkxHIru7Ex3o"
+        },
+        {
+            "position": 14,
+            "title": "UCSF at San Francisco General Hospital",
+            "address": "1001 Potrero Ave, San Francisco, CA 94110",
+            "latitude": 37.7563142,
+            "longitude": -122.40448749999999,
+            "rating": 3.2,
+            "ratingCount": 6,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.ucsf.edu/about",
+            "phoneNumber": "(628) 206-8505",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noU3ypLyLne5dZ0D7dOkmKm90iWbHwnw9sFsFRPknU31STPMx_gtyH8KNAQIlck-qEMH8R_Nn492XHg9RTJs3OVRO6j7zy9f_V5BJ8S0tZbDBcHwejrw5nNnVAX9vqacX4M0KiGfQ",
+            "cid": "4648356381702119187",
+            "fid": "0x808f7e4a61999aa1:0x4082478048c65f13",
+            "placeId": "ChIJoZqZYUp-j4ARE1_GSIBHgkA"
+        },
+        {
+            "position": 15,
+            "title": "Zuckerberg San Francisco General Hospital and Trauma Center",
+            "address": "1001 Potrero Ave, San Francisco, CA 94110",
+            "latitude": 37.7553498,
+            "longitude": -122.4054036,
+            "rating": 3.3,
+            "ratingCount": 622,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://zuckerbergsanfranciscogeneral.org/",
+            "phoneNumber": "(628) 206-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQPoOazqUBYIEWNxKyFzRkhww42nMUFa277bGMnv9Bk5yr6vIkobkdO--32eApHH8_BIzVGHO5C9zcxIL2t2WU7jRs2529Y7VigjTdungoegLkGqpXaCKoa_z7QKkO5qOlezapaQ",
+            "cid": "14403399765103680518",
+            "fid": "0x808f7e4bb2d3d61b:0xc7e327c61cf31c06",
+            "placeId": "ChIJG9bTskt-j4ARBhzzHMYn48c"
+        },
+        {
+            "position": 16,
+            "title": "UCSF General Neurology Clinic",
+            "address": "400 Parnassus Ave Eighth Floor, San Francisco, CA 94143",
+            "latitude": 37.763996,
+            "longitude": -122.457246,
+            "rating": 3.1,
+            "ratingCount": 20,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Neurosurgeon"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/neurology-clinic",
+            "phoneNumber": "(415) 353-2273",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO6Y-z3cgQuta-RvTUbU6AOM6j9BzhuBpu7fyub",
+            "cid": "7528949129317528249",
+            "fid": "0x808587576439924d:0x687c3357d0f532b9",
+            "placeId": "ChIJTZI5ZFeHhYARuTL10FczfGg"
+        },
+        {
+            "position": 17,
+            "title": "UCSF Mission Center",
+            "address": "1855 Folsom St, San Francisco, CA 94103",
+            "latitude": 37.7673683,
+            "longitude": -122.4148254,
+            "rating": 4.3,
+            "ratingCount": 12,
+            "type": "University",
+            "types": [
+                "University",
+                "College"
+            ],
+            "website": "https://www.ucsf.edu/",
+            "phoneNumber": "(415) 353-3000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npW4dhc3sOZhzrmv8g1WVPhEKl6LuziY4MEMlJwZb_5n_tI4BdY00dxBzW2HafEW5icFe83ASg9hVY7NPj4jepbMfCmn_nFYBh9mAnLlgIqHQLiUqnGoawzphRJ3tehquUNVQ9a",
+            "cid": "9289577902358180107",
+            "fid": "0x808f7e25b8fdf179:0x80eb35e24760b10b",
+            "placeId": "ChIJefH9uCV-j4ARC7FgR-I164A"
+        },
+        {
+            "position": 18,
+            "title": "UCSF Housing Services",
+            "address": "1505 4th St #101, San Francisco, CA 94158",
+            "latitude": 37.7694609,
+            "longitude": -122.3909077,
+            "rating": 3.6,
+            "ratingCount": 22,
+            "type": "Student housing center",
+            "types": [
+                "Student housing center"
+            ],
+            "website": "https://housing.ucsf.edu/",
+            "phoneNumber": "(415) 514-4550",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMABwora9ayBSyR98euY-ZEQTOxdaJ8nT_A7sYa",
+            "cid": "3377458097569487453",
+            "fid": "0x808f7fcfa24d6f1f:0x2edf243ec5655a5d",
+            "placeId": "ChIJH29Nos9_j4ARXVplxT4k3y4"
+        },
+        {
+            "position": 19,
+            "title": "UCSF School of Medicine",
+            "address": "533 Parnassus Ave, San Francisco, CA 94143",
+            "latitude": 37.7627015,
+            "longitude": -122.4597539,
+            "rating": 4.2,
+            "ratingCount": 18,
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "https://meded.ucsf.edu/",
+            "phoneNumber": "(415) 353-7192",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBc8ir94uNcH18QqpUkmBFhgKq2Pm8fawvjcTbY7K_iJTMdLZc3B1vjBjPoZZwESw-3RpKvoRvE7sU30-uqhrlys1ZXV7vElM67DleTvrZlKu2_nijE4PUmZjAK8-6IJwg3g",
+            "cid": "3727242707755503517",
+            "fid": "0x8085875743aaaaab:0x33b9d37eb36e8f9d",
+            "placeId": "ChIJq6qqQ1eHhYARnY9us37TuTM"
+        },
+        {
+            "position": 20,
+            "title": "UCSF",
+            "address": "2001 The Embarcadero, San Francisco, CA 94133",
+            "latitude": 37.8073747,
+            "longitude": -122.4081878,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://www.ucsf.edu/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VZRmAA6jSiChYL-5XjjSFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.1073&pitch=0&thumbfov=100",
+            "cid": "17767878309630537882",
+            "fid": "0x8085811ddf532079:0xf6942f2f31e5709a",
+            "placeId": "ChIJeSBT3x2BhYARmnDlMS8vlPY"
+        }
+    ],
+    "credits": 3
+}

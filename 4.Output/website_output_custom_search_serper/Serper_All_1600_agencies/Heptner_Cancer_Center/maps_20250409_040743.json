@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Heptner Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.2903593,-105.5181863,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Heptner Cancer Center",
+            "address": "501 South Burma Avenue, Gillette, WY 82716",
+            "latitude": 44.2903593,
+            "longitude": -105.5181863,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.cchwyo.org/services/cancer-treatment/",
+            "phoneNumber": "(307) 688-1900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u201310\u202fAM",
+                "Sunday": "8\u201310\u202fAM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLoJzdgI7TBxUK-HPf0IZ83a8kFOZMdQs5AaUO",
+            "cid": "14426586318497757548",
+            "fid": "0x5334944013675cfd:0xc83587d24391b96c",
+            "placeId": "ChIJ_VxnE0CUNFMRbLmRQ9KHNcg"
+        }
+    ],
+    "credits": 3
+}

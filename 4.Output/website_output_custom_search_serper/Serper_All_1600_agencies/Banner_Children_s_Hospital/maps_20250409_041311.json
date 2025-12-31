@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Banner Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3899517,-111.8773528,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Children's at Desert",
+            "address": "1400 S Dobson Rd, Mesa, AZ 85202",
+            "latitude": 33.3899517,
+            "longitude": -111.8773528,
+            "rating": 3,
+            "ratingCount": 261,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://www.bannerhealth.com/locations/mesa/banner-childrens-at-desert?y_source=1_MTE5MDczMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(480) 412-5437",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrRfhVefYI1cB6NboU2WXi6DyDDt7bS6ilz9Sm",
+            "cid": "3958880602645632281",
+            "fid": "0x872b07e12c895a3b:0x36f0c4eedce09519",
+            "placeId": "ChIJO1qJLOEHK4cRGZXg3O7E8DY"
+        }
+    ],
+    "credits": 3
+}

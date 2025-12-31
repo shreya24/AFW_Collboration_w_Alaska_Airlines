@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "San Juan Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7242887,-108.216301,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Juan Regional Medical Center",
+            "address": "801 W Maple St, Farmington, NM 87401",
+            "latitude": 36.724288699999995,
+            "longitude": -108.216301,
+            "rating": 4.3,
+            "ratingCount": 2511,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.sanjuanregional.com/",
+            "phoneNumber": "(505) 609-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-OTg9KZ5KB8iHH-nZKPD7zv4tzq2TnBjEalCWT6_vjWV3c6BRb10VT74ll8bGFTN4CG469exx5T0JtkmiXgWcOoTFoDMG-Qna7Qdkqt9M5X2gD5bV9oKrdB7SrFc_CtX6fzTfm",
+            "cid": "2032364717701053561",
+            "fid": "0x873b855faf67ca13:0x1c3468f15c9bbc79",
+            "placeId": "ChIJE8pnr1-FO4cRebybXPFoNBw"
+        }
+    ],
+    "credits": 3
+}

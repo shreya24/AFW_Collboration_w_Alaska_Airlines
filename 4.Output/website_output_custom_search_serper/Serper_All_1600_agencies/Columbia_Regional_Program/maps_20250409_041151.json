@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Columbia Regional Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5287599,-122.5870704,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Columbia Regional Inclusive Services",
+            "address": "833 NE 74th Ave, Portland, OR 97213",
+            "latitude": 45.5287599,
+            "longitude": -122.58707039999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Special education school",
+            "types": [
+                "Special education school"
+            ],
+            "website": "http://www.crisoregon.org/",
+            "phoneNumber": "(503) 916-5570",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8CrRvgxEzDXpMg-3VqWznkkP7LPvndfscowgy",
+            "cid": "12958761488424595443",
+            "fid": "0x5495a11a095e7801:0xb3d6c4ea4e8f6ff3",
+            "placeId": "ChIJAXheCRqhlVQR82-PTurE1rM"
+        }
+    ],
+    "credits": 3
+}

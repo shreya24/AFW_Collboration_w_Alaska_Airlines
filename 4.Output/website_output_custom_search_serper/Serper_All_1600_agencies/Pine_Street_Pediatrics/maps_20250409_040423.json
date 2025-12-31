@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "Pine Street Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1228296,-96.5813772,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pine Street Pediatric Assocs Pc",
+            "address": "145 Sawkill Rd, Kingston, NY 12401",
+            "latitude": 41.949353599999995,
+            "longitude": -74.02225159999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "phoneNumber": "(845) 340-1760",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oXNRAmzSsopMIRPyyo-QCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=299.83707&pitch=0&thumbfov=100",
+            "cid": "15988582330705572676",
+            "fid": "0x89dd0f669125ecdf:0xdde2daeb2bcaf344",
+            "placeId": "ChIJ3-wlkWYP3YkRRPPKK-va4t0"
+        },
+        {
+            "position": 2,
+            "title": "Pine Street Pediatrics",
+            "address": "216 E Pine St, Exeter, CA 93221",
+            "latitude": 36.2963056,
+            "longitude": -119.1405028,
+            "rating": 3.5,
+            "ratingCount": 29,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatric dentist"
+            ],
+            "website": "http://pinestreetpediatrics.org/",
+            "phoneNumber": "(559) 592-2600",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMCxSj7TvWDOvDJEzLghJeXwN_nM81W_ZSgksNf",
+            "cid": "7793945774643949147",
+            "fid": "0x809533ff75139e99:0x6c29a863504f2e5b",
+            "placeId": "ChIJmZ4Tdf8zlYARWy5PUGOoKWw"
+        }
+    ],
+    "credits": 3
+}

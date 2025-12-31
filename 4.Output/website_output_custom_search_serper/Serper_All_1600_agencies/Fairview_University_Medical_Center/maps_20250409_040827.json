@@ -1,0 +1,550 @@
+{
+    "searchParameters": {
+        "q": "Fairview University Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.1480812,-93.2597138,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "M Health Fairview University of Minnesota Medical Center - East Bank",
+            "address": "500 SE Harvard St, Minneapolis, MN 55455",
+            "latitude": 44.9723174,
+            "longitude": -93.2317771,
+            "rating": 3.2,
+            "ratingCount": 271,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Medical Center"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---east-bank",
+            "phoneNumber": "(612) 273-8383",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMA3tddlnM2JgxbvmfGpgnPgEQNXL_TMTEraPI",
+            "cid": "15715049760007388325",
+            "fid": "0x52b32d3d1f32c73b:0xda17127eacd3fca5",
+            "placeId": "ChIJO8cyHz0ts1IRpfzTrH4SF9o"
+        },
+        {
+            "position": 2,
+            "title": "M Health Fairview University of Minnesota Medical Center - West Bank",
+            "address": "2450 Riverside Ave, Minneapolis, MN 55454",
+            "latitude": 44.9676684,
+            "longitude": -93.2384289,
+            "rating": 3.1,
+            "ratingCount": 161,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-University-of-Minnesota-Medical-Center---West-Bank-east",
+            "phoneNumber": "(612) 273-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe8-yw3k2P1LZCenLK8gznnB99PVPGBDHp0KG2",
+            "cid": "4950063888007043985",
+            "fid": "0x52b32d3921c6fe01:0x44b228e12c261b91",
+            "placeId": "ChIJAf7GITkts1IRkRsmLOEoskQ"
+        },
+        {
+            "position": 3,
+            "title": "M Health Fairview University of Minnesota Medical Center - East Bank Emergency Room",
+            "address": "500 SE Harvard St, Minneapolis, MN 55455",
+            "latitude": 44.9710077,
+            "longitude": -93.2308717,
+            "rating": 2.3,
+            "ratingCount": 83,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://mhealthfairview.org/locations/emergency-department---m-health-fairview-university-of-minnesota-medical-center---east-bank",
+            "phoneNumber": "(612) 273-2700",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAMC3nMOKurJfBP5KwrRRBwz1heZsXarQEvPL4",
+            "cid": "1207542372414318092",
+            "fid": "0x52b32d38c84eda11:0x10c20d63cefce60c",
+            "placeId": "ChIJEdpOyDgts1IRDOb8zmMNwhA"
+        },
+        {
+            "position": 4,
+            "title": "North Building - M Health Fairview University of Minnesota Medical Center West Bank",
+            "address": "525 23rd Ave S, Minneapolis, MN 55454",
+            "latitude": 44.9686873,
+            "longitude": -93.238908,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Hospital department",
+                "Mental health clinic"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---west-bank-north",
+            "phoneNumber": "(612) 672-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNIfh_rmBD-klxBF_-DnBRcsle9pwwk5g0yJo_B",
+            "cid": "12121270781187197552",
+            "fid": "0x52b32d3f4fa3fd97:0xa837678de2fc0a70",
+            "placeId": "ChIJl_2jTz8ts1IRcAr84o1nN6g"
+        },
+        {
+            "position": 5,
+            "title": "Fairview University Medical Center-Mesabi: Emergency Room",
+            "address": "750 E 34th St, Hibbing, MN 55746",
+            "latitude": 47.409528599999994,
+            "longitude": -92.929383,
+            "rating": 2.3,
+            "ratingCount": 12,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.fairview.org/range/Fairview-Range-Medical-Center",
+            "phoneNumber": "(218) 262-4881",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "12274347159956779544",
+            "fid": "0x52b009fd21de41f1:0xaa573db5af0c7218",
+            "placeId": "ChIJ8UHeIf0JsFIRGHIMr7U9V6o"
+        },
+        {
+            "position": 6,
+            "title": "West Bank Emergency Department - M Health Fairview University of Minnesota Medical Center",
+            "address": "2312 S 6th St, Minneapolis, MN 55454",
+            "latitude": 44.967539099999996,
+            "longitude": -93.2383036,
+            "rating": 2.3,
+            "ratingCount": 46,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://mhealthfairview.org/locations/emergency-department---m-health-fairview-university-of-minnesota-medical-center---west-bank",
+            "phoneNumber": "(612) 273-8383",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNYYHXj21k05gQuPOfygbRkK1DWvCey8FDnu_V-",
+            "cid": "9186375609178179553",
+            "fid": "0x52b32d38cfbd88d5:0x7f7c8ff1ee60c7e1",
+            "placeId": "ChIJ1Yi9zzgts1IR4cdg7vGPfH8"
+        },
+        {
+            "position": 7,
+            "title": "M Health Fairview Lakes Medical Center",
+            "address": "5200 Fairview Blvd #8013, Wyoming, MN 55092",
+            "latitude": 45.321701999999995,
+            "longitude": -93.0003869,
+            "rating": 2.5,
+            "ratingCount": 168,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-lakes-medical-center---wyoming",
+            "phoneNumber": "(651) 982-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEPguHSes-WRYD4zzjYEixaxlCnwPDx8DSi7c0",
+            "cid": "9889407682723402202",
+            "fid": "0x52b2e66ea4003d61:0x893e3be41fbf51da",
+            "placeId": "ChIJYT0ApG7mslIR2lG_H-Q7Pok"
+        },
+        {
+            "position": 8,
+            "title": "M Health Fairview Clinics and Surgery Center - Minneapolis",
+            "address": "909 Fulton St SE, Minneapolis, MN 55455",
+            "latitude": 44.9708906,
+            "longitude": -93.2248815,
+            "rating": 3.6,
+            "ratingCount": 198,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Surgical center"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-clinics-and-surgery-center---minneapolis",
+            "phoneNumber": "(612) 273-8383",
+            "openingHours": {
+                "Tuesday": "5:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "5:30\u202fAM\u20137\u202fPM",
+                "Thursday": "5:30\u202fAM\u20137\u202fPM",
+                "Friday": "5:30\u202fAM\u20137\u202fPM",
+                "Saturday": "6:30\u202fAM\u20133\u202fPM",
+                "Sunday": "6:30\u202fAM\u20133\u202fPM",
+                "Monday": "5:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMVT6f6OqeALIBINWPEQeMpEU5iPMgN0YZPbLhb",
+            "cid": "11120633773560077639",
+            "fid": "0x52b32d23d6ddbebb:0x9a546d7f56429d47",
+            "placeId": "ChIJu77d1iMts1IRR51CVn9tVJo"
+        },
+        {
+            "position": 9,
+            "title": "West Building - M Health Fairview University of Minnesota Medical Center",
+            "address": "2312 S 6th St, Minneapolis, MN 55454",
+            "latitude": 44.967721399999995,
+            "longitude": -93.2362113,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "University hospital"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-University-of-Minnesota-Medical-Center---West-Bank-west",
+            "phoneNumber": "(612) 273-8383",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPMICtS31U38t7BTD-C2lfMp0YbPSid2wEMmneP",
+            "cid": "5926437424410581442",
+            "fid": "0x52b32d3f351beee3:0x523eef701992d9c2",
+            "placeId": "ChIJ4-4bNT8ts1IRwtmSGXDvPlI"
+        },
+        {
+            "position": 10,
+            "title": "Fairview University Hospital",
+            "address": "909 Fulton St SE, Minneapolis, MN 55414",
+            "latitude": 44.970776199999996,
+            "longitude": -93.2248323,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HSEtUi3FUUJNnw-aIZzTsw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=82.657074&pitch=0&thumbfov=100",
+            "cid": "3697516429504776638",
+            "fid": "0x52b32d000a5c251d:0x3350379a33cd89be",
+            "placeId": "ChIJHSVcCgAts1IRvonNM5o3UDM"
+        },
+        {
+            "position": 11,
+            "title": "M Health Fairview Northland Medical Center",
+            "address": "911 Northland Dr, Princeton, MN 55371",
+            "latitude": 45.5585771,
+            "longitude": -93.5900446,
+            "rating": 3.7,
+            "ratingCount": 157,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-Northland-Medical-Center",
+            "phoneNumber": "(763) 389-1313",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNPn-JSG_c-qCcqvkLBOY5aRpf898DbIipaRU1F",
+            "cid": "4999164924009059048",
+            "fid": "0x52b39de5f5237665:0x45609a02fd2712e8",
+            "placeId": "ChIJZXYj9eWds1IR6BIn_QKaYEU"
+        },
+        {
+            "position": 12,
+            "title": "East Building - University of Minnesota Medical Center West Bank",
+            "address": "2450 Riverside Ave, Minneapolis, MN 55454",
+            "latitude": 44.9669107,
+            "longitude": -93.2368762,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://mhealthfairview.org/",
+            "phoneNumber": "(612) 273-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyqNv4PBoiJvy0qSGGlPSnl9dhZn3N8sPEVLIq",
+            "cid": "14358684188236923054",
+            "fid": "0x52b32d392793d51b:0xc7444b3191e140ae",
+            "placeId": "ChIJG9WTJzkts1IRrkDhkTFLRMc"
+        },
+        {
+            "position": 13,
+            "title": "University Of Minnesota Fairview",
+            "address": "516 Delaware St SE, Minneapolis, MN 55455",
+            "latitude": 44.9709266,
+            "longitude": -93.2323279,
+            "rating": 2.5,
+            "ratingCount": 15,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://www.fairview.org/locations/university-of-minnesota-medical-center-east-bank-hospital",
+            "phoneNumber": "(612) 625-8690",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7\u202fAM\u20134:30\u202fPM",
+                "Friday": "7\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oBBeU6Z3JeE0db87q_B1mg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=6.0330725&pitch=0&thumbfov=100",
+            "cid": "18097205883442697288",
+            "fid": "0x52b32d3d6790834f:0xfb2630de2db61448",
+            "placeId": "ChIJT4OQZz0ts1IRSBS2Ld4wJvs"
+        },
+        {
+            "position": 14,
+            "title": "M Health Fairview Southdale Hospital",
+            "address": "6401 France Ave S, Edina, MN 55435",
+            "latitude": 44.8866338,
+            "longitude": -93.3266215,
+            "rating": 2.9,
+            "ratingCount": 507,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-southdale-hospital",
+            "phoneNumber": "(952) 924-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOf1UfR0DCmGtOnfjvWfODBp7OK3hcGAc9V7zYY",
+            "cid": "4601584930559216550",
+            "fid": "0x87f626a4d6c933b7:0x3fdc1d1d35c5cba6",
+            "placeId": "ChIJtzPJ1qQm9ocRpsvFNR0d3D8"
+        },
+        {
+            "position": 15,
+            "title": "Fairview Range Medical Center",
+            "address": "750 E 34th St, Hibbing, MN 55746",
+            "latitude": 47.4090531,
+            "longitude": -92.9301148,
+            "rating": 2.8,
+            "ratingCount": 114,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://www.fairview.org/",
+            "phoneNumber": "(218) 262-4881",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIOS8YH9pDH4ywtN_fmJeGbcFzNiX5JxWbZWlC",
+            "cid": "12069142774641910014",
+            "fid": "0x52b009fd21de41f1:0xa77e35689200e0fe",
+            "placeId": "ChIJ8UHeIf0JsFIR_uAAkmg1fqc"
+        },
+        {
+            "position": 16,
+            "title": "M Health Fairview Clinic - Riverside",
+            "address": "606 24th Ave S #700, Minneapolis, MN 55454",
+            "latitude": 44.967267199999995,
+            "longitude": -93.2381388,
+            "rating": 3,
+            "ratingCount": 36,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://mhealthfairview.org/locations/m-health-fairview-clinic---riverside",
+            "phoneNumber": "(855) 324-7843",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://sslforms.fairview.org/ClinicAppt/AppointmentRequest.aspx?utm_source=google&utm_medium=GMBAptListing&utm_campaign=RiversideAptRequest"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMN-6YlqODdY0I5Y9_XG3AjM4lyGB1W0mKG1NcN",
+            "cid": "2767631445535319258",
+            "fid": "0x52b32d38c3e082cf:0x26689a22dc5564da",
+            "placeId": "ChIJz4Lgwzgts1IR2mRV3CKaaCY"
+        },
+        {
+            "position": 17,
+            "title": "Fairview University Medical Center Psychiatry",
+            "address": "2312 S 6th St, Minneapolis, MN 55454",
+            "latitude": 44.967858199999995,
+            "longitude": -93.23853009999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Addiction treatment center",
+                "Hospital department"
+            ],
+            "website": "https://www.fairview.org/overarching-care/behavioral-health-services",
+            "phoneNumber": "(612) 672-6600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k2Ba7A7f0WjAHemZPDy7jw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=326.42346&pitch=0&thumbfov=100",
+            "cid": "8202868596837851981",
+            "fid": "0x52b32d40d2960e09:0x71d6718735ba234d",
+            "placeId": "ChIJCQ6W0kAts1IRTSO6NYdx1nE"
+        },
+        {
+            "position": 18,
+            "title": "M Health Fairview University of Minnesota Medical Center - West Bank North Building",
+            "address": "525 23rd Ave S, Minneapolis, MN 55454",
+            "latitude": 44.9687529,
+            "longitude": -93.2390025,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/m-health-fairview-university-of-minnesota-medical-center---west-bank-north",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o7ZNM3-7Iluu7gnMK54oHg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=84.92778&pitch=0&thumbfov=100",
+            "cid": "5817056678428190635",
+            "fid": "0x52b32d3f4855b16f:0x50ba563a9c06a7ab",
+            "placeId": "ChIJb7FVSD8ts1IRq6cGnDpWulA"
+        },
+        {
+            "position": 19,
+            "title": "M Health Fairview Clinics and Surgery Center - Maple Grove",
+            "address": "14500 99th Ave N, Maple Grove, MN 55369",
+            "latitude": 45.136081999999995,
+            "longitude": -93.46477089999999,
+            "rating": 3.8,
+            "ratingCount": 201,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Surgical center"
+            ],
+            "website": "https://www.mhealthfairview.org/locations/M-Health-Fairview-Clinics-and-Surgery-Center---Maple-Grove",
+            "phoneNumber": "(763) 898-1000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe6Wz9XvLAHUWaq1JqOO__rmONDl9q_Ui4ByYw",
+            "cid": "12646279522414707851",
+            "fid": "0x52b3470af7000001:0xaf809c3907d3448b",
+            "placeId": "ChIJAQAA9wpHs1IRi0TTBzmcgK8"
+        },
+        {
+            "position": 20,
+            "title": "M Health Fairview Children's Clinic - University",
+            "address": "2535 University Ave SE, Minneapolis, MN 55414",
+            "latitude": 44.9732406,
+            "longitude": -93.2199849,
+            "rating": 4,
+            "ratingCount": 39,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://mhealthfairviewpeds.org/locations/m-health-fairview-clinic---childrens",
+            "phoneNumber": "(612) 672-2350",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://sslforms.fairview.org/ClinicAppt/AppointmentRequest.aspx?utm_source=google&utm_medium=GMBAptListing&utm_campaign=UniversityChildrensAptRequest"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOlXVnOqaBfpfq6Ux5pqyD57IuvJiTFZYkpmKsv",
+            "cid": "870336790912534032",
+            "fid": "0x52b32d2006c9b705:0xc140eb3394b8610",
+            "placeId": "ChIJBbfJBiAts1IREIZLObMOFAw"
+        }
+    ],
+    "credits": 3
+}

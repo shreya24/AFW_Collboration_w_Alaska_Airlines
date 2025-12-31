@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "Zuni PHS Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0871781,-108.7911712,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ZUNI Comprehensive Community Health Center",
+            "address": "12 B Ave, Zuni, NM 87327",
+            "latitude": 35.087178099999996,
+            "longitude": -108.7911712,
+            "rating": 2.3,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Dialysis center",
+                "General hospital"
+            ],
+            "website": "http://www.ihs.gov/Albuquerque/healthcarefacilities/zuniramah/",
+            "phoneNumber": "(505) 782-4431",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1gR61OarnpNiBbGLQ4chsw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=184.60757&pitch=0&thumbfov=100",
+            "cid": "6585020834873693779",
+            "fid": "0x8725aafdc3381cf5:0x5b62b18f75315653",
+            "placeId": "ChIJ9Rw4w_2qJYcRU1YxdY-xYls"
+        }
+    ],
+    "credits": 3
+}

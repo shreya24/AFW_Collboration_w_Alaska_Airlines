@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Fuller Diagnostics, LLC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1963405,-149.8771432,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fuller Diagnostics, LLC",
+            "address": "2600 Denali St #450, Anchorage, AK 99503",
+            "latitude": 61.1963405,
+            "longitude": -149.8771432,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Diagnostic center",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "http://www.fulleralaska.com/",
+            "phoneNumber": "(907) 561-0552",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ksS9EQYzwr4HsLoiVEENHA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=317.2414&pitch=0&thumbfov=100",
+            "cid": "14923443375532269504",
+            "fid": "0x56c897c8e2395555:0xcf1ab8aea841dfc0",
+            "placeId": "ChIJVVU54siXyFYRwN9BqK64Gs8"
+        }
+    ],
+    "credits": 3
+}

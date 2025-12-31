@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Parker Indian Health Service",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1473795,-114.3021208,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Parker Indian Health Center",
+            "address": "12033 W Agency Ave, Parker, AZ 85344",
+            "latitude": 34.1473795,
+            "longitude": -114.3021208,
+            "rating": 3.2,
+            "ratingCount": 20,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.ihs.gov/",
+            "phoneNumber": "(928) 669-2137",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRq0RBRFHLz8qT7Pck1RGHvy1U5ywVX2U_lHCl",
+            "cid": "8089359720273617392",
+            "fid": "0x80d1831c6758e7c7:0x70432dce6b4321f0",
+            "placeId": "ChIJx-dYZxyD0YAR8CFDa84tQ3A"
+        }
+    ],
+    "credits": 3
+}

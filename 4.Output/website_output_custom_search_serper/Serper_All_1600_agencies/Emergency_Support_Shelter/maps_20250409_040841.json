@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Emergency Support Shelter",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.3211721,-120.1304765,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "High Desert Homeless Services",
+            "address": "14049 Amargosa Rd, Victorville, CA 92392",
+            "latitude": 34.5051063,
+            "longitude": -117.3297564,
+            "rating": 3.8,
+            "ratingCount": 169,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.highdeserthomelessservices.org/",
+            "phoneNumber": "(760) 245-5991",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNX5dGp6AgO4av47fKOv5H1KalfT4uN5p_TGktI",
+            "cid": "10238414270712586510",
+            "fid": "0x80c365db05f5a8c3:0x8e162788a51d210e",
+            "placeId": "ChIJw6j1Bdtlw4ARDiEdpYgnFo4"
+        },
+        {
+            "position": 2,
+            "title": "Emergency Support Shelter",
+            "address": "1330 11th Ave, Longview, WA 98632",
+            "latitude": 46.1372378,
+            "longitude": -122.93119659999999,
+            "rating": 4.1,
+            "ratingCount": 81,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://esshelter.com/",
+            "phoneNumber": "(360) 425-1176",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNby-G1Z0V6F_smjB1dZhS8WVLRvttUJo1_ccEB",
+            "cid": "14797231282313468039",
+            "fid": "0x41aa6510e73b20b1:0xcd5a5373c1979887",
+            "placeId": "ChIJsSA75xBlqkERh5iXwXNTWs0"
+        }
+    ],
+    "credits": 3
+}

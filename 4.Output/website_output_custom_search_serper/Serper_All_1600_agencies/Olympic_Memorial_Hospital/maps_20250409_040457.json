@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Olympic Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1154826,-123.4144823,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Olympic Medical Center",
+            "address": "939 Caroline St, Port Angeles, WA 98362",
+            "latitude": 48.1154826,
+            "longitude": -123.41448229999999,
+            "rating": 3.5,
+            "ratingCount": 468,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.olympicmedical.org/",
+            "phoneNumber": "(360) 417-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPABzVs36BKGbgQEMVeh6G3C4Am6o2K0BnqaUsh",
+            "cid": "13954251130462653849",
+            "fid": "0x548fb1adbf32848d:0xc1a7757869d1cd99",
+            "placeId": "ChIJjYQyv62xj1QRmc3RaXh1p8E"
+        }
+    ],
+    "credits": 3
+}

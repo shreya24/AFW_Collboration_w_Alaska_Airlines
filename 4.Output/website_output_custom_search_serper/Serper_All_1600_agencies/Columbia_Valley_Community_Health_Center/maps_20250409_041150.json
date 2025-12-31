@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Columbia Valley Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4190865,-120.3177285,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Columbia Valley Community Health Center",
+            "address": "600 Orondo Ave STE 1, Wenatchee, WA 98801",
+            "latitude": 47.4190865,
+            "longitude": -120.3177285,
+            "rating": 3.8,
+            "ratingCount": 170,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Counselor",
+                "Dental clinic",
+                "Medical clinic",
+                "Midwife",
+                "Nutritionist",
+                "Pharmacy",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "http://cvch.org/",
+            "phoneNumber": "(509) 662-6000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqyjVMyO8_P9nRCRPS4il_65xRch1ugg9r2LvU",
+            "cid": "3038948199022317327",
+            "fid": "0x549bccc0cee82fef:0x2a2c83493589cf0f",
+            "placeId": "ChIJ7y_ozsDMm1QRD8-JNUmDLCo"
+        }
+    ],
+    "credits": 3
+}

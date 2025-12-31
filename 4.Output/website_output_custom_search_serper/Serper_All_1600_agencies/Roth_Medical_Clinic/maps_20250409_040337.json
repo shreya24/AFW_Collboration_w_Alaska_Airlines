@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Roth Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7068257,-117.4066515,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Roth Medical Clinic",
+            "address": "212 E Sanson Ave, Spokane, WA 99207",
+            "latitude": 47.706825699999996,
+            "longitude": -117.4066515,
+            "rating": 4,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://rothmedicalclinic.com/",
+            "phoneNumber": "(509) 483-4403",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5aH_gUCf1qrc99tKNyI46P966W3orgbp-5Odd",
+            "cid": "13564101414435417793",
+            "fid": "0x549e194a17a08ded:0xbc3d5e5ee8cbeec1",
+            "placeId": "ChIJ7Y2gF0oZnlQRwe7L6F5ePbw"
+        }
+    ],
+    "credits": 3
+}

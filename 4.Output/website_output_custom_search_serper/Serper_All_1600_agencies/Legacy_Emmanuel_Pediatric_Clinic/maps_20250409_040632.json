@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Legacy Emmanuel Pediatric Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5438947,-122.6689549,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Randall Children's Pediatric Care-Emanuel",
+            "address": "2800 N Vancouver Ave Ste. 165, Portland, OR 97227",
+            "latitude": 45.5432279,
+            "longitude": -122.66783029999999,
+            "rating": 3.3,
+            "ratingCount": 21,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/children/pediatric-care",
+            "phoneNumber": "(503) 413-2902",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-ocu0IjsufqLeSjNn0fGQE7gMyIDKwZW6wMR2",
+            "cid": "1674450185998454735",
+            "fid": "0x5495a7467a552b61:0x173cd79292864fcf",
+            "placeId": "ChIJYStVekanlVQRz0-GkpLXPBc"
+        },
+        {
+            "position": 2,
+            "title": "Randall Children's Hospital at Legacy Emanuel",
+            "address": "2801 N Gantenbein Ave, Portland, OR 97227",
+            "latitude": 45.5445615,
+            "longitude": -122.6700796,
+            "rating": 4.1,
+            "ratingCount": 290,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency care service",
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Medical group"
+            ],
+            "website": "https://www.legacyhealth.org/children",
+            "phoneNumber": "(503) 276-6500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNa6sbW9uTEaAl0y0arA3jR9b8clwFcKI20-yCg",
+            "cid": "8251142419154392818",
+            "fid": "0x5495a7444e8dd077:0x7281f25054dad6f2",
+            "placeId": "ChIJd9CNTkSnlVQR8tbaVFDygXI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Humboldt Neurological Med Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7820997,-124.1353173,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Medical Group Eureka - Neurology",
+            "address": "2828 O'Neil Ln, Eureka, CA 95501",
+            "latitude": 40.782099699999996,
+            "longitude": -124.1353173,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "https://www.providence.org/locations/norcal/eureka-neurology?ls=location&y_source=1_MjM2OTQ2OTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(707) 443-9385",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/norcal/eureka-neurology?y_source=1_MjM2OTQ2OTgtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D#Providers"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdmYPep7PP4Ve6pLs98tsczk3ATtX10aXov4Kn",
+            "cid": "9992446688044246877",
+            "fid": "0x54d3ffddbbbccf8d:0x8aac4d520de7e75d",
+            "placeId": "ChIJjc-8u93_01QRXefnDVJNrIo"
+        }
+    ],
+    "credits": 3
+}

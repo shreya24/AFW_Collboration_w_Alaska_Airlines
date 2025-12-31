@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Alaska Breast Care And Surgery",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1865362,-149.8210411,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Breast Care And Surgery",
+            "address": "3851 Piper St Suite U462, Anchorage, AK 99508",
+            "latitude": 61.1865362,
+            "longitude": -149.8210411,
+            "rating": 3.7,
+            "ratingCount": 25,
+            "type": "Surgical oncologist",
+            "types": [
+                "Surgical oncologist"
+            ],
+            "website": "http://www.alaskabreastcare.com/",
+            "phoneNumber": "(907) 562-6262",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOdKADxHlAmZSOciBeMsa1Ys3doLUsazzCJWyVl",
+            "cid": "4389791453270437018",
+            "fid": "0x56c89706d2ec7ebf:0x3cebac11923aec9a",
+            "placeId": "ChIJv37s0gaXyFYRmuw6khGs6zw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Colorado North Campus, Broomfield",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.0013751,-104.9931946,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Colorado North Campus, Broomfield",
+            "address": "469 CO-7, Broomfield, CO 80023",
+            "latitude": 40.0013751,
+            "longitude": -104.9931946,
+            "rating": 4.2,
+            "ratingCount": 1947,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon",
+                "Pediatrician",
+                "Urgent care center"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/north-campus-broomfield/",
+            "phoneNumber": "(720) 478-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMiz-XySIdAeASNOp6hVPnAK5Rdxf-Xx5VXicdG",
+            "cid": "17319309240865421753",
+            "fid": "0x876c0ae71dda1c39:0xf05a8bfe30ec79b9",
+            "placeId": "ChIJORzaHecKbIcRuXnsMP6LWvA"
+        }
+    ],
+    "credits": 3
+}

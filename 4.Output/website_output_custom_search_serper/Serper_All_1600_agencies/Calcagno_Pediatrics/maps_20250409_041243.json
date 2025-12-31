@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Calcagno Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.519452,-122.423118,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Calcagno Pediatrics",
+            "address": "23331 SE Stark St #201, Gresham, OR 97030",
+            "latitude": 45.519452,
+            "longitude": -122.42311799999999,
+            "rating": 3.7,
+            "ratingCount": 59,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.calcagnopediatrics.com/",
+            "phoneNumber": "(503) 491-0714",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRyMOkWF09flvYYzH1SztXKOiWzrMku-HUUGOG",
+            "cid": "2551583882275373797",
+            "fid": "0x549598128054e973:0x23690c05a5a2c2e5",
+            "placeId": "ChIJc-lUgBKYlVQR5cKipQUMaSM"
+        }
+    ],
+    "credits": 3
+}

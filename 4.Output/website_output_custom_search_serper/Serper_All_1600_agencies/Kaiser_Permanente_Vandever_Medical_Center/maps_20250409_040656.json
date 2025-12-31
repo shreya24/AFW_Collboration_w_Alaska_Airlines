@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Vandever Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7871318,-117.1002772,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Vandever Medical Offices",
+            "address": "4405 Vandever Ave, San Diego, CA 92120",
+            "latitude": 32.7871318,
+            "longitude": -117.1002772,
+            "rating": 4.2,
+            "ratingCount": 210,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Vandever-Medical-Offices-100036",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCVklxfA4D8_Yw5AYyXaD0xrI3iJFQS2r4CMRF",
+            "cid": "5217621801036267504",
+            "fid": "0x80d955c0d9eaaaab:0x4868b7624719bff0",
+            "placeId": "ChIJq6rq2cBV2YAR8L8ZR2K3aEg"
+        }
+    ],
+    "credits": 3
+}

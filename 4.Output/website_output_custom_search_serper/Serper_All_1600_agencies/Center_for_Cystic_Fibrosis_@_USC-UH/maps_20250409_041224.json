@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Center for Cystic Fibrosis @ USC-UH",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0765827,-118.2609564,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Keck Medicine of USC - USC Cystic Fibrosis",
+            "address": "1510 San Pablo St 5th floor, Los Angeles, CA 90033",
+            "latitude": 34.0621255,
+            "longitude": -118.2012994,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1510-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgcdn-3VgFGPv5h6pPlckEZZUkhkNi51lQNda-",
+            "cid": "1385261592347669364",
+            "fid": "0x80c2c5d92a37afcd:0x133970142cdff374",
+            "placeId": "ChIJza83KtnFwoARdPPfLBRwORM"
+        },
+        {
+            "position": 2,
+            "title": "Cystic Fibrosis Foundation",
+            "address": "6025 Santa Monica Blvd #204, Los Angeles, CA 90038",
+            "latitude": 34.0910398,
+            "longitude": -118.3206135,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.cff.org/",
+            "phoneNumber": "(323) 939-0758",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c01u-SEEidJPN7UtXozBMg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.80072&pitch=0&thumbfov=100",
+            "cid": "17246926807272817972",
+            "fid": "0x80c2b8e6fdc7739f:0xef59648d96a88534",
+            "placeId": "ChIJn3PH_ea4woARNIWolo1kWe8"
+        }
+    ],
+    "credits": 3
+}

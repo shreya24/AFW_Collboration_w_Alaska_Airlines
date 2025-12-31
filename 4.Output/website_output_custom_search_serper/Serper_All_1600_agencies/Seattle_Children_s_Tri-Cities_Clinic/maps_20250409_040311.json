@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Seattle Children's Tri-Cities Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2215374,-119.234554,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Children's Tri-Cities Clinic",
+            "address": "8232 W Grandridge Blvd, Kennewick, WA 99336",
+            "latitude": 46.221537399999995,
+            "longitude": -119.23455399999999,
+            "rating": 4.1,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatric cardiologist",
+                "Pediatric endocrinologist",
+                "Pediatric gastroenterologist",
+                "Pediatric nephrologist",
+                "Pediatric neurologist",
+                "Pediatric surgeon",
+                "Pediatric urologist",
+                "Sleep clinic"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/tri-cities-clinic/",
+            "phoneNumber": "(509) 582-1700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.seattlechildrens.org/clinics/schedule-appointment/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ya8EYBbzKRHqqLRsn-Mykg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=21.755003&pitch=0&thumbfov=100",
+            "cid": "17968763979816578805",
+            "fid": "0x54987ac718a547fb:0xf95ddfa315cd2ef5",
+            "placeId": "ChIJ-0elGMd6mFQR9S7NFaPfXfk"
+        }
+    ],
+    "credits": 3
+}

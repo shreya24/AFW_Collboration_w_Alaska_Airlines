@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Ivy Brain Tumor Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4812986,-112.0790985,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ivy Brain Tumor Center",
+            "address": "2910 N 3rd Ave, Phoenix, AZ 85013",
+            "latitude": 33.481298599999995,
+            "longitude": -112.0790985,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Neurosurgeon",
+                "Research engineer"
+            ],
+            "website": "http://ivybraintumorcenter.org/",
+            "phoneNumber": "(602) 406-6489",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNucT0iUC5QQcK4jxGhV-cag5OmyLZid1rnskU",
+            "cid": "6890712853429027750",
+            "fid": "0x872b13e6a958bc03:0x5fa0bad4e5db03a6",
+            "placeId": "ChIJA7xYqeYTK4cRpgPb5dS6oF8"
+        }
+    ],
+    "credits": 3
+}

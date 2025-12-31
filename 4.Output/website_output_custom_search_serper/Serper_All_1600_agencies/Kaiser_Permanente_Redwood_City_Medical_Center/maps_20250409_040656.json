@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Redwood City Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4891882,-122.2242762,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Redwood City Medical Center",
+            "address": "1100 Veterans Blvd, Redwood City, CA 94063",
+            "latitude": 37.4891882,
+            "longitude": -122.22427619999999,
+            "rating": 4.6,
+            "ratingCount": 1030,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/front-door",
+            "phoneNumber": "(650) 299-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPrci2Z2lfzwjLYluZkhaSiCRiFGC1QUyA1Res",
+            "cid": "8637141451167440760",
+            "fid": "0x808fa254dcc76aef:0x77dd4a6367a31f78",
+            "placeId": "ChIJ72rH3FSij4AReB-jZ2NK3Xc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,684 @@
+{
+    "searchParameters": {
+        "q": "City of Hope Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9857763,-115.2758223,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "City of Hope",
+            "address": "1500 E Duarte Rd, Duarte, CA 91010",
+            "latitude": 34.1291952,
+            "longitude": -117.97280719999999,
+            "rating": 3.7,
+            "ratingCount": 47,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.cityofhope.org/",
+            "phoneNumber": "(626) 256-4673",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8byY87BT2t5oohpa2yDDjA-dy_U4DudNyHDA06EqOt8P6uBT67IUalviNfW4UxccKt79XqEpRsLcpnKiljh0Ss-McCmj2ZJT_ozpRdTxYEZeWjORVbjdG1TN3vyVChAJrSRKQd",
+            "cid": "12935555560199638320",
+            "fid": "0x80c2d9de89b4e8b3:0xb384533f1a074d30",
+            "placeId": "ChIJs-i0id7ZwoARME0HGj9ThLM"
+        },
+        {
+            "position": 2,
+            "title": "City of Hope Comprehensive Cancer Center - Duarte",
+            "address": "1500 E Duarte Rd, Duarte, CA 91010",
+            "latitude": 34.132163,
+            "longitude": -117.9709616,
+            "rating": 4.4,
+            "ratingCount": 344,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Diabetes center",
+                "Medical Center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/duarte?invsrc=local_search_x_facility_coh_duarte",
+            "phoneNumber": "(626) 275-8069",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFtAMh4HpTXGkgXLf3F3itPtfPxGnKORMz5T-e",
+            "cid": "11091606418358033034",
+            "fid": "0x80c2d9accf494e8b:0x99ed4d458aac5a8a",
+            "placeId": "ChIJi05Jz6zZwoARilqsikVN7Zk"
+        },
+        {
+            "position": 3,
+            "title": "City of Hope Cancer Center Phoenix",
+            "address": "14200 Celebrate Life Way, Goodyear, AZ 85338",
+            "latitude": 33.4539378,
+            "longitude": -112.36452799999999,
+            "rating": 4,
+            "ratingCount": 144,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Specialized hospital"
+            ],
+            "website": "https://www.cityofhope.org/locations/phoenix?invsrc=local_search_x_facility_cap_phoenix",
+            "phoneNumber": "(847) 342-6910",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.cancercenter.com/schedule-an-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-6mWT-1YpXkgriaguRtM6coXmCqMiHYR48X67",
+            "cid": "8183322057187854949",
+            "fid": "0x872b38eac26a0de9:0x7191000dcd4d0a65",
+            "placeId": "ChIJ6Q1qwuo4K4cRZQpNzQ0AkXE"
+        },
+        {
+            "position": 4,
+            "title": "City of Hope Santa Clarita",
+            "address": "23823 Valencia Blvd, Valencia, CA 91355",
+            "latitude": 34.4139154,
+            "longitude": -118.55261519999999,
+            "rating": 3.9,
+            "ratingCount": 10,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/santa-clarita",
+            "phoneNumber": "(661) 799-1999",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNd_i1j_y4CBLM1OGWZOppYgC0hGBVSMxbSOtpi",
+            "cid": "4652744395189727170",
+            "fid": "0x80c286e1007cd9e1:0x4091de6049f92fc2",
+            "placeId": "ChIJ4dl8AOGGwoARwi_5SWDekUA"
+        },
+        {
+            "position": 5,
+            "title": "City of Hope South Pasadena",
+            "address": "209 Fair Oaks Ave, South Pasadena, CA 91030",
+            "latitude": 34.1237758,
+            "longitude": -118.1505419,
+            "rating": 4.5,
+            "ratingCount": 18,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/south-pasadena?invsrc=local_search_x_facility_coh_south_pasadena",
+            "phoneNumber": "(877) 998-7546",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvzArQgQl4bwarfKQzpYKuUfpiUTp1JOwvDAzG",
+            "cid": "328373170196044837",
+            "fid": "0x80c2c485a1385ea3:0x48e9da8934ddc25",
+            "placeId": "ChIJo144oYXEwoARJdxNk6idjgQ"
+        },
+        {
+            "position": 6,
+            "title": "City of Hope Colton",
+            "address": "400 N Pepper Ave, Colton, CA 92324",
+            "latitude": 34.0740474,
+            "longitude": -117.3504961,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/colton?invsrc=local_search_x_facility_coh_colton",
+            "phoneNumber": "(909) 580-2775",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNT37WeH6Bzy7yTBHlF3OKJtQBnT6BtU67EjjDQ",
+            "cid": "11871987896008272654",
+            "fid": "0x80dcad51c6ef04a1:0xa4c1c617474f6b0e",
+            "placeId": "ChIJoQTvxlGt3IARDmtPRxfGwaQ"
+        },
+        {
+            "position": 7,
+            "title": "City of Hope Mission Hills",
+            "address": "15031 Rinaldi St, Mission Hills, CA 91345",
+            "latitude": 34.279782,
+            "longitude": -118.4599806,
+            "rating": 2.6,
+            "ratingCount": 17,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/mission-hills?invsrc=local_search_x_facility_coh_mission_hills",
+            "phoneNumber": "(818) 660-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMhHZ4P_oglOVNM6wmXZEkSsbir_KUP-_7jPHpt",
+            "cid": "12800968347809864030",
+            "fid": "0x80c2903f832d28f9:0xb1a62ce3d039d95e",
+            "placeId": "ChIJ-Sgtgz-QwoARXtk50OMsprE"
+        },
+        {
+            "position": 8,
+            "title": "City of Hope Comprehensive Cancer Center - Duarte",
+            "address": "1500 E Duarte Rd, Duarte, CA 91010",
+            "latitude": 34.131946899999996,
+            "longitude": -117.9707763,
+            "rating": 4.7,
+            "ratingCount": 171,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Diabetes center",
+                "Medical Center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/duarte?invsrc=local_search_x_facility_coh_duarte",
+            "phoneNumber": "(626) 275-8069",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPllKb24sh_Qcd_y8Xac5I32zgkKrtWpJ9cfqDC",
+            "cid": "18112248429235791664",
+            "fid": "0x80c2c7b02249f30f:0xfb5ba1fbcc39e730",
+            "placeId": "ChIJD_NJIrDHwoARMOc5zPuhW_s"
+        },
+        {
+            "position": 9,
+            "title": "City of Hope Corona",
+            "address": "320 W 6th St, Corona, CA 92882",
+            "latitude": 33.8755039,
+            "longitude": -117.56989899999999,
+            "rating": 4.5,
+            "ratingCount": 17,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/corona?invsrc=local_search_x_facility_coh_corona",
+            "phoneNumber": "(951) 898-2828",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMu8yoxVo-p3XWjvmQrO5CELOlBv19pEv7bxyNW",
+            "cid": "15757189007632546995",
+            "fid": "0x80dcb802873bce55:0xdaacc7ead2a0bcb3",
+            "placeId": "ChIJVc47hwK43IARs7yg0urHrNo"
+        },
+        {
+            "position": 10,
+            "title": "City of Hope Antelope Valley",
+            "address": "City of Hope Antelope Valley, 44151 15th St W, Lancaster, CA 93534",
+            "latitude": 34.6854674,
+            "longitude": -118.1583769,
+            "rating": 3.5,
+            "ratingCount": 43,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/antelope-valley?invsrc=local_search_x_facility_coh_antelope_valley",
+            "phoneNumber": "(877) 828-3627",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOZD2wSemMTlvzti3srhbX24CEJhhDjGjPdu4ax",
+            "cid": "7388487480489410364",
+            "fid": "0x80c25adf681a6a99:0x66892e37b5fdff3c",
+            "placeId": "ChIJmWoaaN9awoARPP_9tTcuiWY"
+        },
+        {
+            "position": 11,
+            "title": "City of Hope Newport Beach",
+            "address": "1601 Avocado Ave, Newport Beach, CA 92660",
+            "latitude": 33.6148476,
+            "longitude": -117.86891709999999,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/newport-beach?invsrc=local_search_x_facility_coh_newport_beach",
+            "phoneNumber": "(949) 763-2204",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOieqc3WsRuSswXj-deCiuRoexmi6H1hmQzYZMM",
+            "cid": "7343992682642410793",
+            "fid": "0x80dce1eb117943cf:0x65eb1a6f49f80d29",
+            "placeId": "ChIJz0N5Eevh3IARKQ34SW8a62U"
+        },
+        {
+            "position": 12,
+            "title": "City of Hope Palmdale",
+            "address": "38660 Medical Center Dr Suite A380, Palmdale, CA 93551",
+            "latitude": 34.5835557,
+            "longitude": -118.14546689999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/palmdale?invsrc=local_search_x_facility_coh_palmdale",
+            "phoneNumber": "(661) 902-5600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNcLq1aaglqQ51OVX5G5aofuu0HHM_fhGJGiHHU",
+            "cid": "4841340066129022223",
+            "fid": "0x80c259508c3b24c1:0x432fe523be7c8d0f",
+            "placeId": "ChIJwSQ7jFBZwoARD418viPlL0M"
+        },
+        {
+            "position": 13,
+            "title": "City of Hope West Covina",
+            "address": "1250 S Sunset Ave # 303, West Covina, CA 91790",
+            "latitude": 34.0605565,
+            "longitude": -117.9457235,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/west-covina?invsrc=local_search_x_facility_coh_west_covina",
+            "phoneNumber": "(626) 856-5858",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuLZf5LU-LmTctG1sRhEBHwv8VKH1jrfEk6xvH",
+            "cid": "2425241677958249282",
+            "fid": "0x80c2d7cad9679653:0x21a83074e52c7b42",
+            "placeId": "ChIJU5Zn2crXwoARQnss5XQwqCE"
+        },
+        {
+            "position": 14,
+            "title": "City of Hope Upland",
+            "address": "1100 San Bernardino Rd, Upland, CA 91786",
+            "latitude": 34.1009934,
+            "longitude": -117.63629929999999,
+            "rating": 2.9,
+            "ratingCount": 72,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/upland?invsrc=local_search_x_facility_coh_upland",
+            "phoneNumber": "(909) 949-2242",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMyEmo5TEXQsr732e6rz3rIv1ubJ3zs2uFO-8",
+            "cid": "1095571693003900536",
+            "fid": "0x80c335fbf885ffb5:0xf3440a673788678",
+            "placeId": "ChIJtf-F-Ps1w4AReIZ4c6ZANA8"
+        },
+        {
+            "position": 15,
+            "title": "City of Hope Long Beach Elm",
+            "address": "1043 Elm Ave, Long Beach, CA 90813",
+            "latitude": 33.7797376,
+            "longitude": -118.1883915,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/long-beach-elm?invsrc=local_search_x_facility_coh_long_beach_elm",
+            "phoneNumber": "(562) 590-0345",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJROJPR6pzoQ37DJ_JgbtOy2bzlpt_1eVRF5or",
+            "cid": "6502059364177519626",
+            "fid": "0x80dd3156c2f77203:0x5a3bf48ad64da40a",
+            "placeId": "ChIJA3L3wlYx3YARCqRN1or0O1o"
+        },
+        {
+            "position": 16,
+            "title": "City of Hope Simi Valley",
+            "address": "1157 Swallow Ln, Simi Valley, CA 93065",
+            "latitude": 34.259825899999996,
+            "longitude": -118.79435699999999,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/simi-valley?invsrc=local_search_x_facility_coh_simi_valley",
+            "phoneNumber": "(805) 527-2770",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnChkdi39mMZ2GVmlSnUFVxNTFg8FtoDu0LPdN",
+            "cid": "8289741524693500544",
+            "fid": "0x80e82ee141a57845:0x730b13feeb294280",
+            "placeId": "ChIJRXilQeEu6IARgEIp6_4TC3M"
+        },
+        {
+            "position": 17,
+            "title": "City of Hope Glendale",
+            "address": "222 W Eulalia St Suite 100-B, Glendale, CA 91204",
+            "latitude": 34.1264051,
+            "longitude": -118.2571533,
+            "rating": 4.7,
+            "ratingCount": 29,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/glendale?invsrc=local_search_x_facility_coh_glendale",
+            "phoneNumber": "(818) 637-7611",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN46nq_8NiAOBxFFL1xpFCfeETgJyOuPoOlyLsf",
+            "cid": "16186790011513093905",
+            "fid": "0x80c2c19b64e82f57:0xe0a307c112143f11",
+            "placeId": "ChIJVy_oZJvBwoARET8UEsEHo-A"
+        },
+        {
+            "position": 18,
+            "title": "City of Hope Cancer Care Gilbert",
+            "address": "3530 S Val Vista Dr c204, Gilbert, AZ 85297",
+            "latitude": 33.2860851,
+            "longitude": -111.7572876,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.cityofhope.org/locations/gilbert",
+            "phoneNumber": "(833) 912-4271",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cancercenter.com/schedule-an-appointment?invsrc=local_search_rioseo_gilbert_facility_appointment_link&t_pur=prospecting&t_med=online&t_ch=local_search&t_con=appointment_link&t_re=gilb&t_bud=corporate&utm_campaign=local_search_rioseo_gilbert_facility&utm_medium=local&utm_source=google"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jWIwUS5mnvpMJ7cQ0gHPEA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=282.44736&pitch=0&thumbfov=100",
+            "cid": "14205014569155679170",
+            "fid": "0x872badf791fa2477:0xc522597d3fc5d3c2",
+            "placeId": "ChIJdyT6kfetK4cRwtPFP31ZIsU"
+        },
+        {
+            "position": 19,
+            "title": "City of Hope South Bay",
+            "address": "5215 Torrance Blvd, Torrance, CA 90503",
+            "latitude": 33.8385098,
+            "longitude": -118.3692239,
+            "rating": 3.6,
+            "ratingCount": 22,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/south-bay?invsrc=local_search_x_facility_coh_south_bay",
+            "phoneNumber": "(310) 750-1715",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cityofhope.org/patients/making-your-first-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkvlK-Gm-lXrApAa6ie8QY7d7v5mZZFuA0wBqo",
+            "cid": "9705840616782847970",
+            "fid": "0x80dd33e9ae0f3127:0x86b2129e01e65fe2",
+            "placeId": "ChIJJzEPrukz3YAR4l_mAZ4SsoY"
+        },
+        {
+            "position": 20,
+            "title": "City of Hope Orange County",
+            "address": "2000 Fivepoint Suite 230, Irvine, CA 92618",
+            "latitude": 33.650199199999996,
+            "longitude": -117.7290675,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.cityofhope.org/oc",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-iMuDQcEfFtgXNimy79Fws5iShbUqPVI87rt5dj6O8Vfv_NP1LHHbqEYuGxps_9ZqLF1F1AJ1oI93g-FHaxPgshX891CIUZjLP8BC64tG6gPvim8SSy-QJjN2tQsalb_B7pQw",
+            "cid": "6776533808166898452",
+            "fid": "0x80dce9215206d4ef:0x5e0b15984c368b14",
+            "placeId": "ChIJ79QGUiHp3IARFIs2TJgVC14"
+        }
+    ],
+    "credits": 3
+}

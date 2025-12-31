@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Quechan Social Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7377355,-114.61709,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Quechan Social Services",
+            "address": "465b Picacho Rd, Winterhaven, CA 92283",
+            "latitude": 32.7377355,
+            "longitude": -114.61708999999999,
+            "rating": 4.1,
+            "ratingCount": 14,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Professional services"
+            ],
+            "website": "https://www.quechantribe.com/departments-social-services.html",
+            "phoneNumber": "(760) 572-0201",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XrzXjJmnoAs2SduMWnFiag&cb_client=search.gws-prod.gps&w=360&h=120&yaw=312.2793&pitch=0&thumbfov=100",
+            "cid": "5403031223841192284",
+            "fid": "0x80d6f4285764428d:0x4afb6c458765f95c",
+            "placeId": "ChIJjUJkVyj01oARXPllh0Vs-0o"
+        }
+    ],
+    "credits": 3
+}

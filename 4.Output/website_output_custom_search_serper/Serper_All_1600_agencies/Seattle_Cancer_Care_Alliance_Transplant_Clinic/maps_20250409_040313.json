@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Seattle Cancer Care Alliance Transplant Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6265109,-122.329946,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bone Marrow Transplant Program at Fred Hutch Cancer Center",
+            "address": "1354 Aloha St, Seattle, WA 98109",
+            "latitude": 47.6265109,
+            "longitude": -122.32994599999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://www.fredhutch.org/en/patient-care/treatments/blood-marrow-transplant.html?utm_source=gbp&utm_medium=organic&utm_content=program_bone_marrow",
+            "phoneNumber": "(206) 288-7222",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPx6PtNoUV-SzfiLR9-YfbON92umMYsgxdFOnle",
+            "cid": "9999370880970690791",
+            "fid": "0x5490153ab0a04589:0x8ac4e6d659a490e7",
+            "placeId": "ChIJiUWgsDoVkFQR55CkWdbmxIo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,114 @@
+{
+    "searchParameters": {
+        "q": "MS Hub Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.9925497,-100.4442924,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hub South Medical Clinic",
+            "address": "200 W Hospital Dr, Hattiesburg, MS 39402",
+            "latitude": 31.325189899999998,
+            "longitude": -89.36758209999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.merithealthwesley.com/",
+            "phoneNumber": "(601) 296-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7DaMPf-e5zpBw2Q77By3ow&cb_client=search.gws-prod.gps&w=80&h=92&yaw=19.25552&pitch=0&thumbfov=100",
+            "cid": "13928832967600587999",
+            "fid": "0x889cdf1975cafe7d:0xc14d27c9319544df",
+            "placeId": "ChIJff7KdRnfnIgR30SVMcknTcE"
+        },
+        {
+            "position": 2,
+            "title": "Hubhealth of South Ms",
+            "address": "201 Methodist Blvd Space 100, Hattiesburg, MS 39402",
+            "latitude": 31.327760599999998,
+            "longitude": -89.3720544,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.hubhealthms.com/",
+            "phoneNumber": "(601) 296-3150",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F8tegQo8lC_FC9DJP_F36Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=341.83633&pitch=0&thumbfov=100",
+            "cid": "6701128049096601280",
+            "fid": "0x889cdf17b0a4ce37:0x5cff3074e0cf2ec0",
+            "placeId": "ChIJN86ksBffnIgRwC7P4HQw_1w"
+        },
+        {
+            "position": 3,
+            "title": "My Medical Hub Corp.",
+            "address": "13220 McCormick Dr, Tampa, FL 33626",
+            "latitude": 28.0601825,
+            "longitude": -82.6465442,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "http://mymedicalhub.com/",
+            "phoneNumber": "(813) 925-9621",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LyazLFLw9ah85srqSrcJFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.1812&pitch=0&thumbfov=100",
+            "cid": "10004587362923256932",
+            "fid": "0x88c2efb5e594e8b3:0x8ad76f3333671c64",
+            "placeId": "ChIJs-iU5bXvwogRZBxnMzNv14o"
+        },
+        {
+            "position": 4,
+            "title": "Hub Clinic",
+            "address": "1721 E 120th St, Los Angeles, CA 90059",
+            "latitude": 33.9249169,
+            "longitude": -118.24204069999999,
+            "rating": 4.2,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://dhs.lacounty.gov/medical-hubs/our-services/home/",
+            "phoneNumber": "(424) 338-2900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zFhn6FiQBbphfSBap-zp9A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.653335&pitch=0&thumbfov=100",
+            "cid": "2280646483109013737",
+            "fid": "0x80c2cbc82785def3:0x1fa67be49bf4e8e9",
+            "placeId": "ChIJ896FJ8jLwoAR6ej0m-R7ph8"
+        },
+        {
+            "position": 5,
+            "title": "Hub Care Pathology",
+            "address": "5052 W 4th St, Hattiesburg, MS 39402",
+            "latitude": 31.335168999999997,
+            "longitude": -89.3720529,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pathologist"
+            ],
+            "phoneNumber": "(601) 261-0447",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e5_nGakK4Tpo5ZRb0YLI9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=155.96829&pitch=0&thumbfov=100",
+            "cid": "2314469474806584090",
+            "fid": "0x889cdf3b78d10b1f:0x201ea5b98954d31a",
+            "placeId": "ChIJHwvReDvfnIgRGtNUibmlHiA"
+        }
+    ],
+    "credits": 3
+}

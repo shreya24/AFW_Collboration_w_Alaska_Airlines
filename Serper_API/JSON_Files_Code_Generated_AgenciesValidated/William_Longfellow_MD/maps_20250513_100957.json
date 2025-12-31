@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "William Longfellow MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7435861,-116.4118891,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "William S. Longfellow M.D.",
+            "address": "71780 San Jacinto Dr # H1, Rancho Mirage, CA 92270",
+            "latitude": 33.7435861,
+            "longitude": -116.4118891,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(760) 340-6777",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-hEvpLEHpHWxD4TDWK71uw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=65.70028&pitch=0&thumbfov=100",
+            "cid": "3854863356658978254",
+            "fid": "0x80dafd8d1fb5f0f9:0x357f39cc87540dce",
+            "placeId": "ChIJ-fC1H4392oARzg1Uh8w5fzU"
+        }
+    ],
+    "credits": 3
+}

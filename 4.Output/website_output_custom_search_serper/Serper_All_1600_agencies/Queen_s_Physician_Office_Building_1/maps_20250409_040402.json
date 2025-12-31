@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Queen's Physician Office Building 1",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3080213,-157.852902,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Queen's POB 1",
+            "address": "1380 Lusitana St # 801, Honolulu, HI 96813",
+            "latitude": 21.3080213,
+            "longitude": -157.852902,
+            "rating": 4.2,
+            "ratingCount": 114,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Pharmacy"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/patients-visitors/parking-and-directions/",
+            "phoneNumber": "(808) 691-4745",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8BJYbM78aJ7tLla28YENxpvieXX8nErkUwyZJpiEPTLfrl1KPEZ6f6iobuahyVqEd-uAj3u0kdLeyZ2P6tw-s7oAnMUJ0a2_Kienv8bvpoTk4w5k2h4zBHFxP6UvZTfLNUJg5TqQ",
+            "cid": "10531523249884585237",
+            "fid": "0x7c006dde5b5e79fd:0x92277c98ed235d15",
+            "placeId": "ChIJ_XleW95tAHwRFV0j7Zh8J5I"
+        },
+        {
+            "position": 2,
+            "title": "Queen's Physicians Office",
+            "address": "1380 Lusitana St, Honolulu, HI 96813",
+            "latitude": 21.3080213,
+            "longitude": -157.852902,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.queens.org/find-a-doctor/",
+            "phoneNumber": "(808) 691-4755",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XCCqZ5NmTt_WcHJdjoZ_og&cb_client=search.gws-prod.gps&w=80&h=92&yaw=246.7033&pitch=0&thumbfov=100",
+            "cid": "3365843676587787100",
+            "fid": "0x7c006dde5b08480d:0x2eb5e0fda882835c",
+            "placeId": "ChIJDUgIW95tAHwRXIOCqP3gtS4"
+        }
+    ],
+    "credits": 3
+}

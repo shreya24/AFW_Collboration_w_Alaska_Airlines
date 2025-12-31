@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Destiny World Outreach",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.1167413,-97.7122599,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Destiny World Outreach Center",
+            "address": "101 W S Young Dr, Killeen, TX 76541",
+            "latitude": 31.116741299999997,
+            "longitude": -97.71225989999999,
+            "rating": 4.6,
+            "ratingCount": 293,
+            "type": "Church",
+            "types": [
+                "Church",
+                "Event venue"
+            ],
+            "website": "http://www.destinywoc.com/",
+            "phoneNumber": "(254) 690-0856",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20132\u202fPM",
+                "Wednesday": "10\u202fAM\u20132\u202fPM",
+                "Thursday": "10\u202fAM\u20132\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "8\u202fAM\u20131:30\u202fPM",
+                "Monday": "10\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2q5aU4-ZUlNUNS6yLAM7QGz6pF9M2BKFkoZaM",
+            "cid": "14316724592034651195",
+            "fid": "0x86454bf61629c09d:0xc6af3929c7531c3b",
+            "placeId": "ChIJncApFvZLRYYROxxTxyk5r8Y"
+        }
+    ],
+    "credits": 3
+}

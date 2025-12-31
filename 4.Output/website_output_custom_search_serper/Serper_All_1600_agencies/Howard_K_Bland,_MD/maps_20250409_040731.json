@@ -1,0 +1,54 @@
+{
+    "searchParameters": {
+        "q": "Howard K Bland, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6814687,-117.9169832,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Howard K Bland, MD",
+            "address": "1198 Pacific Coast Hwy, Seal Beach, CA 90740",
+            "latitude": 33.7430229,
+            "longitude": -118.10069949999999,
+            "rating": 3.4,
+            "ratingCount": 7,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.optum.com/en/care/providers/ca/seal-beach/howard-k-bland-md.html",
+            "phoneNumber": "(562) 799-7071",
+            "bookingLinks": [
+                "http://optumcaremedical.com/?o=CARE:NPS:OC_9.1_2020:YEXT:OC:GEN:2046CAD11:n_a:n_a:n_a:n_a:n_a"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqO4OzAoKFOHUW8v8FsR9AW8iDYNdEmVX1K9s",
+            "cid": "13659054547005061781",
+            "fid": "0x80dd2ffaa6a2b0a5:0xbd8eb5bde1ebba95",
+            "placeId": "ChIJpbCipvov3YARlbrr4b21jr0"
+        },
+        {
+            "position": 2,
+            "title": "Howard K Bland, MD",
+            "address": "23595 Moulton Pkwy, Laguna Hills, CA 92653",
+            "latitude": 33.6199144,
+            "longitude": -117.73326689999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.optum.com/en/care/providers/ca/howard-k-bland-md-1336156769.html",
+            "phoneNumber": "(949) 900-0500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaQrLqkdbEcsfZ7D0QtFJnB4C8yyx7hmarIGQl",
+            "cid": "17172411059668490634",
+            "fid": "0x80dcef328e0a0641:0xee50a8e01c87998a",
+            "placeId": "ChIJQQYKjjLv3IARipmHHOCoUO4"
+        }
+    ],
+    "credits": 3
+}

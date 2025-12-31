@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sutter Coast Community Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7752007,-124.1942812,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sutter Coast Community Clinic",
+            "address": "780 E Washington Blvd, Crescent City, CA 95531",
+            "latitude": 41.7752007,
+            "longitude": -124.19428119999999,
+            "rating": 2.7,
+            "ratingCount": 31,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/sutter-coast-community-clinic",
+            "phoneNumber": "(707) 464-6715",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "14625461414452264711",
+            "fid": "0x54d068a7f5546c07:0xcaf813aadc9bff07",
+            "placeId": "ChIJB2xU9ado0FQRB_-b3KoT-Mo"
+        }
+    ],
+    "credits": 3
+}

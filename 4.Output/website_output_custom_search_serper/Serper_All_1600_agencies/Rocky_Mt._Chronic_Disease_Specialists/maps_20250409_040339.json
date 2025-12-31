@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Rocky Mt. Chronic Disease Specialists",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1792846,-105.3973988,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Rocky Mountain Infectious Disease Specialists (RMIDS)",
+            "address": "1550 S Potomac St Ste 270, Aurora, CO 80012",
+            "latitude": 39.6889276,
+            "longitude": -104.83043339999999,
+            "rating": 3.4,
+            "ratingCount": 21,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "http://www.rmids.com/site/epage/90751_884.htm",
+            "phoneNumber": "(303) 750-1800",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pYiR6vMW_CdYxHYxqDBIVg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=111.321526&pitch=0&thumbfov=100",
+            "cid": "17812657719951653181",
+            "fid": "0x876c62bb24af0305:0xf73345d21f56793d",
+            "placeId": "ChIJBQOvJLtibIcRPXlWH9JFM_c"
+        },
+        {
+            "position": 2,
+            "title": "Rocky Mountain Infectious Disease Specialists, P.C.-Sky Ridge Medical Center",
+            "address": "Conifer Building, 10099 Ridgegate Pkwy # 370, Lone Tree, CO 80124",
+            "latitude": 39.528701999999996,
+            "longitude": -104.8720647,
+            "rating": 3.2,
+            "ratingCount": 20,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "http://www.rmids.com/",
+            "phoneNumber": "(303) 799-7372",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cY6_uIKKtfYp2bnEUYA53g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=39.666805&pitch=0&thumbfov=100",
+            "cid": "12538091142603444148",
+            "fid": "0x876c853efea06e27:0xae003f76ec598fb4",
+            "placeId": "ChIJJ26g_j6FbIcRtI9Z7HY_AK4"
+        },
+        {
+            "position": 3,
+            "title": "Rocky Mountain Infectious Diseases (RMID)",
+            "address": "1450 E A St #1, Casper, WY 82601",
+            "latitude": 42.8517301,
+            "longitude": -106.3057236,
+            "rating": 3,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Infectious disease physician"
+            ],
+            "website": "http://www.rockymountaininfectiousdiseases.com/",
+            "phoneNumber": "(307) 234-8700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zCLHvhe8FZ-8ifnsdXKR0A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=236.18277&pitch=0&thumbfov=100",
+            "cid": "15072800496053330387",
+            "fid": "0x8760bc83f97ecc23:0xd12d5831299721d3",
+            "placeId": "ChIJI8x--YO8YIcR0yGXKTFYLdE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Love Lace Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2193323,-81.5402991,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lovelace Family Medicine, P.A.",
+            "address": "600 N Wheeler Ave, Prosperity, SC 29127",
+            "latitude": 34.2193323,
+            "longitude": -81.5402991,
+            "rating": 4.2,
+            "ratingCount": 57,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "http://www.lovelacefamilymedicine.com/",
+            "phoneNumber": "(803) 364-4852",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNBvDnl_BhRvPvadueLrY2mV6doOZzYtf7WTFbS",
+            "cid": "514489840968213348",
+            "fid": "0x8857d56022a6d673:0x723d5c8d3752364",
+            "placeId": "ChIJc9amImDVV4gRZCN108jVIwc"
+        }
+    ],
+    "credits": 3
+}

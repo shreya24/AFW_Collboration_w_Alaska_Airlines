@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Canyon View Vineyard Church",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1125898,-108.5972735,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Canyon View Vineyard Church",
+            "address": "736 24 1/2 Rd, Grand Junction, CO 81505",
+            "latitude": 39.112589799999995,
+            "longitude": -108.5972735,
+            "rating": 4.8,
+            "ratingCount": 157,
+            "type": "Vineyard church",
+            "types": [
+                "Vineyard church",
+                "Church",
+                "Non-profit organization"
+            ],
+            "website": "http://canyonviewchurch.com/",
+            "phoneNumber": "(970) 242-7970",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "9\u202fAM\u20131\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgrIM9c_H-9GqwlwYMbGzL8nUUoPMsooERENUa",
+            "cid": "14219436662744583036",
+            "fid": "0x87471d4322b17147:0xc555964e950e8b7c",
+            "placeId": "ChIJR3GxIkMdR4cRfIsOlU6WVcU"
+        }
+    ],
+    "credits": 3
+}

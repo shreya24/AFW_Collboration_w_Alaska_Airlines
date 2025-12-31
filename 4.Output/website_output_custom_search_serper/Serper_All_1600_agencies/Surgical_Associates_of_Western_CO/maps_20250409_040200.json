@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Surgical Associates of Western CO",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0908234,-108.5556909,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "General Surgeons of Western Colorado",
+            "address": "2440 N 11th St, Grand Junction, CO 81501",
+            "latitude": 39.0908234,
+            "longitude": -108.5556909,
+            "rating": 4.8,
+            "ratingCount": 395,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Surgeon"
+            ],
+            "website": "http://www.coloradosurgeons.com/",
+            "phoneNumber": "(970) 243-0900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPS4wFt7BTb-09-iq2DJHbtnPnElU-qwW7vUb0J",
+            "cid": "11929253867165621897",
+            "fid": "0x87471db2ccfb0ee9:0xa58d393033dc9e89",
+            "placeId": "ChIJ6Q77zLIdR4cRiZ7cMzA5jaU"
+        }
+    ],
+    "credits": 3
+}

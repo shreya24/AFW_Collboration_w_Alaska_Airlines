@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Cancer Center of Hawaii Liliha",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3287525,-157.8521159,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Center of Hawaii - Liliha",
+            "address": "2226 Liliha St # B2, Honolulu, HI 96817",
+            "latitude": 21.3287525,
+            "longitude": -157.8521159,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Radiologist"
+            ],
+            "website": "http://www.tccoh.com/",
+            "phoneNumber": "(808) 547-6881",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_n8A1trgPjJ3T0XRvGf-xPai0AT4tc7IYuzfCTrlFeJBnCK1iBLKXLyZ_zmtczqWHhq1o_v3S-ni6t7M2pWDbi0gST6gdL99_etaYbHu-lUiicxiY2oQ01GEuerYiVhE4HhUg",
+            "cid": "6903093158892444183",
+            "fid": "0x7c006c2b4fca44e3:0x5fccb6a763369a17",
+            "placeId": "ChIJ40TKTytsAHwRF5o2Y6e2zF8"
+        }
+    ],
+    "credits": 3
+}

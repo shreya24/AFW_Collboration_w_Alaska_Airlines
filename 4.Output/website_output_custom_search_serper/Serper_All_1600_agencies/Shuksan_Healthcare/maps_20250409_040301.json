@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Shuksan Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7502787,-122.4646058,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shuksan Healthcare Center",
+            "address": "1530 James St, Bellingham, WA 98225",
+            "latitude": 48.750278699999996,
+            "longitude": -122.4646058,
+            "rating": 3.9,
+            "ratingCount": 11,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Nursing home"
+            ],
+            "website": "https://hyattfamilyfacilities.com/locations/shuksan/",
+            "phoneNumber": "(360) 733-9161",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNq8ol94lkblfZyXfexr113DlcPth0rnOPJEo1a",
+            "cid": "6598279558295756236",
+            "fid": "0x5485a39460eb35ad:0x5b91cc4c90f09dcc",
+            "placeId": "ChIJrTXrYJSjhVQRzJ3wkEzMkVs"
+        }
+    ],
+    "credits": 3
+}

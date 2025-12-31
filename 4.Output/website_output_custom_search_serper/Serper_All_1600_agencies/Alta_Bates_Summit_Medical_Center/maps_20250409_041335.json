@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Alta Bates Summit Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8383948,-122.2616563,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alta Bates Summit Medical Center | Summit Campus",
+            "address": "350 Hawthorne Ave, Oakland, CA 94609",
+            "latitude": 37.8211583,
+            "longitude": -122.26304289999999,
+            "rating": 3.2,
+            "ratingCount": 177,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/alta-bates-summit-medical-center-summit-campus",
+            "phoneNumber": "(510) 655-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Hu1MWvKuDhsuLcj_0zLk8qBqBL9J8yzSqgOZWUHPUStCNKI3AXXFXnPPlqzruMfePgOaFTVbGUVLcs6_lWqpcHWJdYJAbhg5lKjNIMtGcBy0CQqHZufqKuXlNOXfZGVWTRGJU",
+            "cid": "4445249240637873254",
+            "fid": "0x80857dffa8f947ef:0x3db0b2a1e64b9c66",
+            "placeId": "ChIJ70f5qP99hYARZpxL5qGysD0"
+        },
+        {
+            "position": 2,
+            "title": "Alta Bates Summit Medical Center | Alta Bates Campus",
+            "address": "2450 Ashby Ave, Berkeley, CA 94705",
+            "latitude": 37.8556313,
+            "longitude": -122.2572029,
+            "rating": 3.3,
+            "ratingCount": 252,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/alta-bates-summit-medical-center-alta-bates-campus",
+            "phoneNumber": "(510) 204-4444",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_SM43a9XiES07yz6rJpFoRycs6FI2jgLxfQ2LgH3yhVhMYNrZytomwedIoV7LZFJPKg35MMq_HY238e17GGpmBuPPZZVgwvia9zFoPF0BHl5bKWdNbZkscj1g9B10n5qQ1Oj6U",
+            "cid": "7925086106093988249",
+            "fid": "0x80857dd3ce8bfb29:0x6dfb8fd3181da999",
+            "placeId": "ChIJKfuLztN9hYARmakdGNOP-20"
+        },
+        {
+            "position": 3,
+            "title": "Alta Bates Summit Medical Center - Alta Bates",
+            "address": "350 Hawthorne Ave, Oakland, CA 94609",
+            "latitude": 37.821584,
+            "longitude": -122.2661098,
+            "rating": 2,
+            "ratingCount": 2,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Non-profit organization",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.altabatessummit.org/dr-clark-s-tsai.html",
+            "phoneNumber": "(925) 689-7744",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ARGEW4RWkXvcIDAy53ZNm-qIuLvtT-6B37PF_dw7OfMtlMutxKmybVHuN_lgxJ6VewASWFHgZVLxS3K74qocwLKr7AKa7WCBu6MYwWKLSsjRhl_cAIeM-c_qJou88x_wLs8KkTA",
+            "cid": "14504496679421921540",
+            "fid": "0x80857e0088684841:0xc94a52e1bec6c904",
+            "placeId": "ChIJQUhoiAB-hYARBMnGvuFSSsk"
+        }
+    ],
+    "credits": 3
+}

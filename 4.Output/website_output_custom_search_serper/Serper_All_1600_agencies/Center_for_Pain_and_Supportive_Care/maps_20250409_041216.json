@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Center for Pain and Supportive Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5815672,-111.9819109,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Center for Pain and Supportive Care",
+            "address": "4611 E Shea Blvd Building 3, Suite 190, Phoenix, AZ 85028",
+            "latitude": 33.581567199999995,
+            "longitude": -111.98191089999999,
+            "rating": 4.7,
+            "ratingCount": 305,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Anesthesiologist",
+                "Health consultant",
+                "Physical fitness program",
+                "Yoga studio"
+            ],
+            "website": "http://azcpsc.com/",
+            "phoneNumber": "(480) 889-0180",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOQaejD9CBQLZeJt9noIkQbUmg6y4xQXUAlnQ8P",
+            "cid": "6009385740487846793",
+            "fid": "0x872b68675e8bfacb:0x5365a07dec136b89",
+            "placeId": "ChIJy_qLXmdoK4cRiWsT7H2gZVM"
+        }
+    ],
+    "credits": 3
+}

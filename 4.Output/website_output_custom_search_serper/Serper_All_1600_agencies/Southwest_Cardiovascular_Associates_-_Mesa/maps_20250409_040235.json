@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Southwest Cardiovascular Associates - Mesa",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4069777,-111.6686994,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southwest Cardiovascular Associates - Mesa",
+            "address": "7529 E Broadway Rd #101, Mesa, AZ 85208",
+            "latitude": 33.4069777,
+            "longitude": -111.6686994,
+            "rating": 4.8,
+            "ratingCount": 516,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical clinic"
+            ],
+            "website": "http://swcva.com/",
+            "phoneNumber": "(480) 945-4343",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://swcva.com/wp-content/uploads/2020/12/REFERRAL-FORM-SWCA-Fillable-202010.pdf"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMuTU0KKyuuwjVrvsYWm24YMPDUSZ-JFGpGAmyJ",
+            "cid": "12429622487874964836",
+            "fid": "0x872bafebc3481d43:0xac7ee3cc39fe8d64",
+            "placeId": "ChIJQx1Iw-uvK4cRZI3-Oczjfqw"
+        }
+    ],
+    "credits": 3
+}

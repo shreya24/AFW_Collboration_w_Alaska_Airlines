@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Dr. Alan Webb",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.4496158,-101.8253936,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Alan Webb, MD",
+            "address": "250 Harrison St, Titusville, FL 32780",
+            "latitude": 28.5845274,
+            "longitude": -80.8055088,
+            "rating": 3.1,
+            "ratingCount": 12,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(321) 267-1424",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pvgx2I9pZu4L2v83mg1GtA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=235.47118&pitch=0&thumbfov=100",
+            "cid": "1665558754295055621",
+            "fid": "0x88e74cba929b63d5:0x171d40dcce4c8505",
+            "placeId": "ChIJ1WObkrpM54gRBYVMztxAHRc"
+        },
+        {
+            "position": 2,
+            "title": "Alan Webb MD",
+            "address": "965 Ellendale Dr Ste 200, Medford, OR 97504",
+            "latitude": 42.3147041,
+            "longitude": -122.8452784,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(541) 734-3430",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_i99qghz6LwobOb9Jev4A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=126.367134&pitch=0&thumbfov=100",
+            "cid": "16869595957068371081",
+            "fid": "0x54cf7a0c6794e81b:0xea1cd824dd6d1489",
+            "placeId": "ChIJG-iUZwx6z1QRiRRt3STYHOo"
+        },
+        {
+            "position": 3,
+            "title": "Tyler Alan Webb, MD",
+            "address": "4120 W Memorial Rd Suite 218, Oklahoma City, OK 73120",
+            "latitude": 35.607699,
+            "longitude": -97.598522,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "website": "https://www.mercy.net/doctor/tyler-alan-webb-md?utm_source=google&utm_medium=organic_search&utm_campaign=yext&utm_term=West&utm_content=website&y_source=1_MTMwMDAwMDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(405) 302-2661",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO1QxzWMo5BLccjtooOpt2n32w9ahm0OidWs6sg",
+            "cid": "13879013207845089156",
+            "fid": "0x87b21d89785659af:0xc09c28fa768faf84",
+            "placeId": "ChIJr1lWeIkdsocRhK-PdvoonMA"
+        }
+    ],
+    "credits": 3
+}

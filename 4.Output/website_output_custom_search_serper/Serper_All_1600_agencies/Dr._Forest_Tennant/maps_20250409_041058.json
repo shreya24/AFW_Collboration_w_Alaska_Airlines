@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Dr. Forest Tennant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.068498,-117.9234963,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tennant Enterprises",
+            "address": "336 S Glendora Ave, West Covina, CA 91790",
+            "latitude": 34.0684593,
+            "longitude": -117.9235025,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(626) 919-7476",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lcL-g6R5zesGI_PaB5SD7Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=138.05795&pitch=0&thumbfov=100",
+            "cid": "11710669853867216555",
+            "fid": "0x80c3282a6e9e2c0b:0xa284a82fb1a18eab",
+            "placeId": "ChIJCyyebioow4ARq46hsS-ohKI"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Forest S. Tennant, MD",
+            "address": "336 S Glendora Ave, West Covina, CA 91790",
+            "latitude": 34.0685368,
+            "longitude": -117.9234901,
+            "rating": 4.7,
+            "ratingCount": 21,
+            "website": "http://www.foresttennant.com/",
+            "phoneNumber": "(626) 919-0064",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lcL-g6R5zesGI_PaB5SD7Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=111.65438&pitch=0&thumbfov=100",
+            "cid": "7572938125815962066",
+            "fid": "0x80c3282a6e9e2c0b:0x69187b1a2f45d9d2",
+            "placeId": "ChIJCyyebioow4AR0tlFLxp7GGk"
+        }
+    ],
+    "credits": 3
+}

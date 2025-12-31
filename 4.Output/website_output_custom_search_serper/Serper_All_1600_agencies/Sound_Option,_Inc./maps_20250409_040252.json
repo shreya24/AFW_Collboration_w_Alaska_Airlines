@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Sound Option, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.3633985,-82.669505,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Sound Option",
+            "latitude": 40.3633984,
+            "longitude": -82.669505,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Musician",
+            "types": [
+                "Musician",
+                "Service establishment"
+            ],
+            "website": "https://www.thesoundoption.com/",
+            "phoneNumber": "(614) 623-8297",
+            "cid": "8158927856329074168",
+            "fid": "0x883897f48fe75c83:0x713a55a85088a5f8",
+            "placeId": "ChIJg1znj_SXOIgR-KWIUKhVOnE"
+        }
+    ],
+    "credits": 3
+}

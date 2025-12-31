@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Stanford Children's Pain Management",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4360801,-122.1738746,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Pain Management - Lucile Packard Children's Hospital Stanford",
+            "address": "725 Welch Rd, Palo Alto, CA 94305",
+            "latitude": 37.4360801,
+            "longitude": -122.17387459999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Anesthesiologist",
+                "Dermatologist",
+                "Obstetrician-gynecologist",
+                "Infectious disease physician",
+                "Neurologist",
+                "Optometrist",
+                "Pediatric rheumatologist",
+                "Pediatrician",
+                "Psychiatrist"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/service/pain-management",
+            "phoneNumber": "(650) 497-8977",
+            "cid": "10676664416667520510",
+            "fid": "0x808fbb32d2714adb:0x942b21b835854dfe",
+            "placeId": "ChIJ20px0jK7j4AR_k2FNbghK5Q"
+        }
+    ],
+    "credits": 3
+}

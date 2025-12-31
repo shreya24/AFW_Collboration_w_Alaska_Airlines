@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Oregon Health & Science University",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4980964,-122.6856243,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Health & Science University",
+            "address": "3181 SW Sam Jackson Park Rd, Portland, OR 97239",
+            "latitude": 45.4980964,
+            "longitude": -122.6856243,
+            "rating": 3.8,
+            "ratingCount": 302,
+            "type": "University",
+            "types": [
+                "University",
+                "University hospital"
+            ],
+            "website": "https://www.ohsu.edu/?utm_source=gmb&utm_medium=organic&utm_content=LocationOHSU",
+            "phoneNumber": "(503) 494-8311",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONxebq5IjUtOAlqGLlfMqKNnNUZ4StOU8DJ9Mu",
+            "cid": "16243787061108702706",
+            "fid": "0x54950a46a4d447db:0xe16d8644d0787df2",
+            "placeId": "ChIJ20fUpEYKlVQR8n140ESGbeE"
+        }
+    ],
+    "credits": 3
+}

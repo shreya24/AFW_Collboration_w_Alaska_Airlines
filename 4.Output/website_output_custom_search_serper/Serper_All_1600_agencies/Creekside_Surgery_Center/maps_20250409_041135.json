@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Creekside Surgery Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@52.3272951,-130.904739,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Creekside Surgery Center",
+            "address": "3831 Piper St # S110, Anchorage, AK 99508",
+            "latitude": 61.1856258,
+            "longitude": -149.8229081,
+            "rating": 4.5,
+            "ratingCount": 18,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.creeksideasc.com/",
+            "phoneNumber": "(907) 339-7800",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOMrN5X-iBeP0BGrrwvjJ4RsR22bp959vyKtLhy",
+            "cid": "10014340471235935411",
+            "fid": "0x56c8939555555555:0x8afa1599afd5fcb3",
+            "placeId": "ChIJVVVVVZWTyFYRs_zVr5kV-oo"
+        },
+        {
+            "position": 2,
+            "title": "Creekside Outpatient Surgery Center",
+            "address": "2375 E Sunnyside Rd, Idaho Falls, ID 83404",
+            "latitude": 43.4689644,
+            "longitude": -111.9865698,
+            "rating": 3.4,
+            "ratingCount": 16,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.mountainviewhospital.org/services/surgery/creekside/",
+            "phoneNumber": "(208) 557-2767",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iu8_TQCa4Bz6PccWtxXQTg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=132.21765&pitch=0&thumbfov=100",
+            "cid": "12657084662333340567",
+            "fid": "0x53545f2375e75479:0xafa6ff70b66c7b97",
+            "placeId": "ChIJeVTndSNfVFMRl3tstnD_pq8"
+        }
+    ],
+    "credits": 3
+}

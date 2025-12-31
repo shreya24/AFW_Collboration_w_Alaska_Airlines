@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "St. Teresa's Comprehensive Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.986467,-121.3394237,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Teresa Cancer Center: Monson Jedidiah M MD",
+            "address": "4722 Quail Lakes Dr B, Stockton, CA 95207",
+            "latitude": 37.986467,
+            "longitude": -121.3394237,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(209) 472-1848",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t4yqe7aQaJhMDLP0Xr-FgA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=41.16346&pitch=0&thumbfov=100",
+            "cid": "3587772950345994656",
+            "fid": "0x80900c33b693016f:0x31ca547d5020d1a0",
+            "placeId": "ChIJbwGTtjMMkIARoNEgUH1UyjE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Swedish Medical Center Ballard Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.667469,-122.3795882,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Medical Center Ballard Campus",
+            "address": "5300 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.667469,
+            "longitude": -122.3795882,
+            "rating": 2.8,
+            "ratingCount": 104,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus?Is=location&y_source=1_OTU3Njg3MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 782-2700",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_eJ82MY0E3JJKf88udDlrmYyE51H3QJPA7rOZ9E4vVizFvj3dds5lQ_3Fz0ooi_MMOKJP9mbXZ_sGHb37zBaBMFgR6f-P3ByzS1sYnZfCDv2usM_xGuh-wwnhuzTQgC9pQ6WO9",
+            "cid": "5679541174987849367",
+            "fid": "0x549015c87c2ba04d:0x4ed1c89b6e5afe97",
+            "placeId": "ChIJTaArfMgVkFQRl_5abpvI0U4"
+        }
+    ],
+    "credits": 3
+}

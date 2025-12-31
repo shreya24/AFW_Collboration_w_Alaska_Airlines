@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Kingman Aid to Abused People",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.213449,-114.0311273,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kingman Aid To Abused People",
+            "address": "1770 Airway Ave, Kingman, AZ 86401",
+            "latitude": 35.2245955,
+            "longitude": -114.03193639999999,
+            "rating": 2.5,
+            "ratingCount": 4,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Women's shelter"
+            ],
+            "website": "https://mykaapaz.org/",
+            "phoneNumber": "(928) 753-6222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPbTixImp2q25W776H4T4EKP8arcSvPsEAmiIro",
+            "cid": "15111296097906802883",
+            "fid": "0x80cdde7d792d5465:0xd1b61bbceb7b40c3",
+            "placeId": "ChIJZVQteX3ezYARw0B767wbttE"
+        },
+        {
+            "position": 2,
+            "title": "Kingman Aid To Abused People",
+            "address": "2024 Mullen Ave, Kingman, AZ 86401",
+            "latitude": 35.2023024,
+            "longitude": -114.03031829999999,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "phoneNumber": "(928) 753-7721",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "16414772565200786602",
+            "fid": "0x80cddc3485de76d5:0xe3ccfcadc99ed4aa",
+            "placeId": "ChIJ1XbehTTczYARqtSeya38zOM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Paws With A Cause",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.6373052,-84.4143968,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Paws With A Cause",
+            "address": "4646 Division Ave S, Wayland, MI 49348",
+            "latitude": 42.7568768,
+            "longitude": -85.6644378,
+            "rating": 4.7,
+            "ratingCount": 65,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.pawswithacause.org/",
+            "phoneNumber": "(616) 877-7297",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPv-f0Ng4kdDtOIfENMQ0zRYfO9Aw29NuIxYdMV",
+            "cid": "5760583659066775242",
+            "fid": "0x8819ca474281821f:0x4ff1b451299856ca",
+            "placeId": "ChIJH4KBQkfKGYgRylaYKVG08U8"
+        },
+        {
+            "position": 2,
+            "title": "Paws With A Cause",
+            "address": "3208 Crooks Rd, Royal Oak, MI 48073",
+            "latitude": 42.5177336,
+            "longitude": -83.1643557,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Disability services and support organization",
+            "types": [
+                "Disability services and support organization"
+            ],
+            "website": "https://www.pawswithacause.org/",
+            "phoneNumber": "(616) 877-7297",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=po-7fmvY_0OxxxmNfZpg5w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=99.72626&pitch=0&thumbfov=100",
+            "cid": "10115047060120168726",
+            "fid": "0x8824c45f66ebffd1:0x8c5fddb598d26916",
+            "placeId": "ChIJ0f_rZl_EJIgRFmnSmLXdX4w"
+        }
+    ],
+    "credits": 3
+}

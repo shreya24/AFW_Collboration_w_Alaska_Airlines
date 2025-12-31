@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Kern County Dept. of Public Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.4008402,-118.9953374,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kern County Public Health Department",
+            "address": "1800 Mount Vernon Ave, Bakersfield, CA 93306",
+            "latitude": 35.3836386,
+            "longitude": -118.9678837,
+            "rating": 3.8,
+            "ratingCount": 62,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.kernpublichealth.com/",
+            "phoneNumber": "(661) 321-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNr30OQ2e3-DolPG0J5D3GfEhEbaoN18PvyJHuM",
+            "cid": "1005403027572181820",
+            "fid": "0x80ea6be256c79319:0xdf3e8ba0a8acb3c",
+            "placeId": "ChIJGZPHVuJr6oARPMuKCrro8w0"
+        },
+        {
+            "position": 2,
+            "title": "Kern County Public Health Department",
+            "address": "125 El Tejon Ave, Bakersfield, CA 93308",
+            "latitude": 35.4180419,
+            "longitude": -119.02279109999999,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://kernpublichealth.com/",
+            "phoneNumber": "(661) 868-5250",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5FcmTLWgB84WtS48J4AsWA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=186.40788&pitch=0&thumbfov=100",
+            "cid": "17912333223566189762",
+            "fid": "0x80ea6849d7c52ea9:0xf8956429c91724c2",
+            "placeId": "ChIJqS7F10lo6oARwiQXySlklfg"
+        }
+    ],
+    "credits": 3
+}

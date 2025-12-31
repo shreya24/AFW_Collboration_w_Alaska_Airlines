@@ -1,0 +1,109 @@
+{
+    "searchParameters": {
+        "q": "Genzyme Corporation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3701339,-71.3652855,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Genzyme Corporation",
+            "address": "64 Sidney St # 400, Cambridge, MA 02139",
+            "latitude": 42.3608626,
+            "longitude": -71.1015415,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory",
+                "Medical supply store"
+            ],
+            "website": "http://www.genzyme.com/",
+            "phoneNumber": "(617) 252-7999",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pboPAP03H68ROInaZGwPQw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=102.45278&pitch=0&thumbfov=100",
+            "cid": "15919549265268273780",
+            "fid": "0x89e37755bdec5c4d:0xdced99b61ca57274",
+            "placeId": "ChIJTVzsvVV344kRdHKlHLaZ7dw"
+        },
+        {
+            "position": 2,
+            "title": "Sanofi-Genzyme",
+            "address": "153 2nd Ave, Waltham, MA 02451",
+            "latitude": 42.3894239,
+            "longitude": -71.26428059999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Biotechnology company",
+            "types": [
+                "Biotechnology company",
+                "Pharmaceutical company"
+            ],
+            "website": "https://www.sanofi.com/",
+            "phoneNumber": "(781) 487-5728",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9YagQ7-iBo6KCT3uvN-O_SvL_c0HOp53y31XrdUxv2y6EaAtDbjgS4dD4GpbG5bD3AnUwmZmN1fbrHHgaRuLq300fyxlaJSP4cMxGAaU-QSfyB0y4nfQ-20An4dFZf6t4-rsw-jA",
+            "cid": "9014281029745824637",
+            "fid": "0x89e39cb5fddf11c1:0x7d1928d63b8ad37d",
+            "placeId": "ChIJwRHf_bWc44kRfdOKO9YoGX0"
+        },
+        {
+            "position": 3,
+            "title": "Genzyme Northborough Operations Center",
+            "address": "11 Forbes Rd, Northborough, MA 01532",
+            "latitude": 42.3508439,
+            "longitude": -71.6290296,
+            "rating": 4.3,
+            "ratingCount": 8,
+            "type": "Biotechnology company",
+            "types": [
+                "Biotechnology company"
+            ],
+            "phoneNumber": "(508) 351-2699",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9bTJNJn8jJFDYrt_rg-MSPqZiXOvbozxHdP3e6TbLHQwr7Ju3TRY2lsiSfiq64pbWR6OWgq_BeifmtiwTyeW9R1WGJixtlPS23fKygaTxfMOQp28bFvRfsNtJVI1_iT_dJKlkw",
+            "cid": "17382071599409591154",
+            "fid": "0x89e3f45d026b1e51:0xf13986068736f372",
+            "placeId": "ChIJUR5rAl3044kRcvM2hwaGOfE"
+        },
+        {
+            "position": 4,
+            "title": "Sanofi-Genzyme",
+            "address": "500 Soldiers Fld Rd, Allston, MA 02134",
+            "latitude": 42.362779599999996,
+            "longitude": -71.1185629,
+            "rating": 4,
+            "ratingCount": 11,
+            "type": "Biotechnology company",
+            "types": [
+                "Biotechnology company",
+                "Manufacturer",
+                "Pharmaceutical company"
+            ],
+            "website": "http://www.sanofigenzyme.com/",
+            "phoneNumber": "(617) 562-4500",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9M6VCbeJ2wdP0bZe1yr_3xhE_P7zr4Qetb3MeJoDqHviwq-99azIcRJF4yFiqh7NOU6yFlDVjxWkghjb1uIwRyGAEo2FuqsCMnnN0Zcy4Z6D6S5WdJNWi74fnKVGuamQyime27",
+            "cid": "2929867409990882859",
+            "fid": "0x89e37766c9e9cf23:0x28a8fae2e380162b",
+            "placeId": "ChIJI8_pyWZ344kRKxaA4-L6qCg"
+        }
+    ],
+    "credits": 3
+}

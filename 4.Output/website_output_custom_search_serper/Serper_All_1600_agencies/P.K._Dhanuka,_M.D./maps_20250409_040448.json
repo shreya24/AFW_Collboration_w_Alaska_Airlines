@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "P.K. Dhanuka, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5753987,-122.3928677,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Piyush K. Dhanuka, MD",
+            "address": "1825 Sonoma St, Redding, CA 96001",
+            "latitude": 40.5753987,
+            "longitude": -122.3928677,
+            "rating": 3.3,
+            "ratingCount": 12,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://www.reddingendoscopy.com/physician/p-k-dhanuka",
+            "phoneNumber": "(530) 243-8667",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9d_bFabC3hIBfwUMhMCYHzFfW3IaRwIV0JAim6cGhgCXpmzpemdDlQIMshVtwzyt8ltFxbo6zoL-TjlRTGfr97kN4IJ1JbiUesvDLh3pXpeYE4ZpayDFYc5UDa97Thwf83lm4Y8A",
+            "cid": "6103591209384624703",
+            "fid": "0x54d2ecfa841f27bd:0x54b44fdde191423f",
+            "placeId": "ChIJvScfhPrs0lQRP0KR4d1PtFQ"
+        }
+    ],
+    "credits": 3
+}

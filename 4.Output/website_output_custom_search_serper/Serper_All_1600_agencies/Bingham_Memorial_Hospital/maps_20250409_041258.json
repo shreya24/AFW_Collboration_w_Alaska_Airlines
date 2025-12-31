@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bingham Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.1937509,-112.3470676,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bingham Memorial Hospital",
+            "address": "98 Poplar St, Blackfoot, ID 83221",
+            "latitude": 43.1937509,
+            "longitude": -112.34706759999999,
+            "rating": 3.5,
+            "ratingCount": 258,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.binghammemorial.org/?utm_source=GMBSocialClimb&utm_medium=BinghamMemorialHospital",
+            "phoneNumber": "(208) 785-4100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9kk7lL9GPopQ1QumBsZicKl36YCc8dFUrdbGkkwPZHtu9l3oL7h5o4MT9pmGjniSMmmmFLAOMWhbvup9T6bwdiL8z_kMcTltPmEeOy1I_MXfM9r9U5o2UpXIi8zEXYzVbWfARl",
+            "cid": "889615191111284138",
+            "fid": "0x53551a9fd0c4cd35:0xc588c4d8cfab5aa",
+            "placeId": "ChIJNc3E0J8aVVMRqrX6jE2MWAw"
+        }
+    ],
+    "credits": 3
+}

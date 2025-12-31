@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Centerpointe for Children",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.656299,-117.861714,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centerpointe for Children",
+            "address": "19772 MacArthur Blvd Suite 260A, Irvine, CA 92612",
+            "latitude": 33.656299,
+            "longitude": -117.86171399999999,
+            "rating": 4.5,
+            "ratingCount": 29,
+            "type": "Occupational therapist",
+            "types": [
+                "Occupational therapist"
+            ],
+            "website": "https://centerpointeforchildren.com/",
+            "phoneNumber": "(949) 474-4525",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNyP7_AqPeGFYKINEwK0DhA2Ct3wxib_yCwdx2z",
+            "cid": "2450862114167557236",
+            "fid": "0x80dcde44930b8ceb:0x2203361b8c6b8c74",
+            "placeId": "ChIJ64wLk0Te3IARdIxrjBs2AyI"
+        }
+    ],
+    "credits": 3
+}

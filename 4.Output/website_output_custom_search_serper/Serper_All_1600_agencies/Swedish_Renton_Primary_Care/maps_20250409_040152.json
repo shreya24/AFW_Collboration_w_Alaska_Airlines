@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Swedish Renton Primary Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4984941,-122.2026818,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Primary Care - Renton",
+            "address": "911 N 10th Pl, Renton, WA 98057",
+            "latitude": 47.498494099999995,
+            "longitude": -122.2026818,
+            "rating": 2.8,
+            "ratingCount": 103,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.swedish.org/locations/renton-primary-care?Is=location&y_source=1_OTU3Njc0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 391-5700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6-TcTcI-1h_Gd_TCOiu4SQULu2RnQF1BjPzU_",
+            "cid": "2389284908931762184",
+            "fid": "0x54906817788779cb:0x212871f738144808",
+            "placeId": "ChIJy3mHeBdokFQRCEgUOPdxKCE"
+        }
+    ],
+    "credits": 3
+}

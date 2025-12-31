@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Leslie Bryant, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1796065,-149.861453,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Leslie A. Bryant, MD",
+            "address": "4120 Laurel St STE 106, Anchorage, AK 99508",
+            "latitude": 61.183349899999996,
+            "longitude": -149.8351702,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(907) 334-5000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MgDOFYoc44-WNs3_Lii3gQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=335.12164&pitch=0&thumbfov=100",
+            "cid": "7844145390021728891",
+            "fid": "0x56c897a80f2e9f33:0x6cdc00ac12c35a7b",
+            "placeId": "ChIJM58uD6iXyFYRe1rDEqwA3Gw"
+        },
+        {
+            "position": 2,
+            "title": "Leslie Bryant",
+            "address": "4951 Business Park Blvd, Anchorage, AK 99503",
+            "latitude": 61.175863,
+            "longitude": -149.8877358,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Practitioner service location"
+            ],
+            "website": "https://www.anhc.org/leslie-bryant",
+            "phoneNumber": "(907) 743-7200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BYw_e1qpdX-1P_FSe08Drg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.96748&pitch=0&thumbfov=100",
+            "cid": "10456175641016352507",
+            "fid": "0x56c897938fbaaaab:0x911bcc58a7df3efb",
+            "placeId": "ChIJq6q6j5OXyFYR-z7fp1jMG5E"
+        }
+    ],
+    "credits": 3
+}

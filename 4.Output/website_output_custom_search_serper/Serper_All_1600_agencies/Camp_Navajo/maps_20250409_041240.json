@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Camp Navajo",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2307346,-111.8215904,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Navajo",
+            "address": "1 Hughes Ave, Bellemont, AZ 86015",
+            "latitude": 35.2307346,
+            "longitude": -111.82159039999999,
+            "rating": 4.5,
+            "ratingCount": 41,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "https://dema.az.gov/camp-navajo-facilities-training-areas",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnrwAxxX5KNnUg2oTJg3UAVC7p_ndtIxlHcisn",
+            "cid": "4392649310825420294",
+            "fid": "0x872d8051e27024c5:0x3cf5d346629d1606",
+            "placeId": "ChIJxSRw4lGALYcRBhadYkbT9Tw"
+        }
+    ],
+    "credits": 3
+}

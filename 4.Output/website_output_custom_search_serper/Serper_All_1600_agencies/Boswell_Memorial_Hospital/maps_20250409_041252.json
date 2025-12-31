@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Boswell Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.604096,-112.2820456,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Boswell Medical Center",
+            "address": "10401 W Thunderbird Blvd, Sun City, AZ 85351",
+            "latitude": 33.604096,
+            "longitude": -112.28204559999999,
+            "rating": 2.8,
+            "ratingCount": 700,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room"
+            ],
+            "website": "https://www.bannerhealth.com/locations/sun-city/banner-boswell-medical-center?y_source=1_MTE5MDczNjEtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(623) 832-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8-w-Xf9_dlMQOGTJue6dV4bu7zFy0EdC0xBUyUlrygpEPYmjFdJsBknfL22Rv9xyWHPPCPCv9-vuDIZxiss7bfzeHo6ilWjiF-DT3IrajRPGpM2kGX3eribJMmJ3LUi-9g9QTy",
+            "cid": "8895627802108364922",
+            "fid": "0x872b424d03436f55:0x7b739e5adec2087a",
+            "placeId": "ChIJVW9DA01CK4cRegjC3lqec3s"
+        }
+    ],
+    "credits": 3
+}

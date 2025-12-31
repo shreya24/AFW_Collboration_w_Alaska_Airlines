@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Senior Citizens of Kodiak SCOK",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.789749,-152.400708,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kodiak Senior Center",
+            "address": "302 Erskine Ave, Kodiak, AK 99615",
+            "latitude": 57.789749,
+            "longitude": -152.40070799999998,
+            "rating": 4.7,
+            "ratingCount": 18,
+            "type": "Senior citizen center",
+            "types": [
+                "Senior citizen center"
+            ],
+            "website": "http://www.kodiakseniorcenter.org/",
+            "phoneNumber": "(907) 486-6181",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_-WitseiZWaFgeKFmJBQJMicaPaSmuxAadWENfjW5ebBor5ueu1oJsLYSb-2i18PMzL8gs8SiWEEsiYgHzaT4riOGNj6wIk4eJtPs7eVXJlEoS84bxZeEqf2cdYwDxjSdd1n7JxA",
+            "cid": "16423477009157661244",
+            "fid": "0x56eac465a0b876d5:0xe3ebe95313a3223c",
+            "placeId": "ChIJ1Xa4oGXE6lYRPCKjE1Pp6-M"
+        }
+    ],
+    "credits": 3
+}

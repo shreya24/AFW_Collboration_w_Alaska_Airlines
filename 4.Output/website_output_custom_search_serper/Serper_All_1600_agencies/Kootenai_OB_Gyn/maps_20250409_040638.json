@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Kootenai OB/Gyn",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.704974,-116.8639726,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kootenai Clinic OBGYN - Coeur d'Alene",
+            "address": "980 W Ironwood Dr #306, Coeur d'Alene, ID 83814",
+            "latitude": 47.6944465,
+            "longitude": -116.7990093,
+            "rating": 3.5,
+            "ratingCount": 59,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://www.kh.org/family-birth-center/kootenai-clinic-ob-gyn",
+            "phoneNumber": "(208) 625-4970",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4g-ouLbzsZquByx3LB7z7LkUyawjhq6q6TZPh",
+            "cid": "1069559034527466026",
+            "fid": "0x5361c6c0982f0765:0xed7d6466f51c22a",
+            "placeId": "ChIJZQcvmMDGYVMRKsJRb0bW1w4"
+        },
+        {
+            "position": 2,
+            "title": "Kootenai Clinic OBGYN- Post Falls",
+            "address": "1300 E Mullan Ave #500, Post Falls, ID 83854",
+            "latitude": 47.715501499999995,
+            "longitude": -116.928936,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "https://www.kh.org/family-birth-center/kootenai-clinic-ob-gyn",
+            "phoneNumber": "(208) 625-5635",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LJQSyaF6eziJcaNj14phmQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=125.658516&pitch=0&thumbfov=100",
+            "cid": "13007878309177242183",
+            "fid": "0x5361c306ef2eaa4b:0xb48544674c04b247",
+            "placeId": "ChIJS6ou7wbDYVMRR7IETGdEhbQ"
+        }
+    ],
+    "credits": 3
+}

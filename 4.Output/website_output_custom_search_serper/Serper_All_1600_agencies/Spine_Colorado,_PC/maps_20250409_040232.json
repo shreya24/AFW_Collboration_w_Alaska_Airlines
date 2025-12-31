@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "Spine Colorado, PC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.6449485,-107.9120908,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spine Colorado, PC",
+            "address": "1 Mercado St # 200, Durango, CO 81301",
+            "latitude": 37.236263,
+            "longitude": -107.825379,
+            "rating": 4.2,
+            "ratingCount": 350,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Physiatrist",
+                "Sports medicine physician"
+            ],
+            "website": "http://spinecolorado.com/",
+            "phoneNumber": "(970) 382-9500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCt29GQVMy0gmSl8or2rB0E1DZzTfEh-McNpyA",
+            "cid": "13429872095403769560",
+            "fid": "0x873c1ce517f67e7f:0xba607d842978fed8",
+            "placeId": "ChIJf372F-UcPIcR2P54KYR9YLo"
+        },
+        {
+            "position": 2,
+            "title": "Spine Colorado, PC",
+            "address": "Mercy Regional Medical Building, 604 Rio Grande Ave, Aztec, NM 87410",
+            "latitude": 36.8156725,
+            "longitude": -107.99880259999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Doctor"
+            ],
+            "website": "http://spinecolorado.com/",
+            "phoneNumber": "(970) 382-9500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LdreV1ZvEHKsBRa2PF-YXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=309.94342&pitch=0&thumbfov=100",
+            "cid": "15189966381840207514",
+            "fid": "0x873c76f646cbdfef:0xd2cd99f1c3b60e9a",
+            "placeId": "ChIJ79_LRvZ2PIcRmg62w_GZzdI"
+        },
+        {
+            "position": 3,
+            "title": "Spine Colorado, PC",
+            "address": "314 S 6th St, Montrose, CO 81401",
+            "latitude": 38.4742246,
+            "longitude": -107.8720098,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Medical clinic"
+            ],
+            "website": "http://spinecolorado.com/",
+            "phoneNumber": "(970) 382-9500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qg6TfOijzDbJdgfCkp1F5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=133.02336&pitch=0&thumbfov=100",
+            "cid": "13916502098556798799",
+            "fid": "0x873f5084de544a65:0xc12158ed0474c74f",
+            "placeId": "ChIJZUpU3oRQP4cRT8d0BO1YIcE"
+        }
+    ],
+    "credits": 3
+}

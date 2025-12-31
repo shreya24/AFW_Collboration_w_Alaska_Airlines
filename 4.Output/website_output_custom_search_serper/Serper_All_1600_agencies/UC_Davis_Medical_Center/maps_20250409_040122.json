@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "UC Davis Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5552196,-121.4562323,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UC Davis Medical Center",
+            "address": "4301 X St, Sacramento, CA 95817",
+            "latitude": 38.5552196,
+            "longitude": -121.4562323,
+            "rating": 3.1,
+            "ratingCount": 728,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Medical Center"
+            ],
+            "website": "https://health.ucdavis.edu/medicalcenter/",
+            "phoneNumber": "(916) 734-2011",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODMFiPfR4jcAqZF5JI_Ec6YYcJ0LNvW40Dbe54",
+            "cid": "8899362877471555770",
+            "fid": "0x809ad07cdaea8a03:0x7b80e362defd80ba",
+            "placeId": "ChIJA4rq2nzQmoARuoD93mLjgHs"
+        }
+    ],
+    "credits": 3
+}

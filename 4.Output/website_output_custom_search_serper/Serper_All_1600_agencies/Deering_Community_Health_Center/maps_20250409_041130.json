@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Deering Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.0485062,-76.8084088,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Deering Community Living",
+            "address": "18700 Deering St, Livonia, MI 48152",
+            "latitude": 42.4253675,
+            "longitude": -83.32059819999999,
+            "rating": 4,
+            "ratingCount": 11,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility"
+            ],
+            "website": "http://deeringcommunityliving.com/",
+            "phoneNumber": "(248) 974-1528",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "10\u202fAM\u20138:30\u202fPM",
+                "Thursday": "10\u202fAM\u20138:30\u202fPM",
+                "Friday": "10\u202fAM\u20138:30\u202fPM",
+                "Saturday": "10\u202fAM\u20138:30\u202fPM",
+                "Sunday": "Open 24 hours",
+                "Monday": "10\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TbO71GnDssXeALyWHsgatA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=86.89887&pitch=0&thumbfov=100",
+            "cid": "15246471334222874913",
+            "fid": "0x8824b41a06ee828d:0xd39658e63287c921",
+            "placeId": "ChIJjYLuBhq0JIgRIcmHMuZYltM"
+        },
+        {
+            "position": 2,
+            "title": "Greater Portland Health - Deering High School",
+            "address": "370 Stevens Ave, Portland, ME 04103",
+            "latitude": 43.6716449,
+            "longitude": -70.2962194,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Mental health clinic",
+                "Pediatrician"
+            ],
+            "website": "http://www.greaterportlandhealth.org/",
+            "phoneNumber": "(207) 874-2141",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20133\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20131\u202fPM",
+                "Thursday": "8:30\u202fAM\u20132:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMk5YWwq5icN51JXf8JKEDa1oSjbsA2_VToBjd-",
+            "cid": "13859044313280035709",
+            "fid": "0x4cb29b0a8a70344b:0xc055375fe3743b7d",
+            "placeId": "ChIJSzRwigqbskwRfTt04183VcA"
+        }
+    ],
+    "credits": 3
+}

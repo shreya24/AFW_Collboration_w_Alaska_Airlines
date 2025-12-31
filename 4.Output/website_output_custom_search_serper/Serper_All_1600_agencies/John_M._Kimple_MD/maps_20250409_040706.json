@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "John M. Kimple MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5708666,-122.401638,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. John M. Kimple, MD",
+            "address": "2510 Airpark Dr, Redding, CA 96001",
+            "latitude": 40.570866599999995,
+            "longitude": -122.40163799999999,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://reddingfamilydoctor.com/",
+            "phoneNumber": "(530) 244-4034",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uyAnOYOj-blJObhgBQs-Kg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=140.69566&pitch=0&thumbfov=100",
+            "cid": "12429909283034124565",
+            "fid": "0x54d2ec584109f023:0xac7fe8a2ed945115",
+            "placeId": "ChIJI_AJQVjs0lQRFVGU7aLof6w"
+        }
+    ],
+    "credits": 3
+}

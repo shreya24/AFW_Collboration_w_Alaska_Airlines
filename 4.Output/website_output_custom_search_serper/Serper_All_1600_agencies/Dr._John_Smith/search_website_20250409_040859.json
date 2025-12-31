@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Dr. John Smith website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "John Q. Smith, MD - Orthopedic Surgeon",
+            "link": "https://westidahoorthopedics.com/johnsmithmd",
+            "snippet": "Dr. Smith specializes in major joint repairs along with arthroscopy of the hip, shoulder, knee and ankle. He offers surgical and non-surgical treatment of ...",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 1
+        },
+        {
+            "title": "John P. Smith, DO - University of Utah Health",
+            "link": "https://healthcare.utah.edu/find-a-doctor/john-p-smith",
+            "snippet": "Dr. Smith is board-certified in Family Medicine and completed a Fellowship in Genitourinary Medicine. Dr. Smith brings a unique perspective to the Division ...",
+            "rating": 4.9,
+            "ratingCount": 648,
+            "position": 2
+        },
+        {
+            "title": "John Smith III, MD | Provider Profile - Novant Health",
+            "link": "https://www.novanthealth.org/pf/providers/1477540466/john-smith",
+            "snippet": "Dr. Jack Smith treats all urological conditions with a special interest in bladder dysfunction, sphincter function and pelvic floor disorders.",
+            "rating": 4.9,
+            "ratingCount": 327,
+            "position": 3
+        },
+        {
+            "title": "John S. Smith, Jr., DPM profile | PennMedicine.org",
+            "link": "https://www.pennmedicine.org/providers/profile/john-smith",
+            "snippet": "Dr. Smith is an independent physician who is not employed by Penn Medicine. Call 609-924-8131 Request Appointment. Expertise; Locations ...",
+            "date": "Jun 12, 2024",
+            "position": 4
+        },
+        {
+            "title": "John Q. Smith, MD - St. Luke's",
+            "link": "https://www.stlukesonline.org/health-services/providers/smith-john",
+            "snippet": "These providers work together to achieve patient-centered care, using proven best practices to offer better care to you and your family.",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "John P Smith Urology"
+        },
+        {
+            "query": "John Smith University of Utah"
+        }
+    ],
+    "credits": 1
+}

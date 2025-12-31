@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Tracy Flynn",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7173332,-78.5554041,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "tracy flynn yoga",
+            "address": "210 W University Dr, Rochester, MI 48307",
+            "latitude": 42.6823994,
+            "longitude": -83.1358588,
+            "type": "Alternative medicine practitioner",
+            "types": [
+                "Alternative medicine practitioner"
+            ],
+            "website": "https://www.tracyflynnyoga.com/",
+            "phoneNumber": "(248) 334-7381",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QS0iPD78NWld4m6nv0Zi3Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=325.3921&pitch=0&thumbfov=100",
+            "cid": "5795690437798050076",
+            "fid": "0x8824e9b97c76b455:0x506e6dbf0d14b91c",
+            "placeId": "ChIJVbR2fLnpJIgRHLkUDb9tblA"
+        },
+        {
+            "position": 2,
+            "title": "Flynn Tracy M",
+            "address": "425 Lexington Ave # 15, New York, NY 10017",
+            "latitude": 40.752266899999995,
+            "longitude": -73.9749494,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.stblaw.com/",
+            "phoneNumber": "(212) 455-2000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MozJ6ErGzZ-RrX4MNiuiYw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=122.857796&pitch=0&thumbfov=100",
+            "cid": "15892498124892650889",
+            "fid": "0x89c2589568609d33:0xdc8d7ed7afc9bd89",
+            "placeId": "ChIJM51gaJVYwokRib3Jr9d-jdw"
+        }
+    ],
+    "credits": 3
+}

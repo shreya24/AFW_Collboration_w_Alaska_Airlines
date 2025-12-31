@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Arthritis Foundation - Camp Milagros",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7916433,-84.3854492,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arthritis Foundation",
+            "address": "1355 Peachtree St NE STE 600, Atlanta, GA 30309",
+            "latitude": 33.7916433,
+            "longitude": -84.3854492,
+            "rating": 4.2,
+            "ratingCount": 10,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Research foundation"
+            ],
+            "website": "https://www.arthritis.org/",
+            "phoneNumber": "(800) 283-7800",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ni2RY9CNxO0TFmM9jE8-Ng&cb_client=search.gws-prod.gps&w=360&h=120&yaw=51.07423&pitch=0&thumbfov=100",
+            "cid": "17275142525740782794",
+            "fid": "0x88f5045a8f18ec69:0xefbda2997b0614ca",
+            "placeId": "ChIJaewYj1oE9YgRyhQGe5mive8"
+        }
+    ],
+    "credits": 3
+}

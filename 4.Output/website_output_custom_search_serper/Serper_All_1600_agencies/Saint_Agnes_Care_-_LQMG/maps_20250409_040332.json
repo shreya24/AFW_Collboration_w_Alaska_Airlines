@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Saint Agnes Care - LQMG",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.841648,-119.7616792,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Saint Agnes Care LQMG",
+            "address": "1221 E Spruce Ave, Fresno, CA 93720",
+            "latitude": 36.841648,
+            "longitude": -119.76167919999999,
+            "rating": 4.7,
+            "ratingCount": 7,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "https://www.samc.com/location/saint-agnes-care-lqmg",
+            "phoneNumber": "(559) 450-5777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.samc.com/location/saint-agnes-care-lqmg?utm_source=local-listing&utm_medium=organic&utm_campaign=appt-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMPPjoxBmS-jAPzdu4VuSdb9nuAJrsCryFgT17A",
+            "cid": "16864111075653906252",
+            "fid": "0x80945d34c8f2e50d:0xea095bac6514ef4c",
+            "placeId": "ChIJDeXyyDRdlIARTO8UZaxbCeo"
+        }
+    ],
+    "credits": 3
+}

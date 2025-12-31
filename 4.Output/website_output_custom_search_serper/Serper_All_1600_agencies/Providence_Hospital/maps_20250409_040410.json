@@ -1,0 +1,543 @@
+{
+    "searchParameters": {
+        "q": "Providence Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.9483983,-120.5461193,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Regional Medical Center",
+            "address": "1700 13th St, Everett, WA 98201",
+            "latitude": 48.0004461,
+            "longitude": -122.2054325,
+            "rating": 2.9,
+            "ratingCount": 798,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/providence-regional-medical-center-everett?ls=location&y_source=1_OTU3NjU2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(425) 261-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://washington.providence.org/locations-directory/r/regional-medical-center/#llaid=6451sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB91-LMxHDG0IDz-DnUVIb-THkxsh6AdvLYENY3gbcbWwxsVF9R5JTyFy-mTeCBTA2Yy-OoQ5iCBP9r0d64WRjoHKAfw-ZxlH5VSkch1XQs0511_huiPUSor-8hN1HE8gYXXrwLH",
+            "cid": "13367697040004444593",
+            "fid": "0x549aaacbd81d6b6f:0xb98399a1fe8171b1",
+            "placeId": "ChIJb2sd2MuqmlQRsXGB_qGZg7k"
+        },
+        {
+            "position": 2,
+            "title": "Providence St. Vincent Medical Center",
+            "address": "9205 SW Barnes Rd, Portland, OR 97225",
+            "latitude": 45.5103371,
+            "longitude": -122.7718563,
+            "rating": 3.1,
+            "ratingCount": 575,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/st-vincent-medical-center?ls=location&y_source=1_OTU3NjM5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 216-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB89JSUxedQpuyVkiE7Ed8GkiHmrXhFDwrz0hL1_OJ3zRMteZe_kFiyZRh_bU-AsVLZR8u4D-l2jT5xehGTybteHNp-mN_ENmNqdpqk-JEDvges2EWPfQ3XnFciVPmt_Fo2jC5fP",
+            "cid": "1736548786178364168",
+            "fid": "0x549509447fd503d5:0x181975eb9f4c1308",
+            "placeId": "ChIJ1QPVf0QJlVQRCBNMn-t1GRg"
+        },
+        {
+            "position": 3,
+            "title": "Providence Health & Services",
+            "address": "1801 Lind Ave SW, Renton, WA 98057",
+            "latitude": 47.463422699999995,
+            "longitude": -122.2249535,
+            "rating": 4.4,
+            "ratingCount": 87,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://washington.providence.org/contact-us/",
+            "phoneNumber": "(425) 525-3355",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB899yQe4_dSec4UaSjWQsble5Jg0kEWn8-nIBuk388e9Qh52x_Gs0-NYWVu5nQ6QFyUBzi5HA7Lp0LNDnXCTAHhxPVPGICc7O1clXbsdBkH5ABZxqdITAVpngS5yj9n03HqdLxl",
+            "cid": "12369262043432334660",
+            "fid": "0x54905d3728324a99:0xaba8724b1881b544",
+            "placeId": "ChIJmUoyKDddkFQRRLWBGEtyqKs"
+        },
+        {
+            "position": 4,
+            "title": "Providence Portland Medical Center",
+            "address": "4805 NE Glisan St, Portland, OR 97213",
+            "latitude": 45.5276127,
+            "longitude": -122.61324069999999,
+            "rating": 3.2,
+            "ratingCount": 524,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/portland-medical-center?ls=location&y_source=1_OTU3NjMxMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 215-1111",
+            "bookingLinks": [
+                "https://oregon.providence.org/location-directory/p/providence-portland-medical-center/#llaid=5719sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_UjGEj_ujKXDacDBUCfRO-8AWrBKhOqGwJR1wNASiXVOAPBOb-suKSs9vdpTsQDD6tL7ipQY9QL3oqwFvWoRxlftmDJ2EACGSOQ4gwenUgr9WU71ZBPpFqUF2OgV6P0Xs5rYyu",
+            "cid": "8840160028011374348",
+            "fid": "0x5495a0ddf3c68b9b:0x7aae8eb55339a70c",
+            "placeId": "ChIJm4vG892glVQRDKc5U7WOrno"
+        },
+        {
+            "position": 5,
+            "title": "Providence Willamette Falls Medical Center",
+            "address": "1500 Division St, Oregon City, OR 97045",
+            "latitude": 45.3561465,
+            "longitude": -122.587139,
+            "rating": 2.5,
+            "ratingCount": 281,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General hospital",
+                "Medical clinic"
+            ],
+            "website": "https://oregon.providence.org/location-directory/p/providence-willamette-falls-medical-center?ls=location&y_source=1_OTU3NjI1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+            "phoneNumber": "(503) 656-1631",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8BWsNFTySkJeg0sTS4jTv6Z33_w18-AtNmYNMKyNBWRNpvIu1gb_9hPs31_G5aE3HnztBruy1weWtHddC1L8cERYT3VHWZXN-H6PNLfbXSCvC4jUhjwYXxsLTnilkgyK2ge84",
+            "cid": "10057798318154886478",
+            "fid": "0x549576d030725877:0x8b947a482824ad4e",
+            "placeId": "ChIJd1hyMNB2lVQRTq0kKEh6lIs"
+        },
+        {
+            "position": 6,
+            "title": "Providence St. Peter Hospital",
+            "address": "413 Lilly Rd NE, Olympia, WA 98506",
+            "latitude": 47.052174799999996,
+            "longitude": -122.8475615,
+            "rating": 2.6,
+            "ratingCount": 747,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-peter-hospital?ls=location&y_source=1_OTU3NjcxNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(360) 491-9480",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-aIAF5hUFqrgbUc5JvYHV9cxFSCE-ojuxrnVG6JkYnDmKWYPK2C_LBN2o08B4oEtUoKdMWTqqU8Depo5eQgxTyemJjdAwkjpR2qs3WSz1iJgM4ElSnuaYfSuPSRKJDOnPfFOiM",
+            "cid": "4723300239678854423",
+            "fid": "0x54910b291a79c08f:0x418c888af9935517",
+            "placeId": "ChIJj8B5GikLkVQRF1WT-YqIjEE"
+        },
+        {
+            "position": 7,
+            "title": "Providence Holy Family Hospital",
+            "address": "5633 N Lidgerwood St, Spokane, WA 99208",
+            "latitude": 47.7114573,
+            "longitude": -117.4071067,
+            "rating": 2.9,
+            "ratingCount": 498,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/holy-family-hospital?ls=location&y_source=1_OTU3Njk5Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 482-0111",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOV4sWKlSndBLegkql54BpkbLyfiURtTDnBLV6a",
+            "cid": "9375619081414335541",
+            "fid": "0x549e194bb9b28479:0x821ce3e161135c35",
+            "placeId": "ChIJeYSyuUsZnlQRNVwTYeHjHII"
+        },
+        {
+            "position": 8,
+            "title": "Providence Centralia Hospital",
+            "address": "914 S Scheuber Rd, Centralia, WA 98531",
+            "latitude": 46.7122999,
+            "longitude": -122.98558849999999,
+            "rating": 2.1,
+            "ratingCount": 338,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/wa/centralia-hospital?ls=location&y_source=1_OTU3NjUwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(360) 736-2803",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhf-b-L2C8ZfE4hLQrXneeqQTLVfBSiM55D2D0",
+            "cid": "11978587529309604844",
+            "fid": "0x54916074b8431a35:0xa63c7de4836c4bec",
+            "placeId": "ChIJNRpDuHRgkVQR7Etsg-R9PKY"
+        },
+        {
+            "position": 9,
+            "title": "Providence Milwaukie Hospital",
+            "address": "10150 SE 32nd Ave, Milwaukie, OR 97222",
+            "latitude": 45.4494002,
+            "longitude": -122.62754269999999,
+            "rating": 2.2,
+            "ratingCount": 357,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/or/milwaukie-hospital?ls=location&y_source=1_OTU3NjIxNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 513-8300",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOd9QNKCSqPobwY7ql_TtLGvl4yVuQ3Zw-QLAZi",
+            "cid": "1102627407206621211",
+            "fid": "0x549575300f612775:0xf4d51c8ee29201b",
+            "placeId": "ChIJdSdhDzB1lVQRGyAp7shRTQ8"
+        },
+        {
+            "position": 10,
+            "title": "Providence Sacred Heart Medical Center",
+            "address": "101 W 8th Ave, Spokane, WA 99204",
+            "latitude": 47.649024399999995,
+            "longitude": -117.4130529,
+            "rating": 3,
+            "ratingCount": 170,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center?ls=location&y_source=1_OTU3Njk1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-3131",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNz4tZDC1JJ0dhp36p5t2Qo5e_32pj8OIFBkAvK",
+            "cid": "15828842638513844074",
+            "fid": "0x549e187c5d366d11:0xdbab5883d22caf6a",
+            "placeId": "ChIJEW02XXwYnlQRaq8s0oNYq9s"
+        },
+        {
+            "position": 11,
+            "title": "Providence Medical Park - Spokane Valley",
+            "address": "16528 E Desmet Ct, Spokane Valley, WA 99216",
+            "latitude": 47.666909999999994,
+            "longitude": -117.18057309999999,
+            "rating": 3.6,
+            "ratingCount": 106,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/providence-medical-park-spokane-valley?ls=location&y_source=1_OTU3NzAwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 944-8900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/wa/providence-medical-park-spokane-valley?y_source=1_OTU3NzAwMi03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU=#llaid=6439"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_UaWylW9llVzmHmMmEzs8q3n8olSWhPC1rgmSiPuPjXtEE_d4NW5wG-gEh6MoXSpGhZXRS3fNUPhAMLHZrjhSUwQxnex1zmnvlj19qoV40eIqwsOJ6VI2eOCmfMxYMBpaTjvy4Jw",
+            "cid": "5132590358570850886",
+            "fid": "0x5361dfa2fdcedfdd:0x473a9fbccc35da46",
+            "placeId": "ChIJ3d_O_aLfYVMRRto1zLyfOkc"
+        },
+        {
+            "position": 12,
+            "title": "Providence St. Mary Medical Center",
+            "address": "401 W Poplar St, Walla Walla, WA 99362",
+            "latitude": 46.062077099999996,
+            "longitude": -118.3431871,
+            "rating": 3.2,
+            "ratingCount": 137,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Birth center"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-mary-medical-center?Is=location&y_source=1_OTU3NzA0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 897-3320",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWEJKZ5piDZSQ3LdO_umP_pa4jsUhIq73cFtZ8",
+            "cid": "17879742433352279117",
+            "fid": "0x54a26a7af3510187:0xf8219b031f70e44d",
+            "placeId": "ChIJhwFR83pqolQRTeRwHwObIfg"
+        },
+        {
+            "position": 13,
+            "title": "Providence Hood River Memorial Hospital",
+            "address": "810 12th St, Hood River, OR 97031",
+            "latitude": 45.7048711,
+            "longitude": -121.52431229999999,
+            "rating": 3.8,
+            "ratingCount": 73,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Emergency room",
+                "Heart hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.providence.org/locations/or/hood-river-memorial-hospital?ls=location&y_source=1_OTU3NjE1OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(541) 386-3911",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmwTU2If100aQSnH9NB_kMK8dc6k2dWGCMKLS9",
+            "cid": "986962433975278264",
+            "fid": "0x54960e6114765f43:0xdb2651ac3c05ab8",
+            "placeId": "ChIJQ192FGEOllQRuFrAwxplsg0"
+        },
+        {
+            "position": 14,
+            "title": "Swedish Hospital Cherry Hill Campus",
+            "address": "500 17th Ave, Seattle, WA 98122",
+            "latitude": 47.6072035,
+            "longitude": -122.3105611,
+            "rating": 3.3,
+            "ratingCount": 222,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus?Is=location&y_source=1_OTU3Njg1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-2000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/cherry-hill-campus#llaid=6645sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-e5-A56fZe_X9GuhWuIBBcJJ5KJtF5VENM_ixePohCNqvY11FTT3cC3gh4SCKqH5SKFmmzmP0tPkOeKIF0uqRgfdemxwBr5JUh89FO8RbZfacOKCkUBAk_gueDDpy1KoEES55z",
+            "cid": "15972904635050606320",
+            "fid": "0x54906ac5b4da512b:0xddab28233361bef0",
+            "placeId": "ChIJK1HatMVqkFQR8L5hMyMoq90"
+        },
+        {
+            "position": 15,
+            "title": "Swedish Hospital - First Hill Campus",
+            "address": "747 Broadway, Seattle, WA 98122",
+            "latitude": 47.608469,
+            "longitude": -122.32148099999999,
+            "rating": 3.1,
+            "ratingCount": 219,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus?Is=location&y_source=1_OTU3NjkyMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 386-6000",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/locations/first-hill-campus#llaid=7437sa"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Ucy9M_WS0CJKsFt1mZuevmO0_KYLGeb_DEjctf1032M91qfAzQooVUEvuOqrEpZ0v0AyHvyfEKX3DEdAyXoFok8WHDjxsQXJfqT5buGVTyH8HlhOiFcAA9u6zVVpZqQQKW5L7Yg",
+            "cid": "5633867081434861685",
+            "fid": "0x54906ac851cdd757:0x4e2f8442d4b11075",
+            "placeId": "ChIJV9fNUchqkFQRdRCx1EKEL04"
+        },
+        {
+            "position": 16,
+            "title": "Providence St. Joseph's Hospital",
+            "address": "500 E Webster Ave, Chewelah, WA 99109",
+            "latitude": 48.277925499999995,
+            "longitude": -117.7108662,
+            "rating": 3.7,
+            "ratingCount": 23,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-josephs-hospital?ls=location&y_source=1_OTU3NjUwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 935-8211",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPv7F4Li-rKOadSvihJCV4VNawbFQQgqdcVPIqZ",
+            "cid": "9537991866860076643",
+            "fid": "0x53627363ac03457f:0x845dc11186c27e63",
+            "placeId": "ChIJf0UDrGNzYlMRY37ChhHBXYQ"
+        },
+        {
+            "position": 17,
+            "title": "Providence Mount Carmel Hospital",
+            "address": "982 E Columbia Ave, Colville, WA 99114",
+            "latitude": 48.5406501,
+            "longitude": -117.8916867,
+            "rating": 2.7,
+            "ratingCount": 69,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/mount-carmel-hospital?ls=location&y_source=1_OTU3NjUwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 685-5100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNs1saPNbdEa7P8Jhmp7__Pk28ex-LKwXtAE9T6",
+            "cid": "14946102679473834074",
+            "fid": "0x53627d6736f904db:0xcf6b3932fa8d485a",
+            "placeId": "ChIJ2wT5Nmd9YlMRWkiN-jI5a88"
+        },
+        {
+            "position": 18,
+            "title": "Providence Seaside Hospital",
+            "address": "725 S Wahanna Rd, Seaside, OR 97138",
+            "latitude": 45.9890729,
+            "longitude": -123.9116655,
+            "rating": 2.8,
+            "ratingCount": 23,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.providence.org/locations/or/seaside-hospital?ls=location&y_source=1_OTU3NjQzMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 717-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Y5_nY1j0ka6E1GCcUMn8osLqukjp8J5Q8f4PR-YmoLcTyWFcGyHuPFG9Qy-AuvK1myy3AIti9NYovLZOLQRndTWFm9-gL_Et8d7T-1qm7lr46ipOuyom2iH0ve7hqCvAq1MTP",
+            "cid": "1987549285725252265",
+            "fid": "0x5494a1f99be87c2f:0x1b95318b7d3c2aa9",
+            "placeId": "ChIJL3zom_mhlFQRqSo8fYsxlRs"
+        },
+        {
+            "position": 19,
+            "title": "Providence Portland Medical Center Emergency Room",
+            "address": "4805 NE Glisan St, Portland, OR 97213",
+            "latitude": 45.527166,
+            "longitude": -122.6139571,
+            "rating": 2.1,
+            "ratingCount": 54,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.providence.org/services/emergency-care",
+            "phoneNumber": "(503) 215-1111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-8AGwGmlWWsSKW7PmurV9ZXgqVmpN1dUda9fuZufATJkqXD4uZ1ktmcuzxH5RA3vLcvVhoVta5aV5TD0RR_msCOBpOIKdgRh_V5uAPWk08QnPLck5i6tYznfvp8q0PwHoupUxq",
+            "cid": "11470965159684953928",
+            "fid": "0x5495a0dd8c936baf:0x9f310e0975e75748",
+            "placeId": "ChIJr2uTjN2glVQRSFfndQkOMZ8"
+        },
+        {
+            "position": 20,
+            "title": "Sisters of Providence Hospital Building",
+            "address": "528 17th Ave, Seattle, WA 98122",
+            "latitude": 47.607003999999996,
+            "longitude": -122.30951309999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "website": "http://www.seattle.gov/neighborhoods/programs-and-services/historic-preservation/landmarks/landmark-list",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8r9aDh1-tq2wF57nLPSW9ozzgqymcecKKmdVkhiQNHhzh-CDlBypNAXi7PazN0VuIG14ksArZ4i8Pm_Qnb2vK9Dv2jWSTj5q-Nl0jjKhsPAHi_81_Wpy-Aj6x9qn5tlhrSA3-o",
+            "cid": "11158270193813428682",
+            "fid": "0x54906ac451f10445:0x9ada239f4a1419ca",
+            "placeId": "ChIJRQTxUcRqkFQRyhkUSp8j2po"
+        }
+    ],
+    "credits": 3
+}

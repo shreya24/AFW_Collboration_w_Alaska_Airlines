@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "Central Coast Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.1992129,-112.6583579,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Coast Medical Group",
+            "address": "1101 E Ocean Ave B, Lompoc, CA 93436",
+            "latitude": 34.6392288,
+            "longitude": -120.44490809999999,
+            "rating": 3,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(805) 740-9400",
+            "openingHours": {
+                "Tuesday": "8:15\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:15\u202fAM\u20137\u202fPM",
+                "Thursday": "8:15\u202fAM\u20137\u202fPM",
+                "Friday": "8:15\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fPM\u201312\u202fAM",
+                "Sunday": "12\u202fAM\u201312\u202fPM",
+                "Monday": "8:15\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9EL4gAeYh1-6AUMDnFFb9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=1.829264&pitch=0&thumbfov=100",
+            "cid": "7842907176972727553",
+            "fid": "0x80ec1e9ae450b2d9:0x6cd79a8621d23501",
+            "placeId": "ChIJ2bJQ5Joe7IARATXSIYaa12w"
+        },
+        {
+            "position": 2,
+            "title": "CareNow Urgent Care - Central Park",
+            "address": "3001 Havana St, Denver, CO 80238",
+            "latitude": 39.7602932,
+            "longitude": -104.8662129,
+            "rating": 4.3,
+            "ratingCount": 1494,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.carenow.com/locations/denver/central-park?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(720) 458-6825",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/13147/visits/new?rwg_token=AAiGsoayeXeVwlGhlwcED29fnqeyGkKsy0vTf_RCaxIeARFkExtnMiclvuuTkSVCG14X5lRv550L7NOsGlGXHYanU3GS0Am_qVaVRknpLccj_wF5w3NkWPI%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOF5Zg122gLfm-dtnQ_3BN7IbyUCFwjvu6S8E2R",
+            "cid": "5836866317570108173",
+            "fid": "0x876c7b5db6657875:0x5100b6fda4356b0d",
+            "placeId": "ChIJdXhltl17bIcRDWs1pP22AFE"
+        },
+        {
+            "position": 3,
+            "title": "CENTRAL COAST MEDICAL GROUP",
+            "address": "119 S B St, Lompoc, CA 93436",
+            "latitude": 34.6381326,
+            "longitude": -120.45050289999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "phoneNumber": "(805) 740-9400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7R2wN0UiH09D0aCO2f6hyg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.72836&pitch=0&thumbfov=100",
+            "cid": "16304472614452923103",
+            "fid": "0x80ec1e91abfeaaab:0xe2451f75428d0adf",
+            "placeId": "ChIJq6r-q5Ee7IAR3wqNQnUfReI"
+        }
+    ],
+    "credits": 3
+}

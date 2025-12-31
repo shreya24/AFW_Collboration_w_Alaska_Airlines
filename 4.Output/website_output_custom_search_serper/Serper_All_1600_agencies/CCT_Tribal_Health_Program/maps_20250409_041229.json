@@ -1,0 +1,504 @@
+{
+    "searchParameters": {
+        "q": "CCT Tribal Health Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.5722072,-118.6840271,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Colville Tribes Indian Health",
+            "address": "19 Lakes Ave, Nespelem, WA 99155",
+            "latitude": 48.131493899999995,
+            "longitude": -118.97428169999999,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "website": "https://www.ihs.gov/",
+            "phoneNumber": "(509) 634-2913",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "12:30\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "2212277515650951826",
+            "fid": "0x549c538812fcc6b7:0x1eb396ade8f56a92",
+            "placeId": "ChIJt8b8EohTnFQRkmr16K2Wsx4"
+        },
+        {
+            "position": 2,
+            "title": "Cowlitz Tribal Health Services",
+            "address": "15455 65th Ave S, Tukwila, WA 98188",
+            "latitude": 47.463394,
+            "longitude": -122.2526128,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Doctor",
+                "Mental health clinic"
+            ],
+            "website": "https://www.cowlitz.org/medical",
+            "phoneNumber": "(206) 721-5170",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VG1CXYFdfq3eVlra2zYPog&cb_client=search.gws-prod.gps&w=80&h=92&yaw=263.9178&pitch=0&thumbfov=100",
+            "cid": "1473765107817310828",
+            "fid": "0x54905d2ab1d8b483:0x1473dd8ea5d0ea6c",
+            "placeId": "ChIJg7TYsSpdkFQRbOrQpY7dcxQ"
+        },
+        {
+            "position": 3,
+            "title": "Colville Tribal Health Program",
+            "address": "Omak, WA 98841",
+            "latitude": 48.4109853,
+            "longitude": -119.5275506,
+            "type": "Government",
+            "types": [
+                "Government"
+            ],
+            "phoneNumber": "(509) 634-2610",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YblczLgp2nqMrQ0F80AD5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=38.76007&pitch=0&thumbfov=100",
+            "cid": "14202837902013267632",
+            "fid": "0x549ce9ab8efaefef:0xc51a9dd26ff47eb0",
+            "placeId": "ChIJ7-_6jqvpnFQRsH70b9KdGsU"
+        },
+        {
+            "position": 4,
+            "title": "Fallon Tribal Health Center",
+            "address": "1001 Rio Vista Dr, Fallon, NV 89406",
+            "latitude": 39.4837809,
+            "longitude": -118.7590761,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Care services"
+            ],
+            "website": "https://www.fthcnv.com/",
+            "phoneNumber": "(775) 423-3634",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t7RR3RS6mGya5SMnctnVOg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=225.94173&pitch=0&thumbfov=100",
+            "cid": "9648972485668084391",
+            "fid": "0x80988131191e9929:0x85e8095a6fc39aa7",
+            "placeId": "ChIJKZkeGTGBmIARp5rDb1oJ6IU"
+        },
+        {
+            "position": 5,
+            "title": "WIC",
+            "address": "21 Colville St, Nespelem, WA 99155",
+            "latitude": 48.1333621,
+            "longitude": -118.9759522,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://www.colvilletribes.com/tribalhealth",
+            "phoneNumber": "(509) 634-0283",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "cid": "9267678485547601017",
+            "fid": "0x549c5380348a8469:0x809d687af7984c79",
+            "placeId": "ChIJaYSKNIBTnFQReUyY93ponYA"
+        },
+        {
+            "position": 6,
+            "title": "Nespelem Tribal Health Programs",
+            "address": "Nespelem, WA 99155",
+            "latitude": 48.167100399999995,
+            "longitude": -118.9747476,
+            "type": "Government",
+            "types": [
+                "Government"
+            ],
+            "phoneNumber": "(509) 634-2996",
+            "cid": "16174986393607017228",
+            "fid": "0x549c538812fcc6b7:0xe079186d1db9130c",
+            "placeId": "ChIJt8b8EohTnFQRDBO5HW0YeeA"
+        },
+        {
+            "position": 7,
+            "title": "Cowlitz Indian Tribal Health Clinic",
+            "address": "1044 11th Ave, Longview, WA 98632",
+            "latitude": 46.1321935,
+            "longitude": -122.93257419999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Counselor",
+                "Doctor"
+            ],
+            "website": "https://www.cowlitz.org/",
+            "phoneNumber": "(360) 575-8275",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "10681111433012881721",
+            "fid": "0x54946dbb4cad30ed:0x943aee41e318a939",
+            "placeId": "ChIJ7TCtTLttlFQROakY40HuOpQ"
+        },
+        {
+            "position": 8,
+            "title": "Spokane Tribe of Indians Health & Human Services",
+            "address": "6228 Old School Rd, Wellpinit, WA 99040",
+            "latitude": 47.889052199999995,
+            "longitude": -117.9853157,
+            "type": "Local government office",
+            "types": [
+                "Local government office",
+                "Mental health service"
+            ],
+            "website": "http://spokanetribe.com/",
+            "phoneNumber": "(509) 258-7502",
+            "cid": "13054482866225872432",
+            "fid": "0x549de09012da3617:0xb52ad7004fd0fe30",
+            "placeId": "ChIJFzbaEpDgnVQRMP7QTwDXKrU"
+        },
+        {
+            "position": 9,
+            "title": "Colville Tribal Health Department",
+            "address": "Inchelium, WA 99138",
+            "latitude": 48.296554199999996,
+            "longitude": -118.20347439999999,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.colvilletribes.com/",
+            "phoneNumber": "(509) 722-7015",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4ufOR0Y-wXTy9013UkBcR9Yg5GXLgGr5w55cRTCOUyVSaUhC9Y7bXsPQTmBg0W3lznTE9WB2NRs5Y-K2red_sVTn_M-HVx3S844m75UQEho81c8Z68KHwqlLIq6cnHkwTWUyr",
+            "cid": "16862466291603747711",
+            "fid": "0x549d9ae982f2abb9:0xea0383c0440a337f",
+            "placeId": "ChIJuavygumanVQRfzMKRMCDA-o"
+        },
+        {
+            "position": 10,
+            "title": "Colville Tribes Mental Health",
+            "address": "Keller, WA 99140",
+            "latitude": 48.0783632,
+            "longitude": -118.6839945,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "phoneNumber": "(509) 634-2610",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UZRs9mnikMDQHOLgPDUowQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=339.01593&pitch=0&thumbfov=100",
+            "cid": "14708452008265704239",
+            "fid": "0x549db39555555555:0xcc1eeb2c3c8ee32f",
+            "placeId": "ChIJVVVVVZWznVQRL-OOPCzrHsw"
+        },
+        {
+            "position": 11,
+            "title": "Tribal Health Clinic (on-call)",
+            "address": "California 93460",
+            "latitude": 34.6047648,
+            "longitude": -120.0932424,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-KiCcsTClwpoCPCMRstcRw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.20723&pitch=0&thumbfov=100",
+            "cid": "8514195760484827532",
+            "fid": "0x80e95475b1cfd409:0x76287fef1bd5c18c",
+            "placeId": "ChIJCdTPsXVU6YARjMHVG-9_KHY"
+        },
+        {
+            "position": 12,
+            "title": "CSKT Tribal Health Polson Health Center",
+            "address": "5 4th Ave E, Polson, MT 59860",
+            "latitude": 47.6925461,
+            "longitude": -114.1621445,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.cskthealth.org/",
+            "phoneNumber": "(406) 883-5541",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BOW9bQZYxznvdkbfe48t5w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=328.9916&pitch=0&thumbfov=100",
+            "cid": "9776116958522610963",
+            "fid": "0x5367738ec8150da7:0x87abbe93e3699513",
+            "placeId": "ChIJpw0VyI5zZ1MRE5Vp45O-q4c"
+        },
+        {
+            "position": 13,
+            "title": "Cowlitz Indian Tribe",
+            "address": "7700 NE 26th Ave, Vancouver, WA 98665",
+            "latitude": 45.6782706,
+            "longitude": -122.6447158,
+            "rating": 4.7,
+            "ratingCount": 46,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Addiction treatment center",
+                "Doctor",
+                "Domestic abuse treatment center",
+                "Family counselor",
+                "Family service center"
+            ],
+            "website": "https://www.cowlitz.org/",
+            "phoneNumber": "(360) 397-8228",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO0f2eH8ddqc2ui5NzYZEQ6qmRDhNim0lQjWmP6",
+            "cid": "1210778870489641375",
+            "fid": "0x5495ae5904dfd0c1:0x10cd8cf7bd15719f",
+            "placeId": "ChIJwdDfBFmulVQRn3EVvfeMzRA"
+        },
+        {
+            "position": 14,
+            "title": "Colville Tribal Correctional Facility",
+            "address": "44 Schoolhouse Loop Rd, Nespelem, WA 99155",
+            "latitude": 48.1420642,
+            "longitude": -119.0011761,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Public safety office",
+            "types": [
+                "Public safety office"
+            ],
+            "website": "http://www.colvilletribes.com/",
+            "phoneNumber": "(509) 634-7352",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "15268688679245792090",
+            "fid": "0x549c515fbdf60d83:0xd3e54774f079435a",
+            "placeId": "ChIJgw32vV9RnFQRWkN58HRH5dM"
+        },
+        {
+            "position": 15,
+            "title": "Chehalis Tribal Clinic",
+            "address": "21 Niederman Rd, Oakville, WA 98568",
+            "latitude": 46.8136948,
+            "longitude": -123.1705997,
+            "rating": 2.3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.chehalistribe.org/departments/wellness-center/",
+            "phoneNumber": "(360) 273-5504",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "8822632618154075345",
+            "fid": "0x5493d80421002ee9:0x7a70499f34d924d1",
+            "placeId": "ChIJ6S4AIQTYk1QR0STZNJ9JcHo"
+        },
+        {
+            "position": 16,
+            "title": "Colville Tribal Convalescent",
+            "address": "25 Convalescent Center Blvd, Nespelem, WA 99155",
+            "latitude": 48.1276435,
+            "longitude": -118.97260279999999,
+            "rating": 4.8,
+            "ratingCount": 4,
+            "type": "Physical therapist",
+            "types": [
+                "Physical therapist"
+            ],
+            "phoneNumber": "(509) 634-2878",
+            "cid": "14267206937837377814",
+            "fid": "0x549c53d362f8ed59:0xc5ff4d1e7ac91916",
+            "placeId": "ChIJWe34YtNTnFQRFhnJeh5N_8U"
+        },
+        {
+            "position": 17,
+            "title": "Consolidated Tribal Health Project, Inc.",
+            "address": "6991 N State St, Redwood Valley, CA 95470",
+            "latitude": 39.2441436,
+            "longitude": -123.20590969999999,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Dentist"
+            ],
+            "website": "http://www.cthp.org/",
+            "phoneNumber": "(707) 485-5115",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "cid": "3000241481648364017",
+            "fid": "0x80817bcf6fb89e19:0x29a2ffbb4a0ad9f1",
+            "placeId": "ChIJGZ64b897gYAR8dkKSrv_oik"
+        },
+        {
+            "position": 18,
+            "title": "Yellowhawk Tribal Health Center",
+            "address": "46314 Ti'mine Way, Pendleton, OR 97801",
+            "latitude": 45.666274,
+            "longitude": -118.6905084,
+            "rating": 4.5,
+            "ratingCount": 163,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Alcoholism treatment program",
+                "Dental clinic",
+                "Mental health clinic",
+                "Nutritionist",
+                "Pharmacy",
+                "Physical fitness program",
+                "Physical therapy clinic",
+                "Public health department",
+                "Transportation service"
+            ],
+            "website": "http://yellowhawk.org/",
+            "phoneNumber": "(541) 966-9830",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlbDRApZ7THYKTQZXKdQxhdmQqr3BwRgu6FYYQ",
+            "cid": "10084785200758061068",
+            "fid": "0x54a2e2c4f1a83f63:0x8bf45ab5674cf80c",
+            "placeId": "ChIJYz-o8cTiolQRDPhMZ7Va9Is"
+        },
+        {
+            "position": 19,
+            "title": "Tribal Health",
+            "address": "California 95667",
+            "latitude": 38.693419,
+            "longitude": -120.90356299999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-BsP_fSy3H8JOnpJpRse_2IXrQSRAi4UA-nOpp_EckXpQWk2RrFHFg_MFkBjDLn-KWhCXwDv1POYMtLf2mRhU7OPfB6x9h-qWEVHWlRTGjzSe2oabCKNJr9oJ4OtFxCwF4OLTb",
+            "cid": "16594949346351010193",
+            "fid": "0x809af80f6570daf1:0xe64d1a81b6da5191",
+            "placeId": "ChIJ8dpwZQ_4moARkVHatoEaTeY"
+        },
+        {
+            "position": 20,
+            "title": "Upper Skagit Tribal Clinic",
+            "address": "25959 Community Plaza Way, Sedro-Woolley, WA 98284",
+            "latitude": 48.5396496,
+            "longitude": -122.1849766,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Counselor",
+                "Nutritionist",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "http://www.upperskagittribe-nsn.gov/departments/health-services/",
+            "phoneNumber": "(360) 854-7070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9zVGr8Yhc-xlgMF6bVw95C_Ry_sMGugW1qgLOyFpo68Xqsx5vmzVaih1iwwXXOAadYpAWISC795oGs9jApdWcA2ql-zsqTK81fne-xLd-uZCUpbrGobc5ie_XevHIr0BElHYaNrA",
+            "cid": "6649207828447788406",
+            "fid": "0x54851208a3fee679:0x5c46bb4a7c607d76",
+            "placeId": "ChIJeeb-owgShVQRdn1gfEq7Rlw"
+        }
+    ],
+    "credits": 3
+}

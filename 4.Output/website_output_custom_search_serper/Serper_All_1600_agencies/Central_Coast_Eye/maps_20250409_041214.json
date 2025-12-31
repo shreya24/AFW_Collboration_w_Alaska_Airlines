@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Central Coast Eye",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2894512,-120.657522,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Coast Eye",
+            "address": "628 California Blvd # C, San Luis Obispo, CA 93401",
+            "latitude": 35.289451199999995,
+            "longitude": -120.657522,
+            "rating": 4.9,
+            "ratingCount": 42,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://www.centralcoasteye.com/",
+            "phoneNumber": "(805) 544-0102",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQC8YqkcxV3zkbMcuXOFeln9Ls6TA_n6QhlTsF",
+            "cid": "11191942830852921829",
+            "fid": "0x80ecf1a834a4bc55:0x9b51c4b50b77d9e5",
+            "placeId": "ChIJVbykNKjx7IAR5dl3C7XEUZs"
+        }
+    ],
+    "credits": 3
+}

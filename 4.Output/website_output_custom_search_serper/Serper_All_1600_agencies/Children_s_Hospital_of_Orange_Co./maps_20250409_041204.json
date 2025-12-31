@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital of Orange Co.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7806251,-117.8660831,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHOC Main Campus - Orange",
+            "address": "1201 W La Veta Ave, Orange, CA 92868",
+            "latitude": 33.7806251,
+            "longitude": -117.8660831,
+            "rating": 4,
+            "ratingCount": 1348,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Doctor",
+                "Pediatrician"
+            ],
+            "website": "https://choc.org/locations/choc-childrens-main-campus-orange/?utm_source=google&utm_medium=gmb&utm_content=clinic&utm_campaign=choc_main_campus_orange",
+            "phoneNumber": "(714) 997-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9tjoa7zg9LTvYSOMiz2oE1-1ceYOVpC88LnyOS-1-Jf-QbjaQdFDqXL4c8ZuV0-3ENs_lCuJicHXvgJtGjd0YVUW397T1SPV0qze0o_6pekW21SMUC0D_JympUFqt6KYJqXj8gsg",
+            "cid": "17128036124953281039",
+            "fid": "0x80dcd9cffe089d6d:0xedb3021b7fe6020f",
+            "placeId": "ChIJbZ0I_s_Z3IARDwLmfxsCs-0"
+        }
+    ],
+    "credits": 3
+}

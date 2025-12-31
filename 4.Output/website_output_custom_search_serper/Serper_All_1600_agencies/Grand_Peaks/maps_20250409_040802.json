@@ -1,0 +1,113 @@
+{
+    "searchParameters": {
+        "q": "Grand Peaks",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.7999675,-108.3403295,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grand Peaks Medical",
+            "address": "72 S 1st E Suite 1, Rexburg, ID 83440",
+            "latitude": 43.8244032,
+            "longitude": -111.78167169999999,
+            "rating": 4.3,
+            "ratingCount": 159,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Urgent care center"
+            ],
+            "website": "https://grandpeaks.org/rexburg-medical/",
+            "phoneNumber": "(208) 356-4900",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://grandpeaks.org/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6GjWB4k2uby4nQs_UH2ESa92wsJY5FxdpseaB",
+            "cid": "16559361386416512335",
+            "fid": "0x53540a546bc2d247:0xe5ceab7218ad1d4f",
+            "placeId": "ChIJR9LCa1QKVFMRTx2tGHKrzuU"
+        },
+        {
+            "position": 2,
+            "title": "Grand Peaks Medical",
+            "address": "335 E Main St Suite 1, St Anthony, ID 83445",
+            "latitude": 43.9666567,
+            "longitude": -111.677696,
+            "rating": 3.7,
+            "ratingCount": 55,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Urgent care center"
+            ],
+            "website": "https://grandpeaks.org/saint-anthony-medical/",
+            "phoneNumber": "(208) 624-4100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://grandpeaks.org/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORF2zxRCTGutTk0Jw-Qx0wADo2w0vfQRkFo8Hd",
+            "cid": "18320998018516829778",
+            "fid": "0x5353fa6369a3c293:0xfe4142a10854c652",
+            "placeId": "ChIJk8KjaWP6U1MRUsZUCKFCQf4"
+        },
+        {
+            "position": 3,
+            "title": "Grand Peaks",
+            "address": "4582 S Ulster St #1200, Denver, CO 80237",
+            "latitude": 39.6332782,
+            "longitude": -104.8989873,
+            "rating": 2,
+            "ratingCount": 11,
+            "type": "Real estate agency",
+            "types": [
+                "Real estate agency"
+            ],
+            "website": "https://grandpeaks.com/",
+            "phoneNumber": "(720) 889-9200",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fAM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPagaVCMHi7Ig7VWPDangI8Ls_NZBtG0ysob1EU",
+            "cid": "5497161200786642132",
+            "fid": "0x876c87228bd5efbf:0x4c49d6fca5f294d4",
+            "placeId": "ChIJv-_ViyKHbIcR1JTypfzWSUw"
+        }
+    ],
+    "credits": 3
+}

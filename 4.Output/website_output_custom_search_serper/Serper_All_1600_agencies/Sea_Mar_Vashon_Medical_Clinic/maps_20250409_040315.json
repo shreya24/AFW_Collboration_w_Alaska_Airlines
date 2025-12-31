@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sea Mar Vashon Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4171587,-122.4633713,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sea Mar Vashon Medical Clinic",
+            "address": "10030 SW 210th St, Vashon, WA 98070",
+            "latitude": 47.417158699999995,
+            "longitude": -122.46337129999999,
+            "rating": 3.3,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre"
+            ],
+            "website": "https://www.seamar.org/king-medical-vashon.html",
+            "phoneNumber": "(206) 463-3671",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-7lWDq4tagY65OZXsdEGaN9ZfsccEypN9F2PYU3tTl1eI1xi0bzzO7ns1B_2NxAWaHsU_-mHqoo16WgT_eFRets9aAvD5EGWHnpEWoGjeprC5DO8zCLhtV0y9FFAH_4rZxH0fF",
+            "cid": "3089172150962082940",
+            "fid": "0x54904f79e444d5b7:0x2adef1b4441fd47c",
+            "placeId": "ChIJt9VE5HlPkFQRfNQfRLTx3io"
+        }
+    ],
+    "credits": 3
+}

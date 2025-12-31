@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Rhythm of Life Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.9346131,-71.4418417,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brown University Health Cancer Institute - Lincoln, RI",
+            "address": "701 George Washington Hwy Suite 101, Lincoln, RI 02865",
+            "latitude": 41.9346131,
+            "longitude": -71.4418417,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.brownhealth.org/centers-services/cancer-institute",
+            "phoneNumber": "(844) 222-2881",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOuiwJ0_mRvlIMY2ueYficn1NzHpBj9t2Gm7XJh",
+            "cid": "18088076880279646241",
+            "fid": "0x89e443203ae67fdb:0xfb05c2167f063021",
+            "placeId": "ChIJ23_mOiBD5IkRITAGfxbCBfs"
+        }
+    ],
+    "credits": 3
+}

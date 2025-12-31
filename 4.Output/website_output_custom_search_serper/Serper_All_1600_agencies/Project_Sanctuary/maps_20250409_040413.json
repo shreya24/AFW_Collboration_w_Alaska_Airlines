@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Project Sanctuary",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4466093,-123.8048074,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Project Sanctuary",
+            "address": "461 N Franklin St, Fort Bragg, CA 95437",
+            "latitude": 39.4466093,
+            "longitude": -123.8048074,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center"
+            ],
+            "website": "http://www.projectsanctuary.org/",
+            "phoneNumber": "(707) 961-1507",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sCj1Rng8g6cFRINhbdrhIA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=281.7545&pitch=0&thumbfov=100",
+            "cid": "1156812351252462673",
+            "fid": "0x80803549aaee071b:0x100dd2b4542ffc51",
+            "placeId": "ChIJGwfuqkk1gIARUfwvVLTSDRA"
+        }
+    ],
+    "credits": 3
+}

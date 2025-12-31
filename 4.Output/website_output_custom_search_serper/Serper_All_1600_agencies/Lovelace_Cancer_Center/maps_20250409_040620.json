@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Lovelace Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0858265,-106.6386632,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lovelace Cancer Center",
+            "address": "715 Dr Martin Luther King Jr Ave NE, Albuquerque, NM 87102",
+            "latitude": 35.085826499999996,
+            "longitude": -106.6386632,
+            "rating": 4.6,
+            "ratingCount": 16,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://lovelacecancercenter.com/",
+            "phoneNumber": "(505) 727-3040",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9xBZJXvDXmK6RXfMc2v_Dw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=235.27972&pitch=0&thumbfov=100",
+            "cid": "14720225018308958577",
+            "fid": "0x87220ca4f6992c7d:0xcc48bea9be1f9971",
+            "placeId": "ChIJfSyZ9qQMIocRcZkfvqm-SMw"
+        }
+    ],
+    "credits": 3
+}

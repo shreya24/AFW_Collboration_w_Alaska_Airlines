@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Downtown Hope Center Soup Kitchen",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.21941,-149.8795939,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Downtown Soup Kitchen Hope Center",
+            "address": "240 E 3rd Ave, Anchorage, AK 99501",
+            "latitude": 61.219409999999996,
+            "longitude": -149.8795939,
+            "rating": 4.4,
+            "ratingCount": 203,
+            "type": "Soup kitchen",
+            "types": [
+                "Soup kitchen"
+            ],
+            "website": "http://www.downtownhopecenter.org/",
+            "phoneNumber": "(907) 277-4302",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuUYJ2OYgXWfqx_zUuR0gg7nZdsK9mzd0bVyiK",
+            "cid": "9797281454148563188",
+            "fid": "0x56c8962f5bd5c625:0x87f6ef93070c30f4",
+            "placeId": "ChIJJcbVWy-WyFYR9DAMB5Pv9oc"
+        }
+    ],
+    "credits": 3
+}

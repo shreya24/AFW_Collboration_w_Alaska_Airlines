@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Huhukam Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.0730784,-111.7591751,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hu Hu Kam Memorial Hospital",
+            "address": "483 W Seed Farm Rd, Sacaton, AZ 85147",
+            "latitude": 33.0730784,
+            "longitude": -111.7591751,
+            "rating": 3.9,
+            "ratingCount": 62,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Doctor",
+                "General hospital"
+            ],
+            "website": "http://grhc.org/",
+            "phoneNumber": "(520) 562-3321",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:15\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:15\u202fPM",
+                "Thursday": "8\u202fAM\u20136:15\u202fPM",
+                "Friday": "8\u202fAM\u20134:15\u202fPM",
+                "Saturday": "8\u202fAM\u20133:15\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkUSFnBL3hXctptKv0jF0IV63WeKoW8X4Pkvgg",
+            "cid": "14329633827140364153",
+            "fid": "0x872a5a005cff07a5:0xc6dd160b4c1f6779",
+            "placeId": "ChIJpQf_XABaKocReWcfTAsW3cY"
+        }
+    ],
+    "credits": 3
+}

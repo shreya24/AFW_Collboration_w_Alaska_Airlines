@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "La Casa Inc. DV Shelter",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.3098841,-106.7544507,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "La Casa Inc.",
+            "address": "800 S Walnut St, Las Cruces, NM 88001",
+            "latitude": 32.3098841,
+            "longitude": -106.75445069999999,
+            "rating": 2.9,
+            "ratingCount": 40,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "https://www.lacasainc.org/",
+            "phoneNumber": "(575) 526-2819",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNiP1Vr5acINCyd7jtaNZAPTZb4TTCVmytP-rBC",
+            "cid": "1419367713131954404",
+            "fid": "0x86de3d63e8b527b3:0x13b29b6a3ae380e4",
+            "placeId": "ChIJsye16GM93oYR5IDjOmqbshM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Dr. Thomas Lowe",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.1064512,-99.2416597,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Thomas Lowe, MD",
+            "address": "Hunt Cancer Center, 3285 Skypark Dr, Torrance, CA 90505",
+            "latitude": 33.8090876,
+            "longitude": -118.34374469999999,
+            "rating": 4.9,
+            "ratingCount": 36,
+            "type": "Hematologist",
+            "types": [
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "https://www.tmphysiciannetwork.org/tmpn/find-a-doctor/profile/thomas-lowe/",
+            "phoneNumber": "(310) 750-3300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOiqat0LkWVBsEBcXwQOAAyBsHy8ZNDAcRQjGZT",
+            "cid": "3999891022923287527",
+            "fid": "0x80c2b497a7fb152b:0x378277b1699dcbe7",
+            "placeId": "ChIJKxX7p5e0woAR58udabF3gjc"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Thomas Lowe",
+            "address": "514 N Prospect Ave FL 4, Redondo Beach, CA 90277",
+            "latitude": 33.8532644,
+            "longitude": -118.37906299999999,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Pediatrician",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(310) 750-3300",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BX6EsRSoOoHYdXloaT8gQg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=56.210445&pitch=0&thumbfov=100",
+            "cid": "3030512226578504840",
+            "fid": "0x80c2b49719d7dd9f:0x2a0e8ad050b09c88",
+            "placeId": "ChIJn93XGZe0woARiJywUNCKDio"
+        },
+        {
+            "position": 3,
+            "title": "Lowe Thomas W MD, FACOG",
+            "address": "875 Meadows Rd #325, Boca Raton, FL 33486",
+            "latitude": 26.3596379,
+            "longitude": -80.1042564,
+            "rating": 3.4,
+            "ratingCount": 34,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "phoneNumber": "(561) 395-4456",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20133:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "17931905030263304111",
+            "fid": "0x88d91dfdfc674f3d:0xf8daec9e22e26faf",
+            "placeId": "ChIJPU9n_P0d2YgRr2_iIp7s2vg"
+        }
+    ],
+    "credits": 3
+}

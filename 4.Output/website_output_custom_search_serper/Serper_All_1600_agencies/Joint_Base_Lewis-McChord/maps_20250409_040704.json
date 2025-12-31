@@ -1,0 +1,84 @@
+{
+    "searchParameters": {
+        "q": "Joint Base Lewis-McChord",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.1091018,-122.551161,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Joint Base Lewis-McChord",
+            "address": "1010, Joint Base Lewis-McChord, WA 98433",
+            "latitude": 47.092011799999995,
+            "longitude": -122.61482439999999,
+            "rating": 4.1,
+            "ratingCount": 132,
+            "type": "Military base",
+            "types": [
+                "Military base"
+            ],
+            "website": "https://home.army.mil/lewis-mcchord/",
+            "phoneNumber": "(253) 967-1110",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPg2mxFii_huxaW14KbKKMTNSseLuZ2oEItWm4G",
+            "cid": "4699723085497291119",
+            "fid": "0x54910593ec3bcfdf:0x4138c53efdc4d16f",
+            "placeId": "ChIJ38877JMFkVQRb9HE_T7FOEE"
+        },
+        {
+            "position": 2,
+            "title": "McChord AFB",
+            "address": "Joint Base Lewis-McChord, WA",
+            "latitude": 47.133159,
+            "longitude": -122.49400589999999,
+            "website": "http://www.centralmoinfo.com/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxNDqaghUnIn0PsJj7dZnx64rtguqusd7fXRS2",
+            "cid": "4830215595770375182",
+            "fid": "0x5491011806d881b1:0x43085f7e2671ec0e",
+            "placeId": "ChIJsYHYBhgBkVQRDuxxJn5fCEM"
+        },
+        {
+            "position": 3,
+            "title": "Joint Base Lewis-McChord",
+            "address": "Washington",
+            "latitude": 47.1095037,
+            "longitude": -122.529389,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFN0xVZcJT96pq-Mrl1GEJkkdRuAo8kR0rDPWT",
+            "cid": "8683921101277266818",
+            "fid": "0x549107b44481b3c3:0x78837c3b73268382",
+            "placeId": "ChIJw7OBRLQHkVQRgoMmczt8g3g"
+        },
+        {
+            "position": 4,
+            "title": "McChord",
+            "address": "McChord AFB, Tacoma, WA 98438",
+            "latitude": 47.133447399999994,
+            "longitude": -122.485855,
+            "rating": 4.6,
+            "ratingCount": 59,
+            "type": "Air force base",
+            "types": [
+                "Air force base",
+                "Military base"
+            ],
+            "website": "http://www.mcchord.af.mil/",
+            "phoneNumber": "(253) 982-5637",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-ZAYtu3hsKN3ek7dnz_udiN60jIV1zJBY75kS",
+            "cid": "17839781324800795327",
+            "fid": "0x5491015dbf26fff1:0xf793a2987f6622bf",
+            "placeId": "ChIJ8f8mv10BkVQRvyJmf5iik_c"
+        }
+    ],
+    "credits": 3
+}

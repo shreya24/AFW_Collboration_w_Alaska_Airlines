@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Jared Acoba, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3216288,-157.8559476,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Jared D. Acoba, MD",
+            "address": "321 N Kuakini St STE 412, Honolulu, HI 96817",
+            "latitude": 21.3216288,
+            "longitude": -157.85594759999998,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(808) 531-8521",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9JkOoh7tvSbeONHDTXoSwg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=241.69336&pitch=0&thumbfov=100",
+            "cid": "9811702956069677900",
+            "fid": "0x7c006dd63c2a915d:0x882a2bda9a2eeb4c",
+            "placeId": "ChIJXZEqPNZtAHwRTOsumtorKog"
+        }
+    ],
+    "credits": 3
+}

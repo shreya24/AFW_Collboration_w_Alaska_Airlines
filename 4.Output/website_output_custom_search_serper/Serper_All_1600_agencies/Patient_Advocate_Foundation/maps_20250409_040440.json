@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Patient Advocate Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0617734,-76.4070128,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Patient Advocate Foundation",
+            "address": "421 Butler Farm Rd, Hampton, VA 23666",
+            "latitude": 37.0617734,
+            "longitude": -76.40701279999999,
+            "rating": 3.7,
+            "ratingCount": 47,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Non-profit organization"
+            ],
+            "website": "http://www.patientadvocate.org/",
+            "phoneNumber": "(800) 532-5274",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD4is0QCoZtt0pukgYGK3nVPMsd-1jRx55aYgO",
+            "cid": "6826679356352263396",
+            "fid": "0x89ba83010a452603:0x5ebd3cb48ede74e4",
+            "placeId": "ChIJAyZFCgGDuokR5HTejrQ8vV4"
+        }
+    ],
+    "credits": 3
+}

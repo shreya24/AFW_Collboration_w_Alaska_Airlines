@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "UW Medicine Endocrinology/Diabetes Clinic at Harborview",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6034418,-122.3235633,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Medicine Endocrinology/Diabetes Clinic at Harborview",
+            "address": "325 9th Ave, Seattle, WA 98104",
+            "latitude": 47.6034418,
+            "longitude": -122.32356329999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Diabetologist",
+            "types": [
+                "Diabetologist",
+                "Endocrinologist"
+            ],
+            "website": "http://www.uwmedicine.org/locations/endocrinology-diabetes-harborview?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDIzOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 520-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.uwmedicine.org/locations/endocrinology-diabetes-harborview?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=szz9hhvR6Lrl1E8ohrJSBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=165.47034&pitch=0&thumbfov=100",
+            "cid": "252596311495781800",
+            "fid": "0x54906ab9acbba5b1:0x3816701ca47ada8",
+            "placeId": "ChIJsaW7rLlqkFQRqK1HygFngQM"
+        }
+    ],
+    "credits": 3
+}

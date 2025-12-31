@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Virginia Mason Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6099814,-122.3274968,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Virginia Mason Medical Center",
+            "address": "1100 9th Ave, Seattle, WA 98101",
+            "latitude": 47.609935,
+            "longitude": -122.3275125,
+            "rating": 3.8,
+            "ratingCount": 725,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.vmfh.org/our-hospitals/virginia-mason-medical-center.html",
+            "phoneNumber": "(206) 624-1144",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.virginiamason.org/seattle"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMGPaoKrr8UZeqnrBAHh_3ScaScAhD9hZoKxKqy",
+            "cid": "10908412116613558774",
+            "fid": "0x54900d8f8d0c79c7:0x976277065a5171f6",
+            "placeId": "ChIJx3kMjY8NkFQR9nFRWgZ3Ypc"
+        },
+        {
+            "position": 2,
+            "title": "Virginia Mason Hospital: Seattle",
+            "address": "925 Seneca St, Seattle, WA 98101",
+            "latitude": 47.6100279,
+            "longitude": -122.3274811,
+            "rating": 4.1,
+            "ratingCount": 43,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.vmfh.org/our-hospitals/virginia-mason-medical-center",
+            "phoneNumber": "(206) 223-6600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNq6w0tcKQ26dcUIbN5wxvpWHepF4L6C_-zqBfh",
+            "cid": "7530099961694741651",
+            "fid": "0x54906ab5fc413b81:0x68804a04dbff6493",
+            "placeId": "ChIJgTtB_LVqkFQRk2T_2wRKgGg"
+        }
+    ],
+    "credits": 3
+}

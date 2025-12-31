@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Veterans Health Administration North Idaho",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6928247,-116.7965154,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Veterans Healthcare Administration, North Idaho Community Based Outpatient Clinic",
+            "address": "915 Emma Ave, Coeur d'Alene, ID 83814",
+            "latitude": 47.6927769,
+            "longitude": -116.79643329999999,
+            "rating": 2.5,
+            "ratingCount": 12,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.spokane.va.gov/locations/CoeurDAlene.asp",
+            "phoneNumber": "(208) 665-1700",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XK79wgjpOE2smzYjWfRHQQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=10.223447&pitch=0&thumbfov=100",
+            "cid": "15237009644053450931",
+            "fid": "0x5361c6c0107e0585:0xd374bb8ac901d0b3",
+            "placeId": "ChIJhQV-EMDGYVMRs9AByYq7dNM"
+        },
+        {
+            "position": 2,
+            "title": "North Idaho VA Clinic",
+            "address": "915 Emma Ave, Coeur d'Alene, ID 83814",
+            "latitude": 47.6928724,
+            "longitude": -116.79659749999999,
+            "rating": 3.6,
+            "ratingCount": 36,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.va.gov/directory/guide/facility.asp?id=5674",
+            "phoneNumber": "(208) 665-1700",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB80crC5r1SL_JTTlBY5vsz-b0cbyC9MB-Ed7wBHF3d18Ei18SGRz4g9UsOUo-tBN-58eTYdyajSUYbTn-nftq8veDqKsjkv_msKTouTqAewoySC9y0n7b_4TqTq2eVDW2hojn8",
+            "cid": "1457955558904917172",
+            "fid": "0x41087af7728076d7:0x143bb2db32d56cb4",
+            "placeId": "ChIJ13aAcvd6CEERtGzVMtuyOxQ"
+        }
+    ],
+    "credits": 3
+}

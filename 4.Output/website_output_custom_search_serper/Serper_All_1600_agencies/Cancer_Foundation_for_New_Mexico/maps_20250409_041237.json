@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cancer Foundation for New Mexico",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6564197,-105.9479332,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Cancer Foundation for New Mexico",
+            "address": "2009 Botulph Rd Suite 100, Santa Fe, NM 87505",
+            "latitude": 35.6564197,
+            "longitude": -105.9479332,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://cffnm.org/",
+            "phoneNumber": "(505) 955-7931",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfCHLLgKdlKxh18cAKTl5Hbxf9cB6db8_S3Hju",
+            "cid": "79809077869339",
+            "fid": "0x8718509630bbc0bf:0x4895ffbc7b1b",
+            "placeId": "ChIJv8C7MJZQGIcRG3u8_5VIAAA"
+        }
+    ],
+    "credits": 3
+}

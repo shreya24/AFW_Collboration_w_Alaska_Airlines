@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Dr. Regina Rosenthal, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0118352,-116.8953365,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Regina Rosenthal, MD, FACS",
+            "address": "15047 Los Gatos Blvd #100, Los Gatos, CA 95032",
+            "latitude": 37.250074,
+            "longitude": -121.95552889999999,
+            "rating": 4.8,
+            "ratingCount": 45,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon"
+            ],
+            "website": "https://www.rosenthalmd.com/",
+            "phoneNumber": "(408) 559-4700",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u201312:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-Q5p4Hb2anQknM9NQrUC4olBHl4mxN59-2Iut",
+            "cid": "4155856483964212244",
+            "fid": "0x808e35ab579f31af:0x39ac91741830d414",
+            "placeId": "ChIJrzGfV6s1joARFNQwGHSRrDk"
+        },
+        {
+            "position": 2,
+            "title": "Regina Rosenthal",
+            "address": "1950 Cir of Hope Dr Ste 1950, Salt Lake City, UT 84112",
+            "latitude": 40.773596399999995,
+            "longitude": -111.8351442,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon",
+                "Medical clinic",
+                "Practitioner service location"
+            ],
+            "website": "https://healthcare.utah.edu/find-a-doctor/regina-rosenthal",
+            "phoneNumber": "(801) 581-2431",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8KY8fj5NusUmTDHvuZYetg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.74023&pitch=0&thumbfov=100",
+            "cid": "9567918905186997407",
+            "fid": "0x87525f9788eaf00f:0x84c8138d1f6a549f",
+            "placeId": "ChIJD_DqiJdfUocRn1RqH40TyIQ"
+        }
+    ],
+    "credits": 3
+}

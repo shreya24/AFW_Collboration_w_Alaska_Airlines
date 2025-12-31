@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "DSI - Hayden",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7493065,-116.7844487,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DSI Hayden Dialysis",
+            "address": "8556 N Wayne Dr, Hayden, ID 83835",
+            "latitude": 47.749306499999996,
+            "longitude": -116.7844487,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "phoneNumber": "(208) 762-7724",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=szjoKvmIdG1Q_7CGtA63Qw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=95.257164&pitch=0&thumbfov=100",
+            "cid": "11860351855945977775",
+            "fid": "0x5361c08d475d40a5:0xa4986f2c94ce0faf",
+            "placeId": "ChIJpUBdR43AYVMRrw_OlCxvmKQ"
+        }
+    ],
+    "credits": 3
+}

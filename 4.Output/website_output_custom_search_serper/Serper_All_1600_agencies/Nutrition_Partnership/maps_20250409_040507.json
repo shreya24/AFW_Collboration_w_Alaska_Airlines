@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Nutrition Partnership",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.600128,-149.1900242,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nutrition Partnership",
+            "address": "10355 E Palmer-Wasilla Hwy, Palmer, AK 99645",
+            "latitude": 61.600128,
+            "longitude": -149.19002419999998,
+            "type": "Consultant",
+            "types": [
+                "Consultant"
+            ],
+            "website": "http://www.nutritionpartnership.com/",
+            "phoneNumber": "(888) 278-8959",
+            "cid": "3234298479837888196",
+            "fid": "0x56c8e1e0d0e55555:0x2ce28954d452bec4",
+            "placeId": "ChIJVVXl0ODhyFYRxL5S1FSJ4iw"
+        }
+    ],
+    "credits": 3
+}

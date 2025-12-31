@@ -1,0 +1,609 @@
+{
+    "searchParameters": {
+        "q": "Scripps Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9401029,-117.1492512,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Clinic Carmel Valley",
+            "address": "3811 Valley Centre Dr, San Diego, CA 92130",
+            "latitude": 32.936657,
+            "longitude": -117.2320611,
+            "rating": 2.7,
+            "ratingCount": 138,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Cardiologist",
+                "Dermatologist",
+                "Obstetrician-gynecologist",
+                "Medical Center",
+                "Orthopedic clinic",
+                "Pediatrician",
+                "Rheumatologist"
+            ],
+            "website": "http://www.scripps.org/LocListSCCVsdpsocial-gmb",
+            "phoneNumber": "(858) 682-0164",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNR9T07ZmeJ4NpaR02h0ZSu4IEVm5MXTPWsqfF",
+            "cid": "11096150562449731988",
+            "fid": "0x80dc06307471dbd3:0x99fd722589113194",
+            "placeId": "ChIJ09txdDAG3IARlDERiSVy_Zk"
+        },
+        {
+            "position": 2,
+            "title": "Scripps Clinic Torrey Pines",
+            "address": "10710 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.898542,
+            "longitude": -117.24298519999999,
+            "rating": 3.2,
+            "ratingCount": 156,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center",
+                "Physical therapy clinic",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-torrey-pines?tab=overview",
+            "phoneNumber": "(858) 299-2984",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4qTaWBuMGOYcMaztZF7Yn5Xny-dBDV8foZASwTLZJXy8UB4PEx_lhOA6JZ3R44OhnVtMMn6AdUzk2cDT3JJiXFolhifeKwr5MfVqaZOV6CSb9G7qY9K93i2TFOrtFoQrSh_VGlA",
+            "cid": "9650500844202110598",
+            "fid": "0x80dc0729d3b08431:0x85ed776323462e86",
+            "placeId": "ChIJMYSw0ykH3IARhi5GI2N37YU"
+        },
+        {
+            "position": 3,
+            "title": "Scripps Clinic Mission Valley - Building 7565",
+            "address": "7565 Mission Valley Rd Suite 200, San Diego, CA 92108",
+            "latitude": 32.7792403,
+            "longitude": -117.1588158,
+            "rating": 3.2,
+            "ratingCount": 52,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-mission-valley/scripps-clinic-mission-valley-building-7565?tab=overview",
+            "phoneNumber": "(619) 245-2350",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOfiuFvTN9np8QcjyVyAfwprasBTBZheetbp6Y3",
+            "cid": "5156549787081130282",
+            "fid": "0x80d955478ac23c3f:0x478fbeb5f596412a",
+            "placeId": "ChIJPzzCikdV2YARKkGW9bW-j0c"
+        },
+        {
+            "position": 4,
+            "title": "Scripps Clinic Rancho Bernardo",
+            "address": "15004 Innovation Dr, San Diego, CA 92128",
+            "latitude": 32.9889401,
+            "longitude": -117.0776614,
+            "rating": 3.1,
+            "ratingCount": 200,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-rancho-bernardo?tab=overview",
+            "phoneNumber": "(858) 240-8974",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB880QjH5X-COS6EjLMNaBHoL1I3JrYbCmr_Sb2qKbBY45gMIgpuNxMATdlaXjQj1hPrI9NVwnphReHyxHEsuGs4V-QDmFKaa7oq0YgLmiEiRrxm6HDp54c0ERo3PvxQHCBA9QlZ",
+            "cid": "6165740629539221818",
+            "fid": "0x80dbf0ab6be9aa99:0x55911c6f60e0f13a",
+            "placeId": "ChIJmarpa6vw24AROvHgYG8ckVU"
+        },
+        {
+            "position": 5,
+            "title": "Scripps Clinic Urgent Care Torrey Pines",
+            "address": "10710 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.898542,
+            "longitude": -117.24298519999999,
+            "rating": 3,
+            "ratingCount": 115,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.scripps.org/locations/urgent-care/scripps-urgent-care-torrey-pines?tab=overview",
+            "phoneNumber": "(858) 348-5943",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpieDKhCISOwDuayC13qDX9x8Oh2xgD87NXzl0",
+            "cid": "18074599397705009681",
+            "fid": "0x80dc06f3435a1151:0xfad5e0638db24a11",
+            "placeId": "ChIJURFaQ_MG3IAREUqyjWPg1fo"
+        },
+        {
+            "position": 6,
+            "title": "Scripps Clinic Santee",
+            "address": "278 Town Center Pkwy STE 105, Santee, CA 92071",
+            "latitude": 32.844046999999996,
+            "longitude": -116.9847982,
+            "rating": 3.2,
+            "ratingCount": 60,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-santee?tab=overview",
+            "phoneNumber": "(619) 713-7880",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-eGsx-DJLzBu_VC7J2TJpquvu9nbzxDFBLhPtJN10YHHG6B1V8xWZ_6Pl3DutGcIigJnoZOfpxq_E9eJKN1ni7NqRJ5ycmzdUDBpHnWLyHCR9sBHFKJOSNyw1K5K9lMRdpJigP",
+            "cid": "1543958169577701371",
+            "fid": "0x80dbe2ab4f746933:0x156d3dc665bdbffb",
+            "placeId": "ChIJM2l0T6vi24AR-7-9ZcY9bRU"
+        },
+        {
+            "position": 7,
+            "title": "Scripps Coastal Medical Center Oceanside - Mission Avenue",
+            "address": "4318 Mission Ave, Oceanside, CA 92057",
+            "latitude": 33.2300614,
+            "longitude": -117.3114574,
+            "rating": 3.6,
+            "ratingCount": 90,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-healthexpress/walk-in-clinic-oceanside?tab=overview",
+            "phoneNumber": "(760) 901-5010",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9LMa7P_6NUjlzdBKHc08xc8fWKH_0Qd_pPWtPohUbV8OkrVpO4AUcfWL4RSlmE8Bl46tu9Vu9w41fiqvpWGwzkvxCa-LiuCuPPVSchD47OsvW1gPmxhgVL5FK37XkiPDd339eBag",
+            "cid": "11200862408672035863",
+            "fid": "0x80dc70f9b987b405:0x9b71750416ec4417",
+            "placeId": "ChIJBbSHuflw3IARF0TsFgR1cZs"
+        },
+        {
+            "position": 8,
+            "title": "Scripps Clinic Rancho San Diego - Calle Verde",
+            "address": "10862 Calle Verde, La Mesa, CA 91941",
+            "latitude": 32.7489986,
+            "longitude": -116.96008429999999,
+            "rating": 3.6,
+            "ratingCount": 52,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-rancho-san-diego/scripps-clinic-rancho-san-diego-calle-verde?tab=overview",
+            "phoneNumber": "(619) 670-5400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_tefVTYSrTaTGMip5STKF0JUj_qHQOemybkk92t8BctOcU5SGk7LsbEFFzEfi9hl6iSyah7utpwU8TKdgyuWLvxTPOj327mvQiYYn785gypzEJsZ4JLia5ajzZbqdGbIT_Sg1D",
+            "cid": "12299979050981281910",
+            "fid": "0x80d95a3d0c5d280d:0xaab24dc75e7c5076",
+            "placeId": "ChIJDShdDD1a2YARdlB8XsdNsqo"
+        },
+        {
+            "position": 9,
+            "title": "Scripps Clinic Urgent Care Rancho Bernardo",
+            "address": "15004 Innovation Dr, San Diego, CA 92128",
+            "latitude": 32.9889401,
+            "longitude": -117.0776614,
+            "rating": 2.9,
+            "ratingCount": 56,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.scripps.org/locations/urgent-care/scripps-urgent-care-rancho-bernardo?tab=overview",
+            "phoneNumber": "(858) 666-0264",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNRDQAgmAQEeya7FQ4SNeCGEx4X9nqTv22G8nQ",
+            "cid": "15880042971125542111",
+            "fid": "0x80dbf115deffa149:0xdc613ef237e06cdf",
+            "placeId": "ChIJSaH_3hXx24AR32zgN_I-Ydw"
+        },
+        {
+            "position": 10,
+            "title": "Scripps Coastal Medical Center Hillcrest",
+            "address": "501 Washington St Suites 525, 508, 600, San Diego, CA 92103",
+            "latitude": 32.749719899999995,
+            "longitude": -117.1600332,
+            "rating": 3,
+            "ratingCount": 64,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-coastal-medical-center/scripps-coastal-medical-center-hillcrest?tab=overview",
+            "phoneNumber": "(619) 278-3300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20137:30\u202fPM",
+                "Thursday": "7\u202fAM\u20137:30\u202fPM",
+                "Friday": "7\u202fAM\u20137:30\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-QIAGamUGKx6mMsNXPhhuIe1NxMFV_2Akvsv0uxBu4FofUZqTFiVyxtwAbvrDaEiH3URRu5Qh5fn8qG3R1osD2ecM2Up8u0i9JUSkmLpMA_iGu3OgxyV86iBdYvp4bg_QS92ar",
+            "cid": "7855249324958006509",
+            "fid": "0x80d954da5bf91e21:0x6d0373a4643fbced",
+            "placeId": "ChIJIR75W9pU2YAR7bw_ZKRzA20"
+        },
+        {
+            "position": 11,
+            "title": "Scripps Clinic Encinitas - 310 Santa Fe",
+            "address": "310 Santa Fe Dr, Encinitas, CA 92024",
+            "latitude": 33.0383425,
+            "longitude": -117.28538449999999,
+            "rating": 3.4,
+            "ratingCount": 22,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-encinitas/scripps-clinic-encinitas-310-santa-fe?tab=overview",
+            "phoneNumber": "(760) 753-5594",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3EtHldx5JYf-fQvuSZ-S9ivyYnC1XiggJ4vQ",
+            "cid": "5412491839421211098",
+            "fid": "0x80dc0c149d2775fb:0x4b1d08a6be66e1da",
+            "placeId": "ChIJ-3UnnRQM3IAR2uFmvqYIHUs"
+        },
+        {
+            "position": 12,
+            "title": "Scripps Clinic Del Mar",
+            "address": "12395 El Camino Real, San Diego, CA 92130",
+            "latitude": 32.943147599999996,
+            "longitude": -117.2392728,
+            "rating": 2.5,
+            "ratingCount": 28,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-del-mar?tab=overview",
+            "phoneNumber": "(858) 554-7272",
+            "openingHours": {
+                "Tuesday": "7:45\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20135\u202fPM",
+                "Thursday": "7:45\u202fAM\u20137\u202fPM",
+                "Friday": "7:45\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:45\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONhUU9rPlA8_3xRr5ZQshbxkvCqaK7faqpYIKH",
+            "cid": "2299706347867460717",
+            "fid": "0x80dc06214683085d:0x1fea32bd3059d46d",
+            "placeId": "ChIJXQiDRiEG3IARbdRZML0y6h8"
+        },
+        {
+            "position": 13,
+            "title": "Scripps Clinic Liberty Station",
+            "address": "2445 Truxtun Rd #200, San Diego, CA 92106",
+            "latitude": 32.736546499999996,
+            "longitude": -117.2165339,
+            "rating": 3.2,
+            "ratingCount": 28,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-liberty-station?tab=overview",
+            "phoneNumber": "(619) 737-3763",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrRpM5nTdvI80cBrnX2XkQi1ICAsWDE_VuYo8q",
+            "cid": "14692367155382121988",
+            "fid": "0x80deabe19a367ca3:0xcbe5c615962af604",
+            "placeId": "ChIJo3w2muGr3oARBPYqlhXG5cs"
+        },
+        {
+            "position": 14,
+            "title": "Scripps Coastal Medical Center Eastlake",
+            "address": "971 Lane Ave, Chula Vista, CA 91914",
+            "latitude": 32.6501443,
+            "longitude": -116.9603142,
+            "rating": 3.2,
+            "ratingCount": 56,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-healthexpress/walk-in-clinic-eastlake?tab=overview",
+            "phoneNumber": "(619) 502-7300",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOa-5hapIfOH_8JWuxDKlZluJudXqGp7yHeOU-D",
+            "cid": "13373490994281033425",
+            "fid": "0x80d945134c23bbff:0xb9982f341901aed1",
+            "placeId": "ChIJ_7sjTBNF2YAR0a4BGTQvmLk"
+        },
+        {
+            "position": 15,
+            "title": "Scripps Clinic Encinitas - 326 Santa Fe",
+            "address": "326 Santa Fe Dr, Encinitas, CA 92024",
+            "latitude": 33.0402367,
+            "longitude": -117.2851065,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-encinitas/scripps-clinic-encinitas-326-santa-fe?tab=overview",
+            "phoneNumber": "(760) 753-5594",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "9\u202fAM\u20131\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN42pejLsV6tA1R7OEQYxfYzIkf6KvnUZ6kf6aT",
+            "cid": "9723341638155959346",
+            "fid": "0x80dc0dc0d878c471:0x86f03fb4140cfc32",
+            "placeId": "ChIJccR42MAN3IARMvwMFLQ_8IY"
+        },
+        {
+            "position": 16,
+            "title": "Scripps Coastal Medical Center Carlsbad",
+            "address": "2176 Salk Ave, Carlsbad, CA 92008",
+            "latitude": 33.1401803,
+            "longitude": -117.2783048,
+            "rating": 3.5,
+            "ratingCount": 60,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-coastal-medical-center/scripps-coastal-medical-center-carlsbad?tab=overview",
+            "phoneNumber": "(858) 252-1539",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNRnCdf1Gk9dQd2i47flYfknmyFIKEEmgxaM4F",
+            "cid": "17442553889826419977",
+            "fid": "0x80dc737a17a2007d:0xf210665922b63509",
+            "placeId": "ChIJfQCiF3pz3IARCTW2IllmEPI"
+        },
+        {
+            "position": 17,
+            "title": "Scripps Medical Center Jefferson",
+            "address": "2205 Vista Way Ste 310, Oceanside, CA 92054",
+            "latitude": 33.182702299999995,
+            "longitude": -117.33841819999999,
+            "rating": 3.4,
+            "ratingCount": 108,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cardiologist",
+                "Obstetrician-gynecologist",
+                "Laboratory",
+                "Medical clinic",
+                "Optometrist",
+                "Orthopedic clinic",
+                "Urologist",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.scripps.org/locations/specialty-centers/scripps-medical-center-jefferson?tab=overview",
+            "phoneNumber": "(760) 280-7464",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20135\u202fPM",
+                "Thursday": "6:30\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.scripps.org/smcjgmb"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO94xGBxCw8n1xrtPhwq83nnDWyPbQhuOHl6Zyc",
+            "cid": "5358663324360325750",
+            "fid": "0x80dc717ce7bbad13:0x4a5dcbe6ef693a76",
+            "placeId": "ChIJE62753xx3IARdjpp7-bLXUo"
+        },
+        {
+            "position": 18,
+            "title": "Scripps HealthExpress Rancho San Diego",
+            "address": "10862 Calle Verde, La Mesa, CA 91941",
+            "latitude": 32.7489986,
+            "longitude": -116.96008429999999,
+            "rating": 3.3,
+            "ratingCount": 14,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-healthexpress/walk-in-clinic-rancho-san-diego?tab=overview",
+            "phoneNumber": "(858) 247-3528",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.scripps.org/shexrsdg"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFqhF1HJVwI-1pk2YY2RA9Mch31QzQZlvdFf8p",
+            "cid": "5691604288600614222",
+            "fid": "0x80d95bfa6b620c13:0x4efca3f1f021254e",
+            "placeId": "ChIJEwxia_pb2YARTiUh8PGj_E4"
+        },
+        {
+            "position": 19,
+            "title": "Scripps Coastal Medical Center Encinitas",
+            "address": "477 North El Camino Real Suites 208A and 303B, 477 N El Camino Real, Encinitas, CA 92024",
+            "latitude": 33.0571331,
+            "longitude": -117.26130699999999,
+            "rating": 3.1,
+            "ratingCount": 51,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-coastal-medical-center/scripps-coastal-medical-center-encinitas",
+            "phoneNumber": "(760) 479-3900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Rs1Tei74dh9rlBYr8NifD7klRmOJL9TN8DAExB-mXBthHIaR79Tj9brlFQ2ZWW4npMVCgHzkz03YiSlXn4kM_JjslW7m-BVpUewyR9lNGfyiXBoC_bAuSeKXw1LOAYUZOmshmvg",
+            "cid": "6787100959460591145",
+            "fid": "0x80dc0b860f9fbad7:0x5e30a05cef5c8629",
+            "placeId": "ChIJ17qfD4YL3IARKYZc71ygMF4"
+        },
+        {
+            "position": 20,
+            "title": "Scripps Clinic John R. Anderson V Medical Pavilion",
+            "address": "9898 Genesee Ave, La Jolla, CA 92037",
+            "latitude": 32.8843387,
+            "longitude": -117.2244128,
+            "rating": 4,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-john-r-anderson-v-medical-pavilion?tab=overview",
+            "phoneNumber": "(858) 824-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_u7TMnXCIxwLSpato6RDgei09I6VLIiYmxfOUTsBaCS9HTHwp26y8avAVodAJasCyJec2ORtybX3-68YT8zxmzUIOlBzPbYXJikmL29CuCXG4G4y3XeKXQea1YVCzLDwJZYD15",
+            "cid": "15168092640848428782",
+            "fid": "0x80dc06de0e313e47:0xd27fe3e491fcbeee",
+            "placeId": "ChIJRz4xDt4G3IAR7r78keTjf9I"
+        }
+    ],
+    "credits": 3
+}

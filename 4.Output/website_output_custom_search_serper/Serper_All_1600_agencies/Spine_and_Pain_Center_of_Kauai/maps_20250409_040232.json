@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Spine and Pain Center of Kauai",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.8979337,-159.4656491,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Spine and Pain Center of Kauai,",
+            "address": "3176 Poipu Rd, Koloa, HI 96756",
+            "latitude": 21.8979337,
+            "longitude": -159.46564909999998,
+            "rating": 3.7,
+            "ratingCount": 15,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic"
+            ],
+            "website": "http://spckauai.com/",
+            "phoneNumber": "(808) 378-4439",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgn6ZX7T69y46zYXoigR2eCu9AMnHy6cj0rAi6",
+            "cid": "9336072730581658427",
+            "fid": "0x7c071ada8850a4a5:0x819064af0f87eb3b",
+            "placeId": "ChIJpaRQiNoaB3wRO-uHD69kkIE"
+        }
+    ],
+    "credits": 3
+}

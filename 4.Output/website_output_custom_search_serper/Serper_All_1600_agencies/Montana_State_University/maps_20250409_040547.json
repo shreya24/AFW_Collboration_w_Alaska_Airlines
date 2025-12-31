@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Montana State University",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6617317,-111.053021,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montana State University",
+            "address": "Culbertson Hall, 100, Bozeman, MT 59717",
+            "latitude": 45.6673524,
+            "longitude": -111.05462109999999,
+            "rating": 4.1,
+            "ratingCount": 265,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "School",
+                "University"
+            ],
+            "website": "https://www.montana.edu/",
+            "phoneNumber": "(406) 994-0211",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNlFSK7D3MdBvfMOkAtiyniv3YcDLwyqqIKXBKc",
+            "cid": "15347807169726484945",
+            "fid": "0x5345450ed50f17f3:0xd4fe5d4e00bd91d1",
+            "placeId": "ChIJ8xcP1Q5FRVMR0ZG9AE5d_tQ"
+        },
+        {
+            "position": 2,
+            "title": "Montana State University",
+            "address": "2327 University Way, Bozeman, MT 59715",
+            "latitude": 45.6561111,
+            "longitude": -111.0514209,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "http://www.montana.edu/",
+            "phoneNumber": "(406) 994-6100",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t9IICpSMdXgIMT-MuuqKVA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=258.9711&pitch=0&thumbfov=100",
+            "cid": "21821993020573514",
+            "fid": "0x5345450ed50f17f3:0x4d86fcae48474a",
+            "placeId": "ChIJ8xcP1Q5FRVMRSkdIrvyGTQA"
+        }
+    ],
+    "credits": 3
+}

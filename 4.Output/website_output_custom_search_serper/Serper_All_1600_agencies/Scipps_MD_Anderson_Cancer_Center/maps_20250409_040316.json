@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "Scipps MD Anderson Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8230696,-117.2004984,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Cancer Center, John J. Hopkins",
+            "address": "10670 John Jay Hopkins Dr, San Diego, CA 92121",
+            "latitude": 32.8966093,
+            "longitude": -117.24109849999999,
+            "rating": 3.8,
+            "ratingCount": 15,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.scripps.org/locations/specialty-centers/cancer-centers/scripps-cancer-center-john-j-hopkins",
+            "phoneNumber": "(858) 261-5267",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeOIPeiNWCs19JFVzy1xf2tDjyCEqSc3Zw3klg",
+            "cid": "1391244513610992124",
+            "fid": "0x80dc06f2560ee68b:0x134eb183957e89fc",
+            "placeId": "ChIJi-YOVvIG3IAR_Il-lYOxThM"
+        },
+        {
+            "position": 2,
+            "title": "Scripps Cancer Center",
+            "address": "4060-4040 Fourth Ave, San Diego, CA 92103",
+            "latitude": 32.7509593,
+            "longitude": -117.1616169,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNasc0UceaH7tQ9fLju1WKjYx4BehdHKhnZWYdh",
+            "cid": "14200763417449644968",
+            "fid": "0x80d955e288ef9f47:0xc5133f16dc72c3a8",
+            "placeId": "ChIJR5_viOJV2YARqMNy3BY_E8U"
+        },
+        {
+            "position": 3,
+            "title": "Scripps MD Anderson Cancer Center, Washington Street",
+            "address": "501 Washington St # 508, San Diego, CA 92103",
+            "latitude": 32.7495299,
+            "longitude": -117.1598982,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "phoneNumber": "(800) 727-4777",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPH_CAe922mMw29Hc5uhqY9KM5DnPVF911FdrBJ",
+            "cid": "6465408667812454940",
+            "fid": "0x80d954da0ec342c9:0x59b9beed9cb1621c",
+            "placeId": "ChIJyULDDtpU2YARHGKxnO2-uVk"
+        }
+    ],
+    "credits": 3
+}

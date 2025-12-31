@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Totally Kids Specialty Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2336908,-118.3641967,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Totally Kids Specialty Healthcare - Sun Valley",
+            "address": "10716 La Tuna Canyon Rd, Sun Valley, CA 91352",
+            "latitude": 34.2336908,
+            "longitude": -118.3641967,
+            "rating": 3.6,
+            "ratingCount": 16,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Children Policlinic",
+                "Nursing home"
+            ],
+            "website": "https://totallykidssvsh.com/",
+            "phoneNumber": "(818) 252-5863",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSP4FYeq3uEnveBWBAZ5LtV9PiGRbs5chojDWI",
+            "cid": "4549517817064712111",
+            "fid": "0x80c29472198276f9:0x3f232259a973e7af",
+            "placeId": "ChIJ-XaCGXKUwoARr-dzqVkiIz8"
+        }
+    ],
+    "credits": 3
+}

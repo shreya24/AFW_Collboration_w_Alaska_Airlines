@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Phoenix Baptist Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5249264,-112.10203,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Abrazo Central Campus",
+            "address": "2000 W Bethany Home Rd, Phoenix, AZ 85015",
+            "latitude": 33.5249264,
+            "longitude": -112.10203,
+            "rating": 2.3,
+            "ratingCount": 647,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.abrazohealth.com/locations/detail/abrazo-central-campus/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-abrazo-central-campus&utm_medium=google-local",
+            "phoneNumber": "(602) 249-0212",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdDQVLtYxzCbAMx0ARk7bMpBYhJ0h-4SLANZ00",
+            "cid": "3523169894336983978",
+            "fid": "0x872b6cd35d740e89:0x30e4d05a334e73aa",
+            "placeId": "ChIJiQ50XdNsK4cRqnNOM1rQ5DA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Skull Base Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0741081,-118.3808825,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Skull Base Institute",
+            "address": "8635 W 3rd St #1170, Los Angeles, CA 90048",
+            "latitude": 34.0741081,
+            "longitude": -118.3808825,
+            "rating": 4.5,
+            "ratingCount": 15,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Surgeon"
+            ],
+            "website": "http://www.skullbaseinstitute.com/",
+            "phoneNumber": "(310) 691-8888",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20133\u202fPM",
+                "Wednesday": "7\u202fAM\u20133\u202fPM",
+                "Thursday": "7\u202fAM\u20133\u202fPM",
+                "Friday": "7\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uRpmqbkR5MCef-qlz1V0PQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=354.92453&pitch=0&thumbfov=100",
+            "cid": "12898576925410853924",
+            "fid": "0x80c2b94d5ebb08a3:0xb300f35fc32a0424",
+            "placeId": "ChIJowi7Xk25woARJAQqw1_zALM"
+        }
+    ],
+    "credits": 3
+}

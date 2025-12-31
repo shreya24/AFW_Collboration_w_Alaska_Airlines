@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "Tahoe Forest Health System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.3297389,-120.1925913,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tahoe Forest Hospital",
+            "address": "10121 Pine Ave, Truckee, CA 96161",
+            "latitude": 39.3250023,
+            "longitude": -120.2008096,
+            "rating": 3.4,
+            "ratingCount": 122,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Home health care service",
+                "Hospital",
+                "Nursing home"
+            ],
+            "website": "http://www.tfhd.com/",
+            "phoneNumber": "(530) 587-6011",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_myi65CJ0epsfilpSF1Q9gzGl8UZ74BCLuDNnkCOelFeG24jsx9FBdR8BJ3NjdnnNNqul4dMzR2NFTfFVTfUvtBBZ0CXh9xPDgj_LE5ixMgY6201IOQu6NXlhK4919hEJCS0p6",
+            "cid": "3643372607338934922",
+            "fid": "0x809bdfc8fb61e70f:0x328fdc153cd3728a",
+            "placeId": "ChIJD-dh-8jfm4ARinLTPBXcjzI"
+        },
+        {
+            "position": 2,
+            "title": "Tahoe Forest Access Center",
+            "address": "10875 Pioneer Trail, Truckee, CA 96161",
+            "latitude": 39.334475399999995,
+            "longitude": -120.1817413,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "http://www.tfhd.com/",
+            "phoneNumber": "(530) 582-6205",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8boas0jpGFDub3hr15Fiu-Ofle1tVLdIuERxdUVTvCkGaGM451OB2oHpnnwzsyC-0-ePD_eNsnvf-IUYdw5ncBKalkC1sr-wnD7ytEdAy5MIIaMoecKyiGqeXiJdBcuF_E04jjVA",
+            "cid": "18329097193935635698",
+            "fid": "0x809bdfe5db47d29d:0xfe5e08c9422484f2",
+            "placeId": "ChIJndJH2-Xfm4AR8oQkQskIXv4"
+        },
+        {
+            "position": 3,
+            "title": "Tahoe Forest Health System Foundation",
+            "address": "11075 Donner Pass Rd, Truckee, CA 96161",
+            "latitude": 39.3257589,
+            "longitude": -120.2034413,
+            "type": "Foundation",
+            "types": [
+                "Foundation"
+            ],
+            "website": "http://www.tfhd.com/",
+            "phoneNumber": "(530) 582-6277",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HSO0an-cfjQJMkTKgIuMZQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=100.100975&pitch=0&thumbfov=100",
+            "cid": "11697146932248156807",
+            "fid": "0x809bdf33eff473af:0xa2549d2926339a87",
+            "placeId": "ChIJr3P07zPfm4ARh5ozJimdVKI"
+        }
+    ],
+    "credits": 3
+}

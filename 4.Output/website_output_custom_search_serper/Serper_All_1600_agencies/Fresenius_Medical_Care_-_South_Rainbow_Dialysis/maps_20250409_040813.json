@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "Fresenius Medical Care - South Rainbow Dialysis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.080655,-115.242953,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fresenius Kidney Care South Rainbow",
+            "address": "7040 W Sunset Rd, Las Vegas, NV 89113",
+            "latitude": 36.071196,
+            "longitude": -115.2452666,
+            "rating": 3,
+            "ratingCount": 7,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.freseniuskidneycare.com/dialysis-centers/nevada/4290?utm_campaign=Website&utm_medium=&utm_source=YextGMB&utm_content=4290&y_source=1_MjYyMjYzMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(800) 881-5101",
+            "openingHours": {
+                "Tuesday": "3:30\u202fAM\u201311:30\u202fPM",
+                "Wednesday": "3:30\u202fAM\u201311:30\u202fPM",
+                "Thursday": "3:30\u202fAM\u201311:30\u202fPM",
+                "Friday": "3:30\u202fAM\u201311:30\u202fPM",
+                "Saturday": "3:30\u202fAM\u201311:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "3:30\u202fAM\u201311:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOY3ndxDGiBzTtxxlt-mlAHRqTRN7Iebv9vyatG",
+            "cid": "4191511597304286217",
+            "fid": "0x80c8c7b74bdaffd1:0x3a2b3d9715408c09",
+            "placeId": "ChIJ0f_aS7fHyIARCYxAFZc9Kzo"
+        },
+        {
+            "position": 2,
+            "title": "Fresenius Kidney Care",
+            "address": "5815 S Rainbow Blvd, Las Vegas, NV 89118",
+            "latitude": 36.0830614,
+            "longitude": -115.24324639999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "website": "https://www.freseniuskidneycare.com/",
+            "phoneNumber": "(702) 425-1560",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUYimpHyVuRORKMs4jjmFg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=313.2292&pitch=0&thumbfov=100",
+            "cid": "14710490306665016915",
+            "fid": "0x80c8c7a94254d623:0xcc2628fe90986e53",
+            "placeId": "ChIJI9ZUQqnHyIARU26YkP4oJsw"
+        },
+        {
+            "position": 3,
+            "title": "Fresenius Medical Care at Spring Valley Hospital",
+            "address": "5400 S Rainbow Blvd, Las Vegas, NV 89118",
+            "latitude": 36.090114,
+            "longitude": -115.2406395,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center",
+                "Hospital",
+                "Medical Center",
+                "Medical clinic",
+                "Physical therapist"
+            ],
+            "website": "http://www.ultracare-dialysis.com/",
+            "phoneNumber": "(702) 853-3000",
+            "cid": "16498490150590690553",
+            "fid": "0x80c8c70119aaf47d:0xe4f66961143d34f9",
+            "placeId": "ChIJffSqGQHHyIAR-TQ9FGFp9uQ"
+        }
+    ],
+    "credits": 3
+}

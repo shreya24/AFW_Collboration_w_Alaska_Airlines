@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Hoag Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6427394,-117.850773,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hoag Hospital - Newport Beach",
+            "address": "1 Hoag Dr, Newport Beach, CA 92663",
+            "latitude": 33.6248447,
+            "longitude": -117.92924149999999,
+            "rating": 3.5,
+            "ratingCount": 462,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.hoag.org/locations/hoag-hospital-newport-beach/?utm_medium=local&utm_campaign=Yext&utm_source=google",
+            "phoneNumber": "(949) 764-4624",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-kH0qqMU-z1YHRXjBgS0yyLBH4EjsQXQFHl_rJqhQFNOJ8ZMUNzo0JCiK-vKKZ1dTPO6PgxuzX40Y2nuODewHXjLpWz8bqA0hf8K4TXJ3Tuze-SbmsUNkX9y5ac5ugW97u_GSG",
+            "cid": "14006018849062251160",
+            "fid": "0x80dd2008c36dec13:0xc25f5fefa7c7ea98",
+            "placeId": "ChIJE-xtwwgg3YARmOrHp-9fX8I"
+        },
+        {
+            "position": 2,
+            "title": "Hoag Hospital - Irvine",
+            "address": "16200 Sand Canyon Ave, Irvine, CA 92618",
+            "latitude": 33.660634,
+            "longitude": -117.7723046,
+            "rating": 3.1,
+            "ratingCount": 318,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.hoag.org/locations/hoag-hospital-irvine/?utm_medium=local&utm_campaign=Yext&utm_source=google",
+            "phoneNumber": "(949) 764-4624",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcVK9nHPbNeB03zNaz7hxDRQLV6FYghyJbPBgM",
+            "cid": "17545929282466095732",
+            "fid": "0x80dcdd701e2e8561:0xf37fa9b857842274",
+            "placeId": "ChIJYYUuHnDd3IARdCKEV7ipf_M"
+        }
+    ],
+    "credits": 3
+}

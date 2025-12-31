@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Camp Magical Moments",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4383155,-111.3055083,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Magical Moments",
+            "address": "956 Rainey Creek Rd, Swan Valley, ID 83449",
+            "latitude": 43.438315499999995,
+            "longitude": -111.3055083,
+            "rating": 4.7,
+            "ratingCount": 3,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "http://www.campmagicalmoments.org/",
+            "phoneNumber": "(208) 483-4345",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ca4r0D7C_fsay4iO6pgx-Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=102.23641&pitch=0&thumbfov=100",
+            "cid": "7147821230015354565",
+            "fid": "0x53537b5d421bf893:0x63322989b50f96c5",
+            "placeId": "ChIJk_gbQl17U1MRxZYPtYkpMmM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "USC Pain Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0626204,-118.2027107,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Keck Medicine of USC - USC Pain Center (HC2)",
+            "address": "1520 San Pablo St #3450, Los Angeles, CA 90033",
+            "latitude": 34.0626204,
+            "longitude": -118.2027107,
+            "rating": 3.5,
+            "ratingCount": 8,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic"
+            ],
+            "website": "https://www.keckmedicine.org/locations/los-angeles/1520-san-pablo-st/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP1gROdn2qiMwie37_9a7aPhpKqyNNObEzwFiU",
+            "cid": "13867066388659592309",
+            "fid": "0x80c2c5d92a37afcd:0xc071b768dcd05c75",
+            "placeId": "ChIJza83KtnFwoARdVzQ3Gi3ccA"
+        }
+    ],
+    "credits": 3
+}

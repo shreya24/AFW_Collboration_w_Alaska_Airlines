@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Northern Hearing Services Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.3824264,-149.63258,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Hearing Services Inc",
+            "address": "4200 Lake Otis Pkwy STE 302, Anchorage, AK 99508",
+            "latitude": 61.1820272,
+            "longitude": -149.8388063,
+            "rating": 5,
+            "ratingCount": 123,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Audiologist"
+            ],
+            "website": "https://www.hearalaska.com/",
+            "phoneNumber": "(907) 561-1326",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=orQztc6V-uTmibVsb95TFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=270.81952&pitch=0&thumbfov=100",
+            "cid": "12531624225592934925",
+            "fid": "0x56c897a7c097f67f:0xade945d67925820d",
+            "placeId": "ChIJf_aXwKeXyFYRDYIledZF6a0"
+        },
+        {
+            "position": 2,
+            "title": "Northern Hearing Services Inc",
+            "address": "935 Westpoint Dr STE 101, Wasilla, AK 99654",
+            "latitude": 61.5828256,
+            "longitude": -149.4263538,
+            "rating": 4.9,
+            "ratingCount": 60,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Audiologist"
+            ],
+            "website": "https://hearalaska.com/",
+            "phoneNumber": "(907) 357-1326",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=akRC7feualnkE-sCB1TAew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=29.571815&pitch=0&thumbfov=100",
+            "cid": "18394943965691000029",
+            "fid": "0x56c8de1436e361a1:0xff47f813823a34dd",
+            "placeId": "ChIJoWHjNhTeyFYR3TQ6ghP4R_8"
+        }
+    ],
+    "credits": 3
+}

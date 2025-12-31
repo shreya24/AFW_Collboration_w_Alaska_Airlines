@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Dr. Javed Ahmad",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@26.8778041,80.9206444,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr Jawed Ahmed",
+            "address": "police post, Sitapur Rd, near madehgunj, Khadra, Hasanganj, Lucknow, Uttar Pradesh 226020, India",
+            "latitude": 26.8778041,
+            "longitude": 80.9206444,
+            "rating": 4,
+            "ratingCount": 61,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center",
+                "Doctor",
+                "Medical clinic",
+                "Pulmonologist",
+                "Surgeon"
+            ],
+            "phoneNumber": "+91 87560 96857",
+            "menu": "https://twitter.com/drjawedahmed1",
+            "openingHours": {
+                "Wednesday": "6\u201310\u202fPM",
+                "Thursday": "6\u201310\u202fPM",
+                "Friday": "6\u201310\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "6\u201310\u202fPM",
+                "Monday": "6\u201310\u202fPM",
+                "Tuesday": "6\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-PkE8UfcD0aR76Inng_7QDXwiYVJYNMvnJm4JHpfaoz6HqGp_cFXLFgvLBHbY7ue1I1cqcPw4_97CewCmkr5OBXTZE3tkDEnAPFD_J5jn5XMY-Kq8CFVvz-Bz2HdQN63vLfPYsBw",
+            "cid": "8993604661823954084",
+            "fid": "0x399bfd37f8a53171:0x7ccfb3ca2e505ca4",
+            "placeId": "ChIJcTGl-Df9mzkRpFxQLsqzz3w"
+        }
+    ],
+    "credits": 3
+}

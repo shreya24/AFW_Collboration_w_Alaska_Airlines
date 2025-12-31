@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "University of New Mexico Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0882062,-106.6189678,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Hospital",
+            "address": "2211 Lomas Blvd NE, Albuquerque, NM 87106",
+            "latitude": 35.0882062,
+            "longitude": -106.6189678,
+            "rating": 2.6,
+            "ratingCount": 823,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Hospital"
+            ],
+            "website": "http://hsc.unm.edu/health",
+            "phoneNumber": "(505) 272-2111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrMWFei3iepeaQnnxpYWGUyV5pnQFZSttmxlnc_tDpBQ03XYptpZoBYaQQieOcpJZQ2nvaipj_XFBk7vCJTb01geW5KjIc7M5zomhV31EY2scXd3sxEPoGzLlxqwdr_R9mOTvfuw",
+            "cid": "2436318359238577562",
+            "fid": "0x87220cced1ec8075:0x21cf8aa3ba2d8d9a",
+            "placeId": "ChIJdYDs0c4MIocRmo0tuqOKzyE"
+        }
+    ],
+    "credits": 3
+}

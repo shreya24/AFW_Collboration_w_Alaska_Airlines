@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "University of Nevada School of Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.853467,-117.4891742,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University of Nevada, Reno School of Medicine",
+            "address": "1664 N Virginia St, Reno, NV 89557",
+            "latitude": 39.5489648,
+            "longitude": -119.8140505,
+            "rating": 3.9,
+            "ratingCount": 17,
+            "type": "University",
+            "types": [
+                "University",
+                "Medical school"
+            ],
+            "website": "https://med.unr.edu/",
+            "phoneNumber": "(775) 784-6063",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://med.unr.edu/university-health"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMlFxwOP43_Ex33Uiuj9I1un0n_iuomNtljQdjE",
+            "cid": "7007773815222004779",
+            "fid": "0x80c8c392d80b6cfd:0x61409d27fa976c2b",
+            "placeId": "ChIJ_WwL2JLDyIARK2yX-iedQGE"
+        },
+        {
+            "position": 2,
+            "title": "University of Nevada School of Medicine",
+            "address": "1707 W Charleston Blvd, Las Vegas, NV 89102",
+            "latitude": 36.157969099999995,
+            "longitude": -115.1642979,
+            "rating": 3.8,
+            "ratingCount": 25,
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "https://www.unlv.edu/medicine",
+            "phoneNumber": "(702) 671-5070",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_1k9JtJbYDTSx7YTq_X0r7KJR10GP8t031Ve220Y3808dCfFD1vZYjEJRmRMb2BYJvP5o3Pr7LtS2vfn6kkGMUpZ7NFt1qDdkg3hS0OM03y76hESvulzW2Bf48qzKb3Iov2CMh",
+            "cid": "9338248746235461821",
+            "fid": "0x80c8c392d80b6cfd:0x81981fc22f9a00bd",
+            "placeId": "ChIJ_WwL2JLDyIARvQCaL8IfmIE"
+        }
+    ],
+    "credits": 3
+}

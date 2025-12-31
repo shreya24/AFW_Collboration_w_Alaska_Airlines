@@ -1,0 +1,148 @@
+{
+    "searchParameters": {
+        "q": "CHMG Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.9116269,-75.4537395,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Primary Care Crozer",
+            "address": "1 Medical Center Blvd #532, Chester, PA 19013",
+            "latitude": 39.8559777,
+            "longitude": -75.36790909999999,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Internist"
+            ],
+            "website": "http://www.crozerkeystone.org/",
+            "phoneNumber": "(610) 447-6788",
+            "cid": "8890181074250411249",
+            "fid": "0x89c6e7dcdc4a717f:0x7b604495b798acf1",
+            "placeId": "ChIJf3FK3NznxokR8ayYt5VEYHs"
+        },
+        {
+            "position": 2,
+            "title": "Primary Care Crum Lynne",
+            "address": "1553 Chester Pike #201, Crum Lynne, PA 19022",
+            "latitude": 39.8663558,
+            "longitude": -75.3430709,
+            "rating": 2.8,
+            "ratingCount": 40,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "http://www.crozerkeystone.org/",
+            "phoneNumber": "(610) 499-7180",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wset6Hso2u35Q8DnX0qq8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=312.79822&pitch=0&thumbfov=100",
+            "cid": "4326396291993235251",
+            "fid": "0x89c6e802201b490d:0x3c0a72815dd2ef33",
+            "placeId": "ChIJDUkbIALoxokRM-_SXYFyCjw"
+        },
+        {
+            "position": 3,
+            "title": "Primary Care and Travel Medicine Crozer",
+            "address": "30 Medical Center Blvd POB I, Suite 306, UPPR CHICHSTR, PA 19013",
+            "latitude": 39.856178199999995,
+            "longitude": -75.3667906,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "https://www.crozerkeystone.org/locations/practices/c/crozer-internal-medicine/",
+            "phoneNumber": "(610) 619-8500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PwzzJXttmI0kGHinpjOHAg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=148.30574&pitch=0&thumbfov=100",
+            "cid": "5183480356079087761",
+            "fid": "0x89c6e7dd177e0e0d:0x47ef6bebac4f3091",
+            "placeId": "ChIJDQ5-F93nxokRkTBPrOtr70c"
+        },
+        {
+            "position": 4,
+            "title": "West Chester Internal Medicine",
+            "address": "835 West Chester Pike, West Chester, PA 19380",
+            "latitude": 39.967276,
+            "longitude": -75.58696499999999,
+            "rating": 4.9,
+            "ratingCount": 34,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "website": "http://www.westchesterim.com/",
+            "phoneNumber": "(610) 696-0127",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORJW_m3v7DOjw-AlRdfd2nhpF3es3scNUUrnq2",
+            "cid": "11462840990905498925",
+            "fid": "0x89c6f15c1d303531:0x9f14312603b57d2d",
+            "placeId": "ChIJMTUwHVzxxokRLX21AyYxFJ8"
+        },
+        {
+            "position": 5,
+            "title": "Internists Associates",
+            "address": "100 E Chester Pike, Ridley Park, PA 19078",
+            "latitude": 39.87654,
+            "longitude": -75.320514,
+            "rating": 3.9,
+            "ratingCount": 43,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "General practitioner",
+                "Internist"
+            ],
+            "website": "http://www.internassoc.com/",
+            "phoneNumber": "(610) 521-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsnQlyrdeAXq2zOEJikGndx6j3Ci0LequlS1J8",
+            "cid": "7285818158005773839",
+            "fid": "0x89c6c2beff426b43:0x651c6d034606660f",
+            "placeId": "ChIJQ2tC_77CxokRD2YGRgNtHGU"
+        }
+    ],
+    "credits": 3
+}

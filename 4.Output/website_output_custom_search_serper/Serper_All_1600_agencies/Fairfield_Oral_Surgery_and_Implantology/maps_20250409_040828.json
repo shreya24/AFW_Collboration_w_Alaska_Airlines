@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Fairfield Oral Surgery and Implantology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2577892,-122.0472165,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fairfield Oral Surgery and Implantology",
+            "address": "1590 Webster St Suite E, Fairfield, CA 94533",
+            "latitude": 38.2577892,
+            "longitude": -122.04721649999999,
+            "rating": 4.3,
+            "ratingCount": 578,
+            "type": "Oral surgeon",
+            "types": [
+                "Oral surgeon",
+                "Dental implants periodontist",
+                "Emergency dental service"
+            ],
+            "website": "https://www.bayareaosm.com/locations/fairfield-oral-surgery-implantology",
+            "phoneNumber": "(707) 606-1575",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO0snhgrFjrUFTAUmVKxyqCXGKt2bxtssZVv64z",
+            "cid": "8015008321391321837",
+            "fid": "0x8085142fc9534e69:0x6f3b079a5c5462ed",
+            "placeId": "ChIJaU5TyS8UhYAR7WJUXJoHO28"
+        }
+    ],
+    "credits": 3
+}

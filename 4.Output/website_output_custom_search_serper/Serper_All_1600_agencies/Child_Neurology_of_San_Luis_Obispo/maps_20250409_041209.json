@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Child Neurology of San Luis Obispo",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.5557205,-120.722646,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Child Neurology of SLO",
+            "address": "OMKAR PROFESSIONAL BUILDING NORTH, 1320 Las Tablas Rd STE E, Templeton, CA 93465",
+            "latitude": 35.5557205,
+            "longitude": -120.722646,
+            "type": "Pediatric neurologist",
+            "types": [
+                "Pediatric neurologist"
+            ],
+            "website": "http://www.cnslo.com/",
+            "phoneNumber": "(805) 434-0960",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20132\u202fPM",
+                "Wednesday": "8\u202fAM\u20132\u202fPM",
+                "Thursday": "8\u202fAM\u20132\u202fAM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lfSvEfz21tGlEOK4TZ5otw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=73.52424&pitch=0&thumbfov=100",
+            "cid": "10012829490598688065",
+            "fid": "0x80ecdb50862acdfb:0x8af4b75f17b0b541",
+            "placeId": "ChIJ-80qhlDb7IARQbWwF1-39Io"
+        }
+    ],
+    "credits": 3
+}

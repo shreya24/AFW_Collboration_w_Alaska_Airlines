@@ -1,0 +1,95 @@
+{
+    "searchParameters": {
+        "q": "Abrams Eye Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0382855,-115.1927874,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jack Abrams, MD",
+            "address": "6450 Medical Center St #100, Las Vegas, NV 89148",
+            "latitude": 36.071159,
+            "longitude": -115.291428,
+            "rating": 3.8,
+            "ratingCount": 23,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist",
+                "Ophthalmology clinic",
+                "Optometrist"
+            ],
+            "website": "https://www.abramseyeinstitute.com/locations/las-vegas/?utm_source=healthgrades&utm_medium=local&utm_campaign=clinic-las-vegas&utm_content=website",
+            "phoneNumber": "(702) 425-8465",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.abramseyeinstitute.com/schedule-appointment/?utm_source=google&utm_medium=local&utm_campaign=clinic-las-vegas&utm_content=appt"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dLJ7kPl8Xqj2i1lgFa2H7w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=226.48424&pitch=0&thumbfov=100",
+            "cid": "16685269827079004296",
+            "fid": "0x80c8b87c74186d27:0xe78dfc8160966088",
+            "placeId": "ChIJJ20YdHy4yIARiGCWYIH8jec"
+        },
+        {
+            "position": 2,
+            "title": "Abrams Eye Institute",
+            "address": "6450 Medical Center St #100, Las Vegas, NV 89148",
+            "latitude": 36.0711973,
+            "longitude": -115.29135509999999,
+            "rating": 4.9,
+            "ratingCount": 697,
+            "type": "Ophthalmology clinic",
+            "types": [
+                "Ophthalmology clinic",
+                "Eye care center",
+                "Lasik surgeon",
+                "Ophthalmologist",
+                "Plastic surgeon",
+                "Plastic surgery clinic"
+            ],
+            "website": "https://www.abramseyeinstitute.com/eye-centers/las-vegas/?utm_source=google&utm_medium=local&utm_campaign=clinic-las-vegas&utm_content=website",
+            "phoneNumber": "(702) 304-9494",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMhcD_57cyVArGJvESfOuce6JWwUoOmzfJEotwc",
+            "cid": "1691674164588170984",
+            "fid": "0x80c8b87c74186d27:0x177a08b097fbcee8",
+            "placeId": "ChIJJ20YdHy4yIAR6M77l7AIehc"
+        },
+        {
+            "position": 3,
+            "title": "Abrams Eye Institute",
+            "address": "2451 W Horizon Ridge Pkwy Suite #130, Henderson, NV 89052",
+            "latitude": 36.0053737,
+            "longitude": -115.09414679999999,
+            "rating": 4.8,
+            "ratingCount": 132,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Cosmetic surgeon",
+                "Lasik surgeon",
+                "Ophthalmologist",
+                "Ophthalmology clinic"
+            ],
+            "website": "https://www.abramseyeinstitute.com/eye-centers/henderson/?utm_source=google&utm_medium=local&utm_campaign=clinic-henderson&utm_content=website",
+            "phoneNumber": "(702) 304-9494",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2YZRDL7xNiRH8pw6zOmg4-yYdFBJQpEdNv0hd",
+            "cid": "13992416206172417486",
+            "fid": "0x80c8ce4ab39987f3:0xc22f0c678e536dce",
+            "placeId": "ChIJ84eZs0rOyIARzm1TjmcML8I"
+        }
+    ],
+    "credits": 3
+}

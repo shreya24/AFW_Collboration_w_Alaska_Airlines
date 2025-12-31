@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Fairbanks Ear Nose & Throat Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8298797,-147.7436981,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ear Nose Throat Clinic",
+            "address": "1919 Lathrop St #103, Fairbanks, AK 99701",
+            "latitude": 64.82987969999999,
+            "longitude": -147.7436981,
+            "rating": 4.4,
+            "ratingCount": 121,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist"
+            ],
+            "website": "http://www.fairbanksent.com/",
+            "phoneNumber": "(907) 456-7768",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://fairbanksent.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUcrKfqjG0FmchfvrLnlLol8Q-HznpS0P4XTL7",
+            "cid": "1231728043613493361",
+            "fid": "0x5132454ef196c9e3:0x1117fa2133781871",
+            "placeId": "ChIJ48mW8U5FMlERcRh4MyH6FxE"
+        }
+    ],
+    "credits": 3
+}

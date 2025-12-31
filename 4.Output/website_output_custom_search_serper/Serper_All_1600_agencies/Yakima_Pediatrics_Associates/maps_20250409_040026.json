@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Yakima Pediatrics Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5936312,-120.5254944,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yakima Pediatric Associates",
+            "address": "402 S 12th Ave, Yakima, WA 98902",
+            "latitude": 46.5936312,
+            "longitude": -120.5254944,
+            "rating": 4.5,
+            "ratingCount": 244,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Pediatrician"
+            ],
+            "website": "https://chcw.org/yakima-pediatrics/",
+            "phoneNumber": "(509) 575-0114",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:15\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:15\u202fPM",
+                "Thursday": "8\u202fAM\u20135:15\u202fPM",
+                "Friday": "8\u202fAM\u20135:15\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:15\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8poY5EftVWFHByUsO0inV24Elis5dtOl8epdAn_SavVPAP6PSHKZ3s-DsFk1WAVj9Co0TdJuRWS-mSuen9nCAYVWqMYJ1xY528OYjs_q_0jrpLVdJzIuyGEa-hqsnbFFYvAyBZ3g",
+            "cid": "15059901199517811062",
+            "fid": "0x5499d7e0e4354d5b:0xd0ff8459a5bd0176",
+            "placeId": "ChIJW0015ODXmVQRdgG9pVmE_9A"
+        }
+    ],
+    "credits": 3
+}

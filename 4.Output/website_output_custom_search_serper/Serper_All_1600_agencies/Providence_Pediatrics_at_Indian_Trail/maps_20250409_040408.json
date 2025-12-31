@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Providence Pediatrics at Indian Trail",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7383343,-117.4849525,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Pediatrics \u2013 Indian Trail",
+            "address": "8925 N Indian Trail Rd, Spokane, WA 99208",
+            "latitude": 47.739904499999994,
+            "longitude": -117.486086,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.providence.org/locations/wa/pediatrics-indian-trail?Is=location&y_source=1_MjAwNzg5MTc2NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 352-7543",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNHPxlIBLjs76pybzdeDakX4ZK-_vFi_0CGqHZ",
+            "cid": "6597815105013315707",
+            "fid": "0x549e1be97df7f0f1:0x5b9025e19c06787b",
+            "placeId": "ChIJ8fD3fekbnlQRe3gGnOElkFs"
+        },
+        {
+            "position": 2,
+            "title": "Providence Indian Trail Pediatrics",
+            "address": "5011 W Lowell Ave # 100, Spokane, WA 99208",
+            "latitude": 47.736764,
+            "longitude": -117.483819,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "http://phppd.providence.org/BaseSearch/Facility/View/217110608549198?PlanName=PEBB%20Providence%20Choice%20Medical%20Home%20Plan",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0J3j89SevIMsNtQWpQJzaA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=194.02116&pitch=0&thumbfov=100",
+            "cid": "1142144949560051949",
+            "fid": "0x549e1bb0f4458083:0xfd9b6c7c08888ed",
+            "placeId": "ChIJg4BF9LAbnlQR7YiIwMe22Q8"
+        }
+    ],
+    "credits": 3
+}

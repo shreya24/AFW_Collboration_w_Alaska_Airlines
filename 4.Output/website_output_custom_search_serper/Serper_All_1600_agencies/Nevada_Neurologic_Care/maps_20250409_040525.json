@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Nevada Neurologic Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1155661,-115.1228727,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nevada Neurologic Care",
+            "address": "2110 E Flamingo Rd ste 201, Las Vegas, NV 89119",
+            "latitude": 36.115566099999995,
+            "longitude": -115.12287269999999,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Medical group"
+            ],
+            "phoneNumber": "(702) 800-7831",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8-3gkTIA3tClC16VGSd_vQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=60.24535&pitch=0&thumbfov=100",
+            "cid": "2268372255096174976",
+            "fid": "0x80c8c63a87e8595b:0x1f7ae08c335bf980",
+            "placeId": "ChIJW1nohzrGyIARgPlbM4zgeh8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Mark M. Herscher D.O.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.3887127,-123.3245277,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Fred Herscher, DO",
+            "address": "781 W Central Ave, Sutherlin, OR 97479",
+            "latitude": 43.3887127,
+            "longitude": -123.32452769999999,
+            "rating": 3.6,
+            "ratingCount": 13,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KUVP6WzqBkj1QvsvRtZ9BA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=263.38046&pitch=0&thumbfov=100",
+            "cid": "7674223578259134323",
+            "fid": "0x54c41d7c738796c7:0x6a8051af45101773",
+            "placeId": "ChIJx5aHc3wdxFQRcxcQRa9RgGo"
+        }
+    ],
+    "credits": 3
+}

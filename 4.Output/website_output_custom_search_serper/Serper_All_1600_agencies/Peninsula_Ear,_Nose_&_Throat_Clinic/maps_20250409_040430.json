@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Peninsula Ear, Nose & Throat Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.0751453,-136.8138863,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peninsula Ear Nose and Throat",
+            "address": "1828 El Camino Real, Burlingame, CA 94010",
+            "latitude": 37.595613799999995,
+            "longitude": -122.38368229999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Otolaryngologist",
+            "types": [
+                "Otolaryngologist"
+            ],
+            "phoneNumber": "(650) 697-5551",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jZemiGKvp6d_mK1RWjZWCQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=91.12431&pitch=0&thumbfov=100",
+            "cid": "4103149150470450283",
+            "fid": "0x808f77b4703ecc13:0x38f15069b63cac6b",
+            "placeId": "ChIJE8w-cLR3j4ARa6w8tmlQ8Tg"
+        },
+        {
+            "position": 2,
+            "title": "Peninsula Ear Nose & Throat Clinic Inc",
+            "address": "220 Spur View Dr, Kenai, AK 99611",
+            "latitude": 60.5546769,
+            "longitude": -151.2440904,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Otolaryngologist",
+                "Plastic surgeon"
+            ],
+            "website": "https://www.kenaipeninsulaent.com/",
+            "phoneNumber": "(907) 283-5400",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u201311:30\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKnGnhXJBjWeHslyWbNezrudgLIdKsm-ie6cs-",
+            "cid": "14458035371864637079",
+            "fid": "0x56c67c9f3930eb59:0xc8a542919a063e97",
+            "placeId": "ChIJWeswOZ98xlYRlz4GmpFCpcg"
+        }
+    ],
+    "credits": 3
+}

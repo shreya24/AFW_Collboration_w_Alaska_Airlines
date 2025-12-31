@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Colorado - South Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5573816,-105.0099077,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Colorado South Campus, Highlands Ranch",
+            "address": "1811 Plaza Dr, Highlands Ranch, CO 80129",
+            "latitude": 39.5573816,
+            "longitude": -105.0099077,
+            "rating": 4.4,
+            "ratingCount": 1358,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/south-campus-highlands-ranch/",
+            "phoneNumber": "(720) 478-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdr0qk2iTBK_NDO6uaxBm8TIoyrx4wBk_bMHPF",
+            "cid": "6610313278836912552",
+            "fid": "0x876c8216a58f9605:0x5bbc8ce7771f31a8",
+            "placeId": "ChIJBZaPpRaCbIcRqDEfd-eMvFs"
+        }
+    ],
+    "credits": 3
+}

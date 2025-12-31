@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Cancer Care Services - Atchison Kansas",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5622402,-95.1203277,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St Joseph Oncology",
+            "address": "Berger Building, 104 N 6th St, Atchison, KS 66002",
+            "latitude": 39.5622402,
+            "longitude": -95.12032769999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(913) 367-9175",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Hqc6DaOEbt6WdiDdRvyag&cb_client=search.gws-prod.gps&w=360&h=120&yaw=94.835884&pitch=0&thumbfov=100",
+            "cid": "14485333475472584608",
+            "fid": "0x87bff4eafcb1bd7f:0xc9063e0ca29e2fa0",
+            "placeId": "ChIJf72x_Or0v4cRoC-eogw-Bsk"
+        }
+    ],
+    "credits": 3
+}

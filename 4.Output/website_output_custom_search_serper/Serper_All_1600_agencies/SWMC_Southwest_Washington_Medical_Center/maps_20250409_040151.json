@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "SWMC Southwest Washington Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6250696,-122.5979775,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth Southwest Medical Center",
+            "address": "400 NE Mother Joseph Pl, Vancouver, WA 98664",
+            "latitude": 45.6248583,
+            "longitude": -122.58116829999999,
+            "rating": 2.2,
+            "ratingCount": 712,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/southwest-medical-center?utm_source=gbp&utm_medium=organic&utm_content=VANC-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 514-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3nlwYbTnhM8Q4q8cerKwBfjzNIkIQwJ-K_fVj",
+            "cid": "15089139715849186813",
+            "fid": "0x5495a59fe6e9fccf:0xd16764a0396dedfd",
+            "placeId": "ChIJz_zp5p-llVQR_e1tOaBkZ9E"
+        },
+        {
+            "position": 2,
+            "title": "SW Washington Medical Center",
+            "address": "5400 MacArthur Blvd, Vancouver, WA 98661",
+            "latitude": 45.6252808,
+            "longitude": -122.6147867,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/southwest-medical-center",
+            "phoneNumber": "(360) 256-2000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yoESYS0v2sDY2_szFSbmvQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=60.728397&pitch=0&thumbfov=100",
+            "cid": "7614302177341569004",
+            "fid": "0x5495a58c878bdbd7:0x69ab6f7ceced77ec",
+            "placeId": "ChIJ19uLh4yllVQR7Hft7Hxvq2k"
+        }
+    ],
+    "credits": 3
+}

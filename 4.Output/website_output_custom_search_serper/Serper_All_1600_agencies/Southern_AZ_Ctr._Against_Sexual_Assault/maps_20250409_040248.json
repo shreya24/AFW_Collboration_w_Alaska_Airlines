@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Southern AZ Ctr. Against Sexual Assault",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.2023258,-110.947837,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southern Arizona Center Against Sexual Assault",
+            "address": "1600 N Country Club Rd, Tucson, AZ 85716",
+            "latitude": 32.2417793,
+            "longitude": -110.92616459999999,
+            "rating": 3,
+            "ratingCount": 9,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "http://www.sacasa.org/",
+            "phoneNumber": "(520) 327-1171",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNxTE1f0Ghb0ecoRp8eTfjI57rXJOJ8uQgtqX2E",
+            "cid": "15537299041396969322",
+            "fid": "0x86d671c7fcdf0d39:0xd79f9328737bcf6a",
+            "placeId": "ChIJOQ3f_Mdx1oYRas97cyiTn9c"
+        },
+        {
+            "position": 2,
+            "title": "Southern Arizona Center Against Sexual Assault - Su Voz Vale",
+            "address": "101 W Irvington Rd #4a, Tucson, AZ 85714",
+            "latitude": 32.1628723,
+            "longitude": -110.9695095,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.sacasa.org/su-voz-vale/",
+            "phoneNumber": "(520) 434-0195",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p6qlOTGluCeiUnhM3v-cxQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.02742&pitch=0&thumbfov=100",
+            "cid": "2625731024015676670",
+            "fid": "0x86d67a6bfba7a449:0x24707874622d54fe",
+            "placeId": "ChIJSaSn-2t61oYR_lQtYnR4cCQ"
+        }
+    ],
+    "credits": 3
+}

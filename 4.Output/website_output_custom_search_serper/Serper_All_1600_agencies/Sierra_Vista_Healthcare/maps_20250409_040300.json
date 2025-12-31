@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Sierra Vista Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.725493,-119.753981,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra Vista Healthcare Center",
+            "address": "1715 S Cedar Ave, Fresno, CA 93702",
+            "latitude": 36.725493,
+            "longitude": -119.753981,
+            "rating": 3.9,
+            "ratingCount": 127,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Occupational therapist",
+                "Physical therapist"
+            ],
+            "website": "http://www.sierravistahealth.com/",
+            "phoneNumber": "(559) 237-8377",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPl1OH5lDcndp7aTsyRjiebfT5FQdc3Q3VyHVx4",
+            "cid": "12470634060299904934",
+            "fid": "0x80945fad59c963df:0xad10979b081027a6",
+            "placeId": "ChIJ32PJWa1flIARpicQCJuXEK0"
+        }
+    ],
+    "credits": 3
+}

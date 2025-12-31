@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Edward Shen MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6588492,-74.2156298,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Edward Shen MD, Spine and Pain Specialty Care",
+            "address": "219 S Broad St, Elizabeth, NJ 07202",
+            "latitude": 40.6588492,
+            "longitude": -74.2156298,
+            "rating": 4.8,
+            "ratingCount": 77,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "website": "http://spscpaincare.com/",
+            "phoneNumber": "(908) 818-1600",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9\u202fAM\u20135:30\u202fPM",
+                "Friday": "9\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWJzHGRtC4LE2QFKQL5r9Gw0nEWjGypRG4AdFx",
+            "cid": "14314807938641476034",
+            "fid": "0x89c24d52819a4099:0xc6a869fa22aab9c2",
+            "placeId": "ChIJmUCagVJNwokRwrmqIvppqMY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "UCSD Health Medical Offices South",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.75325,-117.16522,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UC San Diego Health Medical Offices South",
+            "address": "4168 Front St, San Diego, CA 92103",
+            "latitude": 32.75325,
+            "longitude": -117.16521999999999,
+            "rating": 4.1,
+            "ratingCount": 59,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/4168-front-st./7000-41681?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(619) 543-6222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCwwZu2-vfconVr4nXFP1fU8VoBIX3JRb3O-w",
+            "cid": "4403619683238010378",
+            "fid": "0x80d954d656db3d2d:0x3d1cccc54151de0a",
+            "placeId": "ChIJLT3bVtZU2YARCt5RQcXMHD0"
+        }
+    ],
+    "credits": 3
+}

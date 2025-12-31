@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Dr. Robert Curry",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.39269,-91.0394041,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Robert L. Curry, MD",
+            "address": "344 Arnold Ave, Greenville, MS 38701",
+            "latitude": 33.4034484,
+            "longitude": -91.0497395,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Urologist",
+            "types": [
+                "Urologist",
+                "Doctor"
+            ],
+            "website": "http://www.deltaregional.com/Our-Provider-Directory/C/Robert-L-Curry-IV-M-D-.aspx",
+            "phoneNumber": "(662) 334-8564",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jzeMd6d0oMkfpiMMDbYE2A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=86.74772&pitch=0&thumbfov=100",
+            "cid": "883870097770565065",
+            "fid": "0x862bed659ca2e0fd:0xc44232bc5344dc9",
+            "placeId": "ChIJ_eCinGXtK4YRyU00xSsjRAw"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Robert Curry",
+            "address": "1502 S Colorado St, Greenville, MS 38703",
+            "latitude": 33.3819315,
+            "longitude": -91.0290687,
+            "type": "Urologist",
+            "types": [
+                "Urologist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(662) 332-9872",
+            "cid": "3903425638371422927",
+            "fid": "0x862bedaf69155555:0x362bc0efd647f2cf",
+            "placeId": "ChIJVVUVaa_tK4YRz_JH1u_AKzY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "C.H.I.P.S.A. Therapy Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.5183245,-117.1169149,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centro Hospitalario Internacional P\u00e1cifico",
+            "address": "De Las Nubes 449, Playas de Tijuana, Jardines del Sol, 22505 Tijuana, B.C., Mexico",
+            "latitude": 32.5183245,
+            "longitude": -117.1169149,
+            "rating": 3.8,
+            "ratingCount": 6,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "+52 664 680 2910",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMovrCPPgxFuIpySnHafWjC4O1ElJ6wiwRviMek",
+            "cid": "16554810016611551725",
+            "fid": "0x80d94bac66b518c1:0xe5be7fffbc35c9ed",
+            "placeId": "ChIJwRi1ZqxL2YAR7ck1vP9_vuU"
+        }
+    ],
+    "credits": 3
+}

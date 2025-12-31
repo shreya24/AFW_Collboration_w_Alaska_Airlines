@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Canby Family Practice Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.4431295,-120.8715861,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Canby Family Practice Clinic",
+            "address": "670 Co Rd 83, Canby, CA 96015",
+            "latitude": 41.4431295,
+            "longitude": -120.87158609999999,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental hygienist",
+                "Dentist"
+            ],
+            "website": "https://modocmedicalcenter.org/canby-clinic-dental/",
+            "phoneNumber": "(530) 708-8830",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhWyCh1GYwh_YXDboI8bRItebjHdg72nLyrR8H",
+            "cid": "13623598733800021727",
+            "fid": "0x54cc761f03bb00c9:0xbd10bede129c9edf",
+            "placeId": "ChIJyQC7Ax92zFQR356cEt6-EL0"
+        }
+    ],
+    "credits": 3
+}

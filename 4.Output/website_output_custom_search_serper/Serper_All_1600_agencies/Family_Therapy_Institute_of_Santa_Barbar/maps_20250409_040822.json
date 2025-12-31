@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Family Therapy Institute of Santa Barbar",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4286998,-119.7082533,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Family Therapy Institute of Santa Barbara",
+            "address": "111 E Arrellaga St, Santa Barbara, CA 93101",
+            "latitude": 34.4286998,
+            "longitude": -119.7082533,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Counselor",
+            "types": [
+                "Counselor",
+                "Family counselor",
+                "Marriage or relationship counselor",
+                "Psychologist",
+                "Psychotherapist",
+                "Social worker"
+            ],
+            "website": "http://www.ftisb.org/",
+            "phoneNumber": "(805) 882-2400",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f1N44KD_Y9LFQBPshvLEbA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=301.96243&pitch=0&thumbfov=100",
+            "cid": "4141645703353183118",
+            "fid": "0x80e9148dc7d991ff:0x397a14d2e5e3ab8e",
+            "placeId": "ChIJ_5HZx40U6YARjqvj5dIUejk"
+        }
+    ],
+    "credits": 3
+}

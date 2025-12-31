@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Casey Eye Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4988541,-122.6833819,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Casey Eye Institute",
+            "address": "Portland, OR",
+            "latitude": 45.498854099999996,
+            "longitude": -122.6833819,
+            "type": "Building",
+            "types": [
+                "Building"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YdPdRT1YAcIrp6g8Y6ueJA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=6.7805686&pitch=0&thumbfov=100",
+            "cid": "1584211665674827614",
+            "fid": "0x54950a43fbc6791d:0x15fc401dcd93f75e",
+            "placeId": "ChIJHXnG-0MKlVQRXveTzR1A_BU"
+        }
+    ],
+    "credits": 3
+}

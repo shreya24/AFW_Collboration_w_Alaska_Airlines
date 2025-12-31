@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Eisenhower Desert Cancer Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9432372,-116.4054887,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eisenhower Lucy Curci Cancer Center",
+            "address": "39000 Bob Hope Dr, Rancho Mirage, CA 92270",
+            "latitude": 33.7608613,
+            "longitude": -116.4072958,
+            "rating": 3.5,
+            "ratingCount": 22,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://eisenhowerhealth.org/services/oncology/",
+            "phoneNumber": "(760) 674-3602",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe3RtOAIAMNReUdA4lge9mY5BxbNYEPuBTGLmr",
+            "cid": "1734056762893620307",
+            "fid": "0x80dafd9ce3db725d:0x18109b703ca35453",
+            "placeId": "ChIJXXLb45z92oARU1SjPHCbEBg"
+        },
+        {
+            "position": 2,
+            "title": "Eisenhower Desert Cancer Care",
+            "address": "57725 29 Palms Hwy #201, Yucca Valley, CA 92284",
+            "latitude": 34.1256907,
+            "longitude": -116.4036816,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(760) 228-9900",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNXthSGB-qwAjv0YvU9ITOsMuS6yNnVCV1er5g",
+            "cid": "5831941967875031850",
+            "fid": "0x80dad80e53dbede9:0x50ef385221e2432a",
+            "placeId": "ChIJ6e3bUw7Y2oARKkPiIVI471A"
+        },
+        {
+            "position": 3,
+            "title": "Desert Cancer Care, Inc.",
+            "address": "39700 Bob Hope Dr STE 108, Rancho Mirage, CA 92270",
+            "latitude": 33.760783599999996,
+            "longitude": -116.4058802,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(760) 346-7655",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "12689458788216192447",
+            "fid": "0x80dafd9ce3db725d:0xb01a03894795bdbf",
+            "placeId": "ChIJXXLb45z92oARv72VR4kDGrA"
+        }
+    ],
+    "credits": 3
+}

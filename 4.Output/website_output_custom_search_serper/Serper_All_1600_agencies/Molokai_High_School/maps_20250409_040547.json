@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Molokai High School",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.163573,-157.047937,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Moloka\u02bbi High School",
+            "address": "2140 Farrington Ave, Ho'olehua, HI 96729",
+            "latitude": 21.163573,
+            "longitude": -157.047937,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "High school",
+            "types": [
+                "High school"
+            ],
+            "website": "https://www.molokaihighschool.org/",
+            "phoneNumber": "(808) 567-7100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "cid": "8598887338451805416",
+            "fid": "0x7eaab778f6c71139:0x77556279b80624e8",
+            "placeId": "ChIJORHH9ni3qn4R6CQGuHliVXc"
+        }
+    ],
+    "credits": 3
+}

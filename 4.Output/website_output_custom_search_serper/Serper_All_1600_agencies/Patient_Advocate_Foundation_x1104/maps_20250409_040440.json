@@ -1,0 +1,68 @@
+{
+    "searchParameters": {
+        "q": "Patient Advocate Foundation x1104",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2896944,-87.4884334,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Patient Advocate Foundation",
+            "address": "421 Butler Farm Rd, Hampton, VA 23666",
+            "latitude": 37.0617734,
+            "longitude": -76.40701279999999,
+            "rating": 3.7,
+            "ratingCount": 47,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Non-profit organization"
+            ],
+            "website": "http://www.patientadvocate.org/",
+            "phoneNumber": "(800) 532-5274",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOA09iabcvidDlkXcwPyv0c1asjfpirk7JXyUk5",
+            "cid": "6826679356352263396",
+            "fid": "0x89ba83010a452603:0x5ebd3cb48ede74e4",
+            "placeId": "ChIJAyZFCgGDuokR5HTejrQ8vV4"
+        },
+        {
+            "position": 2,
+            "title": "Patient Advocate Foundation",
+            "address": "8401 Datapoint Dr # 150, San Antonio, TX 78229",
+            "latitude": 29.5176154,
+            "longitude": -98.56985399999999,
+            "type": "Legal services",
+            "types": [
+                "Legal services"
+            ],
+            "website": "http://www.patientadvocate.org/",
+            "phoneNumber": "(210) 614-4152",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rvF0z5F4FSjZ23Cb_P8CCQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=129.89162&pitch=0&thumbfov=100",
+            "cid": "14039226712886930824",
+            "fid": "0x865c60ab63da1e15:0xc2d55a4ff6cced88",
+            "placeId": "ChIJFR7aY6tgXIYRiO3M9k9a1cI"
+        }
+    ],
+    "credits": 3
+}

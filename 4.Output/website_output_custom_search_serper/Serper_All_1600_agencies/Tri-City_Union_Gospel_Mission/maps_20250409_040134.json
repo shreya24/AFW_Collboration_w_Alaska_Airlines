@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Tri-City Union Gospel Mission",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.229144,-119.0896679,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tri-City Union Gospel Mission",
+            "address": "221 S 4th Ave, Pasco, WA 99301",
+            "latitude": 46.229144,
+            "longitude": -119.0896679,
+            "rating": 4.1,
+            "ratingCount": 188,
+            "type": "Homeless shelter",
+            "types": [
+                "Homeless shelter",
+                "Homeless service",
+                "Social services organization"
+            ],
+            "website": "http://www.tcugm.org/",
+            "phoneNumber": "(509) 547-2112",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "8\u202fAM\u20137\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwhpkJrNWJgimYeny2BhV2f1AheF7g89U9hDli",
+            "cid": "14427835743944440945",
+            "fid": "0x54987fb9a0900f3b:0xc839f82acb7dfc71",
+            "placeId": "ChIJOw-QoLl_mFQRcfx9yyr4Ocg"
+        }
+    ],
+    "credits": 3
+}

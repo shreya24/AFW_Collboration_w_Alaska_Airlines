@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Wet Mountain Valley Community Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.132987,-105.4621751,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HRRMC Custer County Health Center",
+            "address": "704 Edwards Ave, Westcliffe, CO 81252",
+            "latitude": 38.132987,
+            "longitude": -105.4621751,
+            "rating": 3.2,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Physical therapy clinic",
+                "Specialized clinic"
+            ],
+            "website": "https://www.hrrmc.com/health-centers/hrrmc-custer-county-health-center/",
+            "phoneNumber": "(719) 783-2380",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsfH22UOojjEc7UitTsH71mGgPIClcGkUxtxSf",
+            "cid": "8364012652513370549",
+            "fid": "0x87145cd06d22bc7f:0x7412f13169eea1b5",
+            "placeId": "ChIJf7wibdBcFIcRtaHuaTHxEnQ"
+        }
+    ],
+    "credits": 3
+}

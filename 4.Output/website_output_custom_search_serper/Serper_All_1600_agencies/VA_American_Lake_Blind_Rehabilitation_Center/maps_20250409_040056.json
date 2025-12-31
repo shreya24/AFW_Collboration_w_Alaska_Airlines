@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "VA American Lake Blind Rehabilitation Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.3483659,-122.4422655,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Lake VA Medical Center",
+            "address": "9600 Veterans Dr SW, Joint Base Lewis-McChord, WA 98493",
+            "latitude": 47.1337956,
+            "longitude": -122.57654079999999,
+            "rating": 3.4,
+            "ratingCount": 162,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/directory/guide/facility.asp?id=5401",
+            "phoneNumber": "(253) 582-8440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWEuuqri8C7Nv4kzbxq7tAlSffQG_to1lj15_N",
+            "cid": "11587151313268687543",
+            "fid": "0x549107b1d51fe3c7:0xa0cdd4ba6214c2b7",
+            "placeId": "ChIJx-Mf1bEHkVQRt8IUYrrUzaA"
+        },
+        {
+            "position": 2,
+            "title": "VA Puget Sound Health Care System",
+            "address": "9600 Veterans Dr SW, Tacoma, WA 98498",
+            "latitude": 47.135616899999995,
+            "longitude": -122.57603739999999,
+            "rating": 4.5,
+            "ratingCount": 389,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center",
+                "Military hospital",
+                "Veterans affairs department"
+            ],
+            "website": "https://www.pugetsound.va.gov/",
+            "phoneNumber": "(253) 582-8440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO--lNs7nYmpPNGd9xvWikeIvnzAHiZcLpgOxMq",
+            "cid": "17847865120302084435",
+            "fid": "0x549106e13a49f475:0xf7b05ac3ceb0b153",
+            "placeId": "ChIJdfRJOuEGkVQRU7GwzsNasPc"
+        },
+        {
+            "position": 3,
+            "title": "VA Puget Sound Health Care System",
+            "address": "1660 S Columbian Way, Seattle, WA 98108",
+            "latitude": 47.562936099999995,
+            "longitude": -122.3079903,
+            "rating": 3.8,
+            "ratingCount": 523,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.pugetsound.va.gov/",
+            "phoneNumber": "(206) 762-1010",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNap4vH_R6Z-EiBKqMr72VFkTzGuqJevvQ_irpf",
+            "cid": "5788650830276156153",
+            "fid": "0x549041d8d6d20811:0x50556b42b3615af9",
+            "placeId": "ChIJEQjS1thBkFQR-Vphs0JrVVA"
+        }
+    ],
+    "credits": 3
+}

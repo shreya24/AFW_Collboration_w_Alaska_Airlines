@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Next Oncology- San Antonio",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.513605,-98.5907325,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NEXT Oncology",
+            "address": "2829 Babcock Rd Suite 300, San Antonio, TX 78229",
+            "latitude": 29.513605,
+            "longitude": -98.5907325,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://nextoncology.com/",
+            "phoneNumber": "(210) 580-9500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.texasoncology.com/request-an-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPomfn-H0DlXY45D9ixERA4bHWF8lI9zaKttzye",
+            "cid": "118431180355632011",
+            "fid": "0x865c673bd962000d:0x1a4c087f36d7b8b",
+            "placeId": "ChIJDQBi2TtnXIYRi3tt84fApAE"
+        }
+    ],
+    "credits": 3
+}

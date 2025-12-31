@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence Sacred Heart Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6490244,-117.4130529,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Sacred Heart Medical Center",
+            "address": "101 W 8th Ave, Spokane, WA 99204",
+            "latitude": 47.649024399999995,
+            "longitude": -117.4130529,
+            "rating": 3,
+            "ratingCount": 170,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center?ls=location&y_source=1_OTU3Njk1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-3131",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZ1Big4kz5kjy4ES3uAbQP7pcovayU37oTs08O",
+            "cid": "15828842638513844074",
+            "fid": "0x549e187c5d366d11:0xdbab5883d22caf6a",
+            "placeId": "ChIJEW02XXwYnlQRaq8s0oNYq9s"
+        }
+    ],
+    "credits": 3
+}

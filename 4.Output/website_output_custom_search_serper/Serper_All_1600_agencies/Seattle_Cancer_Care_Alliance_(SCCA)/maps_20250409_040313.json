@@ -1,0 +1,524 @@
+{
+    "searchParameters": {
+        "q": "Seattle Cancer Care Alliance (SCCA)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6440003,-122.3522154,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fred Hutch Cancer Center - South Lake Union Clinic Building 1",
+            "address": "1354 Aloha St, Seattle, WA 98109",
+            "latitude": 47.626458,
+            "longitude": -122.32980459999999,
+            "rating": 4.2,
+            "ratingCount": 177,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Medical clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-south-lake-union.html",
+            "phoneNumber": "(855) 557-0555",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-south-lake-union.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1Kxi4Eun6dgywe_VYPesu_HREGZLz115XPegt",
+            "cid": "9600948319396356804",
+            "fid": "0x5490153aafdcdba5:0x853d6ba0e480e2c4",
+            "placeId": "ChIJpdvcrzoVkFQRxOKA5KBrPYU"
+        },
+        {
+            "position": 2,
+            "title": "Fred Hutch Cancer Center - South Lake Union Clinic Building 2",
+            "address": "820 Yale Ave N, Seattle, WA 98109",
+            "latitude": 47.6264891,
+            "longitude": -122.3307258,
+            "rating": 4.6,
+            "ratingCount": 29,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Medical clinic",
+                "Oncologist",
+                "X-ray lab"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-south-lake-union-building-2.html",
+            "phoneNumber": "(855) 557-0555",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u201310\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOVGchEoGdmCby4PKwcPE3rh7qROumE6Ex2wJX",
+            "cid": "15751361399669164805",
+            "fid": "0x5490158ac55e0517:0xda9813bd1c148b05",
+            "placeId": "ChIJFwVexYoVkFQRBYsUHL0TmNo"
+        },
+        {
+            "position": 3,
+            "title": "Fred Hutch Cancer Center - Proton Therapy",
+            "address": "1570 N 115th St, Seattle, WA 98133",
+            "latitude": 47.712893699999995,
+            "longitude": -122.3364359,
+            "rating": 4.6,
+            "ratingCount": 22,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-proton-therapy.html",
+            "phoneNumber": "(206) 306-2800",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-proton-therapy.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNaJzNo84YKISRshdAJmsqrDGFiFCCzMUcjyxLl",
+            "cid": "13250335886302124372",
+            "fid": "0x5490114dbf029c95:0xb7e2a64909a61954",
+            "placeId": "ChIJlZwCv00RkFQRVBmmCUmm4rc"
+        },
+        {
+            "position": 4,
+            "title": "Blaine Lab - Fred Hutch Cancer Center",
+            "address": "188 E Blaine St, Seattle, WA 98102",
+            "latitude": 47.6350884,
+            "longitude": -122.32634619999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Research institute",
+            "types": [
+                "Research institute"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gu46LlO8I1nPzNgWxLWNNQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=354.5937&pitch=0&thumbfov=100",
+            "cid": "17246840308212391304",
+            "fid": "0x5490159ee59cf777:0xef5915e1f4e35d88",
+            "placeId": "ChIJd_ec5Z4VkFQRiF3j9OEVWe8"
+        },
+        {
+            "position": 5,
+            "title": "Fred Hutch Cancer Center - Wellness Center",
+            "address": "of the Arnold Building, 1100 Fairview Ave N Level E, Seattle, WA 98109",
+            "latitude": 47.6275747,
+            "longitude": -122.3316196,
+            "type": "Wellness center",
+            "types": [
+                "Wellness center",
+                "Wellness program"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/wellness-center.html",
+            "phoneNumber": "(206) 606-6100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/wellness-center.html"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jz6OFwfSbHedqzhUBAS3Cw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.3429&pitch=0&thumbfov=100",
+            "cid": "3433721616475065199",
+            "fid": "0x549015f1c41e3733:0x2fa7079e17938b6f",
+            "placeId": "ChIJMzcexPEVkFQRb4uTF54Hpy8"
+        },
+        {
+            "position": 6,
+            "title": "Fred Hutch Cancer Center at UW Medical Center - Northwest",
+            "address": "1560 N 115th St Level G, Seattle, WA 98133",
+            "latitude": 47.7136725,
+            "longitude": -122.33553289999999,
+            "rating": 3.4,
+            "ratingCount": 7,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/uw-medical-center-northwest.html",
+            "phoneNumber": "(206) 606-5800",
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/uw-medical-center-northwest.html?size=n_10_n&filters%5B0%5D%5Bfield%5D=search_result_type&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=Provider%20Profile&filters%5B1%5D%5Bfield%5D=locations&filters%5B1%5D%5Btype%5D=any&filters%5B1%5D%5Bvalues%5D%5B0%5D=UW%20Medical%20Center%20-%20Northwest&sort-field=provider_last_name&sort-direction=asc"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvdSIRQqw1cW4RlDYD-tXIM8DRQZBJm1AzCPRc",
+            "cid": "252475567148957466",
+            "fid": "0x5490114d95b20849:0x380f930ce60ff1a",
+            "placeId": "ChIJSQiylU0RkFQRGv9gzjD5gAM"
+        },
+        {
+            "position": 7,
+            "title": "Fred Hutch Cancer Center - MRI at Valley Street",
+            "address": "1209 Valley St, Seattle, WA 98109",
+            "latitude": 47.6257563,
+            "longitude": -122.3318159,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Medical clinic",
+                "Oncologist",
+                "X-ray lab"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-south-lake-union/fred-hutch-mri-valley-street.html",
+            "phoneNumber": "(206) 606-7200",
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-south-lake-union/fred-hutch-mri-valley-street.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOcEUXKsm2B4dok_6xuE5Q7lh-st7QlVprZQUbT",
+            "cid": "16119171596835812396",
+            "fid": "0x549014ec48704f11:0xdfb2cd2a0ef6f42c",
+            "placeId": "ChIJEU9wSOwUkFQRLPT2DirNst8"
+        },
+        {
+            "position": 8,
+            "title": "Fred Hutch Cancer Center - Issaquah",
+            "address": "1740 NW Maple St Suite 211, Issaquah, WA 98027",
+            "latitude": 47.543793,
+            "longitude": -122.06376639999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-issaquah.html",
+            "phoneNumber": "(425) 392-2551",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOohCLW0q_Gdk0HHeSgudzsM5YvzxMKouV20sTO",
+            "cid": "10003609392194936470",
+            "fid": "0x54906fd6376ae755:0x8ad3f5bda58a5e96",
+            "placeId": "ChIJVedqN9ZvkFQRll6Kpb3104o"
+        },
+        {
+            "position": 9,
+            "title": "Fred Hutch Cancer Center - Valley Building",
+            "address": "1213 Valley St, Seattle, WA 98109",
+            "latitude": 47.6257282,
+            "longitude": -122.33128389999999,
+            "rating": 4.5,
+            "ratingCount": 23,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "https://www.fredhutch.org/",
+            "phoneNumber": "(206) 606-7222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeHB29enbk71RCVRGRRdttm6aqh1AQWYFg05B4",
+            "cid": "16322255388937949721",
+            "fid": "0x5490153a8504617d:0xe2844ccc16da1219",
+            "placeId": "ChIJfWEEhToVkFQRGRLaFsxMhOI"
+        },
+        {
+            "position": 10,
+            "title": "Breast Health Clinic at Fred Hutch Cancer Center",
+            "address": "1354 Aloha St 3rd floor, Seattle, WA 98109",
+            "latitude": 47.6264168,
+            "longitude": -122.32993099999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Women's health clinic"
+            ],
+            "website": "https://www.fredhutch.org/en/diseases/breast-cancer/breast-health-clinic.html?utm_source=gbp&utm_medium=organic&utm_content=clinic_breast_health",
+            "phoneNumber": "(206) 598-3300",
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/diseases/breast-cancer/breast-health-clinic.html"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krlEQHK9azsA6msloxc0TQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.04195&pitch=0&thumbfov=100",
+            "cid": "6899276859420782002",
+            "fid": "0x549014ec48704f11:0x5fbf27bfecd92db2",
+            "placeId": "ChIJEU9wSOwUkFQRsi3Z7L8nv18"
+        },
+        {
+            "position": 11,
+            "title": "Fred Hutch at EvergreenHealth",
+            "address": "12040 NE 128th St Halvorson Cancer Center - Suite Silver 1600, Kirkland, WA 98034",
+            "latitude": 47.7154302,
+            "longitude": -122.1773592,
+            "rating": 3.1,
+            "ratingCount": 8,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor",
+                "Hospital",
+                "Medical clinic",
+                "Oncologist"
+            ],
+            "website": "https://www.fredhutch.org/en/about/locations/clinic-locations/fred-hutch-evergreenhealth.html",
+            "phoneNumber": "(425) 441-2600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-evergreenhealth.html",
+                "https://www.evergreenhealth.com/medical-oncology?utm_source=EH-ONCOLOGY-SCCA&utm_campaign=Local-Listings&utm_medium=Google-My-Business"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wmo72Vm3opu_KKXUWQ0gBg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=185.2898&pitch=0&thumbfov=100",
+            "cid": "6531779235037678406",
+            "fid": "0x54900d8514e82e9f:0x5aa58a9b7fb18b46",
+            "placeId": "ChIJny7oFIUNkFQRRouxf5uKpVo"
+        },
+        {
+            "position": 12,
+            "title": "Shine at Fred Hutch Cancer Center",
+            "address": "207 Pontius Ave N, Seattle, WA 98109",
+            "latitude": 47.6198692,
+            "longitude": -122.3319609,
+            "rating": 4.7,
+            "ratingCount": 33,
+            "type": "Health and beauty shop",
+            "types": [
+                "Health and beauty shop",
+                "Book store",
+                "Clothing store",
+                "Gift shop",
+                "Stationery store",
+                "Wig shop"
+            ],
+            "website": "https://www.fredhutch.org/en/patient-care/patient-services/amenities/shine.html",
+            "phoneNumber": "(206) 606-7560",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNC_oZWnJ0JRXFT5wE5_G9QzFvU24HYimmD7jqg",
+            "cid": "14196889078526660965",
+            "fid": "0x549015369f53460d:0xc5057b6609345165",
+            "placeId": "ChIJDUZTnzYVkFQRZVE0CWZ7BcU"
+        },
+        {
+            "position": 13,
+            "title": "Behnke Family House",
+            "address": "207 Pontius Ave N, Seattle, WA 98109",
+            "latitude": 47.6198889,
+            "longitude": -122.33190379999999,
+            "rating": 4.7,
+            "ratingCount": 280,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.fredhutch.org/en/patient-care/patient-services/lodging/behnke-family-house.html",
+            "phoneNumber": "(206) 204-3700",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMmoc8fPCCs_l_2sNDukDZBqgQkU7fpyt-6nNAs",
+            "cid": "15390463297064906624",
+            "fid": "0x5490153698924fc7:0xd595e8d3963daf80",
+            "placeId": "ChIJx0-SmDYVkFQRgK89ltPoldU"
+        },
+        {
+            "position": 14,
+            "title": "Fred Hutch Cancer Center",
+            "address": "1100 Fairview Ave N, Seattle, WA 98109",
+            "latitude": 47.6275434,
+            "longitude": -122.331226,
+            "rating": 3.9,
+            "ratingCount": 95,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Research institute"
+            ],
+            "website": "https://www.fredhutch.org/",
+            "phoneNumber": "(206) 667-5000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDyjzbl0Le-hx_kyTqqlOifNEKR54CrI8PQiKs",
+            "cid": "13660788334964817360",
+            "fid": "0x54901524d2553ecd:0xbd94de9cd960bdd0",
+            "placeId": "ChIJzT5V0iQVkFQR0L1g2ZzelL0"
+        },
+        {
+            "position": 15,
+            "title": "U W Radiation Oncology: Koh Wui-Jin MD",
+            "address": "825 Eastlake Ave E, Seattle, WA 98109",
+            "latitude": 47.626458,
+            "longitude": -122.32980459999999,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(206) 288-7318",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krlEQHK9azsA6msloxc0TQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=114.703964&pitch=0&thumbfov=100",
+            "cid": "1219269401038819762",
+            "fid": "0x5490153aafdcdba5:0x10ebb70f6e6c11b2",
+            "placeId": "ChIJpdvcrzoVkFQRshFsbg-36xA"
+        },
+        {
+            "position": 16,
+            "title": "Seattle Children's Cancer Care Unit",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6625807,
+            "longitude": -122.2823818,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/cancer/services/cancer-care-unit/?utm_campaign=gmb&utm_medium=organic&utm_source=google&utm_term=dept-cancer-care-unit",
+            "phoneNumber": "(206) 987-2106",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/"
+            ],
+            "cid": "14967691798693952045",
+            "fid": "0x5490146fe6e2f7e9:0xcfb7ec6380ae3a2d",
+            "placeId": "ChIJ6ffi5m8UkFQRLTqugGPst88"
+        },
+        {
+            "position": 17,
+            "title": "Fred Hutch Cancer Center: Gopal Ajay MD",
+            "address": "825 Eastlake Ave E, Seattle, WA 98109",
+            "latitude": 47.626551,
+            "longitude": -122.32984499999999,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Internist"
+            ],
+            "website": "https://www.seattlecca.org/",
+            "phoneNumber": "(855) 557-0555",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQRo2ee1lcuUJe6zCeu965KbVi_BDEaJ4c6ola",
+            "cid": "8530110555546679250",
+            "fid": "0x5490153aafdcdba5:0x76610a5b162b77d2",
+            "placeId": "ChIJpdvcrzoVkFQR0ncrFlsKYXY"
+        },
+        {
+            "position": 18,
+            "title": "Fred Hutch Cancer Center - Peninsula",
+            "address": "19917 7th Ave NE Ste 100, Poulsbo, WA 98370",
+            "latitude": 47.744207499999995,
+            "longitude": -122.6406645,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.fredhutch.org/en/about/fred-hutch-locations/fred-hutch-peninsula.html",
+            "phoneNumber": "(360) 697-8000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrEKVbSRQmW3KIHkMFjXq9w8T_jHJZjn6NnX8v",
+            "cid": "2061045731399474687",
+            "fid": "0x549023a48009b19d:0x1c9a4e2c3de69dff",
+            "placeId": "ChIJnbEJgKQjkFQR_53mPSxOmhw"
+        },
+        {
+            "position": 19,
+            "title": "Bone Marrow Transplant Program at Fred Hutch Cancer Center",
+            "address": "1354 Aloha St, Seattle, WA 98109",
+            "latitude": 47.6265109,
+            "longitude": -122.32994599999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://www.fredhutch.org/en/patient-care/treatments/blood-marrow-transplant.html?utm_source=gbp&utm_medium=organic&utm_content=program_bone_marrow",
+            "phoneNumber": "(206) 288-7222",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNwozxV9zLM5M5UC1tkDviboyUsEuKtZrC3DWqb",
+            "cid": "9999370880970690791",
+            "fid": "0x5490153ab0a04589:0x8ac4e6d659a490e7",
+            "placeId": "ChIJiUWgsDoVkFQR55CkWdbmxIo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,507 @@
+{
+    "searchParameters": {
+        "q": "Logan Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@23.200506,-143.7713008,2z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Medical Center",
+            "address": "310 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2147675,
+            "longitude": -114.3236774,
+            "rating": 2.3,
+            "ratingCount": 393,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.logan.org/logan-health-medical-center/",
+            "phoneNumber": "(406) 752-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqMbbkUnmYJNLcDcp2SS-A-8Xs26rcz5JgN4TN",
+            "cid": "1626888663088709937",
+            "fid": "0x5366509fc8ff68ef:0x1693de9e94834131",
+            "placeId": "ChIJ72j_yJ9QZlMRMUGDlJ7ekxY"
+        },
+        {
+            "position": 2,
+            "title": "Logan Hospital",
+            "address": "310 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2147675,
+            "longitude": -114.3236774,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "https://www.logan.org/logan-health-medical-center/",
+            "phoneNumber": "(406) 752-5111",
+            "cid": "12298924553406184028",
+            "fid": "0x536651259762cb01:0xaaae8eb8051afa5c",
+            "placeId": "ChIJActilyVRZlMRXPoaBbiOrqo"
+        },
+        {
+            "position": 3,
+            "title": "Logan Jym Training",
+            "address": "Yokota Airforce Base, Fussa, Tokyo 197-0013, Japan",
+            "latitude": 35.7424861,
+            "longitude": 139.3428154,
+            "type": "Personal trainer",
+            "types": [
+                "Personal trainer"
+            ],
+            "phoneNumber": "+81 70-2181-8630",
+            "openingHours": {
+                "Wednesday": "Closed",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOcMBAnR8ymJt2UIkmhqDvjPnf6F6VSB6dXI1Zs",
+            "cid": "4194640574333343411",
+            "fid": "0x601921d7ba73621d:0x3a365b60d19456b3",
+            "placeId": "ChIJHWJzutchGWARs1aU0WBbNjo"
+        },
+        {
+            "position": 4,
+            "title": "Logan Health - Shelby",
+            "address": "640 Park Ave, Shelby, MT 59474",
+            "latitude": 48.509744999999995,
+            "longitude": -111.849463,
+            "rating": 3.3,
+            "ratingCount": 24,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital",
+                "Hospital department",
+                "Nursing home"
+            ],
+            "website": "https://www.logan.org/logan-health-shelby/",
+            "phoneNumber": "(406) 434-3200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOvmYqyggsvUnIHXsIka-66u5Cu8H1QcM9IJ81i",
+            "cid": "13005838975677902473",
+            "fid": "0x5369833f503c1909:0xb47e05a3f7362e89",
+            "placeId": "ChIJCRk8UD-DaVMRiS4296MFfrQ"
+        },
+        {
+            "position": 5,
+            "title": "Logan Health - Whitefish",
+            "address": "1600 Hospital Way, Whitefish, MT 59937",
+            "latitude": 48.3800646,
+            "longitude": -114.3308249,
+            "rating": 3.5,
+            "ratingCount": 99,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.logan.org/logan-health-whitefish/",
+            "phoneNumber": "(406) 863-3500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOEk4u46-JLVz1xOgwtWs2nrg0xVzxqgJyrGWe9",
+            "cid": "10297440276660100570",
+            "fid": "0x5366410890c3b12f:0x8ee7db5f9a201dda",
+            "placeId": "ChIJL7HDkAhBZlMR2h0gml_b544"
+        },
+        {
+            "position": 6,
+            "title": "Logan Health - Cut Bank",
+            "address": "802 2nd St SE, Cut Bank, MT 59427",
+            "latitude": 48.628228799999995,
+            "longitude": -112.32685579999999,
+            "rating": 3.1,
+            "ratingCount": 21,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital",
+                "Hospital department",
+                "Pharmacy"
+            ],
+            "website": "https://www.logan.org/logan-health-cut-bank/",
+            "phoneNumber": "(406) 873-2251",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPOPMsgR7EmmH2PgyZDjV6mM0AWDyE2UtSCTy3z",
+            "cid": "9446377271492330730",
+            "fid": "0x53690deca841a9a9:0x83184614519fc4ea",
+            "placeId": "ChIJqalBqOwNaVMR6sSfURRGGIM"
+        },
+        {
+            "position": 7,
+            "title": "Logan Hospital",
+            "address": "Armstrong Rd &, Loganlea Rd, Meadowbrook QLD 4131, Australia",
+            "latitude": -27.670026099999998,
+            "longitude": 153.1418031,
+            "rating": 2.8,
+            "ratingCount": 761,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://metrosouth.health.qld.gov.au/logan-hospital",
+            "phoneNumber": "+61 7 3299 8899",
+            "openingHours": {
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMv8mxhoy45AfAinucmabJLQv27ZyK8WyYTDAo4",
+            "cid": "3094480846388714274",
+            "fid": "0x6b9141a83aee8129:0x2af1cdef3d3fdb22",
+            "placeId": "ChIJKYHuOqhBkWsRIts_Pe_N8So"
+        },
+        {
+            "position": 8,
+            "title": "Logan Health - Chester",
+            "address": "315 W Madison Ave, Chester, MT 59522",
+            "latitude": 48.5104164,
+            "longitude": -110.9715658,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Assisted living facility",
+                "Family practice physician",
+                "Hospital",
+                "Nursing home"
+            ],
+            "website": "https://www.logan.org/logan-health-chester/",
+            "phoneNumber": "(406) 759-5181",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oz6Q0pdqLEuILWOzFpMkOg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=201.8549&pitch=0&thumbfov=100",
+            "cid": "15045551734438278680",
+            "fid": "0x536a4418377244ab:0xd0cc899674f4b618",
+            "placeId": "ChIJq0RyNxhEalMRGLb0dJaJzNA"
+        },
+        {
+            "position": 9,
+            "title": "Logan Health Primary Care - Polson",
+            "address": "106 Ridgewater Dr Suite A, Polson, MT 59860",
+            "latitude": 47.6825714,
+            "longitude": -114.12463369999999,
+            "rating": 4.4,
+            "ratingCount": 36,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.logan.org/location/logan-health-primary-care-polson/",
+            "phoneNumber": "(406) 883-3200",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNVt_GUub4RKOkjnEWEDE34QiqoMmTalQ96pVak",
+            "cid": "9984050481014314274",
+            "fid": "0x536773ed78c696dd:0x8a8e7903c46d1522",
+            "placeId": "ChIJ3ZbGeO1zZ1MRIhVtxAN5joo"
+        },
+        {
+            "position": 10,
+            "title": "Logan Clinic - Family Medicine",
+            "address": "412 N 200 E, Logan, UT 84321",
+            "latitude": 41.739432199999996,
+            "longitude": -111.8288185,
+            "rating": 4.7,
+            "ratingCount": 44,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/logan-clinic/family-medicine",
+            "phoneNumber": "(435) 713-2800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/logan-clinic/family-medicine?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWh9ijeEtPgFrIT_gRjMn1zfxvIhsaMJS4wngo",
+            "cid": "3211764094474132034",
+            "fid": "0x87547f5d798424bd:0x2c927a6d617c1a42",
+            "placeId": "ChIJvSSEeV1_VIcRQhp8YW16kiw"
+        },
+        {
+            "position": 11,
+            "title": "Logan Health Medical Equipment",
+            "address": "55 3rd Ave E N, Kalispell, MT 59901",
+            "latitude": 48.2008061,
+            "longitude": -114.3092813,
+            "rating": 3,
+            "ratingCount": 52,
+            "type": "Medical supply store",
+            "types": [
+                "Medical supply store"
+            ],
+            "website": "https://www.logan.org/services/medical-equipment/",
+            "phoneNumber": "(406) 752-6111",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNdnVWdwyPAv56Sj6jdETXSstQmlFq30nVGGhJR",
+            "cid": "2451964560347415381",
+            "fid": "0x53665094629c5483:0x220720c6cd5ac355",
+            "placeId": "ChIJg1ScYpRQZlMRVcNazcYgByI"
+        },
+        {
+            "position": 12,
+            "title": "Logan Health Occupational Medicine",
+            "address": "75 Claremont St F, Kalispell, MT 59901",
+            "latitude": 48.212531,
+            "longitude": -114.3236204,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Occupational therapist",
+            "types": [
+                "Occupational therapist"
+            ],
+            "website": "https://www.logan.org/location/logan-health-occupational-medicine/",
+            "phoneNumber": "(406) 751-4189",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTSC9cDwJkZIMuKAS_HpEDq85QAvHVlGTN8XCI",
+            "cid": "11198435099334382651",
+            "fid": "0x5366509f81260f43:0x9b68d5641817943b",
+            "placeId": "ChIJQw8mgZ9QZlMRO5QXGGTVaJs"
+        },
+        {
+            "position": 13,
+            "title": "Logan Regional Medical Center",
+            "address": "20 Hospital Dr, Logan, WV 25601",
+            "latitude": 37.845889,
+            "longitude": -81.9933999,
+            "rating": 3.3,
+            "ratingCount": 229,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.loganregionalmedicalcenter.com/",
+            "phoneNumber": "(304) 831-1101",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPivzOWj4Uz27a4dnGF4VKmUzMK7fa0kw_KBaNy",
+            "cid": "11591408478954263124",
+            "fid": "0x884f71b1cf402e1f:0xa0dcf49902851254",
+            "placeId": "ChIJHy5Az7FxT4gRVBKFApn03KA"
+        },
+        {
+            "position": 14,
+            "title": "Logan Health Rehabilitation",
+            "address": "205 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2158914,
+            "longitude": -114.32711499999999,
+            "rating": 2.2,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.logan.org/location/logan-health-rehabilitation/",
+            "phoneNumber": "(406) 751-4520",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "cid": "10327819041335422714",
+            "fid": "0x536651cb8decdf01:0x8f53c8b2ef502efa",
+            "placeId": "ChIJAd_sjctRZlMR-i5Q77LIU48"
+        },
+        {
+            "position": 15,
+            "title": "Logan County Health Department",
+            "address": "215 Fairgrounds Rd # A, Guthrie, OK 73044",
+            "latitude": 35.8658121,
+            "longitude": -97.42713599999999,
+            "rating": 4.6,
+            "ratingCount": 14,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://logan.health.ok.gov/",
+            "phoneNumber": "(405) 282-3485",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K2QGuydhew0WvQhVRMUqzw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=238.50871&pitch=0&thumbfov=100",
+            "cid": "11860515782691015193",
+            "fid": "0x87b192a5f3efe8a1:0xa4990443c0364a19",
+            "placeId": "ChIJoejv86WSsYcRGUo2wEMEmaQ"
+        },
+        {
+            "position": 16,
+            "title": "Logan Health Rural Health Clinic - Cut Bank",
+            "address": "226 9th Ave SE, Cut Bank, MT 59427",
+            "latitude": 48.6276649,
+            "longitude": -112.3269036,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://www.logan.org/logan-health-cut-bank/rural-health-clinic/",
+            "phoneNumber": "(406) 873-5507",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9b404f-pOmw_9DjUj3WhZGTTgjqJmnSIqlbBz",
+            "cid": "7170628932319945636",
+            "fid": "0x53690deb4391f40b:0x63833105b711a3a4",
+            "placeId": "ChIJC_SRQ-sNaVMRpKMRtwUxg2M"
+        },
+        {
+            "position": 17,
+            "title": "Logan Health - Conrad",
+            "address": "805 Sunset Blvd, Conrad, MT 59425",
+            "latitude": 48.174552,
+            "longitude": -111.95910029999999,
+            "rating": 2.8,
+            "ratingCount": 16,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.logan.org/logan-health-conrad/",
+            "phoneNumber": "(406) 271-3211",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ672iID8wqTa17Bpr8BMdCzE6tGKfa1Y3q89D",
+            "cid": "5342434391721780179",
+            "fid": "0x5369c0df75d901e7:0x4a2423c61a6823d3",
+            "placeId": "ChIJ5wHZdd_AaVMR0yNoGsYjJEo"
+        },
+        {
+            "position": 18,
+            "title": "CHI Health Logan Clinic - Family Medicine",
+            "address": "118 S 1st Ave, Logan, IA 51546",
+            "latitude": 41.6423669,
+            "longitude": -95.79074849999999,
+            "rating": 3.8,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.chihealth.com/en/location-search/location-details.location.a580a1d0-98f9-4d42-90a1-98aaf17c9002.html",
+            "phoneNumber": "(712) 644-3288",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:45\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQNxyaRkBT4SIKqAEBlBTT9FYYetjLHeiWZQos",
+            "cid": "2283627142507387251",
+            "fid": "0x8793a8e9a9403027:0x1fb112c97497d973",
+            "placeId": "ChIJJzBAqemok4cRc9mXdMkSsR8"
+        }
+    ],
+    "credits": 3
+}

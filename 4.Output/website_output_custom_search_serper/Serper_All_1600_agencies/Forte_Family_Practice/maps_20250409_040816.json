@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Forte Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1004838,-115.2446207,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Forte Family Practice",
+            "address": "4845 S Rainbow Blvd #402, Las Vegas, NV 89103",
+            "latitude": 36.1004838,
+            "longitude": -115.2446207,
+            "rating": 2.8,
+            "ratingCount": 179,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.fortefamilypractice.com/contact.html",
+            "phoneNumber": "(702) 362-9800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9FSp29xKvlGgeoaaQRNKQj7Stx_D_f0DtTSoJmbC225QV49vnmfFdMTRa7atdQKW-yMxeYrxkTSY0lMERW-DGZE-1eQ5T2vysJKoAqCGMCUDY8ca6GPNGBiKhIhVDRHi3MIbIp",
+            "cid": "14010682665604550448",
+            "fid": "0x80c8c71becd67ef1:0xc26ff1a710150f30",
+            "placeId": "ChIJ8X7W7BvHyIARMA8VEKfxb8I"
+        }
+    ],
+    "credits": 3
+}

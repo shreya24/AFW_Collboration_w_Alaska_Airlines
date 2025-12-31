@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Enloe Regional Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7510998,-121.8518703,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Enloe Regional Cancer Center",
+            "address": "265 Cohasset Rd, Chico, CA 95926",
+            "latitude": 39.7510998,
+            "longitude": -121.85187029999999,
+            "rating": 4.2,
+            "ratingCount": 19,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.enloe.org/locations/locations-profile/?id=150",
+            "phoneNumber": "(530) 332-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_uY_JW7S36y7NgyTOe_dQAyKKfD6F_di0ReJMT9FXV0iJu8TTCjsquVpOs7slSHxSIXJjCXjcqI7kstITjv5a9p5oZp-TB6NCmNiNtFzOCr3toxE1eugc2V3Aj9GGhFz3QM6eK2g",
+            "cid": "2594147738907380017",
+            "fid": "0x80832780db3b5331:0x2400439fc8750931",
+            "placeId": "ChIJMVM724Ang4ARMQl1yJ9DACQ"
+        }
+    ],
+    "credits": 3
+}

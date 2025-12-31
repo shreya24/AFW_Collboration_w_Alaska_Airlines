@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Yakima Valley Memorial Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.5933805,-120.549448,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MultiCare Yakima Memorial Hospital",
+            "address": "2811 Tieton Dr, Yakima, WA 98902",
+            "latitude": 46.593695,
+            "longitude": -120.54795999999999,
+            "rating": 2.4,
+            "ratingCount": 372,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Emergency room",
+                "Pharmacy"
+            ],
+            "website": "https://www.multicare.org/location/yakima-memorial-hospital/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 575-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtnVrbjUjO0lyZalcPeXDsEjOsntEHYYbmvbp0",
+            "cid": "359863219855025440",
+            "fid": "0x54977d4548c128f3:0x4fe7db11b2fe520",
+            "placeId": "ChIJ8yjBSEV9l1QRIOUvG7F9_gQ"
+        },
+        {
+            "position": 2,
+            "title": "Yakima Valley Memorial Hospital",
+            "address": "3111 Tieton Dr, Yakima, WA 98902",
+            "latitude": 46.593066,
+            "longitude": -120.550936,
+            "rating": 5,
+            "ratingCount": 1,
+            "website": "https://www.multicare.org/location/yakima-memorial-hospital/",
+            "phoneNumber": "(509) 575-8000",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R3DjxH-IW4qdl2pGdDre-Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=112.8861&pitch=0&thumbfov=100",
+            "cid": "9717725451331408219",
+            "fid": "0x54977d4584912885:0x86dc4bcfaf61915b",
+            "placeId": "ChIJhSiRhEV9l1QRW5Fhr89L3IY"
+        }
+    ],
+    "credits": 3
+}

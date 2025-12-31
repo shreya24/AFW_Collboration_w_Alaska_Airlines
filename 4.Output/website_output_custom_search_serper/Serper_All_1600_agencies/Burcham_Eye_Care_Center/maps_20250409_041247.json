@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Burcham Eye Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7280287,-104.8278881,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Burcham Eyecare Center",
+            "address": "750 Potomac St # 223, Aurora, CO 80011",
+            "latitude": 39.728028699999996,
+            "longitude": -104.8278881,
+            "rating": 4.3,
+            "ratingCount": 277,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://www.burchameyecare.com/locations/aurora-office/",
+            "phoneNumber": "(303) 340-4600",
+            "menu": "https://www.burchameyecare.com/services",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9meMtT4krUXErhwjRpK_VyvikZVSvCfGCt0bTiHwJrafjsCUMIQxJ4ARGRxZFm9KUW8G3oYVRj0yYssBDFHBHgmrpQt0Q99qjkfWnoiy41-0NqRPfYjHYUzulgE8pePYtVy0DdNg",
+            "cid": "1259642520289503169",
+            "fid": "0x876c63234b7d3a67:0x117b2632c5d567c1",
+            "placeId": "ChIJZzp9SyNjbIcRwWfVxTImexE"
+        }
+    ],
+    "credits": 3
+}

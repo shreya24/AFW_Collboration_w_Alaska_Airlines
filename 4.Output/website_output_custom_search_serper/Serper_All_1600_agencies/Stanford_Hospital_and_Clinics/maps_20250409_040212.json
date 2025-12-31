@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Stanford Hospital and Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4330746,-122.1750485,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stanford Hospital Y Clinics",
+            "address": "Lane Building, 300 Pasteur Dr, Palo Alto, CA 94304",
+            "latitude": 37.4330746,
+            "longitude": -122.17504849999999,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital"
+            ],
+            "website": "https://stanfordhealthcare.org/?cid=clinic%7Clocal%7CGoogle",
+            "phoneNumber": "(650) 725-5227",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDLG4DrinuL16jJrqkrkXOlYlwwzy63lrnC-Pb",
+            "cid": "16738442567683003229",
+            "fid": "0x808fa4d2d8d60545:0xe84ae4d4cc05d35d",
+            "placeId": "ChIJRQXW2NKkj4ARXdMFzNTkSug"
+        }
+    ],
+    "credits": 3
+}

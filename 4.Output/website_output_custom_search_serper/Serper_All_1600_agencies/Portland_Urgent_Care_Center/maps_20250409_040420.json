@@ -1,0 +1,569 @@
+{
+    "searchParameters": {
+        "q": "Portland Urgent Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5179267,-122.6689697,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Portland Urgent Care",
+            "address": "4160 NE Sandy Blvd Suite 1200, Portland, OR 97212",
+            "latitude": 45.535850499999995,
+            "longitude": -122.62021089999999,
+            "rating": 4.8,
+            "ratingCount": 3684,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic",
+                "Medical office"
+            ],
+            "website": "https://www.portlandurgentcare.com/",
+            "phoneNumber": "(503) 249-9000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20133\u202fPM",
+                "Sunday": "8\u202fAM\u20133\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.portlandurgentcare.com/apppointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPT7FhHO0hTiMT5zaCZtsN5H3b5nrgMONvoPKzD",
+            "cid": "1450873547842379641",
+            "fid": "0x5495a0d7679835a3:0x142289ce0127df79",
+            "placeId": "ChIJozWYZ9eglVQRed8nAc6JIhQ"
+        },
+        {
+            "position": 2,
+            "title": "The Portland Clinic-Tigard Urgent Care",
+            "address": "9250 SW Hall Blvd 1st Floor, Tigard, OR 97223",
+            "latitude": 45.453413499999996,
+            "longitude": -122.7734107,
+            "rating": 3.1,
+            "ratingCount": 15,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.theportlandclinic.com/specialties/urgent-care/",
+            "phoneNumber": "(503) 293-0161",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLF7Vn4hmtPyBQVDgnlJkMc4nvucDEUfvb_SEJ",
+            "cid": "13023163315591866638",
+            "fid": "0x54950dcccad95691:0xb4bb92092dc0690e",
+            "placeId": "ChIJkVbZyswNlVQRDmnALQmSu7Q"
+        },
+        {
+            "position": 3,
+            "title": "Providence Immediate Care - Gateway",
+            "address": "1321 NE 99th Ave #100, Portland, OR 97220",
+            "latitude": 45.5324143,
+            "longitude": -122.5627916,
+            "rating": 3.7,
+            "ratingCount": 187,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Doctor",
+                "Medical clinic",
+                "Sports medicine clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/or/immediate-care-gateway?Is=location&y_source=1_OTU3NjI3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(503) 215-9900",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136:45\u202fPM",
+                "Wednesday": "7\u202fAM\u20136:45\u202fPM",
+                "Thursday": "7\u202fAM\u20136:45\u202fPM",
+                "Friday": "7\u202fAM\u20136:45\u202fPM",
+                "Saturday": "7\u202fAM\u20136:45\u202fPM",
+                "Sunday": "7\u202fAM\u20136:45\u202fPM",
+                "Monday": "7\u202fAM\u20136:45\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/immediate-care-gateway?ls=location&y_source=1_OTU3NjI3OS03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmgCUjfhFF7mEjyREcsZFsirihRyZ8Jib3Hx40",
+            "cid": "15706786108844287280",
+            "fid": "0x5495a171fd209b95:0xd9f9b6bf74b42530",
+            "placeId": "ChIJlZsg_XGhlVQRMCW0dL-2-dk"
+        },
+        {
+            "position": 4,
+            "title": "Columbia Urgent Care - Portland (82nd Ave)",
+            "address": "8122 SE Tibbetts St, Portland, OR 97206",
+            "latitude": 45.49964,
+            "longitude": -122.579191,
+            "rating": 3.7,
+            "ratingCount": 290,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Emergency care physician",
+                "Family practice physician",
+                "Medical clinic",
+                "Occupational medical physician",
+                "Pediatrician",
+                "Physical examination center",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.columbiaclinic.com/locations-portland-or",
+            "phoneNumber": "(503) 444-8586",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20136:30\u202fPM",
+                "Friday": "8\u202fAM\u20136:30\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "9\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.columbiaclinic.com/locations-portland-or-appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5LQLTx2DA3Ep1-FEDF5GKSfNrI9nKNANi0SoB",
+            "cid": "11166449787334114654",
+            "fid": "0x5495a04915c668c3:0x9af732eb50493d5e",
+            "placeId": "ChIJw2jGFUmglVQRXj1JUOsy95o"
+        },
+        {
+            "position": 5,
+            "title": "AFC Urgent Care NE Portland",
+            "address": "6633 NE Sandy Blvd, Portland, OR 97213",
+            "latitude": 45.546436199999995,
+            "longitude": -122.5947099,
+            "rating": 4.7,
+            "ratingCount": 212,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Occupational health service",
+                "Occupational medical physician",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.afcurgentcare.com/ne-portland/?utm_source=GBP+Organic+Website+Button&utm_medium=GBP+Profile&utm_campaign=GBP_Organic_Website_Link&utm_id=NE+Portland+Google+Business+Profile",
+            "phoneNumber": "(503) 305-6262",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.afcurgentcare.com/portland/#scheduler-container",
+                "https://www.solvhealth.com/afc-urgent-care-portland-or-gqoxmA?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-W4o1yL&rwg_token=AAiGsobtEfoIfdoMmmctK4_RSJsQD2TzFwykDbg5gn2ksdy_fPsENvw62uqOANBqWwIVM-eugNSUtNYS8uXsco6KEHW4_QVUDhwFzyiEvOB5KjU6EF7uWSE%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqZUnJf9IVxLWBuRjEJBOWaWRNIcOmBdNoPCxa",
+            "cid": "3629559952561181457",
+            "fid": "0x5495a1ae89655f53:0x325ec98bef649311",
+            "placeId": "ChIJU19lia6hlVQREZNk74vJXjI"
+        },
+        {
+            "position": 6,
+            "title": "Legacy-GoHealth Urgent Care",
+            "address": "3505 N Williams Ave, Portland, OR 97227",
+            "latitude": 45.5483796,
+            "longitude": -122.66683499999999,
+            "rating": 4.3,
+            "ratingCount": 561,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Blood testing service",
+                "Child health care centre",
+                "Medical clinic",
+                "Occupational health service",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.gohealthuc.com/legacy/locations/williams?utm_source=gmb&utm_medium=organic&utm_content=legacy-williams",
+            "phoneNumber": "(971) 202-2910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.gohealthuc.com/legacy/locations/williams?utm_source=gmb-bookonline&utm_medium=organic&utm_content=legacy-williams&rwg_token=AAiGsoYgdGj9ySfsbrBs7maCXZXftz2yhlLKksaifa9mLCYpzNUmvNu_0OxdtUKuMvx4u3H9HnjekkzqfhP938IVsIeTKlsjTO3r4-d68AKXEumc7mNwJSQ%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP2RodkyRq2Mj3Ql0ZsCMFY5IWZULkSBqEBO5kw",
+            "cid": "10511655723027888135",
+            "fid": "0x5495a7409a0cfcbb:0x91e0e72fdc477807",
+            "placeId": "ChIJu_wMmkCnlVQRB3hH3C_n4JE"
+        },
+        {
+            "position": 7,
+            "title": "Providence ExpressCare - Pearl District Urgent Care",
+            "address": "1025 NW 14th Ave, Portland, OR 97209",
+            "latitude": 45.530304,
+            "longitude": -122.68560579999999,
+            "rating": 3.3,
+            "ratingCount": 59,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/or/expresscare-pearl-district?Is=location&y_source=1_OTU3NjI2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(888) 227-3312",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/expresscare-pearl-district?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AAiGsoaWcI5y6-Pdx_eEF7dLhCeY4c2thtp6C4mXzXKEneU5XBMHLprbvEjulQVbjM_4p8C4VhuMYyAZ6_xMIVLuwBkoLFHeugvl1qY7k2cjtKEwBJSBGB8%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgN250OFmAWoaT8BjLFY7NFrCPCFEDW9nUQIYt",
+            "cid": "9629212785146887493",
+            "fid": "0x549509fc22a611af:0x85a1d602a5547d45",
+            "placeId": "ChIJrxGmIvwJlVQRRX1UpQLWoYU"
+        },
+        {
+            "position": 8,
+            "title": "Columbia Medical Clinic PC-Stark Street",
+            "address": "9415 SE Stark St 3rd Floor, Portland, OR 97216",
+            "latitude": 45.519256999999996,
+            "longitude": -122.56662109999999,
+            "rating": 3.8,
+            "ratingCount": 90,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational medical physician",
+                "Physical examination center",
+                "STD testing service",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.columbiaclinic.com/locations-mall-205-or",
+            "phoneNumber": "(503) 647-6908",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.columbiaclinic.com/locations-mall-205-or-appointments"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNw5QiT_SoftQ2Axi5pi7z4SjS6qehaP26beRH1",
+            "cid": "3606645035043961405",
+            "fid": "0x5495a1a6cde98a0f:0x320d608cf0b8ba3d",
+            "placeId": "ChIJD4rpzaahlVQRPbq48IxgDTI"
+        },
+        {
+            "position": 9,
+            "title": "Providence ExpressCare - Interstate Urgent Care",
+            "address": "4340 N Interstate Ave, Portland, OR 97217",
+            "latitude": 45.5551027,
+            "longitude": -122.6819766,
+            "rating": 3.8,
+            "ratingCount": 65,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/or/expresscare-interstate?Is=location&y_source=1_OTU3NTY5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(888) 227-3312",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/expresscare-interstate?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AAiGsoZ1HMEAnJjSrUH0vXC21Npcc1v-2RQWUu7L3i5MkZHYjBoFRrImJYalNuqKAU2M0cCSREgsZbkxYEA2etXa-LFbpBfBoJ-VqYXmXRy2I7YOifXYsik%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2hd595B3lY8kac8ALdJwSzdq1rdcqTGwgpUmA",
+            "cid": "17504755123197642256",
+            "fid": "0x5495a76dcc718def:0xf2ed620a56650610",
+            "placeId": "ChIJ741xzG2nlVQREAZlVgpi7fI"
+        },
+        {
+            "position": 10,
+            "title": "Adventist Health Urgent Care - Parkrose",
+            "address": "1350 NE 122nd Ave #200, Portland, OR 97230",
+            "latitude": 45.532615899999996,
+            "longitude": -122.5371132,
+            "rating": 3.6,
+            "ratingCount": 186,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://adventisthealth.org/locations/detail/adventist-health-urgent-care-parkrose/",
+            "phoneNumber": "(503) 408-7008",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "9\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://clockwisemd.com/hospitals/2260/visits/new?rwg_token=AAiGsobhzJIdRJUkGgLVqk9I6xgPR8eYAkSZJKKR8PbSbgbHuTS2Kyk1uClAnRbUu0aug-GUPMZzbrqy9Ax-_Ny13AXUL3o50wHiIeajZmxtmfi8F14lYyk%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZIefdIyPNVAboR4B3Or2jsibGlnTWG1h8Y4Z7",
+            "cid": "6125658377719899502",
+            "fid": "0x5495a17fd5c85abb:0x5502b5d6e363e56e",
+            "placeId": "ChIJu1rI1X-hlVQRbuVj49a1AlU"
+        },
+        {
+            "position": 11,
+            "title": "Evergreen Urgent Care",
+            "address": "2250 NW Flanders St #109, Portland, OR 97210",
+            "latitude": 45.5254103,
+            "longitude": -122.6974139,
+            "rating": 5,
+            "ratingCount": 175,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Physical examination center",
+                "STD testing service",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.evergreenurgent.com/",
+            "phoneNumber": "(503) 479-7713",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.fluency.health/scheduleevergreen"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjWKPQ1eqJNrroCKEbEB1umEsvr7RjB_a9ewtB",
+            "cid": "16429462582453476450",
+            "fid": "0x549509425b6c732d:0xe4012d2bf5b61c62",
+            "placeId": "ChIJLXNsW0IJlVQRYhy29SstAeQ"
+        },
+        {
+            "position": 12,
+            "title": "Legacy-GoHealth Urgent Care",
+            "address": "1244 NW Marshall St, Portland, OR 97209",
+            "latitude": 45.530653699999995,
+            "longitude": -122.6843074,
+            "rating": 4.5,
+            "ratingCount": 188,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Blood testing service",
+                "Child health care centre",
+                "Medical clinic",
+                "Occupational health service",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.gohealthuc.com/legacy/locations/pearl-district?utm_source=gmb&utm_medium=organic&utm_content=legacy-pearldistrict",
+            "phoneNumber": "(971) 232-8620",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.gohealthuc.com/legacy/locations/pearl-district?utm_source=gmb-bookonline&utm_medium=organic&utm_content=legacy-pearl-district&rwg_token=AAiGsoZXuj5ztup9gF0yHsO_by_R8eIHZtUFwEyX630pU_pFDGhzmnRzIusPUDMGlRHea-SbPDWxqalaDTCnSeKryjJhvrz5WnzDoVewrYKohmfaCngLZJc%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPN8LD0rBr-4EyiN4cW-xSDfFdSzOQMAi1BRVOG",
+            "cid": "365074781415589249",
+            "fid": "0x549509fdd52a3b97:0x511019456bac581",
+            "placeId": "ChIJlzsq1f0JlVQRgcW6VpQBEQU"
+        },
+        {
+            "position": 13,
+            "title": "Legacy-GoHealth Urgent Care",
+            "address": "4800 SW 76th Ave, Portland, OR 97225",
+            "latitude": 45.4851588,
+            "longitude": -122.7546189,
+            "rating": 4.6,
+            "ratingCount": 318,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Blood testing service",
+                "Child health care centre",
+                "Medical clinic",
+                "Occupational health service",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.gohealthuc.com/legacy/locations/raleigh-hills?utm_source=gmb&utm_medium=organic&utm_content=legacy-raleighhills",
+            "phoneNumber": "(971) 808-0665",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.gohealthuc.com/legacy/locations/raleigh-hills?utm_source=gmb-bookonline&utm_medium=organic&utm_content=legacy-raleigh-hills&rwg_token=AAiGsoaFpfRWGyGBPBAD5RFo6I3eP-m3NZinixteJAShD_i7hHZO7j0b5OwTsoDBsId0LJGxBq1_uWS5pzojSQupBhSWwtJyO93eP-e9HRNFNQCXVk6rrkQ%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOcD9fvVnlN2VAkhUUoygKa5fkfHV5eBaX-had",
+            "cid": "6725884753037563783",
+            "fid": "0x54950bf3bb935409:0x5d57248c31051787",
+            "placeId": "ChIJCVSTu_MLlVQRhxcFMYwkV10"
+        },
+        {
+            "position": 14,
+            "title": "Providence ExpressCare - North Lombard Urgent Care",
+            "address": "5308 N Lombard St Suite 102, Portland, OR 97203",
+            "latitude": 45.5824399,
+            "longitude": -122.7244942,
+            "rating": 4,
+            "ratingCount": 47,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/or/expresscare-north-lombard?Is=location&y_source=1_OTU3NTY4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(888) 227-3312",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/expresscare-north-lombard?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AAiGsoZt2p_mAgbu3ACxdFRpJoTfrKzgB_YR9_wWDT2o3LkymGRKauF7bQJk2DC_YO7cuhGwUxgvoHlugNk3V4r_kzQuV_OTicsxaLFn5xpIwBK1-3ixNm4%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMs9jtqn8zcAk7VqG7C07rZbkvg4cNO-rijaygC",
+            "cid": "17977184071841425686",
+            "fid": "0x5495a7ee5852e74b:0xf97bc9aa87eb2916",
+            "placeId": "ChIJS-dSWO6nlVQRFinrh6rJe_k"
+        },
+        {
+            "position": 15,
+            "title": "AFC Urgent Care Cedar Hills",
+            "address": "11786 NW Cedar Falls Dr #120, Portland, OR 97229",
+            "latitude": 45.5201315,
+            "longitude": -122.80082619999999,
+            "rating": 4.8,
+            "ratingCount": 481,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Occupational health service",
+                "Occupational medical physician",
+                "STD testing service",
+                "Walk-in clinic",
+                "X-ray lab"
+            ],
+            "website": "https://www.afcurgentcare.com/cedar-hills-mill/?utm_source=GBP+Organic+Website+Button&utm_medium=GBP+Profile&utm_campaign=GBP_Organic_Website_Link&utm_id=Cedar+Hills+Google+Business+Profile",
+            "phoneNumber": "(503) 305-6262",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://afcurgentcareportland.com/",
+                "https://www.solvhealth.com/afc-urgent-care-portland-or-0VGkMv?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-W4o1yL&rwg_token=AAiGsobXk11Qa1xV_XriFQmhp7oupwqHvaj5LQIZJ0Un_7ekHRw04fiB7nrCeGvKT22ngLCxjJ5EPtRUI5xsEfklEL9_ffKbaMSySIbRqfBxdMbPBXvHl9E%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCHtlmgr42a1X5QPYX93n8kGRxVGfDwRFfj7iV",
+            "cid": "10574352314979382704",
+            "fid": "0x549509acf0fc9eb1:0x92bfa567b82cf5b0",
+            "placeId": "ChIJsZ788KwJlVQRsPUsuGelv5I"
+        },
+        {
+            "position": 16,
+            "title": "Providence ExpressCare - Urgent Care In Creston",
+            "address": "3822 SE Powell Blvd, Portland, OR 97202",
+            "latitude": 45.4968171,
+            "longitude": -122.62329469999999,
+            "rating": 4,
+            "ratingCount": 46,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "General practitioner",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/or/expresscare-creston?Is=location&y_source=1_MjkxOTA5NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(888) 227-3312",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/expresscare-creston?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AAiGsoZI07M7O667VCQe2nAFK-CJU6zt9ZgL-HDr3qpykWUdVIqQWgBMiFPGjgozNHE_s9FkRa94TnPMgbNwlDrm0Un0H9M0CIPCM_ZjEPf3fBAQNF745l0%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoTpE7EKx3uDdqTEsOukZZmVGGLhepGggMVL2b",
+            "cid": "4569638033619408621",
+            "fid": "0x5495a1c72ad03839:0x3f6a9d94a1ffd6ed",
+            "placeId": "ChIJOTjQKsehlVQR7db_oZSdaj8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "Adventist Arthritis and Bone Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5144989,-122.5588351,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Adventist Health Rheumatology and Endocrinology Clinic",
+            "address": "10101 SE Main St #2011, Portland, OR 97216",
+            "latitude": 45.514339299999996,
+            "longitude": -122.5594677,
+            "rating": 4.7,
+            "ratingCount": 52,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://adventisthealth.org/locations/detail/adventist-health-rheumatology-and-endocrinology-clinic/",
+            "phoneNumber": "(503) 261-6912",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMc9kezchADcMmAoIQGSwvcMzH_-cKhP0wh1ng",
+            "cid": "1212439453199810743",
+            "fid": "0x5495a1787d372b41:0x10d3734247a4c0b7",
+            "placeId": "ChIJQSs3fXihlVQRt8CkR0Jz0xA"
+        },
+        {
+            "position": 2,
+            "title": "Arthritis & Bone Care",
+            "address": "10201 SE 102nd Ave UNIT 25, Portland, OR 97216",
+            "latitude": 45.5146586,
+            "longitude": -122.5582026,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(503) 261-6912",
+            "cid": "9249514391681240014",
+            "fid": "0x5495a1a3688c8f3f:0x805ce0554d060bce",
+            "placeId": "ChIJP4-MaKOhlVQRzgsGTVXgXIA"
+        }
+    ],
+    "credits": 3
+}

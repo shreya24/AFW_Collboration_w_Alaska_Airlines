@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Juneau Pediatric Dentistry",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3637782,-134.590543,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Juneau Pediatric Dentistry",
+            "address": "9309 Glacier Hwy Suite B103, Juneau, AK 99801",
+            "latitude": 58.3637782,
+            "longitude": -134.590543,
+            "rating": 5,
+            "ratingCount": 57,
+            "type": "Pediatric dentist",
+            "types": [
+                "Pediatric dentist",
+                "Dentist"
+            ],
+            "website": "http://www.juneaupediatricdentistry.com/",
+            "phoneNumber": "(907) 523-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "10\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5DgDWfEXzMz978KiVTXWQqUCHBEUH8eLlHI2O",
+            "cid": "2008567289202074883",
+            "fid": "0x54011e1ea16f7f27:0x1bdfdd4ec45be503",
+            "placeId": "ChIJJ39voR4eAVQRA-VbxE7d3xs"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,391 @@
+{
+    "searchParameters": {
+        "q": "Central MT Skilled Nursing",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.593922,-109.5747192,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yellowstone River Nursing and Rehabilitation",
+            "address": "2115 Central Ave, Billings, MT 59102",
+            "latitude": 45.7703792,
+            "longitude": -108.57008119999999,
+            "rating": 2.1,
+            "ratingCount": 36,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Physical therapy clinic",
+                "Rehabilitation center",
+                "Retirement community"
+            ],
+            "website": "https://www.yellowstoneriverhc.com/",
+            "phoneNumber": "(406) 656-6500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOHQNYD1RJYKM-NIEPjH-GLIAV7x8usl9rT5gLA",
+            "cid": "7732806526172619631",
+            "fid": "0x53487cc8d978a33b:0x6b507290bd57636f",
+            "placeId": "ChIJO6N42ch8SFMRb2NXvZByUGs"
+        },
+        {
+            "position": 2,
+            "title": "Central Montana Hospital and Nursing Home Heliport",
+            "address": "Lewistown, MT 59457",
+            "latitude": 47.0580286,
+            "longitude": -109.43962719999999,
+            "type": "Heliport",
+            "types": [
+                "Heliport"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FuNxB5VnJlAYVaMxwW3EwA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=0.8285973&pitch=0&thumbfov=100",
+            "cid": "9895809542206257532",
+            "fid": "0x5340d4bac1ff9d55:0x8954fa59301ff97c",
+            "placeId": "ChIJVZ3_wbrUQFMRfPkfMFn6VIk"
+        },
+        {
+            "position": 3,
+            "title": "Montana Mental Health Nursing Care Center",
+            "address": "800 Casino Creek Dr, Lewistown, MT 59457",
+            "latitude": 47.0559405,
+            "longitude": -109.42481219999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Mental health service",
+                "Pharmacy",
+                "Public health department"
+            ],
+            "website": "http://mt.gov/",
+            "phoneNumber": "(406) 538-7451",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xaMTUYfghElCzOnQX9fWlg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=8.811666&pitch=0&thumbfov=100",
+            "cid": "6253921034879639473",
+            "fid": "0x5340d4a9bb7b85af:0x56ca640be9581fb1",
+            "placeId": "ChIJr4V7u6nUQFMRsR9Y6QtkylY"
+        },
+        {
+            "position": 4,
+            "title": "Valle Vista Rehab & Nursing",
+            "address": "402 Summit Ave, Lewistown, MT 59457",
+            "latitude": 47.049020999999996,
+            "longitude": -109.428868,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://www.vallevistamanor.com/",
+            "phoneNumber": "(406) 538-8775",
+            "cid": "9528721932205813094",
+            "fid": "0x5340d4ad3afeea0f:0x843cd21cac99ed66",
+            "placeId": "ChIJD-r-Oq3UQFMRZu2ZrBzSPIQ"
+        },
+        {
+            "position": 5,
+            "title": "Elk Run Assisted Living",
+            "address": "31383 Frost Way, Evergreen, CO 80439",
+            "latitude": 39.6597578,
+            "longitude": -105.3559186,
+            "rating": 4.4,
+            "ratingCount": 29,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Hospice"
+            ],
+            "website": "https://www.elkrunassistedliving.com/",
+            "phoneNumber": "(303) 679-8777",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.elkrunassistedliving.com/?openFurtherEVSA=55&utm_source=GMB&utm_medium=VSA"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEp23PIGYMvm89nsHMuXa7z5mVbZS6pC2DcwhE",
+            "cid": "3864601270484427194",
+            "fid": "0x876b9ee347a72879:0x35a1d26145bf61ba",
+            "placeId": "ChIJeSinR-Oea4cRumG_RWHSoTU"
+        },
+        {
+            "position": 6,
+            "title": "Tobacco Root Mountain Care Center",
+            "address": "326 Madison St, Sheridan, MT 59749",
+            "latitude": 45.4518838,
+            "longitude": -112.19154619999999,
+            "rating": 4.8,
+            "ratingCount": 23,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Non-profit organization"
+            ],
+            "website": "http://trmccnursinghome.com/",
+            "phoneNumber": "(406) 842-5600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "5054373414257031111",
+            "fid": "0x535a63a4bc5b5c5d:0x4624bdd74ef7f7c7",
+            "placeId": "ChIJXVxbvKRjWlMRx_f3Tte9JEY"
+        },
+        {
+            "position": 7,
+            "title": "Central Montana Medical Center",
+            "address": "408 Wendell Ave, Lewistown, MT 59457",
+            "latitude": 47.058645899999995,
+            "longitude": -109.44330719999999,
+            "rating": 3.5,
+            "ratingCount": 29,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.cmmc.health/",
+            "phoneNumber": "(406) 535-7711",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "5347541363870355162",
+            "fid": "0x5340d4bbb7eac5e1:0x4a364889b7334eda",
+            "placeId": "ChIJ4cXqt7vUQFMR2k4zt4lINko"
+        },
+        {
+            "position": 8,
+            "title": "Manor Health Care Center",
+            "address": "2115 Central Ave, Billings, MT 59102",
+            "latitude": 45.770608499999994,
+            "longitude": -108.5702767,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Professional services"
+            ],
+            "phoneNumber": "(406) 651-2069",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QDqTKKJyDF0FQLNcrxeOfA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=11.520129&pitch=0&thumbfov=100",
+            "cid": "2806925756852983407",
+            "fid": "0x53487cc8d978a33b:0x26f4341aa81dd66f",
+            "placeId": "ChIJO6N42ch8SFMRb9YdqBo09CY"
+        },
+        {
+            "position": 9,
+            "title": "Brookdale Parkplace",
+            "address": "111 Emerson St, Denver, CO 80218",
+            "latitude": 39.719009,
+            "longitude": -104.9778484,
+            "rating": 3.9,
+            "ratingCount": 47,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility",
+                "Home health care service",
+                "Hospice",
+                "Retirement community",
+                "Retirement home",
+                "Senior citizen center"
+            ],
+            "website": "https://www.brookdale.com/en/communities/brookdale-parkplace.html?cid=yext",
+            "phoneNumber": "(303) 744-0400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB97Gc7vbexnG_e_aMIBhYC8S6a7qSeOXz6z0VkjaLe3l1t-LudNYBc3NhmRLnTuDE0529yRG_rgqTU3o8_BMgN5OLzO3saDt8c1PHyseKCN6O2g8SbNh9x7tM4ND53_blwYmywW",
+            "cid": "9683386059411718999",
+            "fid": "0x876c7ee76457180f:0x86624c50f6348357",
+            "placeId": "ChIJDxhXZOd-bIcRV4M09lBMYoY"
+        },
+        {
+            "position": 10,
+            "title": "North Central Independent Living Services, Inc.",
+            "address": "1120 25th Ave NE, Black Eagle, MT 59414",
+            "latitude": 47.5280862,
+            "longitude": -111.2861776,
+            "rating": 4.6,
+            "ratingCount": 24,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Disability services and support organization"
+            ],
+            "website": "http://ncils.org/",
+            "phoneNumber": "(800) 823-6245",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Up_O2f9CcHEW2bQqgG8NIQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=167.78078&pitch=0&thumbfov=100",
+            "cid": "14904254570851422402",
+            "fid": "0x5342382d0b854d61:0xced68c90e99750c2",
+            "placeId": "ChIJYU2FCy04QlMRwlCX6ZCM1s4"
+        },
+        {
+            "position": 11,
+            "title": "Mt.Ascension Transitional Care of Cascadia",
+            "address": "2475 Winne Ave, Helena, MT 59601",
+            "latitude": 46.5808636,
+            "longitude": -111.9984234,
+            "rating": 2.6,
+            "ratingCount": 7,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://www.ascensionofcascadia.com/",
+            "phoneNumber": "(406) 442-1350",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MaSwgc_gR8UMwyo28dO28Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.44476&pitch=0&thumbfov=100",
+            "cid": "11591827643393939102",
+            "fid": "0x53435542fe006fb9:0xa0de71d3560c969e",
+            "placeId": "ChIJuW8A_kJVQ1MRnpYMVtNx3qA"
+        },
+        {
+            "position": 12,
+            "title": "Laurel Health and Rehabilitation",
+            "address": "820 3rd Ave, Laurel, MT 59044",
+            "latitude": 45.677113299999995,
+            "longitude": -108.7753393,
+            "rating": 3.4,
+            "ratingCount": 61,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center",
+                "Retirement home"
+            ],
+            "website": "https://www.laurelhealthandrehab.com/",
+            "phoneNumber": "(406) 628-8251",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8V0O557tk5MvJFZq-BR6dSVHtDRUfG-yke4Pk",
+            "cid": "4044367135490226384",
+            "fid": "0x53488e45d58a6f3f:0x38207a7b5428b8d0",
+            "placeId": "ChIJP2-K1UWOSFMR0LgoVHt6IDg"
+        },
+        {
+            "position": 13,
+            "title": "Continental Care and Rehabilitation",
+            "address": "2400 Continental Dr, Butte, MT 59701",
+            "latitude": 45.9888532,
+            "longitude": -112.4856916,
+            "rating": 3.8,
+            "ratingCount": 21,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "https://continentalcare.org/",
+            "phoneNumber": "(406) 723-6556",
+            "cid": "12505989426627728941",
+            "fid": "0x535b0929483db119:0xad8e331fbaefd62d",
+            "placeId": "ChIJGbE9SCkJW1MRLdbvuh8zjq0"
+        },
+        {
+            "position": 14,
+            "title": "Aspen Meadows Health and Rehabilitation",
+            "address": "3155 Avenue C, Billings, MT 59102",
+            "latitude": 45.786504699999995,
+            "longitude": -108.5941943,
+            "rating": 2.8,
+            "ratingCount": 32,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center",
+                "Retirement home"
+            ],
+            "website": "https://www.aspenmeadowshealthcare.com/",
+            "phoneNumber": "(406) 656-8818",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "4246736289452654369",
+            "fid": "0x53487ce4e5572aa7:0x3aef7027b395ff21",
+            "placeId": "ChIJpypX5eR8SFMRIf-Vsydw7zo"
+        },
+        {
+            "position": 15,
+            "title": "Discovery Care Centre",
+            "address": "601 N 10th St, Hamilton, MT 59840",
+            "latitude": 46.251625999999995,
+            "longitude": -114.17159009999999,
+            "rating": 3,
+            "ratingCount": 13,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "website": "https://discoverycarecentre.org/",
+            "phoneNumber": "(406) 363-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNQoSrQDYHMnLa3TJsnqKjEJMd6jvvFZXfdTijz",
+            "cid": "11809658268054248594",
+            "fid": "0x535eb742edb1e971:0xa3e4559fe220dc92",
+            "placeId": "ChIJcemx7UK3XlMRktwg4p9V5KM"
+        }
+    ],
+    "credits": 3
+}

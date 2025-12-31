@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Samaritan North Lincoln Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9858311,-123.9943862,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Samaritan North Lincoln Hospital",
+            "address": "3043 NE 28th St, Lincoln City, OR 97367",
+            "latitude": 44.9858311,
+            "longitude": -123.9943862,
+            "rating": 3.3,
+            "ratingCount": 129,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://samhealth.org/find-a-location/samaritan-north-lincoln-hospital/",
+            "phoneNumber": "(541) 994-3661",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8CsWh_zsjMTX6Zgi6-aoIPRNzsOjrHz76sWSu4VxKkebkE9zEG-rbxYp6ac4fNsUk9dYR-ax-j9f19Ip6eggtZQY4lu8HfZvMAAAIF61pqnPHnJjQat1_a8mIEnaOZmbitp3Ev",
+            "cid": "5112904891933299386",
+            "fid": "0x54ea9299a19735c5:0x46f4afe8ee0a92ba",
+            "placeId": "ChIJxTWXoZmS6lQRupIK7uiv9EY"
+        }
+    ],
+    "credits": 3
+}

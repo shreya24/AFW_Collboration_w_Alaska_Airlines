@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "SAFES (Salvation Army Female Emergency Shelter)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5227446,-122.6721086,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Salvation Army Female Emergency Shelter",
+            "address": "30 SW 2nd Ave, Portland, OR 97204",
+            "latitude": 45.522744599999996,
+            "longitude": -122.6721086,
+            "rating": 3.2,
+            "ratingCount": 29,
+            "type": "Women's shelter",
+            "types": [
+                "Women's shelter",
+                "Homeless service"
+            ],
+            "website": "http://safeshelterpdx.org/",
+            "phoneNumber": "(503) 227-0810",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfDOzZT_AX6_dIBYmA3MNbH4M9UBug2Ll4CCSB",
+            "cid": "12680250863574218503",
+            "fid": "0x54950a073dcaac99:0xaff94cfa422e7707",
+            "placeId": "ChIJmazKPQcKlVQRB3cuQvpM-a8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Anthes Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.3834914,-89.2514596,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anthes David Dr",
+            "address": "125 Vickers St S, Thunder Bay, ON P7E 1J2, Canada",
+            "latitude": 48.3834914,
+            "longitude": -89.25145959999999,
+            "rating": 5,
+            "ratingCount": 10,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://whitecedarhealthcare.com/",
+            "phoneNumber": "+1 807-475-4357",
+            "openingHours": {
+                "Tuesday": "9:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "9:30\u202fAM\u20135\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iGk2IvuJJgr5QnZpRNgQOg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=258.39902&pitch=0&thumbfov=100",
+            "cid": "18174390658135857549",
+            "fid": "0x4d591f46de0a356b:0xfc386802f35d998d",
+            "placeId": "ChIJazUK3kYfWU0RjZld8wJoOPw"
+        }
+    ],
+    "credits": 3
+}

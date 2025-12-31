@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Community Empowerment Resources",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.2932193,-157.8216158,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Empowerment Resources (CER)",
+            "address": "1110 University Ave Suite #411, Honolulu, HI 96826",
+            "latitude": 21.2932193,
+            "longitude": -157.8216158,
+            "rating": 2.5,
+            "ratingCount": 8,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "http://cerhawaii.org/",
+            "phoneNumber": "(808) 942-7884",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RdjM4KUccbBuPaJYvYo-sw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=291.4241&pitch=0&thumbfov=100",
+            "cid": "17188298502845467618",
+            "fid": "0x7c006d9086c343f7:0xee891a6bbb7b8be2",
+            "placeId": "ChIJ90PDhpBtAHwR4ot7u2saie4"
+        }
+    ],
+    "credits": 3
+}

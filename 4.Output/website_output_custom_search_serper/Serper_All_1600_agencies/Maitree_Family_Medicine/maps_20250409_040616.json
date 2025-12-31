@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Maitree Family Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0778216,-123.119922,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Stewart L. Mones, MD",
+            "address": "90 Oakleigh Ln, Eugene, OR 97404",
+            "latitude": 44.0778216,
+            "longitude": -123.11992199999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Surgeon"
+            ],
+            "phoneNumber": "(541) 653-9700",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gn1Pod3gXtZVvYZpqmbeMw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=187.8761&pitch=0&thumbfov=100",
+            "cid": "8531450762007947970",
+            "fid": "0x54c11d9352a3b371:0x7665cd4438382ac2",
+            "placeId": "ChIJcbOjUpMdwVQRwio4OETNZXY"
+        }
+    ],
+    "credits": 3
+}

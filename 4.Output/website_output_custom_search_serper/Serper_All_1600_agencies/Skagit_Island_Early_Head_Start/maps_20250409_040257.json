@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Skagit Island Early Head Start",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.4589753,-122.33891,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Skagit Early Head Start",
+            "address": "320 Pacific Pl, Mount Vernon, WA 98273",
+            "latitude": 48.4408816,
+            "longitude": -122.3366437,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Head start center",
+            "types": [
+                "Head start center"
+            ],
+            "website": "http://www.sihs.skagit.edu/",
+            "phoneNumber": "(360) 416-2580",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PUULNEs47D8-4Zag37OXBQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=185.74791&pitch=0&thumbfov=100",
+            "cid": "9111475546641024746",
+            "fid": "0x54856c25f4b363e7:0x7e7276bc293246ea",
+            "placeId": "ChIJ52Oz9CVshVQR6kYyKbx2cn4"
+        },
+        {
+            "position": 2,
+            "title": "Skagit/Islands Head Start",
+            "address": "515 W Victoria Ave, Burlington, WA 98233",
+            "latitude": 48.4770691,
+            "longitude": -122.3411763,
+            "type": "Preschool",
+            "types": [
+                "Preschool"
+            ],
+            "website": "https://www.sihs.skagit.edu/",
+            "phoneNumber": "(360) 416-2580",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nuvF4kp4OXM1p9V4b167WQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=0.67735237&pitch=0&thumbfov=100",
+            "cid": "12344220527600301736",
+            "fid": "0x54856d971d559777:0xab4f7b2ad8b376a8",
+            "placeId": "ChIJd5dVHZdthVQRqHaz2Cp7T6s"
+        }
+    ],
+    "credits": 3
+}

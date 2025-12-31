@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Northcoast Ophthamology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8390267,-124.1135225,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Coast Ophthalmology",
+            "address": "2840 O'Neil Ln, Eureka, CA 95503",
+            "latitude": 40.7819809,
+            "longitude": -124.1356996,
+            "rating": 4.4,
+            "ratingCount": 13,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "http://www.ncodocs.com/",
+            "phoneNumber": "(707) 443-9777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mjirEk5qnGQxBQ6WU5tVaQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=356.60437&pitch=0&thumbfov=100",
+            "cid": "4727259995270064506",
+            "fid": "0x54d3ffb083ed8479:0x419a99eb6afca97a",
+            "placeId": "ChIJeYTtg7D_01QReqn8auuZmkE"
+        },
+        {
+            "position": 2,
+            "title": "North Coast Ophthalmology",
+            "address": "3798 Janes Rd #16, Arcata, CA 95521",
+            "latitude": 40.8960726,
+            "longitude": -124.09134549999999,
+            "rating": 3,
+            "ratingCount": 3,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "phoneNumber": "(707) 822-7222",
+            "cid": "12649138997197671944",
+            "fid": "0x54d1574d61c1742d:0xaf8ac4e662820e08",
+            "placeId": "ChIJLXTBYU1X0VQRCA6CYubEiq8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Camp Leo",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5756991,-102.8029649,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Leo",
+            "address": "20 Pope Ave, Hilton Head Island, SC 29938",
+            "latitude": 32.148953899999995,
+            "longitude": -80.7569559,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "https://campleosc.org/important-dates",
+            "phoneNumber": "(706) 831-0344",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mdWasr0Tuk9lGADLrgTQaw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=28.587996&pitch=0&thumbfov=100",
+            "cid": "9345688348172371429",
+            "fid": "0x88fc7906e10d0835:0x81b28e097e5245e5",
+            "placeId": "ChIJNQgN4QZ5_IgR5UVSfgmOsoE"
+        },
+        {
+            "position": 2,
+            "title": "Camp Leo",
+            "address": "31811 Pacific Hwy S, Federal Way, WA 98003",
+            "latitude": 47.2909016,
+            "longitude": -122.31811139999999,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://www.campleo.org/contact",
+            "phoneNumber": "(206) 486-8486",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IUdIyvAfpGS9Lfd72Nj_7w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=293.15115&pitch=0&thumbfov=100",
+            "cid": "5554429109309125398",
+            "fid": "0x549057a384b9f4b1:0x4d154bd8a675b316",
+            "placeId": "ChIJsfS5hKNXkFQRFrN1pthLFU0"
+        }
+    ],
+    "credits": 3
+}

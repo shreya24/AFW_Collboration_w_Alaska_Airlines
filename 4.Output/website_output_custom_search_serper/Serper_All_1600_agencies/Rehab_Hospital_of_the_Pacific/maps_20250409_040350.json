@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "Rehab Hospital of the Pacific",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3216071,-157.8542623,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "REHAB Hospital of the Pacific",
+            "address": "226 N Kuakini St, Honolulu, HI 96817",
+            "latitude": 21.321607099999998,
+            "longitude": -157.8542623,
+            "rating": 3.6,
+            "ratingCount": 55,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Medical diagnostic imaging center",
+                "Nursing home",
+                "Occupational therapist",
+                "Pain control clinic",
+                "Pain management physician",
+                "Pharmacy",
+                "Physiatrist",
+                "Physical therapist",
+                "Physical therapy clinic",
+                "Speech pathologist",
+                "Sports medicine physician",
+                "Wellness program"
+            ],
+            "website": "http://www.rehabhospital.org/",
+            "phoneNumber": "(808) 531-3511",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_193vYRJP0D3aQhS8qJJCyKXqmO5b0RQ600gxNwoiE7Afol7O_xY-c0rZLdt2vd36HhKdArMm2IAPoJh6dF7A0BtqvqPJYUOnTjD5MGVHo9sZqe-gXSvNq6O1ok7sjoAiHDVrz",
+            "cid": "13783591179474921717",
+            "fid": "0x7c006dd66762a8ef:0xbf4927262dcf68f5",
+            "placeId": "ChIJ76hiZ9ZtAHwR9WjPLSYnSb8"
+        }
+    ],
+    "credits": 3
+}

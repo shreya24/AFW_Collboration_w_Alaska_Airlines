@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Sierra Pacific Orthopedic & Spine Ctr.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.842415,-119.7602671,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra Pacific Orthopedics - Spruce Campus",
+            "address": "1270 E Spruce Ave, Fresno, CA 93720",
+            "latitude": 36.842414999999995,
+            "longitude": -119.7602671,
+            "rating": 4.9,
+            "ratingCount": 684,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Doctor",
+                "Medical clinic",
+                "Physical therapy clinic",
+                "Sports medicine clinic",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.spoc-ortho.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+            "phoneNumber": "(559) 256-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.spoc-ortho.com/schedule-appointment?utm_source=google&utm_medium=organic&utm_campaign=gmbappointment-practice-spruce"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOCYkZM-hGZfSd4J_yKOArqdzuEbjXVDz6ci9Ss",
+            "cid": "4825456279985175387",
+            "fid": "0x80945dabd8d0a001:0x42f776eb97b1bb5b",
+            "placeId": "ChIJAaDQ2KtdlIARW7uxl-t290I"
+        }
+    ],
+    "credits": 3
+}

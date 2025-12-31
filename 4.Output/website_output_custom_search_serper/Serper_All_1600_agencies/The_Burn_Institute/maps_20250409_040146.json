@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "The Burn Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7370538,-117.2145005,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Burn Institute",
+            "address": "2508 Historic Decatur Rd suite 110, San Diego, CA 92106",
+            "latitude": 32.7370538,
+            "longitude": -117.2145005,
+            "rating": 4.6,
+            "ratingCount": 11,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://burninstitute.org/",
+            "phoneNumber": "(858) 541-2277",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNeom9P6e4ln6cHTr1_TssHSZQXwwhNQ01SLmI",
+            "cid": "15293683035159893693",
+            "fid": "0x80dbffda0f013c35:0xd43e13b0ea1f96bd",
+            "placeId": "ChIJNTwBD9r_24ARvZYf6rATPtQ"
+        }
+    ],
+    "credits": 3
+}

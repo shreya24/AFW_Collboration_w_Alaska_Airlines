@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Fairbanks Public Defender Agency",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8417097,-147.7188283,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Public Defender",
+            "address": "529 5th Ave #1, Fairbanks, AK 99701",
+            "latitude": 64.8417097,
+            "longitude": -147.71882829999998,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Public defender's office",
+            "types": [
+                "Public defender's office",
+                "Attorney"
+            ],
+            "website": "https://doa.alaska.gov/pda/contact.html",
+            "phoneNumber": "(907) 458-6800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZV4AzXh5EutSlaD8xQgdPg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=228.63628&pitch=0&thumbfov=100",
+            "cid": "7357078323818283949",
+            "fid": "0x51324548df2e3bdd:0x661997c18bea43ad",
+            "placeId": "ChIJ3Tsu30hFMlERrUPqi8GXGWY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Matching Donors.com Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1608478,-71.1062069,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MatchingDonors",
+            "address": "766 Turnpike St, Canton, MA 02021",
+            "latitude": 42.1608478,
+            "longitude": -71.1062069,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Health counselor",
+            "types": [
+                "Health counselor"
+            ],
+            "website": "https://www.matchingdonors.com/",
+            "phoneNumber": "(781) 821-2204",
+            "cid": "8667368335541094617",
+            "fid": "0x89e481c2b6ec88a7:0x7848ad94596548d9",
+            "placeId": "ChIJp4jstsKB5IkR2UhlWZStSHg"
+        }
+    ],
+    "credits": 3
+}

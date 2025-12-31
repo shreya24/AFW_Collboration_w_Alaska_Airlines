@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "FKC McKinleyville Dialysis",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9392619,-124.1028151,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fresenius Kidney Care McKinleyville",
+            "address": "1550 Heartwood Dr, McKinleyville, CA 95519",
+            "latitude": 40.9392619,
+            "longitude": -124.1028151,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.freseniuskidneycare.com/dialysis-centers/california/3041?utm_campaign=Website&utm_medium=&utm_source=YextGMB&utm_content=3041&y_source=1_MjYyMzk5OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(800) 881-5101",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO2B_rl6-vzs0gcSQMHtk_3X960SevFDMUeaudn",
+            "cid": "13868189534180359685",
+            "fid": "0x54d15af330c92d73:0xc075b4e78e9c3e05",
+            "placeId": "ChIJcy3JMPNa0VQRBT6cjue0dcA"
+        }
+    ],
+    "credits": 3
+}

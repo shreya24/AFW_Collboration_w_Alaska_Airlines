@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "HRDC District 4",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.531559,-109.679563,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Human Resources Development Council District 4",
+            "address": "2229 5th Ave #108, Havre, MT 59501",
+            "latitude": 48.531558999999994,
+            "longitude": -109.679563,
+            "type": "Economic development agency",
+            "types": [
+                "Economic development agency"
+            ],
+            "website": "http://hrdc4.org/",
+            "phoneNumber": "(406) 265-6743",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "5879995921406498869",
+            "fid": "0x536ab30f79f342d1:0x5199f123102e1835",
+            "placeId": "ChIJ0ULzeQ-zalMRNRguECPxmVE"
+        }
+    ],
+    "credits": 3
+}

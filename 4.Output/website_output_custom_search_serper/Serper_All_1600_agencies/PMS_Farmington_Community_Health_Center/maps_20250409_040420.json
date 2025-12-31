@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "PMS Farmington Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.7270618,-108.2227389,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Farmington Community Health Center",
+            "address": "1001 W Broadway Suite E & D, Farmington, NM 87401",
+            "latitude": 36.7270618,
+            "longitude": -108.2227389,
+            "rating": 3.5,
+            "ratingCount": 117,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dentist",
+                "Family practice physician",
+                "Mental health clinic"
+            ],
+            "website": "https://www.pmsnm.org/locations/farmington-community-health-center/",
+            "phoneNumber": "(505) 327-4796",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwDhMpBteSldZfy_F2oDR5up8Ra8ps1jRUPuFS",
+            "cid": "7657835045102125774",
+            "fid": "0x873b8ff62566fed3:0x6a4618668bd982ce",
+            "placeId": "ChIJ0_5mJfaPO4cRzoLZi2YYRmo"
+        }
+    ],
+    "credits": 3
+}

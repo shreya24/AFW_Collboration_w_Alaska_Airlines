@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "Odyssey Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@50.8440108,-111.1595072,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Odyssey Med, P.C.",
+            "address": "375 Westgate Dr #2, Brockton, MA 02301",
+            "latitude": 42.0970916,
+            "longitude": -71.0555038,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "phoneNumber": "(508) 562-6308",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kGbojQf_atOFb1MkVNlj6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=286.06454&pitch=0&thumbfov=100",
+            "cid": "10555408132198114236",
+            "fid": "0x89e485e68ee926a3:0x927c57c572f023bc",
+            "placeId": "ChIJoybpjuaF5IkRvCPwcsVXfJI"
+        },
+        {
+            "position": 2,
+            "title": "Odyssey",
+            "address": "411 Waverley Oaks Rd, Waltham, MA 02452",
+            "latitude": 42.386903,
+            "longitude": -71.2016739,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(781) 906-8080",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q_pRHYyKDlPPMmKgF-fyqg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=12.403237&pitch=0&thumbfov=100",
+            "cid": "10448249761856517008",
+            "fid": "0x89e39d5a8f3578d1:0x90ffa3cd1c047390",
+            "placeId": "ChIJ0Xg1j1qd44kRkHMEHM2j_5A"
+        },
+        {
+            "position": 3,
+            "title": "Odyssey Health System Corporation",
+            "address": "3340 W Market St STE 200, Fairlawn, OH 44333",
+            "latitude": 41.1327533,
+            "longitude": -81.621419,
+            "rating": 2,
+            "ratingCount": 12,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "phoneNumber": "(330) 668-6740",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "9962624559069199869",
+            "fid": "0x8830da8228f077e3:0x8a425a4091e6fdfd",
+            "placeId": "ChIJ43fwKILaMIgR_f3mkUBaQoo"
+        },
+        {
+            "position": 4,
+            "title": "Odyssey Occupational Health",
+            "address": "11595 Kenai Spur Hwy, Kenai, AK 99611",
+            "latitude": 60.555268399999996,
+            "longitude": -151.26351069999998,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://odysseyfamilypractice.com/",
+            "phoneNumber": "(907) 313-5363",
+            "cid": "5805741361442854899",
+            "fid": "0x56c67dc96f43276d:0x50922302129817f3",
+            "placeId": "ChIJbSdDb8l9xlYR8xeYEgIjklA"
+        }
+    ],
+    "credits": 3
+}

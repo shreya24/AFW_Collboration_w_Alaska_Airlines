@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Redding Rancheria Indian Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5735701,-122.370239,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Redding Rancheria Indian Health",
+            "address": "3184 Churn Crk Rd, Redding, CA 96002",
+            "latitude": 40.5613507,
+            "longitude": -122.35363459999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Federal government office",
+            "types": [
+                "Federal government office"
+            ],
+            "website": "https://www.rrths.org/",
+            "phoneNumber": "(530) 768-2436",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0fapmI9BUa-VsJobG5AHgQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=243.6448&pitch=0&thumbfov=100",
+            "cid": "2385011160721790188",
+            "fid": "0x54d2eca0365d85af:0x21194303ac2a14ec",
+            "placeId": "ChIJr4VdNqDs0lQR7BQqrANDGSE"
+        },
+        {
+            "position": 2,
+            "title": "Redding Rancheria Tribal Health Center",
+            "address": "1441 Liberty St, Redding, CA 96001",
+            "latitude": 40.5857895,
+            "longitude": -122.38684339999999,
+            "rating": 4.1,
+            "ratingCount": 74,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.rrths.org/",
+            "phoneNumber": "(530) 224-2700",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.rrths.org/covid-vaccination/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIH5BO9H6rJuDbnesgRHfz1vNe3ld-mRMljcqr",
+            "cid": "6462414312269217659",
+            "fid": "0x54d2ecdffcf5381b:0x59af1b93e234ff7b",
+            "placeId": "ChIJGzj1_N_s0lQRe_804pMbr1k"
+        }
+    ],
+    "credits": 3
+}

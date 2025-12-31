@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Tulare District Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.220182,-119.3373509,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tulare District Hospital",
+            "address": "869 N Cherry St, Tulare, CA 93274",
+            "latitude": 36.220182,
+            "longitude": -119.33735089999999,
+            "rating": 2.1,
+            "ratingCount": 17,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.adventisthealth.org/tulare/",
+            "phoneNumber": "(559) 688-0821",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPILW4JZ2ijpDd0TSwalRZKNDpI0qseHWQwCkPr",
+            "cid": "14745664751574776453",
+            "fid": "0x80952bbab81565c7:0xcca31ff7369cfa85",
+            "placeId": "ChIJx2UVuLorlYARhfqcNvcfo8w"
+        }
+    ],
+    "credits": 3
+}

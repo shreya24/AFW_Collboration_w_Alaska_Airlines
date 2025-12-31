@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Sierra Tucson",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.5165184,-110.887622,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sierra Tucson",
+            "address": "39580 S Lago Del Oro Pkwy, Tucson, AZ 85739",
+            "latitude": 32.516518399999995,
+            "longitude": -110.887622,
+            "rating": 3.9,
+            "ratingCount": 322,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Addiction treatment center",
+                "Mental health clinic",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.sierratucson.com/?utm_source=GMB&utm_medium=organic&utm_campaign=listing&utm_term=brand&y_source=1_Mzc4MjM4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(520) 800-0755",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNioIyXOlU9N81iGH1cgt8xYrxj0NX52NNCHUly",
+            "cid": "11580164207159826168",
+            "fid": "0x86d611d74e92698b:0xa0b501fdf87456f8",
+            "placeId": "ChIJi2mSTtcR1oYR-FZ0-P0BtaA"
+        }
+    ],
+    "credits": 3
+}

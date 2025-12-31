@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Integrative Medical Solutions",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6542638,-97.4179837,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Integrative Medical Solutions Edmond",
+            "address": "65 S Saints Blvd, Edmond, OK 73034",
+            "latitude": 35.654263799999995,
+            "longitude": -97.4179837,
+            "rating": 4.3,
+            "ratingCount": 36,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Internist",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.imsedmond.com/",
+            "phoneNumber": "(405) 348-2323",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://patients.doctor.com/directAppointment?partner=google&practice=8356504"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhnArtzJreVOdLcKyWFQDcarjMHhuTiVZmbuhh",
+            "cid": "8876182587411910567",
+            "fid": "0x87b22037f66549d1:0x7b2e89090431cfa7",
+            "placeId": "ChIJ0Ull9jcgsocRp88xBAmJLns"
+        }
+    ],
+    "credits": 3
+}

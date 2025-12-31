@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Kaweah Delta Health Care District",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3282067,-119.29293,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaweah Health Medical Center",
+            "address": "400 W Mineral King Ave, Visalia, CA 93291",
+            "latitude": 36.3279865,
+            "longitude": -119.29501219999999,
+            "rating": 3.1,
+            "ratingCount": 833,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.kaweahhealth.org/",
+            "phoneNumber": "(559) 624-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKIxr-8sLSwdZhP7d4CYhCSVOKzAobj8duGR1s",
+            "cid": "4430953628124861419",
+            "fid": "0x80952f65ec259e2d:0x3d7de8d93c9c53eb",
+            "placeId": "ChIJLZ4l7GUvlYAR61OcPNnofT0"
+        },
+        {
+            "position": 2,
+            "title": "Kaweah Delta Healthcare District",
+            "address": "205 S West St D, Visalia, CA 93291",
+            "latitude": 36.3289537,
+            "longitude": -119.2969438,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department"
+            ],
+            "website": "http://www.kaweahdelta.org/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qnqjs7-YI2QQLIjzj4iOdg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=285.49225&pitch=0&thumbfov=100",
+            "cid": "17161215552372652298",
+            "fid": "0x80952fb05c64d449:0xee28e29ef114b90a",
+            "placeId": "ChIJSdRkXLAvlYARCrkU8Z7iKO4"
+        },
+        {
+            "position": 3,
+            "title": "kaweah delta district hospital",
+            "address": "400 E Mineral King Ave, Visalia, CA 93291",
+            "latitude": 36.3274596,
+            "longitude": -119.2889163,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "9:58\u202fPM\u20134:44\u202fAM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R1gnPrd6z1z9z1m0U73vEw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=270.0252&pitch=0&thumbfov=100",
+            "cid": "15615216065863333851",
+            "fid": "0x80952f4d2f85d06f:0xd8b4644768c1b7db",
+            "placeId": "ChIJb9CFL00vlYAR27fBaEdktNg"
+        }
+    ],
+    "credits": 3
+}

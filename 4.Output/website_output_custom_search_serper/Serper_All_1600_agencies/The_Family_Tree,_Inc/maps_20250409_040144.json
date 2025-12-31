@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "The Family Tree, Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5415558,-90.8429681,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Family Tree Inc",
+            "address": "3805 Marshall St, Wheat Ridge, CO 80033",
+            "latitude": 39.7695538,
+            "longitude": -105.0690243,
+            "rating": 4.1,
+            "ratingCount": 112,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Homeless shelter"
+            ],
+            "website": "http://www.thefamilytree.org/",
+            "phoneNumber": "(303) 422-2133",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMw5ETITaJXxWcHZ3uGkXMeKA-hWSMc1nsAlS93",
+            "cid": "3507962355613162352",
+            "fid": "0x876b87a842a694a3:0x30aec92d2bc3db70",
+            "placeId": "ChIJo5SmQqiHa4cRcNvDKy3JrjA"
+        },
+        {
+            "position": 2,
+            "title": "The Family Tree",
+            "address": "2108 N Charles St, Baltimore, MD 21218",
+            "latitude": 39.3135579,
+            "longitude": -76.616912,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Adult education school",
+                "Family counselor",
+                "Family service center"
+            ],
+            "website": "http://www.familytreemd.org/",
+            "phoneNumber": "(410) 889-2300",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-JcJOL4v6JME_-pZvr8fYq1-I-fOsaww8YwPR5g0VkvfEmqXY5l9qBPzUfuW-OwpH02BbQ1JU_XXCuvrvTMn4O5uBNodDYzfFot15xTaCdSM3dOd0Q-AsUZVOpVfK3Ykfp29xpaA",
+            "cid": "2928015905364244817",
+            "fid": "0x89c805258e921dd9:0x28a266f3dfedf951",
+            "placeId": "ChIJ2R2SjiUFyIkRUfnt3_Nmoig"
+        }
+    ],
+    "credits": 3
+}

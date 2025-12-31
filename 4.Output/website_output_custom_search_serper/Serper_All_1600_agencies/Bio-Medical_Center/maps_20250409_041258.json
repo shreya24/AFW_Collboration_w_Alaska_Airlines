@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Bio-Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9225939,-170.1651157,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bio Medical Center",
+            "address": "Av Gral Ferreira 3170, Madero Sur, 22046 Tijuana, B.C., Mexico",
+            "latitude": 32.5133022,
+            "longitude": -117.02950209999999,
+            "rating": 4.7,
+            "ratingCount": 42,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.hoxseybiomedical.com/clinic-information/",
+            "phoneNumber": "+52 664 684 9011",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_CW2Z59ZG2UQzielUWfNRuL4uczgocTzy4MHqTIaEX6-B06O2faA1Ynk8xZS_x0LAhXjMyYYy7lDR1d_2XSeMw_t62eTcH8yH4Gk-Zf2Lnk4Fs3LajfiJCQwlZ37o0y43gEt-Ttw",
+            "cid": "5213625177030210533",
+            "fid": "0x80d9382de3a7f675:0x485a8479bceb33e5",
+            "placeId": "ChIJdfan4y042YAR5TPrvHmEWkg"
+        },
+        {
+            "position": 2,
+            "title": "Nihon Bioresearch Center, Inc.",
+            "address": "6 Chome-104 Fukujucho Majima, Hashima, Gifu 501-6251, Japan",
+            "latitude": 35.336221699999996,
+            "longitude": 136.6992707,
+            "rating": 3.8,
+            "ratingCount": 6,
+            "type": "Scientific equipment supplier",
+            "types": [
+                "Scientific equipment supplier",
+                "Medical laboratory"
+            ],
+            "website": "https://www.nbr.co.jp/",
+            "phoneNumber": "+81 58-392-6222",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kwZK7wC6tnIBmmKBvFEhEA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=290.21448&pitch=0&thumbfov=100",
+            "cid": "5250191537110630644",
+            "fid": "0x6003af889a8e5f01:0x48dc6d62e43dc0f4",
+            "placeId": "ChIJAV-OmoivA2AR9MA95GJt3Eg"
+        },
+        {
+            "position": 3,
+            "title": "bio medical clinic",
+            "address": "General Ferreira Colonia 615, Ju\u00e1rez, 22523 Tijuana, B.C., Mexico",
+            "latitude": 32.508966,
+            "longitude": -117.07426099999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.hoxseybiomedical.com/",
+            "phoneNumber": "+52 888 237 2348",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o7zOErNwODG-ATtZI_KMgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=61.14483&pitch=0&thumbfov=100",
+            "cid": "3570185988302950667",
+            "fid": "0x80d9498bedf8a6a1:0x318bd93d9edfd10b",
+            "placeId": "ChIJoab47YtJ2YARC9Hfnj3ZizE"
+        }
+    ],
+    "credits": 3
+}

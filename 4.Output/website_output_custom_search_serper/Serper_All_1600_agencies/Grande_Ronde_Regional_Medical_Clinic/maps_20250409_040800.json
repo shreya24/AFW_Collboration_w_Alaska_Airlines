@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Grande Ronde Regional Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3166002,-118.0970348,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "GRH Regional Medical Clinic",
+            "address": "506 Fourth St, La Grande, OR 97850",
+            "latitude": 45.316600199999996,
+            "longitude": -118.09703479999999,
+            "rating": 3.8,
+            "ratingCount": 94,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.grh.org/our-services/clinics/regional-medical-clinic/",
+            "phoneNumber": "(541) 663-3138",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPx1cSgJwCV3uNwd7UXYDEwK_wr6yg453Ex5J08",
+            "cid": "278575040911928575",
+            "fid": "0x54a37741da3459b3:0x3ddb28614d86cff",
+            "placeId": "ChIJs1k02kF3o1QR_2zYFIay3QM"
+        }
+    ],
+    "credits": 3
+}

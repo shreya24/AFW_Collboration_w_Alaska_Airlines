@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Gillette Outpatient VA Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.246478,-105.5113055,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gillette VA Clinic",
+            "address": "604 Express Dr, Gillette, WY 82718",
+            "latitude": 44.246477999999996,
+            "longitude": -105.51130549999999,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.va.gov/sheridan-health-care/locations/gillette-va-clinic/",
+            "phoneNumber": "(307) 685-0676",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPOMM2LaR9G8juFTVktLwHVYhbihauvlZmilU19",
+            "cid": "10628835267128571",
+            "fid": "0x533495fbf8104ec5:0x25c2de8e792cfb",
+            "placeId": "ChIJxU4Q-PuVNFMR-yx5jt7CJQA"
+        }
+    ],
+    "credits": 3
+}

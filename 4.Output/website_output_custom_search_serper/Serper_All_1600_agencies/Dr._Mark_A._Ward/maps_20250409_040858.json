@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Dr. Mark A. Ward",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8926538,-116.6549705,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Andrew Ward, PAC",
+            "address": "3590 W 9000 S Suite 240, West Jordan, UT 84088",
+            "latitude": 40.5879391,
+            "longitude": -111.9758808,
+            "rating": 4.8,
+            "ratingCount": 105,
+            "type": "Physiatrist",
+            "types": [
+                "Physiatrist"
+            ],
+            "website": "https://www.mountain.commonspirit.org/provider-search/andrew-ward-pa-c",
+            "phoneNumber": "(801) 352-8373",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKrlYQP0LuWW8wqhncW_5jDFF2dmPS_r7LIKyN",
+            "cid": "1490463814328239784",
+            "fid": "0x87528f0fc39bc425:0x14af30f13b9bc6a8",
+            "placeId": "ChIJJcSbww-PUocRqMabO_EwrxQ"
+        },
+        {
+            "position": 2,
+            "title": "Raymond Ward, MD, PhD | Utah Family Medicine Physician",
+            "address": "185 S 400 E Suite 100, Bountiful, UT 84010",
+            "latitude": 40.887832599999996,
+            "longitude": -111.87176509999999,
+            "rating": 4.8,
+            "ratingCount": 685,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.ogdenclinic.com/Providers/Ward-Raymond",
+            "phoneNumber": "(801) 298-4112",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.ogdenclinic.com/Appointment/RequestAppointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNH-_Kc9ByA-f3VIy0mFPGhWd5TgTH9RXTdOL9d",
+            "cid": "2178638335242840003",
+            "fid": "0x8752f7f0a6f811f7:0x1e3c1405e232a7c3",
+            "placeId": "ChIJ9xH4pvD3UocRw6cy4gUUPB4"
+        },
+        {
+            "position": 3,
+            "title": "Bayside Care Center: Ward Mark A MD",
+            "address": "1405 Teresa Rd, Morro Bay, CA 93442",
+            "latitude": 35.3654189,
+            "longitude": -120.82541889999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(805) 772-2237",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QxLzonub6g5ApFVUYreSXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=10.523196&pitch=0&thumbfov=100",
+            "cid": "4834156388120778330",
+            "fid": "0x80ece15eed408649:0x43165f9f5e9fd65a",
+            "placeId": "ChIJSYZA7V7h7IARWtafXp9fFkM"
+        },
+        {
+            "position": 4,
+            "title": "Mark A Ward Md",
+            "address": "355 Las Vegas St, Morro Bay, CA 93442",
+            "latitude": 35.388352499999996,
+            "longitude": -120.8572739,
+            "phoneNumber": "(805) 772-7100",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5oid49XEK_FmzaErgp6HXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=339.50885&pitch=0&thumbfov=100",
+            "cid": "14947886714697869879",
+            "fid": "0x80ece1ac5d28db97:0xcf718fc50c58ea37",
+            "placeId": "ChIJl9soXazh7IARN-pYDMWPcc8"
+        }
+    ],
+    "credits": 3
+}

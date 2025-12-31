@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Golden Umbrella",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8817123,-121.665939,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Golden Umbrella Inc",
+            "address": "37095 CA-299, Burney, CA 96013",
+            "latitude": 40.8817123,
+            "longitude": -121.665939,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "phoneNumber": "(530) 335-4096",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0H0it9l6GQoh2gOmlOk8rw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=164.13977&pitch=0&thumbfov=100",
+            "cid": "18349697392336357915",
+            "fid": "0x54cd0d0026f8e147:0xfea7388eb61eca1b",
+            "placeId": "ChIJR-H4JgANzVQRG8oeto44p_4"
+        }
+    ],
+    "credits": 3
+}

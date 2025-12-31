@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "Project Medishare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@25.8509884,-80.1933038,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Project Medishare For Haiti",
+            "address": "8260 NE 2nd Ave, Miami, FL 33138",
+            "latitude": 25.8509884,
+            "longitude": -80.1933038,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.projectmedishare.org/",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xsFlPT7H1l1_X3x-OJjatQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=262.78833&pitch=0&thumbfov=100",
+            "cid": "4634554462281864377",
+            "fid": "0x88d9b181ff799327:0x40513eba808314b9",
+            "placeId": "ChIJJ5N5_4Gx2YgRuRSDgLo-UUA"
+        }
+    ],
+    "credits": 3
+}

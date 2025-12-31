@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Power of Wellness Family Health Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3560829,-131.6926573,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Power of Wellness Family Health Clinic & Urgent Care Services",
+            "address": "3528 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.3560829,
+            "longitude": -131.6926573,
+            "rating": 4.8,
+            "ratingCount": 94,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Blood testing service",
+                "Nurse practitioner",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.powerofwellnessak.com/",
+            "phoneNumber": "(907) 220-4447",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPWWTijYrRlLMQvjnMcIA-U9OIVFgAb16-LEakK",
+            "cid": "2811099282995142968",
+            "fid": "0x540c251ab4088e6f:0x270307e76f47e138",
+            "placeId": "ChIJb44ItBolDFQROOFHb-cHAyc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Wenatchee Valley Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.4316861,-120.3221648,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wenatchee Valley Medical Center",
+            "address": "707 N Emerson Ave, Wenatchee, WA 98801",
+            "latitude": 47.4316861,
+            "longitude": -120.3221648,
+            "rating": 3.3,
+            "ratingCount": 15,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.confluencehealth.org/locations/wenatchee-valley-hospital-clinics-campus/",
+            "phoneNumber": "(509) 663-8711",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB972_lXdGxzfSe3_NwriDE37HQkBCik6yLm1GIwa-XJTjlhcNEaFi_ph20cxzRLeTecZvBY31MgZI62aSb_b14i4JDeHOvJLaG4Q_6RQBOHbII1d2yTdeaKxrtwcAlpk9DVYXeM",
+            "cid": "14487128507905507337",
+            "fid": "0x549bccd1e7fd603d:0xc90c9e9f31248009",
+            "placeId": "ChIJPWD959HMm1QRCYAkMZ-eDMk"
+        }
+    ],
+    "credits": 3
+}

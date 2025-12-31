@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "Central Coast Chest Consultants",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.2881521,-120.6575434,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Coast Chest Consultants: Siqueiros Armando F MD",
+            "address": "1428 Phillips Ln # 203, San Luis Obispo, CA 93401",
+            "latitude": 35.2881815,
+            "longitude": -120.6575213,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist"
+            ],
+            "website": "https://ccchest.com/",
+            "phoneNumber": "(805) 543-4407",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k03AETpch5tvHDIovLoH9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.66254&pitch=0&thumbfov=100",
+            "cid": "16450246602964923545",
+            "fid": "0x80ecf107822f2cf3:0xe44b0420d54cf499",
+            "placeId": "ChIJ8ywvggfx7IARmfRM1SAES-Q"
+        },
+        {
+            "position": 2,
+            "title": "Central Coast Chest Consultants: Vatsa Pravir MD",
+            "address": "1428 Phillips Ln # 203, San Luis Obispo, CA 93401",
+            "latitude": 35.2881815,
+            "longitude": -120.6575213,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Internist",
+            "types": [
+                "Internist"
+            ],
+            "phoneNumber": "(805) 543-4407",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k03AETpch5tvHDIovLoH9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.66254&pitch=0&thumbfov=100",
+            "cid": "445503539365505934",
+            "fid": "0x80ecf107822f2cf3:0x62ebf1bd20f6b8e",
+            "placeId": "ChIJ8ywvggfx7IARjmsP0hu_LgY"
+        },
+        {
+            "position": 3,
+            "title": "Central Coast Chest Consultants",
+            "address": "1428 Phillips Ln # 203, San Luis Obispo, CA 93401",
+            "latitude": 35.2881226,
+            "longitude": -120.6575656,
+            "rating": 2.1,
+            "ratingCount": 7,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Intensivist",
+                "Internist",
+                "Pulmonologist"
+            ],
+            "website": "http://www.centralcoastchestconsultants.com/",
+            "phoneNumber": "(805) 543-4407",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k03AETpch5tvHDIovLoH9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=338.74097&pitch=0&thumbfov=100",
+            "cid": "1620169549586129226",
+            "fid": "0x80ecf107822f2cf3:0x167bff9f0efc614a",
+            "placeId": "ChIJ8ywvggfx7IARSmH8Dp__exY"
+        }
+    ],
+    "credits": 3
+}

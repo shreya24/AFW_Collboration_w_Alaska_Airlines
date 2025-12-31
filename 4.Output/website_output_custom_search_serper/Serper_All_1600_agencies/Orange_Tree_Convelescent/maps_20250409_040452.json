@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Orange Tree Convelescent",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9206073,-117.454918,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Orangetree",
+            "address": "4000 Harrison St, Riverside, CA 92503",
+            "latitude": 33.9206073,
+            "longitude": -117.45491799999999,
+            "rating": 2.3,
+            "ratingCount": 44,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Rehabilitation center"
+            ],
+            "phoneNumber": "(951) 785-6060",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-OP51_dUU1w3ysg4_SMFWgadg820dbeQinZ9b8Nh1lx9ZmZ3Sc1ZEWbBh2mR01taS21OdUNh2IoQoScKxRWBpqLnToCDUYtWFlAbkkPyyNJB6LJBftc5Rbf57eJ-6hOVkHRbPG",
+            "cid": "12508442027673862811",
+            "fid": "0x80dcb0cd3820aff1:0xad96e9c06911429b",
+            "placeId": "ChIJ8a8gOM2w3IARm0IRacDplq0"
+        }
+    ],
+    "credits": 3
+}

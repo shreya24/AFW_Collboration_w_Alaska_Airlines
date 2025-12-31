@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Scripps Clinic - Anderson Medical Pavilion",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8843387,-117.2244128,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Clinic John R. Anderson V Medical Pavilion",
+            "address": "9898 Genesee Ave, La Jolla, CA 92037",
+            "latitude": 32.8843387,
+            "longitude": -117.2244128,
+            "rating": 4,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.scripps.org/locations/scripps-clinic/scripps-clinic-john-r-anderson-v-medical-pavilion?tab=overview",
+            "phoneNumber": "(858) 824-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOdSCXvFLfRqy30XNJYKqLhjHt97rcPRvXGRBYW",
+            "cid": "15168092640848428782",
+            "fid": "0x80dc06de0e313e47:0xd27fe3e491fcbeee",
+            "placeId": "ChIJRz4xDt4G3IAR7r78keTjf9I"
+        }
+    ],
+    "credits": 3
+}

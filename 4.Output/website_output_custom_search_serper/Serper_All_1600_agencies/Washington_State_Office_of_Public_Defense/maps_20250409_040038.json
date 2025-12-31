@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Washington State Office of Public Defense",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.0418469,-122.9016971,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Washington State Office of Public Defense",
+            "address": "Evergreen Plaza, 711 Capitol Way S, Olympia, WA 98501",
+            "latitude": 47.041846899999996,
+            "longitude": -122.90169709999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "http://www.opd.wa.gov/",
+            "phoneNumber": "(360) 586-3164",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dJQHGSZ_tu2Aq-Fj_qB4dg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=266.49948&pitch=0&thumbfov=100",
+            "cid": "12276780057738146947",
+            "fid": "0x5491751d1e07ce2d:0xaa5fe26ad714f483",
+            "placeId": "ChIJLc4HHh11kVQRg_QU12riX6o"
+        }
+    ],
+    "credits": 3
+}

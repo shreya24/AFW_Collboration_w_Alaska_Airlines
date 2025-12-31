@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Stillwater Billings Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6428318,-109.2422733,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Stillwater Billings Clinic",
+            "address": "710 11th St N, Columbus, MT 59019",
+            "latitude": 45.642831799999996,
+            "longitude": -109.2422733,
+            "rating": 3.9,
+            "ratingCount": 28,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.billingsclinic.com/maps-locations/location-profile/?id=153&utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=09813321786622793264",
+            "phoneNumber": "(406) 322-1000",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0-4eecDnZ9MMK1LDWR1_MYHOgwOVjL49VzeQM",
+            "cid": "1130778821200274799",
+            "fid": "0x5348b01e7880eb99:0xfb15558c52d656f",
+            "placeId": "ChIJmeuAeB6wSFMRb2UtxVhVsQ8"
+        }
+    ],
+    "credits": 3
+}

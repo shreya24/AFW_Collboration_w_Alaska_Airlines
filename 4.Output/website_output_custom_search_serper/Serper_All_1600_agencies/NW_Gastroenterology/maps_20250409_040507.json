@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "NW Gastroenterology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5307413,-122.6963186,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Gastroenterology Clinic",
+            "address": "1130 NW 22nd Ave #410, Portland, OR 97210",
+            "latitude": 45.530741299999995,
+            "longitude": -122.6963186,
+            "rating": 3.7,
+            "ratingCount": 40,
+            "type": "Gastroenterologist",
+            "types": [
+                "Gastroenterologist"
+            ],
+            "website": "https://www.nwgastro.net/",
+            "phoneNumber": "(503) 229-7137",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB82xM3aYiPCrWZz65KDrgj_woduORp-z4F9naibVAgtwZXld9sIDQwcnooovD4BDqno8kdsCF52ufQJ6nia_v94SB8UFvVE312Ln-Ff4ikjOdBQ-M1ZVEaBY-EXqF1L56pXGWYf",
+            "cid": "11660743145099329961",
+            "fid": "0x549509fabfa4b42f:0xa1d3481bf4b781a9",
+            "placeId": "ChIJL7Skv_oJlVQRqYG39BtI06E"
+        }
+    ],
+    "credits": 3
+}

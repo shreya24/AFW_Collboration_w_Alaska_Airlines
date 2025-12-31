@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Michael D. Moran, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5490241,-117.708461,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Moran Michael D MD",
+            "address": "30131 Town Center Dr #211, Laguna Niguel, CA 92677",
+            "latitude": 33.5256452,
+            "longitude": -117.715024,
+            "rating": 4.3,
+            "ratingCount": 11,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist"
+            ],
+            "website": "http://www.heartrepair.com/",
+            "phoneNumber": "(949) 297-8167",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f6MRnrmQ78tDiBHgqpQ_Yw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=97.28321&pitch=0&thumbfov=100",
+            "cid": "10513343271119578287",
+            "fid": "0x80dce93235229d49:0x91e6e600c4d364af",
+            "placeId": "ChIJSZ0iNTLp3IARr2TTxADm5pE"
+        },
+        {
+            "position": 2,
+            "title": "Orange County Heart Center: Moran Michael D MD",
+            "address": "24541 Pacific Park Dr # 109, Aliso Viejo, CA 92656",
+            "latitude": 33.572403,
+            "longitude": -117.701898,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(949) 362-1212",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TQiLTwsYhdJaqgQnqLUCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=206.1185&pitch=0&thumbfov=100",
+            "cid": "13396630836779062895",
+            "fid": "0x80dcef254b917909:0xb9ea64c48542966f",
+            "placeId": "ChIJCXmRSyXv3IARb5ZChcRk6rk"
+        }
+    ],
+    "credits": 3
+}

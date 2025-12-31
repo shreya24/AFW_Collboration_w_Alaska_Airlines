@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "J/P HRO",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@18.5313835,-72.2715015,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "JPHRO Office",
+            "address": "GPJH+H95, Boisrond Canal, Port-au-Prince, Haiti",
+            "latitude": 18.5313835,
+            "longitude": -72.2715015,
+            "rating": 4.4,
+            "ratingCount": 8,
+            "type": "Non-governmental organization",
+            "types": [
+                "Non-governmental organization"
+            ],
+            "cid": "13616213362355876279",
+            "fid": "0x8eb9e6257b7af8c1:0xbcf681e9492631b7",
+            "placeId": "ChIJwfh6eyXmuY4RtzEmSemB9rw"
+        }
+    ],
+    "credits": 3
+}

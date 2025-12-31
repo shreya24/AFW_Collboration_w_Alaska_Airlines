@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mad River Healthcare Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8956744,-124.0912715,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mad River Healthcare Clinic",
+            "address": "3798 Janes Rd, Arcata, CA 95521",
+            "latitude": 40.8956744,
+            "longitude": -124.09127149999999,
+            "rating": 2.3,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://madriverhospital.com/",
+            "phoneNumber": "(707) 825-4959",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "7599826104652083611",
+            "fid": "0x54d1574d61c1742d:0x697801939a87319b",
+            "placeId": "ChIJLXTBYU1X0VQRmzGHmpMBeGk"
+        }
+    ],
+    "credits": 3
+}

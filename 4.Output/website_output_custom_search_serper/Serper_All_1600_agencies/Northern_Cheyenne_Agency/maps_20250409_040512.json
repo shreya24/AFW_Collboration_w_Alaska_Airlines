@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Northern Cheyenne Agency",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6201897,-106.6624061,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bureau of Indian Affairs",
+            "address": "Hwy 39 N, Cheyenne Ave, Lame Deer, MT 59043",
+            "latitude": 45.629100699999995,
+            "longitude": -106.67037959999999,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Federal government office",
+            "types": [
+                "Federal government office",
+                "Social services organization"
+            ],
+            "website": "https://www.bia.gov/regional-offices/rocky-mountain/northern-cheyenne-agency",
+            "phoneNumber": "(406) 477-8242",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXfKyZcV0MKmje_PEWgzcLSkXs2HoJT_CAmCyl",
+            "cid": "4368957921484003813",
+            "fid": "0x5337023192da62c9:0x3ca1a814f4aed9e5",
+            "placeId": "ChIJyWLakjECN1MR5dmu9BSooTw"
+        },
+        {
+            "position": 2,
+            "title": "Northern Cheyenne TERO Office",
+            "address": "1134 Black Kettle Rd, Lame Deer, MT 59043",
+            "latitude": 45.6112787,
+            "longitude": -106.65443259999999,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Employment center",
+            "types": [
+                "Employment center",
+                "Business management consultant",
+                "Public services"
+            ],
+            "website": "http://www.cheyennenation.com/",
+            "phoneNumber": "(406) 477-6287",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "11462970822817457806",
+            "fid": "0x5337023b2fd4319b:0x9f14a73adcb3a68e",
+            "placeId": "ChIJmzHULzsCN1MRjqaz3DqnFJ8"
+        }
+    ],
+    "credits": 3
+}

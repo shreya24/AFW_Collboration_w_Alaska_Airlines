@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Northern Hematology/Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.8682111,-104.9974943,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "National Jewish Health Northern Hematology-Oncology",
+            "address": "9451 Huron St, Denver, CO 80260",
+            "latitude": 39.868211099999996,
+            "longitude": -104.9974943,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "https://www.nationaljewish.org/about/locations/Northern-Hematology-Oncology?utm_source=gmb&utm_medium=yext&utm_id=nobl6&y_source=1_MTIyNzk2ODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(303) 650-4042",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://my.njhealth.org/PatientPortal/Users/Common/Forms/AppointmentRequest.aspx?utm_source=gmb&utm_medium=yext&utm_id=nobl6&y_source=1_MTIyNzk2ODQtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpE1ZHCbuuSp2KM_If_WSp6wY-k2B4YFmIVmGi",
+            "cid": "7404125594901186151",
+            "fid": "0x876c765aa8155d89:0x66c0bcfff4768667",
+            "placeId": "ChIJiV0VqFp2bIcRZ4Z29P-8wGY"
+        }
+    ],
+    "credits": 3
+}

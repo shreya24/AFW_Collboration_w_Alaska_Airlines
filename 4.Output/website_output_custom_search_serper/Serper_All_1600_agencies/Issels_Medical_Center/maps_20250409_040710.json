@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Issels Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4231316,-119.6967429,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Issels Medical Center",
+            "address": "815 Garden St, Santa Barbara, CA 93101",
+            "latitude": 34.4231316,
+            "longitude": -119.69674289999999,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=axHPENg-kn1s0RXC9oSD2A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=220.37093&pitch=0&thumbfov=100",
+            "cid": "13090075336860576843",
+            "fid": "0x80e915e0e451eed3:0xb5a94a2a28ad2c4b",
+            "placeId": "ChIJ0-5R5OAV6YARSyytKCpKqbU"
+        }
+    ],
+    "credits": 3
+}

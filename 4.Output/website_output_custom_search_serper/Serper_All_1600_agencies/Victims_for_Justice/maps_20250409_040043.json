@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Victims for Justice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.199265,-149.9037799,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Victims For Justice",
+            "address": "1057 W Fireweed Ln #101, Anchorage, AK 99503",
+            "latitude": 61.199265,
+            "longitude": -149.9037799,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Crime victim service",
+            "types": [
+                "Crime victim service"
+            ],
+            "website": "http://www.victimsforjustice.org/",
+            "phoneNumber": "(907) 278-0977",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNogGBMzKns87VmJAuYQ2srSFVS8_8Fdxopd_LH",
+            "cid": "11780281598870800005",
+            "fid": "0x56c897da03976e75:0xa37bf7b316c3c685",
+            "placeId": "ChIJdW6XA9qXyFYRhcbDFrP3e6M"
+        }
+    ],
+    "credits": 3
+}

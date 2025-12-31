@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "United Healthcare Community Plan of New Mexico",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1766219,-106.5773688,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UnitedHealthcare Community Plan",
+            "address": "8220 San Pedro Dr NE #300, Albuquerque, NM 87113",
+            "latitude": 35.1766219,
+            "longitude": -106.5773688,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "phoneNumber": "(877) 236-0826",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mq0cNqU_rLaa6eKyXyPyAA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=93.11106&pitch=0&thumbfov=100",
+            "cid": "12574422891134308685",
+            "fid": "0x872275ca391f6b3b:0xae8152ff5199d14d",
+            "placeId": "ChIJO2sfOcp1IocRTdGZUf9Sga4"
+        }
+    ],
+    "credits": 3
+}

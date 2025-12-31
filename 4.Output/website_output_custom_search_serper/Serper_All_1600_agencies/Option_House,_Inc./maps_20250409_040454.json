@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Option House, Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1142561,-117.291617,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Option House, Inc.",
+            "address": "813 N D St A, San Bernardino, CA 92401",
+            "latitude": 34.1142561,
+            "longitude": -117.29161699999999,
+            "rating": 4.3,
+            "ratingCount": 42,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Counselor",
+                "Homeless shelter",
+                "Laundry",
+                "Legal services",
+                "Non-profit organization",
+                "Support group"
+            ],
+            "website": "http://www.optionhouseinc.com/",
+            "phoneNumber": "(909) 383-1602",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTn_d9gIxZg99BfBDuep-Wv1XqCcVJtR0msV6n",
+            "cid": "17822046451536887436",
+            "fid": "0x80c3532ef92dd9c1:0xf754a0d28a5dfe8c",
+            "placeId": "ChIJwdkt-S5Tw4ARjP5ditKgVPc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Maui Memorial Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8850931,-156.4899745,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Maui Memorial Medical Center",
+            "address": "221 Mahalani St, Wailuku, HI 96793",
+            "latitude": 20.8849217,
+            "longitude": -156.4896756,
+            "rating": 3.1,
+            "ratingCount": 240,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.mauihealth.org/",
+            "phoneNumber": "(808) 244-9056",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwem7LK9fWTLg45-zsHgqAfQ2Y0yQzOxU9ASoy",
+            "cid": "11970014223501166440",
+            "fid": "0x7954d3171d2075ef:0xa61e088434290768",
+            "placeId": "ChIJ73UgHRfTVHkRaAcpNIQIHqY"
+        },
+        {
+            "position": 2,
+            "title": "Maui Memorial Medical Center: Emergency Room",
+            "address": "221 Mahalani St, Wailuku, HI 96793",
+            "latitude": 20.884060899999998,
+            "longitude": -156.4899182,
+            "rating": 3.3,
+            "ratingCount": 46,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.mauimemorialmedical.org/services/emergency-care/default.aspx",
+            "phoneNumber": "(808) 244-9056",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPxERngap6tPP67UI8f_CZwYt_EueaNWnqZttXO",
+            "cid": "7360285692705567625",
+            "fid": "0x7954d31701555555:0x6624fcd74f1af389",
+            "placeId": "ChIJVVVVARfTVHkRifMaT9f8JGY"
+        },
+        {
+            "position": 3,
+            "title": "Maui Memorial Medical Center Outpatient Clinic",
+            "address": "85 Maui Lani Pkwy, Wailuku, HI 96793",
+            "latitude": 20.8861253,
+            "longitude": -156.4902734,
+            "rating": 2.9,
+            "ratingCount": 8,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.mauihealth.org/locations/outpatient-clinic/",
+            "phoneNumber": "(808) 442-5700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9h77PuTbHggldY81uxmeRPafg0WiXHrJVvHBT",
+            "cid": "11038327818424208771",
+            "fid": "0x7954d31150a77181:0x993004aad37ccd83",
+            "placeId": "ChIJgXGnUBHTVHkRg81806oEMJk"
+        }
+    ],
+    "credits": 3
+}

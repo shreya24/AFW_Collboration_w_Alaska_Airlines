@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Legacy Emanuel Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5441119,-122.6694547,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Legacy Emanuel Medical Center",
+            "address": "501 N Graham St, Portland, OR 97227",
+            "latitude": 45.5441119,
+            "longitude": -122.66945469999999,
+            "rating": 3.1,
+            "ratingCount": 469,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.legacyhealth.org/doctors-and-locations/hospitals/legacy-emanuel-medical-center",
+            "phoneNumber": "(503) 413-2200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.legacyhealth.org/onlinescheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Z1FIuRALxkw_mKLljnmGVItB_M3aWAa5Essk-rUAYZYOFKD3apxfyscyw1ePhfwQ_rbnKSvSbbzKa7MPhI5cC4hSRpAv5unv_ckjNbYhF6SrwdboHousiFb4V7F3mnRzegEaS",
+            "cid": "5997193270814938280",
+            "fid": "0x5495a7442035ee87:0x533a4f815c4994a8",
+            "placeId": "ChIJh-41IESnlVQRqJRJXIFPOlM"
+        }
+    ],
+    "credits": 3
+}

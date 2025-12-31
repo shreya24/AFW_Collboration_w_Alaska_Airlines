@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ptarmigan Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5929767,-149.3613388,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ptarmigan Pediatrics",
+            "address": "3543 E Meridian Park Loop Ste A, Wasilla, AK 99654",
+            "latitude": 61.592976699999994,
+            "longitude": -149.3613388,
+            "rating": 4.2,
+            "ratingCount": 48,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.ptarmiganpediatrics.com/",
+            "phoneNumber": "(907) 357-4543",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKAL_zhtWrxQ7psVTIQ-8GkOdJMVy3qpXvLsah",
+            "cid": "14392683714225682962",
+            "fid": "0x56c8de1564955555:0xc7bd159516f8ba12",
+            "placeId": "ChIJVVWVZBXeyFYRErr4FpUVvcc"
+        }
+    ],
+    "credits": 3
+}

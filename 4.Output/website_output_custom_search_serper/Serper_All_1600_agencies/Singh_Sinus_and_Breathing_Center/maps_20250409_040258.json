@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "Singh Sinus and Breathing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3136762,-119.4793457,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Singh Sinus & Breathing Center",
+            "address": "860 W 7th St, Hanford, CA 93230",
+            "latitude": 36.325435999999996,
+            "longitude": -119.65815719999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist"
+            ],
+            "phoneNumber": "(559) 578-2129",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HR_HZfjWQD4tR-26BJIL5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.11508&pitch=0&thumbfov=100",
+            "cid": "12646611309011491453",
+            "fid": "0x8094c36ae14a8e39:0xaf81c9fb1e115a7d",
+            "placeId": "ChIJOY5K4WrDlIARfVoRHvvJga8"
+        },
+        {
+            "position": 2,
+            "title": "Singh Sinus And Breathing Center",
+            "address": "306 N Conyer St, Visalia, CA 93291",
+            "latitude": 36.332497599999996,
+            "longitude": -119.3005343,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(559) 625-5265",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MSyfwnttRBySoWfH1gcEkA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.54642&pitch=0&thumbfov=100",
+            "cid": "5009453057643092930",
+            "fid": "0x80952f608c381027:0x45852703c3cf9bc2",
+            "placeId": "ChIJJxA4jGAvlYARwpvPwwMnhUU"
+        },
+        {
+            "position": 3,
+            "title": "Singh Sinus & Breathing Center: Singh Sudeep MD",
+            "address": "3622 W Packwood Ave, Visalia, CA 93277",
+            "latitude": 36.294854699999995,
+            "longitude": -119.3308696,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Allergist",
+            "types": [
+                "Allergist"
+            ],
+            "phoneNumber": "(559) 625-5265",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HIIl_0iILD4swrRrKnIeqg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=349.82028&pitch=0&thumbfov=100",
+            "cid": "7228546734487457473",
+            "fid": "0x80952f608c381027:0x6450f4f4df6f4ec1",
+            "placeId": "ChIJJxA4jGAvlYARwU5v3_T0UGQ"
+        }
+    ],
+    "credits": 3
+}

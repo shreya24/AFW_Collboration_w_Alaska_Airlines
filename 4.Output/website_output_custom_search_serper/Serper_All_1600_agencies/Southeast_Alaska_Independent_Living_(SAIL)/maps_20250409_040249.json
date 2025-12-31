@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Southeast Alaska Independent Living (SAIL)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3603316,-134.5772854,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southeast Alaska Independent Living",
+            "address": "8711 Teal St unit 300, Juneau, AK 99801",
+            "latitude": 58.360331599999995,
+            "longitude": -134.5772854,
+            "rating": 4.3,
+            "ratingCount": 11,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.sailinc.org/",
+            "phoneNumber": "(800) 478-7245",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOW_h99uh5Eq4eSNokqZJ9JxF7WkWkBLE5puZxl",
+            "cid": "2752143447768951866",
+            "fid": "0x5400e0063e4e08e7:0x263193e25f2fec3a",
+            "placeId": "ChIJ5whOPgbgAFQROuwvX-KTMSY"
+        }
+    ],
+    "credits": 3
+}

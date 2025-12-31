@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "South Davis Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8851592,-111.8717415,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Davis Community Hospital (SDCH)",
+            "address": "401 S 400 E, Bountiful, UT 84010",
+            "latitude": 40.8851592,
+            "longitude": -111.8717415,
+            "rating": 4,
+            "ratingCount": 91,
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital"
+            ],
+            "website": "http://www.sdch.com/",
+            "phoneNumber": "(801) 295-2361",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYTlqJaB7Fz5H64MQFbITM-ij0fDsBAO7nzV-N",
+            "cid": "17462803257292041923",
+            "fid": "0x8752f7f0f843931b:0xf258570a656d2ec3",
+            "placeId": "ChIJG5ND-PD3UocRwy5tZQpXWPI"
+        }
+    ],
+    "credits": 3
+}

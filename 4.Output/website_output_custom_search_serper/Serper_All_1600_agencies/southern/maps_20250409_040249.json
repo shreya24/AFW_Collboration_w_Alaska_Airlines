@@ -1,0 +1,620 @@
+{
+    "searchParameters": {
+        "q": "southern",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.395796,-84.7582105,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Southern Kitchen And Bar",
+            "address": "2301 Richard Arrington Jr Blvd N #300, Birmingham, AL 35203",
+            "latitude": 33.5264209,
+            "longitude": -86.8073672,
+            "rating": 4.3,
+            "ratingCount": 2731,
+            "priceLevel": "$20\u201330",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)",
+                "Bar",
+                "Restaurant"
+            ],
+            "website": "http://thesouthernbirmingham.com/",
+            "phoneNumber": "(205) 278-7280",
+            "description": "Lively, rustic-chic haunt offering elevated Southern dishes, cocktails & TVs tuned to sports.",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u201310\u202fPM",
+                "Wednesday": "11\u202fAM\u201310\u202fPM",
+                "Thursday": "11\u202fAM\u201310\u202fPM",
+                "Friday": "11\u202fAM\u201311\u202fPM",
+                "Saturday": "11\u202fAM\u201311\u202fPM",
+                "Sunday": "11\u202fAM\u20139\u202fPM",
+                "Monday": "11\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.google.com/maps/reserve/v/waitlist?c=hZP0TXUzvho&source=pa&opi=79508299&hl=en-US&gei=EKT1Z8noH8OhnesP5rKL-QU&sourceurl=https://www.google.com/service/MapsSearchService/Search?hl%3Den%26gl%3Dus%26authuser%3D0%26q%3Dsouthern%26tbm%3Dmap"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoptPjQm4AwUKuNIiYnKjjXIifCxwg4Sl2FqU3",
+            "cid": "9717165538434910315",
+            "fid": "0x88891b9bf5b926e3:0x86da4e92ce14886b",
+            "placeId": "ChIJ4ya59ZsbiYgRa4gUzpJO2oY"
+        },
+        {
+            "position": 2,
+            "title": "Southern Social Eagan",
+            "address": "1940 Rahncliff Ct, Eagan, MN 55122",
+            "latitude": 44.7868692,
+            "longitude": -93.20723799999999,
+            "rating": 4.6,
+            "ratingCount": 1619,
+            "priceLevel": "$20\u201330",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)"
+            ],
+            "website": "https://southernsocialmn.com/",
+            "phoneNumber": "(651) 478-7919",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u201310\u202fPM",
+                "Wednesday": "11\u202fAM\u201310\u202fPM",
+                "Thursday": "11\u202fAM\u201310\u202fPM",
+                "Friday": "11\u202fAM\u201311\u202fPM",
+                "Saturday": "10\u202fAM\u201311\u202fPM",
+                "Sunday": "10\u202fAM\u20139\u202fPM",
+                "Monday": "11\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.google.com/maps/reserve/v/dine/c/yH5TUgjOkbY?source=pa&opi=79508299"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhYSM006GSgjLTetkxNnlOmVxf0nOppHhOGFRp",
+            "cid": "17830840378198799233",
+            "fid": "0x87f63148d9c2ff95:0xf773deda253b3381",
+            "placeId": "ChIJlf_C2Ugx9ocRgTM7Jdrec_c"
+        },
+        {
+            "position": 3,
+            "title": "Southern Connecticut State University",
+            "address": "501 Crescent St, New Haven, CT 06515",
+            "latitude": 41.3317662,
+            "longitude": -72.94834159999999,
+            "rating": 3.7,
+            "ratingCount": 79,
+            "type": "Public university",
+            "types": [
+                "Public university",
+                "College",
+                "School",
+                "University"
+            ],
+            "website": "https://www.southernct.edu/",
+            "phoneNumber": "(203) 392-7278",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOSn5_OM1nwSsjgWEFj77H7TSsvO9VCP2S90gvl",
+            "cid": "2647132510597927037",
+            "fid": "0x89e7d97644143fed:0x24bc80fe4793d07d",
+            "placeId": "ChIJ7T8URHbZ54kRfdCTR_6AvCQ"
+        },
+        {
+            "position": 4,
+            "title": "The Southern Bar & Grill",
+            "address": "730 Coleman Blvd, Mt Pleasant, SC 29464",
+            "latitude": 32.792777799999996,
+            "longitude": -79.8688889,
+            "rating": 4.5,
+            "ratingCount": 324,
+            "priceLevel": "$10\u201320",
+            "type": "Bar & grill",
+            "types": [
+                "Bar & grill",
+                "Bar",
+                "Live music venue",
+                "Restaurant"
+            ],
+            "website": "https://www.facebook.com/pages/The-Southern-Bar-Grill/48551016004?rf=424717630881885",
+            "phoneNumber": "(843) 849-0396",
+            "description": "Informal bar & restaurant serving Southern fare, with live bluegrass, country & jazz music.",
+            "openingHours": {
+                "Tuesday": "2\u202fPM\u20132\u202fAM",
+                "Wednesday": "2\u202fPM\u20132\u202fAM",
+                "Thursday": "2\u202fPM\u20132\u202fAM",
+                "Friday": "2\u202fPM\u20132\u202fAM",
+                "Saturday": "11:30\u202fAM\u20132\u202fAM",
+                "Sunday": "11:30\u202fAM\u20132\u202fAM",
+                "Monday": "2\u202fPM\u20132\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMWkV1nQmMPUmMo-iPoo9UjFgmd8GSOZWFcAX0d",
+            "cid": "10509344519653486683",
+            "fid": "0x88fe710498227655:0x91d8b128e424f05b",
+            "placeId": "ChIJVXYimARx_ogRW_Ak5Cix2JE"
+        },
+        {
+            "position": 5,
+            "title": "Southern On Main",
+            "address": "102 E Main St, Elkin, NC 28621",
+            "latitude": 36.2439317,
+            "longitude": -80.8505351,
+            "rating": 4.5,
+            "ratingCount": 1192,
+            "priceLevel": "$10\u201320",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)"
+            ],
+            "website": "http://southernonmain.com/",
+            "phoneNumber": "(336) 258-2144",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u20139:30\u202fPM",
+                "Saturday": "11\u202fAM\u20139:30\u202fPM",
+                "Sunday": "11\u202fAM\u20138:30\u202fPM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPChurcU0RiFtABzhlP4NJm5_q9VS71SOLoHV1F",
+            "cid": "12005206383741643296",
+            "fid": "0x88517f9c3f3a9c11:0xa69b0f99862c2a20",
+            "placeId": "ChIJEZw6P5x_UYgRICoshpkPm6Y"
+        },
+        {
+            "position": 6,
+            "title": "The Southerner",
+            "address": "3359 Percy Dr, Cape Girardeau, MO 63701",
+            "latitude": 37.3049272,
+            "longitude": -89.5792969,
+            "rating": 4.5,
+            "ratingCount": 323,
+            "priceLevel": "$10\u201320",
+            "type": "Bar & grill",
+            "types": [
+                "Bar & grill"
+            ],
+            "website": "https://thesouthernerbytractors.com/",
+            "phoneNumber": "(573) 708-6530",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "11\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN1E0-ARYraPu359hnmFR6xAZH5q5JDBC2m3ROe",
+            "cid": "17945680439915129561",
+            "fid": "0x88778825131e4a19:0xf90bdd47a1d12ad9",
+            "placeId": "ChIJGUoeEyWId4gR2SrRoUfdC_k"
+        },
+        {
+            "position": 7,
+            "title": "The South",
+            "address": "560 Country Club Rd STE 101A, Wylie, TX 75098",
+            "latitude": 33.0211204,
+            "longitude": -96.5680795,
+            "rating": 4.6,
+            "ratingCount": 228,
+            "priceLevel": "$10\u201320",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant",
+                "Southern restaurant (US)"
+            ],
+            "website": "http://thesouthwylie.com/",
+            "phoneNumber": "(469) 298-0440",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20132\u202fPM, 4\u20138\u202fPM",
+                "Wednesday": "11\u202fAM\u20132\u202fPM, 4\u20138\u202fPM",
+                "Thursday": "11\u202fAM\u20132\u202fPM, 4\u20138\u202fPM",
+                "Friday": "11\u202fAM\u20132\u202fPM, 4\u20139\u202fPM",
+                "Saturday": "10\u202fAM\u20139\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "4\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0hRmxdhbhRienN3A9pQ9hRfCw64s4aDapkZ9U",
+            "cid": "15603203086089036736",
+            "fid": "0x864c0581695b8903:0xd889b689989da3c0",
+            "placeId": "ChIJA4lbaYEFTIYRwKOdmIm2idg"
+        },
+        {
+            "position": 8,
+            "title": "Southern Prospect",
+            "address": "1725 Electric Ave Suite 104, Watkinsville, GA 30677",
+            "latitude": 33.8606099,
+            "longitude": -83.3948394,
+            "rating": 4.5,
+            "ratingCount": 97,
+            "priceLevel": "$10\u201320",
+            "type": "American restaurant",
+            "types": [
+                "American restaurant",
+                "Restaurant"
+            ],
+            "website": "https://www.southernprospect.com/",
+            "phoneNumber": "(678) 310-1096",
+            "openingHours": {
+                "Tuesday": "4\u20139\u202fPM",
+                "Wednesday": "4\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "11\u202fAM\u20139\u202fPM",
+                "Monday": "4\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPskDDKKPxBIYcL15-PPqBKr2ENA8zsBRyUl4J2",
+            "cid": "5435868495298606628",
+            "fid": "0x88f66f0074a512b1:0x4b7015989402b624",
+            "placeId": "ChIJsRKldABv9ogRJLYClJgVcEs"
+        },
+        {
+            "position": 9,
+            "title": "Southern Social Eatery @ The OC",
+            "address": "680 Innovation Blvd, Forney, TX 75126",
+            "latitude": 32.775735499999996,
+            "longitude": -96.4590094,
+            "rating": 4.4,
+            "ratingCount": 430,
+            "priceLevel": "$$",
+            "type": "Takeout Restaurant",
+            "types": [
+                "Takeout Restaurant"
+            ],
+            "website": "http://www.southernsocialoc.com/",
+            "phoneNumber": "(972) 357-7681",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20139\u202fPM",
+                "Wednesday": "9\u202fAM\u20139\u202fPM",
+                "Thursday": "9\u202fAM\u20139\u202fPM",
+                "Friday": "9\u202fAM\u20139\u202fPM",
+                "Saturday": "9\u202fAM\u20139\u202fPM",
+                "Sunday": "12\u20136\u202fPM",
+                "Monday": "9\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgbKn1YKkaKjX7CY-H5QUZ5ANPTYOjhqa6qMLf",
+            "cid": "14462759238845337167",
+            "fid": "0x864ead87f9029955:0xc8b60ae697600e4f",
+            "placeId": "ChIJVZkC-YetToYRTw5gl-YKtsg"
+        },
+        {
+            "position": 10,
+            "title": "Southerns",
+            "address": "4620 Veterans Memorial Blvd, Metairie, LA 70006",
+            "latitude": 30.0047228,
+            "longitude": -90.1868155,
+            "rating": 4.8,
+            "ratingCount": 400,
+            "priceLevel": "$10\u201320",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "website": "https://southernsfood.com/",
+            "phoneNumber": "(504) 345-2097",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u201310\u202fPM",
+                "Wednesday": "11\u202fAM\u201310\u202fPM",
+                "Thursday": "11\u202fAM\u201310\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "11\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjILncBjCt-57iyr_pmhRZvrwQrBdZ_SvvspIX",
+            "cid": "17021856910914176668",
+            "fid": "0x8620b1af19bae237:0xec39c8acc091469c",
+            "placeId": "ChIJN-K6Ga-xIIYRnEaRwKzIOew"
+        },
+        {
+            "position": 11,
+            "title": "Southern Hospitality",
+            "address": "3402 W Broadway #2824, Louisville, KY 40211",
+            "latitude": 38.2495879,
+            "longitude": -85.80886679999999,
+            "rating": 4.7,
+            "ratingCount": 491,
+            "priceLevel": "$10\u201320",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "phoneNumber": "(502) 822-1474",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20138\u202fPM",
+                "Wednesday": "11\u202fAM\u20138\u202fPM",
+                "Thursday": "11\u202fAM\u20138\u202fPM",
+                "Friday": "11\u202fAM\u20138\u202fPM",
+                "Saturday": "12\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "11\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMLtLvNgntp3MEG8klrejNy_Xyj4cRYx94__DO",
+            "cid": "14828564155864821377",
+            "fid": "0x88696cd635e08cf5:0xcdc9a488df69ae81",
+            "placeId": "ChIJ9YzgNdZsaYgRga5p34ikyc0"
+        },
+        {
+            "position": 12,
+            "title": "Southern State",
+            "address": "201 Central Ave, South Fulton, TN 38257",
+            "latitude": 36.4993073,
+            "longitude": -88.8744791,
+            "rating": 4.3,
+            "ratingCount": 148,
+            "priceLevel": "$10\u201320",
+            "type": "American restaurant",
+            "types": [
+                "American restaurant",
+                "Bar",
+                "Bar & grill",
+                "Event venue",
+                "Restaurant",
+                "Sports bar"
+            ],
+            "website": "https://southernstate.net/",
+            "phoneNumber": "(731) 271-2068",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u201312\u202fAM",
+                "Saturday": "11\u202fAM\u201312\u202fAM",
+                "Sunday": "10\u202fAM\u20132\u202fPM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMVA6KsH6Sq4VTsWKS1PQUBDguz6hochVmbPp7Q",
+            "cid": "15361977917465703398",
+            "fid": "0x88797b07421f8545:0xd530b58651f033e6",
+            "placeId": "ChIJRYUfQgd7eYgR5jPwUYa1MNU"
+        },
+        {
+            "position": 13,
+            "title": "Southern Grille",
+            "address": "711 Main St, Ellendale, DE 19941",
+            "latitude": 38.8067658,
+            "longitude": -75.4288426,
+            "rating": 4.4,
+            "ratingCount": 1175,
+            "priceLevel": "$10\u201320",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)"
+            ],
+            "website": "https://www.thesoutherngrilles.com/",
+            "phoneNumber": "(302) 422-9090",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "7\u202fAM\u20139\u202fPM",
+                "Sunday": "7\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvOpVSi8f_3Q4hg34I5dTOeTWGOzrDX9_GqpbQ",
+            "cid": "3679698042865253696",
+            "fid": "0x89b89408d66a4549:0x3310e9dfc5aefd40",
+            "placeId": "ChIJSUVq1giUuIkRQP2uxd_pEDM"
+        },
+        {
+            "position": 14,
+            "title": "Southern, a Gathering Place Kitchen & Bar",
+            "address": "105 E Brown St, Southport, NC 28461",
+            "latitude": 33.9219942,
+            "longitude": -78.0199423,
+            "rating": 4.8,
+            "ratingCount": 78,
+            "priceLevel": "$50\u2013100",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)"
+            ],
+            "website": "http://facebook.com/southernagatheringplace",
+            "phoneNumber": "(910) 931-0786",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "4:30\u20139\u202fPM",
+                "Thursday": "4:30\u20139\u202fPM",
+                "Friday": "4:30\u20139\u202fPM",
+                "Saturday": "4:30\u20139\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMq5M-5ctPlhc78SIr54NmhzOBKN7b9M53zDccJ",
+            "cid": "1955634235770872447",
+            "fid": "0x89aa0770538d19b3:0x1b23cef9ddb7227f",
+            "placeId": "ChIJsxmNU3AHqokRfyK33fnOIxs"
+        },
+        {
+            "position": 15,
+            "title": "The Southern Table",
+            "address": "105 N Jefferson St, Athens, AL 35611",
+            "latitude": 34.8036341,
+            "longitude": -86.97241749999999,
+            "rating": 4.5,
+            "ratingCount": 374,
+            "priceLevel": "$$",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "website": "https://www.southerntabletn.com/",
+            "phoneNumber": "(256) 444-0118",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "11\u202fAM\u201310\u202fPM",
+                "Sunday": "10\u202fAM\u20133\u202fPM",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://gm.cake.net/widget/the-southern-table-230082?type=reservations"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMal3jKRz7nXbLrOFi4ARusU8MFZAIpsa7b5KqU",
+            "cid": "5734310065283737864",
+            "fid": "0x886303c4ce67a415:0x4f945c9f692f2908",
+            "placeId": "ChIJFaRnzsQDY4gRCCkvaZ9clE8"
+        },
+        {
+            "position": 16,
+            "title": "Southern Grocery",
+            "address": "1419 E 2nd St, Sheffield, AL 35660",
+            "latitude": 34.7598282,
+            "longitude": -87.67725999999999,
+            "rating": 4.6,
+            "ratingCount": 168,
+            "priceLevel": "$20\u201330",
+            "type": "American restaurant",
+            "types": [
+                "American restaurant"
+            ],
+            "website": "https://www.southerngroceryshoals.com/",
+            "phoneNumber": "(256) 826-0102",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u201310\u202fPM",
+                "Wednesday": "11\u202fAM\u201310\u202fPM",
+                "Thursday": "11\u202fAM\u201310\u202fPM",
+                "Friday": "11\u202fAM\u201310\u202fPM",
+                "Saturday": "10\u202fAM\u201310\u202fPM",
+                "Sunday": "10\u202fAM\u201310\u202fPM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeIKnyLFFiOVbuuyI7bYLbZLmotoceK6ddK2Ru",
+            "cid": "3630036309840122962",
+            "fid": "0x887d49da6b465aa5:0x32607aca81ca5452",
+            "placeId": "ChIJpVpGa9pJfYgRUlTKgcp6YDI"
+        },
+        {
+            "position": 17,
+            "title": "Southern Steakhouse",
+            "address": "1069 By Pass, US-123, Seneca, SC 29678",
+            "latitude": 34.692714699999996,
+            "longitude": -82.9788521,
+            "rating": 4.4,
+            "ratingCount": 452,
+            "priceLevel": "$10\u201320",
+            "type": "American restaurant",
+            "types": [
+                "American restaurant"
+            ],
+            "website": "http://southernsteakhouseseneca.com/",
+            "phoneNumber": "(864) 973-8288",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u20139:30\u202fPM",
+                "Saturday": "11\u202fAM\u20139:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "11\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMLxR6ijw6SoDf0XKzx3VlFhveojB3hQ23EnA1_",
+            "cid": "3703314859369148706",
+            "fid": "0x8858f53c7b85fb0d:0x3364d13e5c1fb122",
+            "placeId": "ChIJDfuFezz1WIgRIrEfXD7RZDM"
+        },
+        {
+            "position": 18,
+            "title": "Southern Chicken",
+            "address": "1012 US-17 BUS, Surfside Beach, SC 29575",
+            "latitude": 33.6200338,
+            "longitude": -78.9743369,
+            "rating": 4.5,
+            "ratingCount": 872,
+            "priceLevel": "$10\u201320",
+            "type": "American restaurant",
+            "types": [
+                "American restaurant",
+                "Barbecue restaurant",
+                "Chicken restaurant",
+                "Seafood restaurant"
+            ],
+            "website": "https://www.southernchickensc.com/",
+            "phoneNumber": "(843) 712-8611",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20137\u202fPM",
+                "Wednesday": "11\u202fAM\u20137\u202fPM",
+                "Thursday": "11\u202fAM\u20137\u202fPM",
+                "Friday": "11\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "11\u202fAM\u20134\u202fPM",
+                "Monday": "11\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIp7KsmR_L7ugdd-23FeRa7Oy9kBsLizxn3xZF",
+            "cid": "17430243774206335055",
+            "fid": "0x890041ee404da967:0xf1e4aa5cfe08584f",
+            "placeId": "ChIJZ6lNQO5BAIkRT1gI_lyq5PE"
+        },
+        {
+            "position": 19,
+            "title": "Southern University and A&M College",
+            "address": "801 Harding Blvd, Baton Rouge, LA 70807",
+            "latitude": 30.5265222,
+            "longitude": -91.1929407,
+            "rating": 4.5,
+            "ratingCount": 310,
+            "type": "University",
+            "types": [
+                "University",
+                "College"
+            ],
+            "website": "http://www.subr.edu/",
+            "phoneNumber": "(225) 771-4500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMjonCi0kFPPQzAVpvkeMfcelHHKhnC6iIZkoch",
+            "cid": "9369034818393319000",
+            "fid": "0x86269f8b36b25db7:0x82057f872e99a658",
+            "placeId": "ChIJt12yNoufJoYRWKaZLod_BYI"
+        },
+        {
+            "position": 20,
+            "title": "Southern Spice Cuisine",
+            "address": "5411 US-158, Bermuda Run, NC 27006",
+            "latitude": 36.007352999999995,
+            "longitude": -80.4352838,
+            "rating": 4.5,
+            "ratingCount": 265,
+            "priceLevel": "$10\u201320",
+            "type": "Southern restaurant (US)",
+            "types": [
+                "Southern restaurant (US)"
+            ],
+            "website": "http://www.southernspicecuisine.com/",
+            "phoneNumber": "(336) 998-2050",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyrSmHmzTAgVqO2LroK_v8JqUoFmdAEajOFQia",
+            "cid": "8577094757498768785",
+            "fid": "0x8853b9e21dac121d:0x7707f63d11944d91",
+            "placeId": "ChIJHRKsHeK5U4gRkU2UET32B3c"
+        }
+    ],
+    "credits": 3
+}

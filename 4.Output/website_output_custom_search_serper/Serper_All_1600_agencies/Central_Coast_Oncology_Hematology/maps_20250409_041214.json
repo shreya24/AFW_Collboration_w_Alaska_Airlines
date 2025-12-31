@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Central Coast Oncology/Hematology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.9903726,-121.9809389,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Central Coast Oncology & Hematology",
+            "address": "1669 Dominican Wy, Santa Cruz, CA 95065",
+            "latitude": 36.9903726,
+            "longitude": -121.9809389,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist"
+            ],
+            "website": "http://www.ccohmd.com/",
+            "phoneNumber": "(831) 475-2220",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oS8tHPr4g_TEOmEX1Xhidw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=9.756143&pitch=0&thumbfov=100",
+            "cid": "11329865830349659159",
+            "fid": "0x808e3fe4c91b565d:0x9d3bc4f1cad3dc17",
+            "placeId": "ChIJXVYbyeQ_joARF9zTyvHEO50"
+        }
+    ],
+    "credits": 3
+}

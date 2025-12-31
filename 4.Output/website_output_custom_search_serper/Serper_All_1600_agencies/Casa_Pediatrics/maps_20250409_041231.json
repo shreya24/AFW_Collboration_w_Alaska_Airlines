@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Casa Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.6485371,-77.3134848,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CASA Pediatrics",
+            "address": "14130 Noblewood Plaza Suite 306, Woodbridge, VA 22193",
+            "latitude": 38.6485371,
+            "longitude": -77.3134848,
+            "rating": 4.4,
+            "ratingCount": 292,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nutritionist",
+                "Pediatric cardiologist",
+                "Physical fitness program"
+            ],
+            "website": "https://casa-pediatrics.com/",
+            "phoneNumber": "(703) 485-0470",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-nY-LVFFIyajvuNdBSnurL3kh1oAXdtUJiiQMJrU6PtwXGhpPansliVC2JrU00_Wm8jLUfo3QxWDPjy4wJWSsb345vnEZb2fOaCR8tcCt5p71mL9V7wIk-w5tSqytNPuBsnhpf6Q",
+            "cid": "3019035748799256743",
+            "fid": "0x89b6563f5dc7baf3:0x29e5c5049b6298a7",
+            "placeId": "ChIJ87rHXT9WtokRp5himwTF5Sk"
+        }
+    ],
+    "credits": 3
+}

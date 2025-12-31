@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Akeela KAR House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1943708,-149.8930226,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Akeela House Recovery Center",
+            "address": "2804 Bering St, Anchorage, AK 99503",
+            "latitude": 61.1948466,
+            "longitude": -149.8963704,
+            "rating": 1.4,
+            "ratingCount": 5,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Halfway house"
+            ],
+            "website": "http://www.akeela.us/",
+            "phoneNumber": "(907) 565-1200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZQ6AV4tUqdWDLwNepiYHwA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.48123&pitch=0&thumbfov=100",
+            "cid": "1655357320051143293",
+            "fid": "0x56c897c52a99ed6d:0x16f902b64dfdb27d",
+            "placeId": "ChIJbe2ZKsWXyFYRfbL9TbYC-RY"
+        },
+        {
+            "position": 2,
+            "title": "Akeela Inc",
+            "address": "360 W Benson Blvd #300, Anchorage, AK 99503",
+            "latitude": 61.1938951,
+            "longitude": -149.8896749,
+            "rating": 2.8,
+            "ratingCount": 10,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Addiction treatment center",
+                "Mental health service"
+            ],
+            "website": "https://akeela.org/",
+            "phoneNumber": "(907) 565-1200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4mbIm8URyPqnlsH9NZ-6jA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=154.02502&pitch=0&thumbfov=100",
+            "cid": "17157701760127507257",
+            "fid": "0x56c897c56afac3df:0xee1c66d86e7e9b39",
+            "placeId": "ChIJ38P6asWXyFYROZt-bthmHO4"
+        }
+    ],
+    "credits": 3
+}

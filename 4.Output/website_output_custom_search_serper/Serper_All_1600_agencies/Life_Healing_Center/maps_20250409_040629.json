@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Life Healing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7307361,-94.9706125,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Life Healing Center PC",
+            "address": "2160 Fountain Dr Suite 100, Snellville, GA 30078",
+            "latitude": 33.8571319,
+            "longitude": -84.0282579,
+            "rating": 2.5,
+            "ratingCount": 67,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Doctor",
+                "Family counselor",
+                "Marriage or relationship counselor",
+                "Mental health clinic",
+                "Psychotherapist"
+            ],
+            "website": "http://www.lifehealingcenterpc.com/",
+            "phoneNumber": "(678) 344-8268",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrGL2F4F88AVtMX9_DuLrkv_MUWfEOq6qFXrWX",
+            "cid": "6214654130262116054",
+            "fid": "0x88f5ba3cbc0a4f77:0x563ee3013c3006d6",
+            "placeId": "ChIJd08KvDy69YgR1gYwPAHjPlY"
+        },
+        {
+            "position": 2,
+            "title": "Life Healing Center",
+            "address": "25 Vista Point Rd, Santa Fe, NM 87508",
+            "latitude": 35.604340199999996,
+            "longitude": -105.9129672,
+            "rating": 3.1,
+            "ratingCount": 106,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Addiction treatment center",
+                "Alcoholism treatment program",
+                "Mental health clinic"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOFp3bdwUu40jpnOJTAtX1CyzlzOhnG6IffX-Ig",
+            "cid": "16697416843723583891",
+            "fid": "0x871856e6413b9607:0xe7b9242714c4b193",
+            "placeId": "ChIJB5Y7QeZWGIcRk7HEFCckuec"
+        }
+    ],
+    "credits": 3
+}

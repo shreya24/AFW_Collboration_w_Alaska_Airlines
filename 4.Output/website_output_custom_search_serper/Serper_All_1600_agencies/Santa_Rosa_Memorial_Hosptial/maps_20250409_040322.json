@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Santa Rosa Memorial Hosptial",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4437806,-122.701259,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Santa Rosa Memorial Hospital",
+            "address": "1165 Montgomery Dr, Santa Rosa, CA 95405",
+            "latitude": 38.4437806,
+            "longitude": -122.701259,
+            "rating": 2.7,
+            "ratingCount": 227,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.providence.org/locations/norcal/santa-rosa-memorial-hospital?ls=location&y_source=1_ODI0NjgwOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+            "phoneNumber": "(707) 525-5300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpbmPs-Hwbg8188_sI7YOTcaXFtYViV-lrEs8X",
+            "cid": "8234877093048298806",
+            "fid": "0x808447e21ef07f4d:0x72482915fc252d36",
+            "placeId": "ChIJTX_wHuJHhIARNi0l_BUpSHI"
+        }
+    ],
+    "credits": 3
+}

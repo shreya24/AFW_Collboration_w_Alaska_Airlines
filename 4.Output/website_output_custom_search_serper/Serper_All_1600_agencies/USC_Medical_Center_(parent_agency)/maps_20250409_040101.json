@@ -1,0 +1,571 @@
+{
+    "searchParameters": {
+        "q": "USC Medical Center (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1124375,-118.2206494,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Los Angeles General Medical Center",
+            "address": "2051 Marengo St, Los Angeles, CA 90033",
+            "latitude": 34.0580449,
+            "longitude": -118.2073831,
+            "rating": 3.6,
+            "ratingCount": 1171,
+            "type": "Government hospital",
+            "types": [
+                "Government hospital",
+                "Anesthesiologist",
+                "Medical Center"
+            ],
+            "website": "https://dhs.lacounty.gov/lageneral/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO51tf4XttCzcCtMwc51ybfrLNuIq7DezP55DMM",
+            "cid": "492777182623440704",
+            "fid": "0x80c2c675c228d697:0x6d6b23c9bb01f40",
+            "placeId": "ChIJl9YownXGwoARQB-wmzyy1gY"
+        },
+        {
+            "position": 2,
+            "title": "LOS ANGELES GENERAL MEDICAL CENTER, HUMAN RESOURCE DEPARTMENT",
+            "address": "Intern & Resident Building, 2020 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.0590538,
+            "longitude": -118.2065605,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Hospital"
+            ],
+            "website": "https://dhs.lacounty.gov/lageneral/who-we-are/attending-staff/contact-information/",
+            "phoneNumber": "(323) 409-2300",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7bjNlU3Xdt0B9XQWY3PcNaDLxDfF38eqxHJDj",
+            "cid": "8137983602606996613",
+            "fid": "0x80c2c67579c52e6b:0x70efecf83d57fc85",
+            "placeId": "ChIJay7FeXXGwoARhfxXPfjs73A"
+        },
+        {
+            "position": 3,
+            "title": "Los Angeles General Medical Center",
+            "address": "1200 N State St, Los Angeles, CA 90033",
+            "latitude": 34.059489,
+            "longitude": -118.20809519999999,
+            "rating": 3.7,
+            "ratingCount": 232,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "General hospital",
+                "Hospital",
+                "Medical laboratory"
+            ],
+            "website": "http://www.lacusc.org/",
+            "phoneNumber": "(323) 226-2622",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPvHHxm46QP-y8u7vCvWo1AliBAW3mbWbtl-mFk",
+            "cid": "16697900094444591521",
+            "fid": "0x80c2c67519b58aaf:0xe7badbaaa854d9a1",
+            "placeId": "ChIJr4q1GXXGwoARodlUqKrbuuc"
+        },
+        {
+            "position": 4,
+            "title": "University of Southern California Health Sciences Campus",
+            "address": "Zonal Avenue, Biggy St, Los Angeles, CA 90033",
+            "latitude": 34.059438899999996,
+            "longitude": -118.2070672,
+            "rating": 4.7,
+            "ratingCount": 636,
+            "priceLevel": "$$",
+            "type": "Private university",
+            "types": [
+                "Private university"
+            ],
+            "website": "http://www.usc.edu/",
+            "phoneNumber": "(323) 442-2000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtsTsqVnnL5ZjAmqssShkmk586QOHdL7gH9HEn",
+            "cid": "16787263176171732936",
+            "fid": "0x80c2c675edf802a5:0xe8f856ea7eb63fc8",
+            "placeId": "ChIJpQL47XXGwoARyD-2fupW-Og"
+        },
+        {
+            "position": 5,
+            "title": "Keck Hospital of USC",
+            "address": "1500 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.062588999999996,
+            "longitude": -118.2018382,
+            "rating": 4,
+            "ratingCount": 468,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1500-san-pablo-st-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/",
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104336&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_oACV9iEAY0-ZMwAXwMMLJR-entity&rwg_token=AAiGsoZ0xcsVSTK5VWe8uLfAfParmuU2Oh2BzK2iK0zzJn2YDsP5v4HtYMYAwCoyDWIgY4bca5Werj2_tn_iWK3Tg2TD1tAniQuDs7bMJPQuNw85kAV09FA%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQS8Nvac3qU6mnL5AQszmTarov5z7oi592miOY",
+            "cid": "10982618905308674526",
+            "fid": "0x80c2c5ded463baf5:0x986a19b4ba69b9de",
+            "placeId": "ChIJ9bpj1N7FwoAR3rlpurQZapg"
+        },
+        {
+            "position": 6,
+            "title": "Keck Medicine of USC - USC Healthcare Center 1 (HC1)",
+            "address": "1510 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0619493,
+            "longitude": -118.2026724,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/1510-san-pablo-st-los-angeles",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOao3Q5qQnnPXx_ESRuAgQVTfsQ0SY4CelACF8",
+            "cid": "16772456040270899255",
+            "fid": "0x80c2c5df2a507583:0xe8c3bbe78333a837",
+            "placeId": "ChIJg3VQKt_FwoARN6gzg-e7w-g"
+        },
+        {
+            "position": 7,
+            "title": "Los Angeles General Medical Center",
+            "address": "Clinic Tower building A (clinic tower, 1100 N State St A3A, Los Angeles, CA 90033",
+            "latitude": 34.057491299999995,
+            "longitude": -118.2083382,
+            "rating": 3.4,
+            "ratingCount": 40,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://dhs.lacounty.gov/wps/portal/dhs/lacusc/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fPM\u201312\u202fAM",
+                "Thursday": "12\u202fAM\u20135\u202fPM, 8\u202fPM\u201312\u202fAM",
+                "Friday": "12\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjyhyFIjopM05lvvD4kRvLX2m8iboDv7br_fq1",
+            "cid": "11201298668568583514",
+            "fid": "0x80c2c67502852f01:0x9b7301cac3161d5a",
+            "placeId": "ChIJAS-FAnXGwoARWh0Ww8oBc5s"
+        },
+        {
+            "position": 8,
+            "title": "USC Care Medical Group",
+            "address": "1510 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0625967,
+            "longitude": -118.2027074,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "priceLevel": "$$",
+            "type": "Specialized hospital",
+            "types": [
+                "Specialized hospital",
+                "Anesthesiologist",
+                "Dermatologist",
+                "Family practice physician",
+                "Hospital",
+                "Internist",
+                "Neurosurgeon",
+                "Orthopedic surgeon",
+                "Urologist"
+            ],
+            "website": "https://departmentsdirectory.usc.edu/usc-care-medical-group-inc/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqn4a2_ZHsvYyzS5MSa1xvAlZyX28hv3yJAMRs",
+            "cid": "17693717989461725683",
+            "fid": "0x80c2c5df2863610d:0xf58cb6c41dce11f3",
+            "placeId": "ChIJDWFjKN_FwoAR8xHOHcS2jPU"
+        },
+        {
+            "position": 9,
+            "title": "USC University Hospital",
+            "address": "1500 San Pablo St, Los Angeles, CA 90033",
+            "latitude": 34.0619631,
+            "longitude": -118.2014203,
+            "rating": 4,
+            "ratingCount": 44,
+            "priceLevel": "$$",
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Medical diagnostic imaging center",
+                "Personal trainer"
+            ],
+            "phoneNumber": "(323) 442-8500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-HDUzAqyf3E8GyR33SousH8DruKWXBbHNr6eS",
+            "cid": "11254632764494055186",
+            "fid": "0x80c2c5dec0613f27:0x9c307cdea5240712",
+            "placeId": "ChIJJz9hwN7FwoAREgckpd58MJw"
+        },
+        {
+            "position": 10,
+            "title": "Los Angeles General Medical Center HEALTHCARE NETWORK OUTPATIENT CLINIC BUILDING PHARMACY",
+            "address": "2010 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.0597315,
+            "longitude": -118.2073525,
+            "rating": 3.6,
+            "ratingCount": 8,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(323) 409-3899",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNW3_sqt679HJDN9uV6H1xwqBxcSSagg7FeEyUM",
+            "cid": "1779101485587096255",
+            "fid": "0x80c2c781d17d185d:0x18b0a36003c9e2bf",
+            "placeId": "ChIJXRh90YHHwoARv-LJA2CjsBg"
+        },
+        {
+            "position": 11,
+            "title": "USC Keck Hospital Communications Access Center",
+            "address": "1000 S Fremont Ave, Alhambra, CA 91803",
+            "latitude": 34.0817866,
+            "longitude": -118.1517635,
+            "rating": 2.8,
+            "ratingCount": 5,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "phoneNumber": "(661) 759-9327",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3ctoIo0VnjulzMV3AsRVqQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=113.155914&pitch=0&thumbfov=100",
+            "cid": "4064344215268715810",
+            "fid": "0x80c2c57d819d3c33:0x38677387ac016d22",
+            "placeId": "ChIJMzydgX3FwoARIm0BrIdzZzg"
+        },
+        {
+            "position": 12,
+            "title": "Keck Medicine of USC - USC Healthcare Center - Pasadena",
+            "address": "625 S Fair Oaks Ave #400, Pasadena, CA 91105",
+            "latitude": 34.134986999999995,
+            "longitude": -118.150714,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.keckmedicine.org/locations/pasadena/625-s-fair-oaks-ave/",
+            "phoneNumber": "(800) 872-2273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.keckmedicine.org/request-an-appointment/",
+                "https://www.zocdoc.com/practice/keck-medicine-of-usc-medicine-57718?LocIdent=104315&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_9_Y75Dxqlk67a_x5CCcD7B-lo_Iq54cbM_fUGnAG_3WoXetB-entity&rwg_token=AAiGsoZmQofqlxk0XW92F38S5pabiTIsuGH_Qc9-BOL0mvWIDvsoUTdyiFiwoIPWpfa97qaCgcWXcpmXOPMEvFRNRSBn6csUkQRCCBPcRXS1GJu89wO-BbM%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPe6sJBeBDuBGhcLDLCRfrwBKbkCvv9e3u0-B3Z",
+            "cid": "1830231383451477490",
+            "fid": "0x80c2c3180ad096a9:0x196649bf0b65a5f2",
+            "placeId": "ChIJqZbQChjDwoAR8qVlC79JZhk"
+        },
+        {
+            "position": 13,
+            "title": "Los Angeles County Department of Health Services",
+            "address": "313 N Figueroa St, Los Angeles, CA 90012",
+            "latitude": 34.0598781,
+            "longitude": -118.24953199999999,
+            "rating": 3.8,
+            "ratingCount": 34,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "County government office"
+            ],
+            "website": "http://dhs.lacounty.gov/",
+            "phoneNumber": "(213) 240-8101",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfug36uzkperVC1-445qGD6qsugdhFs4YtJSft",
+            "cid": "8964341622420436568",
+            "fid": "0x80c2c653a4193a23:0x7c67bd35e19e7658",
+            "placeId": "ChIJIzoZpFPGwoARWHae4TW9Z3w"
+        },
+        {
+            "position": 14,
+            "title": "Los Angeles General Medical Center Emergency Room",
+            "address": "1200 N State St, Los Angeles, CA 90033",
+            "latitude": 34.0579666,
+            "longitude": -118.20879839999999,
+            "rating": 2,
+            "ratingCount": 110,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.lacusc.org/",
+            "phoneNumber": "(323) 409-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNn6Rthk5UNvxzv4TjRTpiJ6Onz9qsdfz1eWjci",
+            "cid": "10135822705881453763",
+            "fid": "0x80c2c6751c9d7a39:0x8ca9ad0c926714c3",
+            "placeId": "ChIJOXqdHHXGwoARwxRnkgytqYw"
+        },
+        {
+            "position": 15,
+            "title": "LAC+USC Medical Center Parking",
+            "address": "2042 Zonal Ave, Los Angeles, CA 90089",
+            "latitude": 34.0595183,
+            "longitude": -118.206266,
+            "rating": 4.3,
+            "ratingCount": 20,
+            "type": "Parking garage",
+            "types": [
+                "Parking garage",
+                "Parking lot"
+            ],
+            "website": "https://www.spotangels.com/los-angeles/lac+usc-medical-center-parking?ref=google_maps_website",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOdHCv_KnnA13Rkon9DadVlK3aYeQt_jg4h2ScD",
+            "cid": "12485749718603867127",
+            "fid": "0x80c2c5df7decdb29:0xad464b377bd123f7",
+            "placeId": "ChIJKdvsfd_FwoAR9yPRezdLRq0"
+        },
+        {
+            "position": 16,
+            "title": "USC Family Caregiver Support Center",
+            "address": "3715 McClintock Ave, Los Angeles, CA 90089",
+            "latitude": 34.0201996,
+            "longitude": -118.29058479999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://losangelescrc.usc.edu/",
+            "phoneNumber": "(855) 872-6060",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PXXqmWpm3vUMWIaYymE-jg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=293.36942&pitch=0&thumbfov=100",
+            "cid": "6220431331944821371",
+            "fid": "0x80c2944c698de545:0x56536956d247f27b",
+            "placeId": "ChIJReWNaUyUwoARe_JH0lZpU1Y"
+        },
+        {
+            "position": 17,
+            "title": "Keck School of Medicine of USC",
+            "address": "1975 Zonal Ave, Los Angeles, CA 90033",
+            "latitude": 34.061138,
+            "longitude": -118.2057365,
+            "rating": 4.1,
+            "ratingCount": 92,
+            "priceLevel": "$$",
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://keck.usc.edu/",
+            "phoneNumber": "(323) 442-1100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNrzx1wFMxJ-j4EZtCpQcToW7NK1-AgXqsV8lw",
+            "cid": "1956318532872637592",
+            "fid": "0x80c2c5df2863610d:0x1b263d5733630c98",
+            "placeId": "ChIJDWFjKN_FwoARmAxjM1c9Jhs"
+        },
+        {
+            "position": 18,
+            "title": "USC Verdugo Hills Hospital",
+            "address": "1812 Verdugo Blvd, Glendale, CA 91208",
+            "latitude": 34.2046755,
+            "longitude": -118.215893,
+            "rating": 3,
+            "ratingCount": 301,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.uscvhh.org/",
+            "phoneNumber": "(818) 790-7100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJZYLNmDKdTke1_kozxA4pXQ1k4Yz5BjzFZ2VU",
+            "cid": "17339973282310646635",
+            "fid": "0x80c2ea059628f7c7:0xf0a3f5d442e3eb6b",
+            "placeId": "ChIJx_colgXqwoARa-vjQtT1o_A"
+        },
+        {
+            "position": 19,
+            "title": "USC Career Center",
+            "address": "Student Union, 3601 Trousdale Pkwy, Los Angeles, CA 90089",
+            "latitude": 34.020265699999996,
+            "longitude": -118.2857791,
+            "rating": 3.8,
+            "ratingCount": 17,
+            "priceLevel": "$$",
+            "type": "Employment center",
+            "types": [
+                "Employment center"
+            ],
+            "website": "http://careers.usc.edu/",
+            "phoneNumber": "(213) 740-9111",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPRefTiprgxxbrOyFx9YWeHPw2tx702J_5nls",
+            "cid": "1432272836185518442",
+            "fid": "0x80c2c7e31274b59b:0x13e0748e5647716a",
+            "placeId": "ChIJm7V0EuPHwoARanFHVo504BM"
+        },
+        {
+            "position": 20,
+            "title": "University of Southern California",
+            "address": "Los Angeles, CA 90007",
+            "latitude": 34.0223519,
+            "longitude": -118.285117,
+            "rating": 4.6,
+            "ratingCount": 1678,
+            "priceLevel": "$$",
+            "type": "Private university",
+            "types": [
+                "Private university",
+                "University"
+            ],
+            "website": "http://usc.edu/",
+            "phoneNumber": "(213) 740-2311",
+            "description": "Founded in 1880, this private research school is known for journalism, cinematic arts & medicine.",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNh6wXv3DrXfjj2_a4RdK5O8pJbRdBIpjQ7OZRZ",
+            "cid": "12290422733005103812",
+            "fid": "0x80c2c7e49c71a5ed:0xaa905a5bb427a2c4",
+            "placeId": "ChIJ7aVxnOTHwoARxKIntFtakKo"
+        }
+    ],
+    "credits": 3
+}

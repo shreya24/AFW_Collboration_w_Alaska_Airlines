@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Fresno Nephrology Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.8387255,-119.7774818,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Nephrology Group Inc",
+            "address": "568 E Herndon Ave STE 201, Fresno, CA 93720",
+            "latitude": 36.838725499999995,
+            "longitude": -119.77748179999999,
+            "rating": 3,
+            "ratingCount": 44,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.thenephrologygroupinc.com/",
+            "phoneNumber": "(559) 228-6600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_jP_cIf14zW6vyR4PeS37A7WICuhBLPB8e2CJcY8V7v-nysYEykqL02lZNIWRnjBc3m9iGMOgmLhEVXgWP1vEzR0WxarNZ9GhbM6r4TAyE-unzObMFNvtXRWWXFow1YYksXKB4",
+            "cid": "7613629237049919102",
+            "fid": "0x809442b2a08341fb:0x69a90b73cde3867e",
+            "placeId": "ChIJ-0GDoLJClIARfobjzXMLqWk"
+        }
+    ],
+    "credits": 3
+}

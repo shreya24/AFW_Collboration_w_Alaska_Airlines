@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Camp Fire USA Inland Northwest Council",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6665831,-117.2390467,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camp Fire Inland Northwest",
+            "address": "1014 N Pines Rd #110, Spokane, WA 99206",
+            "latitude": 47.6665831,
+            "longitude": -117.23904669999999,
+            "rating": 4.8,
+            "ratingCount": 21,
+            "type": "Youth organization",
+            "types": [
+                "Youth organization",
+                "Children's camp",
+                "Campground",
+                "Youth center",
+                "Youth club"
+            ],
+            "website": "http://www.campfireinc.org/",
+            "phoneNumber": "(509) 747-6191",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FLjbbW5w0tlAN_ZN0M7Dyw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=86.16879&pitch=0&thumbfov=100",
+            "cid": "15627813992547852542",
+            "fid": "0x549e2032c49b2e19:0xd8e12606c9b1a0fe",
+            "placeId": "ChIJGS6bxDIgnlQR_qCxyQYm4dg"
+        }
+    ],
+    "credits": 3
+}

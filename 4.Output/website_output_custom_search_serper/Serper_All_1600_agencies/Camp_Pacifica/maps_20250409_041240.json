@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Camp Pacifica",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.5062911,-121.1164406,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Surf Camp Pacifica",
+            "address": "5200 Coast Hwy, Pacifica, CA 94044",
+            "latitude": 37.597192199999995,
+            "longitude": -122.5038546,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp",
+                "Surf school",
+                "Summer camp organizer"
+            ],
+            "website": "http://surfcamppacifica.com/",
+            "phoneNumber": "(650) 758-7873",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "9\u202fAM\u20133\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "9\u202fAM\u20134\u202fPM",
+                "Sunday": "9\u202fAM\u20134\u202fPM",
+                "Monday": "9\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHRmi2PnHSZKt9sul1bpRZsT01n7VsefI4BlSH",
+            "cid": "4409185296313648144",
+            "fid": "0x808f7a9cb60f1839:0x3d3092aa87a68410",
+            "placeId": "ChIJORgPtpx6j4AREISmh6qSMD0"
+        },
+        {
+            "position": 2,
+            "title": "Camp Pacifica",
+            "address": "45895 CA-49, Ahwahnee, CA 93601",
+            "latitude": 37.415389999999995,
+            "longitude": -119.72902669999999,
+            "rating": 4.8,
+            "ratingCount": 24,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "https://campingunlimited.org/we-purchased-camp-pacifica-at-ahwahnee/",
+            "phoneNumber": "(559) 683-4660",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_DAnQMjbTZDluco5YbzF_BRTJ_c3EF54fm6gTFgoOxiAUblqvGZ_MB6eahZ7L9xeI5qhsQYH-iZApclgU27AjHD1TAu9NwyDKQ_XQCmbvBVkgjf6znAQ1gfQkeccTOYOKfIP2o",
+            "cid": "13190658477422169",
+            "fid": "0x8096993c87526389:0x2edcd580e67659",
+            "placeId": "ChIJiWNShzyZloARWXbmgNXcLgA"
+        }
+    ],
+    "credits": 3
+}

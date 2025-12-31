@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Domestic Violence Intervention Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.6381111,-85.4039198,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Domestic Intervention Center",
+            "address": "1996 Pepperell Pkwy, Opelika, AL 36801",
+            "latitude": 32.638111099999996,
+            "longitude": -85.4039198,
+            "rating": 1.7,
+            "ratingCount": 3,
+            "type": "Alcoholism treatment program",
+            "types": [
+                "Alcoholism treatment program"
+            ],
+            "website": "http://www.dvic2.org/",
+            "phoneNumber": "(334) 749-1515",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f03swl7E5uXWCVyDfadd2g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=83.62572&pitch=0&thumbfov=100",
+            "cid": "15672789960045765595",
+            "fid": "0x888cf2a995ccdb81:0xd980ef6e3fd623db",
+            "placeId": "ChIJgdvMlanyjIgR2yPWP27vgNk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Juneau Foot & Ankle Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3641309,-134.5787155,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Juneau Foot & Ankle",
+            "address": "8800 Glacier Hwy # 218, Juneau, AK 99801",
+            "latitude": 58.3641309,
+            "longitude": -134.5787155,
+            "rating": 4,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.juneaufootankle.com/",
+            "phoneNumber": "(907) 789-0405",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9eJWhow08inkIilnfnJNg3XMaQBdbJLnD1eN0utULbwNgSLUS-B-1JnwcnML4Ro2R9vWKq0HSdUmMYdiGIJlSeQyfKmJYOsm_hIMAg-spjj1X_2hx-2fW6M5fU3sp2fNFp7aSO",
+            "cid": "17312156872297507348",
+            "fid": "0x54011e2024b65b1f:0xf04122f39d216a14",
+            "placeId": "ChIJH1u2JCAeAVQRFGohnfMiQfA"
+        }
+    ],
+    "credits": 3
+}

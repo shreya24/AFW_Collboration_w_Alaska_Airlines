@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "George E. Wahlen Dept. of Veteran Affairs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7576916,-111.8410558,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "George E. Wahlen Department of Veterans Affairs Medical Center",
+            "address": "500 Foothill Dr, Salt Lake City, UT 84148",
+            "latitude": 40.7576916,
+            "longitude": -111.84105579999999,
+            "rating": 3.9,
+            "ratingCount": 222,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center",
+                "Military hospital"
+            ],
+            "website": "http://www.saltlakecity.va.gov/",
+            "phoneNumber": "(801) 582-1565",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNP01T3P3rv3B-usMjWZ5ru5s3rr7LcngjcKd6E",
+            "cid": "2878091084712014806",
+            "fid": "0x87525fec2f4f036f:0x27f10897bf7a73d6",
+            "placeId": "ChIJbwNPL-xfUocR1nN6v5cI8Sc"
+        }
+    ],
+    "credits": 3
+}

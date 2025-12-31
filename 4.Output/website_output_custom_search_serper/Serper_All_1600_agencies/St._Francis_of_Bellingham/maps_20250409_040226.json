@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "St. Francis of Bellingham",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.7716129,-122.4675651,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Avalon Healthcare - Bellingham",
+            "address": "3121 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.7726329,
+            "longitude": -122.46921169999999,
+            "rating": 3.6,
+            "ratingCount": 38,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Medical Center",
+                "Occupational therapist",
+                "Physical therapist",
+                "Rehabilitation center",
+                "Speech pathologist"
+            ],
+            "website": "https://avalonhealthcare.com/bellingham/",
+            "phoneNumber": "(360) 734-6760",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjyiEsf3-8yrbzImqbD5R4V_H-aMjTWWmPHD6x",
+            "cid": "10031357565128804164",
+            "fid": "0x5485a37ebdc33455:0x8b368a8e9c6e0744",
+            "placeId": "ChIJVTTDvX6jhVQRRAdunI6KNos"
+        },
+        {
+            "position": 2,
+            "title": "St Francis Extended Health Cr",
+            "address": "3121 Squalicum Pkwy, Bellingham, WA 98225",
+            "latitude": 48.7727125,
+            "longitude": -122.4692118,
+            "type": "Health",
+            "types": [
+                "Health"
+            ],
+            "website": "http://stfrancisofbellingham.com/",
+            "phoneNumber": "(360) 756-2094",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yJsv8PvpuiZTJR6RcNqKSQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.90985&pitch=0&thumbfov=100",
+            "cid": "13211433945748276280",
+            "fid": "0x5485a37ebe123e3b:0xb758712d2ddd0438",
+            "placeId": "ChIJOz4Svn6jhVQROATdLS1xWLc"
+        },
+        {
+            "position": 3,
+            "title": "Community of St. Francis Pastoral Center",
+            "address": "713 E Sunset Dr, Bellingham, WA 98225",
+            "latitude": 48.770513199999996,
+            "longitude": -122.46591839999999,
+            "type": "Catholic church",
+            "types": [
+                "Catholic church"
+            ],
+            "phoneNumber": "(360) 630-6400",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aGN_T-vQtdRQEdIZ0y4OAA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=342.4094&pitch=0&thumbfov=100",
+            "cid": "8957957965419834650",
+            "fid": "0x5485a37f6afcfe2b:0x7c510f4ee9baed1a",
+            "placeId": "ChIJK_78an-jhVQRGu266U4PUXw"
+        }
+    ],
+    "credits": 3
+}

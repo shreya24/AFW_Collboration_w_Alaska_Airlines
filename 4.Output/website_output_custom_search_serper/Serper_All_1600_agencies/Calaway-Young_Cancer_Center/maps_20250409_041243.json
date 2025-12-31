@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Calaway-Young Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5322438,-107.3225708,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Calaway - Young Cancer Center at Valley View",
+            "address": "1906 Blake Ave, Glenwood Springs, CO 81601",
+            "latitude": 39.532243799999996,
+            "longitude": -107.3225708,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical group",
+                "Oncologist"
+            ],
+            "website": "https://www.vvh.org/cancer-center/",
+            "phoneNumber": "(970) 384-7570",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOP8Z-URnzva3j8dvYgh6i-SWyPzz74C5keXgxL",
+            "cid": "16851750372891480805",
+            "fid": "0x874109b16f6c425b:0xe9dd71ae03c0d2e5",
+            "placeId": "ChIJW0Jsb7EJQYcR5dLAA65x3ek"
+        }
+    ],
+    "credits": 3
+}

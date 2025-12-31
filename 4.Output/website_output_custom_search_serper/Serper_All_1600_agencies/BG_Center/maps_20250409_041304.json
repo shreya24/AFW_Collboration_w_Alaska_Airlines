@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "BG Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9278721,-122.0232405,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "COPA Soccer Training Center",
+            "address": "2640 Shadelands Dr, Walnut Creek, CA 94598",
+            "latitude": 37.927872099999995,
+            "longitude": -122.0232405,
+            "rating": 4.5,
+            "ratingCount": 147,
+            "type": "Sports complex",
+            "types": [
+                "Sports complex",
+                "Event venue",
+                "Gym",
+                "Physical fitness program",
+                "Soccer practice"
+            ],
+            "website": "http://www.copastc.com/",
+            "phoneNumber": "(925) 357-8999",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201311\u202fPM",
+                "Wednesday": "7\u202fAM\u201311\u202fPM",
+                "Thursday": "7\u202fAM\u201311\u202fPM",
+                "Friday": "7\u202fAM\u201311\u202fPM",
+                "Saturday": "7\u202fAM\u20139\u202fPM",
+                "Sunday": "7\u202fAM\u20139\u202fPM",
+                "Monday": "7\u202fAM\u201311\u202fPM"
+            },
+            "bookingLinks": [
+                "https://copastc.com/signup"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8rohZNNTnxKEix5mlr8DY5AylUkQuLNtlWtysjbSPOG7OgBIZDRpZFIdPkYTrERh1ZWiVD_K88Mwv7OnvMWfaVbvUTdZaNE2kBDXtqFu9uSPGXGGciauPcju-jUVL_BQ9U3fku",
+            "cid": "17212988788596907063",
+            "fid": "0x8085605941bb3ba1:0xeee0d21adb199c37",
+            "placeId": "ChIJoTu7QVlghYARN5wZ2xrS4O4"
+        }
+    ],
+    "credits": 3
+}

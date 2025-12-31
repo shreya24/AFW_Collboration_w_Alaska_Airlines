@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Angel Flight Oklahoma",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.155213,-95.8389677,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angel Flight Inc",
+            "address": "12345 E Skelly Dr, Tulsa, OK 74128",
+            "latitude": 36.155212999999996,
+            "longitude": -95.8389677,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.angelflight.com/",
+            "phoneNumber": "(918) 749-8992",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPC2Ogt3uT5pnqEfdB0rMNuf017aseE49lUvQI2",
+            "cid": "10279292506489482437",
+            "fid": "0x87b6939a88d18f6b:0x8ea7621297a3ecc5",
+            "placeId": "ChIJa4_RiJqTtocRxeyjlxJip44"
+        }
+    ],
+    "credits": 3
+}

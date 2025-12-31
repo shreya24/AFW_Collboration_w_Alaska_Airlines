@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Northland Hearing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.3108055,-81.4361901,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northland Hearing Center Inc",
+            "address": "9630 Ravenna Rd, Twinsburg, OH 44087",
+            "latitude": 41.3108055,
+            "longitude": -81.43619009999999,
+            "type": "Hearing aid store",
+            "types": [
+                "Hearing aid store"
+            ],
+            "phoneNumber": "(330) 486-0715",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DvKNXbwCfgrQ3v4fGm6ENg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=219.09421&pitch=0&thumbfov=100",
+            "cid": "16245192081546834701",
+            "fid": "0x88311f304df055e5:0xe1728420a096730d",
+            "placeId": "ChIJ5VXwTTAfMYgRDXOWoCCEcuE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "Southwest Kids Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.3345165,-109.2963156,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona Camp Sunrise",
+            "address": "2273 E Colcord Rd, Payson, AZ 85541",
+            "latitude": 34.2888041,
+            "longitude": -110.9383227,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://azcampsunrise.org/",
+            "phoneNumber": "(480) 382-8564",
+            "cid": "11381071591278720322",
+            "fid": "0x872ea72b5fabfaa1:0x9df1b05011753542",
+            "placeId": "ChIJofqrXyunLocRQjV1EVCw8Z0"
+        },
+        {
+            "position": 2,
+            "title": "Arizona Cancer Foundation for Children",
+            "address": "7010 E Cochise Rd, Scottsdale, AZ 85253",
+            "latitude": 33.5808969,
+            "longitude": -111.9299853,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(480) 350-7055",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPjhldN5zgvC78e_gWripgyLLb_jP8LZNPv-ipl",
+            "cid": "12451791824090267350",
+            "fid": "0x872b744d3dc55555:0xaccda6b10c037ed6",
+            "placeId": "ChIJVVXFPU10K4cR1n4DDLGmzaw"
+        },
+        {
+            "position": 3,
+            "title": "Children's Cancer Fund of New Mexico",
+            "address": "112 14th St SW, Albuquerque, NM 87102",
+            "latitude": 35.088136,
+            "longitude": -106.662646,
+            "rating": 4.7,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Social services organization"
+            ],
+            "website": "http://www.ccfnm.org/",
+            "phoneNumber": "(505) 243-3618",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPa3czB-JG9t5zBCVL0yCcGJNmGU_wO-gzHDatK",
+            "cid": "1408743945478646357",
+            "fid": "0x87220ccf8bd55ddf:0x138cdd2791bcaa55",
+            "placeId": "ChIJ313Vi88MIocRVaq8kSfdjBM"
+        }
+    ],
+    "credits": 3
+}

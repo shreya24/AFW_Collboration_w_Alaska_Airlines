@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Oasis of Hope",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4892157,-121.682442,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oasis of Hope Center",
+            "address": "1937 S G St, Tacoma, WA 98405",
+            "latitude": 47.242852799999994,
+            "longitude": -122.44328949999999,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Youth organization",
+            "types": [
+                "Youth organization"
+            ],
+            "website": "https://oasisofhopecenter.org/",
+            "phoneNumber": "(253) 383-0077",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP9TwUUl7WJj-vq6rm8amFFShwc6ZbdDDjXozGu",
+            "cid": "1675112054423627753",
+            "fid": "0x54905571c84c7ec9:0x173f3189d2e527e9",
+            "placeId": "ChIJyX5MyHFVkFQR6Sfl0okxPxc"
+        },
+        {
+            "position": 2,
+            "title": "Oasis of Hope Ministries Inc",
+            "address": "6600 Claus Rd, Riverbank, CA 95367",
+            "latitude": 37.7355786,
+            "longitude": -120.92159459999999,
+            "rating": 4.7,
+            "ratingCount": 13,
+            "type": "Baptist church",
+            "types": [
+                "Baptist church"
+            ],
+            "website": "https://www.facebook.com/OasisOfHopeChurch",
+            "phoneNumber": "(209) 869-3536",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "6:30\u20137:30\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "10:45\u202fAM\u201312:30\u202fPM",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5Ula2aC5rUL53MFiJwX8sCMMidqDaPBsa7TLS",
+            "cid": "16850820937403763613",
+            "fid": "0x809057b8d53c28dd:0xe9da245cf3aa8b9d",
+            "placeId": "ChIJ3Sg81bhXkIARnYuq81wk2uk"
+        }
+    ],
+    "credits": 3
+}

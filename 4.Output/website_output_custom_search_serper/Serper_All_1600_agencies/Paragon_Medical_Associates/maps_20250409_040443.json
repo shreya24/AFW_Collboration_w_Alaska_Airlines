@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Paragon Medical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0701273,-115.0456358,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Paragon Medical Associates",
+            "address": "1399 Galleria Dr STE 110, Henderson, NV 89014",
+            "latitude": 36.070127299999996,
+            "longitude": -115.0456358,
+            "rating": 5,
+            "ratingCount": 47,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://paragonmedicalassociates.com/",
+            "phoneNumber": "(702) 899-5995",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWCYyDHDagKg7kXHDaK-batMyX7OmcjTjRc6vo",
+            "cid": "16787315902160479095",
+            "fid": "0x80c8c1304f46cdbb:0xe8f886deb88aa377",
+            "placeId": "ChIJu81GTzDByIARd6OKuN6G-Og"
+        }
+    ],
+    "credits": 3
+}

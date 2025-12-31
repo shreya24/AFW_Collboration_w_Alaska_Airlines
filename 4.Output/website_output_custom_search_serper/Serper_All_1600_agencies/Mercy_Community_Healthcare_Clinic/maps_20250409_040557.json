@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mercy Community Healthcare Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.8958703,-86.862781,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mercy Community Healthcare - Health Center",
+            "address": "143 SE Pkwy Ct, Franklin, TN 37064",
+            "latitude": 35.8958703,
+            "longitude": -86.862781,
+            "rating": 3.8,
+            "ratingCount": 172,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "website": "https://mercytn.org/",
+            "phoneNumber": "(615) 790-0567",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMXzODcmwioAvCyrBHyb_oLSGG3sg5sVcsWGNir",
+            "cid": "5272838285920824840",
+            "fid": "0x88647ed8bb1d85f5:0x492ce27bfe63ee08",
+            "placeId": "ChIJ9YUdu9h-ZIgRCO5j_nviLEk"
+        }
+    ],
+    "credits": 3
+}

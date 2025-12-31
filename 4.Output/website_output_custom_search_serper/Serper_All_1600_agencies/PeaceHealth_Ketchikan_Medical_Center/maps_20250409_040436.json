@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "PeaceHealth Ketchikan Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3536571,-131.6866346,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth Ketchikan Medical Center",
+            "address": "3100 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.3536571,
+            "longitude": -131.6866346,
+            "rating": 3.2,
+            "ratingCount": 42,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-ketchikan-medical-center?utm_source=gbp&utm_medium=organic&utm_content=KETC-000&utm_campaign=gmb",
+            "phoneNumber": "(907) 225-5171",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQhniiZ1TVlPWhJ4xUtpfkn2SXlylDU4wFmmTf",
+            "cid": "15197938523282214872",
+            "fid": "0x540c25b962574335:0xd2e9ec9096760fd8",
+            "placeId": "ChIJNUNXYrklDFQR2A92lpDs6dI"
+        }
+    ],
+    "credits": 3
+}

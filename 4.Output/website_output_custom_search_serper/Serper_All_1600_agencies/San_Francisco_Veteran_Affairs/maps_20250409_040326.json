@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "San Francisco Veteran Affairs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.782052,-122.4511689,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Francisco VA Medical Center",
+            "address": "4150 Clement St, San Francisco, CA 94121",
+            "latitude": 37.782336199999996,
+            "longitude": -122.50528999999999,
+            "rating": 4.3,
+            "ratingCount": 422,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.sanfrancisco.va.gov/",
+            "phoneNumber": "(415) 221-4810",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Ifqt4vMkhm-ukK-S7U1zFetxbrSWAp11XBM0amO09LGldZgrrFrm2oTBlAa2Bl7NAvayOi_leILjCtYRU3Gbjvt1NDAqbB4eO4bn-YkOwTT-EpyRz5GG7WDS7wsJzIFqxfo82Fw",
+            "cid": "10336824218251549044",
+            "fid": "0x808587b2597df76b:0x8f73c6dc1289d974",
+            "placeId": "ChIJa_d9WbKHhYARdNmJEtzGc48"
+        },
+        {
+            "position": 2,
+            "title": "San Francisco Vet Center",
+            "address": "505 Polk St, San Francisco, CA 94102",
+            "latitude": 37.7815951,
+            "longitude": -122.41903529999999,
+            "rating": 3.5,
+            "ratingCount": 8,
+            "type": "Veterans center",
+            "types": [
+                "Veterans center",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/san-francisco-vet-center/",
+            "phoneNumber": "(415) 441-5051",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Hl1OBe0Ri41QaUnD_Y0QTN-Fia_LR14qNfmfSxjM4H6kmXwBvMBX7f7mx3jUtimZBNvnKwq2q8dZgbVOKspNzqq9dI1RGovyRX7arUNYA7UoRGxekyng67D2-KPUmnseBmnZRXw",
+            "cid": "7373054592074517305",
+            "fid": "0x80858099fbbf269d:0x66525a165e2a0b39",
+            "placeId": "ChIJnSa_-5mAhYAROQsqXhZaUmY"
+        },
+        {
+            "position": 3,
+            "title": "San Francisco VA Downtown Clinic",
+            "address": "401 3rd St, San Francisco, CA 94107",
+            "latitude": 37.782508799999995,
+            "longitude": -122.39704789999999,
+            "rating": 4.2,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.sanfrancisco.va.gov/locations/downtownclinic.asp",
+            "phoneNumber": "(415) 281-5100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-iUG7vtF8xq1jBtbPpk_NAn-1Xgf9jF7CwSx2pUtAFQ38rdMB-lSBSaYSIH4g4FXPWLFpWCK9bhKgzsLrBVOK_5zR8LG-4g7okzDTDERuhPyXX9cHV8RS1pRPm6vu3exYZTdhM-Q",
+            "cid": "358072781446185938",
+            "fid": "0x8085807ec06fb5e1:0x4f8214c2dd603d2",
+            "placeId": "ChIJ4bVvwH6AhYAR0gPWLUwh-AQ"
+        }
+    ],
+    "credits": 3
+}

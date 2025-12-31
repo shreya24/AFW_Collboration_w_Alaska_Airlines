@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Columbia Basin Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2369565,-119.2864103,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Columbia Basin Pediatrics",
+            "address": "404 Westcliffe Blvd, Richland, WA 99352",
+            "latitude": 46.2369565,
+            "longitude": -119.2864103,
+            "rating": 4.5,
+            "ratingCount": 170,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.columbiapeds.com/",
+            "phoneNumber": "(509) 946-7332",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoIuO0XJuRsMNkoL0F6BxpW5xeShpdgSuPvC7c",
+            "cid": "5074194337911188799",
+            "fid": "0x54987b734674a2c7:0x466b28ddb87ead3f",
+            "placeId": "ChIJx6J0RnN7mFQRP61-uN0oa0Y"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Wellspring Women's Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5505531,-121.4698067,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wellspring Women's Center",
+            "address": "3414 4th Ave, Sacramento, CA 95817",
+            "latitude": 38.550553099999995,
+            "longitude": -121.46980669999999,
+            "rating": 4.6,
+            "ratingCount": 145,
+            "type": "Women's organization",
+            "types": [
+                "Women's organization",
+                "Social services organization"
+            ],
+            "website": "http://www.wellspringwomen.org/",
+            "phoneNumber": "(916) 454-9688",
+            "openingHours": {
+                "Tuesday": "8:30\u201311:30\u202fAM",
+                "Wednesday": "8:30\u201311:30\u202fAM",
+                "Thursday": "8:30\u201311:30\u202fAM",
+                "Friday": "8:30\u201311:30\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u201311:30\u202fAM"
+            },
+            "bookingLinks": [
+                "https://www.wellspringwomen.org/programs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfcLZhi0OsDJ087H76FVlxsPhwfPm8VObDLbIi",
+            "cid": "2407169529664831402",
+            "fid": "0x809ad05e3fc0c477:0x2167fbeef9d0ffaa",
+            "placeId": "ChIJd8TAP17QmoARqv_Q-e77ZyE"
+        }
+    ],
+    "credits": 3
+}

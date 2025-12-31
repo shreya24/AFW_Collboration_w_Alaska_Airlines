@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Hillsboro Medical Center Neurology Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4984776,-122.9037881,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hillsboro Medical Center Neurology Clinic",
+            "address": "7545 SE Tualatin Valley Hwy, Hillsboro, OR 97123",
+            "latitude": 45.4984776,
+            "longitude": -122.9037881,
+            "rating": 2.7,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://tuality.org/neurology-clinic/welcome/",
+            "phoneNumber": "(503) 681-1350",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNp5mUBuAXSabR83UjAnGnCD93et_5i5mMVmlw",
+            "cid": "18014255676197476841",
+            "fid": "0x54951aa66a0f9577:0xf9ff7e1808d099e9",
+            "placeId": "ChIJd5UPaqYalVQR6ZnQCBh-__k"
+        }
+    ],
+    "credits": 3
+}

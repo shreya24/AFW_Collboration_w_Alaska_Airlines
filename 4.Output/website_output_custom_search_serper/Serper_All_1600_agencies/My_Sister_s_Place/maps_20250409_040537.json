@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "My Sister's Place",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.034927,-73.7701749,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "My Sisters Place",
+            "address": "3 Barker Ave, White Plains, NY 10601",
+            "latitude": 41.034926999999996,
+            "longitude": -73.7701749,
+            "rating": 4.2,
+            "ratingCount": 23,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Homeless shelter",
+                "Training centre"
+            ],
+            "website": "https://mspny.org/",
+            "phoneNumber": "(914) 683-1333",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-WgBuftaTtxLB8xRGD93xUKrXZI6fB1tWaShX1sCJqnwg6-CTyi8AR7sSqiMo0y3MrXXmfWgvms3TzPL8mJhvUsTImVmZW2PBCvu0rLjniGNcoX42yhHuLuRFhK7poytcgPGzB4A",
+            "cid": "11686242616733679300",
+            "fid": "0x89c294490a811ba3:0xa22ddfbe59713ec4",
+            "placeId": "ChIJoxuBCkmUwokRxD5xWb7fLaI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Community Violence Intervention Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.9225674,-97.0279431,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Violence Intervention Center",
+            "address": "211 S 4th St, Grand Forks, ND 58201",
+            "latitude": 47.9225674,
+            "longitude": -97.0279431,
+            "rating": 4.5,
+            "ratingCount": 24,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center"
+            ],
+            "website": "http://cviconline.org/",
+            "phoneNumber": "(701) 746-0405",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-x02wUjUN6ImtL10n362lNhhLcarkOHKVspyjBJdfqp737dnf4iabUOYSYM_25Lin38-NxcqCANwRDXEHUTqIcgn-zp1SkkIfZ0PWZxwUoP8ghUAn0NPgijOwofKFDR05-E8gd",
+            "cid": "18232286231250393000",
+            "fid": "0x52c686c05310d819:0xfd0617ba80ecd7a8",
+            "placeId": "ChIJGdgQU8CGxlIRqNfsgLoXBv0"
+        }
+    ],
+    "credits": 3
+}

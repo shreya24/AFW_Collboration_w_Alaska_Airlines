@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Arizona Burn Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4569943,-112.0274495,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona Burn Center",
+            "address": "2601 E Roosevelt St Floor 7, Phoenix, AZ 85008",
+            "latitude": 33.4569943,
+            "longitude": -112.02744949999999,
+            "rating": 3.9,
+            "ratingCount": 20,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Hospital"
+            ],
+            "website": "https://valleywisehealth.org/arizona-burn-center-valleywise-health/",
+            "phoneNumber": "(602) 344-5112",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8zM0Lf7m7x11EvB55rCxStUhwO72op817DE6cM8kr848rxRLaEX_uno3y6CkNZH1qmBr74OF2InM-vpNnaRQv8XJOokxTYRiAu_5gMkZSL6ItOzGwU_iC9_W6ja2mvHBlP_qaw",
+            "cid": "16293365405998545458",
+            "fid": "0x872b0db7479657ed:0xe21da982c42e7a32",
+            "placeId": "ChIJ7VeWR7cNK4cRMnouxIKpHeI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Valle Vista Manor website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "knowledgeGraph": {
+        "title": "Valle Vista Rehab & Nursing",
+        "type": "Nursing home in Lewistown, Montana",
+        "website": "http://www.vallevistamanor.com/",
+        "rating": 4,
+        "ratingCount": 5,
+        "attributes": {
+            "Address": "402 Summit Ave, Lewistown, MT 59457",
+            "Phone": "(406) 538-8775"
+        }
+    },
+    "organic": [
+        {
+            "title": "Valle Vista: Home",
+            "link": "https://vallevistarehab.com/",
+            "snippet": "... Services \u00b7 About \u00b7 Contact \u00b7 Photo Gallery. We C.A.R.E.. Creating a great place to work and a great place to live. Located in Lewistown, Montana.",
+            "position": 1
+        },
+        {
+            "title": "Valle Vista Manor - Quality Healthcare with Western Hospitality",
+            "link": "http://vallevistamanor.com/SNF/Contact.aspx",
+            "snippet": "Valle Vista Manor, 402 Summit Ave, Lewistown, Montana, 406-538-8775, Lantis Enterprises Corporate Office, PO Box 699 Spearfish, SD 57783, 605.642.",
+            "position": 2
+        },
+        {
+            "title": "Valle Vista Manor - Quality Healthcare with Western Hospitality",
+            "link": "http://www.vallevistamanor.com/member/redirect.aspx",
+            "snippet": "Use the registration page to join Valle Vista Manor. Phone Icon 406-538-8775. Mail Icon admin@vallevistamanor.com. Valle Vista Manor 402 Summit Ave, Lewistown ...",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 3
+        },
+        {
+            "title": "Valle Vista Manor - Facebook",
+            "link": "https://www.facebook.com/p/Valle-Vista-Manor-100064029066219/",
+            "snippet": "Located in Lewistown, in the center of Montana, Valle Vista offers you individualized care. \udb85\ude76. Follow.",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 4
+        },
+        {
+            "title": "Valle Vista Manor, Lewistown, MT - Nursa",
+            "link": "https://nursa.com/facilities/valle-vista-manor-lewistown-mt",
+            "snippet": "Valle Vista Rehab & Nursing, located in Lewistown, Montana, is a premier nursing home dedicated to providing high-quality rehabilitative and nursing care. Since ...",
+            "position": 5
+        }
+    ],
+    "credits": 1
+}

@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "The Queen's Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3404856,-157.940324,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Queen's Medical Center",
+            "address": "1301 Punchbowl St, Honolulu, HI 96813",
+            "latitude": 21.308469799999997,
+            "longitude": -157.853858,
+            "rating": 3.4,
+            "ratingCount": 345,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Dental clinic",
+                "Dentist",
+                "Hospital department",
+                "Nursing home",
+                "Pharmacy"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc/",
+            "phoneNumber": "(808) 691-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB80iWcOsEFPbmWMy-r7qSdIdi_Bc9GOD9utZnmFWe9mJ2LhKYgHokizu5dSQmOMWi8vdoh8LrI98SWgJWm5ullHpxGDAwhBpezFu33NRe1cMee8ucNxAQjfLReYRSiOaLUMVcM6DA",
+            "cid": "17855853242645249370",
+            "fid": "0x7c006ddfb9473dd5:0xf7ccbbeb79607d5a",
+            "placeId": "ChIJ1T1Hud9tAHwRWn1geeu7zPc"
+        },
+        {
+            "position": 2,
+            "title": "The Queen's Medical Center - West Oahu",
+            "address": "91-2141 Fort Weaver Rd, Ewa Beach, HI 96706",
+            "latitude": 21.3725013,
+            "longitude": -158.02679,
+            "rating": 3.4,
+            "ratingCount": 177,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.queens.org/locations/hospitals/qmc-west-oahu/",
+            "phoneNumber": "(808) 691-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4hM_I6NfpA8I18HJGgLO7WTYcBX1Gf8z90-De",
+            "cid": "4798161417718076782",
+            "fid": "0x7c00646b0208f2e7:0x42967e633e12156e",
+            "placeId": "ChIJ5_IIAmtkAHwRbhUSPmN-lkI"
+        }
+    ],
+    "credits": 3
+}

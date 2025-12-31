@@ -1,0 +1,74 @@
+{
+    "searchParameters": {
+        "q": "Providence Medical Group - Central Point",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3660403,-122.9103277,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Medical Plaza - Central Point",
+            "address": "870 S Front St, Central Point, OR 97502",
+            "latitude": 42.366002699999996,
+            "longitude": -122.9104174,
+            "rating": 3.1,
+            "ratingCount": 52,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/or/central-point-medical-plaza?ls=location&y_source=1_OTU3NjA5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(541) 732-8000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://oregon.providence.org/location-directory/p/providence-central-point-medical-plaza/#llaid=5195sa",
+                "https://www.providence.org/doctors/search?region=or&super-practice-group=Providence+Medical+Group+-+Central+Point&super-pid=27306&reset=true%3Fls%3Dlocation&y_source=1_OTU3NjA5MS03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNq_pMpTl1haWlVvAyrAL6HOI4Jyyes7Ilc5us2",
+            "cid": "13967310495411922199",
+            "fid": "0x54cf7c0a8249544d:0xc1d5dae4c29ce517",
+            "placeId": "ChIJTVRJggp8z1QRF-WcwuTa1cE"
+        },
+        {
+            "position": 2,
+            "title": "Providence Medical Group",
+            "address": "870 S Front St #200, Central Point, OR 97502",
+            "latitude": 42.366077999999995,
+            "longitude": -122.91023799999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.providence.org/services/providence-medical-group-oregon",
+            "phoneNumber": "(541) 664-3346",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k4dhS-Sqd8Pi7Jr-BR2A5w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=53.744766&pitch=0&thumbfov=100",
+            "cid": "14424797597663078798",
+            "fid": "0x54cf7c0a82fbe093:0xc82f2cfd3d9da98e",
+            "placeId": "ChIJk-D7ggp8z1QRjqmdPf0sL8g"
+        }
+    ],
+    "credits": 3
+}

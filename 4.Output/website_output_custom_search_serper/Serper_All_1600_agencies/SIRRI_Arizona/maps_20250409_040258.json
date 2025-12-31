@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "SIRRI Arizona",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3848342,-111.9082711,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SIRRI AZ - Brain Performance Center",
+            "address": "4515 S McClintock Dr # 208, Tempe, AZ 85282",
+            "latitude": 33.3848342,
+            "longitude": -111.9082711,
+            "rating": 4.8,
+            "ratingCount": 22,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Wellness center"
+            ],
+            "website": "https://www.sirriaz.com/",
+            "phoneNumber": "(480) 777-7075",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "12\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAoNms1f9GDAGDVAov6rw9Kt-O1Cf6zJeT35-B",
+            "cid": "6619614124904628071",
+            "fid": "0x872b062b9aa3b865:0x5bdd97f971193f67",
+            "placeId": "ChIJZbijmisGK4cRZz8ZcfmX3Vs"
+        }
+    ],
+    "credits": 3
+}

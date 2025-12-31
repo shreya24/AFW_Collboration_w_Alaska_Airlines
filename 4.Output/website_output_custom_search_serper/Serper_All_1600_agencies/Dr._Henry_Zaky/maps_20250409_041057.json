@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Dr. Henry Zaky",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3377084,-75.2094806,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wadid Zaky, MD",
+            "address": "10231 Old Ocean City Blvd #208, Berlin, MD 21811",
+            "latitude": 38.3377084,
+            "longitude": -75.20948059999999,
+            "rating": 4.9,
+            "ratingCount": 348,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "website": "https://www.spinepainjointzaky.com/?utm_source=gmb_auth",
+            "phoneNumber": "(240) 616-6006",
+            "menu": "https://www.spinepainjointzaky.com/services?utm_source=google_menu",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.spinepainjointzaky.com"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNPKzA85oVEjtylPM-wYFmkPx9ABOofuoSg-qwN",
+            "cid": "9148597542247739694",
+            "fid": "0x89b92757533a08c3:0x7ef658fe4ab0312e",
+            "placeId": "ChIJwwg6U1cnuYkRLjGwSv5Y9n4"
+        }
+    ],
+    "credits": 3
+}

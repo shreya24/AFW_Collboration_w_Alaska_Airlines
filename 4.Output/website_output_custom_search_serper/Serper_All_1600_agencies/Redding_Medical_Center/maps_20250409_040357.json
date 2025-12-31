@@ -1,0 +1,132 @@
+{
+    "searchParameters": {
+        "q": "Redding Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5780989,-122.3947146,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shasta Regional Medical Center",
+            "address": "1100 Butte St, Redding, CA 96001",
+            "latitude": 40.585391099999995,
+            "longitude": -122.387757,
+            "rating": 4,
+            "ratingCount": 720,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://shastaregional.com/",
+            "phoneNumber": "(530) 244-5400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://shastaregional.com/getcarenow/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8OMbCC50rWRHBE9F-FKXhzoHJ4VToTxD_xP6FNrHpB4zKjjFPpNn8qIKvnvYlw-gN2hTscq2kBN-LPePOozLt01IdjmOcyYxuN1XiXUmnIVW1yUaKwLCIsHiFSsVem5FjZy9AV",
+            "cid": "3878037286448918186",
+            "fid": "0x54d2ece01b1522a1:0x35d18e5d8481eeaa",
+            "placeId": "ChIJoSIVG-Ds0lQRqu6BhF2O0TU"
+        },
+        {
+            "position": 2,
+            "title": "Mercy Medical Center Redding",
+            "address": "2175 Rosaline Ave, Redding, CA 96001",
+            "latitude": 40.5719533,
+            "longitude": -122.39523279999999,
+            "rating": 4.1,
+            "ratingCount": 1827,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency care service",
+                "Emergency room",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/mercy-medical-center-redding",
+            "phoneNumber": "(530) 225-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnRcGbBx_Ir9g9tysYFSRTt_DqQUA8gOz0N-oh",
+            "cid": "15307877961646500219",
+            "fid": "0x54d2ecf702ab2bfd:0xd47081e6c8f8697b",
+            "placeId": "ChIJ_SurAvfs0lQRe2n4yOaBcNQ"
+        },
+        {
+            "position": 3,
+            "title": "Shasta Regional Medical Center: Emergency Room",
+            "address": "1100 Butte St, Redding, CA 96001",
+            "latitude": 40.585076699999995,
+            "longitude": -122.3877986,
+            "rating": 3.1,
+            "ratingCount": 206,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://shastaregional.com/",
+            "phoneNumber": "(530) 244-5400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_W32jjPbA-Ogj-K3mi90FJcga7jmCLQV1krzpyOdCeAg8HiLA50_8RMcYld9hcle4XPTjyFSXIvlTY-4dpPcJemWvDc4BpqUiykGFPnI4r2yS3xLww1WuAfufCO6ln1ejyurwC",
+            "cid": "3365680136761599587",
+            "fid": "0x54d2ece01ae85105:0x2eb54c4093436663",
+            "placeId": "ChIJBVHoGuDs0lQRY2ZDk0BMtS4"
+        },
+        {
+            "position": 4,
+            "title": "Redding Family Medical Group, Inc",
+            "address": "2510 Airpark Dr 201 & 104, Redding, CA 96001",
+            "latitude": 40.5708066,
+            "longitude": -122.4016722,
+            "rating": 2.6,
+            "ratingCount": 69,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://reddingfamilydoctor.com/",
+            "phoneNumber": "(530) 244-4034",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_jZI2keSZvJcm4HBEdJhO2JF4B0L1Vy63eLSA8PIshY0Yvf2FHfv_fZGoYe2uCCwpMlk_s0SOQAKU43vo2bQMMt7_JbnpYE-M2w4s1iDjeJMIFmdjO3o4YzJ4tMe8amY2QyE6A",
+            "cid": "9755877666174282083",
+            "fid": "0x54d2ec584109f023:0x8763d70c6c7c2963",
+            "placeId": "ChIJI_AJQVjs0lQRYyl8bAzXY4c"
+        }
+    ],
+    "credits": 3
+}

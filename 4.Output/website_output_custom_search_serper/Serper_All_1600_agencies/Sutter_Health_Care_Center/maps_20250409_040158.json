@@ -1,0 +1,620 @@
+{
+    "searchParameters": {
+        "q": "Sutter Health Care Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8861508,-121.6051399,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sutter Urgent Care - Turlock",
+            "address": "3100 W Christoffersen Pkwy, Turlock, CA 95382",
+            "latitude": 37.5284622,
+            "longitude": -120.8838949,
+            "rating": 4.1,
+            "ratingCount": 392,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/turlock-care-center-urgent-care",
+            "phoneNumber": "(209) 632-3909",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=1282"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXHtGCyVuY-pmuFezl2798ihJC5q7wKOglYATv",
+            "cid": "10343508593664935940",
+            "fid": "0x80910750089ab46d:0x8f8b864380994804",
+            "placeId": "ChIJbbSaCFAHkYARBEiZgEOGi48"
+        },
+        {
+            "position": 2,
+            "title": "Sutter Urgent Care - Castro Valley",
+            "address": "20101 Lake Chabot Rd, Castro Valley, CA 94546",
+            "latitude": 37.6986497,
+            "longitude": -122.08935919999999,
+            "rating": 4.2,
+            "ratingCount": 341,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/castro-valley-urgent-care",
+            "phoneNumber": "(510) 247-6300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=8129"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdOSBs4CH4qKh7o4ZJxhDhii2B_EpJtEkOgB5T",
+            "cid": "2071034342162736642",
+            "fid": "0x808f918bc6b6e31f:0x1cbdcac2ea3ea602",
+            "placeId": "ChIJH-O2xouRj4ARAqY-6sLKvRw"
+        },
+        {
+            "position": 3,
+            "title": "Sutter Urgent Care - Sacramento",
+            "address": "1201 Alhambra Blvd #230, Sacramento, CA 95816",
+            "latitude": 38.570204499999996,
+            "longitude": -121.46597659999999,
+            "rating": 4.4,
+            "ratingCount": 734,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/sacramento-urgent-care",
+            "phoneNumber": "(916) 731-7728",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=786"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFP5vsQ4bbREKH1QqmxFuZH0ov5yGJE05i81mM",
+            "cid": "7811938519846198498",
+            "fid": "0x809ad0948773999d:0x6c6994b1c29f9ce2",
+            "placeId": "ChIJnZlzh5TQmoAR4pyfwrGUaWw"
+        },
+        {
+            "position": 4,
+            "title": "San Mateo Care Center",
+            "address": "50 S San Mateo Dr, San Mateo, CA 94401",
+            "latitude": 37.5660345,
+            "longitude": -122.32638499999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/san-mateo-care-center",
+            "phoneNumber": "(650) 652-8370",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5gHn0KszSNmQli5p7DK5wA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=217.04865&pitch=0&thumbfov=100",
+            "cid": "17617389126403328451",
+            "fid": "0x808f9e711154cf93:0xf47d8a11cd1989c3",
+            "placeId": "ChIJk89UEXGej4ARw4kZzRGKffQ"
+        },
+        {
+            "position": 5,
+            "title": "Sutter Urgent Care - San Carlos Center",
+            "address": "301 Industrial Rd Level 1, San Carlos, CA 94070",
+            "latitude": 37.5153932,
+            "longitude": -122.2603408,
+            "rating": 4.5,
+            "ratingCount": 841,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/san-carlos-center-urgent-care",
+            "phoneNumber": "(650) 596-4100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=26255"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWSf8r0MkIR91_II0WroTXI3hhxLe32Ly0qpGQ",
+            "cid": "6406881399974606477",
+            "fid": "0x808fa251812112a1:0x58e9d0b02b8b368d",
+            "placeId": "ChIJoRIhgVGij4ARjTaLK7DQ6Vg"
+        },
+        {
+            "position": 6,
+            "title": "Sutter Urgent Care - Modesto",
+            "address": "600 Coffee Rd, Modesto, CA 95355",
+            "latitude": 37.6531424,
+            "longitude": -120.9738295,
+            "rating": 4.3,
+            "ratingCount": 725,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/main-clinic-600-coffee-road-urgent-care",
+            "phoneNumber": "(209) 550-4777",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u20139\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=691"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMbOZrOVP5jA_Oj6ymRAWd0GxDaovKhtS0BKuty",
+            "cid": "17183917604657878433",
+            "fid": "0x8090541187c07349:0xee798a046336d5a1",
+            "placeId": "ChIJSXPAhxFUkIARodU2YwSKee4"
+        },
+        {
+            "position": 7,
+            "title": "Sutter Urgent Care - Roseville",
+            "address": "1620 E Roseville Pkwy #110, Roseville, CA 95661",
+            "latitude": 38.7487661,
+            "longitude": -121.24238249999999,
+            "rating": 4.4,
+            "ratingCount": 799,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/roseville-urgent-care",
+            "phoneNumber": "(916) 865-1400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=27525"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNcSiC18CeDW32ewKRdGTzlrBQaJlXJNB42SMa",
+            "cid": "15124603852180294361",
+            "fid": "0x809b1f9b06f66d99:0xd1e56311e9b60ad9",
+            "placeId": "ChIJmW32Bpsfm4AR2Qq26RFj5dE"
+        },
+        {
+            "position": 8,
+            "title": "Santa Clara Center",
+            "address": "2734 El Camino Real, Santa Clara, CA 95051",
+            "latitude": 37.3520556,
+            "longitude": -121.9755028,
+            "rating": 2.7,
+            "ratingCount": 35,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/santa-clara-center",
+            "phoneNumber": "(408) 241-3801",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnpAsfiBdFUWMBTrWT5U1mz9I-Nk5juvbWpgFm",
+            "cid": "5642397798985755375",
+            "fid": "0x808fca14ada65afd:0x4e4dd2e749fdeaef",
+            "placeId": "ChIJ_VqmrRTKj4AR7-r9SefSTU4"
+        },
+        {
+            "position": 9,
+            "title": "Sutter Medical Care Center",
+            "address": "2 Medical Plaza Dr #255, Roseville, CA 95661",
+            "latitude": 38.7652317,
+            "longitude": -121.2484186,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/2-medical-plaza-care-center",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135:30\u202fPM",
+                "Friday": "7\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP94hI11i1shNheNK2zkJOScHPhMCuLrckUHKIT",
+            "cid": "10294648663215917720",
+            "fid": "0x809b1ffe0507808b:0x8eddf06a726f4a98",
+            "placeId": "ChIJi4AHBf4fm4ARmEpvcmrw3Y4"
+        },
+        {
+            "position": 10,
+            "title": "Sutter Walk-In Care - Roseville - Pleasant Grove",
+            "address": "781 Pleasant Grove Blvd Suite 170, Roseville, CA 95678",
+            "latitude": 38.7898336,
+            "longitude": -121.2808415,
+            "rating": 4.8,
+            "ratingCount": 380,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/roseville-pleasant-grove-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20138\u202fPM",
+                "Sunday": "10\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sutterhealth.org/myhealthonline/swc-appt-type?rfvID=111&dispGroups=27376&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOKtloVOT4ULPRzmhIdl4Dbb40bU4EACK-xtIe",
+            "cid": "12603889799572496885",
+            "fid": "0x809b21406a0cfc35:0xaeea02fe93b021f5",
+            "placeId": "ChIJNfwMakAhm4AR9SGwk_4C6q4"
+        },
+        {
+            "position": 11,
+            "title": "Sutter Urgent Care - Santa Cruz Center",
+            "address": "2025 Soquel Ave 2nd Floor, Santa Cruz, CA 95062",
+            "latitude": 36.982467899999996,
+            "longitude": -121.9977967,
+            "rating": 4.4,
+            "ratingCount": 863,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/santa-cruz-center-urgent-care",
+            "phoneNumber": "(831) 458-5537",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEEWr6W0oepDDo4boTl8Xgin5PUSXiL51hpnLQ",
+            "cid": "18135731626026830141",
+            "fid": "0x808e4001663972d3:0xfbaf0fd39f25893d",
+            "placeId": "ChIJ03I5ZgFAjoARPYkln9MPr_s"
+        },
+        {
+            "position": 12,
+            "title": "Sutter Urgent Care - Fairfield",
+            "address": "2702 Low Ct, Fairfield, CA 94534",
+            "latitude": 38.2369613,
+            "longitude": -122.08486169999999,
+            "rating": 4.1,
+            "ratingCount": 352,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/fairfield-urgent-care",
+            "phoneNumber": "(707) 432-2777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=27246"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMV0KYit89QwFKAfJpq-6XO-3qyLSO_8nUHsviI",
+            "cid": "5964981651114488640",
+            "fid": "0x808513f56bb0259b:0x52c7df353666f340",
+            "placeId": "ChIJmyWwa_UThYARQPNmNjXfx1I"
+        },
+        {
+            "position": 13,
+            "title": "Sutter Walk-In Care - Roseville - Foothills",
+            "address": "4010 Foothills Blvd Suite 102, Roseville, CA 95747",
+            "latitude": 38.753782099999995,
+            "longitude": -121.3111764,
+            "rating": 4.7,
+            "ratingCount": 563,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/roseville-foothills-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20138\u202fPM",
+                "Sunday": "10\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sutterhealth.org/myhealthonline/swc-appt-type?rfvID=111&dispGroups=27299&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHeiGssAaf-Dy2VERLpkepp7t5H39-OflAbgSr",
+            "cid": "5197400762837849276",
+            "fid": "0x809b210033735b51:0x4820e074f04b54bc",
+            "placeId": "ChIJUVtzMwAhm4ARvFRL8HTgIEg"
+        },
+        {
+            "position": 14,
+            "title": "Sutter Walk-In Care - Citrus Heights",
+            "address": "5406 Sunrise Blvd #3, Citrus Heights, CA 95610",
+            "latitude": 38.6653005,
+            "longitude": -121.271712,
+            "rating": 4.6,
+            "ratingCount": 411,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/citrus-heights-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20137\u202fPM",
+                "Wednesday": "11\u202fAM\u20137\u202fPM",
+                "Thursday": "11\u202fAM\u20137\u202fPM",
+                "Friday": "11\u202fAM\u20137\u202fPM",
+                "Saturday": "11\u202fAM\u20137\u202fPM",
+                "Sunday": "11\u202fAM\u20137\u202fPM",
+                "Monday": "11\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=111&dispGroups=27350&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP8gZL_FLSvligo_BtbeRZS6yCC7al1SLMVTC11",
+            "cid": "7567990544805541584",
+            "fid": "0x809ade198771351d:0x6906e74db6a636d0",
+            "placeId": "ChIJHTVxhxnemoAR0Damtk3nBmk"
+        },
+        {
+            "position": 15,
+            "title": "Sutter Urgent Care - Antioch",
+            "address": "4053 Lone Tree Wy #101, Antioch, CA 94509",
+            "latitude": 37.9765207,
+            "longitude": -121.79953929999999,
+            "rating": 4.3,
+            "ratingCount": 260,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/antioch-urgent-care",
+            "phoneNumber": "(925) 756-3499",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=8086"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDwyPEYGuyhcb2LB1Gm4Fr3fkqmMfjGiUa-BJc",
+            "cid": "6316091654699612298",
+            "fid": "0x808557f2772f27df:0x57a743e5572df88a",
+            "placeId": "ChIJ3ycvd_JXhYARivgtV-VDp1c"
+        },
+        {
+            "position": 16,
+            "title": "Sutter Walk-In Care - Davis",
+            "address": "4647 2nd St Suite 130, Davis, CA 95618",
+            "latitude": 38.555248399999996,
+            "longitude": -121.69787679999999,
+            "rating": 4.7,
+            "ratingCount": 309,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/davis-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20138\u202fPM",
+                "Sunday": "10\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sutterhealth.org/myhealthonline/swc-appt-type?rfvID=111&dispGroups=27409&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAltA34VlacoFPwE3g-NzTqwUXQYvmh_5x2B2u",
+            "cid": "4084030681442858437",
+            "fid": "0x80852ba0a5119dcb:0x38ad64444332b5c5",
+            "placeId": "ChIJy50RpaArhYARxbUyQ0RkrTg"
+        },
+        {
+            "position": 17,
+            "title": "Sutter Medical Plaza Elk Grove",
+            "address": "8170 Laguna Blvd, Elk Grove, CA 95758",
+            "latitude": 38.421019099999995,
+            "longitude": -121.40539199999999,
+            "rating": 3.1,
+            "ratingCount": 26,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/sutter-medical-plaza-elk-grove",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMZdIxe8RuRkN-wElDZi5XuxM8-NC6NVyuMq2C",
+            "cid": "17475228363653599237",
+            "fid": "0x809ac7ab464df4c5:0xf2847b9be8675005",
+            "placeId": "ChIJxfRNRqvHmoARBVBn6Jt7hPI"
+        },
+        {
+            "position": 18,
+            "title": "Sutter Walk-In Care - Sacramento - Loehmanns Plaza",
+            "address": "2537 Fair Oaks Blvd, Sacramento, CA 95825",
+            "latitude": 38.5758969,
+            "longitude": -121.4024025,
+            "rating": 4.7,
+            "ratingCount": 401,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/sacramento-loehmanns-plaza-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20138\u202fPM",
+                "Sunday": "10\u202fAM\u20138\u202fPM",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sutterhealth.org/myhealthonline/swc-appt-type?rfvID=111&dispGroups=27393&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMd6P0KNd80SB5tlL4G_uZkRfqDUNZvYK0TtGb",
+            "cid": "16926274353097258079",
+            "fid": "0x809adb06a735308f:0xeae634d84b2ab45f",
+            "placeId": "ChIJjzA1pwbbmoARX7QqS9g05uo"
+        },
+        {
+            "position": 19,
+            "title": "Sutter Urgent Care - Elk Grove",
+            "address": "8170 Laguna Blvd #113, Elk Grove, CA 95758",
+            "latitude": 38.4209959,
+            "longitude": -121.40488699999999,
+            "rating": 4.3,
+            "ratingCount": 760,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/elk-grove-urgent-care",
+            "phoneNumber": "(916) 478-6561",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://myhealthonline.sutterhealth.org/mho/scheduling/onmyway/?rfvID=115&dispGroups=795"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqnD40CPV0oinSDXxB6hZwck5k5aWmFxWb7Trd",
+            "cid": "11215585990917961949",
+            "fid": "0x809ac7ab464df4c5:0x9ba5c409388338dd",
+            "placeId": "ChIJxfRNRqvHmoAR3TiDOAnEpZs"
+        },
+        {
+            "position": 20,
+            "title": "Sutter Walk-In Care - Folsom",
+            "address": "2766 E Bidwell St #600, Folsom, CA 95630",
+            "latitude": 38.656149899999996,
+            "longitude": -121.1210696,
+            "rating": 4.7,
+            "ratingCount": 338,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Medical clinic"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/folsom-walk-in-care",
+            "phoneNumber": "(800) 972-5547",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u20137\u202fPM",
+                "Wednesday": "11\u202fAM\u20137\u202fPM",
+                "Thursday": "11\u202fAM\u20137\u202fPM",
+                "Friday": "11\u202fAM\u20137\u202fPM",
+                "Saturday": "11\u202fAM\u20137\u202fPM",
+                "Sunday": "11\u202fAM\u20137\u202fPM",
+                "Monday": "11\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sutterhealth.org/myhealthonline/swc-appt-type?rfvID=111&dispGroups=27417&fluShot=true"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMF9MwNK3qes_b5Ro5dJe9CFf5KngKqvsZKytm1",
+            "cid": "16312447370186965124",
+            "fid": "0x809ae56092f9b75f:0xe2617474c53fc084",
+            "placeId": "ChIJX7f5kmDlmoARhMA_xXR0YeI"
+        }
+    ],
+    "credits": 3
+}

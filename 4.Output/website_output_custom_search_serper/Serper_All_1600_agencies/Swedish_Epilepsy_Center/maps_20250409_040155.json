@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Swedish Epilepsy Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6076339,-122.310118,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Epilepsy Center",
+            "address": "550 17th Ave Suite 540, Seattle, WA 98122",
+            "latitude": 47.607633899999996,
+            "longitude": -122.31011799999999,
+            "rating": 3,
+            "ratingCount": 16,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus/epilepsy-center?Is=location&y_source=1_OTU3Njg5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-3492",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOF0xbpOwT0SNx2imrj6yFagmmtvpkYcaItbe6Y",
+            "cid": "17732984417098494726",
+            "fid": "0x54906ac5ae5f4e5d:0xf618375fbcb17306",
+            "placeId": "ChIJXU5frsVqkFQRBnOxvF83GPY"
+        }
+    ],
+    "credits": 3
+}

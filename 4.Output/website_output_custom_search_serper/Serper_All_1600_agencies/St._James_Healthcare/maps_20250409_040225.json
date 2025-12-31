@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "St. James Healthcare",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0084966,-112.5456404,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. James Hospital",
+            "address": "400 S Clark St, Butte, MT 59701",
+            "latitude": 46.008520999999995,
+            "longitude": -112.54572879999999,
+            "rating": 3.3,
+            "ratingCount": 180,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/intermountain-health-st-james-hospital?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 723-2500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-G9-VYxW7HD1mqVSw4ULJ56vLiCoospg06wtkkBDDXZUEh949zpTNTki6DvzneDMlUYuxS91V3XefMXH5l5kJttpU3uvpfdAvQfI-58NxSBOeSnHFSglr-IMXqWeF2OaXe-RhC",
+            "cid": "7497112302237091863",
+            "fid": "0x535b0834b5c52d75:0x680b17eae00d8817",
+            "placeId": "ChIJdS3FtTQIW1MRF4gN4OoXC2g"
+        },
+        {
+            "position": 2,
+            "title": "Intermountain Health St. James Hospital Emergency Services",
+            "address": "400 S Clark St E, Butte, MT 59701",
+            "latitude": 46.0084722,
+            "longitude": -112.5455521,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Emergency care service",
+            "types": [
+                "Emergency care service",
+                "Emergency room"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/intermountain-health-st-james-hospital",
+            "phoneNumber": "(406) 723-2500",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krWuMC7TF-WIF6Q0VPPh3Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.25342&pitch=0&thumbfov=100",
+            "cid": "4162356515290038033",
+            "fid": "0x535b0834b36c54ad:0x39c3a93292653f11",
+            "placeId": "ChIJrVRsszQIW1MRET9lkjKpwzk"
+        }
+    ],
+    "credits": 3
+}

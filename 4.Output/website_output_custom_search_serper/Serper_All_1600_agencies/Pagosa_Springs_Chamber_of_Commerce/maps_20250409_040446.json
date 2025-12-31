@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pagosa Springs Chamber of Commerce",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2662918,-107.0098576,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pagosa Springs Area Chamber of Commerce",
+            "address": "105 Hot Springs Blvd, Pagosa Springs, CO 81147",
+            "latitude": 37.2662918,
+            "longitude": -107.00985759999999,
+            "rating": 4.9,
+            "ratingCount": 8,
+            "type": "Chamber of Commerce",
+            "types": [
+                "Chamber of Commerce",
+                "Non-profit organization"
+            ],
+            "website": "http://pagosachamber.com/",
+            "phoneNumber": "(970) 264-2360",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWMDiTvL9gAO1AU3bs_asYiiixaMRaPwSBF999",
+            "cid": "6636798442247824436",
+            "fid": "0x873ddb610c2fbf69:0x5c1aa5051c0c2434",
+            "placeId": "ChIJab8vDGHbPYcRNCQMHAWlGlw"
+        }
+    ],
+    "credits": 3
+}

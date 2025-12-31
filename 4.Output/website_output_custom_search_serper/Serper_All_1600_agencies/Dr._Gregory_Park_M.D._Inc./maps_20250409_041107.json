@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Dr. Gregory Park M.D. Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.689339,-156.435241,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Gregory Park, MD",
+            "address": "161 Wailea Ike Pl STE B102, Kihei, HI 96753",
+            "latitude": 20.689339,
+            "longitude": -156.435241,
+            "rating": 4.9,
+            "ratingCount": 15,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://www.mdvip.com/doctors/gregoryparkmd?utm_campaign=listing&st-t=rep_&utm_source=google&utm_medium=organic",
+            "phoneNumber": "(808) 875-9095",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20131\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNA5W4XUdG0wttNuN-JkwwsQMScYa9DM_zdQrDN",
+            "cid": "16295412275244021323",
+            "fid": "0x7954dad02312acc5:0xe224ef20a675b64b",
+            "placeId": "ChIJxawSI9DaVHkRS7Z1piDvJOI"
+        }
+    ],
+    "credits": 3
+}

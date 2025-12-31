@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "NE Nevada Service Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8231072,-115.7304969,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northeastern Nevada Regional Hospital",
+            "address": "2001 Errecart Blvd, Elko, NV 89801",
+            "latitude": 40.823107199999995,
+            "longitude": -115.73049689999999,
+            "rating": 2.4,
+            "ratingCount": 199,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.nnrhospital.com/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(775) 738-5151",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrYnc0Tfppth_P7JvaMhUwu3e5ejSQ6O4mTTZI",
+            "cid": "565241182298476545",
+            "fid": "0x80a60099d3d326cd:0x7d823dc4b529001",
+            "placeId": "ChIJzSbT05kApoARAZBSS9wj2Ac"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,61 @@
+{
+    "searchParameters": {
+        "q": "PCHOMG",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.6797103,-101.8979618,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mantenimiento de computadoras PcHome",
+            "address": "Monte Atlas 543, La Loma, 76116 Santiago de Quer\u00e9taro, Qro., Mexico",
+            "latitude": 20.6452348,
+            "longitude": -100.47485019999999,
+            "type": "Computer service",
+            "types": [
+                "Computer service"
+            ],
+            "website": "https://www.facebook.com/PCHomeQro",
+            "phoneNumber": "+52 442 878 6499",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20138\u202fPM",
+                "Wednesday": "10\u202fAM\u20138\u202fPM",
+                "Thursday": "10\u202fAM\u20138\u202fPM",
+                "Friday": "10\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://wa.me/message/3EI7P7OADGBAA1"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnuh52pGSGNudcBVasvcoKn_e9VtlVblvCwKpm",
+            "cid": "12454464792661751321",
+            "fid": "0x85d3511bab137469:0xacd725be0a367619",
+            "placeId": "ChIJaXQTqxtR04URGXY2Cr4l16w"
+        },
+        {
+            "position": 2,
+            "title": "Pchome",
+            "address": "Calz. Independencia Norte 2877, Lomas de Independencia, 44240 Guadalajara, Jal., Mexico",
+            "latitude": 20.714185699999998,
+            "longitude": -103.3210735,
+            "rating": 2.6,
+            "ratingCount": 8,
+            "type": "Store",
+            "types": [
+                "Store"
+            ],
+            "phoneNumber": "+52 33 3698 1111",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFZ3vLsDctpEgg76lCWx__j3zZlQCNEbaPYtAIMQMZSrj6dWXUngrBQsqnnv18MUGvonSG_MCMlzZsgZxL6Um0r8WhORhI-xYLxnefSKQGeAQ4WX6COBP3Fihqkt5KJZNyS4XLo6TxRxSbEJ2sawIktSDjIlGkGK9T53n7Gix25_ZWXFKphEIKrJYOtv4dm7aO8s8k",
+            "cid": "7314600446949810187",
+            "fid": "0x8428b1ad29de272b:0x6582ae5a225b600b",
+            "placeId": "ChIJKyfeKa2xKIQRC2BbIlqugmU"
+        }
+    ],
+    "credits": 3
+}

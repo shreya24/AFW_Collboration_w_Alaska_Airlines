@@ -1,0 +1,115 @@
+{
+    "searchParameters": {
+        "q": "Mountainside Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5891983,-94.7444135,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mountainside Internal Medicine",
+            "address": "6850 N Durango Dr #211, Las Vegas, NV 89149",
+            "latitude": 36.2857422,
+            "longitude": -115.2853397,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(702) 202-2233",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EUvvnsehXGC7_mD6h4aXrA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=93.62854&pitch=0&thumbfov=100",
+            "cid": "14128443356225531259",
+            "fid": "0x80c893549f12e1e1:0xc4125060750ced7b",
+            "placeId": "ChIJ4eESn1STyIARe-0MdWBQEsQ"
+        },
+        {
+            "position": 2,
+            "title": "Mountainside Medical Group - Primary Care",
+            "address": "239 Claremont Ave A, Montclair, NJ 07042",
+            "latitude": 40.818691699999995,
+            "longitude": -74.2175504,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://mountainsidemedicalgroup.com/services/adult-primary-care",
+            "phoneNumber": "(973) 338-4900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_63pBiY8fEVSiHsUXOOIiU5f6EANKMtOzMGLBzEXLkcuabvdfXAKZNcm4Eqmm_K_AcEVQ155sZH7xKQFlqo9nMuSM9zfySZ-2TeFrsxIPLNuCY9AUTXHwC_te6QQqYUqqI1_uI",
+            "cid": "6713968467346130109",
+            "fid": "0x89c3aa77e1d4cfb7:0x5d2ccebfb95704bd",
+            "placeId": "ChIJt8_U4Xeqw4kRvQRXub_OLF0"
+        },
+        {
+            "position": 3,
+            "title": "Mountainside Medical Group - Gastroenterology",
+            "address": "311 Bay Ave Suite 300B, Glen Ridge, NJ 07028",
+            "latitude": 40.812685099999996,
+            "longitude": -74.2034874,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://mountainsidemedicalgroup.com/services/gastroenterology",
+            "phoneNumber": "(973) 798-4777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yDw_V9G9Arnx2C9t96Hcbw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.5888333&pitch=0&thumbfov=100",
+            "cid": "10145777639109274491",
+            "fid": "0x89c2554644d4d277:0x8ccd0b021535ab7b",
+            "placeId": "ChIJd9LUREZVwokRe6s1FQILzYw"
+        },
+        {
+            "position": 4,
+            "title": "Mountainside Medical Group - Primary Care",
+            "address": "1130 McBride Ave STE 201, Woodland Park, NJ 07424",
+            "latitude": 40.8926545,
+            "longitude": -74.211446,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internal medicine ward"
+            ],
+            "website": "https://mountainsidemedicalgroup.com/services/adult-primary-care",
+            "phoneNumber": "(973) 837-8393",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MBkfEE9xiYSB0xPIoHKlLw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=326.9011&pitch=0&thumbfov=100",
+            "cid": "10561134439261634350",
+            "fid": "0x89c2fff6eb2bca5f:0x9290afd135557f2e",
+            "placeId": "ChIJX8or6_b_wokRLn9VNdGvkJI"
+        }
+    ],
+    "credits": 3
+}

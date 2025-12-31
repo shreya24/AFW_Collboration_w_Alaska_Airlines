@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Doheny Eye Center UCLA Arcadia",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1249081,-118.0518266,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Doheny Eye Center UCLA Arcadia",
+            "address": "622 W Duarte Rd #101, Arcadia, CA 91007",
+            "latitude": 34.1249081,
+            "longitude": -118.0518266,
+            "rating": 4,
+            "ratingCount": 9,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://www.uclahealth.org/locations/doheny-eye-center-ucla-arcadia?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(626) 254-9010",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/Doheny-Eye-Center-Appointment-Request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMWozJr-I6dOgQ2XRoXCtq6kL0OnW_5Mrb_TIb_",
+            "cid": "16564746833856881115",
+            "fid": "0x80c2dbb06ed2e1ed:0xe5e1cd7b4a50e1db",
+            "placeId": "ChIJ7eHSbrDbwoAR2-FQSnvN4eU"
+        }
+    ],
+    "credits": 3
+}

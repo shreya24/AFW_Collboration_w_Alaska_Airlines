@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Rogue Valley Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3169717,-122.8304817,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Asante Rogue Regional Medical Center",
+            "address": "2825 E Barnett Rd, Medford, OR 97504",
+            "latitude": 42.316971699999996,
+            "longitude": -122.83048169999999,
+            "rating": 2.7,
+            "ratingCount": 352,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "https://www.asante.org/Locations/location-detail/rogue-regional-medical-center?utm_source=al-rrmc-medford&utm_medium=site-link&utm_campaign=google-my-business/",
+            "phoneNumber": "(541) 789-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOORhHe7H97Bxajb4L9qPtdBr_xF7NJskjyZPHW",
+            "cid": "7526005426615830502",
+            "fid": "0x54cf7a7135dfb90d:0x6871be0f9f1947e6",
+            "placeId": "ChIJDbnfNXF6z1QR5kcZnw--cWg"
+        }
+    ],
+    "credits": 3
+}

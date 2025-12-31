@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Eastern New Mexico Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4243111,-104.5286867,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eastern New Mexico Medical Center",
+            "address": "405 W Country Club Rd, Roswell, NM 88201",
+            "latitude": 33.4243111,
+            "longitude": -104.5286867,
+            "rating": 4.3,
+            "ratingCount": 1617,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.enmmc.com/?utm_source=gmb&utm_medium=homepage&utm_campaign=biz-listings",
+            "phoneNumber": "(575) 622-8170",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ4UaKZir8zvvduUXPK8hs-KrrSKYUOaKhy_yh",
+            "cid": "13076719320657573123",
+            "fid": "0x86e26ef8709318d3:0xb579d6f04f483503",
+            "placeId": "ChIJ0xiTcPhu4oYRAzVIT_DWebU"
+        }
+    ],
+    "credits": 3
+}

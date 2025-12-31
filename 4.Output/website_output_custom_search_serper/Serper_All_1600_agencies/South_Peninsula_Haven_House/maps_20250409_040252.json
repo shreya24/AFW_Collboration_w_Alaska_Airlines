@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "South Peninsula Haven House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@59.6450004,-151.5245666,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Peninsula Haven House",
+            "address": "3776 Lake St # 100, Homer, AK 99603",
+            "latitude": 59.6450004,
+            "longitude": -151.52456659999999,
+            "rating": 4.2,
+            "ratingCount": 20,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://havenhousealaska.org/",
+            "phoneNumber": "(907) 235-7712",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9XBEHMaTg7BDUMaXvE8IAxfWr_hcq0pHjnVGO6WLfeuDJkQc_qy5OQoRZzXV3ZIM6TreVtxnxkejzyMiQwQfb_aUZjERrJwob97sWaOPsZTlY1z7sRKfE-iAsu1g6QzuVMM2Jb",
+            "cid": "7066107098402413043",
+            "fid": "0x56c12d8ea1de02fd:0x620fdaf7d92459f3",
+            "placeId": "ChIJ_QLeoY4twVYR81kk2ffaD2I"
+        }
+    ],
+    "credits": 3
+}

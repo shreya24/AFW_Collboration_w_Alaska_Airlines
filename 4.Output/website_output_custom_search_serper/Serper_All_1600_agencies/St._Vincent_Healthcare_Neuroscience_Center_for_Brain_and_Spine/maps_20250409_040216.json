@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "St. Vincent Healthcare Neuroscience Center for Brain and Spine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.7914519,-108.5158559,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Vincent Regional Hospital - Neurosciences",
+            "address": "1041 N 29th St, Billings, MT 59101",
+            "latitude": 45.7914519,
+            "longitude": -108.51585589999999,
+            "rating": 4,
+            "ratingCount": 15,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon",
+                "Medical clinic"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/intermountain-health-st-vincent-regional-hospital?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 237-5577",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/intermountain-health-st-vincent-regional-hospital?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8FB9PyQaFDtqwVhbO7PJe_esTpN7GIL8sbHg0DeHlhlv7km0zFlhcWd9hOTwtU4Jmyv812iqk1kqzmswYfrEdoeAXyCs0KXQDN-S_loFJnsGxw8M9QBaPlp2JiFS0a4zPdBP-Y",
+            "cid": "6639764467940317041",
+            "fid": "0x534862d0a3620c73:0x5c252e9ac7d7d771",
+            "placeId": "ChIJcwxio9BiSFMRcdfXx5ouJVw"
+        }
+    ],
+    "credits": 3
+}

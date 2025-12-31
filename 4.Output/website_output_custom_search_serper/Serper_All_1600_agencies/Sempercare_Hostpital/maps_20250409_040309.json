@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sempercare Hostpital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@-19.9259532,-43.9319453,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HOSPITAL SEMPER",
+            "address": "Alameda Ezequiel Dias, 389 - Centro, Belo Horizonte - MG, 30130-110, Brazil",
+            "latitude": -19.9259532,
+            "longitude": -43.931945299999995,
+            "rating": 3.2,
+            "ratingCount": 724,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Orthopedic clinic"
+            ],
+            "website": "https://hsemper.com.br/",
+            "phoneNumber": "+55 31 3248-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDxF0wBsysMhSDGCkHhbSNyJMBc5nnpDVyy-MO",
+            "cid": "16485571395447175607",
+            "fid": "0xa699ef20d65783:0xe4c883d700f839b7",
+            "placeId": "ChIJg1fWIO-ZpgARtzn4ANeDyOQ"
+        }
+    ],
+    "credits": 3
+}

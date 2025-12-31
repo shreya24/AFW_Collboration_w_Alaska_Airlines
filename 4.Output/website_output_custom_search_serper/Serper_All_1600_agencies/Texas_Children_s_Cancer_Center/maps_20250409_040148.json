@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Texas Children's Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.706964,-95.4022177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Texas Children's Cancer and Hematology Centers",
+            "address": "6701 Fannin St #1400, Houston, TX 77030",
+            "latitude": 29.706964,
+            "longitude": -95.4022177,
+            "rating": 4.4,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.texaschildrens.org/departments/cancer-and-hematology-centers",
+            "phoneNumber": "(800) 226-2379",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8tgld1vJIY8Vp3noCGFvp2kA3kY9XpfvF4K2hfxcSAE5Sag1H85pABrdaosIM2R7c9YCwGP4XbsxFtY7sVRkfBMoPqGLlmkX-7C3zUCoWeTH8CSueU-EcbKgUnTYFwWsRhmVkiWw",
+            "cid": "4433256468864418008",
+            "fid": "0x8640c0722a0df095:0x3d86174520ddc0d8",
+            "placeId": "ChIJlfANKnLAQIYR2MDdIEUXhj0"
+        }
+    ],
+    "credits": 3
+}

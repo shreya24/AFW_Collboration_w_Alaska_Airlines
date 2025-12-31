@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Jason Jundt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0653025,-121.2631593,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Jason Jundt",
+            "address": "1550 NE 27th St Ste 100, Bend, OR 97701",
+            "latitude": 44.0653025,
+            "longitude": -121.2631593,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Vascular surgeon",
+            "types": [
+                "Vascular surgeon",
+                "Practitioner service location"
+            ],
+            "website": "https://oregonvascular.org/providers/jason-p-jundt/",
+            "phoneNumber": "(541) 313-8111",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qdt-aXzOLwTa7Wb7ze05Jw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=85.03832&pitch=0&thumbfov=100",
+            "cid": "18017083397380811830",
+            "fid": "0x54b8c5fb7b6a30bf:0xfa0989e42d78ac36",
+            "placeId": "ChIJvzBqe_vFuFQRNqx4LeSJCfo"
+        }
+    ],
+    "credits": 3
+}

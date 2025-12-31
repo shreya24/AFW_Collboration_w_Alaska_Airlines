@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Providence - Indian Trail",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7403237,-117.4885791,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence ExpressCare - Indian Trail Urgent Care",
+            "address": "9027 N Indian Trail Rd, Spokane, WA 99208",
+            "latitude": 47.7403237,
+            "longitude": -117.4885791,
+            "rating": 3.3,
+            "ratingCount": 65,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/urgent-care/wa/expresscare-indian-trail?Is=location&y_source=1_MTIwMzY0NTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(888) 227-3312",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/our-services/urgent-care/expresscare-indian-trail?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AAiGsoZZmJ1jySiu880uTM5cgPECyDlf0wzlrdMLoK-bghEuJQoQfFH9zcZhYpup4AT7oP3pNH8P-B8nGAqW0GZNdRHTbxHI3Svhdu9IX0er_OR9ab8iY9A%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5GHBhrrHYnEow6X8Y904IwhB7fAE8T0FbXqH0",
+            "cid": "13336587565134025476",
+            "fid": "0x549e1bfd51b7d86b:0xb91513baefb49304",
+            "placeId": "ChIJa9i3Uf0bnlQRBJO077oTFbk"
+        }
+    ],
+    "credits": 3
+}

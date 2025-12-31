@@ -1,0 +1,35 @@
+{
+    "searchParameters": {
+        "q": "Alaska Pediatric Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1830004,-149.8407371,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Pediatric Oncology",
+            "address": "4100 Lake Otis Pkwy Suite #312, Anchorage, AK 99508",
+            "latitude": 61.1830004,
+            "longitude": -149.84073709999998,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://www.alaskapediatriconcology.com/",
+            "phoneNumber": "(907) 929-3773",
+            "bookingLinks": [
+                "https://www.alaskapediatriconcology.com/contact/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=liMpUPc_tnGMt2sx7lIsvQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=28.21397&pitch=0&thumbfov=100",
+            "cid": "12115534034896567832",
+            "fid": "0x56c89769f19f0175:0xa82306038e2a3e18",
+            "placeId": "ChIJdQGf8WmXyFYRGD4qjgMGI6g"
+        }
+    ],
+    "credits": 3
+}

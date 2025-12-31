@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Utah Navajo Partners",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4462009,-109.3898385,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Utah Navajo Health System Inc.",
+            "address": "1478 East UT-162, Montezuma Creek, UT 84534",
+            "latitude": 37.259739599999996,
+            "longitude": -109.30396669999999,
+            "rating": 4.9,
+            "ratingCount": 181,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dentist"
+            ],
+            "website": "https://www.unhsinc.org/",
+            "phoneNumber": "(435) 651-3700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_uewyVv8thPsuTjWRnZBytKFyy1YCHscKit6WCxwVRBSPpMIIdGV03mV83EeMqf7aCL-ofNz86BUNZtaX0a90KHh__xogQpqVzqu5Wj12NGtV07pY3ri8vC2bF8125ZCn4RE0c",
+            "cid": "13804511615642883853",
+            "fid": "0x8739ee8c1cf6774f:0xbf937a2ccc25d70d",
+            "placeId": "ChIJT3f2HIzuOYcRDdclzCx6k78"
+        },
+        {
+            "position": 2,
+            "title": "Utah Navajo Trust Fund",
+            "address": "151 E 500 N, Blanding, UT 84511",
+            "latitude": 37.6326622,
+            "longitude": -109.47571029999999,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "http://unrhf.utah.gov/",
+            "phoneNumber": "(435) 678-1460",
+            "cid": "10252308114441883442",
+            "fid": "0x8739d47f03d30d8d:0x8e4783e93929cf32",
+            "placeId": "ChIJjQ3TA3_UOYcRMs8pOemDR44"
+        }
+    ],
+    "credits": 3
+}

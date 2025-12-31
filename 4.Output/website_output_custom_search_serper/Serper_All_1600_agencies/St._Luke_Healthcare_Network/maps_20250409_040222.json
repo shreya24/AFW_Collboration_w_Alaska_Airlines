@@ -1,0 +1,242 @@
+{
+    "searchParameters": {
+        "q": "St. Luke Healthcare Network",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.494514,-115.5251175,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke Community Healthcare - Hospital",
+            "address": "107 6th Ave SW, Ronan, MT 59864",
+            "latitude": 47.528962899999996,
+            "longitude": -114.1069744,
+            "rating": 3.5,
+            "ratingCount": 35,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://stlukehealthcare.org/",
+            "phoneNumber": "(406) 676-4441",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP30dRfOvorc3JxLke8oE7O-jcqtuk3k43Olu5M",
+            "cid": "16950912270889489971",
+            "fid": "0x53677b41b1f53b29:0xeb3dbce68d2d9633",
+            "placeId": "ChIJKTv1sUF7Z1MRM5Ytjea8Pes"
+        },
+        {
+            "position": 2,
+            "title": "St. Luke's Health Partners",
+            "address": "701 Morrison Knudsen Plaza Dr #101, Boise, ID 83712",
+            "latitude": 43.6053607,
+            "longitude": -116.19055619999999,
+            "rating": 2.3,
+            "ratingCount": 6,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://stlukeshealthpartners.org/",
+            "phoneNumber": "(208) 381-1564",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jV4xaberjaVNGyjoH1qB6A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=242.76947&pitch=0&thumbfov=100",
+            "cid": "4726229592471255446",
+            "fid": "0x54aef8e1f243285d:0x4196f0c612303996",
+            "placeId": "ChIJXShD8uH4rlQRljkwEsbwlkE"
+        },
+        {
+            "position": 3,
+            "title": "St. Luke's Boise Medical Center",
+            "address": "190 E Bannock St, Boise, ID 83712",
+            "latitude": 43.6127666,
+            "longitude": -116.1924918,
+            "rating": 3.1,
+            "ratingCount": 412,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/hospitals-and-medical-centers/st-lukes-boise-medical-center",
+            "phoneNumber": "(208) 381-2222",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-01lZzE5989qbPzwnnrkF8cZkISy0QAiJjCQQ",
+            "cid": "2944718034236521916",
+            "fid": "0x54aef92657d6055d:0x28ddbd734a5abdbc",
+            "placeId": "ChIJXQXWVyb5rlQRvL1aSnO93Sg"
+        },
+        {
+            "position": 4,
+            "title": "St. Luke's Clinic - Syringa Family Medicine: Meridian",
+            "address": "2347 E Gala St STE 150, Meridian, ID 83642",
+            "latitude": 43.5884789,
+            "longitude": -116.36587659999999,
+            "rating": 4.7,
+            "ratingCount": 56,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-clinic--syringa-family-medicine",
+            "phoneNumber": "(208) 345-3530",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNICiymogFF7OKkwbORwuWU-r7mAJXGMHtAJviP",
+            "cid": "18223349010050295773",
+            "fid": "0x54aef91de3f8b8f1:0xfce6575f8a03a7dd",
+            "placeId": "ChIJ8bj44x35rlQR3acDil9X5vw"
+        },
+        {
+            "position": 5,
+            "title": "St. Luke's Clinic - Trinity Mountain Medical: Mountain Home",
+            "address": "465 McKenna Dr, Mountain Home, ID 83647",
+            "latitude": 43.1391396,
+            "longitude": -115.69471329999999,
+            "rating": 4.2,
+            "ratingCount": 55,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-clinic--trinity-mountain-medical",
+            "phoneNumber": "(208) 587-9703",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8p7bb9C7oiTPRswSFXfy1MesKTxoZ54SmzDCHpxiqnagDmhsjYbjcakvPJrxqBQy2dIJP_QTFb6gJ6WI2Li-AMQzkCzPm1q3MQNnmkH--wsiOdXPgZjRv3qeWg1AauzyTJ3PNViA",
+            "cid": "7430410702130749602",
+            "fid": "0x54ac2c13a88c3d15:0x671e1f2a63c3a0a2",
+            "placeId": "ChIJFT2MqBMsrFQRoqDDYyofHmc"
+        },
+        {
+            "position": 6,
+            "title": "St. Luke Community Clinic - Ronan",
+            "address": "126 6th Ave SW, Ronan, MT 59864",
+            "latitude": 47.5284592,
+            "longitude": -114.10708609999999,
+            "rating": 3.6,
+            "ratingCount": 19,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://stlukehealthcare.org/clinics/",
+            "phoneNumber": "(406) 676-3600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTB8fXaNHyQ6udzdIEzX3lLVweHnJ8pSFWf8tK",
+            "cid": "11218039586517703154",
+            "fid": "0x53677b41a2d3e813:0x9bae7b9176a859f2",
+            "placeId": "ChIJE-jTokF7Z1MR8lmodpF7rps"
+        },
+        {
+            "position": 7,
+            "title": "St. Luke's Health Plan",
+            "address": "800 E Park Blvd, Boise, ID 83712",
+            "latitude": 43.6043313,
+            "longitude": -116.1894073,
+            "rating": 2.6,
+            "ratingCount": 18,
+            "type": "Health insurance agency",
+            "types": [
+                "Health insurance agency"
+            ],
+            "website": "https://www.stlukeshealthplan.org/",
+            "phoneNumber": "(833) 840-3600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=amb5AkcTRq5DGMYkU3d06A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.663723&pitch=0&thumbfov=100",
+            "cid": "10993892046309565265",
+            "fid": "0x54aef9ae67e8246b:0x9892269167462351",
+            "placeId": "ChIJayToZ675rlQRUSNGZ5Emkpg"
+        },
+        {
+            "position": 8,
+            "title": "St. Luke's McCall Medical Center",
+            "address": "1000 State St, McCall, ID 83638",
+            "latitude": 44.9090491,
+            "longitude": -116.11019929999999,
+            "rating": 2.7,
+            "ratingCount": 42,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "General practitioner",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/hospitals-and-medical-centers/st-lukes-mccall-medical-center",
+            "phoneNumber": "(208) 634-2221",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_OIy3bmsMtkkv_8nf6i0G5H8ulPJnxecV1CfJrx465MkbIu1l8SJZP-f0EsGRjx9EiCHsUAmFJcAuWAofXroO_M4VQl_IHMRk560_vOY8vJkRJ72X7iNbSs4FVGNeqlcOTdc6H",
+            "cid": "12790682397987368728",
+            "fid": "0x54a666db3f310561:0xb181a1df7ee0ef18",
+            "placeId": "ChIJYQUxP9tmplQRGO_gft-hgbE"
+        }
+    ],
+    "credits": 3
+}

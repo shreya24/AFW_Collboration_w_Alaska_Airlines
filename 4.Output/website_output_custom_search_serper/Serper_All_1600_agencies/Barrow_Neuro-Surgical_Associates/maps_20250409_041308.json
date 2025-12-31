@@ -1,0 +1,95 @@
+{
+    "searchParameters": {
+        "q": "Barrow Neuro-Surgical Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4816948,-112.0788358,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Barrow Neurological Institute",
+            "address": "2910 N 3rd Ave, Phoenix, AZ 85013",
+            "latitude": 33.4820351,
+            "longitude": -112.0785499,
+            "rating": 4.7,
+            "ratingCount": 2236,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Neurologist",
+                "Neurosurgeon",
+                "Radiologist"
+            ],
+            "website": "https://www.barrowneuro.org/",
+            "phoneNumber": "(844) 324-6684",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.barrowneuro.org/about/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTXYbM2VB6ompGP5914B5pG44ljMuvFbIBwzx-",
+            "cid": "7905974692194708263",
+            "fid": "0x872b125965824b23:0x6db7aa184b7e6b27",
+            "placeId": "ChIJI0uCZVkSK4cRJ2t-Sxiqt20"
+        },
+        {
+            "position": 2,
+            "title": "Barrow Brain And Spine",
+            "address": "2910 N 3rd Ave Ground Level, Phoenix, AZ 85013",
+            "latitude": 33.4813545,
+            "longitude": -112.07874179999999,
+            "rating": 4.6,
+            "ratingCount": 317,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurosurgeon",
+                "Surgical center"
+            ],
+            "website": "https://www.barrowbrainandspine.com/",
+            "phoneNumber": "(602) 406-3181",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9oWmfJ7z9-aES5vkd3Lk4CcCqwhfAHXCyhexaWNrW0GluAj8ZvdrhPnf-ST5biO_yB07ywVXPwLdRgD68ibVT2vhEP46MABWnQRNZmwS-fykT2rzlOxWalsJMJ2TRz5XnR0Sc",
+            "cid": "9657988857707064856",
+            "fid": "0x872b1258968a14b7:0x860811b2244f6e18",
+            "placeId": "ChIJtxSKllgSK4cRGG5PJLIRCIY"
+        },
+        {
+            "position": 3,
+            "title": "BARROW NEUROSURGICAL ASSOC",
+            "address": "2910 N 3rd Ave # 200, Phoenix, AZ 85013",
+            "latitude": 33.4819856,
+            "longitude": -112.0791218,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(602) 406-3181",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S9U6ba5ZF_5LF3W4muiSzw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=12.307488&pitch=0&thumbfov=100",
+            "cid": "12746341009801711808",
+            "fid": "0x872b125917000001:0xb0e4199d8b3990c0",
+            "placeId": "ChIJAQAAF1kSK4cRwJA5i50Z5LA"
+        }
+    ],
+    "credits": 3
+}

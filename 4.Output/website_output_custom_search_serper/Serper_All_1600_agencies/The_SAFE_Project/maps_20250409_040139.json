@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "The SAFE Project",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.3912942,-124.2588788,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The SAFE Project",
+            "address": "1681 Newmark Ave, Coos Bay, OR 97420",
+            "latitude": 43.3912942,
+            "longitude": -124.25887879999999,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Shelter",
+                "Support group",
+                "Women's shelter"
+            ],
+            "website": "http://www.thesafeproject.net/",
+            "phoneNumber": "(541) 756-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOH1fX4e1RDQ46CbLwoZocx4Gq4SB3VHiQBaex2",
+            "cid": "8619163619951394125",
+            "fid": "0x54c384585b1ea0af:0x779d6ba5642c3d4d",
+            "placeId": "ChIJr6AeW1iEw1QRTT0sZKVrnXc"
+        }
+    ],
+    "credits": 3
+}

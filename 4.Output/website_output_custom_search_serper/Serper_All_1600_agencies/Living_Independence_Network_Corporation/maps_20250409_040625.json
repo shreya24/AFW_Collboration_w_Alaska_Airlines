@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Living Independence Network Corporation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6260806,-116.4484541,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Living Independence Network",
+            "address": "1878 W Overland Rd, Boise, ID 83705",
+            "latitude": 43.590188999999995,
+            "longitude": -116.20451399999999,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Disability services and support organization",
+            "types": [
+                "Disability services and support organization",
+                "Home health care service"
+            ],
+            "website": "https://lincidaho.org/",
+            "phoneNumber": "(208) 336-3335",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMyuUFP-aH643ZPz3Ps7I4Sfl08NcPjiOCO02_y",
+            "cid": "12913688925008256762",
+            "fid": "0x54aef8695cd93827:0xb336a3a85b035efa",
+            "placeId": "ChIJJzjZXGn4rlQR-l4DW6ijNrM"
+        },
+        {
+            "position": 2,
+            "title": "Living Independence Network Corporation",
+            "address": "703 S Kimball Ave, Caldwell, ID 83605",
+            "latitude": 43.6619722,
+            "longitude": -116.69239429999999,
+            "rating": 4.5,
+            "ratingCount": 8,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "website": "https://lincidaho.org/",
+            "phoneNumber": "(208) 454-5511",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM328kf1b5yeWPM34ip652T9ZrZjOEDNtH640r3",
+            "cid": "11134306274649186256",
+            "fid": "0x54afb43f8811fae7:0x9a85009090de1fd0",
+            "placeId": "ChIJ5_oRiD-0r1QR0B_ekJAAhZo"
+        }
+    ],
+    "credits": 3
+}

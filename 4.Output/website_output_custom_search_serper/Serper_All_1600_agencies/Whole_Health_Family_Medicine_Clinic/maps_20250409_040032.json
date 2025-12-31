@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Whole Health Family Medicine Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2230665,-107.8602461,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Whole Health Family Medicine Clinic, P.C.",
+            "address": "1305 Escalante Dr Unit 205, Durango, CO 81303",
+            "latitude": 37.2230665,
+            "longitude": -107.8602461,
+            "rating": 5,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.wholehealthfamilymedicine.com/",
+            "phoneNumber": "(970) 259-1971",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNPQkaaNhzKGwUcRi-_Sww3g6qG5SadIpPyUAoz",
+            "cid": "16222611778941665745",
+            "fid": "0x873c02c5684fe651:0xe1224b763ce2c1d1",
+            "placeId": "ChIJUeZPaMUCPIcR0cHiPHZLIuE"
+        }
+    ],
+    "credits": 3
+}

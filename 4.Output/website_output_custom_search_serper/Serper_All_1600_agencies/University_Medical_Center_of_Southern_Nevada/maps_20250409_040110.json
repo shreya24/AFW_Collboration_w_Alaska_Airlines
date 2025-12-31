@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "University Medical Center of Southern Nevada",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1603396,-115.1675578,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "University Medical Center",
+            "address": "1800 W Charleston Blvd, Las Vegas, NV 89102",
+            "latitude": 36.1603396,
+            "longitude": -115.1675578,
+            "rating": 2.5,
+            "ratingCount": 1039,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Children's hospital",
+                "Emergency room",
+                "General hospital",
+                "Hospital",
+                "Pharmacy"
+            ],
+            "website": "https://www.umcsn.com/",
+            "phoneNumber": "(702) 383-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFubUToINWP6WxdDYfJHLhNxN0LAxXidxqJbQ",
+            "cid": "18346410434570994005",
+            "fid": "0x80c8c3eb7bc196c1:0xfe9b8b16381fc155",
+            "placeId": "ChIJwZbBe-vDyIARVcEfOBaLm_4"
+        }
+    ],
+    "credits": 3
+}

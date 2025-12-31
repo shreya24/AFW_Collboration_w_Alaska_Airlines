@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Neurosurgical Consultants of WA",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6615462,-122.2610386,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Neurosurgical Consultants Wa",
+            "address": "801 Broadway Neurosurgical Consultants of Washington Member Care Center, Seattle, WA 98122",
+            "latitude": 47.6093444,
+            "longitude": -122.3215312,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(206) 623-0922",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0h7S7X5dcTNfrQ-xnBKu0A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.14557&pitch=0&thumbfov=100",
+            "cid": "5361650980177175074",
+            "fid": "0x54906ac9ac659c79:0x4a686928c315e222",
+            "placeId": "ChIJeZxlrMlqkFQRIuIVwyhpaEo"
+        },
+        {
+            "position": 2,
+            "title": "Neurosurgical Consultants-Wa",
+            "address": "1560 N 115th St #209, Seattle, WA 98133",
+            "latitude": 47.713747999999995,
+            "longitude": -122.33554199999999,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(206) 368-1701",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b7zW-2flv6kQp7c2Cz7AwQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=61.21326&pitch=0&thumbfov=100",
+            "cid": "15814321973717891592",
+            "fid": "0x5490114d92e16851:0xdb77c20c171bfa08",
+            "placeId": "ChIJUWjhkk0RkFQRCPobFwzCd9s"
+        },
+        {
+            "position": 3,
+            "title": "Neurosurgical Consultants",
+            "address": "1515 116th Ave NE #302, Bellevue, WA 98004",
+            "latitude": 47.6239847,
+            "longitude": -122.1865352,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(425) 456-0922",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jVJJWhQ6GSM1hH2C5f2Z4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=345.8758&pitch=0&thumbfov=100",
+            "cid": "2787871509375166389",
+            "fid": "0x54906cf3b2052425:0x26b0825df3bd27b5",
+            "placeId": "ChIJJSQFsvNskFQRtSe9812CsCY"
+        }
+    ],
+    "credits": 3
+}

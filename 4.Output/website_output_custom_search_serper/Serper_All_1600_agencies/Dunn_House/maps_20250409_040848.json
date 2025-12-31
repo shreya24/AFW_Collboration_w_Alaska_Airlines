@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dunn House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3157389,-122.836678,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dunn House",
+            "address": "201 W Main St #2B, Medford, OR 97501",
+            "latitude": 42.3157389,
+            "longitude": -122.83667799999999,
+            "rating": 2.6,
+            "ratingCount": 12,
+            "type": "Shelter",
+            "types": [
+                "Shelter"
+            ],
+            "website": "https://www.community-works.org/need-safe-housing/",
+            "phoneNumber": "(541) 779-4357",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "cid": "11843635497117905356",
+            "fid": "0x54cf7a246778e229:0xa45d0bbbfeeb71cc",
+            "placeId": "ChIJKeJ4ZyR6z1QRzHHr_rsLXaQ"
+        }
+    ],
+    "credits": 3
+}

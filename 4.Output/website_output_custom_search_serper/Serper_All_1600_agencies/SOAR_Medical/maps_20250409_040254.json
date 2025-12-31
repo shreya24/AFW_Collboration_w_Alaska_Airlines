@@ -1,0 +1,566 @@
+{
+    "searchParameters": {
+        "q": "SOAR Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.8036167,-97.7254942,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SOAR MEDICAL LLC",
+            "address": "14825 N Outer 40 Rd, Chesterfield, MO 63017",
+            "latitude": 38.6506574,
+            "longitude": -90.54494319999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "http://soarmedicalstl.com/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "11667989334479908346",
+            "fid": "0x87d8d5fd9359e015:0xa1ed067ae4b8adfa",
+            "placeId": "ChIJFeBZk_3V2IcR-q245HoG7aE"
+        },
+        {
+            "position": 2,
+            "title": "SOAR Wellness",
+            "address": "6855 4th St NW Suite B2, Los Ranchos De Albuquerque, NM 87107",
+            "latitude": 35.1606034,
+            "longitude": -106.63793659999999,
+            "rating": 4.9,
+            "ratingCount": 39,
+            "type": "Medical spa",
+            "types": [
+                "Medical spa",
+                "Alternative medicine practitioner",
+                "Facial spa",
+                "Health and beauty shop",
+                "Laser hair removal service",
+                "Nurse practitioner",
+                "Weight loss service",
+                "Wellness program"
+            ],
+            "website": "http://www.soarwellness.net/",
+            "phoneNumber": "(505) 398-9430",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://soarwellness.as.me/schedule.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPw9uFeSJEEabRr5JQT_U7sazJC1TIiQzDDBlxL",
+            "cid": "16008162409086086955",
+            "fid": "0x872273765d416871:0xde286ae56c566f2b",
+            "placeId": "ChIJcWhBXXZzIocRK29WbOVqKN4"
+        },
+        {
+            "position": 3,
+            "title": "SOAR Grand Prairie",
+            "address": "1030 S Carrier Pkwy Suite 110, Grand Prairie, TX 75051",
+            "latitude": 32.7311087,
+            "longitude": -97.0150896,
+            "rating": 5,
+            "ratingCount": 20,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "http://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwsRzjrCmhwpOBIGgcCADoxatkpvtcwMGyDNam",
+            "cid": "7521493613583272645",
+            "fid": "0x864e836f2b25e389:0x6861b6974a000ac5",
+            "placeId": "ChIJieMlK2-DToYRxQoASpe2YWg"
+        },
+        {
+            "position": 4,
+            "title": "SOAR Lewisville",
+            "address": "870 Hebron Pkwy Suite 503, Lewisville, TX 75057",
+            "latitude": 33.012246,
+            "longitude": -96.9635203,
+            "rating": 4.8,
+            "ratingCount": 446,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqdjIJmnYyoBb7x_qvYDqFA6lllmtcsHXkHC7D",
+            "cid": "2877806378342398749",
+            "fid": "0x87b781ec0ab42ea5:0x27f005a76173bb1d",
+            "placeId": "ChIJpS60CuyBt4cRHbtzYacF8Cc"
+        },
+        {
+            "position": 5,
+            "title": "SOAR Desoto",
+            "address": "509 N Hampton Rd Ste #100, DeSoto, TX 75115",
+            "latitude": 32.5968246,
+            "longitude": -96.8577042,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8-b9O_QsexorTG1cgs9p2g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=194.0688&pitch=0&thumbfov=100",
+            "cid": "14659935644478465375",
+            "fid": "0x864e93aa93459cf5:0xcb728dcc0739e55f",
+            "placeId": "ChIJ9ZxFk6qTToYRX-U5B8yNcss"
+        },
+        {
+            "position": 6,
+            "title": "SOAR McKinney",
+            "address": "1720 N Central Expy STE 200, McKinney, TX 75070",
+            "latitude": 33.2144408,
+            "longitude": -96.6349067,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(972) 808-7810",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB--f3kTALau_PHpOK_S1OPl-wLOjOvxod9t2rVQh1VIWj8svq-PfUEbdoww051YvUcR63S-spEE-0VR0cTH_AblSiEKAUdjrGZpfT3jbW1JqyCFbjWTEwmvWSQqYbsaShOWeEmr",
+            "cid": "12347942973865935287",
+            "fid": "0x864c131fd0b9e02d:0xab5cb4b6680f41b7",
+            "placeId": "ChIJLeC50B8TTIYRt0EPaLa0XKs"
+        },
+        {
+            "position": 7,
+            "title": "Soar Autism Center - Centennial",
+            "address": "9000 E Nichols Ave Suite 100, Centennial, CO 80112",
+            "latitude": 39.571633899999995,
+            "longitude": -104.885155,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Applied behavior analysis therapist",
+            "types": [
+                "Applied behavior analysis therapist",
+                "Child psychologist",
+                "Mental health service",
+                "Occupational therapist",
+                "Speech pathologist"
+            ],
+            "website": "https://soarautismcenter.com/",
+            "phoneNumber": "(720) 706-3396",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM9tU3oKXU4V28Z5Kp7orZI23sWPoIW3oHjOQTP",
+            "cid": "3752757438009363420",
+            "fid": "0x876c85b2edfa6787:0x34147901c4c0cbdc",
+            "placeId": "ChIJh2f67bKFbIcR3MvAxAF5FDQ"
+        },
+        {
+            "position": 8,
+            "title": "SOAR Downtown Dallas",
+            "address": "700 N Pearl St n208, Dallas, TX 75201",
+            "latitude": 32.7872345,
+            "longitude": -96.7954307,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNKv0KqzMSS5qsxNZJUgf4hQhHB0QKf6HZIxNvh",
+            "cid": "17770928469751904132",
+            "fid": "0x864e9919b16d7fcb:0xf69f0549f0703784",
+            "placeId": "ChIJy39tsRmZToYRhDdw8EkFn_Y"
+        },
+        {
+            "position": 9,
+            "title": "SOAR Mesquite",
+            "address": "1650 Republic Pkwy Suite 140A, Mesquite, TX 75150",
+            "latitude": 32.828019499999996,
+            "longitude": -96.6245165,
+            "rating": 5,
+            "ratingCount": 8,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB96IY3hiWDWRc81QkQ1qay-XacyB02ucr2RzZ_QhDEcRNfA-RI3MUVuzSoeiVSamHVgy7i8-MvuDxs2TbYRVg4g0pLeyM-eyth495yR7wdI01Q66U9jEA9drEWuRnfJibCy6hnJ",
+            "cid": "7040287756058098178",
+            "fid": "0x864ea795de27e0f7:0x61b42069c05ffa02",
+            "placeId": "ChIJ9-An3pWnToYRAvpfwGkgtGE"
+        },
+        {
+            "position": 10,
+            "title": "SOAR Garland",
+            "address": "1919 S Shiloh Rd Ste 110, Garland, TX 75042",
+            "latitude": 32.894912999999995,
+            "longitude": -96.6668608,
+            "rating": 4.7,
+            "ratingCount": 14,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.soarsurgery.com/garland/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBLVTWGVAmzs5hy0pusdLd3ahWNMhO9gH5WnSY",
+            "cid": "15913551704866700875",
+            "fid": "0x864c1d12e5e0e515:0xdcd84af643643e4b",
+            "placeId": "ChIJFeXg5RIdTIYRSz5kQ_ZK2Nw"
+        },
+        {
+            "position": 11,
+            "title": "SOAR Hurst",
+            "address": "729 W Bedford Euless Rd #206, Hurst, TX 76053",
+            "latitude": 32.8336626,
+            "longitude": -97.18483499999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUGux4Vh4h379pkzS-rGpSsIsZxLfWca1VJiNY",
+            "cid": "10243734033982812213",
+            "fid": "0x864e7937ce6f6351:0x8e290dd48d1ff035",
+            "placeId": "ChIJUWNvzjd5ToYRNfAfjdQNKY4"
+        },
+        {
+            "position": 12,
+            "title": "SOAR Dispensary",
+            "address": "605 S Jackson St, Starkville, MS 39759",
+            "latitude": 33.4550793,
+            "longitude": -88.8130518,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "phoneNumber": "(800) 420-7627",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4fYgJuAqdahf9ahpVCxqEA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=131.37288&pitch=0&thumbfov=100",
+            "cid": "17373353102828298211",
+            "fid": "0x88813549ac8a1adf:0xf11a8c995b82dfe3",
+            "placeId": "ChIJ3xqKrEk1gYgR49-CW5mMGvE"
+        },
+        {
+            "position": 13,
+            "title": "SOAR Benbrook",
+            "address": "6311 Southwest Blvd, Benbrook, TX 76132",
+            "latitude": 32.690647999999996,
+            "longitude": -97.4178992,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/benbrook/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPf3nbsePhpr19lGj5Qoha6JOe7WDwH5MQL69HF",
+            "cid": "13112700938813635643",
+            "fid": "0x864e73bdda22b643:0xb5f9ac079feafc3b",
+            "placeId": "ChIJQ7Yi2r1zToYRO_zqnwes-bU"
+        },
+        {
+            "position": 14,
+            "title": "SOAR Fort Worth",
+            "address": "201 Commerce St suite a, Fort Worth, TX 76102",
+            "latitude": 32.7569823,
+            "longitude": -97.3306436,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0kT1ResEfpAWEtnJ3FVnuw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=83.64503&pitch=0&thumbfov=100",
+            "cid": "6508487730741807722",
+            "fid": "0x864e71d06f30d4c3:0x5a52cb1b8fda8a6a",
+            "placeId": "ChIJw9Qwb9BxToYRaorajxvLUlo"
+        },
+        {
+            "position": 15,
+            "title": "SOAR Lakewood",
+            "address": "1130 Beachview St Suite 100, Dallas, TX 75218",
+            "latitude": 32.8321316,
+            "longitude": -96.7059635,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "website": "https://www.soarsurgery.com/",
+            "phoneNumber": "(844) 434-7627",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPBoRYJqpIO9PUZM8P7uYrmcclkX0uovkBJnlFe",
+            "cid": "9137325202304032326",
+            "fid": "0x864ea177000b8383:0x7ece4cdc208e5e46",
+            "placeId": "ChIJg4MLAHehToYRRl6OINxMzn4"
+        },
+        {
+            "position": 16,
+            "title": "SOAR Arlington",
+            "address": "4907 S Collins St, Arlington, TX 76018",
+            "latitude": 32.6666877,
+            "longitude": -97.08948079999999,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic"
+            ],
+            "phoneNumber": "(817) 459-3232",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zRBBTfhyfoQ_QFWnwl1AfQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=178.84877&pitch=0&thumbfov=100",
+            "cid": "486612878785479943",
+            "fid": "0x864e88264579996d:0x6c0cbd5c7238507",
+            "placeId": "ChIJbZl5RSaIToYRB4Ujx9XLwAY"
+        },
+        {
+            "position": 17,
+            "title": "Soar Autism Center",
+            "address": "2170 S Parker Rd Suite 100, Denver, CO 80231",
+            "latitude": 39.6772626,
+            "longitude": -104.8726791,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Applied behavior analysis therapist",
+            "types": [
+                "Applied behavior analysis therapist",
+                "Child psychologist",
+                "Health counselor",
+                "Mental health service",
+                "Occupational therapist",
+                "Speech pathologist"
+            ],
+            "website": "https://soarautismcenter.com/",
+            "phoneNumber": "(720) 706-3396",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO0t7ui026bM5S6Yfc6_6kspLxBjkkF50UroM53",
+            "cid": "14896491149754931662",
+            "fid": "0x876c7dd4c007452b:0xcebaf7c694e499ce",
+            "placeId": "ChIJK0UHwNR9bIcRzpnklMb3us4"
+        },
+        {
+            "position": 18,
+            "title": "Soar Autism Center",
+            "address": "13949 W Colfax Ave Suite 150, Lakewood, CO 80401",
+            "latitude": 39.7389091,
+            "longitude": -105.15544969999999,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Applied behavior analysis therapist",
+            "types": [
+                "Applied behavior analysis therapist",
+                "Child psychologist",
+                "Health counselor",
+                "Mental health service",
+                "Occupational therapist",
+                "Psychologist",
+                "Speech pathologist"
+            ],
+            "website": "https://soarautismcenter.com/",
+            "phoneNumber": "(720) 706-3396",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOOuVrijO9ERqicp2vyeQ9JcYs0uDugCjbZ3cqG",
+            "cid": "5051013696421853849",
+            "fid": "0x876b850c5b49b803:0x4618ce320adb7a99",
+            "placeId": "ChIJA7hJWwyFa4cRmXrbCjLOGEY"
+        },
+        {
+            "position": 19,
+            "title": "Soar Autism Center",
+            "address": "6750 W 52nd Ave Suite G, Arvada, CO 80002",
+            "latitude": 39.7898265,
+            "longitude": -105.071304,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Applied behavior analysis therapist",
+            "types": [
+                "Applied behavior analysis therapist",
+                "Child psychologist",
+                "Health counselor",
+                "Mental health service",
+                "Occupational therapist",
+                "Speech pathologist"
+            ],
+            "website": "https://soarautismcenter.com/",
+            "phoneNumber": "(720) 706-3396",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMrs8jy7hHWo2zOTthOh1_mh-dUriMePEHQ3lh",
+            "cid": "4509007268617150287",
+            "fid": "0x876b873de99fcb4f:0x3e93363897945f4f",
+            "placeId": "ChIJT8uf6T2Ha4cRT1-Ulzg2kz4"
+        },
+        {
+            "position": 20,
+            "title": "SOAR Therapeutic Horseback Riding",
+            "address": "318 El Camino Way Dr, San Marcos, TX 78666",
+            "latitude": 29.817407,
+            "longitude": -97.95071399999999,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic"
+            ],
+            "website": "https://soarriding.org/",
+            "phoneNumber": "(512) 757-2487",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFnCOZtBoYeie83eQB6gZVQjiKpNPeL900qQxu",
+            "cid": "10124640322687841652",
+            "fid": "0x865caf849f0b42e3:0x8c81f2bb1867b574",
+            "placeId": "ChIJ40ILn4SvXIYRdLVnGLvygYw"
+        }
+    ],
+    "credits": 3
+}

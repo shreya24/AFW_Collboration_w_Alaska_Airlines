@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Mayo Hospital Phoenix",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6594309,-111.9563162,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mayo Clinic Hospital PHX-1",
+            "address": "5777 E Mayo Blvd, Phoenix, AZ 85054",
+            "latitude": 33.6594309,
+            "longitude": -111.95631619999999,
+            "rating": 4,
+            "ratingCount": 648,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.mayoclinic.org/patient-visitor-guide/arizona/campus-buildings-maps/mayo-clinic-hospital?mc_id=us&utm_source=yext&utm_medium=l&utm_content=feature&utm_campaign=mayoclinic&geo=national&placementsite=enterprise&invsrc=other&cauid=102372&y_source=1_MzkxODQ3MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(480) 342-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB97qieCusw4wc0yVK2ixQkjHLOTis_4w9a4Jlxgl_JCbLjFiqpqkh_r16ZrfqQQcN2UC_UQHPYDCDhv_0Gddd4qJdNUA5nZ1K57iV-yr1Ujn1NeFDi28xyiPnn4IbnOyJVS_g3R",
+            "cid": "3974166919252800114",
+            "fid": "0x872b7135be615e51:0x372713c1cc2bf272",
+            "placeId": "ChIJUV5hvjVxK4cRcvIrzMETJzc"
+        }
+    ],
+    "credits": 3
+}

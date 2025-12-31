@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "American Legion Kodiak",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.7877084,-152.4069266,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Legion Post 17",
+            "address": "318 Center St, Kodiak, AK 99615",
+            "latitude": 57.7877084,
+            "longitude": -152.4069266,
+            "rating": 4.6,
+            "ratingCount": 11,
+            "type": "Veterans organization",
+            "types": [
+                "Veterans organization"
+            ],
+            "website": "https://www.alaskalegion.org/",
+            "phoneNumber": "(907) 486-3258",
+            "cid": "2891960675614572144",
+            "fid": "0x56eac464333af3a5:0x28224ee98667be70",
+            "placeId": "ChIJpfM6M2TE6lYRcL5nhulOIig"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Walla Walla VA",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0537285,-118.3586203,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jonathan M. Wainwright Memorial VA Medical Center",
+            "address": "77 Wainwright Dr, Walla Walla, WA 99362",
+            "latitude": 46.0537285,
+            "longitude": -118.3586203,
+            "rating": 3.8,
+            "ratingCount": 76,
+            "type": "Military hospital",
+            "types": [
+                "Military hospital",
+                "Medical Center",
+                "Nutritionist",
+                "Pharmacy",
+                "Social worker",
+                "Veterans hospital"
+            ],
+            "website": "http://www.wallawalla.va.gov/",
+            "phoneNumber": "(509) 525-5200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20136:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-npnIfhyN7GrMuO9PM3lgdgLEsZe5m41Qp4ODvrsb3eX5WTkmV6C0vJ7FeGtVJYxZLcHztjae696-lSuhft4bWctErFTQXK0aDu2USbTlJzD-CHx15dOFzaoO0pRLw2pYHlONG5g",
+            "cid": "12283915382727971871",
+            "fid": "0x54a26a0bb81d6801:0xaa793bf52675141f",
+            "placeId": "ChIJAWgduAtqolQRHxR1JvU7eao"
+        }
+    ],
+    "credits": 3
+}

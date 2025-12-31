@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "APP Pulmonary Consultants",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3188392,-122.8343229,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Asante Pulmonary Consultants - Medford",
+            "address": "555 Black Oak Dr Ste 300A, Medford, OR 97504",
+            "latitude": 42.3188392,
+            "longitude": -122.83432289999999,
+            "rating": 3.7,
+            "ratingCount": 10,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Sleep clinic"
+            ],
+            "website": "https://www.asante.org/Locations/location-detail/asante-pulmonary-consultants-medford/?utm_source=al-pulmonary-medford&utm_medium=site-link&utm_campaign=google-my-business",
+            "phoneNumber": "(541) 789-8100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "9067041259514322068",
+            "fid": "0x54cf7a7176c099b1:0x7dd499fc7d295c94",
+            "placeId": "ChIJsZnAdnF6z1QRlFwpffyZ1H0"
+        }
+    ],
+    "credits": 3
+}

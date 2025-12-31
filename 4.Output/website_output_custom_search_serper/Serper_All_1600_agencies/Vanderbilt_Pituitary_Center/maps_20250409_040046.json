@@ -1,0 +1,35 @@
+{
+    "searchParameters": {
+        "q": "Vanderbilt Pituitary Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1417684,-86.8007506,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Vanderbilt Diabetes and Endocrinology",
+            "address": "1215 21st Ave S 8th Floor, Nashville, TN 37232",
+            "latitude": 36.1417684,
+            "longitude": -86.8007506,
+            "rating": 3.7,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://search.vanderbilthealth.com/locations/vanderbilt-diabetes-and-endocrinology",
+            "phoneNumber": "(615) 343-8332",
+            "bookingLinks": [
+                "https://myhealthatvanderbilt.com/openscheduling/standalone?dept=101037106&vt=201610&stringkey=EndoDiabetes&linksource=mktg_location"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNVzJ47fbZUg9J0P6kztZxNsDOqmRolhnR1-vdP",
+            "cid": "1014476852882265869",
+            "fid": "0x886466988dba27c9:0xe142552a0e7570d",
+            "placeId": "ChIJySe6jZhmZIgRDVfnoFIlFA4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Courtney Brown",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@31.7768972,-106.4883285,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brown Courtney G MD",
+            "address": "1201 E Schuster Ave, El Paso, TX 79902",
+            "latitude": 31.776897199999997,
+            "longitude": -106.4883285,
+            "rating": 4.5,
+            "ratingCount": 12,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon",
+                "Doctor"
+            ],
+            "phoneNumber": "(915) 351-9200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MEgCli6H7AiKFRz477j8Zg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=288.47324&pitch=0&thumbfov=100",
+            "cid": "7447275606089836352",
+            "fid": "0x86e75852ba59bc75:0x675a09b4d56aa740",
+            "placeId": "ChIJdbxZulJY54YRQKdq1bQJWmc"
+        }
+    ],
+    "credits": 3
+}

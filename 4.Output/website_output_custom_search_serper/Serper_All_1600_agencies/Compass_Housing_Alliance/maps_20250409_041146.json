@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Compass Housing Alliance",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6199799,-122.342106,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Compass Housing Alliance",
+            "address": "220 Dexter Ave N, Seattle, WA 98109",
+            "latitude": 47.6199799,
+            "longitude": -122.342106,
+            "rating": 4,
+            "ratingCount": 292,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Homeless service",
+                "Homeless shelter",
+                "Housing development"
+            ],
+            "website": "http://www.compasshousingalliance.org/",
+            "phoneNumber": "(206) 474-1000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-kt6nRBDc0oqmqxWZD-yEfp9H6TVqqaMNqIPxRXd2roBnnm65qNImXZctiV1oAEZbGqQCILe5eUuTapVBNDoVdc3s6R4klRtI6snE6HzlB4zcyXLw-l7ZiVxSLpcm3TL9402vb0Q",
+            "cid": "3201203524966016357",
+            "fid": "0x54906aa547408463:0x2c6cf5a52f53e565",
+            "placeId": "ChIJY4RAR6VqkFQRZeVTL6X1bCw"
+        }
+    ],
+    "credits": 3
+}

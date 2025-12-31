@@ -1,0 +1,284 @@
+{
+    "searchParameters": {
+        "q": "Smith River Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1595654,-91.9326838,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "River Valley Primary Care Services, Inc.",
+            "address": "3202 N 6th St, Fort Smith, AR 72904",
+            "latitude": 35.4103815,
+            "longitude": -94.39849509999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.rvpcs.org/",
+            "phoneNumber": "(479) 783-3900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NPr9Xl2w6l3acO01ZKow-g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=130.67705&pitch=0&thumbfov=100",
+            "cid": "12989325620730480041",
+            "fid": "0x87ca4b4d46917fad:0xb4435ad4e78545a9",
+            "placeId": "ChIJrX-RRk1LyocRqUWF59RaQ7Q"
+        },
+        {
+            "position": 2,
+            "title": "River Valley Primary Care Services",
+            "address": "4003 Massard Rd, Fort Smith, AR 72903",
+            "latitude": 35.3429804,
+            "longitude": -94.34012,
+            "rating": 3.3,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.rvpcs.org/",
+            "phoneNumber": "(479) 434-4747",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SeBx_sgCJDi2t3zngdhTJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=159.50989&pitch=0&thumbfov=100",
+            "cid": "786922592629893214",
+            "fid": "0x87cbb1f1cf316d95:0xaebb5edbf6f285e",
+            "placeId": "ChIJlW0xz_Gxy4cRXihvv-216wo"
+        },
+        {
+            "position": 3,
+            "title": "Smiths Healthcare Center",
+            "address": "867 Lee Road 248, Smiths Station, AL 36877",
+            "latitude": 32.5359597,
+            "longitude": -85.0806289,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(334) 291-8400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "cid": "13243435562463558152",
+            "fid": "0x888cc8ca31d12b59:0xb7ca227a326a7a08",
+            "placeId": "ChIJWSvRMcrIjIgRCHpqMnoiyrc"
+        },
+        {
+            "position": 4,
+            "title": "Smith County Memorial Hospital",
+            "address": "921 US-36, Smith Center, KS 66967",
+            "latitude": 39.7831712,
+            "longitude": -98.7715049,
+            "rating": 3.8,
+            "ratingCount": 17,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cardiologist",
+                "Emergency room",
+                "Gastroenterologist",
+                "Laboratory",
+                "Nephrologist",
+                "Occupational therapist",
+                "Physical therapy clinic",
+                "Surgeon",
+                "Urologist"
+            ],
+            "website": "https://www.scmhks.org/",
+            "phoneNumber": "(785) 282-6845",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaDF3ncZMjoepyc9C3-nMYu_7tX-39hoYr9RFt",
+            "cid": "6745762605189901604",
+            "fid": "0x87989907642038a5:0x5d9dc3594d752d24",
+            "placeId": "ChIJpTggZAeZmIcRJC11TVnDnV0"
+        },
+        {
+            "position": 5,
+            "title": "Smith County Family Practice",
+            "address": "921 US-36, Smith Center, KS 66967",
+            "latitude": 39.7831087,
+            "longitude": -98.7716701,
+            "rating": 4.4,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scmhks.org/",
+            "phoneNumber": "(785) 282-6834",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN7in2ZLCz9MtlBFX-2kgQOFb2Ezsj2No06gcAi",
+            "cid": "6343648445586435950",
+            "fid": "0x879899a9e6bf66df:0x58092aa6b3236f6e",
+            "placeId": "ChIJ32a_5qmZmIcRbm8js6YqCVg"
+        },
+        {
+            "position": 6,
+            "title": "Mercy Clinic Sports Medicine - River Valley",
+            "address": "3501 W E Knight Dr, Fort Smith, AR 72903",
+            "latitude": 35.347501199999996,
+            "longitude": -94.34315579999999,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Rehabilitation center",
+            "types": [
+                "Rehabilitation center",
+                "Doctor",
+                "Sports medicine clinic"
+            ],
+            "website": "https://www.mercy.net/practice/mercy-clinic-sports-medicine-river-valley?utm_source=google&utm_medium=organic_search&utm_campaign=yext&utm_term=Central&utm_content=website&y_source=1_MTI5OTYzODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(479) 709-6700",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0ZHqKIFieU5-b5pecxLijIHfQKXgzIJ_Bv0zU",
+            "cid": "14000371709180643179",
+            "fid": "0x87cbb24f75084ea9:0xc24b4fe47124076b",
+            "placeId": "ChIJqU4IdU-yy4cRawckceRPS8I"
+        },
+        {
+            "position": 7,
+            "title": "Dr. Ferrill R. Conant, MD",
+            "address": "119 E Parliament St, Smith Center, KS 66967",
+            "latitude": 39.7717093,
+            "longitude": -98.78473869999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(785) 282-6834",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q3NLSZS6O_GsgGjBwYKZtA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.66357&pitch=0&thumbfov=100",
+            "cid": "6428254844907512755",
+            "fid": "0x879899a9e6bf66df:0x5935bfb91c6563b3",
+            "placeId": "ChIJ32a_5qmZmIcRs2NlHLm_NVk"
+        },
+        {
+            "position": 8,
+            "title": "Med Center Health Primary Care Smiths Grove",
+            "address": "121 College St, Smiths Grove, KY 42171",
+            "latitude": 37.0523739,
+            "longitude": -86.2071685,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://medcenterhealth.org/location/med-center-primary-care-smiths-grove/",
+            "phoneNumber": "(270) 796-5599",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6HZJ3Efx3td_WCZLlo2Qrg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.42232&pitch=0&thumbfov=100",
+            "cid": "12608457760475769796",
+            "fid": "0x886609fbc6cbff99:0xaefa3d87daacebc4",
+            "placeId": "ChIJmf_LxvsJZogRxOus2oc9-q4"
+        },
+        {
+            "position": 9,
+            "title": "Mercy Clinic Orthopedics - River Valley",
+            "address": "3501 W E Knight Dr, Fort Smith, AR 72903",
+            "latitude": 35.347501199999996,
+            "longitude": -94.34315579999999,
+            "rating": 3.9,
+            "ratingCount": 58,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon",
+                "Doctor"
+            ],
+            "website": "https://www.mercy.net/practice/mercy-clinic-orthopedics-river-valley?utm_source=google&utm_medium=organic_search&utm_campaign=yext&utm_term=Central&utm_content=website&y_source=1_MTI5OTYzNDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(479) 709-6700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8o1gfKCh0t9E1mmzO33Tc5mY65gMx4VBNR8MHqT5Qk_EGoIj4kYEt8QOwHguaoIBP_X4zEtY2Slb7PJAb4yXLtWHBUfBCFcOBW8oNR-1_voPbjSpMj1uSs0fWBj0AXU8jILsd1",
+            "cid": "6794641125309426384",
+            "fid": "0x87cbb25000000001:0x5e4b6a1a9a542ad0",
+            "placeId": "ChIJAQAAAFCyy4cR0CpUmhpqS14"
+        },
+        {
+            "position": 10,
+            "title": "Tri Rivers Health Care PLLC",
+            "address": "Smithland, KY 42081",
+            "latitude": 37.140963899999996,
+            "longitude": -88.40352399999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "General practitioner",
+                "Internist",
+                "Nurse practitioner",
+                "Surgeon"
+            ],
+            "phoneNumber": "(270) 928-2146",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jHtwc0uofKcIGM5COZOk1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=141.43169&pitch=0&thumbfov=100",
+            "cid": "2174888263759858423",
+            "fid": "0x887a7189e029603d:0x1e2ec15a53928af7",
+            "placeId": "ChIJPWAp4IlxeogR94qSU1rBLh4"
+        },
+        {
+            "position": 11,
+            "title": "Dr. Justin A. Overmiller, MD",
+            "address": "119 E Parliament St, Smith Center, KS 66967",
+            "latitude": 39.7717093,
+            "longitude": -98.78473869999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q3NLSZS6O_GsgGjBwYKZtA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.66357&pitch=0&thumbfov=100",
+            "cid": "8262825297742280603",
+            "fid": "0x879899a9e6bf66a1:0x72ab73d4790a379b",
+            "placeId": "ChIJoWa_5qmZmIcRmzcKedRzq3I"
+        }
+    ],
+    "credits": 3
+}

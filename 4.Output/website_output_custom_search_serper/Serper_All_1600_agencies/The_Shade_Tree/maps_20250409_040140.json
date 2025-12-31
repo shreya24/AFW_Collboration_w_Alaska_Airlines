@@ -1,0 +1,109 @@
+{
+    "searchParameters": {
+        "q": "The Shade Tree",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7637231,-108.9167195,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Shade Tree",
+            "address": "1 W Owens Ave, North Las Vegas, NV 89030",
+            "latitude": 36.1880606,
+            "longitude": -115.1361065,
+            "rating": 2.9,
+            "ratingCount": 258,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Charity",
+                "Homeless service",
+                "Non-profit organization",
+                "Social services organization",
+                "Women's shelter"
+            ],
+            "website": "http://www.theshadetree.org/",
+            "phoneNumber": "(702) 385-0072",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMMQZFuDdm46ATfH5wsRo6k5-wzj9npGViZfEGy",
+            "cid": "15961408958186639809",
+            "fid": "0x80c8c3014149e3d9:0xdd8250e15b73d1c1",
+            "placeId": "ChIJ2eNJQQHDyIARwdFzW-FQgt0"
+        },
+        {
+            "position": 2,
+            "title": "Shadetree",
+            "address": "48 5th Ave, Oakland, CA 94606",
+            "latitude": 37.7890933,
+            "longitude": -122.26096319999999,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.shadetreeartisans.org/contact-1/",
+            "phoneNumber": "(312) 404-6204",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM5Z_-y8EaxWii1ghEMdw4BN7AYSt0r3VD9WbRj",
+            "cid": "13671254792180336228",
+            "fid": "0x808f872c37e55555:0xbdba0dccd1c40664",
+            "placeId": "ChIJVVXlNyyHj4ARZAbE0cwNur0"
+        },
+        {
+            "position": 3,
+            "title": "Shade Tree Counseling Center",
+            "address": "2500 Wilcrest Dr Suite 404, Houston, TX 77042",
+            "latitude": 29.7383529,
+            "longitude": -95.5724759,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "http://shadetreecenter.com/",
+            "phoneNumber": "(832) 535-2620",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "9:30\u202fAM\u20131:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrGqTYj5hGx5-hNh0og3oDzCLdPdVwRYIHQnI",
+            "cid": "10807514165714339191",
+            "fid": "0x21844bc3b6c4949f:0x95fc00df8067c577",
+            "placeId": "ChIJn5TEtsNLhCERd8VngN8A_JU"
+        },
+        {
+            "position": 4,
+            "title": "The Shade Tree Donation Center",
+            "address": "5 W Owens Ave, North Las Vegas, NV 89030",
+            "latitude": 36.1880431,
+            "longitude": -115.1369211,
+            "type": "Donations center",
+            "types": [
+                "Donations center"
+            ],
+            "website": "https://theshadetree.org/donate-goods/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_PFOrRfcMiQaGLvcIY5OrQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.56221&pitch=0&thumbfov=100",
+            "cid": "12731748613581088517",
+            "fid": "0x80c8c3007950eb43:0xb0b041e88a12a705",
+            "placeId": "ChIJQ-tQeQDDyIARBacSiuhBsLA"
+        }
+    ],
+    "credits": 3
+}

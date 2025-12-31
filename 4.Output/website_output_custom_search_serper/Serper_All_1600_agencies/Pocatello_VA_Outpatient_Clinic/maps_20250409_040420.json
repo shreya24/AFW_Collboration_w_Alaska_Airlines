@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pocatello VA Outpatient Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8667692,-112.4325116,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pocatello VA Clinic",
+            "address": "500 S 11th Ave, Pocatello, ID 83201",
+            "latitude": 42.8667692,
+            "longitude": -112.4325116,
+            "rating": 3.8,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.va.gov/salt-lake-city-health-care/locations/pocatello-va-clinic/",
+            "phoneNumber": "(208) 232-6214",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-oI7nfFz4PdGZK-sqR6AsPSAd2b43gi3GgHv31_lInrfiLi_3opBLHQDejSqMH7TI6lZls2uHj9_m3jTK8QqkXBtH08CTsm2XfVKb_FQCs0TCc2aSDKf21kbvu6nGjfV0xEXXG",
+            "cid": "6174564618061350006",
+            "fid": "0x535548c95ce5ef1f:0x55b075ce4e3e0476",
+            "placeId": "ChIJH-_lXMlIVVMRdgQ-Ts51sFU"
+        }
+    ],
+    "credits": 3
+}

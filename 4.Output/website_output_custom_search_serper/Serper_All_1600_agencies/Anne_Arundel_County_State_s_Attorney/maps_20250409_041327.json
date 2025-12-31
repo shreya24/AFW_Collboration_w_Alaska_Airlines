@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Anne Arundel County State's Attorney",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9779002,-76.4931062,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Office of the State's Attorney for Anne Arundel County",
+            "address": "8 Church Cir, Annapolis, MD 21401",
+            "latitude": 38.9779002,
+            "longitude": -76.4931062,
+            "rating": 1.5,
+            "ratingCount": 15,
+            "type": "District attorney",
+            "types": [
+                "District attorney",
+                "Insurance",
+                "Local government office"
+            ],
+            "website": "https://www.aacounty.org/sao",
+            "phoneNumber": "(410) 222-1740",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOJznBlHfSOn3QHa9he4XaHqqBBpj2Q8mYsvHQk",
+            "cid": "9195000236855188378",
+            "fid": "0x89b7f6506f04d66d:0x7f9b33ff8b62db9a",
+            "placeId": "ChIJbdYEb1D2t4kRmttii_8zm38"
+        }
+    ],
+    "credits": 3
+}

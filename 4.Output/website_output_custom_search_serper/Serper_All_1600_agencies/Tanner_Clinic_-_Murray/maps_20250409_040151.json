@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Tanner Clinic - Murray",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6560201,-111.9006279,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tanner Clinic - Murray",
+            "address": "5296 South, Commerce Dr #104, Murray, UT 84107",
+            "latitude": 40.6560201,
+            "longitude": -111.90062789999999,
+            "rating": 4.6,
+            "ratingCount": 151,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Immunologist"
+            ],
+            "website": "https://tannerclinic.com/location/murray/?utm_source=google%20maps&utm_medium=organic&utm_term=Google%20Business%20Murray",
+            "phoneNumber": "(801) 773-4840",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://tannerclinic.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNw9pJeT4Zc7doJG8SXfOUC_EkenBGYD2GXXx0-",
+            "cid": "1435174659782651772",
+            "fid": "0x87528a2a4159c92f:0x13eac3bfcafcaf7c",
+            "placeId": "ChIJL8lZQSqKUocRfK_8yr_D6hM"
+        }
+    ],
+    "credits": 3
+}

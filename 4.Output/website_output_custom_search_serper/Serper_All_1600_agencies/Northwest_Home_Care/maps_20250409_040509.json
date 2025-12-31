@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "Northwest Home Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0523264,-95.6083092,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Home Health",
+            "address": "2921 S Old Missouri Rd Suites 1 & 2, Springdale, AR 72764",
+            "latitude": 36.1586271,
+            "longitude": -94.1183169,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Doctor",
+                "Hospital",
+                "Medical Center",
+                "Medical clinic",
+                "Medical group"
+            ],
+            "website": "https://lhcgroup.com/locations/northwest-home-health/",
+            "phoneNumber": "(479) 751-1601",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6v3t12sI2d8Cx9Yrh_j0WA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=70.37549&pitch=0&thumbfov=100",
+            "cid": "16652997419762025903",
+            "fid": "0x87c96b0523da3711:0xe71b54ec026985af",
+            "placeId": "ChIJETfaIwVryYcRr4VpAuxUG-c"
+        },
+        {
+            "position": 2,
+            "title": "Northwest Home Health Care Of Edmond",
+            "address": "609 S Kelly Ave Suite: L - 4, Edmond, OK 73003",
+            "latitude": 35.6493943,
+            "longitude": -97.4965203,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "phoneNumber": "(405) 285-2455",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiWBTLFAHaI8m-LrVRvHH5au2TNEgtnwr9Syq_",
+            "cid": "9322360065459722525",
+            "fid": "0x87b21fdfe84fda8d:0x815fad166a03991d",
+            "placeId": "ChIJjdpP6N8fsocRHZkDahatX4E"
+        },
+        {
+            "position": 3,
+            "title": "Northwest Arkansas HomeCare",
+            "address": "2 Parkcliff Dr, Holiday Island, AR 72631",
+            "latitude": 36.4552586,
+            "longitude": -93.7200981,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "phoneNumber": "(479) 253-5554",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5q5GhvjSNxmR1ku5qE4cMA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=31.088476&pitch=0&thumbfov=100",
+            "cid": "18067770721621371152",
+            "fid": "0x87ced367cea38879:0xfabd9dbe8171e910",
+            "placeId": "ChIJeYijzmfTzocREOlxgb6dvfo"
+        }
+    ],
+    "credits": 3
+}

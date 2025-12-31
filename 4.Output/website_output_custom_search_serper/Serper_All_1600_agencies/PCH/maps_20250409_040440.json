@@ -1,0 +1,510 @@
+{
+    "searchParameters": {
+        "q": "PCH",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7737344,-115.2922485,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Phoenix Children's Hospital - Thomas Campus",
+            "address": "1919 E Thomas Rd, Phoenix, AZ 85016",
+            "latitude": 33.4792815,
+            "longitude": -112.0421016,
+            "rating": 3.2,
+            "ratingCount": 1381,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Audiologist",
+                "Dialysis center",
+                "Pediatric cardiologist",
+                "Pediatrician",
+                "Pharmacy"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Phoenix/1919-E-Thomas-Rd",
+            "phoneNumber": "(602) 933-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8LJs0mFyZ0XhLmGJHy7v2eWExV8LGVZMJWDxa-SIb8M2HIfIyjdMuViq0ZXMmN1cx3tbAiERj_p4LHHe3iKhrx0Ikyo896jWn4mJBwmtl56Ig_JEF70WT753JXv-nrnlgMUUQL",
+            "cid": "6808680874366999376",
+            "fid": "0x872b0dff9f525479:0x5e7d4b2e69a41b50",
+            "placeId": "ChIJeVRSn_8NK4cRUBukaS5LfV4"
+        },
+        {
+            "position": 2,
+            "title": "PCH",
+            "address": "3500 W Burbank Blvd, Burbank, CA 91505",
+            "latitude": 34.175187799999996,
+            "longitude": -118.3482973,
+            "rating": 3,
+            "ratingCount": 3,
+            "type": "Marketing agency",
+            "types": [
+                "Marketing agency"
+            ],
+            "website": "http://www.pchagencyla.com/",
+            "phoneNumber": "(818) 643-5944",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9hTBhw8JKP0s5Mo-nKmuVAONgp7drlct-Qko-hcjaP0wZHFFZsvI0R_DYtzYqp34yFSf_09iWmnNEWvr5OFrFn_qUEiXvIvbawYHZSF16j3NZ3-GUmULFWvcZOlp3gJ2fJUgyZcg",
+            "cid": "7701453804335215593",
+            "fid": "0x80c2be390ceb0901:0x6ae10f6e557b33e9",
+            "placeId": "ChIJAQnrDDm-woAR6TN7VW4P4Wo"
+        },
+        {
+            "position": 3,
+            "title": "Phoenix Children's Hospital - Pharmacy",
+            "address": "1919 E Thomas Rd Floor 1, Phoenix, AZ 85016",
+            "latitude": 33.4788614,
+            "longitude": -112.04227669999999,
+            "rating": 2.1,
+            "ratingCount": 37,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://phoenixchildrens.org/your-visit/during-your-visit/pharmacy-services?utm_source=chatmeter&utm_medium=local-listing",
+            "phoneNumber": "(602) 933-2048",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9l1mRy7iJr9oz367tFfl5Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=198.0206&pitch=0&thumbfov=100",
+            "cid": "3336605744659408798",
+            "fid": "0x872b0df6c3829b3b:0x2e4e013f25f3a79e",
+            "placeId": "ChIJO5uCw_YNK4cRnqfzJT8BTi4"
+        },
+        {
+            "position": 4,
+            "title": "Phoenix Children's Urgent Care",
+            "address": "6990 E Shea Blvd, Scottsdale, AZ 85254",
+            "latitude": 33.582972399999996,
+            "longitude": -111.930684,
+            "rating": 3,
+            "ratingCount": 153,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Pediatrician",
+                "Specialized clinic"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Scottsdale/6990-E-Shea-Blvd-Urgent-Care",
+            "phoneNumber": "(602) 933-0004",
+            "openingHours": {
+                "Tuesday": "5\u201311\u202fPM",
+                "Wednesday": "5\u201311\u202fPM",
+                "Thursday": "5\u201311\u202fPM",
+                "Friday": "5\u201311\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20137\u202fPM",
+                "Monday": "5\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO1NbVbx4Py7r68DnSeSXDcikbNcIkCH2rS9GDt",
+            "cid": "9402861268317584707",
+            "fid": "0x872b7538e912ad5f:0x827dac814a593d43",
+            "placeId": "ChIJX60S6Th1K4cRQz1ZSoGsfYI"
+        },
+        {
+            "position": 5,
+            "title": "Phoenix Children's Specialty Care",
+            "address": "5131 E Southern Ave, Mesa, AZ 85206",
+            "latitude": 33.393119899999995,
+            "longitude": -111.7207562,
+            "rating": 3.4,
+            "ratingCount": 145,
+            "type": "Specialized clinic",
+            "types": [
+                "Specialized clinic"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Mesa/5131-E-Southern-Ave-Specialty-Care",
+            "phoneNumber": "(602) 933-0002",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_CO6XDCFEHD23Dsxnl1JMhKVN_km56OfBHIqxL9g2-QJVm0ynNqru8oKA24jlC03K4dNAonbrHODlp7WOxzIv88873-MckBJTGeaN47i5qN9elgHISFIxuBENooZE2PvviUiEz",
+            "cid": "13938802657588600103",
+            "fid": "0x872baf69beaa1a89:0xc170932a87d6dd27",
+            "placeId": "ChIJiRqqvmmvK4cRJ93WhyqTcME"
+        },
+        {
+            "position": 6,
+            "title": "Phoenix Children's Hospital - Ambulatory Building",
+            "address": "1919 E Thomas Rd, Phoenix, AZ 85006",
+            "latitude": 33.4782027,
+            "longitude": -112.03939369999999,
+            "rating": 4.2,
+            "ratingCount": 21,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://www.phoenixchildrens.org/",
+            "phoneNumber": "(602) 933-5437",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_XsWYCg6Z44VZfUD0ZEIfo06YCKQITiB_0mhQqOgQziEdoRgen-SD602NXQ6jYlAdisgJmhu3yjd3kKYHSGQnTeXWM7BZmguL1C3wKZDZvXSq4BI_5o3PgI_R9ZpV-AlnhKqfEiQ",
+            "cid": "16245065060083535931",
+            "fid": "0x872b0dbbcd107fcb:0xe172109a2363903b",
+            "placeId": "ChIJy38QzbsNK4cRO5BjI5oQcuE"
+        },
+        {
+            "position": 7,
+            "title": "Phoenix Children's Hospital Conference Center",
+            "address": "2632 N 20th St, Phoenix, AZ 85006",
+            "latitude": 33.4771467,
+            "longitude": -112.03915239999999,
+            "rating": 4.6,
+            "ratingCount": 41,
+            "type": "Conference center",
+            "types": [
+                "Conference center"
+            ],
+            "website": "https://www.phoenixchildrens.org/",
+            "phoneNumber": "(602) 933-1000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNjivHA4CCqsRsbT4onR_GtnuYC0vKy32lelhYa",
+            "cid": "15924334099488272213",
+            "fid": "0x872b0dc730c81b83:0xdcfe997e24a36f55",
+            "placeId": "ChIJgxvIMMcNK4cRVW-jJH6Z_tw"
+        },
+        {
+            "position": 8,
+            "title": "PCH Benefits",
+            "address": "885 Patriot Dr STE J, Moorpark, CA 93021",
+            "latitude": 34.2787401,
+            "longitude": -118.8639283,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Insurance agency",
+            "types": [
+                "Insurance agency"
+            ],
+            "website": "http://pchbenefits.com/",
+            "phoneNumber": "(805) 418-7080",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCsbq76-Y2Zrr13335BFU0rsMiMkvNs2Fjw4i2",
+            "cid": "9493707410420030082",
+            "fid": "0x80e83ab08147801f:0x83c06c9707945a82",
+            "placeId": "ChIJH4BHgbA66IARglqUB5dswIM"
+        },
+        {
+            "position": 9,
+            "title": "Phoenix Children's Hospital - Scottsdale Center",
+            "address": "6990 E Shea Blvd #104, Scottsdale, AZ 85254",
+            "latitude": 33.582566,
+            "longitude": -111.9307425,
+            "rating": 2.9,
+            "ratingCount": 16,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://www.phoenixchildrens.org/locations/specialty-scottsdale?utm_source=LocalSearchListing&utm_medium=FacilityLocalListing&utm_campaign=LocalSearch&utm_term=PhoenixChildren'sHospitalScottsdaleCenter-LocalListing",
+            "phoneNumber": "(480) 922-5437",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8f8hiSp2MRCJlwgz_nshqNPOLl72iTOPaJB7tPukfcaMpTeNe-HHTlCuzJggieygJdg3HsAmnhIztAFXwW8Lrb00clqK8qliU1TWMOO-8a1mNw3Ydt584D6L1BYVmWmHwNnN1L",
+            "cid": "6925498029156787962",
+            "fid": "0x872b74937ce97feb:0x601c4fc3c08ee6fa",
+            "placeId": "ChIJ63_pfJN0K4cR-uaOwMNPHGA"
+        },
+        {
+            "position": 10,
+            "title": "PCH Inc",
+            "address": "1415 S Commerce St, Las Vegas, NV 89102",
+            "latitude": 36.1544449,
+            "longitude": -115.1550697,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "phoneNumber": "(702) 635-5566",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ZyTQrG-GrTHx6N6FfN4Hnaa67Qm4DpCsNfowK2wUVQipX9-k6DWjE5ejegkh-etgLz43Q13YtbjByvwqImnOV-LNm1w9lHvR7CKReMFBEoBqRJVV5W4hSNYXJjkzkRso7ezwz",
+            "cid": "5015714308131915037",
+            "fid": "0x80c8c3be7f910b11:0x459b6596bf0c051d",
+            "placeId": "ChIJEQuRf77DyIARHQUMv5Zlm0U"
+        },
+        {
+            "position": 11,
+            "title": "Phoenix Children's Ophthalmology",
+            "address": "20201 N Scottsdale Healthcare Dr Suite 150, Scottsdale, AZ 85255",
+            "latitude": 33.670600799999995,
+            "longitude": -111.92050929999999,
+            "rating": 3.3,
+            "ratingCount": 52,
+            "type": "Pediatric ophthalmologist",
+            "types": [
+                "Pediatric ophthalmologist",
+                "Ophthalmologist",
+                "Ophthalmology clinic"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Scottsdale/20201-N-Scottsdale-Healthcare-Dr-Ste-150",
+            "phoneNumber": "(602) 933-3937",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.phoenixchildrens.org/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOmHQBby5YFzdw-XKWRQSZ2lNchB4eG-Rz4F64j",
+            "cid": "12521449661479367230",
+            "fid": "0x872b76eeeb56ce0f:0xadc520202969b23e",
+            "placeId": "ChIJD85W6-52K4cRPrJpKSAgxa0"
+        },
+        {
+            "position": 12,
+            "title": "Phoenix Children's Hospital Emergency Room",
+            "address": "1919 E Thomas Rd, Phoenix, AZ 85016",
+            "latitude": 33.4788479,
+            "longitude": -112.04253609999999,
+            "rating": 2.5,
+            "ratingCount": 194,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.phoenixchildrens.org/medical-specialties/emergency-medicine",
+            "phoneNumber": "(602) 933-1900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8NdApcK4VW1xKiEJVDB_iHOdPiKh2IIjINsfHnA7DgDwxFusTXDc_TqVzO3EjvzLEj_OX0XszJWpJ1f1xvyVz-D-U9aDEmp2A3cAK3BvAMj-lTjDBV_wf9tiRQjC7CpaLy6ICn",
+            "cid": "16922350553198340584",
+            "fid": "0x872b0d892bf3b689:0xead8442b7005a9e8",
+            "placeId": "ChIJibbzK4kNK4cR6KkFcCtE2Oo"
+        },
+        {
+            "position": 13,
+            "title": "Phoenix Children's Urgent Care",
+            "address": "5131 E Southern Ave, Mesa, AZ 85206",
+            "latitude": 33.393023899999996,
+            "longitude": -111.7205688,
+            "rating": 2.8,
+            "ratingCount": 89,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Mesa/5131-E-Southern-Ave-Urgent-Care",
+            "phoneNumber": "(602) 933-0002",
+            "openingHours": {
+                "Tuesday": "5\u201311\u202fPM",
+                "Wednesday": "5\u201311\u202fPM",
+                "Thursday": "5\u201311\u202fPM",
+                "Friday": "5\u201311\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20137\u202fPM",
+                "Monday": "5\u201311\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRanHz3cpmyqIuhoPEUPSxJ4Io7wZxs0qq9MWk",
+            "cid": "14760493090358016934",
+            "fid": "0x872baf2aed6e4acd:0xccd7ce42e065bba6",
+            "placeId": "ChIJzUpu7SqvK4cRprtl4ELO18w"
+        },
+        {
+            "position": 14,
+            "title": "Phoenix Children's Center for Heart Care",
+            "address": "1919 E Thomas Rd Floor 2, Phoenix, AZ 85016",
+            "latitude": 33.4789487,
+            "longitude": -112.04100799999999,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Heart hospital",
+            "types": [
+                "Heart hospital"
+            ],
+            "website": "https://www.phoenixchildrens.org/centers-programs/heart-center?utm_source=chatmeter&utm_medium=local-listing",
+            "phoneNumber": "(602) 933-3366",
+            "openingHours": {
+                "Tuesday": "5:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "5:30\u202fAM\u20138\u202fPM",
+                "Thursday": "5:30\u202fAM\u20138\u202fPM",
+                "Friday": "5:30\u202fAM\u20138\u202fPM",
+                "Saturday": "5:30\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "5:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB94o4Ny2xsgDVcYgtwcZBo-Smt1pz8Jsvu-rBv_ifo3T8HybwXRAtK-aRTh3tCG9Oz7BLY-nc-S1238lZ6C5xjbO3Ol17kQF_33QovGwe4hosSb32s0XZUsY4rYuWo2R3bxYAJ6",
+            "cid": "4431763181862874191",
+            "fid": "0x872b0d8ee6e19781:0x3d80c92227976c4f",
+            "placeId": "ChIJgZfh5o4NK4cRT2yXJyLJgD0"
+        },
+        {
+            "position": 15,
+            "title": "Phoenix Children's Hospital - Psychiatry",
+            "address": "1919 E Thomas Rd Ambulatory, Building, Floor 2, Phoenix, AZ 85016",
+            "latitude": 33.4789487,
+            "longitude": -112.04100799999999,
+            "rating": 2,
+            "ratingCount": 13,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Child psychologist"
+            ],
+            "website": "https://phoenixchildrens.org/centers-programs/psychiatry?utm_source=chatmeter&utm_medium=local-listing",
+            "phoneNumber": "(602) 933-0990",
+            "cid": "7056466966632198176",
+            "fid": "0x872b0da0011ff66b:0x61ed9b51c363f020",
+            "placeId": "ChIJa_YfAaANK4cRIPBjw1Gb7WE"
+        },
+        {
+            "position": 16,
+            "title": "Phoenix Children's Hospital - General Pediatrics",
+            "address": "1919 E Thomas Rd Ambulatory Building, Floor 2, Phoenix, AZ 85016",
+            "latitude": 33.4789487,
+            "longitude": -112.04100799999999,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://phoenixchildrens.org/centers-programs/general-pediatrics?utm_source=chatmeter&utm_medium=local-listing",
+            "phoneNumber": "(602) 933-0945",
+            "cid": "1180897120582378996",
+            "fid": "0x872b0d4b8cf0ac93:0x106363acac9825f4",
+            "placeId": "ChIJk6zwjEsNK4cR9CWYrKxjYxA"
+        },
+        {
+            "position": 17,
+            "title": "Phoenix Children's Sports Physical Therapy",
+            "address": "4215 E Bell Rd #100, Phoenix, AZ 85032",
+            "latitude": 33.6400413,
+            "longitude": -111.9902455,
+            "rating": 5,
+            "ratingCount": 43,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic"
+            ],
+            "website": "https://phoenixchildrens.org/locations/Phoenix/4215-E-Bell-Rd-Ste-100",
+            "phoneNumber": "(602) 933-7778",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137:30\u202fPM",
+                "Wednesday": "11\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137:30\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20137:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhjv_95-mIygP9AqbBRLKqsvIDSVPYthSfqlTp",
+            "cid": "10069844835557741765",
+            "fid": "0x872b718a7bd35ee1:0x8bbf46868eb894c5",
+            "placeId": "ChIJ4V7Te4pxK4cRxZS4joZGv4s"
+        },
+        {
+            "position": 18,
+            "title": "Phoenix Children's Hospital - Orthopedics",
+            "address": "Clinic B, 1919 E Thomas Rd Floor 2, Phoenix, AZ 85016",
+            "latitude": 33.4789487,
+            "longitude": -112.04100799999999,
+            "rating": 3.1,
+            "ratingCount": 19,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.phoenixchildrens.org/centers-programs/orthopedics?utm_source=chatmeter&utm_medium=local-listing",
+            "phoneNumber": "(602) 933-3033",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-vcwFmWHV7JW4yEeBgS6WHY5PL0n_z-_W1RsE34eFf3UsAObp6SdblJixif3sKe96BU0rPgPN6h6h9O1yUzcV6RvrHZieN_yq7nXORg7zXEIrbS0NsBKKf3zwbV40JwCR2K3xJ",
+            "cid": "1791513555491372731",
+            "fid": "0x872b0d8ec3c92269:0x18dcbc163d5c3ebb",
+            "placeId": "ChIJaSLJw44NK4cRuz5cPRa83Bg"
+        },
+        {
+            "position": 19,
+            "title": "Main Campus",
+            "address": "1919 E Thomas Rd, Phoenix, AZ 85016",
+            "latitude": 33.4779895,
+            "longitude": -112.0402781,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://phoenixchildrens.org/",
+            "phoneNumber": "(602) 933-1000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ccgaN29ZmaCNz0RgYGp96w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.98754&pitch=0&thumbfov=100",
+            "cid": "6815299955492743827",
+            "fid": "0x872b0d8ede092ef5:0x5e94cf3354e16a93",
+            "placeId": "ChIJ9S4J3o4NK4cRk2rhVDPPlF4"
+        }
+    ],
+    "credits": 3
+}

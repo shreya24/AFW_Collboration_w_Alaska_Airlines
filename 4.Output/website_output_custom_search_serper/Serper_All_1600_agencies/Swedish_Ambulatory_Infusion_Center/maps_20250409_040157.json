@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "Swedish Ambulatory Infusion Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5722947,-122.1730618,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Ambulatory Infusion Center - First Hill",
+            "address": "1124 Columbia St Suite 420, Seattle, WA 98104",
+            "latitude": 47.6083079,
+            "longitude": -122.3236773,
+            "rating": 4.5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/first-hill-campus/ambulatory-infusion-center?Is=location&y_source=1_MTYzMzE3OTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(206) 386-3800",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM41T1ZPNxs5g5kmxwZ_P1rBe7zDDZT9kqP2X5G",
+            "cid": "15989936070458867939",
+            "fid": "0x54906b252095d879:0xdde7aa2344e800e3",
+            "placeId": "ChIJediVICVrkFQR4wDoRCOq590"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Ambulatory Infusion Center - Issaquah",
+            "address": "751 NE Blakely Dr Suite 1090, Issaquah, WA 98029",
+            "latitude": 47.5362815,
+            "longitude": -122.02244639999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/issaquah-campus/ambulatory-infusion-center?ls=location&y_source=1_OTIyODYzNDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(425) 313-4100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEqrmOQLNLdi7Srb0P0pNJMkOyvGkvUZFEqtNJ",
+            "cid": "15993978232862468892",
+            "fid": "0x54906f2fb8f056dd:0xddf606768b18eb1c",
+            "placeId": "ChIJ3VbwuC9vkFQRHOsYi3YG9t0"
+        }
+    ],
+    "credits": 3
+}

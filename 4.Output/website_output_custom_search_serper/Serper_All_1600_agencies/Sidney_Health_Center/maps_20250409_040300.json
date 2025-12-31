@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sidney Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7155184,-104.1733882,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sidney Health Center",
+            "address": "214 14th Ave SW, Sidney, MT 59270",
+            "latitude": 47.7155184,
+            "longitude": -104.17338819999999,
+            "rating": 4.4,
+            "ratingCount": 266,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://www.sidneyhealth.org/",
+            "phoneNumber": "(406) 488-2100",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNWktTMVE1d5Bkw9IVcQhAPC956m8dgjjP-VWgT",
+            "cid": "2853626505469504650",
+            "fid": "0x532471a02c973527:0x279a1e3004262c8a",
+            "placeId": "ChIJJzWXLKBxJFMRiiwmBDAemic"
+        }
+    ],
+    "credits": 3
+}

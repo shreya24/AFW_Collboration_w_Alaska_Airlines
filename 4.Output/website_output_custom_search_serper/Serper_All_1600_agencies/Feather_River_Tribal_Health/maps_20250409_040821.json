@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Feather River Tribal Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.3115763,-121.5990193,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Feather River Tribal Health",
+            "address": "2145 5th Ave, Oroville, CA 95965",
+            "latitude": 39.5034943,
+            "longitude": -121.56281449999999,
+            "rating": 3.9,
+            "ratingCount": 31,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Medical Center",
+                "Mental health service"
+            ],
+            "website": "http://www.frth.org/",
+            "phoneNumber": "(530) 534-5394",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPL_OnAOXdTZvnJEJ7fBpXqssoMHp5FT153zZpO",
+            "cid": "63855031826967789",
+            "fid": "0x809cb44b73c83cdb:0xe2dbd0292aeced",
+            "placeId": "ChIJ2zzIc0u0nIAR7ewqKdDb4gA"
+        },
+        {
+            "position": 2,
+            "title": "Feather River Tribal Health",
+            "address": "555 W Onstott Rd, Yuba City, CA 95993",
+            "latitude": 39.119658199999996,
+            "longitude": -121.6352242,
+            "rating": 3.8,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Doctor",
+                "Mental health service",
+                "Pediatrician"
+            ],
+            "website": "http://www.frth.org/",
+            "phoneNumber": "(530) 751-8454",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO14erLySOY-5mzecPtbt7Er9pPXoQVtfnuGtia",
+            "cid": "2488686058095241452",
+            "fid": "0x809b5359e128e30b:0x228996c8c23be8ec",
+            "placeId": "ChIJC-Mo4VlTm4AR7Og7wsiWiSI"
+        }
+    ],
+    "credits": 3
+}

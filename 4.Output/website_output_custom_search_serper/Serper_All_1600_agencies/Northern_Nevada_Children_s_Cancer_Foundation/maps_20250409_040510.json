@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Northern Nevada Children's Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4715179,-119.768474,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Nevada Children\u2019s Cancer Foundation",
+            "address": "3550 Barron Way #9a, Reno, NV 89511",
+            "latitude": 39.471517899999995,
+            "longitude": -119.768474,
+            "rating": 5,
+            "ratingCount": 24,
+            "type": "Foundation",
+            "types": [
+                "Foundation",
+                "Non-profit organization"
+            ],
+            "website": "https://nvchildrenscancer.org/",
+            "phoneNumber": "(775) 825-0888",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPTTJpG7NuPF2GZgGixTwBs500U5ldiLaR_YSP-",
+            "cid": "14669216233258909155",
+            "fid": "0x80993fe7b4312677:0xcb9386717cca7de3",
+            "placeId": "ChIJdyYxtOc_mYAR433KfHGGk8s"
+        }
+    ],
+    "credits": 3
+}

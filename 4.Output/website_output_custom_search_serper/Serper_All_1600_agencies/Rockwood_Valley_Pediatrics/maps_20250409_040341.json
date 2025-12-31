@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Rockwood Valley Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6263333,-117.3855965,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MultiCare Rockwood Clinic Pediatrics - Moran Prairie",
+            "address": "3016 E 57th Ave #24, Spokane, WA 99223",
+            "latitude": 47.601904999999995,
+            "longitude": -117.3661862,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.multicare.org/location/moran-prairie/multicare-rockwood-pediatric-clinic-moran-prairie/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3973",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VULM-UsgE1o7xwzX-xd3aQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=323.69315&pitch=0&thumbfov=100",
+            "cid": "15769784690177030638",
+            "fid": "0x549e23da1f360e55:0xdad9879fb26539ee",
+            "placeId": "ChIJVQ42H9ojnlQR7jllsp-H2do"
+        },
+        {
+            "position": 2,
+            "title": "MultiCare Rockwood Pediatrics - Spokane Main Clinic",
+            "address": "300 E 5th Ave #1W, Spokane, WA 99202",
+            "latitude": 47.6507617,
+            "longitude": -117.4050068,
+            "rating": 3.7,
+            "ratingCount": 18,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician",
+                "Hearing aid store",
+                "Neurologist",
+                "Nutritionist",
+                "Ophthalmologist",
+                "Optometrist"
+            ],
+            "website": "https://www.multicare.org/location/pediatrics-main-clinic/?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(509) 342-3150",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0w07w3RO5xKDgaJQaXIcIg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=162.45988&pitch=0&thumbfov=100",
+            "cid": "15870167228816122228",
+            "fid": "0x549e19b2bfffb52b:0xdc3e2902c7a16174",
+            "placeId": "ChIJK7X_v7IZnlQRdGGhxwIpPtw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,94 @@
+{
+    "searchParameters": {
+        "q": "Community Assistance Network LEAP",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.3216616,-76.6523671,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Assistance Network",
+            "address": "7900 Baltimore St, Baltimore, MD 21224",
+            "latitude": 39.2990608,
+            "longitude": -76.5158843,
+            "rating": 4.2,
+            "ratingCount": 148,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization",
+                "Non-profit organization"
+            ],
+            "website": "http://www.canconnects.org/",
+            "phoneNumber": "(410) 285-4674",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8WP9kceRAhm0pUdh2kiV7enSfEsR9aOC2aeE9PaFzot2FGLeNrXWNfKGEe1wUTl21uJym2rVgUxYSbyBX7PYKzp4fG8uXtDwxHX9w_PPlZtpAgW-TZH2gp1OjNnOns9rNc8hVPjg",
+            "cid": "12523730771238913912",
+            "fid": "0x89c80121eeb72715:0xadcd3ac86a530778",
+            "placeId": "ChIJFSe37iEByIkReAdTasg6za0"
+        },
+        {
+            "position": 2,
+            "title": "Community Assistance Network",
+            "address": "6622 Loch Raven Blvd, Baltimore, MD 21239",
+            "latitude": 39.377904199999996,
+            "longitude": -76.5803844,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://www.canconnects.org/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4wQ-V7PuT1YIOVzW40M0Lw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=42.134396&pitch=0&thumbfov=100",
+            "cid": "11177373270345789342",
+            "fid": "0x89c805879f50628f:0x9b1e01c4e4e82f9e",
+            "placeId": "ChIJj2JQn4cFyIkRni_o5MQBHps"
+        },
+        {
+            "position": 3,
+            "title": "Community Assistance Network Inc",
+            "address": "3525 Resource Dr, Randallstown, MD 21133",
+            "latitude": 39.362027999999995,
+            "longitude": -76.78885,
+            "rating": 2,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://canconnects.org/",
+            "phoneNumber": "(410) 887-0631",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mXSBNIYuvbMVcgzK26kBFg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=226.14151&pitch=0&thumbfov=100",
+            "cid": "11883329728497518535",
+            "fid": "0x89c8184f04092365:0xa4ea116d6fef07c7",
+            "placeId": "ChIJZSMJBE8YyIkRxwfvb20R6qQ"
+        },
+        {
+            "position": 4,
+            "title": "Community Assistance Network",
+            "address": "4000 Southwestern Blvd, Baltimore, MD 21229",
+            "latitude": 39.265419,
+            "longitude": -76.6857536,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mt5GyULoHx2BP9jh_5nbuw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=294.77448&pitch=0&thumbfov=100",
+            "cid": "8834319558026319467",
+            "fid": "0x89c81d2b395838cd:0x7a99ced4f071d66b",
+            "placeId": "ChIJzThYOSsdyIkRa9Zx8NTOmXo"
+        }
+    ],
+    "credits": 3
+}

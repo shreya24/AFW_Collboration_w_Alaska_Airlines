@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Montrose Health and Human Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.466284,-107.864839,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montrose County Human Services",
+            "address": "1845 S Townsend Ave, Montrose, CO 81401",
+            "latitude": 38.466284,
+            "longitude": -107.86483899999999,
+            "rating": 2.3,
+            "ratingCount": 18,
+            "type": "County government office",
+            "types": [
+                "County government office"
+            ],
+            "website": "https://www.montrosecounty.net/107/Human-Services",
+            "phoneNumber": "(970) 252-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPSLXu7DHTdxoVzxnlC9f5B22BD8F5PTzgYwsLT",
+            "cid": "10088256228219983671",
+            "fid": "0x873f507bf90ea45f:0x8c00af96f62c9737",
+            "placeId": "ChIJX6QO-XtQP4cRN5cs9pavAIw"
+        }
+    ],
+    "credits": 3
+}

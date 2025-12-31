@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "FCYD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5868287,-111.9442461,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "FCYD Camp UTADA - Foundation for Children and Youth with Diabetes",
+            "address": "1995 W 9000 S, West Jordan, UT 84088",
+            "latitude": 40.5868287,
+            "longitude": -111.9442461,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Diabetes center",
+            "types": [
+                "Diabetes center",
+                "Children's camp"
+            ],
+            "phoneNumber": "(801) 566-6913",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "Closed",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "cid": "17099712013873366894",
+            "fid": "0x875288b62521d7ad:0xed4e617a7c66c76e",
+            "placeId": "ChIJrdchJbaIUocRbsdmfHphTu0"
+        }
+    ],
+    "credits": 3
+}

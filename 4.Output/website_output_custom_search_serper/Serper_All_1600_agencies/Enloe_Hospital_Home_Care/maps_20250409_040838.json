@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Enloe Hospital/Home Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7577253,-121.8446636,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Enloe Health Enloe Medical Center",
+            "address": "Enter at W. Fifth and, 1531 Esplanade, Magnolia Ave, Chico, CA 95926",
+            "latitude": 39.742019,
+            "longitude": -121.8503784,
+            "rating": 3.1,
+            "ratingCount": 489,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.enloe.org/locations/locations-profile/enloe-medical-center/",
+            "phoneNumber": "(530) 332-7300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpLFxSxvFFglArlv6Z3p0gcpgnaBy8pSFRG6dh",
+            "cid": "13634872246233789694",
+            "fid": "0x8083279c88af2389:0xbd38cc113a98f4fe",
+            "placeId": "ChIJiSOviJwng4AR_vSYOhHMOL0"
+        },
+        {
+            "position": 2,
+            "title": "Enloe HomeCare",
+            "address": "1390 E Lassen Ave Suite 6, Chico, CA 95973",
+            "latitude": 39.7734315,
+            "longitude": -121.8389488,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://www.enloe.org/locations/locations-profile/?id=145",
+            "phoneNumber": "(530) 332-6050",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20134:30\u202fPM",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9n4ge7r6lGLA4HNWkOHxFBE761uNkRTqGSSNIBYWxgmbnpef_BX1KhCr8x9N5hvkEzJSbGlyKujyeZS_1dSo6kwn0h373Noq88UghKLmd8Fvga5gFMZrJ1GewdFn8r0KUBG7Vigg",
+            "cid": "9609581952906880734",
+            "fid": "0x8082d86bd7108537:0x855c17df5704e6de",
+            "placeId": "ChIJN4UQ12vYgoAR3uYEV98XXIU"
+        }
+    ],
+    "credits": 3
+}

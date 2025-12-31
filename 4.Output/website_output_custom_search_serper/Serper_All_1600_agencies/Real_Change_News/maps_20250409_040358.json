@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Real Change News",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6002051,-122.3347129,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Real Change",
+            "address": "96 South Main St, Seattle, WA 98104",
+            "latitude": 47.6002051,
+            "longitude": -122.3347129,
+            "rating": 4.7,
+            "ratingCount": 43,
+            "type": "Newspaper publisher",
+            "types": [
+                "Newspaper publisher"
+            ],
+            "website": "http://www.realchangenews.org/",
+            "phoneNumber": "(206) 441-3247",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20132\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20132\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfHqbDDJxWLsiWsVO5TMDLRxt7LPoKIBVwaBNg",
+            "cid": "15773541223287465300",
+            "fid": "0x54906aa53b5c69bf:0xdae6e02bb807a554",
+            "placeId": "ChIJv2lcO6VqkFQRVKUHuCvg5to"
+        }
+    ],
+    "credits": 3
+}

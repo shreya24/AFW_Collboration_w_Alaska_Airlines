@@ -1,0 +1,129 @@
+{
+    "searchParameters": {
+        "q": "Walla Walla General Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0547816,-118.3593762,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence St. Mary Medical Center",
+            "address": "401 W Poplar St, Walla Walla, WA 99362",
+            "latitude": 46.062077099999996,
+            "longitude": -118.3431871,
+            "rating": 3.2,
+            "ratingCount": 137,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Birth center"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-mary-medical-center?Is=location&y_source=1_OTU3NzA0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 897-3320",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOWEJKZ5piDZSQ3LdO_umP_pa4jsUhIq73cFtZ8",
+            "cid": "17879742433352279117",
+            "fid": "0x54a26a7af3510187:0xf8219b031f70e44d",
+            "placeId": "ChIJhwFR83pqolQRTeRwHwObIfg"
+        },
+        {
+            "position": 2,
+            "title": "Walla Walla University",
+            "address": "204 S College Ave, College Place, WA 99324",
+            "latitude": 46.047486199999994,
+            "longitude": -118.3895802,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://www.wallawalla.edu/",
+            "phoneNumber": "(509) 527-2425",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_9-8PU-52PRznLsxYPfYz9HJxbIuN0sNbU30eoGbwCbtAFmCz3O48ShVAjmGFbJW7XbILvQ-vwv5OdSIFUsEbCapo_kHNryArdfojAEYmBrL2lJSOg-RbXR_UvkfVhgBD6R5mFSA",
+            "cid": "10403112231144765206",
+            "fid": "0x54a269f9608d26ed:0x905f4774c7e7b716",
+            "placeId": "ChIJ7SaNYPlpolQRFrfnx3RHX5A"
+        },
+        {
+            "position": 3,
+            "title": "Walla Walla Clinic: Main Campus",
+            "address": "55 W Tietan St, Walla Walla, WA 99362",
+            "latitude": 46.048837899999995,
+            "longitude": -118.3307002,
+            "rating": 2.9,
+            "ratingCount": 65,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Medical clinic",
+                "Walk-in clinic"
+            ],
+            "website": "https://www.wallawallaclinic.com/",
+            "phoneNumber": "(509) 525-3720",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-d4GqfRIhXhaSL2IQmzajUwKbDWVm310ILQu69BuvVVGCDamqZRycE41UXX-i3bEjBfD8vD0hM-jF7iHwtYK0b8kO_V0ZFFmtDHA0jCGGtlehikEIzWex2V_mYlG46ULR4Whw",
+            "cid": "11777314759561089079",
+            "fid": "0x54a241d07f695675:0xa3716d5ffb9a9037",
+            "placeId": "ChIJdVZpf9BBolQRN5Ca-19tcaM"
+        },
+        {
+            "position": 4,
+            "title": "Walla Walla General Hospital/Adventist Health",
+            "address": "1025 S 2nd Ave, Walla Walla, WA 99362",
+            "latitude": 46.055006999999996,
+            "longitude": -118.32917219999999,
+            "rating": 4.2,
+            "ratingCount": 11,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "phoneNumber": "(509) 525-0480",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9KAVQYHBBoINge9FSIh-lICHTQcSzsF6X-Libu82WMzoQdkBPDjvHBcoCd_29qKNRoSyS-uxK5q_iyPFIobpDavUp7OabFmnvnN7NLj3Uu5KibhNg64aPM_2jFP70fLNEhjtUD",
+            "cid": "15622351968743674613",
+            "fid": "0x54a241d65582479f:0xd8cdbe58451752f5",
+            "placeId": "ChIJn0eCVdZBolQR9VIXRVi-zdg"
+        },
+        {
+            "position": 5,
+            "title": "Walla Walla General Hospital/Adventist Health - Emergency Room",
+            "address": "1025 S 2nd Ave, Walla Walla, WA 99362",
+            "latitude": 46.0551307,
+            "longitude": -118.3293879,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "phoneNumber": "(509) 525-0480",
+            "isPermanentlyClosed": true,
+            "cid": "16169169078667094354",
+            "fid": "0x54a241d67d471595:0xe0646d9bef2ea952",
+            "placeId": "ChIJlRVHfdZBolQRUqku75ttZOA"
+        }
+    ],
+    "credits": 3
+}

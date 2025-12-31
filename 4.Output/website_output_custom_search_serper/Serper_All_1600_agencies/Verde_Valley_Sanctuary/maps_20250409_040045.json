@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Verde Valley Sanctuary",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.7349248,-112.0091705,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Verde Valley Sanctuary 24/7 Hotline",
+            "address": "221 S Main St Suite #1, Cottonwood, AZ 86326",
+            "latitude": 34.7349248,
+            "longitude": -112.0091705,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://verdevalleysanctuary.org/",
+            "phoneNumber": "(928) 634-2511",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuWv7Cut5FUABHVhX2OZQ_lYCkVhqWykdJyQdA",
+            "cid": "14133220003046555764",
+            "fid": "0x872d057f1f838393:0xc42348b636090074",
+            "placeId": "ChIJk4ODH38FLYcRdAAJNrZII8Q"
+        },
+        {
+            "position": 2,
+            "title": "Verde Valley Sanctuary Lay Legal and Outreach Services",
+            "address": "221 S Main St, Cottonwood, AZ 86326",
+            "latitude": 34.7349248,
+            "longitude": -112.0091705,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Mental health clinic",
+                "Non-profit organization",
+                "Shelter"
+            ],
+            "website": "http://www.verdevalleysanctuary.org/",
+            "phoneNumber": "(928) 634-6255",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPFImtVsXjB3NkfMk_QgfrTC5OUXbXLz0EWaLJG",
+            "cid": "8480853089766572550",
+            "fid": "0x872d0f453f3c405d:0x75b20af39fcf8206",
+            "placeId": "ChIJXUA8P0UPLYcRBoLPn_MKsnU"
+        }
+    ],
+    "credits": 3
+}

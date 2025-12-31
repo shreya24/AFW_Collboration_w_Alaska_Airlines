@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Celilo Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.586749,-121.164494,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Celilo Cancer Center",
+            "address": "1800 E 19th St, The Dalles, OR 97058",
+            "latitude": 45.586749,
+            "longitude": -121.16449399999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "http://www.mcmc.net/celilo-cancer-center/",
+            "phoneNumber": "(541) 296-7585",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJKqiL8gj1uVUvOI3ql1CHo_Vted8YmlNUzULG",
+            "cid": "18422978928392157065",
+            "fid": "0x54961e05c985ad6f:0xffab91b9eb523789",
+            "placeId": "ChIJb62FyQUellQRiTdS67mRq_8"
+        }
+    ],
+    "credits": 3
+}

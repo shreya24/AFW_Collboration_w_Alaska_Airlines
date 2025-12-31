@@ -1,0 +1,85 @@
+{
+    "searchParameters": {
+        "q": "SEARHC-Sitka",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.0529774,-135.3572391,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southeast Alaska Regional Health Consortium SEARHC/Mt. Edgecumbe Medical Center",
+            "address": "222 Tongass Dr, Sitka, AK 99835",
+            "latitude": 57.0515542,
+            "longitude": -135.3552157,
+            "rating": 3.1,
+            "ratingCount": 17,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Addiction treatment center",
+                "Dentist",
+                "Family practice physician",
+                "Hospital",
+                "Physical therapy clinic"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 966-2411",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ibDiyukpQnVybg1EX0dMUxY7DP5I2IFN6W5dataSaTHeSJyxq0oH_B-xORFizfTtJTomSXszKTVBb_jhtMVb3Born0gjI2QrVAnjwEn1ee4jLBAUhm5pS-X8ol_MkjaNJv1O6pw",
+            "cid": "3645266638594733978",
+            "fid": "0x540467af2bd47073:0x329696b1c105779a",
+            "placeId": "ChIJc3DUK69nBFQRmncFwbGWljI"
+        },
+        {
+            "position": 2,
+            "title": "SEARHC",
+            "address": "222 Tongass Dr, Sitka, AK 99835",
+            "latitude": 57.0519902,
+            "longitude": -135.3552217,
+            "rating": 2.3,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://searhc.org/community/sitka/",
+            "phoneNumber": "(907) 966-8347",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9sTKzTIP_ZYRdS8mGUu8qVC-s9fgASAeAf6oV_h_ZWpXoLBpgrcuhdifHgZmGeMxMKWqXHIOzhgOXklhYkXMBIQmA9_MOWQxf8frS0OPF98kJ25my88c4RrUO2szr_12C_Amo",
+            "cid": "11391055688135612423",
+            "fid": "0x540467b217be9683:0x9e1528cbc4041807",
+            "placeId": "ChIJg5a-F7JnBFQRBxgExMsoFZ4"
+        },
+        {
+            "position": 3,
+            "title": "SouthEast Alaska Regional Health Consortium",
+            "address": "1212 Seward Ave #212, Sitka, AK 99835",
+            "latitude": 57.0544005,
+            "longitude": -135.3592626,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office",
+                "Medical Center"
+            ],
+            "website": "http://searhc.org/",
+            "phoneNumber": "(907) 966-8710",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2_X1aXxBgB1keg_gWTM23Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=343.48508&pitch=0&thumbfov=100",
+            "cid": "12895294078739254372",
+            "fid": "0x540467aebfdfd30d:0xb2f549a475738c64",
+            "placeId": "ChIJDdPfv65nBFQRZIxzdaRJ9bI"
+        }
+    ],
+    "credits": 3
+}

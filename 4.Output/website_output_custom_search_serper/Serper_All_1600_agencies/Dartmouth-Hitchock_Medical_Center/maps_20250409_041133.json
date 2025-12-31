@@ -1,0 +1,162 @@
+{
+    "searchParameters": {
+        "q": "Dartmouth-Hitchock Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.23066,-71.8483742,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dartmouth Hitchcock Medical Center",
+            "address": "1 Medical Center Dr, Lebanon, NH 03766",
+            "latitude": 43.6754932,
+            "longitude": -72.2729588,
+            "rating": 3.4,
+            "ratingCount": 609,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "http://www.dartmouth-hitchcock.org/",
+            "phoneNumber": "(603) 650-5000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNw9GXcazEPfq165GjfEhGyYv0CwqNAMOAxkcwh",
+            "cid": "7525057918969962703",
+            "fid": "0x4cb4b5e6a6c0737f:0x686e604ece71e0cf",
+            "placeId": "ChIJf3PApua1tEwRz-Bxzk5gbmg"
+        },
+        {
+            "position": 2,
+            "title": "Dartmouth Hitchcock Clinics Manchester",
+            "address": "100 Hitchcock Way, Manchester, NH 03104",
+            "latitude": 43.010187099999996,
+            "longitude": -71.4230058,
+            "rating": 2.7,
+            "ratingCount": 181,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dartmouth-hitchcock.org/locations-directions/dh-manchester",
+            "phoneNumber": "(603) 695-2500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaRAoCNOVtulrVL6yP00wnBw5ZFvqasHwqw_09",
+            "cid": "14643032752745612161",
+            "fid": "0x89e24f9b6de03c41:0xcb3680b4ddd00381",
+            "placeId": "ChIJQTzgbZtP4okRgQPQ3bSANss"
+        },
+        {
+            "position": 3,
+            "title": "Dartmouth Hitchcock Clinics Nashua",
+            "address": "2300 Southwood Dr, Nashua, NH 03063",
+            "latitude": 42.785274,
+            "longitude": -71.4980267,
+            "rating": 3,
+            "ratingCount": 133,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.dartmouth-hitchcock.org/",
+            "phoneNumber": "(603) 577-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUHji6D3ivUJayEwfk8QGV6DJZp_hEyqx-ME7s",
+            "cid": "9826707533564957426",
+            "fid": "0x89e3b0d90dbdecfb:0x885f7a7009cb52f2",
+            "placeId": "ChIJ--y9Ddmw44kR8lLLCXB6X4g"
+        },
+        {
+            "position": 4,
+            "title": "Dartmouth-Hitchcock Medical Center and Clinics",
+            "address": "1 Medical Center Dr, Lebanon, NH 03766",
+            "latitude": 43.675986599999995,
+            "longitude": -72.27374259999999,
+            "rating": 4.6,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.dartmouth-hitchcock.org/",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "cid": "14667217234307765662",
+            "fid": "0x4cb4b5e4192d69eb:0xcb8c6c5d4666d59e",
+            "placeId": "ChIJ62ktGeS1tEwRntVmRl1sjMs"
+        },
+        {
+            "position": 5,
+            "title": "Dartmouth Hitchcock Clinics Concord",
+            "address": "253 Pleasant St, Concord, NH 03301",
+            "latitude": 43.195513999999996,
+            "longitude": -71.562715,
+            "rating": 2.8,
+            "ratingCount": 145,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.dartmouth-hitchcock.org/",
+            "phoneNumber": "(603) 226-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-7sx74rN5HsD-wITgikCA2VGvsUubWMhRbrRl",
+            "cid": "3156253947700887798",
+            "fid": "0x89e26aaf103d6579:0x2bcd443e2da2c0f6",
+            "placeId": "ChIJeWU9EK9q4okR9sCiLT5EzSs"
+        },
+        {
+            "position": 6,
+            "title": "Dartmouth-Hitchcock Medical Center - East Entrance",
+            "address": "DHMC E, Lebanon, NH 03766",
+            "latitude": 43.676046,
+            "longitude": -72.272249,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.dartmouth-hitchcock.org/patients-visitors/parking-transportation-maps",
+            "phoneNumber": "(603) 650-5000",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMs3OKyy_yZWKjURqiRATQzSo0WpZU07_FeGSgE",
+            "cid": "4353355472735797257",
+            "fid": "0x4cb4b5d2a5ce0df3:0x3c6a39bcc56b8009",
+            "placeId": "ChIJ8w3OpdK1tEwRCYBrxbw5ajw"
+        }
+    ],
+    "credits": 3
+}

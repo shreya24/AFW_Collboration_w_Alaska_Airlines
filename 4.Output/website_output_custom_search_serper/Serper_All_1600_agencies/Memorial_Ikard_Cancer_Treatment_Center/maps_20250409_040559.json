@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Memorial Ikard Cancer Treatment Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.3286139,-106.7381496,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Memorial Cancer Center",
+            "address": "2350 S Telshor Blvd, Las Cruces, NM 88011",
+            "latitude": 32.294250399999996,
+            "longitude": -106.7356224,
+            "rating": 2.7,
+            "ratingCount": 19,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.mmclc.org/cancer",
+            "phoneNumber": "(575) 521-1554",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPB90jE7uy38GnTGrQqb5ySaH_-V4A9qu9qsHL_",
+            "cid": "18169730798630701637",
+            "fid": "0x86de1769bb133a7f:0xfc27d9e4dcdb8a45",
+            "placeId": "ChIJfzoTu2kX3oYRRYrb3OTZJ_w"
+        },
+        {
+            "position": 2,
+            "title": "Memorial Radiation Oncology",
+            "address": "2450 S Telshor Blvd Suite B, Las Cruces, NM 88011",
+            "latitude": 32.290192999999995,
+            "longitude": -106.73669749999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical clinic"
+            ],
+            "website": "http://www.mmclc.org/cancer",
+            "phoneNumber": "(575) 556-5800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=717gO0eal3lI2W9Gt1yqDQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=176.68723&pitch=0&thumbfov=100",
+            "cid": "3744283302056865338",
+            "fid": "0x86de17ee760d4305:0x33f65dd33d86ae3a",
+            "placeId": "ChIJBUMNdu4X3oYROq6GPdNd9jM"
+        },
+        {
+            "position": 3,
+            "title": "CBMC CANCER CENTER.",
+            "address": "4050 Northrise Dr, Las Cruces, NM 88011",
+            "latitude": 32.3670349,
+            "longitude": -106.74067679999999,
+            "rating": 4.6,
+            "ratingCount": 76,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Oncologist"
+            ],
+            "website": "http://www.nmcbmc.com/",
+            "phoneNumber": "(575) 652-3040",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM08AcNXIKobWR8vbPcypoYt_Xaes9HTkMe-HHD",
+            "cid": "11905407120095082985",
+            "fid": "0x86de17e32e54b045:0xa53880b2bbac79e9",
+            "placeId": "ChIJRbBULuMX3oYR6Xmsu7KAOKU"
+        }
+    ],
+    "credits": 3
+}

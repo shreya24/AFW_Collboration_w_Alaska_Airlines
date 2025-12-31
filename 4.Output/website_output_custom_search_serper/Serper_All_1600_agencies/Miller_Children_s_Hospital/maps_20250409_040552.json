@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Miller Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8083474,-118.1867193,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MemorialCare Miller Children's & Women's Hospital Long Beach",
+            "address": "2801 Atlantic Ave, Long Beach, CA 90806",
+            "latitude": 33.808347399999995,
+            "longitude": -118.1867193,
+            "rating": 3.8,
+            "ratingCount": 313,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist",
+                "Cardiovascular and thoracic surgeon",
+                "Family practice physician",
+                "Gastrointestinal surgeon",
+                "Hospital department",
+                "Midwife",
+                "Pediatric clinic",
+                "Pediatrician"
+            ],
+            "website": "https://www.millerchildrens.memorialcare.org/",
+            "phoneNumber": "(562) 933-5437",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_I_DLIsvGOInQqcsjWGso1uoN5aqccIR18OLdCGMu-1Ekw_rDccqp-caSvuJ89imZ29tZSZV76uPQlXmvAFD3-gb-O04gU5r2kOX8jHxm638crwQtJfT6tOUZiwhqqWNqhiOad",
+            "cid": "1232430620137777695",
+            "fid": "0x80dd33e859573421:0x111a791e8ba06a1f",
+            "placeId": "ChIJITRXWegz3YARH2qgix55GhE"
+        }
+    ],
+    "credits": 3
+}

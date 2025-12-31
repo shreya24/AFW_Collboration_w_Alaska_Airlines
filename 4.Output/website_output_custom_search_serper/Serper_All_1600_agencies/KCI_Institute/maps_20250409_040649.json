@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "KCI Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.4988557,-122.6713946,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "OHSU Casey Eye Institute Clinic, South Waterfront",
+            "address": "3303 S Bond Ave Building 1, 11th Floor, Portland, OR 97239",
+            "latitude": 45.4988557,
+            "longitude": -122.6713946,
+            "rating": 3.3,
+            "ratingCount": 31,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Medical clinic",
+                "Ophthalmologist",
+                "Ophthalmology clinic"
+            ],
+            "website": "https://www.ohsu.edu/casey-eye-institute/ohsu-casey-eye-institute-clinic-south-waterfront?utm_source=gmb&utm_medium=organic&utm_content=b6a58e2c-61e2-5fd2-abc9-5b9c0a4bc4b1",
+            "phoneNumber": "(503) 494-7672",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMprgN8GDCJuhnU1_ux4Yia5yyC4Q6l9t3Xde5O",
+            "cid": "15810260597179973678",
+            "fid": "0x54950a686450eec3:0xdb69543f2d44802e",
+            "placeId": "ChIJw-5QZGgKlVQRLoBELT9Uads"
+        }
+    ],
+    "credits": 3
+}

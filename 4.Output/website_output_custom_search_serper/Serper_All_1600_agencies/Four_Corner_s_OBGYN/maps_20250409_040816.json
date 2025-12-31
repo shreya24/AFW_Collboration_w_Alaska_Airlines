@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Four Corner's OBGYN",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.2361981,-107.8251672,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Four Corners OB-GYN",
+            "address": "1 Mercado St # 105, Durango, CO 81301",
+            "latitude": 37.236198099999996,
+            "longitude": -107.8251672,
+            "rating": 3.1,
+            "ratingCount": 90,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Birth center",
+                "Birth control center",
+                "Medical clinic",
+                "Pregnancy care center"
+            ],
+            "website": "https://4cobgyn.com/",
+            "phoneNumber": "(970) 382-8800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN9Zufm0ov1zW2UePgvx6i2F6kFdvSJTMw-75pH",
+            "cid": "1467263878579430391",
+            "fid": "0x873c1ce517f67e7f:0x145cc4b9427d23f7",
+            "placeId": "ChIJf372F-UcPIcR9yN9QrnEXBQ"
+        }
+    ],
+    "credits": 3
+}

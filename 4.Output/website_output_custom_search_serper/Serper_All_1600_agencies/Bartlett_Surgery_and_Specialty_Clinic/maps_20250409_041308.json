@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Bartlett Surgery and Specialty Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3308228,-134.4715217,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bartlett Surgery & Specialty Clinic",
+            "address": "3268 Hospital Dr # A, Juneau, AK 99801",
+            "latitude": 58.3308228,
+            "longitude": -134.47152169999998,
+            "rating": 1.8,
+            "ratingCount": 5,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Specialized clinic",
+                "Surgeon"
+            ],
+            "website": "https://www.bartletthospital.org/services/surgical-services/surgical-specialty-clinic/",
+            "phoneNumber": "(907) 796-8700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpTN2mytkQFIKH-4JYDkLt3h-kTe0zWsdVXkrz",
+            "cid": "2299902600113906115",
+            "fid": "0x5400e0063e4e08e7:0x1feae53ab9c961c3",
+            "placeId": "ChIJ5whOPgbgAFQRw2HJuTrl6h8"
+        }
+    ],
+    "credits": 3
+}

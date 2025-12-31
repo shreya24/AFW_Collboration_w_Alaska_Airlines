@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Santa Flights",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4885515,-71.0934879,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "FRIENDS OF FLYING SANTA, INC.",
+            "address": "82 Elm St, Stoneham, MA 02180",
+            "latitude": 42.4885515,
+            "longitude": -71.0934879,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://flyingsanta.com/",
+            "phoneNumber": "(781) 438-4587",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo9P77jXJPsy57oGxWzMaw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=342.63184&pitch=0&thumbfov=100",
+            "cid": "4094006201639448763",
+            "fid": "0x89e373611c9dfd79:0x38d0d4f30cf730bb",
+            "placeId": "ChIJef2dHGFz44kRuzD3DPPU0Dg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "VA Blind Center - Long Beach",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7843215,-118.1706814,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tibor Rubin VA Medical Center",
+            "address": "5901 E 7th St, Long Beach, CA 90822",
+            "latitude": 33.776468099999995,
+            "longitude": -118.11896639999999,
+            "rating": 3.8,
+            "ratingCount": 447,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.longbeach.va.gov/",
+            "phoneNumber": "(562) 826-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSYpQApmKkRfdQNVbuRtH--nIX_Mwy_07mAO0z",
+            "cid": "2342259530592549647",
+            "fid": "0x80dd311305ada21f:0x208160a21cbdfb0f",
+            "placeId": "ChIJH6KtBRMx3YARD_u9HKJggSA"
+        },
+        {
+            "position": 2,
+            "title": "Long Beach V.A. Medical Center Radiation Therapy",
+            "address": "164, 5901 E 7th St, Long Beach, CA 90822",
+            "latitude": 33.7783814,
+            "longitude": -118.11972,
+            "rating": 4.7,
+            "ratingCount": 17,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital department"
+            ],
+            "website": "https://www.va.gov/long-beach-health-care/locations/tibor-rubin-va-medical-center/",
+            "phoneNumber": "(562) 826-5606",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOckaUUI_2sQmspaWRahaQM7HxrRHniRZk7RFQ",
+            "cid": "15466209217297636627",
+            "fid": "0x80dd31d159afcfad:0xd6a30356f2e5dd13",
+            "placeId": "ChIJrc-vWdEx3YARE93l8lYDo9Y"
+        },
+        {
+            "position": 3,
+            "title": "Long Beach VA Clinic",
+            "address": "2001 River Ave Bldg 28, Long Beach, CA 90810",
+            "latitude": 33.7921749,
+            "longitude": -118.22239649999999,
+            "rating": 3.3,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.longbeach.va.gov/locations/",
+            "phoneNumber": "(562) 826-8000",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134\u202fPM"
+            },
+            "cid": "290432521310410530",
+            "fid": "0x80dd341bea8ab6a1:0x407d2d6dfed9722",
+            "placeId": "ChIJobaK6hs03YARIpft39bSBwQ"
+        }
+    ],
+    "credits": 3
+}

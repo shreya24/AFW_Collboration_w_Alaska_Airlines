@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Angel Flight Mid-Atlantic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.846233,-76.293488,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angel Flight Mid-Atlantic",
+            "address": "101 W Main St #1000, Norfolk, VA 23510",
+            "latitude": 36.846233,
+            "longitude": -76.293488,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Transportation service",
+            "types": [
+                "Transportation service"
+            ],
+            "website": "https://www.mercymedical.org/angel-flight-mid-atlantic",
+            "phoneNumber": "(800) 296-3797",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=al2MWk5suVYLHTSVbVihTg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=229.47179&pitch=0&thumbfov=100",
+            "cid": "2829442914514267917",
+            "fid": "0x89ba95959a86503f:0x27443356f7de6f0d",
+            "placeId": "ChIJP1CGmpWVuokRDW_e91YzRCc"
+        }
+    ],
+    "credits": 3
+}

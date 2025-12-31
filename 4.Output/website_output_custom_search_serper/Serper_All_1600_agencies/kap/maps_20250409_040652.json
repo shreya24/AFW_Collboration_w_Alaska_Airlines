@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "kap",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.3688346,-115.8825082,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kap",
+            "address": "West Haven, UT 84401",
+            "latitude": 41.206611099999996,
+            "longitude": -112.0371643,
+            "cid": "7390442318690354117",
+            "fid": "0x87530e2d6d28ec77:0x66902021f28d83c5",
+            "placeId": "ChIJd-wobS0OU4cRxYON8iEgkGY"
+        },
+        {
+            "position": 2,
+            "title": "KAP Construction, Inc.",
+            "address": "10 Greg St # 100, Sparks, NV 89431",
+            "latitude": 39.522664,
+            "longitude": -119.7438595,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Construction company",
+            "types": [
+                "Construction company"
+            ],
+            "website": "http://www.kapnv.com/",
+            "phoneNumber": "(775) 843-2807",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHUNWfNt-G5NRE26qOiF9QpMyNrngLpKONasKh",
+            "cid": "3826084167647372921",
+            "fid": "0x80993f1f5eca6559:0x3518fb476d5e2679",
+            "placeId": "ChIJWWXKXh8_mYAReSZebUf7GDU"
+        }
+    ],
+    "credits": 3
+}

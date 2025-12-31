@@ -1,0 +1,444 @@
+{
+    "searchParameters": {
+        "q": "Seattle Children's Urgent Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6452073,-122.2513301,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Children's Urgent Care in Seattle",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6621411,
+            "longitude": -122.2813278,
+            "rating": 2.9,
+            "ratingCount": 55,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/urgent-care-seattle/",
+            "phoneNumber": "(206) 987-2211",
+            "openingHours": {
+                "Tuesday": "11\u202fAM\u201310:30\u202fPM",
+                "Wednesday": "11\u202fAM\u201310:30\u202fPM",
+                "Thursday": "11\u202fAM\u201310:30\u202fPM",
+                "Friday": "11\u202fAM\u201310:30\u202fPM",
+                "Saturday": "11\u202fAM\u20138\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "11\u202fAM\u201310:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/mychart/OpenScheduling"
+            ],
+            "cid": "7680176765685520887",
+            "fid": "0x5490149d47813ea9:0x6a957813bae4d9f7",
+            "placeId": "ChIJqT6BR50UkFQR99nkuhN4lWo"
+        },
+        {
+            "position": 2,
+            "title": "Seattle Children's Hospital",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6628348,
+            "longitude": -122.28206329999999,
+            "rating": 4,
+            "ratingCount": 823,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/",
+            "phoneNumber": "(206) 987-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_o16i6xos7fIab4u2ffARTJcvcfTjB6uELK7kwCLFUnvp3vZeEPH3iq3przVtxWe2whnrdCbQH-adLLwGaY55s4ns1-NXBMuSQMUHfedxsZSLqT6Bx-WKk3Usq1CXxTjstGb2A",
+            "cid": "11535247879101277020",
+            "fid": "0x54901482d1758cad:0xa0156ed465e8e35c",
+            "placeId": "ChIJrYx10YIUkFQRXOPoZdRuFaA"
+        },
+        {
+            "position": 3,
+            "title": "Seattle Children\u2019s Urgent Care in Bellevue",
+            "address": "1500 116th Ave NE, Bellevue, WA 98004",
+            "latitude": 47.624273699999996,
+            "longitude": -122.18483769999999,
+            "rating": 2.8,
+            "ratingCount": 43,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/urgent-care-bellevue/",
+            "phoneNumber": "(206) 987-2211",
+            "openingHours": {
+                "Tuesday": "4\u201310:30\u202fPM",
+                "Wednesday": "4\u201310:30\u202fPM",
+                "Thursday": "4\u201310:30\u202fPM",
+                "Friday": "4\u201310:30\u202fPM",
+                "Saturday": "11\u202fAM\u20138\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "4\u201310:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/mychart/OpenScheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-_Q1ZRWDPTNYwlYrrDIzFOL-tX9CmBFtHCTkvA9E3x5mji2-8wiIstxZgsrvvc_3aqLH1zFxNx2EUogbZGl_Z4GFu2Ei6r-WQrrm4DpB0Duq7VNwI6yQhtLuL1bAMSHa9kVa9W",
+            "cid": "7198030361462710055",
+            "fid": "0x54906d88a5fb71ab:0x63e48a7a19761f27",
+            "placeId": "ChIJq3H7pYhtkFQRJx92GXqK5GM"
+        },
+        {
+            "position": 4,
+            "title": "Seattle Children's South Clinic in Federal Way",
+            "address": "34920 Enchanted Pkwy S, Federal Way, WA 98003",
+            "latitude": 47.2887826,
+            "longitude": -122.31185049999999,
+            "rating": 3.8,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthopedic surgeon",
+                "Pediatric cardiologist",
+                "Pediatric dermatologist",
+                "Pediatric gastroenterologist",
+                "Pediatric neurologist",
+                "Pediatric urologist",
+                "Psychiatrist",
+                "Radiologist",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/south-clinic/",
+            "phoneNumber": "(253) 838-5878",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/mychart/OpenScheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHivUAVjEOYUHcNBn8ph-1lN4LKTkW00oaUtbk",
+            "cid": "8207355000312286706",
+            "fid": "0x549057b7165e2a49:0x71e661e36b23cdf2",
+            "placeId": "ChIJSSpeFrdXkFQR8s0ja-Nh5nE"
+        },
+        {
+            "position": 5,
+            "title": "Seattle Children's Urgent Care in Everett",
+            "address": "1815 13th St, Everett, WA 98201",
+            "latitude": 48.001622,
+            "longitude": -122.2039315,
+            "rating": 3,
+            "ratingCount": 22,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/urgent-care-everett/",
+            "phoneNumber": "(206) 987-2211",
+            "openingHours": {
+                "Tuesday": "4\u201310:30\u202fPM",
+                "Wednesday": "4\u201310:30\u202fPM",
+                "Thursday": "4\u201310:30\u202fPM",
+                "Friday": "4\u201310:30\u202fPM",
+                "Saturday": "11\u202fAM\u20138\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "4\u201310:30\u202fPM"
+            },
+            "cid": "4033011245982715637",
+            "fid": "0x549aab91252eed07:0x37f8225c43f48ef5",
+            "placeId": "ChIJB-0uJZGrmlQR9Y70Q1wi-Dc"
+        },
+        {
+            "position": 6,
+            "title": "Seattle Children's Federal Way Urgent Care",
+            "address": "Urgent Care Entrance, 34920 Enchanted Pkwy S, Federal Way, WA 98003",
+            "latitude": 47.2889773,
+            "longitude": -122.31173489999999,
+            "rating": 3.6,
+            "ratingCount": 7,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/urgent-care-federal-way/",
+            "phoneNumber": "(206) 987-2211",
+            "openingHours": {
+                "Tuesday": "4\u201310:30\u202fPM",
+                "Wednesday": "4\u201310:30\u202fPM",
+                "Thursday": "4\u201310:30\u202fPM",
+                "Friday": "4\u201310:30\u202fPM",
+                "Saturday": "11\u202fAM\u20138\u202fPM",
+                "Sunday": "11\u202fAM\u20138\u202fPM",
+                "Monday": "4\u201310:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAraqcZ00Rqrd1e7VHjfaXmO7bPa4qlKGqvO0U",
+            "cid": "14589756736043787068",
+            "fid": "0x549057e56c6fdcc3:0xca793a739b40a33c",
+            "placeId": "ChIJw9xvbOVXkFQRPKNAm3M6eco"
+        },
+        {
+            "position": 7,
+            "title": "Seattle Children\u2019s Bellevue Clinic and Surgery Center",
+            "address": "1500 116th Ave NE, Bellevue, WA 98004",
+            "latitude": 47.6241552,
+            "longitude": -122.18475439999999,
+            "rating": 4,
+            "ratingCount": 111,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pediatric cardiologist",
+                "Pediatric dermatologist",
+                "Pediatric endocrinologist",
+                "Pediatric gastroenterologist",
+                "Pediatric neurologist",
+                "Pediatric surgeon",
+                "Pediatric urologist",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/bellevue-clinic/",
+            "phoneNumber": "(425) 454-4644",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.seattlechildrens.org/mychart/OpenScheduling"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-c_xnNxmSMPl9Kxc4d7yhDngN5nL7wMnBI-vxsPklyraKWtduYVjhG8aXfiOBRdXVSkQpLDOc1ZthzHvnampQl9KahJiERH8VYLwunKqu9WyBLUaWJEhMBI1qA2mZZPyfakWU",
+            "cid": "16203637590220886442",
+            "fid": "0x54906cf3cfa747e5:0xe0dee289aa4851aa",
+            "placeId": "ChIJ5Uenz_NskFQRqlFIqoni3uA"
+        },
+        {
+            "position": 8,
+            "title": "Seattle Children's Hospital Emergency Department",
+            "address": "4500 40th Ave NE, Seattle, WA 98105",
+            "latitude": 47.662231,
+            "longitude": -122.2840329,
+            "rating": 2.9,
+            "ratingCount": 92,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/emergency-department/",
+            "phoneNumber": "(206) 987-8811",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_RBf56UWbdZp85R5S0glV_NfKYQ_qoVeoCianrOVeR6A8NMVHrhp362SC3jW2YUhEVe3ZVtM-vQvvQjyvtqGRMoh1hYOsu9JgU4lYwtdKl82Qxhlb7EoOKNPNQHHvtsJmpi4QM",
+            "cid": "14938125327946534466",
+            "fid": "0x5490149d3375d96f:0xcf4ee1d71684ce42",
+            "placeId": "ChIJb9l1M50UkFQRQs6EFtfhTs8"
+        },
+        {
+            "position": 9,
+            "title": "Seattle Children's North Clinic in Everett",
+            "address": "1815 13th St, Everett, WA 98201",
+            "latitude": 48.001632,
+            "longitude": -122.20387769999999,
+            "rating": 3.6,
+            "ratingCount": 70,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthopedic surgeon",
+                "Pediatric cardiologist",
+                "Pediatric dermatologist",
+                "Pediatric gastroenterologist",
+                "Pediatric neurologist",
+                "Pediatric ophthalmologist",
+                "Pediatric urologist",
+                "Sports medicine physician",
+                "Urgent care center"
+            ],
+            "website": "https://www.seattlechildrens.org/locations/north-clinic/",
+            "phoneNumber": "(425) 783-6200",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_MUULcA1nsR7hYSC6s9WpDG5RDnAIcvUjmSXog4hsuzEVh9vtEdcJAFubvxcYtglzPq5d64dSTaGiBF5WVQf3nO7I6sF5U5MmCjornmug1P81YSKMIoDrTJX47lSq0VRvsCVluIQ",
+            "cid": "12296251386503031963",
+            "fid": "0x549aabc998d12e75:0xaaa50f7cd96aec9b",
+            "placeId": "ChIJdS7RmMmrmlQRm-xq2XwPpao"
+        },
+        {
+            "position": 10,
+            "title": "Seattle Children's Home Care Services",
+            "address": "2525 220th St SE, Bothell, WA 98021",
+            "latitude": 47.800041099999994,
+            "longitude": -122.199185,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/home-care-services/?utm_campaign=gmb&utm_medium=organic&utm_source=google&utm_term=services-home-care",
+            "phoneNumber": "(425) 482-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-l42197xvGd5BQh2q3_ZJ7mVIJjHqjc3hvvl0KbmdBV3huqD0a2xO4ys8-4QZhb1fwm0RBNyMdgf0fak0My6KDHCvwYg4HacDzJluyDqbjiwQUDevvpLWhbjFMwbYCjaAjqn0wpA",
+            "cid": "13450956659997061698",
+            "fid": "0x54900f10c24c68cf:0xbaab65d0e84cb242",
+            "placeId": "ChIJz2hMwhAPkFQRQrJM6NBlq7o"
+        },
+        {
+            "position": 11,
+            "title": "Pediatric Care Center at UW Medical Center - Roosevelt",
+            "address": "4245 Roosevelt Way NE, Seattle, WA 98105",
+            "latitude": 47.658831199999995,
+            "longitude": -122.3179059,
+            "rating": 3.5,
+            "ratingCount": 22,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.uwmedicine.org/locations/pediatric-care-center-uwmc-roosevelt?utm_source=gmb&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNTYxNjY0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 598-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uwmedicine.org/locations/pediatric-care-center-uwmc-roosevelt?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks&y_source=1_MTAwNTYxNjY0Mi03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBpr_NpLKDKdGXGXGj8rav3-zn4zV8M06I6lcR",
+            "cid": "7685602958634786777",
+            "fid": "0x410879f709118817:0x6aa8bf2bba1e1fd9",
+            "placeId": "ChIJF4gRCfd5CEER2R8euiu_qGo"
+        },
+        {
+            "position": 12,
+            "title": "Seattle Children\u2019s Psychiatric Urgent Care Clinic",
+            "address": "6901 Sand Point Way NE, Seattle, WA 98115",
+            "latitude": 47.6783997,
+            "longitude": -122.26425789999999,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/psychiatry-and-behavioral-medicine/psychiatric-urgent-care/",
+            "phoneNumber": "(206) 987-2164",
+            "openingHours": {
+                "Tuesday": "12\u20138\u202fPM",
+                "Wednesday": "12\u20138\u202fPM",
+                "Thursday": "12\u20138\u202fPM",
+                "Friday": "12\u20138\u202fPM",
+                "Saturday": "12\u20138\u202fPM",
+                "Sunday": "12\u20138\u202fPM",
+                "Monday": "12\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ItInOvGn25_gngtuABXGlA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=90.76367&pitch=0&thumbfov=100",
+            "cid": "15508682906174837923",
+            "fid": "0x54901346a51bcc79:0xd739e8ef44b954a3",
+            "placeId": "ChIJecwbpUYTkFQRo1S5RO_oOdc"
+        },
+        {
+            "position": 13,
+            "title": "Seattle Children's Odessa Brown Children's Clinic Othello",
+            "address": "3939 S Othello St Suite 101, Seattle, WA 98118",
+            "latitude": 47.536895,
+            "longitude": -122.2816639,
+            "rating": 3.9,
+            "ratingCount": 27,
+            "type": "Child health care centre",
+            "types": [
+                "Child health care centre",
+                "Pediatric dentist",
+                "Psychiatrist",
+                "Sports medicine physician"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/odessa-brown/othello-contact-location/",
+            "phoneNumber": "(206) 987-7210",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOOlmsrAqjYgGyfyeay0Ctno_l2O3DdMXldoPKW",
+            "cid": "17625203315763095872",
+            "fid": "0x54904354c9228f2d:0xf4994d088a18a940",
+            "placeId": "ChIJLY8iyVRDkFQRQKkYighNmfQ"
+        },
+        {
+            "position": 14,
+            "title": "Seattle Children\u2019s Orthopedic Injury Urgent Care",
+            "address": "4800 Sand Point Way NE, Seattle, WA 98105",
+            "latitude": 47.6623421,
+            "longitude": -122.2830666,
+            "type": "Pediatric orthopedic surgeon",
+            "types": [
+                "Pediatric orthopedic surgeon"
+            ],
+            "website": "https://www.seattlechildrens.org/clinics/orthopedics/orthopedic-injury-urgent-care/?utm_campaign=google-my-business&utm_source=google&utm_medium=search&utm_content=location-listings&lang=english",
+            "phoneNumber": "(206) 987-2109",
+            "openingHours": {
+                "Tuesday": "5\u20139\u202fPM",
+                "Wednesday": "5\u20139\u202fPM",
+                "Thursday": "5\u20139\u202fPM",
+                "Friday": "5\u20139\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "5\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5SNmTVRzvaLizBeNpzShuRCDJSocRMFqKUqLm",
+            "cid": "2338706547271199353",
+            "fid": "0x5490151d90d8989b:0x2074c136b7faea79",
+            "placeId": "ChIJm5jYkB0VkFQReer6tzbBdCA"
+        }
+    ],
+    "credits": 3
+}

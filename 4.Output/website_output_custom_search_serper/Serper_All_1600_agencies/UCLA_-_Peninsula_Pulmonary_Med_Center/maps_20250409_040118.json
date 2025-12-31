@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "UCLA - Peninsula Pulmonary Med Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8118235,-118.3493506,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Peninsula Pulmonary Med Center",
+            "address": "3701 Skypark Dr # 200, Torrance, CA 90505",
+            "latitude": 33.8118755,
+            "longitude": -118.349356,
+            "type": "Pulmonologist",
+            "types": [
+                "Pulmonologist",
+                "Intensivist",
+                "Internist"
+            ],
+            "phoneNumber": "(310) 378-8900",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtK0Kn6UfJLHumKU1tPUDh2pwsN3M3glv5Wks4",
+            "cid": "7938082932634292217",
+            "fid": "0x80dd4b1e869759a9:0x6e29bc5e95420ff9",
+            "placeId": "ChIJqVmXhh5L3YAR-Q9ClV68KW4"
+        },
+        {
+            "position": 2,
+            "title": "UCLA Health Torrance Peninsula",
+            "address": "3701 Skypark Dr # 200, Torrance, CA 90505",
+            "latitude": 33.8117715,
+            "longitude": -118.34934519999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "phoneNumber": "(310) 378-8900",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/new-patient-appointment-request?utm_campaign=torrancepeninsula&utm_source=google&utm_medium=kp"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sS1Bl8XgoOI2gxmgaaZIxA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=257.6289&pitch=0&thumbfov=100",
+            "cid": "16583013792740293251",
+            "fid": "0x80dd4b1e896fffff:0xe622b32f15b03a83",
+            "placeId": "ChIJ__9viR5L3YARgzqwFS-zIuY"
+        }
+    ],
+    "credits": 3
+}

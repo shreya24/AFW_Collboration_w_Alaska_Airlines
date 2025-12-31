@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "International Craniofacial Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9126714,-96.7744115,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "International Craniofacial Institute",
+            "address": "7777 Forest Ln Suite C-528, Dallas, TX 75230",
+            "latitude": 32.9126714,
+            "longitude": -96.7744115,
+            "rating": 4.9,
+            "ratingCount": 123,
+            "type": "Plastic surgery clinic",
+            "types": [
+                "Plastic surgery clinic",
+                "Doctor",
+                "Speech pathologist"
+            ],
+            "website": "http://www.craniofacial.net/",
+            "phoneNumber": "(972) 331-1900",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNnUthlxTHqUVsivVlkUakw0LD_PZtiBJ-pFK9l",
+            "cid": "9929512887340722532",
+            "fid": "0x864c20139f8efe45:0x89ccb75cba9b6964",
+            "placeId": "ChIJRf6OnxMgTIYRZGmbuly3zIk"
+        }
+    ],
+    "credits": 3
+}

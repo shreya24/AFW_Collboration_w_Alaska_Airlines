@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence VNA Home Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6662812,-117.2823838,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence VNA Home Health",
+            "address": "1000 N Argonne Rd, Spokane Valley, WA 99212",
+            "latitude": 47.6662812,
+            "longitude": -117.28238379999999,
+            "rating": 3.4,
+            "ratingCount": 17,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/vna-home-health-spokane-valley?ls=location&y_source=1_OTU3Njk5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 534-4300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4jDWBfJPQ4UWWyDuWjFGjWfaQzeDL7NeyHgL1",
+            "cid": "3197864843852534109",
+            "fid": "0x549e18967d930ffb:0x2c611921e98a515d",
+            "placeId": "ChIJ-w-TfZYYnlQRXVGK6SEZYSw"
+        }
+    ],
+    "credits": 3
+}

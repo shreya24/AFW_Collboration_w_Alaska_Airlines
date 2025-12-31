@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Humboldt Medical Eye Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7852393,-124.1399311,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Humboldt Medical Eye Associates",
+            "address": "2434 Harrison Ave, Eureka, CA 95501",
+            "latitude": 40.7852393,
+            "longitude": -124.1399311,
+            "rating": 3.9,
+            "ratingCount": 39,
+            "type": "Ophthalmology clinic",
+            "types": [
+                "Ophthalmology clinic",
+                "Optician",
+                "Optometrist"
+            ],
+            "website": "http://humboldteye.com/",
+            "phoneNumber": "(707) 443-5685",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOqZzh4Q-BRjMuHDJY3LT7lWowsy5kSY5zJmFGh",
+            "cid": "10072712665080406047",
+            "fid": "0x54d3ffb784db27a1:0x8bc976cd26b2201f",
+            "placeId": "ChIJoSfbhLf_01QRHyCyJs12yYs"
+        }
+    ],
+    "credits": 3
+}

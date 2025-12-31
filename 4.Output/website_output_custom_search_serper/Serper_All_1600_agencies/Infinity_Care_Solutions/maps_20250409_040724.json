@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Infinity Care Solutions",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3421988,-94.1939939,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Infinity Care Solutions",
+            "address": "1204 SE 28th St #2, Bentonville, AR 72712",
+            "latitude": 36.3421988,
+            "longitude": -94.1939939,
+            "rating": 3.8,
+            "ratingCount": 21,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy",
+                "Pharmaceutical company"
+            ],
+            "website": "http://www.icsrx.com/",
+            "phoneNumber": "(888) 414-5805",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNNyAN4aNgsBzzxaHF_sY46evoRMbsl1lnZFGo5",
+            "cid": "5580821934757816045",
+            "fid": "0x87c96b930127fcf1:0x4d730ffb2ff2a6ed",
+            "placeId": "ChIJ8fwnAZNryYcR7abyL_sPc00"
+        }
+    ],
+    "credits": 3
+}

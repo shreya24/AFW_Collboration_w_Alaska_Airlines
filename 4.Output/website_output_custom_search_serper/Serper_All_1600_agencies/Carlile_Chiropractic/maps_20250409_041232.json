@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Carlile Chiropractic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8393212,-147.7177878,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Carlile Chiropractic",
+            "address": "534 10th Ave, Fairbanks, AK 99701",
+            "latitude": 64.8393212,
+            "longitude": -147.7177878,
+            "rating": 3.4,
+            "ratingCount": 11,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Massage therapist",
+                "Pain management physician",
+                "Physical therapist",
+                "Physical therapy clinic"
+            ],
+            "phoneNumber": "(907) 374-9331",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_KMnxwyyyR7AkEZb4oJ1XA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=344.14374&pitch=0&thumbfov=100",
+            "cid": "4236786786463995547",
+            "fid": "0x51324539957b5d0f:0x3acc17228441569b",
+            "placeId": "ChIJD117lTlFMlERm1ZBhCIXzDo"
+        }
+    ],
+    "credits": 3
+}

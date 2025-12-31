@@ -1,0 +1,116 @@
+{
+    "searchParameters": {
+        "q": "Trinity community health clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0680202,-101.5953431,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Trinity Community Health Clinic",
+            "address": "31 Easter Ave, Weaverville, CA 96093",
+            "latitude": 40.737815999999995,
+            "longitude": -122.93980789999999,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.mcmedical.org/trinity-health-clinic/",
+            "phoneNumber": "(530) 623-4186",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-z5G_17IyVJtbsVYSVf3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=7.479796&pitch=0&thumbfov=100",
+            "cid": "9202538436017943307",
+            "fid": "0x54d251f81a6a40eb:0x7fb5fbf34eba730b",
+            "placeId": "ChIJ60BqGvhR0lQRC3O6TvP7tX8"
+        },
+        {
+            "position": 2,
+            "title": "TRINITY COMMUNITY HEALTH CENTER, LLC",
+            "address": "3156 S University Dr, Miramar, FL 33025",
+            "latitude": 25.9800413,
+            "longitude": -80.24891939999999,
+            "rating": 4.6,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Mental health clinic"
+            ],
+            "phoneNumber": "(754) 217-3929",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20138:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "9\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjVZ0Dnfg73W5LjsEXlnSNnG5aiEwmtFgF4-nx",
+            "cid": "10565898251977758302",
+            "fid": "0x88d9af52a503731d:0x92a19c7aca0e165e",
+            "placeId": "ChIJHXMDpVKv2YgRXhYOynqcoZI"
+        },
+        {
+            "position": 3,
+            "title": "Trinity Health Western Dakota",
+            "address": "1321 W Dakota Pkwy, Williston, ND 58801",
+            "latitude": 48.1559992,
+            "longitude": -103.6509773,
+            "rating": 3.5,
+            "ratingCount": 107,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.trinityhealth.org/locations/trinity-health-western-dakota/",
+            "phoneNumber": "(701) 572-7711",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-im008xLb4GE6gTfI9j3aBmbPXOS2EMZjF_mAgyYh78dub7pG4JrV9b3d5gWuB-yH1G1qfak_driNAv4WafdopFflYXAnsaHQepBGbunHWJTptqZjGkUAZWwqUSQ2JbxL58rY",
+            "cid": "7580712267625471047",
+            "fid": "0x53215ca1f4361b1f:0x693419a4a0431c47",
+            "placeId": "ChIJHxs29KFcIVMRRxxDoKQZNGk"
+        },
+        {
+            "position": 4,
+            "title": "Trinity Community Health Clinic",
+            "address": "410 Taylor St, Weaverville, CA 96093",
+            "latitude": 40.7408473,
+            "longitude": -122.94176689999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.mcmedical.org/",
+            "phoneNumber": "(530) 623-4186",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1epQ3klhQuFMsAXitTrNIA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=96.50259&pitch=0&thumbfov=100",
+            "cid": "4291626974555729386",
+            "fid": "0x54d251f8be9fce23:0x3b8eebfecee0edea",
+            "placeId": "ChIJI86fvvhR0lQR6u3gzv7rjjs"
+        }
+    ],
+    "credits": 3
+}

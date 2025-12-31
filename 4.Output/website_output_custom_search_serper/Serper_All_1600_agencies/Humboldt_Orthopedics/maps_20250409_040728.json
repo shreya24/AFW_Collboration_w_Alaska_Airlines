@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Humboldt Orthopedics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7797117,-124.1355504,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Medical Group Eureka - Orthopedics",
+            "address": "2826 Harris St, Eureka, CA 95503",
+            "latitude": 40.7797117,
+            "longitude": -124.1355504,
+            "rating": 3.4,
+            "ratingCount": 20,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "https://www.providence.org/locations/norcal/eureka-orthopedics?ls=location&y_source=1_OTU3NTc1NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(707) 443-8066",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/norcal/eureka-orthopedics?y_source=1_OTU3NTc1NC03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs#Providers"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPl4FPAgARVqanAEPe8X9qiWmE4bSOOGt8Au4De",
+            "cid": "14688094337388084010",
+            "fid": "0x54d3ffbac85e4aff:0xcbd697fa9f717b2a",
+            "placeId": "ChIJ_0peyLr_01QRKntxn_qX1ss"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,122 @@
+{
+    "searchParameters": {
+        "q": "Patient's Hospital website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Patients & Families - the University Health Network",
+            "link": "https://www.uhn.ca/PatientsFamilies",
+            "snippet": "Welcome to UHN!Find out everything you need to know about visiting UHN as a patient or a family member.",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 1
+        },
+        {
+            "title": "St. Michael's Hospital - Unity Health Toronto",
+            "link": "https://unityhealth.to/locations/st-michaels-hospital/",
+            "snippet": "St. Michael's is a level 1 trauma centre and provincial hub for neurosurgery, complex cardiac and cardiovascular care and more.",
+            "position": 2
+        },
+        {
+            "title": "Toronto General Hospital - the University Health Network",
+            "link": "https://www.uhn.ca/OurHospitals/TGH",
+            "snippet": "Toronto General Hospital (TGH) is leading the way in cardiac care, organ transplants and the treatment of complex patient needs.",
+            "sitelinks": [
+                {
+                    "title": "The Peter Munk Cardiac Centre",
+                    "link": "https://www.uhn.ca/PMCC"
+                },
+                {
+                    "title": "Surgery and Critical Care",
+                    "link": "https://www.uhn.ca/Surgery"
+                },
+                {
+                    "title": "Maps & Directions",
+                    "link": "https://www.uhn.ca/corporate/Directions/Pages/directions_TGH.aspx"
+                }
+            ],
+            "position": 3
+        },
+        {
+            "title": "Unity Health Toronto",
+            "link": "https://unityhealth.to/",
+            "snippet": "Getting Care. Find a Department or Clinic \u00b7 MyChart patient portal. Visiting a Patient. Visitor Information \u00b7 Send Best Wishes. Get Involved. Careers at Unity ...",
+            "sitelinks": [
+                {
+                    "title": "St. Michael\u2019s Hospital",
+                    "link": "https://unityhealth.to/locations/st-michaels-hospital/"
+                },
+                {
+                    "title": "For Staff",
+                    "link": "https://unityhealth.to/get-involved/for-staff/"
+                },
+                {
+                    "title": "Employment Opportunities",
+                    "link": "https://unityhealth.to/get-involved/work-at-unity-health/employment-opportunities/"
+                },
+                {
+                    "title": "The Unity Experience",
+                    "link": "https://unityhealth.to/get-involved/the-unity-experience/"
+                }
+            ],
+            "position": 4
+        },
+        {
+            "title": "Mount Sinai Hospital",
+            "link": "https://www.sinaihealth.ca/our-hospitals/mount-sinai-hospital",
+            "snippet": "We provide a wide variety of care options across Sinai Health, including emergency, obstetrics and cancer care, as well as rehabilitation. ... Select an area of ...",
+            "sitelinks": [
+                {
+                    "title": "Contact us",
+                    "link": "https://www.sinaihealth.ca/about/contact-sinai-health"
+                },
+                {
+                    "title": "Careers",
+                    "link": "https://www.sinaihealth.ca/careers-at-sinai-health"
+                },
+                {
+                    "title": "For Staff",
+                    "link": "https://www.sinaihealth.ca/for-staff"
+                },
+                {
+                    "title": "Find a Clinic or Service",
+                    "link": "https://www.sinaihealth.ca/find-a-clinic-or-service"
+                }
+            ],
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "How to find a patient in a hospital online"
+        },
+        {
+            "query": "St Michael's Hospital Patient information"
+        },
+        {
+            "query": "St Michael's Hospital Departments"
+        },
+        {
+            "query": "St Michael's Hospital directory"
+        },
+        {
+            "query": "Toronto General hospital Patient Inquiry"
+        },
+        {
+            "query": "Toronto General Hospital directory"
+        },
+        {
+            "query": "St Michael Hospital address"
+        },
+        {
+            "query": "St Michael's Hospital directions"
+        }
+    ],
+    "credits": 1
+}

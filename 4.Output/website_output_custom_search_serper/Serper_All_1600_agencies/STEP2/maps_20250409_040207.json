@@ -1,0 +1,53 @@
+{
+    "searchParameters": {
+        "q": "STEP2",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.1649221,-152.1302427,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Step2",
+            "address": "1 Chome-86-2 Fukadacho, Toyota, Aichi 471-0841, Japan",
+            "latitude": 35.067972999999995,
+            "longitude": 137.1254397,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_gQAXt1ExZzQU3W8tcLs2Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=143.90613&pitch=0&thumbfov=100",
+            "cid": "120745740767214847",
+            "fid": "0x60049f921777ac23:0x1acf99c8a923cff",
+            "placeId": "ChIJI6x3F5KfBGAR_zySipz5rAE"
+        },
+        {
+            "position": 2,
+            "title": "The Step2 Company, LLC.",
+            "address": "10010 Aurora Hudson Rd, Streetsboro, OH 44241",
+            "latitude": 41.261871299999996,
+            "longitude": -81.3859252,
+            "rating": 3.2,
+            "ratingCount": 69,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office",
+                "Toy manufacturer"
+            ],
+            "website": "http://www.step2.com/",
+            "phoneNumber": "(330) 656-0440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZ8o1O_AA63Jac97dLUUJb9HcpbATz3o7JYQEa",
+            "cid": "10481505027702709959",
+            "fid": "0x8831228a00ed8959:0x9175c94a0fb0dec7",
+            "placeId": "ChIJWYntAIoiMYgRx96wD0rJdZE"
+        }
+    ],
+    "credits": 3
+}

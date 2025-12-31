@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "Yukon Kuskokain Health Cooperation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.9806094,-155.8434301,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yukon Kuskokwim Health Corporation",
+            "address": "4700 Business Park Blvd #25, Anchorage, AK 99503",
+            "latitude": 61.178154799999994,
+            "longitude": -149.88941359999998,
+            "rating": 4,
+            "ratingCount": 6,
+            "type": "Travel agency",
+            "types": [
+                "Travel agency"
+            ],
+            "website": "http://www.ykhc.org/",
+            "phoneNumber": "(907) 543-6000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gen49DBabEebCum8MilR3g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=236.61142&pitch=0&thumbfov=100",
+            "cid": "15126867711867577972",
+            "fid": "0x56c8979496e4aee1:0xd1ed6e09d2316674",
+            "placeId": "ChIJ4a7klpSXyFYRdGYx0glu7dE"
+        },
+        {
+            "position": 2,
+            "title": "Yukon Kuskokwim Health Corporation",
+            "address": "185 Hoffman Rd, Bethel, AK 99559",
+            "latitude": 60.783063999999996,
+            "longitude": -161.7974466,
+            "rating": 3,
+            "ratingCount": 6,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre"
+            ],
+            "website": "https://www.ykhc.org/",
+            "phoneNumber": "(907) 543-6300",
+            "cid": "11025415880733654640",
+            "fid": "0x572054d1abca6dcd:0x9902255410147e70",
+            "placeId": "ChIJzW3Kq9FUIFcRcH4UEFQlApk"
+        }
+    ],
+    "credits": 3
+}

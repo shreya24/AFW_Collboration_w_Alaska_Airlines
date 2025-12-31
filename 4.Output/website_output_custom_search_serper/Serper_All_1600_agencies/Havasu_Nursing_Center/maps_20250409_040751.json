@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Havasu Nursing Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4544208,-114.2652862,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Havasu Nursing Center",
+            "address": "3576 Kearsage Dr, Lake Havasu City, AZ 86406",
+            "latitude": 34.4544208,
+            "longitude": -114.26528619999999,
+            "rating": 3,
+            "ratingCount": 18,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Assisted living facility"
+            ],
+            "website": "http://havasunursingcenter.com/",
+            "phoneNumber": "(928) 453-1500",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMsyBFCfefgeph-pO23gg8ksFG-DHsKWMWIjmSP",
+            "cid": "2162671747476017092",
+            "fid": "0x80d1f33828963c31:0x1e035a7efa14cfc4",
+            "placeId": "ChIJMTyWKDjz0YARxM8U-n5aAx4"
+        }
+    ],
+    "credits": 3
+}

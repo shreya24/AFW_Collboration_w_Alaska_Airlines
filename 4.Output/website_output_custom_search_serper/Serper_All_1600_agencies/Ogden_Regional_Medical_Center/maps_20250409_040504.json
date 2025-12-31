@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Ogden Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1643534,-111.9689702,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ogden Regional Medical Center",
+            "address": "5475 S 500 E, Ogden, UT 84405",
+            "latitude": 41.164353399999996,
+            "longitude": -111.9689702,
+            "rating": 4.4,
+            "ratingCount": 3269,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.mountainstar.com/locations/ogden-regional-medical-center?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(801) 479-2111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc5UJBKPEhpnwfUbu47IhMQOD9e9uioB5mmhgP",
+            "cid": "10955457632181209241",
+            "fid": "0x875305e96c1e4e6d:0x98099aac0600c899",
+            "placeId": "ChIJbU4ebOkFU4cRmcgABqyaCZg"
+        }
+    ],
+    "credits": 3
+}

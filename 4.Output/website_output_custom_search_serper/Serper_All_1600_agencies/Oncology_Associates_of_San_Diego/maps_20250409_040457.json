@@ -1,0 +1,121 @@
+{
+    "searchParameters": {
+        "q": "Oncology Associates of San Diego",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.7760127,-117.108943,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oncology Associates - San Diego",
+            "address": "3075 Health Center Dr # 102, San Diego, CA 92123",
+            "latitude": 32.7982246,
+            "longitude": -117.1548758,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.oncologysandiego.com/",
+            "phoneNumber": "(858) 637-7888",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "2872707453964397208",
+            "fid": "0x80d9555f4e83bb51:0x27dde835892a2a98",
+            "placeId": "ChIJUbuDTl9V2YARmCoqiTXo3Sc"
+        },
+        {
+            "position": 2,
+            "title": "San Diego Oncology Medical Clinic",
+            "address": "7930 Frost St #405, San Diego, CA 92123",
+            "latitude": 32.8008089,
+            "longitude": -117.1532561,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist"
+            ],
+            "website": "http://www.sandiegooncology.com/",
+            "phoneNumber": "(858) 571-2811",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0b81VWgmmTn_0wGR0o9oQg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.24722&pitch=0&thumbfov=100",
+            "cid": "4959605639610335936",
+            "fid": "0x80dbffe1d3805a61:0x44d40f0d56ff82c0",
+            "placeId": "ChIJYVqA0-H_24ARwIL_Vg0P1EQ"
+        },
+        {
+            "position": 3,
+            "title": "Oncology Associates of San Diego",
+            "address": "5555 Reservoir Dr #306, San Diego, CA 92120",
+            "latitude": 32.7761679,
+            "longitude": -117.0560086,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://oncologysandiego.com/",
+            "phoneNumber": "(619) 287-9910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KpWe4a2yQ4H7DIxj4X6fVA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=22.702324&pitch=0&thumbfov=100",
+            "cid": "6257993337270400732",
+            "fid": "0x80d957f71476a801:0x56d8dbc8b2c376dc",
+            "placeId": "ChIJAah2FPdX2YAR3HbDssjb2FY"
+        },
+        {
+            "position": 4,
+            "title": "Oncology Associates of San Diego",
+            "address": "4060 Fourth Ave #440, San Diego, CA 92103",
+            "latitude": 32.7512165,
+            "longitude": -117.16187749999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://oncologysandiego.com/",
+            "phoneNumber": "(619) 582-7888",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YkiEWyYFVuqe7PJGxrhkmA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=273.4025&pitch=0&thumbfov=100",
+            "cid": "9085037657225163391",
+            "fid": "0x80d955a07744f0f3:0x7e14899d59f3f27f",
+            "placeId": "ChIJ8_BEd6BV2YARf_LzWZ2JFH4"
+        }
+    ],
+    "credits": 3
+}

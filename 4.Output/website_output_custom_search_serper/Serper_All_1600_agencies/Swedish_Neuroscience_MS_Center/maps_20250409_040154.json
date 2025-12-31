@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Swedish Neuroscience MS Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6064789,-122.3111299,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Multiple Sclerosis Center - Seattle",
+            "address": "1600 E Jefferson St A Level, Seattle, WA 98122",
+            "latitude": 47.6064789,
+            "longitude": -122.3111299,
+            "rating": 4.5,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Physical therapy clinic"
+            ],
+            "website": "https://www.swedish.org/locations/cherry-hill-campus/multiple-sclerosis-center?Is=location&y_source=1_OTU3NjgyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 320-2200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPM3iBeC9i0OATK1-k97m45UF59KLq2D4XG7oLf",
+            "cid": "7592817875084174726",
+            "fid": "0x54906ac431bdc393:0x695f1ba100a0e586",
+            "placeId": "ChIJk8O9McRqkFQRhuWgAKEbX2k"
+        }
+    ],
+    "credits": 3
+}

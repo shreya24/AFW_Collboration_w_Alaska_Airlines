@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Alii Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.5732675,-155.9629231,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alii Health Center",
+            "address": "78-6831 Ali\u2018i Dr # 422, Kailua-Kona, HI 96740",
+            "latitude": 19.5732675,
+            "longitude": -155.96292309999998,
+            "rating": 4.6,
+            "ratingCount": 436,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Women's health clinic",
+                "Orthopedic clinic",
+                "Urologist"
+            ],
+            "website": "http://www.aliihealthcenter.com/",
+            "phoneNumber": "(808) 747-8321",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-CkuYn_ynWiSX2rvNdgCgkIhonNWtKbHY08Q5sYpxs-5np8TVL4R2YZd0AU1JHsuar0MmR0v0RLqN0lL1MSZoSklcU68_AculV84BvLLSRj00dNUskcG3-rnR4ZhuoeEZWRqNsFg",
+            "cid": "18030492117451119984",
+            "fid": "0x795405e56dbe6da3:0xfa392d0d1a279d70",
+            "placeId": "ChIJo22-beUFVHkRcJ0nGg0tOfo"
+        }
+    ],
+    "credits": 3
+}

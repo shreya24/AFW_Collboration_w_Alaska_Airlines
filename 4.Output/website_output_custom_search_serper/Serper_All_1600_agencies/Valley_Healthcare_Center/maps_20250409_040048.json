@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Valley Healthcare Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.4661156,-100.704831,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Valley Healthcare Center",
+            "address": "1680 N Waterman Ave, San Bernardino, CA 92404",
+            "latitude": 34.1297081,
+            "longitude": -117.2797518,
+            "rating": 3.4,
+            "ratingCount": 68,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home"
+            ],
+            "website": "http://www.progressivecarecenters.com/san-bernardino/",
+            "phoneNumber": "(909) 886-5291",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCu_sDkbjtuThuxcFygs-Uwmi8peNF6qtS6noR",
+            "cid": "10810551392047075429",
+            "fid": "0x80c353700ee97b51:0x9606cb36dd121065",
+            "placeId": "ChIJUXvpDnBTw4ARZRAS3TbLBpY"
+        },
+        {
+            "position": 2,
+            "title": "Valley Healthcare Center",
+            "address": "4840 E Tulare Ave, Fresno, CA 93727",
+            "latitude": 36.7426525,
+            "longitude": -119.7344701,
+            "rating": 4.1,
+            "ratingCount": 11,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Hospice",
+                "Rehabilitation center",
+                "Retirement home"
+            ],
+            "website": "https://orchardpostacute.com/",
+            "phoneNumber": "(559) 251-7161",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nMvV3zu9YTXI43Xcvsi_-Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.70549&pitch=0&thumbfov=100",
+            "cid": "13277107249026207754",
+            "fid": "0x80945ef0f06b3913:0xb841c2b2a6f8900a",
+            "placeId": "ChIJEzlr8PBelIARCpD4prLCQbg"
+        },
+        {
+            "position": 3,
+            "title": "Valley Health Care Center",
+            "address": "940 E Lee Hwy St, Chilhowie, VA 24319",
+            "latitude": 36.802523,
+            "longitude": -81.675192,
+            "rating": 4.5,
+            "ratingCount": 113,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic",
+                "Nursing home"
+            ],
+            "website": "https://valleyrehabhc.com/",
+            "phoneNumber": "(276) 646-8911",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20138\u202fPM",
+                "Sunday": "9\u202fAM\u20138\u202fPM",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFQXZ1rVRfKbs-yPsevKWbZq1hxCD6e9aiOnKt",
+            "cid": "15180188815339029246",
+            "fid": "0x8850306f42c48651:0xd2aadd4ca9a402fe",
+            "placeId": "ChIJUYbEQm8wUIgR_gKkqUzdqtI"
+        }
+    ],
+    "credits": 3
+}

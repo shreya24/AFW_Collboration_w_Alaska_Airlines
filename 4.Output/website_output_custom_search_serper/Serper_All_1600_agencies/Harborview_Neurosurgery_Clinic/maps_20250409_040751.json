@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Harborview Neurosurgery Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6052059,-122.3237065,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Medicine Neurological Surgery Clinic at Harborview",
+            "address": "Ninth & Jefferson Building, 908 Jefferson St, Seattle, WA 98104",
+            "latitude": 47.605205899999994,
+            "longitude": -122.3237065,
+            "rating": 4.7,
+            "ratingCount": 30,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Medical clinic"
+            ],
+            "website": "https://www.uwmedicine.org/locations/neurological-surgery-harborview?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNDcxNDg3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 520-5000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uwmedicine.org/locations/neurological-surgery-harborview?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN7jM5F34DlYn3zUjp9l41hSRtEktFgNUDA6VsZ",
+            "cid": "8714902621514908283",
+            "fid": "0x54906ab8269157ff:0x78f18dc2bf84427b",
+            "placeId": "ChIJ_1eRJrhqkFQRe0KEv8KN8Xg"
+        }
+    ],
+    "credits": 3
+}

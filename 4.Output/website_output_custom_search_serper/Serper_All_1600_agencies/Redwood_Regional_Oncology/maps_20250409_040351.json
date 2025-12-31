@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Redwood Regional Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4377714,-122.7610565,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Redwood Regional Medical Group",
+            "address": "652 Petaluma Ave Ste. B, Sebastopol, CA 95472",
+            "latitude": 38.3965665,
+            "longitude": -122.8202649,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Hematologist",
+                "Nurse practitioner",
+                "Oncologist",
+                "Radiologist"
+            ],
+            "website": "http://www.rrmg.com/",
+            "phoneNumber": "(707) 823-8565",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b-g4TzG7-FbqZyfKUyAjww&cb_client=search.gws-prod.gps&w=80&h=92&yaw=263.84506&pitch=0&thumbfov=100",
+            "cid": "4796145100761551234",
+            "fid": "0x808430a55a69cc13:0x428f548ede1f5182",
+            "placeId": "ChIJE8xpWqUwhIARglEf3o5Uj0I"
+        },
+        {
+            "position": 2,
+            "title": "Redwood Regional Oncology Center",
+            "address": "3555 Round Barn Cir, Santa Rosa, CA 95403",
+            "latitude": 38.4789763,
+            "longitude": -122.7297969,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "http://www.stjosephhealthmedicalgroup.com/",
+            "phoneNumber": "(707) 525-1150",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AyhyadjGH2g_a76E16GiuQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=317.29727&pitch=0&thumbfov=100",
+            "cid": "15839347193755234931",
+            "fid": "0x80843885d63024b1:0xdbd0aa5a2ddc7273",
+            "placeId": "ChIJsSQw1oU4hIARc3LcLVqq0Ns"
+        },
+        {
+            "position": 3,
+            "title": "Redwood Regional Oncology Center",
+            "address": "121 Sotoyome St # 101, Santa Rosa, CA 95405",
+            "latitude": 38.442163699999995,
+            "longitude": -122.7018482,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.rrmginc.com/",
+            "phoneNumber": "(707) 525-1150",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aP-ObK5DIpP9uuw2cfZouQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=299.86414&pitch=0&thumbfov=100",
+            "cid": "7528425075951432898",
+            "fid": "0x80844809e4d58d07:0x687a56b8223a74c2",
+            "placeId": "ChIJB43V5AlIhIARwnQ6IrhWemg"
+        }
+    ],
+    "credits": 3
+}

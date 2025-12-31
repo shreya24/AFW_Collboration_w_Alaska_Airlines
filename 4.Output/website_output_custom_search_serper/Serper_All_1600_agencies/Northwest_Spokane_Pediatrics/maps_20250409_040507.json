@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Northwest Spokane Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.7076768,-117.4063,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northwest Spokane Pediatrics",
+            "address": "220 E Rowan Ave Ste#150, Spokane, WA 99207",
+            "latitude": 47.707676799999994,
+            "longitude": -117.4063,
+            "rating": 4.5,
+            "ratingCount": 265,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner",
+                "Mental health service",
+                "Occupational therapist",
+                "Pediatrician",
+                "Speech pathologist"
+            ],
+            "website": "http://www.nwspkids.com/",
+            "phoneNumber": "(509) 483-4060",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.nwspkids.com/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNm_ev4dnoRuf29TzwezNMUqT3ro6OPIyd328PL",
+            "cid": "8605979353175700770",
+            "fid": "0x549e194c834cdaad:0x776e94a012623522",
+            "placeId": "ChIJrdpMg0wZnlQRIjViEqCUbnc"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,598 @@
+{
+    "searchParameters": {
+        "q": "Center for Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.9098536,-98.0030085,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Pediatric Center",
+            "address": "4745 Arapahoe Ave STE 310, Boulder, CO 80303",
+            "latitude": 40.0158523,
+            "longitude": -105.2367596,
+            "rating": 4.1,
+            "ratingCount": 29,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://thepediatriccenter.net/",
+            "phoneNumber": "(303) 442-2913",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "cid": "7010360301886610354",
+            "fid": "0x876bedef2df9fae3:0x6149cd8d55739bb2",
+            "placeId": "ChIJ4_r5Le_ta4cRsptzVY3NSWE"
+        },
+        {
+            "position": 2,
+            "title": "Colorado Center for Pediatric Learning and Development",
+            "address": "1958 Elm St, Denver, CO 80220",
+            "latitude": 39.7463372,
+            "longitude": -104.92951289999999,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "Physical therapist",
+                "Occupational therapist"
+            ],
+            "website": "http://www.ccpld.com/",
+            "phoneNumber": "(303) 333-4982",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=swadWljQ1ZLn3fsdktIEjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=98.01687&pitch=0&thumbfov=100",
+            "cid": "9244874311862046492",
+            "fid": "0x876c7bf87ac79fc5:0x804c643487abcf1c",
+            "placeId": "ChIJxZ_Hevh7bIcRHM-rhzRkTIA"
+        },
+        {
+            "position": 3,
+            "title": "Children's Medical Center",
+            "address": "1818 N Ogden St Unit 300, Denver, CO 80218",
+            "latitude": 39.7453819,
+            "longitude": -104.9740056,
+            "rating": 4.5,
+            "ratingCount": 71,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://cmcpediatrics.com/",
+            "phoneNumber": "(303) 830-7337",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://cmcpediatrics.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbv0MPdYYnGEgTupIoVG1z7Dlczc1mIO5eXZpK",
+            "cid": "2405984226536334260",
+            "fid": "0x876c7932f3844c1d:0x2163c5e815e423b4",
+            "placeId": "ChIJHUyE8zJ5bIcRtCPkFejFYyE"
+        },
+        {
+            "position": 4,
+            "title": "Denver Health Pediatric Primary Care at Webb Center for Primary Care",
+            "address": "301 W 6th Ave #3, Denver, CO 80203",
+            "latitude": 39.726331099999996,
+            "longitude": -104.9915235,
+            "rating": 4.7,
+            "ratingCount": 232,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.denverhealth.org/locations/denver/webb-center-for-primary-care",
+            "phoneNumber": "(303) 602-8340",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.denverhealth.org/locations/denver/webb-center-for-primary-care"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVwpgZaRdRz1NrQKWpADJew0My1q-_rP_pf5DP",
+            "cid": "14842186620571566472",
+            "fid": "0x876c7f25e100a79f:0xcdfa0a1819394188",
+            "placeId": "ChIJn6cA4SV_bIcRiEE5GRgK-s0"
+        },
+        {
+            "position": 5,
+            "title": "Rocky Mountain Health Centers Pediatrics, P.C.",
+            "address": "14001 E Iliff Ave #210, Aurora, CO 80014",
+            "latitude": 39.6760818,
+            "longitude": -104.826448,
+            "rating": 3.9,
+            "ratingCount": 102,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.rmhcpeds.com/",
+            "phoneNumber": "(303) 996-9601",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyzNjTa4mFA6VqOCpIqb1nplYeEdtvvmY47brh",
+            "cid": "2172455249940678288",
+            "fid": "0x876c881e5fdb360f:0x1e261c8a27258690",
+            "placeId": "ChIJDzbbXx6IbIcRkIYlJ4ocJh4"
+        },
+        {
+            "position": 6,
+            "title": "Children's Colorado Outpatient Care, Wheat Ridge",
+            "address": "3455 N Lutheran Pkwy Suite 230, Wheat Ridge, CO 80033",
+            "latitude": 39.7660373,
+            "longitude": -105.08962009999999,
+            "rating": 4.7,
+            "ratingCount": 102,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Pediatric cardiologist",
+                "Pediatric gastroenterologist",
+                "Pediatric pulmonologist"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/outpatient-urgent-care-wheat-ridge/",
+            "phoneNumber": "(720) 777-0436",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rDLHI9Uk41QDPy5fH_yAfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.40685&pitch=0&thumbfov=100",
+            "cid": "15243173717345612307",
+            "fid": "0x876b87f0b338da21:0xd38aa1bbeff4b213",
+            "placeId": "ChIJIdo4s_CHa4cRE7L077uhitM"
+        },
+        {
+            "position": 7,
+            "title": "Peak Vista Community Health Centers - Pediatric Health Center at International Circle",
+            "address": "2828 International Cir Suite 140, Colorado Springs, CO 80910",
+            "latitude": 38.8265373,
+            "longitude": -104.78792089999999,
+            "rating": 1.8,
+            "ratingCount": 33,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Doctor"
+            ],
+            "website": "https://www.peakvista.org/location/pediatric-health-center-international-circle-colorado-springs-co-80910",
+            "phoneNumber": "(719) 632-5700",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.peakvista.org/resources/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODmEHr-8kssDl_-X6gYuKecG3XuoXre4vAF48o",
+            "cid": "13779775472805660388",
+            "fid": "0x871345455a87906f:0xbf3b98c8bd38c6e4",
+            "placeId": "ChIJb5CHWkVFE4cR5MY4vciYO78"
+        },
+        {
+            "position": 8,
+            "title": "Pediatrics - Boulder Medical Center | Foothills",
+            "address": "4745 Arapahoe Ave STE 200, Boulder, CO 80303",
+            "latitude": 40.01582,
+            "longitude": -105.236718,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.bouldermedicalcenter.com/departments/pediatrics/",
+            "phoneNumber": "(303) 938-4750",
+            "cid": "2202906351278371435",
+            "fid": "0x876bedef2df9fae3:0x1e924ba7ad66326b",
+            "placeId": "ChIJ4_r5Le_ta4cRazJmradLkh4"
+        },
+        {
+            "position": 9,
+            "title": "Children's Colorado Outpatient Care at Briargate, Colorado Springs",
+            "address": "4125 Briargate Pkwy, Colorado Springs, CO 80920",
+            "latitude": 38.964380899999995,
+            "longitude": -104.7532789,
+            "rating": 4.6,
+            "ratingCount": 1189,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Pediatric cardiologist",
+                "Pediatric gastroenterologist",
+                "Pediatric pulmonologist"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/outpatient-care-briargate/",
+            "phoneNumber": "(719) 305-9000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.childrenscolorado.org/appointment?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=106"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOPSQQx7xXWvzy6b1GZMaqLihIQau2VaAwARK-j",
+            "cid": "8871698996302484340",
+            "fid": "0x87134bf872cbff91:0x7b1e9b3b9ccc9374",
+            "placeId": "ChIJkf_LcvhLE4cRdJPMnDubHns"
+        },
+        {
+            "position": 10,
+            "title": "CommonSpirit Pediatrics North Care",
+            "address": "6071 E Woodmen Rd #225, Colorado Springs, CO 80923",
+            "latitude": 38.939574,
+            "longitude": -104.7168676,
+            "rating": 4.4,
+            "ratingCount": 184,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Doctor",
+                "Family practice physician",
+                "General practitioner",
+                "Internist",
+                "Surgeon"
+            ],
+            "website": "https://www.mountain.commonspirit.org/location/commonspirit-pediatrics-north-care",
+            "phoneNumber": "(719) 571-7130",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNs5zllLDWpruq3Z04F_fTFyGi5KBqpfDQFe598",
+            "cid": "17889361321815799172",
+            "fid": "0x8713490d611d16e9:0xf843c7571d717584",
+            "placeId": "ChIJ6RYdYQ1JE4cRhHVxHVfHQ_g"
+        },
+        {
+            "position": 11,
+            "title": "Littleton Pediatric Medical Center",
+            "address": "206 W County Line Rd Ste 110, Highlands Ranch, CO 80129",
+            "latitude": 39.5646942,
+            "longitude": -104.991579,
+            "rating": 3.8,
+            "ratingCount": 50,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Pediatric clinic"
+            ],
+            "website": "https://www.littletonpeds.com/",
+            "phoneNumber": "(303) 791-9999",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNZmwn3Bw3PbE7NCvZlGexDZ-HaFWMEzQwrC1Pn",
+            "cid": "15758978299995646422",
+            "fid": "0x876c82318d85d829:0xdab32344ea5469d6",
+            "placeId": "ChIJKdiFjTGCbIcR1mlU6kQjs9o"
+        },
+        {
+            "position": 12,
+            "title": "Center For Pediatrics",
+            "address": "5040 W Main St, Houma, LA 70360",
+            "latitude": 29.6578251,
+            "longitude": -90.7692574,
+            "rating": 4.3,
+            "ratingCount": 12,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "http://www.centerfp.com/",
+            "phoneNumber": "(985) 851-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "718683574861168663",
+            "fid": "0x8621108d97ef29e5:0x9f946e751820017",
+            "placeId": "ChIJ5Snvl40QIYYRFwCCUedG-Qk"
+        },
+        {
+            "position": 13,
+            "title": "Colorado Kids Pediatrics",
+            "address": "2975 Roslyn St, Denver, CO 80238",
+            "latitude": 39.7597081,
+            "longitude": -104.900837,
+            "rating": 4.4,
+            "ratingCount": 200,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "http://www.coloradokidspeds.com/",
+            "phoneNumber": "(303) 399-7900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_9CRlRO5rPvNbiFUPfj4KkSvoBmfKBo6dYTGVIl20qJUJSdk6Gn48ChEOHfjVIvLIZKwQWxms8I5sH2XiimQZIG1ZCr6_jB7G5XpZYIzqsUzsORELjEAreybqnMjp1Yx1dLDUG5g",
+            "cid": "14340300781336779299",
+            "fid": "0x876c7b84d3413b65:0xc702fb951bd5da23",
+            "placeId": "ChIJZTtB04R7bIcRI9rVG5X7Asc"
+        },
+        {
+            "position": 14,
+            "title": "Every Child Pediatrics- Crawford Kids Clinic",
+            "address": "1600 Florence St, Aurora, CO 80010",
+            "latitude": 39.7433592,
+            "longitude": -104.8703718,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Medical group",
+                "Non-profit organization"
+            ],
+            "website": "http://www.everychildpediatrics.org/",
+            "phoneNumber": "(303) 326-2090",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20133\u202fPM",
+                "Friday": "1\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsuIaxcQqsYfgN091g3wn-YnVRF-1s7_CMtt2y",
+            "cid": "8509846479222535969",
+            "fid": "0x876c7c97859c873b:0x76190c49272af721",
+            "placeId": "ChIJO4echZd8bIcRIfcqJ0kMGXY"
+        },
+        {
+            "position": 15,
+            "title": "Kids Are Great Pediatrics",
+            "address": "320 E Fontanero St Suite 308, Colorado Springs, CO 80907",
+            "latitude": 38.8607392,
+            "longitude": -104.81712139999999,
+            "rating": 2.6,
+            "ratingCount": 135,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "General practitioner",
+                "Medical supply store",
+                "Medical clinic",
+                "Surgeon"
+            ],
+            "website": "https://www.kidsaregreatpediatrics.com/",
+            "phoneNumber": "(719) 577-4200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Db3d1J3QKYkT9JNu21OwSVFmLA1mnmvjaP4WZZnU8sYyfD-f6e8L7o6tRLw_tg700vwV7LzSSZVt9qpDqavTds0Mtkk89td078o_4y7wgCC3-as0dOqE2p1KnwNEJ_uM4GQIu",
+            "cid": "16296326537254778642",
+            "fid": "0x87134566430ed3b1:0xe2282ea4dcd7b712",
+            "placeId": "ChIJsdMOQ2ZFE4cRErfX3KQuKOI"
+        },
+        {
+            "position": 16,
+            "title": "Child Development Center",
+            "address": "3090 N Academy Blvd, Colorado Springs, CO 80917",
+            "latitude": 38.8759119,
+            "longitude": -104.757483,
+            "rating": 4.1,
+            "ratingCount": 22,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Orthotics & prosthetics service",
+                "Physical therapist",
+                "Rehabilitation center",
+                "Speech pathologist"
+            ],
+            "website": "http://www.cdcrehab.com/",
+            "phoneNumber": "(719) 574-8300",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPXZJm2zR_fj2I3IWxsuek1TQLtLhvkyyrftFV5",
+            "cid": "1360354186656296865",
+            "fid": "0x87134f55dc93e373:0x12e0f2ece05d2fa1",
+            "placeId": "ChIJc-OT3FVPE4cRoS9d4Ozy4BI"
+        },
+        {
+            "position": 17,
+            "title": "Focus On Kids Pediatrics",
+            "address": "9200 W Cross Dr Ste 100, Littleton, CO 80123",
+            "latitude": 39.6120468,
+            "longitude": -105.1004778,
+            "rating": 4.3,
+            "ratingCount": 58,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Children's hospital"
+            ],
+            "website": "https://www.focusonkidspeds.com/",
+            "phoneNumber": "(303) 972-7337",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "8:30\u201311:30\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.focusonkidspeds.com/contact/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNu2iScAf3TpJAm8S-eyzjTL2FG3BZPI9EE9ehv",
+            "cid": "5556041360574858103",
+            "fid": "0x876b7f1c7287f9f3:0x4d1b062e26714377",
+            "placeId": "ChIJ8_mHchx_a4cRd0NxJi4GG00"
+        },
+        {
+            "position": 18,
+            "title": "UCHealth Pediatric Care - Firestone",
+            "address": "11083 Colorado Blvd, Longmont, CO 80504",
+            "latitude": 40.1618821,
+            "longitude": -104.942764,
+            "rating": 4.3,
+            "ratingCount": 16,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-pediatrics-carbon-valley/",
+            "phoneNumber": "(303) 833-8880",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_as2KWfXgEtiL0k1nzjoinKYGEGmd9whkjuPA",
+            "cid": "12780678735372787166",
+            "fid": "0x876c05e4b70fbbab:0xb15e17984a489dde",
+            "placeId": "ChIJq7sPt-QFbIcR3p1ISpgXXrE"
+        },
+        {
+            "position": 19,
+            "title": "Littleton Pediatric Med Center",
+            "address": "10901 W Toller Dr #101, Littleton, CO 80127",
+            "latitude": 39.558561,
+            "longitude": -105.1208795,
+            "rating": 4,
+            "ratingCount": 34,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.littletonpeds.com/",
+            "phoneNumber": "(303) 979-1234",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOsHmRNndfIebg5u8-HBIN-8Doq2giIiCqdIT-n",
+            "cid": "1899749752191908211",
+            "fid": "0x876b7ea56ce9acd7:0x1a5d44559588f973",
+            "placeId": "ChIJ16zpbKV-a4cRc_mIlVVEXRo"
+        },
+        {
+            "position": 20,
+            "title": "Children's Colorado Outpatient Care, Uptown Denver",
+            "address": "1830 Franklin St, Denver, CO 80218",
+            "latitude": 39.745529499999996,
+            "longitude": -104.96803659999999,
+            "rating": 4.8,
+            "ratingCount": 38,
+            "type": "Pediatric clinic",
+            "types": [
+                "Pediatric clinic",
+                "Audiologist",
+                "Pediatric cardiologist",
+                "Sleep clinic"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/uptown-denver-outpatient-urgent-care/",
+            "phoneNumber": "(720) 777-1360",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8XeUdWkDusCbywVaRAuqEA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=54.69071&pitch=0&thumbfov=100",
+            "cid": "10734386485720187436",
+            "fid": "0x876c79340090e505:0x94f833a2b31b022c",
+            "placeId": "ChIJBeWQADR5bIcRLAIbs6Iz-JQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Casa de la Luz Hospice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.3471217,-110.9749265,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Casa de la Luz Hospice",
+            "address": "7740 N Oracle Rd, Tucson, AZ 85704",
+            "latitude": 32.347121699999995,
+            "longitude": -110.9749265,
+            "rating": 4.3,
+            "ratingCount": 37,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Home health care service"
+            ],
+            "website": "https://lhcgroup.com/locations/casa-de-la-luz-palliative-care/",
+            "phoneNumber": "(520) 544-9890",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPf-_SBsxRcWbNj9ybOwFQI-5XYqLAJPbBgmRd6",
+            "cid": "10785855631190016266",
+            "fid": "0x86d60cb53c229ecf:0x95af0e8cf7ba410a",
+            "placeId": "ChIJz54iPLUM1oYRCkG694wOr5U"
+        }
+    ],
+    "credits": 3
+}

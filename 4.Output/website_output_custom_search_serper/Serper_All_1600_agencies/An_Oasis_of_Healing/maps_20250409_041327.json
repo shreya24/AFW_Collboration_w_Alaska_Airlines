@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "An Oasis of Healing",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.4199177,-111.8318805,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "An Oasis of Healing",
+            "address": "210 N Center St #102, Mesa, AZ 85201",
+            "latitude": 33.4199177,
+            "longitude": -111.8318805,
+            "rating": 4.3,
+            "ratingCount": 42,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Alternative medicine practitioner",
+                "Holistic medicine practitioner",
+                "Nutritionist",
+                "Wellness center"
+            ],
+            "website": "https://www.anoasisofhealing.com/",
+            "phoneNumber": "(480) 912-3414",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "10\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.anoasisofhealing.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPf-6nqZTTwLWgVebAOambjUBejZSJOmChRMN3_",
+            "cid": "16939796844326043355",
+            "fid": "0x872ba7c192a57fad:0xeb163f7aa1563edb",
+            "placeId": "ChIJrX-lksGnK4cR2z5WoXo_Fus"
+        }
+    ],
+    "credits": 3
+}

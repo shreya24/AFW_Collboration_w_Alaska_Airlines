@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente Waipio Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.4255572,-157.9969194,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Waipio Medical Office",
+            "address": "94-1480 Moaniani St, Waipahu, HI 96797",
+            "latitude": 21.4255572,
+            "longitude": -157.9969194,
+            "rating": 3.9,
+            "ratingCount": 92,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/hawaii/facilities/Kaiser-Permanente-Waipio-Medical-Office-100429",
+            "phoneNumber": "(833) 833-3333",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ZNeY275C5zZ_YF0pgZ9WcuS20jEOZs0HbRTLhtN7fCqTPa6wKsCdLUDjM8-bSBBpsok6Uvx_fUeuwBBVQuTKcosmBcmoY_tWsxbLe5prq-h_FGYVWJEGGRcNwDdydfjRkIhfCsg",
+            "cid": "14555033637160778903",
+            "fid": "0x7c00665844bee571:0xc9fdddfa24d47c97",
+            "placeId": "ChIJceW-RFhmAHwRl3zUJPrd_ck"
+        }
+    ],
+    "credits": 3
+}

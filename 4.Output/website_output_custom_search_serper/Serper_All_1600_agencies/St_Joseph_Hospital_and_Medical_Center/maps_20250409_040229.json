@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "St Joseph Hospital and Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.6143563,-103.3417623,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Joseph Medical Center",
+            "address": "1000 Carondelet Dr, Kansas City, MO 64114",
+            "latitude": 38.936776099999996,
+            "longitude": -94.6044651,
+            "rating": 4.3,
+            "ratingCount": 1254,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://stjosephkc.com/",
+            "phoneNumber": "(816) 942-4400",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB84DUVjagPwzOuoZR2HcneAA6RV8JnXUa3FCBHlNVUllxBh7EoECfgnYSSO_yTDSKSGpYojYNO0xNx20S0r-UyhzSv4vuvvQwlLeQp1_gyMrnRBCcnXYmzBqt43ewaeLWXapR_t",
+            "cid": "7339372022043256229",
+            "fid": "0x87c0e8552efcd08f:0x65daaff7e85425a5",
+            "placeId": "ChIJj9D8LlXowIcRpSVU6Pev2mU"
+        },
+        {
+            "position": 2,
+            "title": "Intermountain Health Saint Joseph Hospital",
+            "address": "1375 E 19th Ave, Denver, CO 80218",
+            "latitude": 39.746693,
+            "longitude": -104.97124579999999,
+            "rating": 3.7,
+            "ratingCount": 998,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.sclhealth.org/locations/saint-joseph-hospital/",
+            "phoneNumber": "(303) 812-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/intermountain-health-saint-joseph-hospital?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-8GXhnCUJyV1WxkKij3hlGKxlmiW7--5FsECqnyaA1JqipKf_ZPbsnmyeg670lG5GwwHYDqYbPxhXCzejANwgxm9PiBuj28XK0PeNK25cM7vtX6lpiXmNifK1PvyeTb_uOKY_H",
+            "cid": "6598799504074932171",
+            "fid": "0x876c7931985d6fe1:0x5b93a52fe068ffcb",
+            "placeId": "ChIJ4W9dmDF5bIcRy_9o4C-lk1s"
+        },
+        {
+            "position": 3,
+            "title": "St. Joseph's Hospital and Medical Center",
+            "address": "350 W Thomas Rd, Phoenix, AZ 85013",
+            "latitude": 33.4820196,
+            "longitude": -112.0790595,
+            "rating": 4.1,
+            "ratingCount": 2142,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/st-joseph's-hospital-and-medical-center",
+            "phoneNumber": "(602) 406-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Ugr470o7XtFRHqYm0WhNs1c7uE43l0R057ob0K0wbWo6ZlskMgK50m9XWdqh1o0zm-VbPOfPFkMeoKReYs0Iv5VfgK695lRMh2lkU79dvXVEIwGLE0p3TAfWfy_GYM0DGTTFd",
+            "cid": "16691754161655818328",
+            "fid": "0x872b12591826f565:0xe7a505f92ba4a858",
+            "placeId": "ChIJZfUmGFkSK4cRWKikK_kFpec"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "Test Field address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Address Fill Up Test - IBC. Inc.",
+            "link": "https://www.ibcinc.com/test/address",
+            "snippet": "This test gives you an autocomplete based on the city name typed. It leaves the zip code field blank for the user to type it.",
+            "position": 1
+        },
+        {
+            "title": "Test Cases For Address Field | How to Write (Samples)? - Medium",
+            "link": "https://medium.com/@amaralisa321/test-cases-for-address-field-how-to-write-samples-40b916b10ab0",
+            "snippet": "The test cases outlined in this blog post provide a comprehensive framework for evaluating the functionality and reliability of address fields.",
+            "date": "Dec 30, 2023",
+            "position": 2
+        },
+        {
+            "title": "PSI - California - Testing Locations",
+            "link": "https://prelicensetraining.com/page/psi-ca-testing-locations",
+            "snippet": "City/State, Address, Driving Directions. Arcata, California, 1 Harpst Street, Testing Center - Lower Libary Rm 24, From N: Go S on 101 to the Sunset Ave ...",
+            "position": 3
+        },
+        {
+            "title": "[PDF] Testing centers",
+            "link": "https://www.dir.ca.gov/dlse/ecu/Testing_centers.pdf",
+            "snippet": "The testing center is in the California Credit Union building on the northwest corner of Brand Boulevard and Monterey Road. There is no validated parking. Lake ...",
+            "attributes": {
+                "Missing": "Field | Show results with:Field"
+            },
+            "position": 4
+        },
+        {
+            "title": "Exam In-Person Locations - California Peer Certification",
+            "link": "https://www.capeercertification.org/exam-locations/",
+            "snippet": "Test Center ID: 63105. Site Address: Pearson Professional Centers-Daly City 2001 Junipero Serra Boulevard, Suite 530 Daly City, California 94014. Test Center ID ...",
+            "attributes": {
+                "Missing": "Field | Show results with:Field"
+            },
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Address filler"
+        },
+        {
+            "query": "Google Address Autocomplete test"
+        },
+        {
+            "query": "Test forms"
+        },
+        {
+            "query": "PSI test center locations"
+        },
+        {
+            "query": "PSI Testing Center REDDING CA"
+        },
+        {
+            "query": "32960 alvarado-niles rd suite 650"
+        },
+        {
+            "query": "Autofill form"
+        },
+        {
+            "query": "Fill information"
+        }
+    ],
+    "credits": 1
+}

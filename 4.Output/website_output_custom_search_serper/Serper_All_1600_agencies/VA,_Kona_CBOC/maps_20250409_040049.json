@@ -1,0 +1,34 @@
+{
+    "searchParameters": {
+        "q": "VA, Kona CBOC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.6313158,-155.9770018,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kailua-Kona VA Clinic",
+            "address": "75-377 Hualalai Rd, Kailua-Kona, HI 96740",
+            "latitude": 19.6313158,
+            "longitude": -155.97700179999998,
+            "rating": 3.9,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.hawaii.va.gov/locations/Kailua_Kona_Hawaii.asp",
+            "phoneNumber": "(808) 329-0774",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8ERWPCO4UvSamC505poUdbcdA0ACG0b8rFDqKxioq_p09PhpAUSlvhz0ODSvbVwN1yooxqHuRZEds7pAmoWQakR6TzSuqAea-H8EBwnMM2lDTHse8APGdWHj4vRIG3A29QXcE",
+            "cid": "12655197228382212142",
+            "fid": "0x79540f1bf5345969:0xafa04ad4403ad02e",
+            "placeId": "ChIJaVk09RsPVHkRLtA6QNRKoK8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Providence St. Mary Regional Cancer Ctr",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0619515,-118.3430929,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence St. Mary Regional Cancer Center",
+            "address": "401 W Poplar St, Walla Walla, WA 99362",
+            "latitude": 46.0619515,
+            "longitude": -118.34309289999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Medical Center",
+                "Oncologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-mary-medical-center/cancer-center?Is=location&y_source=1_OTU3NzA0Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 897-5700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.providence.org/locations/wa/st-mary-medical-center/cancer-center/request-an-appointment?ls=location&y_source=1_OTU3NzA0Ny03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPw_MYO9HpY1bvkgl32v3_TfMrc_58GPJIwpj20",
+            "cid": "4975444601752154116",
+            "fid": "0x54a26a7b3d4e6b5b:0x450c548117127004",
+            "placeId": "ChIJW2tOPXtqolQRBHASF4FUDEU"
+        }
+    ],
+    "credits": 3
+}

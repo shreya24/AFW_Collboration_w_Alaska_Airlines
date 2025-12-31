@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "San Francisco General Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7553498,-122.4054036,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Zuckerberg San Francisco General Hospital and Trauma Center",
+            "address": "1001 Potrero Ave, San Francisco, CA 94110",
+            "latitude": 37.7553498,
+            "longitude": -122.4054036,
+            "rating": 3.3,
+            "ratingCount": 617,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://zuckerbergsanfranciscogeneral.org/",
+            "phoneNumber": "(628) 206-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_X3yf8yxbpvfQ6eJlmI8jG__EJvqrrOOkiSRARg0k5Se799UgKk77PvzM0Umwkg1-FcYAl7vFtNIy5RC0gFxr3Zx0NJH0ni1tA65CMU9D1st4m_DMAMmB9COg3EHfP9cGErfmo",
+            "cid": "14403399765103680518",
+            "fid": "0x808f7e4bb2d3d61b:0xc7e327c61cf31c06",
+            "placeId": "ChIJG9bTskt-j4ARBhzzHMYn48c"
+        }
+    ],
+    "credits": 3
+}

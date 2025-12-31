@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Methodist Pediatric Specialty Clinics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.51065,-98.573809,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Methodist Pediatric Specialty Clinics",
+            "address": "4499 Medical Dr Sublevel 1, San Antonio, TX 78229",
+            "latitude": 29.51065,
+            "longitude": -98.573809,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://www.sahealth.com/PediatricSpecialtyClinics",
+            "phoneNumber": "(210) 575-7371",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "cid": "8956217609700146872",
+            "fid": "0x865c5dffbe002df1:0x7c4ae076c5467eb8",
+            "placeId": "ChIJ8S0Avv9dXIYRuH5GxXbgSnw"
+        }
+    ],
+    "credits": 3
+}

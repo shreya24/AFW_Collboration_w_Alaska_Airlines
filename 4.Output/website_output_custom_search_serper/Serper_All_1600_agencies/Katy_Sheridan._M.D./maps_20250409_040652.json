@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Katy Sheridan. M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4944973,-151.0772823,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Katy M Sheridan Md",
+            "address": "154 W Marydale Ave, Soldotna, AK 99669",
+            "latitude": 60.4952252,
+            "longitude": -151.07593559999998,
+            "rating": 3.7,
+            "ratingCount": 24,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.katysheridanmd.com/",
+            "phoneNumber": "(907) 260-3121",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u2T_RRG3jxQELIxzgpRY0g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=4.966383&pitch=0&thumbfov=100",
+            "cid": "12470509923341426326",
+            "fid": "0x56c663de2510dc2d:0xad1026b424bfde96",
+            "placeId": "ChIJLdwQJd5jxlYRlt6_JLQmEK0"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Katy M. Sheridan, MD",
+            "address": "250 Hospital Pl, Soldotna, AK 99669",
+            "latitude": 60.4937695,
+            "longitude": -151.078629,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.cpgh.org/",
+            "phoneNumber": "(907) 714-4404",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6CelbeaIokWpDHvmNxt09w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=230.37694&pitch=0&thumbfov=100",
+            "cid": "7560048269906858293",
+            "fid": "0x56c663de2510dc2d:0x68eaafd8bc9ad135",
+            "placeId": "ChIJLdwQJd5jxlYRNdGavNiv6mg"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Navapache Regional Med",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.2028137,-110.0179812,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Summit Healthcare",
+            "address": "2200 E Show Low Lake Rd, Show Low, AZ 85901",
+            "latitude": 34.2028137,
+            "longitude": -110.0179812,
+            "rating": 3.3,
+            "ratingCount": 290,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Diagnostic center",
+                "Surgical center"
+            ],
+            "website": "https://summithealthcare.net/",
+            "phoneNumber": "(928) 537-4375",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNal8JrDu-YyWfeG7OMznp4IraWksNCNwRRPbZr",
+            "cid": "16258577675121330349",
+            "fid": "0x8728cb0d1bb2cf81:0xe1a21240feb408ad",
+            "placeId": "ChIJgc-yGw3LKIcRrQi0_kASouE"
+        }
+    ],
+    "credits": 3
+}

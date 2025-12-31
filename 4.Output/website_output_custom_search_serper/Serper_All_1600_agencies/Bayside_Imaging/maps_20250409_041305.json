@@ -1,0 +1,105 @@
+{
+    "searchParameters": {
+        "q": "Bayside Imaging",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7629872,-73.7806792,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Main Street Radiology (Bayside)",
+            "address": "44-01 Francis Lewis Blvd, Auburndale, NY 11361",
+            "latitude": 40.757243599999995,
+            "longitude": -73.7827195,
+            "rating": 4.6,
+            "ratingCount": 1679,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.mainstreetradiology.com/about-us/locations/bayside-44th-avenue/",
+            "phoneNumber": "(718) 428-1500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20133\u202fPM",
+                "Sunday": "8\u202fAM\u20133\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNmvx3h4isxaMA0glTYrIqWWA_Ln1_h_UcYItRS",
+            "cid": "14917743318532919081",
+            "fid": "0x89c261c455aa3f3f:0xcf067882b79c8f29",
+            "placeId": "ChIJPz-qVcRhwokRKY-ct4J4Bs8"
+        },
+        {
+            "position": 2,
+            "title": "Lenox Hill Radiology | Bayside",
+            "address": "213-02 Northern Blvd, Bayside, NY 11361",
+            "latitude": 40.7595591,
+            "longitude": -73.7699871,
+            "rating": 4.7,
+            "ratingCount": 1584,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "website": "https://www.radnet.com/lenox-hill-radiology/for-patients/request-appointment?utm_source=GMB&utm_medium=LHR_Bayside_Web&utm_campaign=GMB_LHR_Bayside",
+            "phoneNumber": "(718) 544-5151",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/lenox-hill-radiology/for-patients/request-appointment?utm_source=GMB&utm_medium=LHR_Bayside_Appt&utm_campaign=GMB_LHR_Bayside"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEGJnbjSwq0aoLth4db4wG0m9N1DWpFnf9aXdG",
+            "cid": "10767726289825142397",
+            "fid": "0x89c261918c422a89:0x956ea602bfa9967d",
+            "placeId": "ChIJiSpCjJFhwokRfZapvwKmbpU"
+        },
+        {
+            "position": 3,
+            "title": "Main Street Radiology",
+            "address": "32-25 Francis Lewis Blvd, Flushing, NY 11358",
+            "latitude": 40.7687308,
+            "longitude": -73.7913714,
+            "rating": 4.6,
+            "ratingCount": 1460,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Doctor",
+                "MRI center"
+            ],
+            "website": "https://www.mainstreetradiology.com/about-us/locations/bayside-32nd-avenue/",
+            "phoneNumber": "(718) 428-1500",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20133\u202fPM",
+                "Sunday": "8\u202fAM\u20132\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOKbGwwxl50dWs2QtrVNO4j9-ONlElK7nLH72UV",
+            "cid": "14582363869349763799",
+            "fid": "0x89c28a7f0be62ec5:0xca5ef6adb2155ad7",
+            "placeId": "ChIJxS7mC3-KwokR11oVsq32Xso"
+        }
+    ],
+    "credits": 3
+}

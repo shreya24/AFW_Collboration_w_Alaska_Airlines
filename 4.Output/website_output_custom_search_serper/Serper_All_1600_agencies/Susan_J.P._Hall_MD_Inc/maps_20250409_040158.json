@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Susan J.P. Hall MD Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1353016,-118.454489,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Centric Health - Dr. Susan Hall, MD",
+            "address": "432A W J St, Tehachapi, CA 93561",
+            "latitude": 35.1353016,
+            "longitude": -118.454489,
+            "rating": 3.4,
+            "ratingCount": 31,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://centric-md.edan.io/",
+            "phoneNumber": "(661) 822-4421",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8M752nyvWGwH1TjiyeRF1m3nrVD6tXwpyOFjrxQllQ3kk9fLUYZjIuzmhOLgbCNjI-KSZbHqSsXAfoK5v0swftILP_lqGzFIsWy6cAUJvr0qQ8mfehUiL0PXqZiwDzC0FC_zo",
+            "cid": "150733105215161613",
+            "fid": "0x80c1f7b80761c9f3:0x21782f5e83dc50d",
+            "placeId": "ChIJ88lhB7j3wYARDcU96PWCFwI"
+        }
+    ],
+    "credits": 3
+}

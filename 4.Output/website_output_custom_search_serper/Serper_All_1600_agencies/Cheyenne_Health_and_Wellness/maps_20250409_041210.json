@@ -1,0 +1,593 @@
+{
+    "searchParameters": {
+        "q": "Cheyenne Health and Wellness",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1459116,-104.792375,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HealthWorks",
+            "address": "2508 E Fox Farm Rd # 1A, Cheyenne, WY 82007",
+            "latitude": 41.117216,
+            "longitude": -104.76917669999999,
+            "rating": 4,
+            "ratingCount": 225,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Doctor",
+                "Pharmacy"
+            ],
+            "website": "http://www.wyhealthworks.org/",
+            "phoneNumber": "(307) 635-3618",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNElSkrwCn3nypgSSJZiAtNxgrGxplCyCJ6ha49",
+            "cid": "13134745149295888371",
+            "fid": "0x876f24b153910447:0xb647fd1f571107f3",
+            "placeId": "ChIJRwSRU7Ekb4cR8wcRVx_9R7Y"
+        },
+        {
+            "position": 2,
+            "title": "Healthy Lifestyle Medicine",
+            "address": "6015 Sycamore Rd Suite 1, Cheyenne, WY 82009",
+            "latitude": 41.174607099999996,
+            "longitude": -104.8112462,
+            "rating": 4.8,
+            "ratingCount": 59,
+            "type": "Medical spa",
+            "types": [
+                "Medical spa",
+                "Birth control center",
+                "Doctor",
+                "Medical clinic",
+                "Sleep clinic",
+                "Weight loss service",
+                "Wellness center"
+            ],
+            "website": "https://www.myhealthylifestylemedicine.com/?utm_source=gmb_auth",
+            "phoneNumber": "(307) 634-9919",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.myhealthylifestylemedicine.com/schedule?utm_source=google_apt&ao=Google"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMhWMH8D1b13A80yIJ2MXTGBt4s0hzQIuE9WQom",
+            "cid": "11070859198469474505",
+            "fid": "0x876f3ba608d7d1ef:0x99a397c8fb2388c9",
+            "placeId": "ChIJ79HXCKY7b4cRyYgj-8iXo5k"
+        },
+        {
+            "position": 3,
+            "title": "Wellness Collective",
+            "address": "306 W 15th St, Cheyenne, WY 82001",
+            "latitude": 41.1314931,
+            "longitude": -104.8163929,
+            "rating": 5,
+            "ratingCount": 39,
+            "type": "Health spa",
+            "types": [
+                "Health spa",
+                "Day spa",
+                "Pilates studio"
+            ],
+            "website": "http://www.wc307.com/",
+            "phoneNumber": "(307) 222-8342",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20136\u202fPM",
+                "Wednesday": "5:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "5\u202fAM\u20136\u202fPM",
+                "Friday": "5:30\u202fAM\u20131\u202fPM",
+                "Saturday": "7:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "5:30\u202fAM\u20136:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mindbodyonline.com/explore/locations/wellness-collective?rwg_token=AAiGsoagNtLyoVZLbM10g4oSSHLjHIpJvYBSspIINQnL0oFDsVXboe-7RWQBCqa8OZsHwIKKtVMxqQYx45S3asfvdkdVH1uscB5TgPgAAnsyFZD_5Un_sn0%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_C23DiD2h_Lcgj7_TFV7Ejklirfb0E9LWdwhYbEnvkBmtc5BrTT8MOlJZ7HuRG-c0MZ7ektYGKV0JWRNW9C_ZZ4TGvczT_FpDeALj51tX_FeVrabHHaEugO_eQYJfxxJTI1RET",
+            "cid": "17536219977925749237",
+            "fid": "0x876f3ac1564229bb:0xf35d2b28b75f69f5",
+            "placeId": "ChIJuylCVsE6b4cR9WlftygrXfM"
+        },
+        {
+            "position": 4,
+            "title": "HealthWorks Pharmacy",
+            "address": "2508 E Fox Farm Rd #1b, Cheyenne, WY 82007",
+            "latitude": 41.137589,
+            "longitude": -104.8065716,
+            "rating": 3.9,
+            "ratingCount": 17,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy"
+            ],
+            "website": "https://www.wyhealthworks.org/",
+            "phoneNumber": "(307) 637-7000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOy0ALHijlCY_LedPuDEFw-lbwj3-HPQTIoXkrU",
+            "cid": "7148293195367301584",
+            "fid": "0x876f24b153910447:0x6333d6c9b435c1d0",
+            "placeId": "ChIJRwSRU7Ekb4cR0ME1tMnWM2M"
+        },
+        {
+            "position": 5,
+            "title": "Natural Wellness CBD",
+            "address": "307 E 20th St, Cheyenne, WY 82001",
+            "latitude": 41.137491999999995,
+            "longitude": -104.8137677,
+            "rating": 4.9,
+            "ratingCount": 138,
+            "type": "Herbal medicine store",
+            "types": [
+                "Herbal medicine store",
+                "Health and beauty shop",
+                "Massage supply store",
+                "Store",
+                "Vitamin & supplements store"
+            ],
+            "website": "http://www.naturalwellness.care/",
+            "phoneNumber": "(307) 426-4199",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "10\u202fAM\u20135:30\u202fPM",
+                "Thursday": "10\u202fAM\u20135:30\u202fPM",
+                "Friday": "10\u202fAM\u20135:30\u202fPM",
+                "Saturday": "10\u202fAM\u20135:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpWlldUwUEnJaFbSifv9DS-4ZZzKO4DEpXRpGQ",
+            "cid": "12957670885264216374",
+            "fid": "0x876f3bacfe70f8cb:0xb3d2e50478985136",
+            "placeId": "ChIJy_hw_qw7b4cRNlGYeATl0rM"
+        },
+        {
+            "position": 6,
+            "title": "Country Doctor Nutritional Center",
+            "address": "1801 Logan Ave, Cheyenne, WY 82001",
+            "latitude": 41.1417682,
+            "longitude": -104.7970962,
+            "rating": 4.9,
+            "ratingCount": 78,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner",
+                "Fitness center",
+                "Kinesiologist",
+                "Nutritionist",
+                "Vitamin & supplements store",
+                "Weight loss service",
+                "Wellness center",
+                "Wellness program"
+            ],
+            "website": "http://www.countrydoctornutritionalcenter.com/",
+            "phoneNumber": "(307) 634-2464",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mindbodyonline.com/explore/locations/country-doctor-nutritional-center?rwg_token=AAiGsoaQ4fWs_wZCv4je3T-I-PqmvP3aKwILPOWt97qkLRgaQf6HV6l1hB-mhKCJE0PEO0ULPqEfB07cFjkRsXDh33ezfInXSQ%3D%3D"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C48_UFBNcsYbh-t-2gsXDA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=80.285545&pitch=0&thumbfov=100",
+            "cid": "1341978655427535696",
+            "fid": "0x876f3b1e39229371:0x129faa7a1cea2350",
+            "placeId": "ChIJcZMiOR47b4cRUCPqHHqqnxI"
+        },
+        {
+            "position": 7,
+            "title": "EMPOWHER Health: Hormones & Wellness",
+            "address": "611 E Carlson St Suite 102, Cheyenne, WY 82009",
+            "latitude": 41.170810499999995,
+            "longitude": -104.8194475,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://www.empowherhealth307.com/",
+            "phoneNumber": "(307) 364-3415",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSI0sufoJzEPzBqBMAgLaimSGFCIdwDKOC7qsw",
+            "cid": "7979970361422262543",
+            "fid": "0x876f3b1362b17b37:0x6ebe8cc396b8310f",
+            "placeId": "ChIJN3uxYhM7b4cRDzG4lsOMvm4"
+        },
+        {
+            "position": 8,
+            "title": "Wyoming Health Fairs",
+            "address": "611 E Carlson St Suite 112, Cheyenne, WY 82009",
+            "latitude": 41.170758,
+            "longitude": -104.81936499999999,
+            "rating": 4.5,
+            "ratingCount": 27,
+            "type": "Wellness program",
+            "types": [
+                "Wellness program",
+                "Blood testing service",
+                "Occupational health service"
+            ],
+            "website": "http://whf.to/",
+            "phoneNumber": "(800) 979-3711",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201312\u202fPM",
+                "Wednesday": "7\u202fAM\u201312\u202fPM",
+                "Thursday": "7\u202fAM\u201312\u202fPM",
+                "Friday": "7\u202fAM\u201312\u202fPM",
+                "Saturday": "7\u201310\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201312\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO45Q0ORSNyU948nNEp5KpMefiHBS2BG0wpJsWy",
+            "cid": "3323880062340603864",
+            "fid": "0x876f3a419cea5455:0x2e20cb4e57d09fd8",
+            "placeId": "ChIJVVTqnEE6b4cR2J_QV07LIC4"
+        },
+        {
+            "position": 9,
+            "title": "Balanced Prairie Wellness",
+            "address": "2820 Warren Ave, Cheyenne, WY 82001",
+            "latitude": 41.144635199999996,
+            "longitude": -104.82057329999999,
+            "rating": 4.6,
+            "ratingCount": 13,
+            "type": "Nutritionist",
+            "types": [
+                "Nutritionist",
+                "Wellness center"
+            ],
+            "website": "https://www.bpwcollective.com/",
+            "phoneNumber": "(307) 426-4017",
+            "openingHours": {
+                "Tuesday": "10:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "10:30\u202fAM\u20136\u202fPM",
+                "Thursday": "10:30\u202fAM\u20136\u202fPM",
+                "Friday": "10:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "12\u20134\u202fPM",
+                "Monday": "10:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.bpwcollective.com/contact-us"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-LW-OAM64Fnmx_psrY1ixJgwJjdrXnJ5DcxFQa0BHv45DHDu1OzrqLVIfYc3zEJ2LYEObxehexiGkUZ4ZQJBn4GuqZG6BbsciNSfIVlJwT57_VUtO9wbdOkOJ_5XKLSsptfMDm",
+            "cid": "15790237619154945508",
+            "fid": "0x876f3b22240acb37:0xdb22317450bd85e4",
+            "placeId": "ChIJN8sKJCI7b4cR5IW9UHQxIts"
+        },
+        {
+            "position": 10,
+            "title": "Windy City Wellness Pc",
+            "address": "2320 Dell Range Blvd #300, Cheyenne, WY 82009",
+            "latitude": 41.1605443,
+            "longitude": -104.7837054,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Wellness program",
+            "types": [
+                "Wellness program"
+            ],
+            "phoneNumber": "(307) 634-6095",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-wSLubPsRC7dbRA-qnOzjA_P1b35bQeFJPOO0plLN79s8B5F1w0F16dlzUf7azYSkP1-pkdqDTYqnoe_v2n_dstva7MdBRw2bBbngSVxAioBBPLXnVpOdNJ-pcOoPONikgbDFy",
+            "cid": "11122366826717191021",
+            "fid": "0x876f3ae64f8f27cb:0x9a5a95b338111b6d",
+            "placeId": "ChIJyyePT-Y6b4cRbRsROLOVWpo"
+        },
+        {
+            "position": 11,
+            "title": "Cheyenne Weight Loss",
+            "address": "5231 Yellowstone Rd, Cheyenne, WY 82009",
+            "latitude": 41.1683084,
+            "longitude": -104.8280047,
+            "rating": 5,
+            "ratingCount": 20,
+            "type": "Weight loss service",
+            "types": [
+                "Weight loss service"
+            ],
+            "website": "https://ongoweightloss.com/",
+            "phoneNumber": "(307) 514-2000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "2\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNLylPFlcutP7p7Zv8sThQ9lu4Sau01gMqqeBa8",
+            "cid": "14742545292882519151",
+            "fid": "0x876f3b3225075615:0xcc980ad5a35ea46f",
+            "placeId": "ChIJFVYHJTI7b4cRb6Reo9UKmMw"
+        },
+        {
+            "position": 12,
+            "title": "Althoff Wellness Clinic PC - Cheyenne",
+            "address": "5920 Yellowstone Rd # 1, Cheyenne, WY 82009",
+            "latitude": 41.173621,
+            "longitude": -104.829122,
+            "rating": 5,
+            "ratingCount": 24,
+            "type": "Wellness center",
+            "types": [
+                "Wellness center"
+            ],
+            "website": "https://www.drjillalthoff.com/",
+            "phoneNumber": "(307) 369-1786",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvcJF11J87Hwcx3lrFE4qwAeeSICENVxRfaqEo",
+            "cid": "348656652040181678",
+            "fid": "0x876f3bad4564c1bf:0x4d6ad60b56e97ae",
+            "placeId": "ChIJv8FkRa07b4cRrpdutWCt1gQ"
+        },
+        {
+            "position": 13,
+            "title": "PUSH IV & Wellness Lounge",
+            "address": "1000 E 15th St, Cheyenne, WY 82001",
+            "latitude": 41.1362533,
+            "longitude": -104.8034445,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.pushwellness307.com/",
+            "phoneNumber": "(307) 298-5141",
+            "openingHours": {
+                "Tuesday": "4\u20136\u202fPM",
+                "Wednesday": "4\u20136\u202fPM",
+                "Thursday": "4\u20136\u202fPM",
+                "Friday": "4\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMaMksjXE2Q8YruKVuopykUXneRvjuUHD9-gPFh",
+            "cid": "15754920420635026276",
+            "fid": "0x876f3b2785a5eb55:0xdaa4b8a6407fa364",
+            "placeId": "ChIJVeulhSc7b4cRZKN_QKa4pNo"
+        },
+        {
+            "position": 14,
+            "title": "Cheyenne Laramie County Public Health",
+            "address": "100 Central Ave, Cheyenne, WY 82007",
+            "latitude": 41.119856299999995,
+            "longitude": -104.8079214,
+            "rating": 3.4,
+            "ratingCount": 19,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://clcpublichealth.org/",
+            "phoneNumber": "(307) 633-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM8rsdG1_2pdFYEYf05ElLbeq0KlpiPa1Edu1Kd",
+            "cid": "7876774687193047397",
+            "fid": "0x876f3ad2f8ae29b1:0x6d4fecd855ee2165",
+            "placeId": "ChIJsSmu-NI6b4cRZSHuVdjsT20"
+        },
+        {
+            "position": 15,
+            "title": "Chiropractic Sports & Wellness PC",
+            "address": "1023 E Lincolnway, Cheyenne, WY 82001",
+            "latitude": 41.1367701,
+            "longitude": -104.8027017,
+            "rating": 4.8,
+            "ratingCount": 65,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Massage therapist",
+                "Pain control clinic"
+            ],
+            "website": "https://chirosportsandwellness.com/",
+            "phoneNumber": "(307) 635-7727",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TgZvrBKLW2LLBqCTHNGaUA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=156.01057&pitch=0&thumbfov=100",
+            "cid": "9271183947881553425",
+            "fid": "0x876f3ade17b1179b:0x80a9dcae04c89e11",
+            "placeId": "ChIJmxexF946b4cREZ7IBK7cqYA"
+        },
+        {
+            "position": 16,
+            "title": "ABC Wellness",
+            "address": "4423 Springer Ct, Cheyenne, WY 82001",
+            "latitude": 41.1480408,
+            "longitude": -104.755628,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Massage therapist",
+            "types": [
+                "Massage therapist",
+                "Aromatherapy service",
+                "Physical therapist"
+            ],
+            "phoneNumber": "(307) 634-3292",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNS10AMXJiXSMpp3ZugdjPd--7xOYd5TT-PR-7n",
+            "cid": "868173780177260360",
+            "fid": "0x876f3b6171969bb5:0xc0c5f740ac60f48",
+            "placeId": "ChIJtZuWcWE7b4cRSA_GCnRfDAw"
+        },
+        {
+            "position": 17,
+            "title": "Health Solutions Chiropractic",
+            "address": "1330 Ridge Rd #3, Cheyenne, WY 82001",
+            "latitude": 41.1399967,
+            "longitude": -104.7688494,
+            "rating": 4.9,
+            "ratingCount": 247,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Doctor",
+                "Wellness center"
+            ],
+            "website": "https://www.cheyennehealthsolutions.com/",
+            "phoneNumber": "(307) 637-7055",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.cheyennehealthsolutions.com/schedule-appointment-1"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNO1UpmMn7BjvRPwBhnr5dVd7cKr9p-jWydMBJm",
+            "cid": "11503923656123740984",
+            "fid": "0x876f3b4233bb8e27:0x9fa6259d6677f338",
+            "placeId": "ChIJJ467M0I7b4cROPN3Zp0lpp8"
+        },
+        {
+            "position": 18,
+            "title": "Halcyon Counseling & Wellness",
+            "address": "2622 Pioneer Ave, Cheyenne, WY 82001",
+            "latitude": 41.141318999999996,
+            "longitude": -104.8241807,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Psychotherapist"
+            ],
+            "website": "http://hcwellnessgroup.com/",
+            "phoneNumber": "(307) 222-8213",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5XYT1YZ8-YDVCvKX3g0Epg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=210.38878&pitch=0&thumbfov=100",
+            "cid": "6044810239303894076",
+            "fid": "0x876f3bd61e4c2dd9:0x53e37ae2c85a443c",
+            "placeId": "ChIJ2S1MHtY7b4cRPERayOJ641M"
+        },
+        {
+            "position": 19,
+            "title": "UCHealth Primary Care - Cheyenne",
+            "address": "5050 Powderhouse Rd, Cheyenne, WY 82009",
+            "latitude": 41.165231999999996,
+            "longitude": -104.8101688,
+            "rating": 4.5,
+            "ratingCount": 297,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Doctor",
+                "Medical clinic"
+            ],
+            "website": "https://www.uchealth.org/locations/uchealth-primary-care-clinic-cheyenne/",
+            "phoneNumber": "(307) 634-1311",
+            "openingHours": {
+                "Tuesday": "7:10\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:10\u202fAM\u20135\u202fPM",
+                "Thursday": "7:10\u202fAM\u20135\u202fPM",
+                "Friday": "7:10\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:10\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_eHmOnDLoC7FZYUpmaI9WfI-MYgvyDDGlz6ROe6xffAh7yUDO8DebCiykXlG1_mHW0EAEkLO0t6-xhv8ZMR_ZZoYgZIIkBunil9mW7hNbX4vNhp6Brgoq6gslNhwBbkU4ptNw6",
+            "cid": "9350585673574560126",
+            "fid": "0x876f3a50714148dd:0x81c3f420eb44b17e",
+            "placeId": "ChIJ3UhBcVA6b4cRfrFE6yD0w4E"
+        },
+        {
+            "position": 20,
+            "title": "Hotz Chiropractic Wellness Center",
+            "address": "3229 E Pershing Blvd, Cheyenne, WY 82001",
+            "latitude": 41.1442021,
+            "longitude": -104.77042829999999,
+            "rating": 4.9,
+            "ratingCount": 49,
+            "type": "Chiropractor",
+            "types": [
+                "Chiropractor",
+                "Wellness program"
+            ],
+            "phoneNumber": "(307) 426-4085",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcAcgJ2YwrL3CmHthHphSj7DiY1-QZp5mFKrmc",
+            "cid": "11592703796203285950",
+            "fid": "0x876f3a939a1d88e1:0xa0e18eae8f04edbe",
+            "placeId": "ChIJ4YgdmpM6b4cRvu0Ej66O4aA"
+        }
+    ],
+    "credits": 3
+}

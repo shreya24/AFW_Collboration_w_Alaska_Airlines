@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Rocky Boy Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2928504,-109.898529,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Independence Bank ATM",
+            "address": "6850 Upper Box Elder Rd, Box Elder, MT 59521",
+            "latitude": 48.2928504,
+            "longitude": -109.898529,
+            "rating": 3.2,
+            "ratingCount": 12,
+            "type": "ATM",
+            "types": [
+                "ATM"
+            ],
+            "website": "https://www.rbclinic.org/",
+            "phoneNumber": "(406) 395-4486",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUSue0t7x_gaTEALvV3qQX-WtQ319AdC4lukDL",
+            "cid": "18227100233088146956",
+            "fid": "0x53401dfa851c3a77:0xfcf3ab1736a89e0c",
+            "placeId": "ChIJdzochfodQFMRDJ6oNher8_w"
+        }
+    ],
+    "credits": 3
+}

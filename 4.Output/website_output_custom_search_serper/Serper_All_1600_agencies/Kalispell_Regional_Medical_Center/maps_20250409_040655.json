@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Kalispell Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2147675,-114.3236774,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Medical Center",
+            "address": "310 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2147675,
+            "longitude": -114.3236774,
+            "rating": 2.3,
+            "ratingCount": 393,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.logan.org/logan-health-medical-center/",
+            "phoneNumber": "(406) 752-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOpJXVp4v1vL3k2aMUp0oEp4q7F-APNAMfclNtM",
+            "cid": "1626888663088709937",
+            "fid": "0x5366509fc8ff68ef:0x1693de9e94834131",
+            "placeId": "ChIJ72j_yJ9QZlMRMUGDlJ7ekxY"
+        }
+    ],
+    "credits": 3
+}

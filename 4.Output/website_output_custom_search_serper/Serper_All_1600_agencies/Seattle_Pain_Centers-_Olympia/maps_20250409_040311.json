@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Seattle Pain Centers- Olympia",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.0479485,-122.9381666,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Seattle Pain Center",
+            "address": "2950 Limited Ln NW, Olympia, WA 98502",
+            "latitude": 47.0479485,
+            "longitude": -122.93816659999999,
+            "rating": 1.8,
+            "ratingCount": 14,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic"
+            ],
+            "phoneNumber": "(360) 252-9777",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=86aNHWczNyN8YMi4F519Rg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=52.8901&pitch=0&thumbfov=100",
+            "cid": "10118574088345304301",
+            "fid": "0x54910b2f0499b661:0x8c6c6585d94b3ced",
+            "placeId": "ChIJYbaZBC8LkVQR7TxL2YVlbIw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Inland Vascular Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9231237,-117.345002,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Inland Vascular",
+            "address": "212 E Central Ave # 245, Spokane, WA 99208",
+            "latitude": 47.7114103,
+            "longitude": -117.4070509,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Vascular surgeon"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-medical-center/vascular-surgery",
+            "phoneNumber": "(509) 838-8286",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p2GGcUjiDPcO0U7UutH5Ig&cb_client=search.gws-prod.gps&w=80&h=92&yaw=155.84077&pitch=0&thumbfov=100",
+            "cid": "16134387920750974203",
+            "fid": "0x549e194b7f99da8f:0xdfe8dc548cb714fb",
+            "placeId": "ChIJj9qZf0sZnlQR-xS3jFTc6N8"
+        },
+        {
+            "position": 2,
+            "title": "Inland Empire Heart & Vascular Institute at Dignity Health St. Bernardine Medical Center",
+            "address": "2101 N Waterman Ave, San Bernardino, CA 92404",
+            "latitude": 34.1348371,
+            "longitude": -117.2769883,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/inland-empire-heart-&-vascular-institute-st-bernardine-medical-center-san-bernardino",
+            "phoneNumber": "(909) 883-8711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4EH23FC9GDfMG6lPwJXIXPB_1LtEb9jKF_Tge",
+            "cid": "17922102521005234224",
+            "fid": "0x80c3537981a17123:0xf8b8194998a65830",
+            "placeId": "ChIJI3GhgXlTw4ARMFimmEkZuPg"
+        },
+        {
+            "position": 3,
+            "title": "Providence Inland Vascular Institute: Reilly M Kathleen MD",
+            "address": "62 W 7th Ave #420, Spokane, WA 99204",
+            "latitude": 47.649129699999996,
+            "longitude": -117.4130158,
+            "type": "Vascular surgeon",
+            "types": [
+                "Vascular surgeon"
+            ],
+            "phoneNumber": "(509) 838-8286",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U6D_lIT0jhN1bua-Mkd3DQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=225.35071&pitch=0&thumbfov=100",
+            "cid": "16076525763658886924",
+            "fid": "0x549e187c67c64875:0xdf1b4b01454daf0c",
+            "placeId": "ChIJdUjGZ3wYnlQRDK9NRQFLG98"
+        }
+    ],
+    "credits": 3
+}

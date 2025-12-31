@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "Ketchikan Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@55.3537345,-131.6866167,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth Ketchikan Medical Center",
+            "address": "3100 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.3536571,
+            "longitude": -131.6866346,
+            "rating": 3.2,
+            "ratingCount": 42,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-ketchikan-medical-center?utm_source=gbp&utm_medium=organic&utm_content=KETC-000&utm_campaign=gmb",
+            "phoneNumber": "(907) 225-5171",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_DMvktT5wSUm4WV9rLoRZU8PHjg8y2bl_LlTFTEWnB7L9zqJs3V7MhYG1o11LDeIRXiwY5lAevO4mJwP3Hj-_baxos4K0EI0eraGLMTCyh78OMxBow3pUxn8sIccrADvoPqDr-ow",
+            "cid": "15197938523282214872",
+            "fid": "0x540c25b962574335:0xd2e9ec9096760fd8",
+            "placeId": "ChIJNUNXYrklDFQR2A92lpDs6dI"
+        },
+        {
+            "position": 2,
+            "title": "PeaceHealth Ketchikan Medical Center: Emergency Room",
+            "address": "3100 Tongass Ave, Ketchikan, AK 99901",
+            "latitude": 55.3538119,
+            "longitude": -131.6865989,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.peacehealth.org/ketchikan",
+            "phoneNumber": "(907) 225-5171",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IFO3RhS-p4bkOk5hDxUNdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=118.05421&pitch=0&thumbfov=100",
+            "cid": "1716113618111336877",
+            "fid": "0x540c25b961c81345:0x17d0dc3e49bc91ad",
+            "placeId": "ChIJRRPIYbklDFQRrZG8ST7c0Bc"
+        },
+        {
+            "position": 3,
+            "title": "Family Medicine at PeaceHealth Ketchikan Medical Center",
+            "address": "Clinic Entrance, 3100 Tongass Ave 2nd Floor, Ketchikan, AK 99901",
+            "latitude": 55.3536571,
+            "longitude": -131.6866346,
+            "rating": 3,
+            "ratingCount": 9,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.peacehealth.org/phmg/ketchikan-craig/",
+            "phoneNumber": "(907) 228-8140",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_DKwKfxog85G2cT1dy70rSnI3aIwXskzzPQif5Nm1qyqwJJrozq2niJWyjFUfRbFTsW2wJAwGPeKum4DK9cnsIzR88uPcnE0pfpxDzGk-3aCOcFETjqvXdX9QcbRCh4HLtdZc",
+            "cid": "17065957670695026531",
+            "fid": "0x540c25b9696c3daf:0xecd6761509a13f63",
+            "placeId": "ChIJrz1sabklDFQRYz-hCRV21uw"
+        }
+    ],
+    "credits": 3
+}

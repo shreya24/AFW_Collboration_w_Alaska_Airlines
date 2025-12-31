@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Cedars-Sinai Comprehensive Transplant Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0755209,-118.3834536,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cedars-Sinai Comprehensive Transplant Center",
+            "address": "8900 Beverly Blvd 3rd floor, Los Angeles, CA 90048",
+            "latitude": 34.0770026,
+            "longitude": -118.38616999999999,
+            "rating": 4.7,
+            "ratingCount": 14,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.cedars-sinai.org/locations/comprehensive-transplant-center-97.html?utm_medium=listings",
+            "phoneNumber": "(800) 233-2771",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcgR_tRc1_5w1ZSfoHWFwRq0xAQ4rAmWJH6bhb",
+            "cid": "2799914262365347894",
+            "fid": "0x80c2beac6d9afe01:0x26db4b2fe1d62036",
+            "placeId": "ChIJAf6abay-woARNiDW4S9L2yY"
+        },
+        {
+            "position": 2,
+            "title": "Comprehensive Transplant Center",
+            "address": "8635 W 3rd St, Los Angeles, CA 90048",
+            "latitude": 34.0740391,
+            "longitude": -118.38073729999999,
+            "type": "Transplant surgeon",
+            "types": [
+                "Transplant surgeon"
+            ],
+            "phoneNumber": "(310) 423-2641",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uRpmqbkR5MCef-qlz1V0PQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=9.65982&pitch=0&thumbfov=100",
+            "cid": "10385500218871329892",
+            "fid": "0x80c2b94d5ebb08a3:0x9020b56ca0913464",
+            "placeId": "ChIJowi7Xk25woARZDSRoGy1IJA"
+        }
+    ],
+    "credits": 3
+}

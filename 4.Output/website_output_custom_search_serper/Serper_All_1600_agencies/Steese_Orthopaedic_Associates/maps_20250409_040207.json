@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Steese Orthopaedic Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8636877,-87.5587375,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Orthopaedic Associates, Inc",
+            "address": "340 Starlite Dr, Henderson, KY 42420",
+            "latitude": 37.8636877,
+            "longitude": -87.55873749999999,
+            "rating": 4.8,
+            "ratingCount": 215,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Orthopedic surgeon",
+                "Podiatrist"
+            ],
+            "website": "https://www.oaevansville.com/",
+            "phoneNumber": "(812) 424-9291",
+            "menu": "https://www.oaevansville.com/services?utm_source=google_menu",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.oaevansville.com/schedule?utm_source=google_apt&ao=Google",
+                "https://www.tebra.com/care/practice/orthopaedic-associates-inc-843689?lid=3781081192&rwg_token=AAiGsoYx9MDsUlUcarEQY2VyoR4EZwTbjRTvcnC-nTBGqtG1sYnBFfNfKjt_4mSAb-VflOlvdmSQ9So7DzjvS2BUcGRHPftf-g%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPoOD_eTzmNOENsE-ln3biSz5n-ba-IiYdauV5R",
+            "cid": "12926639724084042745",
+            "fid": "0x887029f43fb0e885:0xb364a6573d7b9bf9",
+            "placeId": "ChIJheiwP_QpcIgR-Zt7PVemZLM"
+        }
+    ],
+    "credits": 3
+}

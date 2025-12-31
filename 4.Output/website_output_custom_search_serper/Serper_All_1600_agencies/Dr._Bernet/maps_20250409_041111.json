@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Dr. Bernet",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4672822,-101.5823824,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Daniel Bernet, DO",
+            "address": "2081 Bronze Star Dr, Woodland, CA 95776",
+            "latitude": 38.6704696,
+            "longitude": -121.7243505,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/locations/woodland-urgent-care",
+            "phoneNumber": "(530) 668-2600",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20138\u202fPM",
+                "Wednesday": "9\u202fAM\u20138\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20135\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoL5SMRnDHur6uPTc34R-BuGaBH6DIOnUgh_YR",
+            "cid": "10194825733609086952",
+            "fid": "0x8084d1a6be07fdb1:0x8d7b4bfd7ec7dfe8",
+            "placeId": "ChIJsf0HvqbRhIAR6N_Hfv1Le40"
+        },
+        {
+            "position": 2,
+            "title": "Victor J. Bernet, MD",
+            "address": "4500 San Pablo Rd S, Jacksonville, FL 32224",
+            "latitude": 30.264094699999998,
+            "longitude": -81.4404143,
+            "type": "Endocrinologist",
+            "types": [
+                "Endocrinologist",
+                "Doctor",
+                "Internist"
+            ],
+            "website": "https://www.mayoclinic.org/biographies/bernet-victor-m-d/bio-20055366",
+            "phoneNumber": "(904) 953-2000",
+            "bookingLinks": [
+                "https://www.mayoclinic.org/appointments"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZdIS5F99ZSfanlo-3wKrdg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=335.94724&pitch=0&thumbfov=100",
+            "cid": "14810713281879451148",
+            "fid": "0x88e44a1a66c36c11:0xcd8a39426495a60c",
+            "placeId": "ChIJEWzDZhpK5IgRDKaVZEI5is0"
+        },
+        {
+            "position": 3,
+            "title": "Laura L Bernet M.D. | Kaiser Permanente",
+            "address": "5971 Venice Blvd., Los Angeles, CA 90034",
+            "latitude": 34.038685099999995,
+            "longitude": -118.3728165,
+            "type": "Dermatologist",
+            "types": [
+                "Dermatologist"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/Laura-Bernet-8464557?utm_source=GMB_listing",
+            "phoneNumber": "(833) 574-2273",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=24IzesDt4uwiUox8gO5g8A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=236.2614&pitch=0&thumbfov=100",
+            "cid": "17007469772387792918",
+            "fid": "0x80c2b901d94fbb01:0xec06aba6075e3816",
+            "placeId": "ChIJAbtP2QG5woARFjheB6arBuw"
+        }
+    ],
+    "credits": 3
+}

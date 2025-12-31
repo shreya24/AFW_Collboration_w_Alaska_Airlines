@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Extreme Sports Camp",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@28.4023741,-81.9457935,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Extreme Youth Sports - Tampa Bay",
+            "address": "4920 Newkirk Dr #5, Tampa, FL 33624",
+            "latitude": 28.105584099999998,
+            "longitude": -82.5318226,
+            "rating": 4.7,
+            "ratingCount": 53,
+            "type": "After school program",
+            "types": [
+                "After school program",
+                "Children's camp",
+                "Children's club",
+                "Sports club",
+                "Sports school",
+                "Summer camp organizer",
+                "Youth organization"
+            ],
+            "website": "https://extremeyouthsports.com/",
+            "phoneNumber": "(813) 817-5425",
+            "openingHours": {
+                "Tuesday": "1\u20136\u202fPM",
+                "Wednesday": "1\u20136\u202fPM",
+                "Thursday": "1\u20136\u202fPM",
+                "Friday": "1\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "12\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOnsBJCO6YfaSFUna_eGDimm_aWV9Sb650wRjO",
+            "cid": "272321795958714613",
+            "fid": "0x88c2bf8faeddc577:0x3c77b3b08b730f5",
+            "placeId": "ChIJd8Xdro-_wogR9TC3CDt7xwM"
+        },
+        {
+            "position": 2,
+            "title": "Extreme Youth Sports",
+            "address": "300 St Laurent St #152, Longwood, FL 32750",
+            "latitude": 28.699164099999997,
+            "longitude": -81.3597645,
+            "rating": 4.9,
+            "ratingCount": 41,
+            "type": "After school program",
+            "types": [
+                "After school program"
+            ],
+            "website": "http://longwoodafterschool.com/",
+            "phoneNumber": "(407) 900-9579",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM1NfgTSjjVBjaAvIqOPn4gcWt6o4LfptyXI34n",
+            "cid": "5648550568652970390",
+            "fid": "0x88e772f1dd9e30bd:0x4e63aed09c641996",
+            "placeId": "ChIJvTCe3fFy54gRlhlknNCuY04"
+        }
+    ],
+    "credits": 3
+}

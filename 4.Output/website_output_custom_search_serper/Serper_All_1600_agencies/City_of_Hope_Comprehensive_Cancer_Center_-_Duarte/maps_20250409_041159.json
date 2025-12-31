@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "City of Hope Comprehensive Cancer Center - Duarte",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1306791,-117.9718844,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "City of Hope Comprehensive Cancer Center - Duarte",
+            "address": "1500 E Duarte Rd, Duarte, CA 91010",
+            "latitude": 34.132163,
+            "longitude": -117.9709616,
+            "rating": 4.4,
+            "ratingCount": 344,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Diabetes center",
+                "Medical Center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/duarte?invsrc=local_search_x_facility_coh_duarte",
+            "phoneNumber": "(626) 275-8069",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFtAMh4HpTXGkgXLf3F3itPtfPxGnKORMz5T-e",
+            "cid": "11091606418358033034",
+            "fid": "0x80c2d9accf494e8b:0x99ed4d458aac5a8a",
+            "placeId": "ChIJi05Jz6zZwoARilqsikVN7Zk"
+        },
+        {
+            "position": 2,
+            "title": "City of Hope",
+            "address": "1500 E Duarte Rd, Duarte, CA 91010",
+            "latitude": 34.1291952,
+            "longitude": -117.97280719999999,
+            "rating": 3.7,
+            "ratingCount": 47,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.cityofhope.org/",
+            "phoneNumber": "(626) 256-4673",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipML5WA2q8mXu_6rT5HoQNms0QQd_A8fUloZmfGM",
+            "cid": "12935555560199638320",
+            "fid": "0x80c2d9de89b4e8b3:0xb384533f1a074d30",
+            "placeId": "ChIJs-i0id7ZwoARME0HGj9ThLM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "Dr. Mark D. Mifflin",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6649225,-111.8854977,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mark D Mifflin, MD",
+            "address": "65 Mario Capecchi Dr, Salt Lake City, UT 84132",
+            "latitude": 40.7697402,
+            "longitude": -111.83787249999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://healthcare.utah.edu/moran/",
+            "phoneNumber": "(801) 581-2352",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPiqIA_oI_8DGi6xdliYimeQHMFzONpGFq4WpxQ",
+            "cid": "6574667238660905705",
+            "fid": "0x87525f9095f2a6c3:0x5b3de904fcc81ae9",
+            "placeId": "ChIJw6bylZBfUocR6RrI_ATpPVs"
+        },
+        {
+            "position": 2,
+            "title": "Mark D. Mifflin",
+            "address": "243 E 6100 S, Murray, UT 84107",
+            "latitude": 40.638852899999996,
+            "longitude": -111.8852323,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://healthcare.utah.edu/fad/index.php",
+            "phoneNumber": "(801) 585-3937",
+            "bookingLinks": [
+                "https://mychart.med.utah.edu/mychart/openscheduling/openscheduling/standalone?id=1548350150&vt=2966"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LniW9B3CX4xEE-4l_fOULw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=300.17096&pitch=0&thumbfov=100",
+            "cid": "8326179158460688001",
+            "fid": "0x8752630055555555:0x738c87d4a44f6681",
+            "placeId": "ChIJVVVVVQBjUocRgWZPpNSHjHM"
+        },
+        {
+            "position": 3,
+            "title": "Moran Eye Center: Mifflin Mark D MD",
+            "address": "1525 2100 S, Salt Lake City, UT 84119",
+            "latitude": 40.725394699999995,
+            "longitude": -111.933123,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://healthcare.utah.edu/",
+            "phoneNumber": "(801) 581-2352",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zxYqU37BFdipd-NHlpaNwQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=2.860913&pitch=0&thumbfov=100",
+            "cid": "10142617300595776958",
+            "fid": "0x87528b4b533ad45f:0x8cc1d0b26ebe1dbe",
+            "placeId": "ChIJX9Q6U0uLUocRvh2-brLQwYw"
+        },
+        {
+            "position": 4,
+            "title": "Moran Eye Center: Mifflin Mark D MD",
+            "address": "1091 South Jordan Pkwy # 500, South Jordan, UT 84095",
+            "latitude": 40.5601048,
+            "longitude": -111.9213685,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://healthcare.utah.edu/",
+            "phoneNumber": "(801) 581-2352",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NoOiWc5t0j0ICNdIj6oYtw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=317.97522&pitch=0&thumbfov=100",
+            "cid": "10851216179369347558",
+            "fid": "0x8752863b97aa47d7:0x9697439f784809e6",
+            "placeId": "ChIJ10eqlzuGUocR5glIeJ9Dl5Y"
+        }
+    ],
+    "credits": 3
+}

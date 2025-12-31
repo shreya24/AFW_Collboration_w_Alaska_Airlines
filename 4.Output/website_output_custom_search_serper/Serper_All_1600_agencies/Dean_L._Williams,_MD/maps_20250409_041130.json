@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dean L. Williams, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.7824115,-112.8490641,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dean L Williams Md",
+            "address": "590 Gifford Ave, American Falls, ID 83211",
+            "latitude": 42.782411499999995,
+            "longitude": -112.84906409999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(208) 226-5147",
+            "openingHours": {
+                "Tuesday": "Closed",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ORIkcCjg7kTPl5N6d3VecA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=314.99005&pitch=0&thumbfov=100",
+            "cid": "984124743229722806",
+            "fid": "0x54aaaf07f86b305b:0xda8503d66e150b6",
+            "placeId": "ChIJWzBr-AevqlQRtlDhZj1QqA0"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Pali Momi Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3834841,-157.9384211,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pali Momi Medical Center",
+            "address": "98-1079 Moanalua Rd, Aiea, HI 96701",
+            "latitude": 21.3834841,
+            "longitude": -157.9384211,
+            "rating": 3.8,
+            "ratingCount": 113,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Cancer treatment center",
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Women's health clinic"
+            ],
+            "website": "https://www.hawaiipacifichealth.org/pali-momi/locations/pali-momi-medical-center/",
+            "phoneNumber": "(808) 486-6000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0VSPv3P5oTmEoFJ1M1uDDL79GdPi2nWfrupV_",
+            "cid": "2189568031585470057",
+            "fid": "0x7c006f4d1068b1f1:0x1e62e8861e340669",
+            "placeId": "ChIJ8bFoEE1vAHwRaQY0HoboYh4"
+        }
+    ],
+    "credits": 3
+}

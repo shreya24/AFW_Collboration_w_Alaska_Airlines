@@ -1,0 +1,413 @@
+{
+    "searchParameters": {
+        "q": "Wyoming Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@5.4322266,-153.182094,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Wyoming Medical Center",
+            "address": "1233 E 2nd St, Casper, WY 82601",
+            "latitude": 42.8480993,
+            "longitude": -106.30814869999999,
+            "rating": 2.7,
+            "ratingCount": 302,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room"
+            ],
+            "website": "https://www.bannerhealth.com/locations/casper/wyoming-medical-center?y_source=1_NTQyNzEwNTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(307) 577-7201",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMI6yKQgt4DJb7XVzzwbGAQlZWHm3GQR5hX9bWq",
+            "cid": "14078608265084031081",
+            "fid": "0x8760bc831a18b50d:0xc36143a01c365069",
+            "placeId": "ChIJDbUYGoO8YIcRaVA2HKBDYcM"
+        },
+        {
+            "position": 2,
+            "title": "Banner Wyoming Medical Center East Campus",
+            "address": "6550 E 2nd St, Casper, WY 82609",
+            "latitude": 42.8408132,
+            "longitude": -106.22597499999999,
+            "rating": 3.1,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Surgical center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/casper/banner-wyoming-medical-center-east-campus?y_source=1_NTQyNjk3MjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(307) 995-8100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.bannerhealth.com/physician-directory?y_source=1_NTQyNjk3MjgtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCfURl6uiHZMRhizaaElHMb4AtE78JcBNFv87X",
+            "cid": "7809658932530219136",
+            "fid": "0x8760b9414f1c9e7f:0x6c617b6bfa6b8880",
+            "placeId": "ChIJf54cT0G5YIcRgIhr-mt7YWw"
+        },
+        {
+            "position": 3,
+            "title": "Wyoming Medical & Dental Centre",
+            "address": "Cnr Pacific Highway &, 1/24 Kinarra Ave, Wyoming NSW 2250, Australia",
+            "latitude": -33.4061041,
+            "longitude": 151.3516196,
+            "rating": 4,
+            "ratingCount": 704,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Women's health clinic",
+                "Travel clinic"
+            ],
+            "website": "https://www.wyomingmedicalcentre.com.au/",
+            "phoneNumber": "+61 2 4329 9000",
+            "openingHours": {
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM",
+                "Tuesday": "7\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.hotdoc.com.au/medical-centres/wyoming-NSW-2250/wyoming-medical-dental-centre/doctors"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMV8rB6MjbKqtgOVDIDBP8B9hksafmm2nw4_Fyf",
+            "cid": "7122519410761773493",
+            "fid": "0x6b72cae9e9b7e5f9:0x62d845aad847b1b5",
+            "placeId": "ChIJ-eW36enKcmsRtbFH2KpF2GI"
+        },
+        {
+            "position": 4,
+            "title": "Sage Primary Care",
+            "address": "1020 S Conwell St, Casper, WY 82601",
+            "latitude": 42.8399521,
+            "longitude": -106.3077737,
+            "rating": 2.9,
+            "ratingCount": 49,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Doctor",
+                "Family practice physician",
+                "Urgent care center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/casper/banner-health-clinic-primary-care-conwell",
+            "phoneNumber": "(307) 265-8300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsqVTor0UwBSAl6Sg_EhR5j6LxUIgBHOW3yhQ4",
+            "cid": "5971568770571973084",
+            "fid": "0x8760bc82ea7b04fd:0x52df462879c231dc",
+            "placeId": "ChIJ_QR76oK8YIcR3DHCeShG31I"
+        },
+        {
+            "position": 5,
+            "title": "Wyoming Medical Associates",
+            "address": "51 Town Ctr Dr #120, Gillette, WY 82718",
+            "latitude": 44.2705574,
+            "longitude": -105.491333,
+            "rating": 4.9,
+            "ratingCount": 298,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Internal medicine ward",
+                "Medical Center",
+                "Medical clinic",
+                "Surgeon",
+                "Vascular surgeon"
+            ],
+            "website": "https://wyomingmedical.com/",
+            "phoneNumber": "(307) 682-9962",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPld4w9Vx2taGE9dr6KNpnKQ5RXfNVxHthLC7qA",
+            "cid": "17922578534550552598",
+            "fid": "0x533495f82bd1b263:0xf8b9ca3822ed4016",
+            "placeId": "ChIJY7LRK_iVNFMRFkDtIjjKufg"
+        },
+        {
+            "position": 6,
+            "title": "Community Health Center of Central Wyoming",
+            "address": "5000 Blackmore Rd, Casper, WY 82609",
+            "latitude": 42.841927899999995,
+            "longitude": -106.2579074,
+            "rating": 4,
+            "ratingCount": 336,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dental clinic",
+                "Family practice physician",
+                "Laboratory",
+                "Mental health service",
+                "Women's health clinic",
+                "Pediatrician",
+                "Pharmacy",
+                "Urgent care center",
+                "X-ray lab"
+            ],
+            "website": "http://www.chccw.org/",
+            "phoneNumber": "(307) 233-6000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO9AzINJGlou6pPys9Ai-VEKBU3RPoGY00RIj-4",
+            "cid": "1712910432214239032",
+            "fid": "0x8760bc86a119197f:0x17c57af67430c738",
+            "placeId": "ChIJfxkZoYa8YIcROMcwdPZ6xRc"
+        },
+        {
+            "position": 7,
+            "title": "Wyoming Health Medical Group",
+            "address": "6600 E 2nd St, Casper, WY 82609",
+            "latitude": 42.840509399999995,
+            "longitude": -106.22534789999999,
+            "rating": 2,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://wyomingmedicalcenter.org/services-clinics",
+            "phoneNumber": "(877) 266-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "10626380618852550228",
+            "fid": "0x8760b9414f1c9e7f:0x93787cdf32cd4654",
+            "placeId": "ChIJf54cT0G5YIcRVEbNMt98eJM"
+        },
+        {
+            "position": 8,
+            "title": "University of Wyoming Family Medicine",
+            "address": "820 E 17th St, Cheyenne, WY 82001",
+            "latitude": 41.1374326,
+            "longitude": -104.80670409999999,
+            "rating": 3,
+            "ratingCount": 64,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Community health centre",
+                "Academic department"
+            ],
+            "website": "http://www.uwyo.edu/uw-fam-cheyenne/",
+            "phoneNumber": "(307) 632-2434",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1:30\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NeMlxxxPHQSbA3U8h-v3tw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=312.745&pitch=0&thumbfov=100",
+            "cid": "1143555799910424794",
+            "fid": "0x876f3ae77714e1a1:0xfdeb9f0f27fa0da",
+            "placeId": "ChIJoeEUd-c6b4cR2qB_8vC53g8"
+        },
+        {
+            "position": 9,
+            "title": "Wyoming Medical Center Heliport",
+            "address": "Casper, WY 82601",
+            "latitude": 42.8476375,
+            "longitude": -106.3082385,
+            "rating": 4.5,
+            "ratingCount": 43,
+            "type": "Heliport",
+            "types": [
+                "Heliport"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNJ93Nga64y7RtQ5eeHPSRLk5SXjxpMIkS0sDs_",
+            "cid": "8309506744645276771",
+            "fid": "0x8760bc8301bae781:0x73514c5bcd4b5463",
+            "placeId": "ChIJgee6AYO8YIcRY1RLzVtMUXM"
+        },
+        {
+            "position": 10,
+            "title": "Banner Wyoming Medical Center Emergency Room",
+            "address": "1233 E 2nd St, Casper, WY 82601",
+            "latitude": 42.8479045,
+            "longitude": -106.3080628,
+            "rating": 3.3,
+            "ratingCount": 36,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.bannerhealth.com/locations/casper/banner-wyoming-medical-center-er?y_source=1_MTAyMTk1OTk3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(307) 577-7201",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO3-MHwpoqthg7W2ZZlcYIT9r8cXgkbPGbGujJj",
+            "cid": "9532293648915701327",
+            "fid": "0x8760bd5abb84d573:0x84498291c6551e4f",
+            "placeId": "ChIJc9WEu1q9YIcRTx5VxpGCSYQ"
+        },
+        {
+            "position": 11,
+            "title": "Wyoming Springs Medical Center",
+            "address": "7200 Wyoming Springs Dr #100, Round Rock, TX 78681",
+            "latitude": 30.512651899999998,
+            "longitude": -97.71580759999999,
+            "rating": 4.4,
+            "ratingCount": 12,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20133:30\u202fPM",
+                "Friday": "7\u202fAM\u20131\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO08wXgRv-GA994qBKsLPiIxZ_K2RrzUz0w-5wq",
+            "cid": "13545270652557918164",
+            "fid": "0x8644d239366511a9:0xbbfa77e4803cffd4",
+            "placeId": "ChIJqRFlNjnSRIYR1P88gOR3-rs"
+        },
+        {
+            "position": 12,
+            "title": "Banner Health Clinic",
+            "address": "3632 American Way Suite A, Casper, WY 82604",
+            "latitude": 42.814427699999996,
+            "longitude": -106.3654196,
+            "rating": 2.5,
+            "ratingCount": 91,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://www.bannerhealth.com/Locations/casper/banner-health-clinic-primary-care-american?y_source=1_NTQyNjg1ODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(307) 234-6765",
+            "openingHours": {
+                "Tuesday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Wednesday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Thursday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Friday": "12\u20136\u202fAM, 7\u202fAM\u201312\u202fAM",
+                "Saturday": "12\u20136\u202fAM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u201312\u202fAM"
+            },
+            "bookingLinks": [
+                "https://doctors.bannerhealth.com/search?filter=locations.external_id%3A104116%239082624971&y_source=1_NTQyNjg1ODAtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOXGRuSlZAD7KfOoKLnLbP1lRsFT0eqnoutmriG",
+            "cid": "4899654623800680138",
+            "fid": "0x8760bc829218a8e9:0x43ff11ebbdbd5eca",
+            "placeId": "ChIJ6agYkoK8YIcRyl69vesR_0M"
+        },
+        {
+            "position": 13,
+            "title": "Wyoming Medical Center Professional Laboratory Services",
+            "address": "1233 E 2nd St, Casper, WY 82601",
+            "latitude": 42.8479976,
+            "longitude": -106.3081751,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory"
+            ],
+            "phoneNumber": "(307) 577-2365",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134\u202fPM",
+                "Wednesday": "7\u202fAM\u20134\u202fPM",
+                "Thursday": "7\u202fAM\u20134\u202fPM",
+                "Friday": "7\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6nBlBniTfgPvCCdZLW3URHa0jo8TWBOdqPDg9",
+            "cid": "7546559308102356350",
+            "fid": "0x8760bc830425f3bb:0x68bac3b513dbcd7e",
+            "placeId": "ChIJu_MlBIO8YIcRfs3bE7XDumg"
+        },
+        {
+            "position": 14,
+            "title": "Respiratory Symptom Screening Clinic (Wyoming Medical Center)",
+            "address": "245 S Fenway St, Casper, WY 82601",
+            "latitude": 42.847635499999996,
+            "longitude": -106.3049623,
+            "rating": 2.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(307) 233-0291",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KAb0pgRP7mulDarsuyXOlg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=78.53252&pitch=0&thumbfov=100",
+            "cid": "1794209718482681067",
+            "fid": "0x8760bc81865aaaab:0x18e6503b9ab6bceb",
+            "placeId": "ChIJq6pahoG8YIcR67y2mjtQ5hg"
+        }
+    ],
+    "credits": 3
+}

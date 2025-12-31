@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Robert Rowen, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4609791,-122.7245166,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr Rowen",
+            "address": "2200 County Center Dr, Santa Rosa, CA 95403",
+            "latitude": 38.460979099999996,
+            "longitude": -122.7245166,
+            "rating": 4.6,
+            "ratingCount": 37,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://drrowendrsu.com/",
+            "phoneNumber": "(707) 578-7787",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "9\u202fAM\u20134:30\u202fPM",
+                "Thursday": "9\u202fAM\u20134:30\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYQLEUk1OAVjtAn5DL2LNQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=189.72789&pitch=0&thumbfov=100",
+            "cid": "17320873577797879658",
+            "fid": "0x80843871258636cb:0xf0601abfc417876a",
+            "placeId": "ChIJyzaGJXE4hIARaocXxL8aYPA"
+        }
+    ],
+    "credits": 3
+}

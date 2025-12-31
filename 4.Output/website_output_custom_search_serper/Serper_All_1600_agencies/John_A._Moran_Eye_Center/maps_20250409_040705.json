@@ -1,0 +1,109 @@
+{
+    "searchParameters": {
+        "q": "John A. Moran Eye Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.521284,-111.8560681,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Moran Eye Center",
+            "address": "65 Mario Capecchi Dr, Salt Lake City, UT 84132",
+            "latitude": 40.7697704,
+            "longitude": -111.83788829999999,
+            "rating": 3.5,
+            "ratingCount": 154,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Hospital department"
+            ],
+            "website": "https://healthcare.utah.edu/locations/moran-eye-center/",
+            "phoneNumber": "(801) 581-2352",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healthcare.utah.edu/moran/appointment.php",
+                "https://patients.doctor.com/directAppointment?partner=google&practice=7537778"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB__BD_p__sH-bpvZPBrgw7tTgfeBdsUphszJ1B8HeBfK4k5XfDRi3Fv5aSy1JXHFiMOQ8pJwGPVsWnewQsS0_W0odrkpEnBK43hHqcQuq4S4Dqi_6-f5r07GpnXArvGrxSVrF2kcw",
+            "cid": "5662771871288182143",
+            "fid": "0x87525f9095f2a6c3:0x4e963503a834c57f",
+            "placeId": "ChIJw6bylZBfUocRf8U0qAM1lk4"
+        },
+        {
+            "position": 2,
+            "title": "Moran Eye Center at South Jordan Health Center",
+            "address": "5126 W Daybreak Pkwy, South Jordan, UT 84095",
+            "latitude": 40.5419226,
+            "longitude": -112.01335689999999,
+            "rating": 2.2,
+            "ratingCount": 28,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center"
+            ],
+            "website": "https://healthcare.utah.edu/moran/locations",
+            "phoneNumber": "(801) 213-5450",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-YST0tMvm_gbs35W3god7Ja7pHVEJ30dmGsQG2j--xnsWOkpprmz5LpGSIk81hZdWSeoWblmWzTrgIitVenZpGcyJTxtbm_cFX0J5rjJHaI-R2aTde4w1CECVP3GoICcm2bw7OoQ",
+            "cid": "1375141766295335495",
+            "fid": "0x8752856e4cdf95b5:0x13157c268fd63247",
+            "placeId": "ChIJtZXfTG6FUocRRzLWjyZ8FRM"
+        },
+        {
+            "position": 3,
+            "title": "Moran Eye Center at Parkway Health Center",
+            "address": "145 W University Pkwy, Orem, UT 84058",
+            "latitude": 40.2727976,
+            "longitude": -111.6987793,
+            "rating": 4,
+            "ratingCount": 8,
+            "type": "Eye care center",
+            "types": [
+                "Eye care center",
+                "Lasik surgeon",
+                "Ophthalmologist",
+                "Optician",
+                "Optometrist"
+            ],
+            "website": "https://healthcare.utah.edu/locations/parkway/moran-eye-center",
+            "phoneNumber": "(801) 234-8530",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://healthcare.utah.edu/locations/parkway/moran-eye-center.php"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dnj8qdy1MQABq_NGAq301g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=160.92877&pitch=0&thumbfov=100",
+            "cid": "7687149954445327670",
+            "fid": "0x874d9af120eb5f7d:0x6aae3e27c1dfbd36",
+            "placeId": "ChIJfV_rIPGaTYcRNr3fwSc-rmo"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "American Cancer Society - Anchorage",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1858307,-149.8212484,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "American Cancer Society",
+            "address": "3851 Piper St U240, Anchorage, AK 99508",
+            "latitude": 61.1858307,
+            "longitude": -149.8212484,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Charity"
+            ],
+            "website": "https://www.cancer.org/",
+            "phoneNumber": "(800) 227-2345",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P2CX8P0lUTOS0aNhr0qSTA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=108.35461&pitch=0&thumbfov=100",
+            "cid": "2539365183382569336",
+            "fid": "0x56c89706d2ec7ebf:0x233da32e1e834178",
+            "placeId": "ChIJv37s0gaXyFYReEGDHi6jPSM"
+        }
+    ],
+    "credits": 3
+}

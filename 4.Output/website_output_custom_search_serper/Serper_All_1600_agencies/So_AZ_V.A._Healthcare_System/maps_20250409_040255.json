@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "So AZ V.A. Healthcare System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.1817687,-110.9639677,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tucson VA Medical Center",
+            "address": "3601 S 6th Ave, Tucson, AZ 85723",
+            "latitude": 32.180983499999996,
+            "longitude": -110.96450709999999,
+            "rating": 3.5,
+            "ratingCount": 365,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Hospital",
+                "Mental health clinic"
+            ],
+            "website": "http://www.va.gov/",
+            "phoneNumber": "(520) 792-1450",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqh3U09VcDRfTXap9gAvqHLV2VebnHBJxwc6N9",
+            "cid": "11749973953640506689",
+            "fid": "0x86d6709de3e6a713:0xa3104b0e8ad5a541",
+            "placeId": "ChIJE6fm451w1oYRQaXVig5LEKM"
+        },
+        {
+            "position": 2,
+            "title": "Southern Arizona VA healthcare system",
+            "address": "Building 80, Tucson, AZ 85713",
+            "latitude": 32.1825539,
+            "longitude": -110.9634284,
+            "rating": 4,
+            "ratingCount": 18,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNcf_Qb9yt_Nu7K9C6ruW_xNMHNv-MQNtu-Kr5",
+            "cid": "471211096417395460",
+            "fid": "0x86d671f091d422f1:0x68a13fee02e6304",
+            "placeId": "ChIJ8SLUkfBx1oYRBGMu4P4TigY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Redoubt Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.5579479,-151.2527739,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Redoubt Medical Clinic",
+            "address": "130 S Willow St STE 1, Kenai, AK 99611",
+            "latitude": 60.557947899999995,
+            "longitude": -151.2527739,
+            "rating": 3.3,
+            "ratingCount": 10,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(907) 283-6030",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "10143103192356204804",
+            "fid": "0x56c67c9b6caee635:0x8cc38a9cec85b104",
+            "placeId": "ChIJNeaubJt8xlYRBLGF7JyKw4w"
+        }
+    ],
+    "credits": 3
+}

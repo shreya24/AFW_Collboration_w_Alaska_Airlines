@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bailey Boushay House",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6232264,-122.2969387,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bailey-Boushay House",
+            "address": "2720 E Madison St, Seattle, WA 98112",
+            "latitude": 47.6232264,
+            "longitude": -122.2969387,
+            "rating": 4.4,
+            "ratingCount": 27,
+            "type": "Assisted living facility",
+            "types": [
+                "Assisted living facility"
+            ],
+            "website": "https://www.baileyboushay.org/",
+            "phoneNumber": "(206) 322-5300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-bdX3rXToZNldkfF_nHxkOPOQ_rz7ct2Fwxvbc9IWyL4nVSZVa-liZUt-Kx_BRIJnCE9p9OltZZadKX9NEI85PUTpL6Mr3vYDLWJCJdyjhv568epN8kb5VULZRLYZ65jFM2Wrhpg",
+            "cid": "9106730306217089160",
+            "fid": "0x54906b2b660a481d:0x7e619af6c75a9888",
+            "placeId": "ChIJHUgKZitrkFQRiJhax_aaYX4"
+        }
+    ],
+    "credits": 3
+}

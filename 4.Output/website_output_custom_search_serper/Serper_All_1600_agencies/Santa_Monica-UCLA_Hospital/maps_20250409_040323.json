@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Santa Monica-UCLA Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0274739,-118.4866355,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Santa Monica Medical Center",
+            "address": "1250 16th St, Santa Monica, CA 90404",
+            "latitude": 34.0274739,
+            "longitude": -118.48663549999999,
+            "rating": 3.6,
+            "ratingCount": 321,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.uclahealth.org/santa-monica/?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 825-9111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNLwR31dCVr6HGn-y5cEhlkFjSkiEgo-p0YKKtZ",
+            "cid": "8985099273542104051",
+            "fid": "0x80c2bb355072975d:0x7cb17c2f2718f3f3",
+            "placeId": "ChIJXZdyUDW7woAR8_MYJy98sXw"
+        }
+    ],
+    "credits": 3
+}

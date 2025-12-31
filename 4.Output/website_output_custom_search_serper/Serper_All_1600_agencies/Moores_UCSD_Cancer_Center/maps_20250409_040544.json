@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Moores UCSD Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8786467,-117.2230577,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Moores Cancer Center at UC San Diego Health",
+            "address": "3855 Health Sciences Dr, La Jolla, CA 92037",
+            "latitude": 32.8786467,
+            "longitude": -117.2230577,
+            "rating": 4.1,
+            "ratingCount": 109,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/3855-health-sciences-drive/7000-38551?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 822-6100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMUAgQHD5ECLrBAKJpWkzWTNTmaAhBxvObQvynY",
+            "cid": "10704218979951705533",
+            "fid": "0x80dc06d83005cd45:0x948d0672ea03fdbd",
+            "placeId": "ChIJRc0FMNgG3IARvf0D6nIGjZQ"
+        }
+    ],
+    "credits": 3
+}

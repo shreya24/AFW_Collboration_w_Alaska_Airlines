@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "General Internal Medicine Clinic, UWMC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6588642,-122.3182792,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "General Internal Medicine Center at UW Medical Center - Roosevelt",
+            "address": "4245 Roosevelt Way NE Fl 3, Seattle, WA 98105",
+            "latitude": 47.6588642,
+            "longitude": -122.31827919999999,
+            "rating": 3.4,
+            "ratingCount": 14,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner",
+                "Internist"
+            ],
+            "website": "https://www.uwmedicine.org/locations/general-internal-medicine-center-uwmc-roosevelt?utm_source=gmb&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAwNTYxNjY0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 598-8750",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.uwmedicine.org/locations/general-internal-medicine-center-uwmc-roosevelt?utm_source=gmb&utm_medium=organic&utm_campaign=appointment_clicks&y_source=1_MTAwNTYxNjY0NS03MTUtbG9jYXRpb24ucmVzZXJ2YXRpb25fdXJs"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqMGrdPZLvo4hUm-EEjVPTJ-ubg2bEaHRco6r7",
+            "cid": "14511852946126395749",
+            "fid": "0x549014f4504194b5:0xc964755e0e91d965",
+            "placeId": "ChIJtZRBUPQUkFQRZdmRDl51ZMk"
+        }
+    ],
+    "credits": 3
+}

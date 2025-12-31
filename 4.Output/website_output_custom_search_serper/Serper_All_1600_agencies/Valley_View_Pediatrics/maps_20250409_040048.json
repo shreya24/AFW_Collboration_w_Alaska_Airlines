@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Valley View Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5324826,-107.323257,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Partners - Valley View",
+            "address": "1905 Blake Ave #201, Glenwood Springs, CO 81601",
+            "latitude": 39.5324826,
+            "longitude": -107.323257,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.vvh.org/pediatric-partners/",
+            "phoneNumber": "(970) 947-9999",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPqtt8hH6c41T-TIDfShvx3cL9xk9xX6d7CyXWN",
+            "cid": "7033732775582030984",
+            "fid": "0x874109b199b003e7:0x619cd6b16d96dc88",
+            "placeId": "ChIJ5wOwmbEJQYcRiNyWbbHWnGE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Edward Zebovitz D.D.S.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9488274,-76.7354818,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Edward Zebovitz, DDS",
+            "address": "4311 Northview Dr, Bowie, MD 20716",
+            "latitude": 38.9488274,
+            "longitude": -76.7354818,
+            "rating": 4.9,
+            "ratingCount": 343,
+            "type": "Oral surgeon",
+            "types": [
+                "Oral surgeon"
+            ],
+            "website": "http://www.drzebovitz.com/",
+            "phoneNumber": "(301) 352-6311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20132:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_3zDOrJXZGn6NTNCuamuAji94LZpe_KUpyUKg",
+            "cid": "2697568814863492603",
+            "fid": "0x89b7eb8a247fccc5:0x256fb08b771c25fb",
+            "placeId": "ChIJxcx_JIrrt4kR-yUcd4uwbyU"
+        }
+    ],
+    "credits": 3
+}

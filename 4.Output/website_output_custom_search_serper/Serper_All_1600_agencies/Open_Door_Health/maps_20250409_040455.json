@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Open Door Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.8148059,-71.4218077,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Open Door Health",
+            "address": "7 Central St, Providence, RI 02907",
+            "latitude": 41.814805899999996,
+            "longitude": -71.4218077,
+            "rating": 4.2,
+            "ratingCount": 57,
+            "type": "Doctor",
+            "types": [
+                "Doctor",
+                "HIV testing center",
+                "Reproductive health clinic"
+            ],
+            "website": "http://odhpvd.org/",
+            "phoneNumber": "(401) 648-4700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNiuLa5mjGtHF-sxQNAzeiSGT2LAsA74EE_e0ok",
+            "cid": "3795423777426268932",
+            "fid": "0x89e4454848f8afb9:0x34ac0dd109906304",
+            "placeId": "ChIJua_4SEhF5IkRBGOQCdENrDQ"
+        }
+    ],
+    "credits": 3
+}

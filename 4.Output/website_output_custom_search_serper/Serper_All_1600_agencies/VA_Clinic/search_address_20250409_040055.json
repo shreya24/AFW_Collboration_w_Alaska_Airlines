@@ -1,0 +1,90 @@
+{
+    "searchParameters": {
+        "q": "VA Clinic address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Find VA Locations | Veterans Affairs",
+            "link": "https://www.va.gov/find-locations/",
+            "snippet": "Find VA locations. Facility Locator is down for maintenance. We're making some updates to Facility Locator. We're sorry it's not working right now.",
+            "position": 1
+        },
+        {
+            "title": "Atlanta VA Clinic | VA Atlanta Health Care | Veterans Affairs",
+            "link": "https://www.va.gov/atlanta-health-care/locations/atlanta-va-clinic/",
+            "snippet": "Location and contact information. Address. 250 North Arcadia Avenue. Decatur, GA 30030-2115. Get directions on Google Maps ...",
+            "date": "Feb 18, 2025",
+            "position": 2
+        },
+        {
+            "title": "Covington VA Clinic | VA Atlanta Health Care | Veterans Affairs",
+            "link": "https://www.va.gov/atlanta-health-care/locations/covington-va-clinic/",
+            "snippet": "Below, you'll find our address and hours, parking and transportation information, and the other health services we offer at our Covington VA ...",
+            "date": "Jan 31, 2025",
+            "position": 3
+        },
+        {
+            "title": "Rome VA Clinic | VA Atlanta Health Care | Veterans Affairs",
+            "link": "https://www.va.gov/atlanta-health-care/locations/rome-va-clinic/",
+            "snippet": "Location and contact information. Address. 30 Chateau Drive Southeast. Rome, GA 30161-7201. Get directions on Google Maps ...",
+            "date": "Feb 12, 2025",
+            "position": 4
+        },
+        {
+            "title": "Emporia VA Clinic | VA Richmond Health Care | Veterans Affairs",
+            "link": "https://www.va.gov/richmond-health-care/locations/emporia-va-clinic/",
+            "snippet": "Location and contact information. Address. 1746 East Atlantic Street. Emporia, VA 23847-6584. Get directions on Google Maps ...",
+            "date": "Feb 20, 2025",
+            "position": 5
+        }
+    ],
+    "places": [
+        {
+            "title": "Dallas VA Medical Center",
+            "address": "Dallas, TX",
+            "cid": "8121374692688444315"
+        },
+        {
+            "title": "North West San Antonio VA Clinic",
+            "address": "San Antonio, TX",
+            "cid": "15848444330263107559"
+        },
+        {
+            "title": "Baton Rouge VA Outpatient Clinic",
+            "address": "Baton Rouge, LA",
+            "cid": "12311931870218649424"
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Va clinic near me"
+        },
+        {
+            "query": "VA Hospital locations"
+        },
+        {
+            "query": "va walk-in clinic near me"
+        },
+        {
+            "query": "VA Hospital locations by State"
+        },
+        {
+            "query": "VA hospital Locations Map"
+        },
+        {
+            "query": "VA hospital phone directory"
+        },
+        {
+            "query": "Veterans Affairs Office Locations"
+        },
+        {
+            "query": "VA hospital directory"
+        }
+    ],
+    "credits": 1
+}

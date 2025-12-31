@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Kaiser Permanente/Fontana Medical SS",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0723364,-117.4322937,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kaiser Permanente Fontana Medical Center",
+            "address": "9961 Sierra Ave., Fontana, CA 92335",
+            "latitude": 34.0723364,
+            "longitude": -117.43229369999999,
+            "rating": 3.2,
+            "ratingCount": 1151,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://healthy.kaiserpermanente.org/southern-california/facilities/Fontana-Medical-Center-100127",
+            "phoneNumber": "(833) 574-2273",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20138:30\u202fPM",
+                "Thursday": "7\u202fAM\u20138:30\u202fPM",
+                "Friday": "7\u202fAM\u20138:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-VrGs1MOGWYUUs5SDY1QSnjxVjjd5yOG2d7AOPeasGHIATAphn-puSyAZ5becKy8sITGvLwfZqJPE9WdVQxOUnQZm12PIE11D2ZdvBx4DoEtWKt0kfbswGeHtKVoxPqfoqydVA",
+            "cid": "7750946147371055019",
+            "fid": "0x80c34cc7f8652ead:0x6b90e4746b3bf7ab",
+            "placeId": "ChIJrS5l-MdMw4ARq_c7a3TkkGs"
+        }
+    ],
+    "credits": 3
+}

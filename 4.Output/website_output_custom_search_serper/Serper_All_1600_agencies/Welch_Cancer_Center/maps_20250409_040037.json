@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Welch Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.808796,-106.9786779,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Welch Cancer Center",
+            "address": "1585 W 5th St, Sheridan, WY 82801",
+            "latitude": 44.808796,
+            "longitude": -106.9786779,
+            "rating": 4.2,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Oncologist"
+            ],
+            "website": "https://www.sheridanhospital.org/medical-services/welch-cancer-center/",
+            "phoneNumber": "(307) 674-6022",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP5d1kO5VFCAFIZzgLpowSvV7paZKwTHDmyI85F",
+            "cid": "16108686715523097121",
+            "fid": "0x5335faf0f4708c03:0xdf8d8d3864cee221",
+            "placeId": "ChIJA4xw9PD6NVMRIeLOZDiNjd8"
+        }
+    ],
+    "credits": 3
+}

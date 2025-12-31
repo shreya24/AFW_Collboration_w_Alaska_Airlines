@@ -1,0 +1,118 @@
+{
+    "searchParameters": {
+        "q": "Test Test website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "WebPage Test",
+            "link": "https://www.webpagetest.org/",
+            "position": 1
+        },
+        {
+            "title": "Website Speed Test | Pingdom Tools",
+            "link": "https://tools.pingdom.com/",
+            "snippet": "Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster.",
+            "position": 2
+        },
+        {
+            "title": "GTmetrix | Website Performance Testing and Monitoring",
+            "link": "https://gtmetrix.com/",
+            "snippet": "Test your website speed. GTmetrix tells you how your website performs, why it's slow, and how to optimize it.",
+            "sitelinks": [
+                {
+                    "title": "GTmetrix REST API v2.0",
+                    "link": "https://gtmetrix.com/api/docs/2.0/"
+                },
+                {
+                    "title": "Frequently Asked Questions",
+                    "link": "https://gtmetrix.com/faq.html"
+                },
+                {
+                    "title": "Pricing",
+                    "link": "https://gtmetrix.com/pricing.html"
+                },
+                {
+                    "title": "Features",
+                    "link": "https://gtmetrix.com/features.html"
+                }
+            ],
+            "position": 3
+        },
+        {
+            "title": "Test IO: Home",
+            "link": "https://test.io/",
+            "snippet": "Test IO delivers a full range of enterprise web, mobile and IoT testing solutions through a bespoke service model powered by Test IO technology.",
+            "sitelinks": [
+                {
+                    "title": "Become a Tester",
+                    "link": "https://test.io/company/become-a-tester"
+                },
+                {
+                    "title": "Test IO Academy",
+                    "link": "https://academy.test.io/"
+                },
+                {
+                    "title": "Testing Expertise",
+                    "link": "https://test.io/services/test-automation"
+                },
+                {
+                    "title": "For Your Industry",
+                    "link": "https://test.io/industries/quality-for-retail-and-ecommerce"
+                }
+            ],
+            "position": 4
+        },
+        {
+            "title": "Website Testing: A Detailed Guide | BrowserStack",
+            "link": "https://www.browserstack.com/guide/how-to-perform-website-qa-testing",
+            "snippet": "A comprehensive website QA testing checklist that will guide you to deliver a reliable, bug-free, and intuitive user experience.",
+            "sitelinks": [
+                {
+                    "title": "What is Website Testing?",
+                    "link": "https://www.browserstack.com/guide/how-to-perform-website-qa-testing#toc0"
+                },
+                {
+                    "title": "Types of Website Testing",
+                    "link": "https://www.browserstack.com/guide/how-to-perform-website-qa-testing#toc2"
+                },
+                {
+                    "title": "How to perform Website...",
+                    "link": "https://www.browserstack.com/guide/how-to-perform-website-qa-testing#toc3"
+                }
+            ],
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Website speed test"
+        },
+        {
+            "query": "Test test website free"
+        },
+        {
+            "query": "Google website speed test"
+        },
+        {
+            "query": "Website speed test free"
+        },
+        {
+            "query": "GTmetrix"
+        },
+        {
+            "query": "Website checker"
+        },
+        {
+            "query": "Website testing tools"
+        },
+        {
+            "query": "Pingdom speed test"
+        }
+    ],
+    "credits": 1
+}

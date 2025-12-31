@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Flights for Life",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7170296,-105.1287058,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Flight For Life Colorado",
+            "address": "11600 W 2nd Pl, Lakewood, CO 80228",
+            "latitude": 39.7170296,
+            "longitude": -105.12870579999999,
+            "rating": 4.6,
+            "ratingCount": 11,
+            "type": "Transportation service",
+            "types": [
+                "Transportation service"
+            ],
+            "website": "http://flightforlifecolorado.org/",
+            "phoneNumber": "(720) 321-3900",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPc7jKg9XfVJodKMupmk7tZ7XVhkQLXC0MROcQt",
+            "cid": "2459185135663571707",
+            "fid": "0x876b83ffaaea26d5:0x2220c7da0025e2fb",
+            "placeId": "ChIJ1Sbqqv-Da4cR--IlANrHICI"
+        }
+    ],
+    "credits": 3
+}

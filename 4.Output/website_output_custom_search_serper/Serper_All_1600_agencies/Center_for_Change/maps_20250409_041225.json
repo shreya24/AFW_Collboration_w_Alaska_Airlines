@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "Center for Change",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1835659,-108.4724936,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Center for Change",
+            "address": "1790 N State St, Orem, UT 84057",
+            "latitude": 40.3299162,
+            "longitude": -111.7084569,
+            "rating": 3.7,
+            "ratingCount": 117,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://centerforchange.com/",
+            "phoneNumber": "(888) 224-8250",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM2AyTQt7rnLKFX8uONYH0VS3-IjB1PGQ5O4BHC",
+            "cid": "1492258771189324205",
+            "fid": "0x874d851c71b11ca5:0x14b5917231b359ad",
+            "placeId": "ChIJpRyxcRyFTYcRrVmzMXKRtRQ"
+        },
+        {
+            "position": 2,
+            "title": "Center For Change Cottonwood Heights",
+            "address": "7050 S Highland Dr #310, Cottonwood Heights, UT 84121",
+            "latitude": 40.623137199999995,
+            "longitude": -111.8347486,
+            "rating": 3.6,
+            "ratingCount": 9,
+            "type": "Eating disorder treatment center",
+            "types": [
+                "Eating disorder treatment center",
+                "Addiction treatment center",
+                "Mental health clinic"
+            ],
+            "website": "https://centerforchange.com/contact-cfc/salt-lake-city-campus/",
+            "phoneNumber": "(801) 996-3413",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNXRm5DDJtUSeDN5FBeg8G-4BrbBac7-0CcopmS",
+            "cid": "14333199204873463469",
+            "fid": "0x8752628cbc36c1e7:0xc6e9c0bc7d64e6ad",
+            "placeId": "ChIJ58E2vIxiUocRreZkfbzA6cY"
+        },
+        {
+            "position": 3,
+            "title": "Center For Change, LLC",
+            "address": "1701 Kipling St #102, Lakewood, CO 80215",
+            "latitude": 39.7439946,
+            "longitude": -105.11023859999999,
+            "rating": 2.6,
+            "ratingCount": 17,
+            "type": "Counselor",
+            "types": [
+                "Counselor",
+                "Addiction treatment center"
+            ],
+            "website": "http://centerforchange-co.com/",
+            "phoneNumber": "(303) 274-4200",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9q3o5fswdT7FSO7uB-Rl-g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=297.3778&pitch=0&thumbfov=100",
+            "cid": "9828411156903840885",
+            "fid": "0x876b8703d4784b33:0x886587dfc1bd4c75",
+            "placeId": "ChIJM0t41AOHa4cRdUy9wd-HZYg"
+        }
+    ],
+    "credits": 3
+}

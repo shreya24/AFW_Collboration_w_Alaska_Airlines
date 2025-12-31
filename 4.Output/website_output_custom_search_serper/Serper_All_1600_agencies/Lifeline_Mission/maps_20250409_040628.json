@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Lifeline Mission",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1002885,-82.9160292,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lifeline Christian Mission",
+            "address": "921 Eastwind Dr # 104, Westerville, OH 43081",
+            "latitude": 40.1002885,
+            "longitude": -82.9160292,
+            "rating": 4.9,
+            "ratingCount": 39,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.lifeline.org/",
+            "phoneNumber": "(614) 794-0108",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8jua7i9c1ZWkgvNLnnDCNYgUIIp1Tc6ohs94-O5EimVrNi84MGotvd3qpvTeNguNqra8yxVrcXGJlufLdMbcbjRsBjvBFqE3ueci_7aVSpCSHliCP5V7hjfwP-uHd0RmTeRbOp",
+            "cid": "2869196079195255708",
+            "fid": "0x8838f5754d12c2c7:0x27d16ea1e360739c",
+            "placeId": "ChIJx8ISTXX1OIgRnHNg46Fu0Sc"
+        }
+    ],
+    "credits": 3
+}

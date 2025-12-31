@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Women's Specialty Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.0726937,-103.5877654,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Visalia Women's Specialty Group",
+            "address": "1700 S Court St B, Visalia, CA 93277",
+            "latitude": 36.3150184,
+            "longitude": -119.291602,
+            "rating": 2.9,
+            "ratingCount": 30,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "website": "http://www.vwsmg.com/",
+            "phoneNumber": "(559) 741-1202",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN3Xlfl-d2fsaphr0g7BvrIuRltmRP-5uNoxJtb",
+            "cid": "320289120295991430",
+            "fid": "0x80952f126791b2e1:0x471e54208aa3886",
+            "placeId": "ChIJ4bKRZxIvlYARhjiqCELlcQQ"
+        },
+        {
+            "position": 2,
+            "title": "Atlanta Womens Specialty Group",
+            "address": "2678 Buford Hwy NE, Atlanta, GA 30324",
+            "latitude": 33.8277485,
+            "longitude": -84.3476258,
+            "rating": 2.4,
+            "ratingCount": 53,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic"
+            ],
+            "website": "http://atlantawomenspecialtygroup.com/",
+            "phoneNumber": "(678) 904-5999",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsFQYYN4MSM_IRD2z8PtKkYcrZ-IzShR-5xJgD",
+            "cid": "8311546472921865599",
+            "fid": "0x88f5060c15856e79:0x73588b7b0ca89d7f",
+            "placeId": "ChIJeW6FFQwG9YgRf52oDHuLWHM"
+        },
+        {
+            "position": 3,
+            "title": "Women's Specialty Group",
+            "address": "691 Murphy Rd # 232, Medford, OR 97504",
+            "latitude": 42.317639,
+            "longitude": -122.827905,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Gynecologist",
+            "types": [
+                "Gynecologist"
+            ],
+            "phoneNumber": "(541) 773-3018",
+            "cid": "3650432644213040135",
+            "fid": "0x54cf7a77667ca603:0x32a8f1262acee407",
+            "placeId": "ChIJA6Z8Znd6z1QRB-TOKibxqDI"
+        }
+    ],
+    "credits": 3
+}

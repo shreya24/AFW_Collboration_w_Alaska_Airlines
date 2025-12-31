@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "William M. Palmer, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3296247,-134.4648774,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Palmer William M MD",
+            "address": "3268 Hospital Dr # E, Juneau, AK 99801",
+            "latitude": 58.3296247,
+            "longitude": -134.4648774,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "phoneNumber": "(907) 586-1895",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vi5eZRU0rKdkNPQxzSNXaw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=223.80138&pitch=0&thumbfov=100",
+            "cid": "6827014477245723729",
+            "fid": "0x5400e0080ea997b9:0x5ebe6d7ef8ae3451",
+            "placeId": "ChIJuZepDgjgAFQRUTSu-H5tvl4"
+        }
+    ],
+    "credits": 3
+}

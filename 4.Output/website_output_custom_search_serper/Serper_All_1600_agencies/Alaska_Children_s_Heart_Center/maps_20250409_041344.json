@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Alaska Children's Heart Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1880085,-149.8187946,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Alaska Children's Heart Center",
+            "address": "3260 Providence Dr #532, Anchorage, AK 99508",
+            "latitude": 61.188008499999995,
+            "longitude": -149.8187946,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Pediatric cardiologist"
+            ],
+            "website": "http://www.alaskachildheart.com/",
+            "phoneNumber": "(907) 565-2242",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUpVDm02qM1CNykETgQ3IhGhNazhh-NZhfkt_8",
+            "cid": "13054227695661701931",
+            "fid": "0x56c897010456fba1:0xb529eeecc8fb5b2b",
+            "placeId": "ChIJoftWBAGXyFYRK1v7yOzuKbU"
+        }
+    ],
+    "credits": 3
+}

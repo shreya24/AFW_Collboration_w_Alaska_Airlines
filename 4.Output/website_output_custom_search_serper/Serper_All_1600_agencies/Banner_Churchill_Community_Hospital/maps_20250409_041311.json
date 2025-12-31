@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Banner Churchill Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.4766121,-118.7662421,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Banner Churchill Community Hospital",
+            "address": "801 E Williams Ave, Fallon, NV 89406",
+            "latitude": 39.4766121,
+            "longitude": -118.7662421,
+            "rating": 2.9,
+            "ratingCount": 161,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical Center"
+            ],
+            "website": "https://www.bannerhealth.com/locations/fallon/banner-churchill-community-hospital?y_source=1_MTE5MDczNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(775) 423-3151",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP3iZmurQEeWCbm-AeQoUApI0Fegeyc3dJQKjZX",
+            "cid": "420548975430719811",
+            "fid": "0x8098812b288cf579:0x5d61710a333d943",
+            "placeId": "ChIJefWMKCuBmIARQ9kzoxAX1gU"
+        }
+    ],
+    "credits": 3
+}

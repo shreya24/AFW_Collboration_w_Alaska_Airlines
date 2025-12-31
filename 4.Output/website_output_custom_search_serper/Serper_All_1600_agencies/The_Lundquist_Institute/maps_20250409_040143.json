@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "The Lundquist Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.8288954,-118.2955536,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Lundquist Institute",
+            "address": "1124 W Carson St, Torrance, CA 90502",
+            "latitude": 33.8288954,
+            "longitude": -118.29555359999999,
+            "rating": 4.5,
+            "ratingCount": 60,
+            "type": "Research institute",
+            "types": [
+                "Research institute",
+                "Non-profit organization"
+            ],
+            "website": "https://lundquist.org/",
+            "phoneNumber": "(424) 201-3000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Y5EWPw1mmpwZHMLL3fIUHNObH1eQ02OdFgk0WI2dnOcThewNq2tDPEDfmAwGyfGyyXuPWFBrma4ragxLX69KYBigy8BFrtYL8O13aZjdxQyn96iwLbyxIuD70tG7DekO6hDqp",
+            "cid": "17201230697946998377",
+            "fid": "0x80dd355e5b8e56d5:0xeeb70c2f0aace669",
+            "placeId": "ChIJ1VaOW1413YARaeasCi8Mt-4"
+        }
+    ],
+    "credits": 3
+}

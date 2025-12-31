@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Camran Nezhat Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4537018,-122.2285889,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Camran Nezhat Institute, Minimally Invasive & Robotic Surgery",
+            "address": "1775 Woodside Rd Suite 202, Woodside, CA 94061",
+            "latitude": 37.4537018,
+            "longitude": -122.22858889999999,
+            "rating": 4.8,
+            "ratingCount": 104,
+            "type": "Fertility clinic",
+            "types": [
+                "Fertility clinic",
+                "Fertility physician",
+                "Obstetrician-gynecologist",
+                "Reproductive health clinic",
+                "Surgeon"
+            ],
+            "website": "http://www.nezhat.org/?utm_source=Eprompt",
+            "phoneNumber": "(650) 327-8778",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://nezhat.org/make-an-appointment/?utm_source=Eprompt"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOMMiUyuhLtHUfTNwzo8_PbFgJ6rrxD53OT-yDH",
+            "cid": "6675568302305834175",
+            "fid": "0x808fa4cdb0300889:0x5ca4620094cbf4bf",
+            "placeId": "ChIJiQgwsM2kj4ARv_TLlABipFw"
+        }
+    ],
+    "credits": 3
+}

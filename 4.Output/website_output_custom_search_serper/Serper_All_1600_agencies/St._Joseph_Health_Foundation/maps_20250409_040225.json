@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "St. Joseph Health Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9037368,-74.167628,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Joseph's Health Foundation",
+            "address": "661 Main St, Paterson, NJ 07503",
+            "latitude": 40.9037368,
+            "longitude": -74.167628,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "https://givetostjosephs.org/",
+            "phoneNumber": "(973) 754-4483",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5uM5SLx1YP820oR1kJrQVg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=58.38558&pitch=0&thumbfov=100",
+            "cid": "10941634673045398576",
+            "fid": "0x89c2fd70194cd52b:0x97d87ec38cf7e430",
+            "placeId": "ChIJK9VMGXD9wokRMOT3jMN-2Jc"
+        }
+    ],
+    "credits": 3
+}

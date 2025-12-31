@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Ideal Health and Regenerative Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.0065125,-94.8496921,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ideal Health and Regenerative Medicine",
+            "address": "22740 Midland Dr, Shawnee, KS 66226",
+            "latitude": 39.0065125,
+            "longitude": -94.8496921,
+            "rating": 4.4,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "General practitioner"
+            ],
+            "website": "http://idealhealthkc.com/",
+            "phoneNumber": "(913) 745-5300",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZFBa0_Ntl_n_4wcaOc67zfV2J4Oh9ySeuHsuU",
+            "cid": "3652699407802295215",
+            "fid": "0x87c091046c89d2b9:0x32b0fec23155e3af",
+            "placeId": "ChIJudKJbASRwIcRr-NVMcL-sDI"
+        }
+    ],
+    "credits": 3
+}

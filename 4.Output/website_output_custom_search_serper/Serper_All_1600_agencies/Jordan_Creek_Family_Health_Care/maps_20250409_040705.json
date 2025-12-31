@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Jordan Creek Family Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@49.9694099,-114.198738,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jordan Creek Family Medicine",
+            "address": "230 S 68th St #1203, West Des Moines, IA 50266",
+            "latitude": 41.5664367,
+            "longitude": -93.79942319999999,
+            "rating": 4.1,
+            "ratingCount": 32,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://weence.com/medical/doctors/west-des-moines/jordan-creek-family-medicine/",
+            "phoneNumber": "(515) 471-1800",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HObpQWvI_-qxQ9NpWTpMHA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=277.24933&pitch=0&thumbfov=100",
+            "cid": "5569240919016879236",
+            "fid": "0x87ec21bc9ca7984b:0x4d49eb1bd6923484",
+            "placeId": "ChIJS5innLwh7IcRhDSS1hvrSU0"
+        },
+        {
+            "position": 2,
+            "title": "Jordan Creek Family Health Care",
+            "address": "3032 Vintage Blvd #100, Juneau, AK 99801",
+            "latitude": 58.3723831,
+            "longitude": -134.5980529,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical office",
+                "Nurse practitioner"
+            ],
+            "website": "http://www.jordancreekfamilyhealthcare.com/",
+            "phoneNumber": "(907) 789-1600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPNdYBGzK_MOJDhGvrcfs2JNLNhcvIGz0-vGn-",
+            "cid": "1911765433774725978",
+            "fid": "0x54011e2024b65b1f:0x1a87f48876035b5a",
+            "placeId": "ChIJH1u2JCAeAVQRWlsDdoj0hxo"
+        }
+    ],
+    "credits": 3
+}

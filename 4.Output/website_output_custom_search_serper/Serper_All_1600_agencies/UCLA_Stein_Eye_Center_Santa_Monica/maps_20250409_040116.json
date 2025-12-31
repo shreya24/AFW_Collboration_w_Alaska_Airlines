@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "UCLA Stein Eye Center Santa Monica",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0304115,-118.4851713,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCLA Stein Eye Center Santa Monica",
+            "address": "1807 Wilshire Blvd Suite 203, Santa Monica, CA 90403",
+            "latitude": 34.0304115,
+            "longitude": -118.48517129999999,
+            "rating": 2.9,
+            "ratingCount": 18,
+            "type": "Optometrist",
+            "types": [
+                "Optometrist",
+                "Ophthalmologist",
+                "Pediatric ophthalmologist",
+                "Surgeon"
+            ],
+            "website": "https://www.uclahealth.org/locations/ucla-stein-eye-center-santa-monica?utm_source=google&utm_medium=Yext",
+            "phoneNumber": "(310) 829-0160",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://e.uclahealth.org/new-patient-appointment-request"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNG2uv3J59pB746UNngnpAl2lbNqm73-lX8sl5q",
+            "cid": "846575642152536254",
+            "fid": "0x80c2bb4adf100001:0xbbfa40faa0008be",
+            "placeId": "ChIJAQAQ30q7woARvggAqg-kvws"
+        }
+    ],
+    "credits": 3
+}

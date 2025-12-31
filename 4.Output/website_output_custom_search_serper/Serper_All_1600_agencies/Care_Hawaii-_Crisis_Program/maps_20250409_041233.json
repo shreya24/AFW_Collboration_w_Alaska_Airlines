@@ -1,0 +1,87 @@
+{
+    "searchParameters": {
+        "q": "Care Hawaii- Crisis Program",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.4272177,-156.4870258,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CARE Hawaii, Inc.",
+            "address": "197 Sand Island Access Rd Suite 201D, Honolulu, HI 96819",
+            "latitude": 21.3251775,
+            "longitude": -157.8891145,
+            "rating": 3.1,
+            "ratingCount": 15,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Psychologist"
+            ],
+            "website": "https://www.carehawaii.com/",
+            "phoneNumber": "(808) 533-3936",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ryewWDxkArPAhXqgdlxMew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=129.06876&pitch=0&thumbfov=100",
+            "cid": "9569041050119955993",
+            "fid": "0x7c006e09f204e0ed:0x84cc1022d987e619",
+            "placeId": "ChIJ7eAE8gluAHwRGeaH2SIQzIQ"
+        },
+        {
+            "position": 2,
+            "title": "Care Hawaii",
+            "address": "891 Ululani St, Hilo, HI 96720",
+            "latitude": 19.7165403,
+            "longitude": -155.0849371,
+            "rating": 3.6,
+            "ratingCount": 13,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "phoneNumber": "(808) 930-0777",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GPcEB6txOVUiughfvQdGew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=57.330486&pitch=0&thumbfov=100",
+            "cid": "11422968011528921778",
+            "fid": "0x79524b5608267f15:0x9e8688e28fd4e2b2",
+            "placeId": "ChIJFX8mCFZLUnkRsuLUj-KIhp4"
+        },
+        {
+            "position": 3,
+            "title": "Care Hawaii",
+            "address": "79-7446 Mamalahoa Hwy, Kealakekua, HI 96750",
+            "latitude": 19.529257899999998,
+            "longitude": -155.9250136,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service",
+                "Counselor"
+            ],
+            "website": "http://www.carehawaii.com/",
+            "phoneNumber": "(808) 331-2273",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MiKb_yNmSiA3E5HK0Y_cvA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=239.26535&pitch=0&thumbfov=100",
+            "cid": "776337195967823074",
+            "fid": "0x795406f37cbc85d3:0xac61a910795bce2",
+            "placeId": "ChIJ04W8fPMGVHkR4ryVB5Eaxgo"
+        }
+    ],
+    "credits": 3
+}

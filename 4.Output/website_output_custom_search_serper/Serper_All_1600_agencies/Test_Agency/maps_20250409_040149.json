@@ -1,0 +1,396 @@
+{
+    "searchParameters": {
+        "q": "Test Agency",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.1324883,108.4825172,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hot Staff Nagoya",
+            "address": "Japan, \u3012457-0012 Aichi, Nagoya, Minami Ward, Kikusumi, 1 Chome\u22124\u221210 2F",
+            "latitude": 35.1163156,
+            "longitude": 136.9365504,
+            "rating": 4,
+            "ratingCount": 82,
+            "type": "Temp agency",
+            "types": [
+                "Temp agency"
+            ],
+            "website": "https://www.hotstaff.co.jp/branch/detail/0907/?utm_source=google_bp&utm_medium=referral&utm_campaign=gbp_nagoya",
+            "phoneNumber": "+81 120-190-330",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM",
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfqvgdko0Row3EhmUJb8-pJ4nEgCrpA1VXOCS7",
+            "cid": "9719783036721992345",
+            "fid": "0x60037a54f725a4a7:0x86e39b2c9dae9299",
+            "placeId": "ChIJp6Ql91R6A2ARmZKunSyb44Y"
+        },
+        {
+            "position": 2,
+            "title": "test",
+            "address": "Osaka, 534-0016, Japan",
+            "latitude": 34.716871999999995,
+            "longitude": 135.52637719999998,
+            "type": "Advertising agency",
+            "types": [
+                "Advertising agency",
+                "Restaurant"
+            ],
+            "phoneNumber": "+81 90-1234-5678",
+            "cid": "10404532729845285873",
+            "fid": "0x6000e12ce1bb858b:0x90645364685a83f1",
+            "placeId": "ChIJi4W74SzhAGAR8YNaaGRTZJA"
+        },
+        {
+            "position": 3,
+            "title": "Shinjuku Driver's Licence Renewal Center",
+            "address": "Japan, \u3012160-0023 Tokyo, Shinjuku City, Nishishinjuku, 2 Chome\u22128\u22121 \u90fd\u5e81\u7b2c\u4e8c\u672c\u5e81\u820e 2\u968e",
+            "latitude": 35.6878946,
+            "longitude": 139.6920286,
+            "rating": 3.7,
+            "ratingCount": 691,
+            "type": "Driver's license office",
+            "types": [
+                "Driver's license office"
+            ],
+            "website": "https://www.keishicho.metro.tokyo.lg.jp/menkyo/shikenjo/shikenjo/shinjuku.html",
+            "phoneNumber": "+81 3-3343-2558",
+            "openingHours": {
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM",
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Q4GX4M7XS50Lzr0L_RL10VvkesH1jM13C5NvLqICSMUwSZZFxQl0SNKBL6Q107cNmi0LLYeTHFhJNE7U89C-B1Odp7bWkBS4zgOWiy7oPnhzaAEZrlWHvZPtSaYtKyZyG24I",
+            "cid": "12362987900166263130",
+            "fid": "0x60188cd35b8f4181:0xab9227fe47dcd15a",
+            "placeId": "ChIJgUGPW9OMGGARWtHcR_4nkqs"
+        },
+        {
+            "position": 4,
+            "title": "National Testing Agency",
+            "address": "First Floor, NSIC-MDBP Building, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
+            "latitude": 28.5529719,
+            "longitude": 77.2651882,
+            "rating": 1.7,
+            "ratingCount": 2818,
+            "type": "Government office",
+            "types": [
+                "Government office",
+                "Education",
+                "Ministry of Education"
+            ],
+            "website": "https://www.nta.ac.in/",
+            "phoneNumber": "+91 11 6922 7700",
+            "openingHours": {
+                "Wednesday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "9:30\u202fAM\u20135:30\u202fPM",
+                "Tuesday": "9:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNk-5m8HgLnvKLWohLk_np5YKi1Iq1DUxDNFlhe",
+            "cid": "17647105341878872341",
+            "fid": "0x390ce5807e595817:0xf4e71ccf6096a915",
+            "placeId": "ChIJF1hZfoDlDDkRFamWYM8c5_Q"
+        },
+        {
+            "position": 5,
+            "title": "ZEN CAMPERS (\u4e8b\u524d\u4e88\u7d04\u5236)",
+            "address": "1 Chome-7-10 Tamatsukuri, Chuo Ward, Osaka, 540-0004, Japan",
+            "latitude": 34.675163399999995,
+            "longitude": 135.5311299,
+            "rating": 4.6,
+            "ratingCount": 9,
+            "type": "Recreational vehicle rental agency",
+            "types": [
+                "Recreational vehicle rental agency"
+            ],
+            "website": "https://www.zen-camper.com/",
+            "phoneNumber": "+81 50-3580-8076",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMw_9x_cWG-J4i5jtFZhIoUmiI6j0bEukA4sM0i",
+            "cid": "1929878492369048337",
+            "fid": "0x8d94bb43a09d0d7b:0x1ac84e438d52d311",
+            "placeId": "ChIJew2doEO7lI0REdNSjUNOyBo"
+        },
+        {
+            "position": 6,
+            "title": "Osaka Employment Service Center for Foreigners",
+            "address": "Hankyu Grand Building, 16\u968e, 8-47 Kakudacho, Kita Ward, Osaka, 530-0017, Japan",
+            "latitude": 34.7030107,
+            "longitude": 135.49911939999998,
+            "rating": 3.9,
+            "ratingCount": 38,
+            "type": "Unemployment office",
+            "types": [
+                "Unemployment office",
+                "Employment agency"
+            ],
+            "website": "https://jsite.mhlw.go.jp/osaka-foreigner/e-toppage.html",
+            "phoneNumber": "+81 6-7709-9465",
+            "openingHours": {
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM",
+                "Tuesday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB93jPx5PBpDoEVVkIBXy2FAa2bsgvNmKNPPKlUEQbdsSLglACLJRILIqNl7FNCkEwdI1sm9nsTrbt8pbndlwE6do_w7xVI9zuq18PVsPPdM7_EidfUzwMZr8GEsEAFyY8Nc88DP",
+            "cid": "4835991245169620776",
+            "fid": "0x6000e692fddcc031:0x431ce46a513bf728",
+            "placeId": "ChIJMcDc_ZLmAGARKPc7UWrkHEM"
+        },
+        {
+            "position": 7,
+            "title": "Budget Car Rental Kyoto Uji",
+            "address": "Sanjugo-37\u756a3 Makishimacho, Uji, Kyoto 611-0041, Japan",
+            "latitude": 34.9125502,
+            "longitude": 135.784996,
+            "rating": 3.7,
+            "ratingCount": 15,
+            "type": "Car rental agency",
+            "types": [
+                "Car rental agency"
+            ],
+            "website": "http://www.budgetrentacar.co.jp/shop/0651/",
+            "phoneNumber": "+81 774-25-7055",
+            "openingHours": {
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM",
+                "Tuesday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORrjdC1UL4Ii-Zp9_Nmg9_e07jQboqi2UlATat",
+            "cid": "9843739511065854282",
+            "fid": "0x6001102e067429d3:0x889bfcee528ec14a",
+            "placeId": "ChIJ0yl0Bi4QAWARSsGOUu78m4g"
+        },
+        {
+            "position": 8,
+            "title": "Test",
+            "address": "1 Chome-43 Nishinocho, Atsuta Ward, Nagoya, Aichi 456-0063, Japan",
+            "latitude": 35.1293266,
+            "longitude": 136.88948399999998,
+            "type": "Advertising agency",
+            "types": [
+                "Advertising agency"
+            ],
+            "phoneNumber": "+81 90-1745-5912",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EjEacyR5G_aOpS0kAJueiw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=171.4863&pitch=0&thumbfov=100",
+            "cid": "17181243832470419755",
+            "fid": "0x600379b3988639c3:0xee700a3c49c5392b",
+            "placeId": "ChIJwzmGmLN5A2ARKznFSTwKcO4"
+        },
+        {
+            "position": 9,
+            "title": "\u30c8\u30fc\u30bf\u30eb\u30b5\u30fc\u30d3\u30b9\u30a4\u30ef\u30ad",
+            "address": "7 Chome-5-9 Wakakusa, Kusatsu, Shiga 525-0045, Japan",
+            "latitude": 34.984589899999996,
+            "longitude": 135.9674584,
+            "rating": 5,
+            "ratingCount": 60,
+            "type": "Water utility company",
+            "types": [
+                "Water utility company",
+                "Real estate agency",
+                "Recycling center",
+                "Remodeler"
+            ],
+            "website": "https://total-service-iwaki.com/",
+            "phoneNumber": "+81 120-222-517",
+            "openingHours": {
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM",
+                "Tuesday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_rnb8PoPuGX8ftpx40e-luud15GZgfczZ1aRY-8m4m-wm0DWHzH75Q4HjUlz1XWKQsRCyezoYnYH2hgVEN_-oJZz8Yrfic3zoJaSm4C2O87ghdKzkVLINqg1hvnbEhpXKDOy2G",
+            "cid": "7625981821525127142",
+            "fid": "0x60016dc245797e81:0x69d4ee0fff976fe6",
+            "placeId": "ChIJgX55RcJtAWAR5m-X_w_u1Gk"
+        },
+        {
+            "position": 10,
+            "title": "\u30e4\u30de\u30cf \u30d0\u30a4\u30af\u30ec\u30f3\u30bf\u30eb\u5927\u962a\u7b95\u9762",
+            "address": "3 Chome-2-5 Imamiya, Minoh, Osaka 562-0033, Japan",
+            "latitude": 34.8343457,
+            "longitude": 135.49986189999998,
+            "rating": 4.8,
+            "ratingCount": 50,
+            "type": "Motorcycle rental agency",
+            "types": [
+                "Motorcycle rental agency",
+                "Motorcycle shop"
+            ],
+            "website": "https://bike-rental.yamaha-motor.co.jp/Shop/Info/detail/shopcd/S2705?utm_source=googlemap&utm_medium=referral&utm_campaign=googlemap-osakamino-shopinfo&googlemap-osakamino-shopinfo",
+            "phoneNumber": "+81 72-735-7250",
+            "openingHours": {
+                "Wednesday": "Closed",
+                "Thursday": "10\u202fAM\u20137\u202fPM",
+                "Friday": "10\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20137\u202fPM",
+                "Monday": "10\u202fAM\u20137\u202fPM",
+                "Tuesday": "10\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://bike-rental.yamaha-motor.co.jp/Reserve/Search/list/pref_cd/27/shop_cd/S2705?utm_source=googlemap&utm_medium=direct&utm_campaign=202108-osakamino-googlemap-reserve"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNSZoOZO4D027zeQpb6-v70GBQw9K9G_m6U7m0y",
+            "cid": "2616367413099959501",
+            "fid": "0x6000fb2745c29d2d:0x244f344cd3bb14cd",
+            "placeId": "ChIJLZ3CRSf7AGARzRS700w0TyQ"
+        },
+        {
+            "position": 11,
+            "title": "\u5408\u5bbf\u514d\u8a31\u306e\u30de\u30a4\u30e9\u30a4\u30bb\u30f3\u30b9",
+            "address": "Japan, \u3012169-0075 Tokyo, Shinjuku City, Takadanobaba, 4 Chome\u221218\u2212\u756a15\u53f7 \u7b2c2\u4e2d\u6751\u30d3\u30eb 201\u53f7\u5ba4",
+            "latitude": 35.7120046,
+            "longitude": 139.6998462,
+            "rating": 4.9,
+            "ratingCount": 80,
+            "type": "Drivers license training school",
+            "types": [
+                "Drivers license training school",
+                "Advertising agency",
+                "Driving school"
+            ],
+            "website": "https://www.mylicense.co.jp/",
+            "phoneNumber": "+81 120-079-007",
+            "openingHours": {
+                "Wednesday": "9\u202fAM\u20137\u202fPM",
+                "Thursday": "9\u202fAM\u20137\u202fPM",
+                "Friday": "9\u202fAM\u20137\u202fPM",
+                "Saturday": "9\u202fAM\u20137\u202fPM",
+                "Sunday": "9\u202fAM\u20137\u202fPM",
+                "Monday": "9\u202fAM\u20137\u202fPM",
+                "Tuesday": "9\u202fAM\u20137\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mylicense.co.jp/form/line/index.php"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-r5WjY6UX9tb8S6xCQFdc0aw8Mg4BRRjrqpM7FSUhMUHSHZjI570-rBPLcyN8IEz8BndLhM4nQWYTxDFuku5zy5nXAce69KOoerbGVmnoXFTQNdZ6kzhoaPJMQPqZt0nTpHDWQgQ",
+            "cid": "8360159057645831375",
+            "fid": "0x60188da4b27ff14f:0x7405405e70be84cf",
+            "placeId": "ChIJT_F_sqSNGGARz4S-cF5ABXQ"
+        },
+        {
+            "position": 12,
+            "title": "\u6d77\u5916\u7559\u5b66EF",
+            "address": "Japan, \u3012600-8411 Kyoto, Shimogyo Ward, Suiginyacho, 620\u756a\u5730 COCON\u70cf\u4e38 8\u968e",
+            "latitude": 35.0030682,
+            "longitude": 135.75912549999998,
+            "rating": 4.6,
+            "ratingCount": 83,
+            "type": "Educational consultant",
+            "types": [
+                "Educational consultant",
+                "Language school",
+                "Travel agency"
+            ],
+            "website": "https://www.efjapan.co.jp/pg/ryugaku/?utm_content=jp_office_kyoto_multi_bpid-4579821007288671370",
+            "phoneNumber": "+81 50-1743-1435",
+            "openingHours": {
+                "Wednesday": "9:30\u202fAM\u20136\u202fPM",
+                "Thursday": "9:30\u202fAM\u20136\u202fPM",
+                "Friday": "9:30\u202fAM\u20136\u202fPM",
+                "Saturday": "9:30\u202fAM\u20136\u202fPM",
+                "Sunday": "9:30\u202fAM\u20136\u202fPM",
+                "Monday": "9:30\u202fAM\u20136\u202fPM",
+                "Tuesday": "9:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.efjapan.co.jp/ils/consultation/v2/?source=007041%2CGoogleKnowledgePanel"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUTbOhB6EZnGmzZ8haWRgtQXt_Q290p4gpCUJb",
+            "cid": "8949215405098235782",
+            "fid": "0x6001089b7f04eb5d:0x7c31fffef7557786",
+            "placeId": "ChIJXesEf5sIAWARhndV9_7_MXw"
+        },
+        {
+            "position": 13,
+            "title": "Harley",
+            "address": "18-2 Kamitakano Furukawacho, Sakyo Ward, Kyoto, 606-0043, Japan",
+            "latitude": 35.0612152,
+            "longitude": 135.791183,
+            "rating": 4.2,
+            "ratingCount": 49,
+            "type": "Motorcycle dealer",
+            "types": [
+                "Motorcycle dealer",
+                "Harley-Davidson dealer",
+                "Motorcycle rental agency",
+                "Motorcycle shop"
+            ],
+            "website": "https://www.adventureleo.com/",
+            "phoneNumber": "+81 75-703-0051",
+            "description": "Legendary brand of American motorcycles, plus apparel & more at some branches.",
+            "openingHours": {
+                "Wednesday": "Closed",
+                "Thursday": "Closed",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "10\u202fAM\u20136\u202fPM",
+                "Tuesday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8qs0g4dUyqXsWVp3tsUBRZ312GtiQ0gvOynwLUDUoGsMFguTzaDcbJVsuJykYTf0tWZOb3_iGSiXfK-TRyOheRFKk0pxCeVKwiOwpZX65nJfia5oUSJ2Wel1yixpFhUnbDXZc",
+            "cid": "4019957163644475961",
+            "fid": "0x600109d35d7b0313:0x37c9c1bddf50da39",
+            "placeId": "ChIJEwN7XdMJAWAROdpQ373ByTc"
+        },
+        {
+            "position": 14,
+            "title": "\u6d1b\u548c\u4f1a\u533b\u7642\u4ecb\u8b77\u30b5\u30fc\u30d3\u30b9\u30bb\u30f3\u30bf\u30fc\u97f3\u7fbd\u30ea\u30cf\u30d3\u30ea\u30c6\u30fc\u30b7\u30e7\u30f3\u75c5\u9662",
+            "address": "32-1 Koyamakitamizocho, Yamashina Ward, Kyoto, 607-8113, Japan",
+            "latitude": 34.9855997,
+            "longitude": 135.8302942,
+            "rating": 2.7,
+            "ratingCount": 28,
+            "type": "Nursing agency",
+            "types": [
+                "Nursing agency"
+            ],
+            "website": "https://kaigo.rakuwa.or.jp/service/kyotaku/",
+            "phoneNumber": "+81 75-581-6221",
+            "openingHours": {
+                "Wednesday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Saturday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:15\u202fPM",
+                "Tuesday": "8:30\u202fAM\u20135:15\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_aRvsZX-bXkNpvpuGIxP35nwEYAkeV9ttkq54mTHNEk0lcRwgY1Ew6BvrY9TbSZj1FgdJbzyny9CQ3TBa3AWzOGRkbdsAumpne0ecjPJib71zdwJkfy_bJlSkQIGGkSK66fTVG",
+            "cid": "7973432402027651321",
+            "fid": "0x60010d7ee98a4a63:0x6ea752864b72a0f9",
+            "placeId": "ChIJY0qK6X4NAWAR-aByS4ZSp24"
+        }
+    ],
+    "credits": 3
+}

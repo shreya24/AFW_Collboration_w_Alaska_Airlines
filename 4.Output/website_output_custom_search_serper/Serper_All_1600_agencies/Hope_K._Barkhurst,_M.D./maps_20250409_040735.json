@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Hope K. Barkhurst, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.370728,-108.555056,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hope K Barkhurst M.D. P.C.",
+            "address": "2095 N Dolores Rd # B, Cortez, CO 81321",
+            "latitude": 37.370728,
+            "longitude": -108.555056,
+            "rating": 5,
+            "ratingCount": 7,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(970) 564-8086",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F8lwJdgCneVj_dx6bOGr3w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=154.399&pitch=0&thumbfov=100",
+            "cid": "15959308043349361826",
+            "fid": "0x87396f1ba02a0f9d:0xdd7ada1c00df84a2",
+            "placeId": "ChIJnQ8qoBtvOYcRooTfABzaet0"
+        }
+    ],
+    "credits": 3
+}

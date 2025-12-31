@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "Liz Ford",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4829273,-82.4906119,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "J.C. Lewis Ford Statesboro",
+            "address": "6922 Veterans Memorial Pkwy, Statesboro, GA 30458",
+            "latitude": 32.4176597,
+            "longitude": -81.80036919999999,
+            "rating": 4.8,
+            "ratingCount": 3907,
+            "type": "Ford dealer",
+            "types": [
+                "Ford dealer",
+                "Auto body shop",
+                "Car dealer",
+                "Car repair and maintenance service",
+                "Electric vehicle charging station",
+                "Lincoln dealer",
+                "Oil change service",
+                "Repair service",
+                "Used car dealer",
+                "Used truck dealer"
+            ],
+            "website": "https://www.jclewisford.net/?utm_source=Google&utm_medium=organic&utm_content=website_button",
+            "phoneNumber": "(912) 299-5559",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20137\u202fPM",
+                "Thursday": "7:30\u202fAM\u20137\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_ipJerN37iixfScItpJeKgAqORlS8B3gGvbI1",
+            "cid": "15535309312688069373",
+            "fid": "0x88fa40e3cb618251:0xd7988182a2971afd",
+            "placeId": "ChIJUYJhy-NA-ogR_RqXooKBmNc"
+        },
+        {
+            "position": 2,
+            "title": "Dean Sellers Inc",
+            "address": "2600 W Maple Rd, Troy, MI 48084",
+            "latitude": 42.5481948,
+            "longitude": -83.1808547,
+            "rating": 4.6,
+            "ratingCount": 1949,
+            "type": "Ford dealer",
+            "types": [
+                "Ford dealer"
+            ],
+            "website": "https://www.sellersford.com/",
+            "phoneNumber": "(248) 643-7500",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20138\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.sellersford.com/service-appointment/?utm_source=gmbsvcappt&utm_medium=social&mcmid=gmbsvcappt&"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOapukwKubrxCMFiKsUBw3UnJmEuOVIVw8Do9ZR",
+            "cid": "4669908358853130851",
+            "fid": "0x8824c68960604cf9:0x40ced8e8ff117a63",
+            "placeId": "ChIJ-UxgYInGJIgRY3oR_-jYzkA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Juneau VA Outreach Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@58.3015321,-134.4203378,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Outreach Clinic",
+            "address": "709 W 9th St Suite 150, Juneau, AK 99801",
+            "latitude": 58.301532099999996,
+            "longitude": -134.4203378,
+            "rating": 4.5,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.alaska.va.gov/",
+            "phoneNumber": "(907) 796-4340",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j3nwQVubxa94q03kGnHZ-w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=140.92442&pitch=0&thumbfov=100",
+            "cid": "31837610946802335",
+            "fid": "0x5400df8678bf7237:0x711c2372fb329f",
+            "placeId": "ChIJN3K_eIbfAFQRnzL7ciMccQA"
+        }
+    ],
+    "credits": 3
+}

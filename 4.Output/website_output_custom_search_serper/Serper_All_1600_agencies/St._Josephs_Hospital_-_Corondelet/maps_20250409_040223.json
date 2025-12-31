@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "St. Josephs Hospital - Corondelet",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.2265083,-110.8547917,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Joseph's Hospital",
+            "address": "350 N Wilmot Rd, Tucson, AZ 85711",
+            "latitude": 32.2265083,
+            "longitude": -110.85479169999999,
+            "rating": 2.3,
+            "ratingCount": 650,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://www.carondelet.org/locations/detail/st-josephs-hospital/?utm_campaign=gmb_listings_mgmt&utm_source=gmb-st-josephs-hospital&utm_medium=google-local",
+            "phoneNumber": "(520) 873-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8K24JxMm5WW_G7xaCw9kxVJNEngUZHYJt03kdzy3n1orVGcGg4Cn-WRsQ5_YLEEeyBB9d0RwyXxx6khadHCoqwvsz3U5Jxjxm-kSwK97DvMhXbYnRDNpXSh4jbaPNe9AAGZlo",
+            "cid": "9720719347194761652",
+            "fid": "0x86d66f0a041450fd:0x86e6eebe62cf91b4",
+            "placeId": "ChIJ_VAUBApv1oYRtJHPYr7u5oY"
+        }
+    ],
+    "credits": 3
+}

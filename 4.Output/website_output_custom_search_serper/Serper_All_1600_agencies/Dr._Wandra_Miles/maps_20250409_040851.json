@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Dr. Wandra Miles",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6092073,-122.3240229,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Wandra K. Miles, MD",
+            "address": "1101 Madison St Suite 950, Seattle, WA 98104",
+            "latitude": 47.6092073,
+            "longitude": -122.32402289999999,
+            "rating": 5,
+            "ratingCount": 11,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon"
+            ],
+            "website": "http://www.milesplasticsurgery.com/dr-miles.cfm",
+            "phoneNumber": "(206) 215-6221",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.swedish.org/doctors/reconstructive-plastic-surgery/wa/seattle/wandra-miles-1902968258?ls=provider&y_source=1_NjU3MjUzNjEtNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNClAIVTWT0r7MpXu2bihZrT3KvN2X6h1yTckpe",
+            "cid": "1036590618836588793",
+            "fid": "0x54906ac997bb679f:0xe62b5acfd41d8f9",
+            "placeId": "ChIJn2e7l8lqkFQR-dhB_ay1Yg4"
+        }
+    ],
+    "credits": 3
+}

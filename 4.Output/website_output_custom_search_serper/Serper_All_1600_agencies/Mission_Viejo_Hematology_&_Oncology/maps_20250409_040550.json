@@ -1,0 +1,79 @@
+{
+    "searchParameters": {
+        "q": "Mission Viejo Hematology & Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5610769,-117.6652467,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mission Heritage Medical Group - Hematology and Oncology",
+            "address": "27799 Medical Center Rd #460, Mission Viejo, CA 92691",
+            "latitude": 33.5595893,
+            "longitude": -117.66532889999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist",
+                "Medical clinic"
+            ],
+            "website": "http://www.psjhmedgroups.org/Locations/Mission-Viejo-Hematology-and-Oncology.aspx",
+            "phoneNumber": "(949) 347-0600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.psjhmedgroups.org/Locations/Mission-Viejo-Hematology-and-Oncology.aspx"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipORoMkQmlzlvYm710SgLMBFBP1-oFqeQuE-Qdg",
+            "cid": "13910439922923976428",
+            "fid": "0x80dcee8d9d4452f7:0xc10bcf68c34bb6ec",
+            "placeId": "ChIJ91JEnY3u3IAR7LZLw2jPC8E"
+        },
+        {
+            "position": 2,
+            "title": "The Oncology Institute",
+            "address": "26732 Crown Valley Pkwy Suite 271, Mission Viejo, CA 92691",
+            "latitude": 33.5625644,
+            "longitude": -117.66516449999999,
+            "rating": 4.7,
+            "ratingCount": 58,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Hematologist",
+                "Cancer treatment center"
+            ],
+            "website": "https://theoncologyinstitute.com/locations/mission-viejo/",
+            "phoneNumber": "(949) 427-7933",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/the-oncology-institute-66098?LocIdent=172088&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_HEujGKou5kGgnI-vKvK-QR-lo_sCp2ZO-nYEyvrmruOGPOvB-entity&rwg_token=AAiGsoYzt3embPI5GyNevC319r6FWvDKbUaoKK2jxLDF65q_5eIq-E8shTjhO2ghl14MyUHtEg9dh6x1vp67OHSZ3CJxrYWto87QAVIwDcACOwuY5c-0ZhA%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOtn9DFZTmitoPJXrdNzLJ9e9XQVnm_DW4RW05-",
+            "cid": "10357369937525423292",
+            "fid": "0x80dcee9294c13cad:0x8fbcc5151d833cbc",
+            "placeId": "ChIJrTzBlJLu3IARvDyDHRXFvI8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "St. Luke's Treasure Valley Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.6426586,-116.3625325,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "St. Luke's Children's Treasure Valley Pediatrics: Meridian",
+            "address": "1620 S Celebration Ave, Meridian, ID 83642",
+            "latitude": 43.5898472,
+            "longitude": -116.3654763,
+            "rating": 4.4,
+            "ratingCount": 102,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-childrens-treasure-valley-pediatrics-meridian",
+            "phoneNumber": "(208) 884-1030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8:30\u202fAM\u20131\u202fPM",
+                "Sunday": "8:30\u202fAM\u20131\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPL4C9dOoD8p3WYtujmBLbY1J2bpJyXf5baWzeT",
+            "cid": "13307030934378323634",
+            "fid": "0x54ae5603198ff88b:0xb8ac122192c11eb2",
+            "placeId": "ChIJi_iPGQNWrlQRsh7BkiESrLg"
+        },
+        {
+            "position": 2,
+            "title": "St. Luke's Children's Treasure Valley Pediatrics: Eagle",
+            "address": "450 W State St Suite 100, Eagle, ID 83616",
+            "latitude": 43.6954699,
+            "longitude": -116.35958869999999,
+            "rating": 4.6,
+            "ratingCount": 41,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.stlukesonline.org/communities-and-locations/facilities/clinics/st-lukes-childrens-treasure-valley-pediatrics-eagle",
+            "phoneNumber": "(208) 939-1035",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfEsjEsU6UPSktfvmVpGY_Tdtc23db3tiRzo_AtUx6q8awTmjCL2boWqa0tTR6wfzRtJEH0zzRn08wrjodyhe2Z48rbhT1P_XQ9TvTV0WXlYTc-f97tbtiCIV_Y59C9zs8xFu-EA",
+            "cid": "17699734823666486537",
+            "fid": "0x54afaab93c958ceb:0xf5a2170b7f408d09",
+            "placeId": "ChIJ64yVPLmqr1QRCY1AfwsXovU"
+        }
+    ],
+    "credits": 3
+}

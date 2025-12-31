@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Western Tumor Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.6341434,-120.233243,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Western Tumor Radiation",
+            "address": "1500 Rosecrans Ave # 400, Manhattan Beach, CA 90266",
+            "latitude": 33.901351399999996,
+            "longitude": -118.3874464,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(310) 335-4000",
+            "cid": "5554168543283754040",
+            "fid": "0x80c2b4067dd1a2bf:0x4d145edce513b438",
+            "placeId": "ChIJv6LRfQa0woAROLQT5dxeFE0"
+        },
+        {
+            "position": 2,
+            "title": "Western Radiation Oncology at El Camino Hospital",
+            "address": "125 South Dr, Mountain View, CA 94040",
+            "latitude": 37.3669355,
+            "longitude": -122.0790397,
+            "rating": 4.9,
+            "ratingCount": 10,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Radiotherapist"
+            ],
+            "website": "http://westernradiationoncology.com/",
+            "phoneNumber": "(650) 940-7280",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN6JQq0dpz8eb65PquT7oeOOA_INkLStlkgA2NE",
+            "cid": "6915691024449084033",
+            "fid": "0x808fb6cdcf9c6e43:0x5ff9785888a51a81",
+            "placeId": "ChIJQ26cz822j4ARgRqliFh4-V8"
+        }
+    ],
+    "credits": 3
+}

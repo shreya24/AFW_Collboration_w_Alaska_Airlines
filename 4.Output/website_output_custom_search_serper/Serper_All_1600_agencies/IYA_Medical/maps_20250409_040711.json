@@ -1,0 +1,50 @@
+{
+    "searchParameters": {
+        "q": "IYA Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5755858,-111.8805713,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "IYA Medical / Agha Medical Center",
+            "address": "9201 E Mountain View Rd Suite 100, Scottsdale, AZ 85258",
+            "latitude": 33.5755858,
+            "longitude": -111.8805713,
+            "rating": 4.9,
+            "ratingCount": 170,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Medical Center",
+                "Medical spa",
+                "Pain management physician",
+                "Radiologist",
+                "Surgeon",
+                "Wellness center"
+            ],
+            "website": "https://iyamedical.com/",
+            "phoneNumber": "(480) 771-0000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/iya-medical-75932?LocIdent=216845&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_eX66ePPagEmV8zO_vhkkvR-lo_tM3jsDWG-0a3OlbtRCfzcB-entity&rwg_token=AAiGsoZHg5fdHlznRZLiXTwgRcx9hfkLu9f9GUztnwrMKBICW_uSc6o8csYTDl0OMv0wCPA0w4zhRpSO_Dv6VvSseTSkJCejt1rrux345PcAoDUmtB_ALBM%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOiNoeDBr9R3vvk6DvQD33ta51i3oou456kyfQB",
+            "cid": "6960018320493083512",
+            "fid": "0x872b755f202ee0f5:0x6096f3c967337b78",
+            "placeId": "ChIJ9eAuIF91K4cReHszZ8nzlmA"
+        }
+    ],
+    "credits": 3
+}

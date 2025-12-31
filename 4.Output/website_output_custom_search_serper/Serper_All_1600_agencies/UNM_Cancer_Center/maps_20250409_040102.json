@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "UNM Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0955761,-106.6272534,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UNM Comprehensive Cancer Center",
+            "address": "1201 Camino de Salud NE, Albuquerque, NM 87102",
+            "latitude": 35.095576099999995,
+            "longitude": -106.6272534,
+            "rating": 3.6,
+            "ratingCount": 70,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://unmhealth.org/cancer/",
+            "phoneNumber": "(505) 272-4946",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://unmhealth.org/cancer/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPHJC5pS4NGbTWBf4t6QDzHj1fuCMAlWSASTgX0",
+            "cid": "17444617878087057336",
+            "fid": "0x87220b5628575ab7:0xf217bb88d9cebfb8",
+            "placeId": "ChIJt1pXKFYLIocRuL_O2Yi7F_I"
+        }
+    ],
+    "credits": 3
+}

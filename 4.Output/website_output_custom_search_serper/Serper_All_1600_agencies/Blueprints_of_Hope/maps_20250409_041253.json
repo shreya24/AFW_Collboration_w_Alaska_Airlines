@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Blueprints of Hope",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6915116,-104.9411669,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ray of Hope Cancer Foundation",
+            "address": "1385 S Colorado Blvd #108, Denver, CO 80222",
+            "latitude": 39.6915116,
+            "longitude": -104.9411669,
+            "rating": 5,
+            "ratingCount": 9,
+            "type": "Foundation",
+            "types": [
+                "Foundation"
+            ],
+            "website": "http://rayofhopecolorado.org/",
+            "phoneNumber": "(303) 835-2568",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wn4dOC3qIoxZp7-ubBRhAg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=269.11707&pitch=0&thumbfov=100",
+            "cid": "13156787362957590333",
+            "fid": "0x876c7903a545dfeb:0xb6964c66226f7f3d",
+            "placeId": "ChIJ699FpQN5bIcRPX9vImZMlrY"
+        }
+    ],
+    "credits": 3
+}

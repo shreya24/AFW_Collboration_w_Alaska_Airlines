@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Sky Ridge Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.5291233,-104.8708522,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HCA HealthONE Sky Ridge",
+            "address": "10101 Ridgegate Pkwy, Lone Tree, CO 80124",
+            "latitude": 39.529123299999995,
+            "longitude": -104.8708522,
+            "rating": 4.4,
+            "ratingCount": 6418,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.healthonecares.com/locations/sky-ridge?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(720) 225-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.healthonecares.com/locations/sky-ridge/physicians"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-1aBNkLRcCsmyNWlIV4bmX7xSQNM4UoIHg8YMxvLFwplb5gq0nR4CVOCbQVqJIvED-YKo4V0EW0iM9U3A4t7nonmfHFdXUqWY6Bp0vREDaZec85wMHbh6a4BmBg0ssdj8e2Ik",
+            "cid": "11570121907327261853",
+            "fid": "0x876c853fae7af8d7:0xa0915492d634dc9d",
+            "placeId": "ChIJ1_h6rj-FbIcRndw01pJUkaA"
+        }
+    ],
+    "credits": 3
+}

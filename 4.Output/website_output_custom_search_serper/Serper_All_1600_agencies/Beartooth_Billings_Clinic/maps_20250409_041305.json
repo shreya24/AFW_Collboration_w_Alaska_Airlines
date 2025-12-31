@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Beartooth Billings Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.2123173,-109.2439768,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Beartooth Billings Clinic",
+            "address": "2525 Broadway Ave N, Red Lodge, MT 59068",
+            "latitude": 45.212317299999995,
+            "longitude": -109.2439768,
+            "rating": 3.3,
+            "ratingCount": 24,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.beartoothbillingsclinic.org/?utm_campaign=local-listings&utm_medium=google-my-business&utm_source=gmb-locations&utm_content=beartooth-billings-clinic",
+            "phoneNumber": "(406) 446-2345",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8m9eDwPlZjQ44dP83XjE39xB0NwFOJu43t58FFNhiAIoI1k3UY6Bunj5-SfH2SnLIpNx9rTCg1WTDmbK4r9uIUIO5kBagLU4puqkUN93o30CPReq8fV7rePs1ddiqvfp9O1OA",
+            "cid": "17545034373028867816",
+            "fid": "0x534ed6002c8ac2c3:0xf37c7bce00676ee8",
+            "placeId": "ChIJw8KKLADWTlMR6G5nAM57fPM"
+        }
+    ],
+    "credits": 3
+}

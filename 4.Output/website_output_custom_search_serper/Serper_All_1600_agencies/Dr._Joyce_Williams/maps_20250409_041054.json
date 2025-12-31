@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Joyce Williams",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8506993,-81.425997,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Williams Joyce A DO",
+            "address": "4160 Holiday St NW, Canton, OH 44718",
+            "latitude": 40.850699299999995,
+            "longitude": -81.425997,
+            "rating": 1.8,
+            "ratingCount": 5,
+            "type": "Rheumatologist",
+            "types": [
+                "Rheumatologist"
+            ],
+            "website": "http://arthritisclinicstark.com/",
+            "phoneNumber": "(330) 492-4966",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KlvemDm9vKwD86WNaPmPQQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=180.54448&pitch=0&thumbfov=100",
+            "cid": "18174158436847120917",
+            "fid": "0x8836d12d6fcd57ff:0xfc3794ceb7f0f215",
+            "placeId": "ChIJ_1fNby3RNogRFfLwt86UN_w"
+        }
+    ],
+    "credits": 3
+}

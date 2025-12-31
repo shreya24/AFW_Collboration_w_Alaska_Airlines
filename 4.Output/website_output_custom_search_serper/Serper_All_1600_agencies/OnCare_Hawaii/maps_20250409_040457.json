@@ -1,0 +1,78 @@
+{
+    "searchParameters": {
+        "q": "OnCare Hawaii",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3447001,-157.8959477,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oncare Hawaii Pali Momi",
+            "address": "98-211 Pali Momi St #320, Aiea, HI 96701",
+            "latitude": 21.3818643,
+            "longitude": -157.93978769999998,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(808) 487-7447",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-H12Wbp5UeuZvKCLVBvmdw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=157.39095&pitch=0&thumbfov=100",
+            "cid": "16381635862432123958",
+            "fid": "0x7c006f4d992b3265:0xe3574305f4110c36",
+            "placeId": "ChIJZTIrmU1vAHwRNgwR9AVDV-M"
+        },
+        {
+            "position": 2,
+            "title": "Hawaii Oncology, Inc.",
+            "address": "321 N Kuakini St STE 402, Honolulu, HI 96817",
+            "latitude": 21.3215492,
+            "longitude": -157.8559229,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist",
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical clinic",
+                "Pediatric oncologist",
+                "Surgical oncologist"
+            ],
+            "website": "https://www.hioncology.com/",
+            "phoneNumber": "(808) 686-4244",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM0cVG6ge-BpPrBdJ8aopjyl8d4IHy4QsPC5PLH",
+            "cid": "10200030156471737826",
+            "fid": "0x7c006dd63c2a915d:0x8d8dc9629ec51de2",
+            "placeId": "ChIJXZEqPNZtAHwR4h3FnmLJjY0"
+        },
+        {
+            "position": 3,
+            "title": "OnCare Hawaii Inc: Stack Richard S MD",
+            "address": "1329 Lusitana St # 307, Honolulu, HI 96813",
+            "latitude": 21.307535899999998,
+            "longitude": -157.8521078,
+            "type": "Hematologist",
+            "types": [
+                "Hematologist"
+            ],
+            "phoneNumber": "(808) 524-6115",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kZMOZ3Yx1DqaCwHJ6-0c0Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=67.5373&pitch=0&thumbfov=100",
+            "cid": "1031947610231129629",
+            "fid": "0x7c006dde6cc1f15d:0xe5236e24ea3c61d",
+            "placeId": "ChIJXfHBbN5tAHwRHcajTuI2Ug4"
+        }
+    ],
+    "credits": 3
+}

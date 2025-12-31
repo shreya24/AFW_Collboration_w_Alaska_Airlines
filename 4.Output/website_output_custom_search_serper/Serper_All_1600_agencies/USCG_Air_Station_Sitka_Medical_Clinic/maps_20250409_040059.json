@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "USCG Air Station Sitka Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.0557801,-135.3579101,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sitka Medical Center - Urgent Care",
+            "address": "700 Katlian St # E, Sitka, AK 99835",
+            "latitude": 57.056537199999994,
+            "longitude": -135.3473309,
+            "rating": 3.2,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://searhc.org/location/sitka-medical-center-urgent-care/",
+            "phoneNumber": "(907) 747-1722",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6ZMmi_jEDQA5fPQS2n9RponBLGC_FcYKZSmGz",
+            "cid": "7854895613809078495",
+            "fid": "0x540467b17c5ff435:0x6d0231f198dd30df",
+            "placeId": "ChIJNfRffLFnBFQR3zDdmPExAm0"
+        },
+        {
+            "position": 2,
+            "title": "US Coast Guard Air Station Sitka",
+            "address": "611 Airport Rd, Sitka, AK 99835",
+            "latitude": 57.055023,
+            "longitude": -135.3684894,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Coast guard station",
+            "types": [
+                "Coast guard station"
+            ],
+            "website": "https://www.uscg.mil/d17/airstasitka/",
+            "phoneNumber": "(907) 966-5447",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_wgV-Z0ESr6cNxnauRoW7y2ctUaBKSECU4WaCDTPzgBs8QGMOab18WAUgcXoPBIY389rkyCVDIJfBhlieU6jn8mOSFCkOtP18V6ZZIBpzxSR2vDTHg5Jl6kokqXfpDS_9JGH-I",
+            "cid": "4490247374543662566",
+            "fid": "0x540467ab1317e2a9:0x3e509032614e2de6",
+            "placeId": "ChIJqeIXE6tnBFQR5i1OYTKQUD4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,56 @@
+{
+    "searchParameters": {
+        "q": "Dr. Jeremy Gitomer's Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1859768,-149.8279905,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Jeremy J. Gitomer, MD",
+            "address": "4015 Lake Otis Pkwy # 101, Anchorage, AK 99508",
+            "latitude": 61.183875,
+            "longitude": -149.8371182,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Nephrologist",
+            "types": [
+                "Nephrologist"
+            ],
+            "phoneNumber": "(907) 375-5200",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134\u202fPM",
+                "Friday": "8:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fPM"
+            },
+            "cid": "6769502285627186373",
+            "fid": "0x56c897004b01c87d:0x5df21a766100dcc5",
+            "placeId": "ChIJfcgBSwCXyFYRxdwAYXYa8l0"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Jeremy Gitomer",
+            "address": "3260 Providence Dr Ste C431, Anchorage, AK 99508",
+            "latitude": 61.188078499999996,
+            "longitude": -149.8188629,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(907) 212-4840",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZpNHtfBC8SeNnSEW4ntaRg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=190.61739&pitch=0&thumbfov=100",
+            "cid": "8271073670092504838",
+            "fid": "0x56c8970104690db7:0x72c8c1ae50f33f06",
+            "placeId": "ChIJtw1pBAGXyFYRBj_zUK7ByHI"
+        }
+    ],
+    "credits": 3
+}

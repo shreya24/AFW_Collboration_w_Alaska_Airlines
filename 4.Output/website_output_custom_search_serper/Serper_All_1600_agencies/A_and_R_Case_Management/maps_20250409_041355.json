@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "A and R Case Management",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.8048107,-71.4153546,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PCHC Nurse Case Management",
+            "address": "335 R Prairie Ave, Providence, RI 02905",
+            "latitude": 41.8048107,
+            "longitude": -71.4153546,
+            "type": "Health consultant",
+            "types": [
+                "Health consultant"
+            ],
+            "website": "https://www.providencechc.org/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NHOWIyXhcLRyas7_yp0Qjg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=171.70982&pitch=0&thumbfov=100",
+            "cid": "16858030639806547765",
+            "fid": "0x89e44570fdd7eeaf:0xe9f3c18c9a520735",
+            "placeId": "ChIJr-7X_XBF5IkRNQdSmozB8-k"
+        }
+    ],
+    "credits": 3
+}

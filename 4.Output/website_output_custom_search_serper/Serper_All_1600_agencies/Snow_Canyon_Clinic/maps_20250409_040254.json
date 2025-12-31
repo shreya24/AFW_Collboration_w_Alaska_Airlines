@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Snow Canyon Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.1681493,-113.673133,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Snow Canyon Clinic",
+            "address": "272 E Center St # 102, Ivins, UT 84738",
+            "latitude": 37.168149299999996,
+            "longitude": -113.67313299999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "phoneNumber": "(435) 986-2317",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5sYfIa7zF-NjRZu_VSLPhg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=220.68408&pitch=0&thumbfov=100",
+            "cid": "11415754203331425972",
+            "fid": "0x80ca418665871b47:0x9e6ce7f6f4bdf6b4",
+            "placeId": "ChIJRxuHZYZByoARtPa99PbnbJ4"
+        }
+    ],
+    "credits": 3
+}

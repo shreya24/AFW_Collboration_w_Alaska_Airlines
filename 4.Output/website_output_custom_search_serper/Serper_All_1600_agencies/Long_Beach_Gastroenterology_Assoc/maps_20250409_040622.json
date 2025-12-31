@@ -1,0 +1,69 @@
+{
+    "searchParameters": {
+        "q": "Long Beach Gastroenterology Assoc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7823363,-118.0712061,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "United Medical Doctors - Long Beach Gastro",
+            "address": "3833 Worsham Ave Suite 302, Long Beach, CA 90808",
+            "latitude": 33.828565499999996,
+            "longitude": -118.1468732,
+            "rating": 2.9,
+            "ratingCount": 52,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "https://www.longbeachgastro.com/",
+            "phoneNumber": "(562) 595-5421",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9qAO184HtxF7u1Gj6TTr1qxIOcb6IDV6MBtLjX91SPWsju3Cvj_q5VwKjAxy2mEa58k4bPyf7UF-m99yoIP-olH8_H06V25e9qXqtE_sicV605ZU_9wWvLnfO1zK0WXyOKr3Fi4A",
+            "cid": "17171902134262332847",
+            "fid": "0x80dd3247c60ee5a1:0xee4eda02ae7a7daf",
+            "placeId": "ChIJoeUOxkcy3YARr316rgLaTu4"
+        },
+        {
+            "position": 2,
+            "title": "Long Beach Gastroenterology Associates",
+            "address": "7677 Center Ave Ste 201, Huntington Beach, CA 92647",
+            "latitude": 33.7361071,
+            "longitude": -117.99553909999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "https://www.longbeachgastro.com/",
+            "phoneNumber": "(562) 595-5421",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K54qlq_woRJyeEUp9LI0yg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=41.076103&pitch=0&thumbfov=100",
+            "cid": "2562161017140442863",
+            "fid": "0x80dd2763517d276b:0x238e9fdec40276ef",
+            "placeId": "ChIJayd9UWMn3YAR73YCxN6fjiM"
+        }
+    ],
+    "credits": 3
+}

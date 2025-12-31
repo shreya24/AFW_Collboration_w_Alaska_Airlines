@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Patient's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0771875,-117.264084,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Patients Hospital",
+            "address": "2900 Eureka Way, Redding, CA 96001",
+            "latitude": 40.5859593,
+            "longitude": -122.41679029999999,
+            "rating": 4.6,
+            "ratingCount": 23,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Hospital",
+                "Surgical center"
+            ],
+            "website": "http://www.patientshospital.com/",
+            "phoneNumber": "(530) 225-8700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPaU6jUvMAegdXe5yGPUWBUNjFb4L4wR1nVvpsG",
+            "cid": "958531073208890610",
+            "fid": "0x54d2ed07de915ee3:0xd4d62eebcca34f2",
+            "placeId": "ChIJ416R3gft0lQR8jTKvO5iTQ0"
+        },
+        {
+            "position": 2,
+            "title": "Hospital Patient Services",
+            "address": "2400 W Dunlap Ave # 310, Phoenix, AZ 85021",
+            "latitude": 33.5684156,
+            "longitude": -112.1113778,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Health",
+            "types": [
+                "Health",
+                "Store"
+            ],
+            "website": "https://www.hospitalpatientservices.com/",
+            "phoneNumber": "(602) 433-7430",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FboIitFzPpPWseCXA6fUjA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.78438&pitch=0&thumbfov=100",
+            "cid": "3382341223988303169",
+            "fid": "0x872b6c5925ba2655:0x2ef07d6c3cfb9541",
+            "placeId": "ChIJVSa6JVlsK4cRQZX7PGx98C4"
+        }
+    ],
+    "credits": 3
+}

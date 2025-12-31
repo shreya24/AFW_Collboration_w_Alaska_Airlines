@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Shriner's Hospitals (parent agency)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.0371844,-96.7187953,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Philadelphia",
+            "address": "3551 N Broad St, Philadelphia, PA 19140",
+            "latitude": 40.007184699999996,
+            "longitude": -75.1513111,
+            "rating": 4.9,
+            "ratingCount": 165,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Rehabilitation center"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/philadelphia",
+            "phoneNumber": "(215) 430-4000",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "7\u202fAM\u20138\u202fPM",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNMqUgkF_dZLQgi5KMpToYr0u9geaQhRU0LYmEa",
+            "cid": "6100396468785755721",
+            "fid": "0x89c6b7f9ccf6e085:0x54a8f6445f05b649",
+            "placeId": "ChIJheD2zPm3xokRSbYFX0T2qFQ"
+        },
+        {
+            "position": 2,
+            "title": "Shriners Hospital for Children",
+            "address": "3160 Geneva St, Los Angeles, CA 90020",
+            "latitude": 34.067184,
+            "longitude": -118.2862796,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RPN283-WsdYOztQMPR6gZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.28375&pitch=0&thumbfov=100",
+            "cid": "1238587906870191325",
+            "fid": "0x80c2c77018d19d59:0x113059239417a4dd",
+            "placeId": "ChIJWZ3RGHDHwoAR3aQXlCNZMBE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,75 @@
+{
+    "searchParameters": {
+        "q": "Kara Dodds & Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8067669,-117.0630421,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kara Dodds & Associates, Pediatric Therapy Solutions",
+            "address": "7525 Metropolitan Dr UNIT 308, San Diego, CA 92108",
+            "latitude": 32.776520999999995,
+            "longitude": -117.1592412,
+            "rating": 4.7,
+            "ratingCount": 77,
+            "type": "Speech pathologist",
+            "types": [
+                "Speech pathologist",
+                "Occupational therapist",
+                "Physical therapist"
+            ],
+            "website": "http://karadodds.com/",
+            "phoneNumber": "(619) 692-0622",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Open 24 hours",
+                "Monday": "7:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN0Ifc5AsFSTExFtBKoIv4tos8WM1OxAVsqQcc",
+            "cid": "11470546763157281310",
+            "fid": "0x80d9553ea77a2b27:0x9f2f9181ed7f1a1e",
+            "placeId": "ChIJJyt6pz5V2YARHhp_7YGRL58"
+        },
+        {
+            "position": 2,
+            "title": "Kara Dodds & Associates",
+            "address": "8840 Magnolia Ave #220, Santee, CA 92071",
+            "latitude": 32.8370129,
+            "longitude": -116.966843,
+            "rating": 4.1,
+            "ratingCount": 26,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Occupational therapist",
+                "Physical therapist",
+                "Physical therapy clinic",
+                "Speech pathologist"
+            ],
+            "website": "https://karadodds.com/",
+            "phoneNumber": "(619) 749-7059",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20136:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMrMfmubwjt0U0vTnqQL-3N8lq2jHDCGoOXgVGt",
+            "cid": "8839853067568195023",
+            "fid": "0x80dbfd50783ff7a3:0x7aad7787870ca5cf",
+            "placeId": "ChIJo_c_eFD924ARz6UMh4d3rXo"
+        }
+    ],
+    "credits": 3
+}

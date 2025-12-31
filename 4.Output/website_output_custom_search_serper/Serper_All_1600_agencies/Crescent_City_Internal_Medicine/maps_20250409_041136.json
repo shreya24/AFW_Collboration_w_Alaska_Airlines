@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Crescent City Internal Medicine",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.777832,-124.1986999,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Crescent City Internal Medicine",
+            "address": "1771 Northcrest Dr #8922, Crescent City, CA 95531",
+            "latitude": 41.777832,
+            "longitude": -124.1986999,
+            "rating": 3.2,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "http://www.ccinternalmedicine.com/",
+            "phoneNumber": "(707) 465-8666",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTk1e6_fOwKVLFakEj2zcdNjmcxABx5ulQ2g6X",
+            "cid": "3176949034235477471",
+            "fid": "0x54d066027c2a317f:0x2c16ca507f203ddf",
+            "placeId": "ChIJfzEqfAJm0FQR3z0gf1DKFiw"
+        }
+    ],
+    "credits": 3
+}

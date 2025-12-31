@@ -1,0 +1,98 @@
+{
+    "searchParameters": {
+        "q": "Lorian Health Home Health Care",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4398312,-116.2857134,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "LORIAN HEALTH",
+            "address": "9655 Granite Ridge Dr # 500, San Diego, CA 92123",
+            "latitude": 32.8057983,
+            "longitude": -117.1195101,
+            "rating": 4.3,
+            "ratingCount": 32,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Aged care"
+            ],
+            "website": "http://lorianhealth.com/",
+            "phoneNumber": "(877) 567-4265",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zFkf7a4Y3DuRyL0WEHS12w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=286.61642&pitch=0&thumbfov=100",
+            "cid": "14297748660818542089",
+            "fid": "0x80dbfe2d41953ff1:0xc66bcea77fe7fe09",
+            "placeId": "ChIJ8T-VQS3-24ARCf7nf6fOa8Y"
+        },
+        {
+            "position": 2,
+            "title": "Lorian Health",
+            "address": "7888 Mission Grove Pkwy S STE 140, Riverside, CA 92508",
+            "latitude": 33.9079535,
+            "longitude": -117.3265548,
+            "rating": 2,
+            "ratingCount": 8,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "http://lorianhealth.com/",
+            "phoneNumber": "(877) 567-4265",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSXmXQomDPO1Inlyh4VYvBOHV8CagN7Ej82Rg_",
+            "cid": "12301441709946928861",
+            "fid": "0x80dc82707765b751:0xaab7800f328f7edd",
+            "placeId": "ChIJUbdld3CC3IAR3X6PMg-At6o"
+        },
+        {
+            "position": 3,
+            "title": "Lorian Home Systems-Las Vegas",
+            "address": "6325 S Rainbow Blvd #120, Las Vegas, NV 89118",
+            "latitude": 36.0738641,
+            "longitude": -115.2448721,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service"
+            ],
+            "website": "http://www.lorianhealth.com/",
+            "phoneNumber": "(702) 220-9535",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tBHXk3PnYI5D8nHl-MqNPg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=159.44756&pitch=0&thumbfov=100",
+            "cid": "7533322275798066763",
+            "fid": "0x80c8c0d41129dc3d:0x688bbcb2537b264b",
+            "placeId": "ChIJPdwpEdTAyIARSyZ7U7K8i2g"
+        }
+    ],
+    "credits": 3
+}

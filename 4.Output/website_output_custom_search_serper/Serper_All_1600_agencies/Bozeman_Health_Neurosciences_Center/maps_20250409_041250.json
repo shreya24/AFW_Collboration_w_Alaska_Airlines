@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bozeman Health Neurosciences Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6695855,-111.0201888,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health Neuroscience Center",
+            "address": "Entrance 3, 931 Highland Blvd #3210, Bozeman, MT 59715",
+            "latitude": 45.6695855,
+            "longitude": -111.0201888,
+            "rating": 3.2,
+            "ratingCount": 13,
+            "type": "Psychoneurological specialized clinic",
+            "types": [
+                "Psychoneurological specialized clinic",
+                "Medical clinic"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-5925",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "9019794392120424102",
+            "fid": "0x534544f2e1e2d8b3:0x7d2cbf35f165f6a6",
+            "placeId": "ChIJs9ji4fJERVMRpvZl8TW_LH0"
+        }
+    ],
+    "credits": 3
+}

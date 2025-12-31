@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Gathering Peace",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.2401971,-103.5099693,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pieceful Gathering Quilt Shop",
+            "address": "106 Northwest Hwy, Fox River Grove, IL 60021",
+            "latitude": 42.200212199999996,
+            "longitude": -88.22258289999999,
+            "rating": 4.8,
+            "ratingCount": 32,
+            "type": "Quilt shop",
+            "types": [
+                "Quilt shop",
+                "Fabric store"
+            ],
+            "website": "http://www.piecefulgathering.com/",
+            "phoneNumber": "(847) 516-7911",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20134\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "10\u202fAM\u20134\u202fPM",
+                "Saturday": "10\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP7Jb3Tr6daR5iOXxfwuOPEqLw1RuCKhAxcooPm",
+            "cid": "15906104073210036852",
+            "fid": "0x880f0b1433bef741:0xdcbdd56164140274",
+            "placeId": "ChIJQfe-MxQLD4gRdAIUZGHVvdw"
+        },
+        {
+            "position": 2,
+            "title": "My Gathering Place International",
+            "address": "27 W Easy St, Simi Valley, CA 93065",
+            "latitude": 34.280181999999996,
+            "longitude": -118.7973557,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Church",
+            "types": [
+                "Church"
+            ],
+            "website": "https://mygatheringplaceinternational.com/",
+            "phoneNumber": "(818) 221-3333",
+            "cid": "2705829141735372168",
+            "fid": "0x80c2c75ac35f44a5:0x258d0944b0097588",
+            "placeId": "ChIJpURfw1rHwoARiHUJsEQJjSU"
+        }
+    ],
+    "credits": 3
+}

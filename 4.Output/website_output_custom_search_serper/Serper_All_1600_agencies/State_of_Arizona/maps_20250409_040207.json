@@ -1,0 +1,24 @@
+{
+    "searchParameters": {
+        "q": "State of Arizona",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.168035,-111.9307474,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona",
+            "latitude": 34.0489281,
+            "longitude": -111.0937311,
+            "website": "http://az.gov/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM3WiUH2w_JOfwSACmzaMRxguRrfaMGWU4xiNLq",
+            "cid": "4771888923481853297",
+            "fid": "0x872b08ebcb4c186b:0x423927b17fc1cd71",
+            "placeId": "ChIJaxhMy-sIK4cRcc3Bf7EnOUI"
+        }
+    ],
+    "credits": 3
+}

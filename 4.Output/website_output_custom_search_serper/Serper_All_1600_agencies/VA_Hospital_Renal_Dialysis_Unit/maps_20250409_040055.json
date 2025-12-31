@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "VA Hospital Renal Dialysis Unit",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5638748,-122.3077215,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Hospital Renal Dialysis Unit",
+            "address": "1660 S Columbian Way, Seattle, WA 98108",
+            "latitude": 47.5638748,
+            "longitude": -122.3077215,
+            "rating": 4.7,
+            "ratingCount": 7,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.va.gov/health/services/renal/dialysis.asp",
+            "phoneNumber": "(206) 277-3012",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BFLQGcFMm56tgyyAJyEUoA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=76.23225&pitch=0&thumbfov=100",
+            "cid": "9177107918507726725",
+            "fid": "0x549041d85f875f21:0x7f5ba3078c13d785",
+            "placeId": "ChIJIV-HX9hBkFQRhdcTjAejW38"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bear Creek Naturopath Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3162228,-122.8345147,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bear Creek Naturopathic Clinic",
+            "address": "2612 E Barnett Rd, Medford, OR 97504",
+            "latitude": 42.3162228,
+            "longitude": -122.8345147,
+            "rating": 4.2,
+            "ratingCount": 42,
+            "type": "Naturopathic practitioner",
+            "types": [
+                "Naturopathic practitioner"
+            ],
+            "website": "https://www.bearcreekclinic.com/",
+            "phoneNumber": "(541) 770-5563",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Friday": "9\u202fAM\u201312:30\u202fPM, 2\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOL-4nwfkf1fU2NaWP2i6agW5HidTB3S_bm7xGX",
+            "cid": "9668290738876944580",
+            "fid": "0x54cf7a4783197e31:0x862cab33c3f590c4",
+            "placeId": "ChIJMX4Zg0d6z1QRxJD1wzOrLIY"
+        }
+    ],
+    "credits": 3
+}

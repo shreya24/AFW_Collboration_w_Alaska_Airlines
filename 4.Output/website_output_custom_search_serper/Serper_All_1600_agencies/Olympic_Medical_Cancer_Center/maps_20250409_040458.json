@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Olympic Medical Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.0898736,-123.11136,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Olympic Medical Cancer Center",
+            "address": "844 N 5th Ave, Sequim, WA 98382",
+            "latitude": 48.0898736,
+            "longitude": -123.11135999999999,
+            "rating": 4.5,
+            "ratingCount": 34,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.olympicmedical.org/services/cancer-center/",
+            "phoneNumber": "(360) 683-9895",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB__QYMg-iwJrInMtibm8FH9o891YRV1eIbz54sSBOTQRL2-YHJbSG8Ado8bMBsRUJiQ8M6yglYUa7WpN8qi75rn8bAlj-oTOxf-3wf5QJizaIyydlQLy8VQrcmL1YljR6FzrMI",
+            "cid": "15833623437005149762",
+            "fid": "0x548fbf46e485ddb5:0xdbbc54a035fdd642",
+            "placeId": "ChIJtd2F5Ea_j1QRQtb9NaBUvNs"
+        }
+    ],
+    "credits": 3
+}

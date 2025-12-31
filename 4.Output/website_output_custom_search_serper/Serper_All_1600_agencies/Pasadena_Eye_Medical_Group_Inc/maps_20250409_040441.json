@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pasadena Eye Medical Group Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1338463,-118.1507869,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pasadena Eye Medical Group",
+            "address": "10 Congress St #340, Pasadena, CA 91105",
+            "latitude": 34.1338463,
+            "longitude": -118.1507869,
+            "rating": 4.9,
+            "ratingCount": 798,
+            "type": "Ophthalmology clinic",
+            "types": [
+                "Ophthalmology clinic"
+            ],
+            "website": "https://pasadenaeyemed.com/",
+            "phoneNumber": "(626) 796-5325",
+            "menu": "http://places.singleplatform.com/pasadena-eye-medical-group/menu?ref=google",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8NV8eUMzbuJcLG1VpzecuSbBoO5H1CFhIDYeJt4FiXnPrt96Cbly8wm2wVgdH6AzSpztnKAbZnFz7xMznWmLh4nVT754PD0t-1clfa9ZdLoKa-Kf3wBe9Vml0tVHDBxRi_OnuU",
+            "cid": "628427770283163340",
+            "fid": "0x80c2c37d97f410e3:0x8b89fba3eb7fecc",
+            "placeId": "ChIJ4xD0l33DwoARzP63PrqfuAg"
+        }
+    ],
+    "credits": 3
+}

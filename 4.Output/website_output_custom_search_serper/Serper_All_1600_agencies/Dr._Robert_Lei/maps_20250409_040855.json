@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Dr. Robert Lei",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.9102202,-87.8423129,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Robert S. Lai, MD",
+            "address": "675 W North Ave UNIT 605, Melrose Park, IL 60160",
+            "latitude": 41.9102202,
+            "longitude": -87.8423129,
+            "type": "Urologist",
+            "types": [
+                "Urologist"
+            ],
+            "website": "http://doctors.advocatehealth.com/",
+            "phoneNumber": "(708) 450-5055",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QypS-B745y8i7gb9tVCG4Q&cb_client=search.gws-prod.gps&w=360&h=120&yaw=196.05524&pitch=0&thumbfov=100",
+            "cid": "18251067458525336270",
+            "fid": "0x880fcab0b9e91657:0xfd48d127bd1812ce",
+            "placeId": "ChIJVxbpubDKD4gRzhIYvSfRSP0"
+        }
+    ],
+    "credits": 3
+}

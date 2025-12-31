@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Community Physician Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.8465619,-114.0456871,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Physician Group",
+            "address": "2831 Fort Missoula Rd STE 201, Missoula, MT 59804",
+            "latitude": 46.8465619,
+            "longitude": -114.0456871,
+            "rating": 2.5,
+            "ratingCount": 8,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.communityphysiciangroup.org/",
+            "phoneNumber": "(844) 236-2866",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_m4yN1bqNKsVAQ-i2D9-xg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=166.59508&pitch=0&thumbfov=100",
+            "cid": "18272873552323140847",
+            "fid": "0x535dd20eaac758e1:0xfd9649ae97d9dcef",
+            "placeId": "ChIJ4VjHqg7SXVMR79zZl65Jlv0"
+        }
+    ],
+    "credits": 3
+}

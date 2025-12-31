@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Hospice of teh East Bay",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.9389507,-122.0592628,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hospice East Bay",
+            "address": "3470 Buskirk Ave, Pleasant Hill, CA 94523",
+            "latitude": 37.9389507,
+            "longitude": -122.0592628,
+            "rating": 3.7,
+            "ratingCount": 24,
+            "type": "Hospice",
+            "types": [
+                "Hospice",
+                "Home health care service"
+            ],
+            "website": "http://www.hospiceeastbay.org/",
+            "phoneNumber": "(925) 887-5678",
+            "description": "Charity boutique carrying used designer clothing & vintage items, plus furniture, housewares & more.",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlgGfoa8zGkVgVD5m3qxBg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=4.602572&pitch=0&thumbfov=100",
+            "cid": "4500805889552399764",
+            "fid": "0x808561157a834679:0x3e76131c39c1bd94",
+            "placeId": "ChIJeUaDehVhhYARlL3BORwTdj4"
+        }
+    ],
+    "credits": 3
+}

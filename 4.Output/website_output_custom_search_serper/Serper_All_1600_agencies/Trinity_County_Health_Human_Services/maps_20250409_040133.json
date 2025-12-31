@@ -1,0 +1,93 @@
+{
+    "searchParameters": {
+        "q": "Trinity County Health Human Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.8144469,-109.2831895,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Trinity County Health and Human Services\u2013Weaverville Office",
+            "address": "51 Industrial Pkwy, Weaverville, CA 96093",
+            "latitude": 40.709896,
+            "longitude": -122.9253277,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "website": "http://www.trinitycounty.org/hhs",
+            "phoneNumber": "(530) 623-1265",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuFYkUSCcvq0nphP6xQ_KkIT_7KNo2aPLcTic6",
+            "cid": "18250891019435298947",
+            "fid": "0x54d252194fcf37b7:0xfd4830af4fced083",
+            "placeId": "ChIJtzfPTxlS0lQRg9DOT68wSP0"
+        },
+        {
+            "position": 2,
+            "title": "Trinity County Health and Human Services\u2013Hayfork Office",
+            "address": "6641 CA-3 Suite B, Hayfork, CA 96041",
+            "latitude": 40.5528404,
+            "longitude": -123.1912306,
+            "type": "Government office",
+            "types": [
+                "Government office"
+            ],
+            "phoneNumber": "(530) 623-1265",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1\u202fPM\u20134\u202fAM",
+                "Wednesday": "Closed",
+                "Thursday": "1\u20134\u202fAM, 9\u202fAM\u201312\u202fAM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4sUU2crjEJDZJ6TRnsPkXw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.86452&pitch=0&thumbfov=100",
+            "cid": "16810941970708495640",
+            "fid": "0x54d3a735839b64a3:0xe94c76a777c8fd18",
+            "placeId": "ChIJo2SbgzWn01QRGP3Id6d2TOk"
+        },
+        {
+            "position": 3,
+            "title": "Trinity Human Service Department",
+            "address": "1920 S Robb St, Trinity, TX 75862",
+            "latitude": 30.9189977,
+            "longitude": -95.3751485,
+            "rating": 4.4,
+            "ratingCount": 39,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "phoneNumber": "(936) 594-6380",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPNdmvvoizTlo-rLyj-cAwojWK72w2v1V7sP74Z",
+            "cid": "13744576788127159828",
+            "fid": "0x86479815d2020ee9:0xbebe8bc454661614",
+            "placeId": "ChIJ6Q4C0hWYR4YRFBZmVMSLvr4"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "AA Spine & Pain Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1995461,-149.823974,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AA Spine & Pain Clinic",
+            "address": "Anchorage, AK 99508",
+            "latitude": 61.1995461,
+            "longitude": -149.823974,
+            "rating": 4.2,
+            "ratingCount": 141,
+            "type": "Pain control clinic",
+            "types": [
+                "Pain control clinic",
+                "Medical clinic"
+            ],
+            "website": "http://www.aapain.com/",
+            "phoneNumber": "(907) 563-2873",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMXJjeyoWSHBMl5gzezF5bb8VU3V58FZwLa7zca",
+            "cid": "2099247119559755548",
+            "fid": "0x56c897a631f1a021:0x1d220622091f071c",
+            "placeId": "ChIJIaDxMaaXyFYRHAcfCSIGIh0"
+        }
+    ],
+    "credits": 3
+}

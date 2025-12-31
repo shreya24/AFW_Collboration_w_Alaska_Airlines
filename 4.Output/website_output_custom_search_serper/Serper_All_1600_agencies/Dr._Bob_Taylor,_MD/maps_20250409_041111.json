@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Dr. Bob Taylor, MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.743111,-121.23944,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Bob Taylor, MD",
+            "address": "2550 Douglas Blvd STE 160, Roseville, CA 95661",
+            "latitude": 38.743111,
+            "longitude": -121.23943999999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "General practitioner",
+            "types": [
+                "General practitioner"
+            ],
+            "phoneNumber": "(916) 784-9575",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "9\u202fAM\u20133\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB85S6k26wcBU54MeCH1xjPS-juQvfBCFG7B5EvZUmwavtpZauVAHg7l14PP4Aw5bnkd4YzUfc8v_y5bYeM0EZk5dmA9bK3rtnvAB80CxJ2whjO6TUGop_LGHhl1NjFtqArfN2gZ3g",
+            "cid": "16799179013463563437",
+            "fid": "0x809b1fdd8688e4dd:0xe922ac4e8fb15cad",
+            "placeId": "ChIJ3eSIht0fm4ARrVyxj06sIuk"
+        }
+    ],
+    "credits": 3
+}

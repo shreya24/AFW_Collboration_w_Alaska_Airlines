@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "North Olympic Peninsula CBOC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1127895,-123.4133875,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "North Olympic Peninsula VA Clinic",
+            "address": "1114 Georgiana St, Port Angeles, WA 98362",
+            "latitude": 48.1127895,
+            "longitude": -123.4133875,
+            "rating": 2.8,
+            "ratingCount": 27,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "http://www.va.gov/",
+            "phoneNumber": "(360) 565-7420",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPnO5tF1rDI8HGxVK37rKux_DdGReNcMU1MUkqu",
+            "cid": "18111302095745492385",
+            "fid": "0x4108fe1625c93341:0xfb58454c5cb2a5a1",
+            "placeId": "ChIJQTPJJRb-CEERoaWyXExFWPs"
+        }
+    ],
+    "credits": 3
+}

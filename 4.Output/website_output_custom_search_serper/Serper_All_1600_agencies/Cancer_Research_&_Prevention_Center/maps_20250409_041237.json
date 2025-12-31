@@ -1,0 +1,86 @@
+{
+    "searchParameters": {
+        "q": "Cancer Research & Prevention Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8080813,-88.4047239,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "MD Anderson Cancer Prevention Center",
+            "address": "1155 Pressler St #1322, Houston, TX 77030",
+            "latitude": 29.7046645,
+            "longitude": -95.40107239999999,
+            "rating": 4.4,
+            "ratingCount": 22,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.mdanderson.org/patient-and-cancer-information/care-centers-and-clinics/specialty-and-treatment-centers/cancer-prevention/index.html",
+            "phoneNumber": "(713) 745-8040",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNq76uTeOmFZvS3jnR4UlJzZyksmZVgjg2TnJr1",
+            "cid": "15031724093094443787",
+            "fid": "0x8640c074374b90dd:0xd09b696bd2933b0b",
+            "placeId": "ChIJ3ZBLN3TAQIYRCzuT0mtpm9A"
+        },
+        {
+            "position": 2,
+            "title": "Cancer Prevention & Research Institute of Texas",
+            "address": "1701 North Congress Ave. Suite 6-127, Austin, TX 78701",
+            "latitude": 30.279063999999998,
+            "longitude": -97.738238,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "State government office",
+            "types": [
+                "State government office"
+            ],
+            "website": "http://www.cprit.state.tx.us/",
+            "phoneNumber": "(512) 463-3190",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPEYUwU6q67XeN0HjgypOchpghHBN-6egUtPTOf",
+            "cid": "5346832382708564875",
+            "fid": "0x8644b5a76cbfefc7:0x4a33c3b92ce6438b",
+            "placeId": "ChIJx--_bKe1RIYRi0PmLLnDM0o"
+        },
+        {
+            "position": 3,
+            "title": "Cancer Prevention And Control Research Network (CPCRN)",
+            "address": "200 N Greensboro St, Carrboro, NC 27510",
+            "latitude": 35.911498099999996,
+            "longitude": -79.07120979999999,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://cpcrn.org/",
+            "phoneNumber": "(919) 966-2812",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T_NPtXTfso26Zbf8wELpYA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.24251&pitch=0&thumbfov=100",
+            "cid": "2568795856013337790",
+            "fid": "0x89acc3193bfb1397:0x23a63238922ba4be",
+            "placeId": "ChIJlxP7OxnDrIkRvqQrkjgypiM"
+        }
+    ],
+    "credits": 3
+}

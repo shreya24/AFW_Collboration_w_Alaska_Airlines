@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "Dirne Community Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6948094,-116.7989315,18z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Heritage Health",
+            "address": "1090 W Park Pl, Coeur d'Alene, ID 83814",
+            "latitude": 47.694790399999995,
+            "longitude": -116.80100619999999,
+            "rating": 3.6,
+            "ratingCount": 260,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Counselor",
+                "Dental clinic",
+                "Dentist",
+                "Psychologist",
+                "Social worker"
+            ],
+            "website": "https://myheritagehealth.org/",
+            "phoneNumber": "(208) 620-5250",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMvloecx_SQpvS7_xIbMdY6fZHIY7XU7BiXm1e7",
+            "cid": "13922164544035121700",
+            "fid": "0x5361c6ea5d42eb83:0xc13576e3d7c06a24",
+            "placeId": "ChIJg-tCXerGYVMRJGrA1-N2NcE"
+        },
+        {
+            "position": 2,
+            "title": "Dirne Community Health Center",
+            "address": "916 W Ironwood Dr, Coeur d'Alene, ID 83814",
+            "latitude": 47.6948285,
+            "longitude": -116.7968569,
+            "isPermanentlyClosed": true,
+            "cid": "12237515434718564857",
+            "fid": "0x5361c6c0f46c0001:0xa9d4637363c291f9",
+            "placeId": "ChIJAQBs9MDGYVMR-ZHCY3Nj1Kk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Intensive Physical Therapy Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6720792,-111.8413481,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Intensive Physical Therapy Institute, LLC",
+            "address": "4568 Highland Dr. #180, Salt Lake City, UT 84117",
+            "latitude": 40.6720792,
+            "longitude": -111.84134809999999,
+            "rating": 5,
+            "ratingCount": 22,
+            "type": "Physical therapy clinic",
+            "types": [
+                "Physical therapy clinic",
+                "Physical therapist"
+            ],
+            "website": "https://iptitherapy.com/",
+            "phoneNumber": "(801) 251-0257",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-9GRZ43HDdenbP5tJvOIiHt3kEbSSlsf64CoJYUCbYZg-TuhVBnRL4PbsO_YeQztgrroyzLzW263NgI8oj4FtO_zWoQI_c0spVI4tnghka7odgSITr1t2Mi8joZuROsufh6GsGOQ",
+            "cid": "8074041313055875566",
+            "fid": "0x875261f13dc0ce49:0x700cc1cbce8621ee",
+            "placeId": "ChIJSc7APfFhUocR7iGGzsvBDHA"
+        }
+    ],
+    "credits": 3
+}

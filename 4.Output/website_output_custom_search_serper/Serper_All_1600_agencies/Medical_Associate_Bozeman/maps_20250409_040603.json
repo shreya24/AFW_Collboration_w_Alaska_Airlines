@@ -1,0 +1,597 @@
+{
+    "searchParameters": {
+        "q": "Medical Associate Bozeman",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.6897211,-111.0590205,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bozeman Health Family Medicine Clinics",
+            "address": "935 Highland Blvd #2200, Bozeman, MT 59715",
+            "latitude": 45.6697801,
+            "longitude": -111.02005349999999,
+            "rating": 4.6,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-5700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPpfclho6t6N1j-LwwL2359KFaKXyZQ3ILP7_PV",
+            "cid": "3560624056316916937",
+            "fid": "0x534544f3480bed43:0x3169e0b6d77af4c9",
+            "placeId": "ChIJQ-0LSPNERVMRyfR617bgaTE"
+        },
+        {
+            "position": 2,
+            "title": "Internal Medicine Associates",
+            "address": "905 Highland Blvd, Bozeman, MT 59715",
+            "latitude": 45.6698297,
+            "longitude": -111.0199581,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "phoneNumber": "(406) 522-2400",
+            "cid": "18405902783129148578",
+            "fid": "0x534544f2e1e2d8b3:0xff6ee71006c95ca2",
+            "placeId": "ChIJs9ji4fJERVMRolzJBhDnbv8"
+        },
+        {
+            "position": 3,
+            "title": "Bozeman Clinic",
+            "address": "1245 N 15th Ave, Bozeman, MT 59715",
+            "latitude": 45.692665399999996,
+            "longitude": -111.0572306,
+            "rating": 3.6,
+            "ratingCount": 50,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Emergency care physician",
+                "Family practice physician",
+                "Occupational medical physician"
+            ],
+            "website": "http://www.bozemanclinic.com/",
+            "phoneNumber": "(406) 587-4242",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "http://www.bozemanclinic.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgheKn3eRBny4BKSEPTRbtIT1rS3jW2eZUQXEo",
+            "cid": "6541112847567124056",
+            "fid": "0x534544f2e36cdabb:0x5ac6b37a82fb7658",
+            "placeId": "ChIJu9ps4_JERVMRWHb7gnqzxlo"
+        },
+        {
+            "position": 4,
+            "title": "Bozeman Creek Family Health",
+            "address": "316 E Babcock St, Bozeman, MT 59715",
+            "latitude": 45.678159099999995,
+            "longitude": -111.0324981,
+            "rating": 4,
+            "ratingCount": 140,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.bozemancreekfamilyhealth.com/",
+            "phoneNumber": "(406) 585-0022",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNkbfsl2tW6BS9G1kZRBmxJ9yAOP2q_FfriPlzl",
+            "cid": "9572693671473239450",
+            "fid": "0x53454459772bd8c1:0x84d90a2d07cad59a",
+            "placeId": "ChIJwdgrd1lERVMRmtXKBy0K2YQ"
+        },
+        {
+            "position": 5,
+            "title": "East Main Medical Clinic",
+            "address": "1104 E Main St, Bozeman, MT 59715",
+            "latitude": 45.6789991,
+            "longitude": -111.0219295,
+            "rating": 4.9,
+            "ratingCount": 93,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "http://www.eastmainmedical.com/",
+            "phoneNumber": "(406) 587-3788",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20133\u202fPM",
+                "Saturday": "8\u202fAM\u20133\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4v5a_BeTy3vTa0t7Vgfzlt9jpQUomIRUw4ENm",
+            "cid": "5680929752896154511",
+            "fid": "0x5345446086922beb:0x4ed6b782eb52ab8f",
+            "placeId": "ChIJ6yuShmBERVMRj6tS64K31k4"
+        },
+        {
+            "position": 6,
+            "title": "Surgical Associates of Bozeman",
+            "address": "925 Highland Blvd # 1200, Bozeman, MT 59715",
+            "latitude": 45.6698939,
+            "longitude": -111.0196084,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Registered general nurse",
+                "Vascular surgeon"
+            ],
+            "phoneNumber": "(406) 587-0704",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "9978714801567539961",
+            "fid": "0x534544f2e3a8f8c7:0x8a7b843e165da2f9",
+            "placeId": "ChIJx_io4_JERVMR-aJdFj6Ee4o"
+        },
+        {
+            "position": 7,
+            "title": "Gallatin Valley Anesthesia Associates",
+            "address": "915 Highland Blvd, Bozeman, MT 59715",
+            "latitude": 45.6698461,
+            "longitude": -111.01997399999999,
+            "rating": 4.2,
+            "ratingCount": 91,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.gallatinvalleyanesthesia.com/",
+            "phoneNumber": "(425) 407-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "cid": "17904207258909856366",
+            "fid": "0x534544f3a4d9e63b:0xf87885a4344ad26e",
+            "placeId": "ChIJO-bZpPNERVMRbtJKNKSFePg"
+        },
+        {
+            "position": 8,
+            "title": "Cathy Grace, MD",
+            "address": "935 Highland Blvd # 2210, Bozeman, MT 59715",
+            "latitude": 45.6690222,
+            "longitude": -111.02076559999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "15403834368845633191",
+            "fid": "0x534544f2e3433909:0xd5c569bed5ff56a7",
+            "placeId": "ChIJCTlD4_JERVMRp1b_1b5pxdU"
+        },
+        {
+            "position": 9,
+            "title": "Management Associates",
+            "address": "682 S Ferguson Ave #6, Bozeman, MT 59718",
+            "latitude": 45.6733118,
+            "longitude": -111.0930365,
+            "rating": 1.8,
+            "ratingCount": 141,
+            "type": "Property management company",
+            "types": [
+                "Property management company",
+                "Apartment rental agency"
+            ],
+            "website": "https://managementassociatesmt.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=gmb",
+            "phoneNumber": "(406) 586-6500",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjcS5q20PlbVL3BF5fpoOYRCs714Devk6fTp0b",
+            "cid": "4591089315139082895",
+            "fid": "0x5345458f872cbe9d:0x3fb6d36850f4da8f",
+            "placeId": "ChIJnb4sh49FRVMRj9r0UGjTtj8"
+        },
+        {
+            "position": 10,
+            "title": "Bozeman Health Internal Medicine Clinic",
+            "address": "937 Highland Blvd Suite 5410, Bozeman, MT 59715",
+            "latitude": 45.6687951,
+            "longitude": -111.0207348,
+            "rating": 3.4,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Internist"
+            ],
+            "website": "http://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-2400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOMS7ldXjPRKgzdH8SAzgb6sQmX4L5hHGbRKQGO",
+            "cid": "7417173950839903253",
+            "fid": "0x534544f1f1356a0d:0x66ef18691117d415",
+            "placeId": "ChIJDWo18fFERVMRFdQXEWkY72Y"
+        },
+        {
+            "position": 11,
+            "title": "The IMA Group",
+            "address": "1351 Stoneridge Dr UNIT B, Bozeman, MT 59718",
+            "latitude": 45.6928432,
+            "longitude": -111.06435689999999,
+            "type": "Occupational health service",
+            "types": [
+                "Occupational health service",
+                "Medical examiner",
+                "Medical office"
+            ],
+            "website": "https://theimagroup.com/?utm_source=google&utm_medium=google-my-business&utm_campaign=bozeman",
+            "phoneNumber": "(800) 897-5252",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YE6aPf1BLJ2T3V8pSH21Bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=355.42627&pitch=0&thumbfov=100",
+            "cid": "11538037734266347311",
+            "fid": "0x534545d8c656a3a7:0xa01f58302bff9f2f",
+            "placeId": "ChIJp6NWxthFRVMRL5__KzBYH6A"
+        },
+        {
+            "position": 12,
+            "title": "Bozeman Health Cottonwood Clinic Primary Care",
+            "address": "875 S Cottonwood Rd Suite 200, Bozeman, MT 59718",
+            "latitude": 45.6705429,
+            "longitude": -111.1053153,
+            "rating": 3.7,
+            "ratingCount": 17,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://bozemanhealth.org/",
+            "phoneNumber": "(406) 414-4100",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMx-3bXbLuOBfSpiL_mfAXlWJacMu3Zcylv03kE",
+            "cid": "8166080658721382722",
+            "fid": "0x53454f144ec9a55b:0x7153bf17e646a142",
+            "placeId": "ChIJW6XJThRPRVMRQqFG5he_U3E"
+        },
+        {
+            "position": 13,
+            "title": "Best Practice Medicine",
+            "address": "601 Haggerty Ln suite a, Bozeman, MT 59715",
+            "latitude": 45.6731681,
+            "longitude": -111.0127258,
+            "rating": 4.8,
+            "ratingCount": 23,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Ambulance service",
+                "Emergency care service",
+                "Emergency training",
+                "Emergency training school",
+                "Employment agency",
+                "Employment center",
+                "Training centre"
+            ],
+            "website": "http://www.bestpracticemedicine.com/",
+            "phoneNumber": "(406) 602-4202",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMijAtssQT4_74IjbnJ_8Z6wx_C9h3za90bST3H",
+            "cid": "14534457822408170533",
+            "fid": "0x534545c214d2294d:0xc9b4c461f3895c25",
+            "placeId": "ChIJTSnSFMJFRVMRJVyJ82HEtMk"
+        },
+        {
+            "position": 14,
+            "title": "Psychiatry Associates",
+            "address": "2078 Stadium Dr STE 101, Bozeman, MT 59715",
+            "latitude": 45.6598731,
+            "longitude": -111.055909,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "website": "https://www.papcmt.com/",
+            "phoneNumber": "(406) 587-0810",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20133\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.papcmt.com/forms-and-policies/tms-patient-questionnaire"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNr-SI6Fz_YbSk-DDjHGA2ipfhLDpQ7ErRQ0MK4",
+            "cid": "3356837985457980474",
+            "fid": "0x534545438ec9e1ff:0x2e95e25ccbc2c43a",
+            "placeId": "ChIJ_-HJjkNFRVMROsTCy1zilS4"
+        },
+        {
+            "position": 15,
+            "title": "Intermountain Health Bozeman Midtown Clinic \u2013 Family Medicine",
+            "address": "711 W Main St, Bozeman, MT 59715",
+            "latitude": 45.679660999999996,
+            "longitude": -111.047066,
+            "rating": 3.8,
+            "ratingCount": 15,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://intermountainhealthcare.org/locations/bozeman-midtown-clinic?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(406) 556-5888",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://intermountainhealthcare.org/locations/bozeman-midtown-clinic?utm_campaign=gmb&utm_source=local"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPgrWgfQ8gx9Ly2NXHOy70v-ReS4ZaixeuRDo4f",
+            "cid": "17682145222720328986",
+            "fid": "0x534545155132620d:0xf5639965631d951a",
+            "placeId": "ChIJDWIyURVFRVMRGpUdY2WZY_U"
+        },
+        {
+            "position": 16,
+            "title": "Community Health Partners - Bozeman Medical",
+            "address": "1695 Tschache Ln, Bozeman, MT 59718",
+            "latitude": 45.6968744,
+            "longitude": -111.0586393,
+            "rating": 3.5,
+            "ratingCount": 89,
+            "type": "Community health centre",
+            "types": [
+                "Community health centre",
+                "Medical clinic",
+                "Pharmacy"
+            ],
+            "website": "http://www.chphealthmt.org/",
+            "phoneNumber": "(406) 585-1360",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20137\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20137\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNshHikZiwl5UPz9YFlOVfhdWT-WWYwhVXc9SHU",
+            "cid": "12223710174072388123",
+            "fid": "0x5345445bb10b4a31:0xa9a357a3aae9ba1b",
+            "placeId": "ChIJMUoLsVtERVMRG7rpqqNXo6k"
+        },
+        {
+            "position": 17,
+            "title": "Allergy & Asthma Consultants of Montana",
+            "address": "1188 N 15th Ave #3, Bozeman, MT 59715",
+            "latitude": 45.691518599999995,
+            "longitude": -111.05645489999999,
+            "rating": 4.3,
+            "ratingCount": 24,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://allergymontana.com/",
+            "phoneNumber": "(406) 582-1111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "Closed",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://allergymontana.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNb5012k6DXQq1OJdjh7MdQDJlajwjZiDjrn66N",
+            "cid": "4719940570496900259",
+            "fid": "0x534545ca0e5d6aa7:0x418098f1096c1ca3",
+            "placeId": "ChIJp2pdDspFRVMRoxxsCfGYgEE"
+        },
+        {
+            "position": 18,
+            "title": "Medical Eye Specialists",
+            "address": "3820 N 27th Ave, Bozeman, MT 59718",
+            "latitude": 45.7195691,
+            "longitude": -111.0729616,
+            "rating": 4.9,
+            "ratingCount": 1049,
+            "type": "Ophthalmology clinic",
+            "types": [
+                "Ophthalmology clinic",
+                "Doctor",
+                "Eye care center"
+            ],
+            "website": "https://medeyemt.com/",
+            "phoneNumber": "(406) 587-1245",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://medicaleyebozeman.com/contact/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOjfIZF8Mw3jNQowkxbpnVx3-5W0h5wlVxguSj1",
+            "cid": "7073596203612758929",
+            "fid": "0x5345445ab3c30277:0x622a764508e3e391",
+            "placeId": "ChIJdwLDs1pERVMRkePjCEV2KmI"
+        },
+        {
+            "position": 19,
+            "title": "BestMed Urgent Care - Bozeman",
+            "address": "862 Harmon Stream Blvd #101, Bozeman, MT 59718",
+            "latitude": 45.6706767,
+            "longitude": -111.0795953,
+            "rating": 4.5,
+            "ratingCount": 987,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Walk-in clinic"
+            ],
+            "website": "https://bestmedclinics.com/montana/find-a-clinic/bozeman/",
+            "phoneNumber": "(406) 312-8360",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20134\u202fPM",
+                "Sunday": "9\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPAe7nROMQ5Ms7v60eNEIRozPD1Sz3-cQ9EAbYp",
+            "cid": "9415383195557229647",
+            "fid": "0x534545993bc0c527:0x82aa2921ab5ef44f",
+            "placeId": "ChIJJ8XAO5lFRVMRT_ReqyEpqoI"
+        },
+        {
+            "position": 20,
+            "title": "Bozeman Health Deaconess Regional Medical Center",
+            "address": "915 Highland Blvd, Bozeman, MT 59715",
+            "latitude": 45.6699625,
+            "longitude": -111.019943,
+            "rating": 2.7,
+            "ratingCount": 317,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.bozemanhealth.org/",
+            "phoneNumber": "(406) 414-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOMJLjoitcCIzNTrPNI9v9DWmO7rTRoHs-meIZc",
+            "cid": "8370312988905875936",
+            "fid": "0x534544f3a6b18c63:0x74295350ca92a9e0",
+            "placeId": "ChIJY4yxpvNERVMR4KmSylBTKXQ"
+        }
+    ],
+    "credits": 3
+}

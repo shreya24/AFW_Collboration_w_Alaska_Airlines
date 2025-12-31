@@ -1,0 +1,84 @@
+{
+    "searchParameters": {
+        "q": "Marta's House address",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "National Domestic Violence Hotline: Domestic Violence Support",
+            "link": "https://www.thehotline.org/",
+            "snippet": "Everyone deserves relationships free from domestic violence. When you're ready, we're here to listen with confidential support 24/7/365.",
+            "sitelinks": [
+                {
+                    "title": "Identify Abuse",
+                    "link": "https://www.thehotline.org/identify-abuse/"
+                },
+                {
+                    "title": "Understand Relationship Abuse",
+                    "link": "https://www.thehotline.org/identify-abuse/understand-relationship-abuse/"
+                },
+                {
+                    "title": "About",
+                    "link": "https://www.thehotline.org/about/"
+                },
+                {
+                    "title": "Get Help",
+                    "link": "https://www.thehotline.org/get-help/"
+                }
+            ],
+            "position": 1
+        },
+        {
+            "title": "Marta's House \u2013 Klamath Crisis Center",
+            "link": "https://klamath.org/businesses/martas-house-klamath-crisis-center/",
+            "snippet": "For over 30 years the Marta's House has been providing services to men, women, and children who are victims of Sexual Assault, Intimate partner Violence, ...",
+            "position": 2
+        },
+        {
+            "title": "Martha's House: Domestic Abuse Shelter",
+            "link": "http://www.marthashouse.org/",
+            "snippet": "Our main purpose of emergency services encompasses shelter, 24 hour crisis intervention, transportation, food, clothing, and access to donated items.",
+            "position": 3
+        },
+        {
+            "title": "Marta's House Shelter - Idealist",
+            "link": "https://www.idealist.org/en/nonprofit/332b3e7cb47c4359b2303da3e099193e-martas-house-shelter-klamath-falls",
+            "snippet": "We work to provide access to safety for all people affected by domestic violence, sexual assault, human trafficking, and stalking.",
+            "position": 4
+        },
+        {
+            "title": "Martha's House",
+            "link": "https://marthashouseinc.com/",
+            "snippet": "Martha's House is a Christian transition home where formerly incarcerated women focus on recovering from drug and alcohol abuse through faith-based ...",
+            "position": 5
+        }
+    ],
+    "places": [
+        {
+            "title": "Klamath Advocacy Center",
+            "address": "Klamath Falls, OR",
+            "rating": 4.1,
+            "ratingCount": 41,
+            "cid": "9382010205850929958"
+        },
+        {
+            "title": "Martha's House",
+            "address": "Hermiston, OR",
+            "rating": 3.8,
+            "ratingCount": 16,
+            "cid": "17051736453581493567"
+        },
+        {
+            "title": "Mary & Martha House",
+            "address": "Ruskin, FL",
+            "rating": 4.2,
+            "ratingCount": 109,
+            "cid": "11106937941310046450"
+        }
+    ],
+    "credits": 1
+}

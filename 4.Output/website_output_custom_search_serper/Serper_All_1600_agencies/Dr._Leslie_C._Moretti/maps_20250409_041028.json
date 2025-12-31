@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Dr. Leslie C. Moretti",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7138744,-122.4471299,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Leslie C Moretti Md Inc",
+            "address": "1850 Sullivan Ave # 440, Daly City, CA 94015",
+            "latitude": 37.6809446,
+            "longitude": -122.47380349999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Oncologist"
+            ],
+            "phoneNumber": "(650) 992-8500",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oP_1rBUdXtMnlEnXaapjDw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=179.27292&pitch=0&thumbfov=100",
+            "cid": "15868883372287797457",
+            "fid": "0x808f7c75c862ec9d:0xdc399959a35128d1",
+            "placeId": "ChIJnexiyHV8j4AR0ShRo1mZOdw"
+        },
+        {
+            "position": 2,
+            "title": "Leslie C Moretti Inc",
+            "address": "1580 Valencia St #809, San Francisco, CA 94110",
+            "latitude": 37.7468041,
+            "longitude": -122.42045639999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(415) 695-0290",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XXUfEsaQtNt-HAF3xs-vUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=258.1095&pitch=0&thumbfov=100",
+            "cid": "10972279437413524880",
+            "fid": "0x808f7e43c773ee55:0x98455e03c35b2590",
+            "placeId": "ChIJVe5zx0N-j4ARkCVbwwNeRZg"
+        }
+    ],
+    "credits": 3
+}

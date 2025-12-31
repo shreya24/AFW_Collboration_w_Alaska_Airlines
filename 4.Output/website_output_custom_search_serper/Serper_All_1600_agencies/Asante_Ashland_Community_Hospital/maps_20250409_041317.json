@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Asante Ashland Community Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.2057639,-122.7247549,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Asante Ashland Community Hospital",
+            "address": "280 Maple St, Ashland, OR 97520",
+            "latitude": 42.2057639,
+            "longitude": -122.7247549,
+            "rating": 3.8,
+            "ratingCount": 100,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.asante.org/Locations/location-detail/asante-ashland-community-hospital?utm_source=al-aach&utm_medium=site-link&utm_campaign=google-my-business/",
+            "phoneNumber": "(541) 201-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9qALiEAGjq30IIvJp1Dy6pDUoh_43cNG76nT1BYfnmIF8l1q61BAqoh7FBirpi2_HbUnVrSVAA6mArGpiOG7N6ej321vR-AE9XQHdKs7OduskKxSaTlOUkZEPnt_k3rWhFoJsqHQ",
+            "cid": "8751891977834134121",
+            "fid": "0x54cf735953e159c5:0x7974f7626364fa69",
+            "placeId": "ChIJxVnhU1lzz1QRafpkY2L3dHk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "UCSF Nancy Friend Pritzker Psychiatry Building",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.7628034,-122.3891806,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UCSF Nancy Friend Pritzker Psychiatry Building",
+            "address": "675 18th St, San Francisco, CA 94107",
+            "latitude": 37.762803399999996,
+            "longitude": -122.38918059999999,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Psychiatric hospital",
+            "types": [
+                "Psychiatric hospital",
+                "Mental health service",
+                "Research institute"
+            ],
+            "website": "https://psych.ucsf.edu/pritzker",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-2Xi-9_X1Ctt3dpcPji-990JbndusQCgnGUoGhLrRTFFLZZiASitdUCwC81jvn279gztnljCXbYB8YLfWhepOvN6IDCx_RJuiOd1M6RnFi27ojgy78GKjnUajE13SjxJEia9I0",
+            "cid": "14709022115593083975",
+            "fid": "0x808f7f4d91e4e4b1:0xcc20f1aeb14a5c47",
+            "placeId": "ChIJseTkkU1_j4ARR1xKsa7xIMw"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "CMN Alternative Cancer Treatment",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.4744949,-114.7695236,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CMN Hospital- CMN Alternative Cancer Treatment",
+            "address": "Av Francisco Eusebio Kino 1202, Comercial, 83448 San Luis R\u00edo Colorado, Son., Mexico",
+            "latitude": 32.474494899999996,
+            "longitude": -114.7695236,
+            "rating": 4,
+            "ratingCount": 31,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://cmn.com.mx/",
+            "phoneNumber": "+52 653 534 3520",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.cmnalternativecancertreatment.com/contact"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMBQz3QAQoIezeQEwuk9Lw6URMR3JSGJ2dgfppi",
+            "cid": "11838939614122157572",
+            "fid": "0x80d64e2e208ff10f:0xa44c5cda890d2604",
+            "placeId": "ChIJD_GPIC5O1oARBCYNidpcTKQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,66 @@
+{
+    "searchParameters": {
+        "q": "Dr. Manuel Rosario, DO",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7243421,-117.9160301,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Manuel Rosario",
+            "address": "1950 17th St Ste 200, Santa Ana, CA 92705",
+            "latitude": 33.759555899999995,
+            "longitude": -117.839355,
+            "rating": 4.8,
+            "ratingCount": 21,
+            "type": "Sports medicine physician",
+            "types": [
+                "Sports medicine physician",
+                "Practitioner service location"
+            ],
+            "phoneNumber": "(714) 495-4050",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9E7ki9y8kE3Wa3umlKYI0g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=176.11687&pitch=0&thumbfov=100",
+            "cid": "9317529362237447639",
+            "fid": "0x80dcd983add31153:0x814e8396ac6f5dd7",
+            "placeId": "ChIJUxHTrYPZ3IAR111vrJaDToE"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Manuel J. Rosario, MD",
+            "address": "18800 Delaware St, Huntington Beach, CA 92648",
+            "latitude": 33.6891284,
+            "longitude": -117.99255559999999,
+            "rating": 5,
+            "ratingCount": 6,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "phoneNumber": "(714) 495-4050",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TBMtc9fL53S8aaj1G3Xxqw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=78.74586&pitch=0&thumbfov=100",
+            "cid": "2305252174390464060",
+            "fid": "0x80dd26c7cc2fdabf:0x1ffde6a38c3d8e3c",
+            "placeId": "ChIJv9ovzMcm3YARPI49jKPm_R8"
+        },
+        {
+            "position": 3,
+            "title": "Rosario Manuel G DO",
+            "address": "18800 Delaware St # 4, Huntington Beach, CA 92648",
+            "latitude": 33.6891333,
+            "longitude": -117.9927053,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(714) 848-0090",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TBMtc9fL53S8aaj1G3Xxqw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=74.81847&pitch=0&thumbfov=100",
+            "cid": "3161969698959839160",
+            "fid": "0x80dd26c7cc2df785:0x2be192b0390ccfb8",
+            "placeId": "ChIJhfctzMcm3YARuM8MObCS4Ss"
+        }
+    ],
+    "credits": 3
+}

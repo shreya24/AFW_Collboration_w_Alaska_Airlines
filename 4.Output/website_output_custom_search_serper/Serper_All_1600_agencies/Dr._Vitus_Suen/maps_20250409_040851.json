@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Dr. Vitus Suen",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.3964753,-119.0079476,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Suen Vitus F MD",
+            "address": "4000 San Dimas St STE 1, Bakersfield, CA 93301",
+            "latitude": 35.3964753,
+            "longitude": -119.0079476,
+            "rating": 5,
+            "ratingCount": 11,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(661) 322-3072",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0xv3i-6RLyY75emXr1-viw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=83.187874&pitch=0&thumbfov=100",
+            "cid": "18441557001995273284",
+            "fid": "0x80ea69a258f86ab7:0xffed9262c10bc444",
+            "placeId": "ChIJt2r4WKJp6oARRMQLwWKS7f8"
+        }
+    ],
+    "credits": 3
+}

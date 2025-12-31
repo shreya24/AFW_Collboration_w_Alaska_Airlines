@@ -1,0 +1,112 @@
+{
+    "searchParameters": {
+        "q": "Yankton Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8884527,-97.4058799,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Yankton Medical Clinic, P.C.",
+            "address": "1104 W 8th St, Yankton, SD 57078",
+            "latitude": 42.876715499999996,
+            "longitude": -97.4108035,
+            "rating": 4.7,
+            "ratingCount": 1191,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Home health care service",
+                "Laboratory",
+                "Medical diagnostic imaging center",
+                "Medical laboratory",
+                "Pharmacy",
+                "Surgical center"
+            ],
+            "website": "http://www.yanktonmedicalclinic.com/",
+            "phoneNumber": "(605) 665-7841",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u201312\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.yanktonmedicalclinic.com/patient-portal/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMFfs30B-grBXNMnbM448_IReGwORTNJDqIJJWy",
+            "cid": "2535400475791796844",
+            "fid": "0x878fa1960f4f02e5:0x232f8d4cb2ed2a6c",
+            "placeId": "ChIJ5QJPD5ahj4cRbCrtskyNLyM"
+        },
+        {
+            "position": 2,
+            "title": "Yankton Medical Clinic Pharmacy",
+            "address": "1104 W 8th St, Yankton, SD 57078",
+            "latitude": 42.876624,
+            "longitude": -97.410697,
+            "rating": 3.6,
+            "ratingCount": 7,
+            "type": "Pharmacy",
+            "types": [
+                "Pharmacy"
+            ],
+            "website": "http://www.yanktonmedicalclinic.com/pharmacy",
+            "phoneNumber": "(605) 665-2929",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20138\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20138\u202fPM",
+                "Thursday": "8:30\u202fAM\u20138\u202fPM",
+                "Friday": "8:30\u202fAM\u20138\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134\u202fPM",
+                "Sunday": "12\u20134\u202fPM",
+                "Monday": "8:30\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOn8i__hJPz_9IdzZwE0gMdQzkBlpXjcbMcLNKS",
+            "cid": "7899014451611764687",
+            "fid": "0x878fa1960f4f02e5:0x6d9eefcaffff07cf",
+            "placeId": "ChIJ5QJPD5ahj4cRzwf__8rvnm0"
+        },
+        {
+            "position": 3,
+            "title": "Yankton Medical Clinic, P.C., Ear, Nose & Throat",
+            "address": "2525 Fox Run Pkwy Suite 101, Yankton, SD 57078",
+            "latitude": 42.9002814,
+            "longitude": -97.4009564,
+            "rating": 4.8,
+            "ratingCount": 105,
+            "type": "Otolaryngology clinic",
+            "types": [
+                "Otolaryngology clinic",
+                "Audiologist",
+                "Doctor"
+            ],
+            "website": "http://www.yanktonmedicalclinic.com/ent",
+            "phoneNumber": "(605) 665-0062",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.yanktonmedicalclinic.com/patient-portal/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMKSpiVbomImAeIOa3XxvsrIQ0HK_E1FLUxrH00",
+            "cid": "12147037099813658771",
+            "fid": "0x878fa054644ddfb1:0xa892f1e26fe26093",
+            "placeId": "ChIJsd9NZFSgj4cRk2Dib-Lxkqg"
+        }
+    ],
+    "credits": 3
+}

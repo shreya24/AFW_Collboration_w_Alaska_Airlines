@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Mission Mountain Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6456189,-114.0705539,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mission Mountain Medical",
+            "address": "38889 Dubay Rd, Polson, MT 59860",
+            "latitude": 47.645618899999995,
+            "longitude": -114.0705539,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "phoneNumber": "(406) 883-2722",
+            "cid": "16759117099406618066",
+            "fid": "0x536776e18f3613f9:0xe8945835534e6dd2",
+            "placeId": "ChIJ-RM2j-F2Z1MR0m1OUzVYlOg"
+        }
+    ],
+    "credits": 3
+}

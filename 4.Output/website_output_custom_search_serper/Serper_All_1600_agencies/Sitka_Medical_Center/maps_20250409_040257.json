@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sitka Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@57.0565372,-135.3473309,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sitka Medical Center",
+            "address": "700 Katlian St # E, Sitka, AK 99835",
+            "latitude": 57.056537199999994,
+            "longitude": -135.3473309,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "https://searhc.org/location/sitka-medical-center/",
+            "phoneNumber": "(907) 966-8761",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9CX0H3zXwqcmtQxIHp1Fi-6it6pNOQKJTxmfDssbciP57ql1IzWj0hAgOlIA9Ykps906t4g7i5rtlgM-Z4hDp4AR-pGk43A5a7Spl9q9FohmR23PnmijmiNCjMBFBnKU6I_QQX",
+            "cid": "5474677734331482700",
+            "fid": "0x540467b1cc75e817:0x4bf9f664ae91824c",
+            "placeId": "ChIJF-h1zLFnBFQRTIKRrmT2-Us"
+        }
+    ],
+    "credits": 3
+}

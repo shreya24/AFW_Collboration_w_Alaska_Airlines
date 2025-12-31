@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "San Juan Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4773714,-107.8694384,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Juan Cancer Center",
+            "address": "600 S 5th St, Montrose, CO 81401",
+            "latitude": 38.477371399999996,
+            "longitude": -107.86943839999999,
+            "rating": 4,
+            "ratingCount": 10,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.montrosehospital.com/medical-services/san-juan-cancer-center",
+            "phoneNumber": "(970) 240-7242",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOH1WwJaIaQcElWfQI6os1huut9QgKpoKixH4zU",
+            "cid": "13150631002212420255",
+            "fid": "0x873f50858d56ffef:0xb6806d38b31c4a9f",
+            "placeId": "ChIJ7_9WjYVQP4cRn0ocszhtgLY"
+        }
+    ],
+    "credits": 3
+}

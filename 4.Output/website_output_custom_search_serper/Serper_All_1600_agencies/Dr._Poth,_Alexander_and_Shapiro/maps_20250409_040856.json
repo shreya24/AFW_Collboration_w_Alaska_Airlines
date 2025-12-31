@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr. Poth, Alexander and Shapiro",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.8132291,-77.1227336,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shapiro Harold L DDS",
+            "address": "5249 Duke St suite 101, Alexandria, VA 22304",
+            "latitude": 38.8132291,
+            "longitude": -77.12273359999999,
+            "type": "Dentist",
+            "types": [
+                "Dentist"
+            ],
+            "phoneNumber": "(703) 751-4344",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eSPoeP6s05PpWIig8vDOWw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=96.38299&pitch=0&thumbfov=100",
+            "cid": "303036167343030328",
+            "fid": "0x89b7b3cad506f303:0x43499c9e493c038",
+            "placeId": "ChIJA_MG1cqzt4kROMCT5MmZNAQ"
+        }
+    ],
+    "credits": 3
+}

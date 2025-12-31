@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "IHS- Southern Bands Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.8482245,-115.7647541,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Southern Bands Health Center",
+            "address": "515 Shoshone Cir, Elko, NV 89801",
+            "latitude": 40.8482245,
+            "longitude": -115.76475409999999,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(775) 738-2252",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q7l-ihqWR99nsBwq2Jk4LA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=330.00867&pitch=0&thumbfov=100",
+            "cid": "17367539710759632262",
+            "fid": "0x80a606d6a53e4dc3:0xf105e5598a517d86",
+            "placeId": "ChIJw00-pdYGpoARhn1RilnlBfE"
+        }
+    ],
+    "credits": 3
+}

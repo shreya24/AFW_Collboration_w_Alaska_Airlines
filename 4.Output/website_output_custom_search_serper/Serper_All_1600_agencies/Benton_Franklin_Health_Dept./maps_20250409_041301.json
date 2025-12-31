@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Benton Franklin Health Dept.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.2274142,-119.1537396,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Benton Franklin Health District",
+            "address": "7102 W Okanogan Pl, Kennewick, WA 99336",
+            "latitude": 46.2233066,
+            "longitude": -119.2161199,
+            "rating": 2.6,
+            "ratingCount": 86,
+            "type": "Public health department",
+            "types": [
+                "Public health department",
+                "County government office"
+            ],
+            "website": "http://www.bfhd.wa.gov/",
+            "phoneNumber": "(509) 460-4200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMwpKXygV2NsR6KQNpiEK2fjjlpk0IcfkjPyFah",
+            "cid": "17160244499235072281",
+            "fid": "0x5498798c171b79b3:0xee256f7403c1e919",
+            "placeId": "ChIJs3kbF4x5mFQRGenBA3RvJe4"
+        },
+        {
+            "position": 2,
+            "title": "Benton Franklin Health District",
+            "address": "412 W Clark St, Pasco, WA 99301",
+            "latitude": 46.2315219,
+            "longitude": -119.0913593,
+            "rating": 3.6,
+            "ratingCount": 8,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.bfhd.wa.gov/",
+            "phoneNumber": "(509) 547-9737",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5gy4BQfeoTnwXhcA6XBKFQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=156.0088&pitch=0&thumbfov=100",
+            "cid": "3328275495832531319",
+            "fid": "0x54987ee7ba40bb35:0x2e3068edf3bc3177",
+            "placeId": "ChIJNbtAuud-mFQRdzG88-1oMC4"
+        }
+    ],
+    "credits": 3
+}

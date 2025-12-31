@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "South Valley Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.6060309,-111.9425003,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Valley Services",
+            "address": "8000 S Redwood Rd Ste N140, West Jordan, UT 84088",
+            "latitude": 40.6060309,
+            "longitude": -111.94250029999999,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://svsutah.org/about/contact-our-staff",
+            "phoneNumber": "(801) 255-1095",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134\u202fAM",
+                "Wednesday": "8:30\u202fAM\u20134\u202fAM",
+                "Thursday": "8:30\u202fAM\u20134\u202fAM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134\u202fAM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-v7DEjeO1LIwz6b9PVbFsw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=325.41364&pitch=0&thumbfov=100",
+            "cid": "17495441665372096837",
+            "fid": "0x87528c7100cda9f3:0xf2cc4b7ff5128945",
+            "placeId": "ChIJ86nNAHGMUocRRYkS9X9LzPI"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,29 @@
+{
+    "searchParameters": {
+        "q": "Dr. Bruce MacHaffie",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.895895,-104.7133246,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mac Haffie Bruce MD",
+            "address": "6190 Barnes Rd, Colorado Springs, CO 80922",
+            "latitude": 38.895894999999996,
+            "longitude": -104.71332459999999,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(719) 596-4502",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HkbvewaDaVehua3tG9-eCg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=104.37625&pitch=0&thumbfov=100",
+            "cid": "10343968464471194792",
+            "fid": "0x8713488c28ba796d:0x8f8d288384a5fca8",
+            "placeId": "ChIJbXm6KIxIE4cRqPylhIMojY8"
+        }
+    ],
+    "credits": 3
+}

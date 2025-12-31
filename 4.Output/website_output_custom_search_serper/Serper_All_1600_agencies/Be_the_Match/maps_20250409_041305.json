@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Be the Match",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.9838441,-93.2782185,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "NMDP",
+            "address": "500 N 5th St, Minneapolis, MN 55401",
+            "latitude": 44.9838441,
+            "longitude": -93.2782185,
+            "rating": 4.5,
+            "ratingCount": 64,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.bethematch.org/",
+            "phoneNumber": "(800) 627-7692",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMGrU4MyiwDMuXUyaA86PLcb3eOcT-K4eHvYZX2",
+            "cid": "1866506394937216144",
+            "fid": "0x52b32c5248e8aea9:0x19e729ad513a4c90",
+            "placeId": "ChIJqa7oSFIss1IRkEw6Ua0p5xk"
+        }
+    ],
+    "credits": 3
+}

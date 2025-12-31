@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Dr.  Sam Ciricillo's Office",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5712171,-121.4700323,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Samuel F Ciricillo, M.D.",
+            "address": "2800 L St #500, Sacramento, CA 95816",
+            "latitude": 38.5712171,
+            "longitude": -121.4700323,
+            "rating": 4.8,
+            "ratingCount": 39,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "https://www.sutterhealth.org/find-doctor/dr-samuel-f-ciricillo?utm_source=yelp&utm_medium=social&utm_content=branded-url&utm_campaign=smf-yelp-doctors",
+            "phoneNumber": "(916) 454-6850",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPkisQnS-F1-vthzE4s4Mx3IuDfEE9rbNE76Y-k",
+            "cid": "14055345105876018061",
+            "fid": "0x809ad0eadc1ff393:0xc30e9de7c743e38d",
+            "placeId": "ChIJk_Mf3OrQmoARjeNDx-edDsM"
+        }
+    ],
+    "credits": 3
+}

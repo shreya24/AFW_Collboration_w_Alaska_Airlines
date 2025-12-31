@@ -1,0 +1,37 @@
+{
+    "searchParameters": {
+        "q": "Range Community Clinic: Autism Program of Excellence",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6612652,-117.4078391,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Range Comm. Clinic & WSU Speech and Language Pathology",
+            "address": "310 N Riverpoint Blvd # V, Spokane, WA 99202",
+            "latitude": 47.661265199999995,
+            "longitude": -117.40783909999999,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "website": "https://www.rangecommunityclinic.org/speech-language-pathology/",
+            "phoneNumber": "(509) 505-7481",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eRUIbPFe3MOA3w674h4SCw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=97.948296&pitch=0&thumbfov=100",
+            "cid": "17016983884931676559",
+            "fid": "0x549e19d9053a874f:0xec2878aef9e6398f",
+            "placeId": "ChIJT4c6BdkZnlQRjznm-a54KOw"
+        }
+    ],
+    "credits": 3
+}

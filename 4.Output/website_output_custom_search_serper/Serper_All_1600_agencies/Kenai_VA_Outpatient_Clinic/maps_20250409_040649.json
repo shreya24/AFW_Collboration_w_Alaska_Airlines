@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Kenai VA Outpatient Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4933971,-151.1178811,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kenai Vet Center Outstation",
+            "address": "43299 Kalifornsky Beach Rd, Soldotna, AK 99669",
+            "latitude": 60.493015299999996,
+            "longitude": -151.15713689999998,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Veterans center",
+            "types": [
+                "Veterans center",
+                "Mental health service",
+                "Veterans hospital"
+            ],
+            "website": "http://www.va.gov/directory/guide/facility.asp?ID=5468",
+            "phoneNumber": "(907) 260-7640",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_AmQjKdZi7uLS8iQPD6iwh7CHVW6o41LST5h7",
+            "cid": "17333268300680432436",
+            "fid": "0x56c663abaafbc353:0xf08c23af12988b34",
+            "placeId": "ChIJU8P7qqtjxlYRNIuYEq8jjPA"
+        },
+        {
+            "position": 2,
+            "title": "Kenai VA Clinic",
+            "address": "240 Hospital Pl Suite 105, Soldotna, AK 99669",
+            "latitude": 60.493778799999994,
+            "longitude": -151.0786253,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Veterans hospital"
+            ],
+            "website": "https://www.alaska.va.gov/locations/Kenai.asp",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIxFTc6YGDPM_D2-BXvRkXmfLUKuQybThLY4ut",
+            "cid": "2633083434897070708",
+            "fid": "0x56c663ddc8fca513:0x248a976ef1015a74",
+            "placeId": "ChIJE6X8yN1jxlYRdFoB8W6XiiQ"
+        }
+    ],
+    "credits": 3
+}

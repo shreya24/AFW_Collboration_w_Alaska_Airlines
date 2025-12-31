@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "5 Rock Ranch",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3623924,-123.3590011,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "5Rock Ranch",
+            "address": "23800 NW Flying M Rd, Yamhill, OR 97148",
+            "latitude": 45.3623924,
+            "longitude": -123.3590011,
+            "rating": 4.5,
+            "ratingCount": 52,
+            "type": "Children's camp",
+            "types": [
+                "Children's camp"
+            ],
+            "website": "http://5rockranch.com/",
+            "phoneNumber": "(503) 662-5678",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_-aXhRYpvCQ4BgMCGyOpraVKck-Z0rKYKwXOn",
+            "cid": "2186536515592359569",
+            "fid": "0x5495306e6971a34d:0x1e5823604c4d8e91",
+            "placeId": "ChIJTaNxaW4wlVQRkY5NTGAjWB4"
+        }
+    ],
+    "credits": 3
+}

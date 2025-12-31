@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Ancortes Island Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.5019283,-122.6154172,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Island Health",
+            "address": "1211 24th St, Anacortes, WA 98221",
+            "latitude": 48.501928299999996,
+            "longitude": -122.6154172,
+            "rating": 2.9,
+            "ratingCount": 177,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Medical clinic"
+            ],
+            "website": "https://www.islandhealth.org/",
+            "phoneNumber": "(360) 299-1300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNqqR3A6nEVpFNc2ZLYLz_bMa-dEf41tyXWPjWf",
+            "cid": "17857291172308756767",
+            "fid": "0x548579f446aaaaab:0xf7d1d7b5902ea91f",
+            "placeId": "ChIJq6qqRvR5hVQRH6kukLXX0fc"
+        }
+    ],
+    "credits": 3
+}

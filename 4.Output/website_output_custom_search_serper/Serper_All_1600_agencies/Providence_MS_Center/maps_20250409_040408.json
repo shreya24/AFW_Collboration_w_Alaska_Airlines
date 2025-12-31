@@ -1,0 +1,64 @@
+{
+    "searchParameters": {
+        "q": "Providence MS Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.6104228,-120.0883302,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Multiple Sclerosis Center",
+            "address": "9135 SW Barnes Rd #461, Portland, OR 97225",
+            "latitude": 45.5104529,
+            "longitude": -122.77036149999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Cancer treatment center",
+                "Heart hospital",
+                "Pediatric clinic",
+                "Urgent care center"
+            ],
+            "website": "https://oregon.providence.org/our-services/p/providence-multiple-sclerosis-center/",
+            "phoneNumber": "(503) 216-1150",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=80RRL5FeFJILfWT292ShAQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=305.1641&pitch=0&thumbfov=100",
+            "cid": "3265554903832729361",
+            "fid": "0x54950943773368d3:0x2d5194e2257c1711",
+            "placeId": "ChIJ02gzd0MJlVQRERd8JeKUUS0"
+        },
+        {
+            "position": 2,
+            "title": "Providence Multiple Sclerosis Center",
+            "address": "5633 N Lidgerwood St Suite 1800, Spokane, WA 99208",
+            "latitude": 47.7103926,
+            "longitude": -117.40629899999999,
+            "rating": 2.8,
+            "ratingCount": 16,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/wa/holy-family-hospital/multiple-sclerosis-center?ls=location&y_source=1_OTU3Njk3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 252-1700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPuaNLBU6YMOzZw-bVI6ZvkbNYrnBClpRoSoZrn",
+            "cid": "6931889848726088677",
+            "fid": "0x549e194b807c5b63:0x6033051737746be5",
+            "placeId": "ChIJY1t8gEsZnlQR5Wt0NxcFM2A"
+        }
+    ],
+    "credits": 3
+}

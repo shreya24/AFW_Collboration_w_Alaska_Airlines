@@ -1,0 +1,81 @@
+{
+    "searchParameters": {
+        "q": "Jeffrey Eckardt",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.1949238,-94.7777633,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Jeffrey L. Ecker, MD",
+            "address": "55 Fruit St, Boston, MA 02114",
+            "latitude": 42.3627286,
+            "longitude": -71.0691835,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Obstetrician-gynecologist",
+            "types": [
+                "Obstetrician-gynecologist"
+            ],
+            "phoneNumber": "(617) 724-2229",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iBKXpnz8VlQpHOOBqTlfdA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=353.989&pitch=0&thumbfov=100",
+            "cid": "5977333580454265842",
+            "fid": "0x89e370999524529b:0x52f3c138defd83f2",
+            "placeId": "ChIJm1IklZlw44kR8oP93jjB81I"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Jeffrey J. Eckardt, MD",
+            "address": "757 Westwood Plaza, Los Angeles, CA 90024",
+            "latitude": 34.0667717,
+            "longitude": -118.44608799999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(323) 442-5860",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DcMYRDd9C8DIUM7qELRHvQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=195.50635&pitch=0&thumbfov=100",
+            "cid": "3156681128558947703",
+            "fid": "0x80c2bc88a8ce4ca3:0x2bcec8c2f8ef6d77",
+            "placeId": "ChIJo0zOqIi8woARd23v-MLIzis"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Jeffrey J. Eckardt, MD",
+            "address": "10833 Le Conte Ave, Los Angeles, CA 90095",
+            "latitude": 34.064479999999996,
+            "longitude": -118.44352699999999,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "phoneNumber": "(310) 825-9111",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EKIlQqHCEz4kxNGpwSb7-w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=4.297118&pitch=0&thumbfov=100",
+            "cid": "12548417739172717869",
+            "fid": "0x80c2bc86def88531:0xae24ef730c99a52d",
+            "placeId": "ChIJMYX43oa8woARLaWZDHPvJK4"
+        },
+        {
+            "position": 4,
+            "title": "Eckardt Jeffrey J MD",
+            "address": "1250 16th St #2100A, Santa Monica, CA 90404",
+            "latitude": 34.0271189,
+            "longitude": -118.4863432,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(310) 319-1234",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wTR16GCy5l--ef319L5arA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=48.77119&pitch=0&thumbfov=100",
+            "cid": "15793591958902241364",
+            "fid": "0x80c2a4cab2ef31fd:0xdb2e1c3565d57854",
+            "placeId": "ChIJ_THvssqkwoARVHjVZTUcLts"
+        }
+    ],
+    "credits": 3
+}

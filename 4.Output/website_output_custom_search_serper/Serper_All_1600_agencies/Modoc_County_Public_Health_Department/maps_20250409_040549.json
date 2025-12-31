@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Modoc County Public Health Department",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.488061,-120.543037,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Modoc County Health Department",
+            "address": "441 N Main St, Alturas, CA 96101",
+            "latitude": 41.488060999999995,
+            "longitude": -120.543037,
+            "rating": 3.3,
+            "ratingCount": 4,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://healthservices.co.modoc.ca.us/",
+            "phoneNumber": "(530) 233-6311",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20137\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN-CqfEAxvimfsaciE99Xp8qJLdn3LRI6R1Gbdt",
+            "cid": "1629364328683513436",
+            "fid": "0x54cb90aceebd9449:0x169caa3964dfa65c",
+            "placeId": "ChIJSZS97qyQy1QRXKbfZDmqnBY"
+        }
+    ],
+    "credits": 3
+}

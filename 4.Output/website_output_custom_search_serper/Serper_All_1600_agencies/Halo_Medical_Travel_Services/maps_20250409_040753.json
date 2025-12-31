@@ -1,0 +1,92 @@
+{
+    "searchParameters": {
+        "q": "Halo Medical Travel Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4935405,-97.3243083,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HALO HEALTH SERVICES",
+            "address": "1111 S Orchard St, Boise, ID 83705",
+            "latitude": 43.593928,
+            "longitude": -116.2448386,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Mental health service",
+            "types": [
+                "Mental health service"
+            ],
+            "phoneNumber": "(208) 918-4223",
+            "openingHours": {
+                "Tuesday": "8\u202fPM\u201312\u202fAM",
+                "Wednesday": "12\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://halohealthservices.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ryiEjlVN-qO5LZ4rdy_YEg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=257.9534&pitch=0&thumbfov=100",
+            "cid": "6421462865897149454",
+            "fid": "0x54ae579c9a50c01d:0x591d9e744429540e",
+            "placeId": "ChIJHcBQmpxXrlQRDlQpRHSeHVk"
+        },
+        {
+            "position": 2,
+            "title": "HaloHealthcare.com",
+            "address": "8086 130 St #4, Surrey, BC V3W 8J9, Canada",
+            "latitude": 49.149964399999995,
+            "longitude": -122.8613776,
+            "rating": 4.5,
+            "ratingCount": 77,
+            "type": "Medical supply store",
+            "types": [
+                "Medical supply store",
+                "Health and beauty shop",
+                "Medical equipment supplier"
+            ],
+            "website": "https://www.halohealthcare.com/",
+            "phoneNumber": "(833) 897-6905",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOcaElhjDH05aHSr0srvUoLag1QdGna7_75Dg7J",
+            "cid": "7597253018492757938",
+            "fid": "0x5485d994ad9c9a65:0x696edd5e4c0667b2",
+            "placeId": "ChIJZZqcrZTZhVQRsmcGTF7dbmk"
+        },
+        {
+            "position": 3,
+            "title": "HALO Medical Alarms",
+            "address": "6243 E 61st St, Tulsa, OK 74136",
+            "latitude": 36.0757008,
+            "longitude": -95.905317,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical equipment supplier",
+            "types": [
+                "Medical equipment supplier"
+            ],
+            "website": "http://www.halomedicalalarms.com/",
+            "phoneNumber": "(918) 392-0566",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOSJq3tXzy-6SjgeivpzG49kP1JynE2PFWuKYer",
+            "cid": "16301441168058495172",
+            "fid": "0x87b68e2465807da7:0xe23a5a5fa50e30c4",
+            "placeId": "ChIJp32AZSSOtocRxDAOpV9aOuI"
+        }
+    ],
+    "credits": 3
+}

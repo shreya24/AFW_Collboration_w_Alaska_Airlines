@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Ariba Akhavon, M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.3293456,-119.2954118,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fariba Akhavon",
+            "address": "316 W Acequia Ave #1, Visalia, CA 93291",
+            "latitude": 36.329345599999996,
+            "longitude": -119.2954118,
+            "rating": 3.8,
+            "ratingCount": 23,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Practitioner service location"
+            ],
+            "website": "https://www.visaliafamilyhealth.com/",
+            "phoneNumber": "(559) 688-8880",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wHjYQc2v91cIfNwhtsPxAg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=3.922903&pitch=0&thumbfov=100",
+            "cid": "13787627050024437695",
+            "fid": "0x80952f65ca612e6d:0xbf577dc0844607bf",
+            "placeId": "ChIJbS5hymUvlYARvwdGhMB9V78"
+        }
+    ],
+    "credits": 3
+}

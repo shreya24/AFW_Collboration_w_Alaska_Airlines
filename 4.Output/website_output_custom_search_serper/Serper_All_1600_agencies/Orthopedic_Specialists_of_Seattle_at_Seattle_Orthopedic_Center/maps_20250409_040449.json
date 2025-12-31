@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Orthopedic Specialists of Seattle at Seattle Orthopedic Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6611691,-122.3293452,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Proliance Orthopedic Specialists of Seattle at Seattle Orthopedic Center",
+            "address": "2409 N 45th St, Seattle, WA 98103",
+            "latitude": 47.661169099999995,
+            "longitude": -122.32934519999999,
+            "rating": 4.7,
+            "ratingCount": 494,
+            "type": "Orthopedic clinic",
+            "types": [
+                "Orthopedic clinic",
+                "Orthopedic surgeon"
+            ],
+            "website": "http://www.orthopedicspecialistsofseattle.com/",
+            "phoneNumber": "(206) 633-8100",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://orthopedicspecialistsofseattle.com/request-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP6ScHeXf2g_Mcl6d4ub_dR4VhBGvXC4UPAsAei",
+            "cid": "2186632549001858874",
+            "fid": "0x54901458fed879f3:0x1e587ab7d1900f3a",
+            "placeId": "ChIJ83nY_lgUkFQROg-Q0bd6WB4"
+        }
+    ],
+    "credits": 3
+}

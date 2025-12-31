@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Children's Cancer Fund of New Mexico",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.088136,-106.662646,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Cancer Fund of New Mexico",
+            "address": "112 14th St SW, Albuquerque, NM 87102",
+            "latitude": 35.088136,
+            "longitude": -106.662646,
+            "rating": 4.7,
+            "ratingCount": 14,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Social services organization"
+            ],
+            "website": "http://www.ccfnm.org/",
+            "phoneNumber": "(505) 243-3618",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20131:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDXcVDAK5_ZY8NKQYWnxqd20oIlSopgF9EHmbH",
+            "cid": "1408743945478646357",
+            "fid": "0x87220ccf8bd55ddf:0x138cdd2791bcaa55",
+            "placeId": "ChIJ313Vi88MIocRVaq8kSfdjBM"
+        }
+    ],
+    "credits": 3
+}

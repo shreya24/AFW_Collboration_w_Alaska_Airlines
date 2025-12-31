@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Sutter Santa Rosa Regional Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.4950471,-122.7520876,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sutter Santa Rosa Regional Hospital",
+            "address": "30 Mark West Springs Rd, Santa Rosa, CA 95403",
+            "latitude": 38.4950471,
+            "longitude": -122.7520876,
+            "rating": 3,
+            "ratingCount": 207,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.sutterhealth.org/find-location/facility/sutter-santa-rosa-regional-hospital",
+            "phoneNumber": "(707) 576-4000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPPP-wUXJUIOBq_i_lP7WX_-u4mRBZ6EweDZMzq",
+            "cid": "8308584088138507327",
+            "fid": "0x808438d1e883451d:0x734e053517f5643f",
+            "placeId": "ChIJHUWD6NE4hIARP2T1FzUFTnM"
+        }
+    ],
+    "credits": 3
+}

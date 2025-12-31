@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "First American Regional Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.3132312,-88.9667351,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UW Health | Carbone Cancer Center Rockford",
+            "address": "3535 N Bell School Rd, Rockford, IL 61114",
+            "latitude": 42.3132312,
+            "longitude": -88.9667351,
+            "rating": 4.7,
+            "ratingCount": 306,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.uwhealth.org/locations/uw-health-carbone-cancer-center-rockford",
+            "phoneNumber": "(779) 696-9400",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPfFq0x3jnnAXGxQXPVj5mZM9Ie-j2Wx8IeGlPo",
+            "cid": "8528658026699836962",
+            "fid": "0x8808b99c32ffb4e5:0x765be149dc3a4e22",
+            "placeId": "ChIJ5bT_Mpy5CIgRIk463EnhW3Y"
+        }
+    ],
+    "credits": 3
+}

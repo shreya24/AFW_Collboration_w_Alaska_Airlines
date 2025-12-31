@@ -1,0 +1,538 @@
+{
+    "searchParameters": {
+        "q": "Presbyterian Health Care Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.4843224,-112.5112867,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Presbyterian Medical Services",
+            "address": "1001 W Broadway, Farmington, NM 87401",
+            "latitude": 36.7256551,
+            "longitude": -108.22197249999999,
+            "rating": 2.6,
+            "ratingCount": 41,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Non-profit organization"
+            ],
+            "website": "https://www.pmsnm.org/locations/farmington-community-health-center/",
+            "phoneNumber": "(505) 327-4796",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP0MuD4Pr3Ksb_bbvE_50rO_cHGb3zbc4riIym4",
+            "cid": "9339296871685839009",
+            "fid": "0x873b8f8c707ba1f7:0x819bd905e8c058a1",
+            "placeId": "ChIJ96F7cIyPO4cRoVjA6AXZm4E"
+        },
+        {
+            "position": 2,
+            "title": "Valley Presbyterian Hospital",
+            "address": "15107 Vanowen St, Van Nuys, CA 91405",
+            "latitude": 34.1949645,
+            "longitude": -118.46412099999999,
+            "rating": 2.9,
+            "ratingCount": 627,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital",
+                "Hospital department",
+                "Medical Center"
+            ],
+            "website": "http://www.valleypres.org/",
+            "phoneNumber": "(818) 782-6600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN08EGHIywR6AqH4s21l8VtbQp9wXauNZD-9-yE",
+            "cid": "10290204313421372078",
+            "fid": "0x80c2976ad30cee9b:0x8ece264d9fac5aae",
+            "placeId": "ChIJm-4M02qXwoARrlqsn00mzo4"
+        },
+        {
+            "position": 3,
+            "title": "Hollywood Presbyterian Medical Center Emergency Room",
+            "address": "1300 N Vermont Ave, Los Angeles, CA 90027",
+            "latitude": 34.0962254,
+            "longitude": -118.2911896,
+            "rating": 3.4,
+            "ratingCount": 1728,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Medical Center"
+            ],
+            "website": "http://hollywoodpresbyterian.com/",
+            "phoneNumber": "(213) 413-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPlaSx0iQx_YyuDXBNqJ77ATjKYYgPaGy4cKrSx",
+            "cid": "16990517942724030646",
+            "fid": "0x80c2c7532790e3e3:0xebca720c9df770b6",
+            "placeId": "ChIJ4-OQJ1PHwoARtnD3nQxyyus"
+        },
+        {
+            "position": 4,
+            "title": "Presbyterian Health",
+            "address": "6851 Sepulveda Blvd, Van Nuys, CA 91405",
+            "latitude": 34.1952935,
+            "longitude": -118.467007,
+            "rating": 3,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "http://www.phs.org/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WQvIZC17HTc2BVLlNulZsA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=255.99791&pitch=0&thumbfov=100",
+            "cid": "2517868764374482304",
+            "fid": "0x80c2976a6e855555:0x22f1444d0b97bd80",
+            "placeId": "ChIJVVWFbmqXwoARgL2XC01E8SI"
+        },
+        {
+            "position": 5,
+            "title": "Farmington Community Health Center",
+            "address": "1001 W Broadway Suite E & D, Farmington, NM 87401",
+            "latitude": 36.7270618,
+            "longitude": -108.2227389,
+            "rating": 3.5,
+            "ratingCount": 117,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Dentist",
+                "Family practice physician",
+                "Mental health clinic"
+            ],
+            "website": "https://www.pmsnm.org/locations/farmington-community-health-center/",
+            "phoneNumber": "(505) 327-4796",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPIioZwQA8RKWKMCHnaFkLsrbCnYwSw0WGBgDji",
+            "cid": "7657835045102125774",
+            "fid": "0x873b8ff62566fed3:0x6a4618668bd982ce",
+            "placeId": "ChIJ0_5mJfaPO4cRzoLZi2YYRmo"
+        },
+        {
+            "position": 6,
+            "title": "Hollywood Presbyterian Medical Center",
+            "address": "1300 N Vermont Ave, Los Angeles, CA 90027",
+            "latitude": 34.096344699999996,
+            "longitude": -118.29045869999999,
+            "rating": 2.8,
+            "ratingCount": 582,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital"
+            ],
+            "website": "http://hollywoodpresbyterian.com/",
+            "phoneNumber": "(213) 413-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPGJG4GrKHjcLb04q4TZYUdmNos1dHDa8gCYATf",
+            "cid": "7999170806159857818",
+            "fid": "0x80c2c752dc8b98cf:0x6f02c3777ed5589a",
+            "placeId": "ChIJz5iL3FLHwoARmljVfnfDAm8"
+        },
+        {
+            "position": 7,
+            "title": "Valley Presbyterian Hospital",
+            "address": "6850 Sepulveda Blvd UNIT 200, Van Nuys, CA 91405",
+            "latitude": 34.1952126,
+            "longitude": -118.46547559999999,
+            "rating": 3.2,
+            "ratingCount": 15,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "http://www.valleypres.org/",
+            "phoneNumber": "(818) 902-3908",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "8\u202fAM\u20134:30\u202fPM",
+                "Sunday": "8\u202fAM\u20134:30\u202fPM",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YHg-isSm1IDxiYYw0mXknw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=87.54856&pitch=0&thumbfov=100",
+            "cid": "14998539774088096378",
+            "fid": "0x80c2976af333e555:0xd02584757816aa7a",
+            "placeId": "ChIJVeUz82qXwoAReqoWeHWEJdA"
+        },
+        {
+            "position": 8,
+            "title": "Valley Presbyterian Professional Center",
+            "address": "15211 Vanowen St, Van Nuys, CA 91405",
+            "latitude": 34.194543599999996,
+            "longitude": -118.4643947,
+            "rating": 2,
+            "ratingCount": 5,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(714) 432-7770",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMi9Zgu03DyOLDklvAKTwyqI1Cpez4S23HYdpoj",
+            "cid": "17943242099595739197",
+            "fid": "0x80c2976ade245967:0xf903339f493d003d",
+            "placeId": "ChIJZ1kk3mqXwoARPQA9SZ8zA_k"
+        },
+        {
+            "position": 9,
+            "title": "Valley Presbyterian Hospital Emergency Room",
+            "address": "15107 Vanowen St, Van Nuys, CA 91405",
+            "latitude": 34.1949559,
+            "longitude": -118.46246359999999,
+            "rating": 2,
+            "ratingCount": 105,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "http://www.valleypres.org/",
+            "phoneNumber": "(818) 782-6600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM93HyLj_jrmeN83-WUda3L3F5Pfw29UbxTf4uw",
+            "cid": "963902667144430311",
+            "fid": "0x80c2976ad2555555:0xd60785e693202e7",
+            "placeId": "ChIJVVVV0mqXwoAR5wIyaV54YA0"
+        },
+        {
+            "position": 10,
+            "title": "Emanate Health Foothill Presbyterian Hospital",
+            "address": "250 S Grand Ave, Glendora, CA 91741",
+            "latitude": 34.1328165,
+            "longitude": -117.8712996,
+            "rating": 2.9,
+            "ratingCount": 228,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center",
+                "Medical group",
+                "Medical office"
+            ],
+            "website": "http://www.emanatehealth.org/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(626) 963-8411",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbFUBOPdfZ15YJiAZti2Pv6uFHwYwn5AgHEVDx",
+            "cid": "2822006421503647954",
+            "fid": "0x80c3263168760169:0x2729c7e38398a0d2",
+            "placeId": "ChIJaQF2aDEmw4AR0qCYg-PHKSc"
+        },
+        {
+            "position": 11,
+            "title": "PIH Health Whittier Hospital",
+            "address": "12401 Washington Blvd, Whittier, CA 90602",
+            "latitude": 33.9690687,
+            "longitude": -118.0483086,
+            "rating": 3.3,
+            "ratingCount": 569,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family practice physician",
+                "Hospital department",
+                "MRI center",
+                "Nursing home",
+                "Ophthalmologist",
+                "Optometrist",
+                "Orthotics & prosthetics service",
+                "Pharmacy"
+            ],
+            "website": "https://www.pihhealth.org/locations/locations-profile/?id=3&utm_source=PIH-H-WHITTIER&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+            "phoneNumber": "(562) 698-0811",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNPvvx0-bHIdV66jKs4Mlbj7UyrWBl2QoDZ8Bhf",
+            "cid": "9527592366491681401",
+            "fid": "0x80c2d3bbff2d0ce5:0x8438cec72975c279",
+            "placeId": "ChIJ5Qwt_7vTwoARecJ1KcfOOIQ"
+        },
+        {
+            "position": 12,
+            "title": "Hollywood Presbyterian Doctors Tower",
+            "address": "1300 N Vermont Ave, Los Angeles, CA 90027",
+            "latitude": 34.0959356,
+            "longitude": -118.2901741,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Emergency care physician"
+            ],
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPdzVAC-4bBMWLpTluNwArv4MnqkuGhTrBWmuar",
+            "cid": "7547394062236399946",
+            "fid": "0x80c2c7cca0316cfd:0x68bdbae96b7e394a",
+            "placeId": "ChIJ_WwxoMzHwoARSjl-a-m6vWg"
+        },
+        {
+            "position": 13,
+            "title": "Presbyterian Medical Services",
+            "address": "Farmington, NM 87401",
+            "latitude": 36.7263957,
+            "longitude": -108.2223755,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMAi88NJoe8WFfeRtP7AALvsVAz6ni7YgT4655G",
+            "cid": "6261614301796296431",
+            "fid": "0x873b8ff649b51c2b:0x56e5b9083312e6ef",
+            "placeId": "ChIJKxy1SfaPO4cR7-YSMwi55VY"
+        },
+        {
+            "position": 14,
+            "title": "Presbyterian Home Healthcare in Albuquerque",
+            "address": "8100 Constitution Pl NE, Albuquerque, NM 87110",
+            "latitude": 35.092785299999996,
+            "longitude": -106.5555665,
+            "rating": 2.6,
+            "ratingCount": 14,
+            "type": "Home health care service",
+            "types": [
+                "Home health care service",
+                "Aged care"
+            ],
+            "website": "https://www.phs.org/doctors-services/healthcare-at-home/home-healthcare/constitution?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_constitution_home__208",
+            "phoneNumber": "(505) 588-5708",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPcI-yRijpw-Eus6G3799HOuX5kwCtyzmbmN9xl",
+            "cid": "16450901527009646124",
+            "fid": "0x87220abfd34bfef1:0xe44d57c73857562c",
+            "placeId": "ChIJ8f5L078KIocRLFZXOMdXTeQ"
+        },
+        {
+            "position": 15,
+            "title": "Valley Presbyterian Hospital: Lee Faye M MD",
+            "address": "15107 Vanowen St, Van Nuys, CA 91405",
+            "latitude": 34.194945,
+            "longitude": -118.46319,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://www.valleypres.org/",
+            "phoneNumber": "(818) 782-6600",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g_5e-HyjQR3p-xfqzBMWEg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.79904&pitch=0&thumbfov=100",
+            "cid": "930542249302129035",
+            "fid": "0x80c2976ad30cee9b:0xce9f33eda25798b",
+            "placeId": "ChIJm-4M02qXwoARi3kl2j7z6Qw"
+        },
+        {
+            "position": 16,
+            "title": "Foothill Presbyterian Hospital Emergency Room",
+            "address": "250 S Grand Ave, Glendora, CA 91741",
+            "latitude": 34.1326447,
+            "longitude": -117.87179929999999,
+            "rating": 3,
+            "ratingCount": 34,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.emanatehealth.org/services/emergency-room-services/?utm_source=GMBlisting&utm_medium=organic",
+            "phoneNumber": "(626) 963-8411",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHuVCS_qFMXwOSsRs1jVNgpmMgabdLUEQVd9jD",
+            "cid": "14796024112865741120",
+            "fid": "0x80c32631692d610b:0xcd560989b77a0940",
+            "placeId": "ChIJC2EtaTEmw4ARQAl6t4kJVs0"
+        },
+        {
+            "position": 17,
+            "title": "Western New Mexico Medical Group Behavioral Health - Gallup",
+            "address": "2025 E Aztec, Gallup, NM 87301",
+            "latitude": 35.5287556,
+            "longitude": -108.7126052,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Community health centre",
+                "Homeless shelter"
+            ],
+            "website": "http://www.pmsnm.org/locations/western-new-mexico-medical-group-behavioral-health---gallup",
+            "phoneNumber": "(505) 863-3120",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMYtq2bQp_zGqldL8ZPVnNrMu3myEUvI08X8OPQ",
+            "cid": "11052222817488860045",
+            "fid": "0x8724de99bde3a437:0x9961621866e3f38d",
+            "placeId": "ChIJN6TjvZneJIcRjfPjZhhiYZk"
+        },
+        {
+            "position": 18,
+            "title": "Presbyterian Medical Services",
+            "address": "1217 Bonita Ave, Grants, NM 87020",
+            "latitude": 35.162756099999996,
+            "longitude": -107.8286969,
+            "rating": 3.2,
+            "ratingCount": 14,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.pmsnm.org/",
+            "phoneNumber": "(505) 287-2958",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMW-aW0TpDhSggFmiih7e8enwOw7iC2OhMmkOFa",
+            "cid": "5170209667363992348",
+            "fid": "0x87239b135614181d:0x47c0464cad85731c",
+            "placeId": "ChIJHRgUVhObI4cRHHOFrUxGwEc"
+        },
+        {
+            "position": 19,
+            "title": "Presbyterian Hospital",
+            "address": "1100 Central Ave SE, Albuquerque, NM 87106",
+            "latitude": 35.081573,
+            "longitude": -106.63538199999999,
+            "rating": 2.7,
+            "ratingCount": 756,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Emergency room",
+                "Hospital",
+                "Urgent care center"
+            ],
+            "website": "https://www.phs.org/presbyterian-hospital?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=_loc_abq_ph_hospital__l002",
+            "phoneNumber": "(505) 841-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaSOxsVmFhe4ByRpKcREUVTInpiPM3gCqig25f",
+            "cid": "16566892336290259227",
+            "fid": "0x87220ca2038afe03:0xe5e96cce00b8e11b",
+            "placeId": "ChIJA_6KA6IMIocRG-G4AM5s6eU"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Kar House (Akeela)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1948466,-149.8963704,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Akeela House Recovery Center",
+            "address": "2804 Bering St, Anchorage, AK 99503",
+            "latitude": 61.1948466,
+            "longitude": -149.8963704,
+            "rating": 1.4,
+            "ratingCount": 5,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Halfway house"
+            ],
+            "website": "http://www.akeela.us/",
+            "phoneNumber": "(907) 565-1200",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZQ6AV4tUqdWDLwNepiYHwA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=269.48123&pitch=0&thumbfov=100",
+            "cid": "1655357320051143293",
+            "fid": "0x56c897c52a99ed6d:0x16f902b64dfdb27d",
+            "placeId": "ChIJbe2ZKsWXyFYRfbL9TbYC-RY"
+        }
+    ],
+    "credits": 3
+}

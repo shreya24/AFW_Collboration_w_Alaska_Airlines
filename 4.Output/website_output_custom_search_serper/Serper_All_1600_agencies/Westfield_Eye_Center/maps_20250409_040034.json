@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Westfield Eye Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1563274,-72.7253016,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Westfield Eye Center",
+            "address": "501 Southampton Rd Ste. D, Westfield, MA 01085",
+            "latitude": 42.156327399999995,
+            "longitude": -72.7253016,
+            "rating": 3.5,
+            "ratingCount": 4,
+            "type": "Ophthalmologist",
+            "types": [
+                "Ophthalmologist"
+            ],
+            "website": "https://westfieldeye.com/",
+            "phoneNumber": "(413) 572-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPP60_soHhVqYol2sJuG8bEds6hjPoXlC3EJuVo",
+            "cid": "3725068445096038221",
+            "fid": "0x89e71fb2921733cb:0x33b21a03b9f74f4d",
+            "placeId": "ChIJyzMXkrIf54kRTU_3uQMasjM"
+        }
+    ],
+    "credits": 3
+}

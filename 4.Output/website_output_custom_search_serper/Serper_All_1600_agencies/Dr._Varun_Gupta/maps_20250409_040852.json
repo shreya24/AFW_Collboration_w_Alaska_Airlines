@@ -1,0 +1,57 @@
+{
+    "searchParameters": {
+        "q": "Dr. Varun Gupta",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.9446754,-116.4019369,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Varun Gupta, MD",
+            "address": "39000 Bob Hope Dr, Rancho Mirage, CA 92270",
+            "latitude": 33.7640283,
+            "longitude": -116.4005306,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://eisenhowerhealth.org/find-a-doctor/?action=detail&drNo=779",
+            "phoneNumber": "(760) 346-7655",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "cid": "1696226640873612831",
+            "fid": "0x80dafde3d2e4ce9b:0x178a352493d3661f",
+            "placeId": "ChIJm87k0uP92oARH2bTkyQ1ihc"
+        },
+        {
+            "position": 2,
+            "title": "Gupta Varun MD",
+            "address": "57725 29 Palms Hwy #201, Yucca Valley, CA 92284",
+            "latitude": 34.1253224,
+            "longitude": -116.40334329999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Hematologist",
+            "types": [
+                "Hematologist"
+            ],
+            "website": "https://eisenhowerhealth.org/find-a-doctor/?action=detail&drNo=779",
+            "phoneNumber": "(760) 228-9900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6diMnSrTDVrP5PNX8JXf4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.27615&pitch=0&thumbfov=100",
+            "cid": "14778291782724409066",
+            "fid": "0x80dad80e53dbede9:0xcd170a13e05cd6ea",
+            "placeId": "ChIJ6e3bUw7Y2oAR6tZc4BMKF80"
+        }
+    ],
+    "credits": 3
+}

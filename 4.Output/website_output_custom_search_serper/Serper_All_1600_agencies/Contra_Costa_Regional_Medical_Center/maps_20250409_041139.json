@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Contra Costa Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.0066858,-122.1328513,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Contra Costa Regional Medical Center",
+            "address": "2500 Alhambra Ave, Martinez, CA 94553",
+            "latitude": 38.0066858,
+            "longitude": -122.1328513,
+            "rating": 3.2,
+            "ratingCount": 96,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Family planning center",
+                "General hospital",
+                "Medical laboratory"
+            ],
+            "website": "https://cchealth.org/medicalcenter/",
+            "phoneNumber": "(925) 370-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-n54EdZwzjpD4xGYopxChOfPGuWEiFGzpyx6_SsPQ0niuAbRAk7MwlUL2BvZOoPvRAzRgp2M1Ro7DL39z9j6XpE3kZZXqjQb7-PIEb4fV12df_0Mbi1_DO3y3rvfXml8Xsi03y",
+            "cid": "8681304644358606986",
+            "fid": "0x80856f8370837f25:0x787a309419f1908a",
+            "placeId": "ChIJJX-DcINvhYARipDxGZQweng"
+        }
+    ],
+    "credits": 3
+}

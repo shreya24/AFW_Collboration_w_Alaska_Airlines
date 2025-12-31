@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Gresham Post Acute Care and Rehab",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5017209,-122.4268955,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Gresham Post Acute Care and Rehab",
+            "address": "405 NE 5th St, Gresham, OR 97030",
+            "latitude": 45.501720899999995,
+            "longitude": -122.4268955,
+            "rating": 2.5,
+            "ratingCount": 44,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Laundry",
+                "Rehabilitation center",
+                "Weight loss service"
+            ],
+            "website": "https://www.greshamcareandrehab.com/",
+            "phoneNumber": "(503) 666-5600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.greshamcareandrehab.com/contact-us/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMOA9zFcgP0U_yrLYyzLhhUaMn8E2Rc0QpB8GmX",
+            "cid": "10031878396630998456",
+            "fid": "0x549598f54f4cc7f1:0x8b386440251b1db8",
+            "placeId": "ChIJ8cdMT_WYlVQRuB0bJUBkOIs"
+        }
+    ],
+    "credits": 3
+}

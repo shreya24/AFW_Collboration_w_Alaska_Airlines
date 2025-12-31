@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Lisa Callahan CPNP",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.4564803,-123.3222183,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lisa Callahan, CPNP",
+            "address": "1601 NE 6th St, Grants Pass, OR 97526",
+            "latitude": 42.456480299999996,
+            "longitude": -123.32221829999999,
+            "rating": 4.6,
+            "ratingCount": 21,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "website": "http://www.grantspasspediatrics.com/",
+            "phoneNumber": "(541) 472-0021",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mf1hBAxV_GS7N3702j9y6g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=93.676&pitch=0&thumbfov=100",
+            "cid": "1268673751021375826",
+            "fid": "0x54c579f6cb16a45d:0x119b3c0e097dd152",
+            "placeId": "ChIJXaQWy_Z5xVQRUtF9CQ48mxE"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "Grossman Burn Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.6056622,-106.7828054,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Grossman Burn Center",
+            "address": "7325 Medical Center Dr #200, West Hills, CA 91307",
+            "latitude": 34.202521,
+            "longitude": -118.6290818,
+            "rating": 2.8,
+            "ratingCount": 56,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.grossmanburncenter.com/",
+            "phoneNumber": "(877) 711-2876",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4gKCfX4_jUAUkOgqPfSyJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=65.59171&pitch=0&thumbfov=100",
+            "cid": "4196595439203095836",
+            "fid": "0x80c29db24e95978b:0x3a3d4d5143b9951c",
+            "placeId": "ChIJi5eVTrKdwoARHJW5Q1FNPTo"
+        },
+        {
+            "position": 2,
+            "title": "Grossman Burn Center",
+            "address": "2316 E Meyer Blvd, Kansas City, MO 64132",
+            "latitude": 39.0088034,
+            "longitude": -94.5580906,
+            "rating": 3.8,
+            "ratingCount": 13,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.grossmanburncenter.com/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(816) 276-4325",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.grossmanburncenter.com/contact"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNTzyn-8mgaCuHuM9sKMW6VYr413uKSuQhfMGzQ",
+            "cid": "16779683341837671581",
+            "fid": "0x87c0e589584d311b:0xe8dd6918c9c61c9d",
+            "placeId": "ChIJGzFNWInlwIcRnRzGyRhp3eg"
+        },
+        {
+            "position": 3,
+            "title": "Grossman Burn Center at Memorial Hospital",
+            "address": "420 34th St, Bakersfield, CA 93301",
+            "latitude": 35.3912218,
+            "longitude": -119.00752019999999,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Emergency care physician"
+            ],
+            "website": "https://www.dignityhealth.org/bakersfield/services/grossman-burn-center",
+            "phoneNumber": "(661) 323-2876",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMV2jzzQZnfZP6hlnByWCzOanvbqJi4cUyxPFBH",
+            "cid": "16733068292602800641",
+            "fid": "0x80ea69995a1a5653:0xe837ccf4def12a01",
+            "placeId": "ChIJU1YaWplp6oARASrx3vTMN-g"
+        }
+    ],
+    "credits": 3
+}

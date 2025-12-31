@@ -1,0 +1,67 @@
+{
+    "searchParameters": {
+        "q": "CCMG Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.2889663,-105.5105881,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Campbell County Medical Group Pediatrics Clinic",
+            "address": "501 South Burma Avenue, Gillette, WY 82716",
+            "latitude": 44.289894499999996,
+            "longitude": -105.51829719999999,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.cchwyo.org/services/pediatrics/pediatrics-clinic/",
+            "phoneNumber": "(307) 688-3636",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsv8nd6BJpP3-OuqXhUU7CXGsFYTTGoWkC4ZAu",
+            "cid": "13710880398593890333",
+            "fid": "0x5334958354697409:0xbe46d514440e181d",
+            "placeId": "ChIJCXRpVIOVNFMRHRgORBTVRr4"
+        },
+        {
+            "position": 2,
+            "title": "Campbell County Medical Group Kid Clinic",
+            "address": "702 S Kendrick Ave, Gillette, WY 82716",
+            "latitude": 44.288038,
+            "longitude": -105.5028791,
+            "rating": 4.3,
+            "ratingCount": 7,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.cchwyo.org/kidclinic",
+            "phoneNumber": "(307) 688-8700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNCkY5Qny9VuWCwjOIFlO4pZ8O2NrpKAtHu96k7",
+            "cid": "11898597343599016635",
+            "fid": "0x53349685454c6973:0xa5204f3e16a03abb",
+            "placeId": "ChIJc2lMRYWWNFMRuzqgFj5PIKU"
+        }
+    ],
+    "credits": 3
+}

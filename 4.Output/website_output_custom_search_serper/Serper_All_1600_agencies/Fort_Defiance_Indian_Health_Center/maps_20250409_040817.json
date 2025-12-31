@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Fort Defiance Indian Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.759317,-109.0483992,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fort Defiance Indian Hospital Board, Inc.",
+            "address": "N7, Corner of Routes N12 &, Fort Defiance, AZ 86504",
+            "latitude": 35.759316999999996,
+            "longitude": -109.04839919999999,
+            "rating": 3.9,
+            "ratingCount": 66,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.fdihb.org/",
+            "phoneNumber": "(928) 729-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO62oWuPz6ygSNU4nmclK5tk1OI1GcrmoiCSi8-",
+            "cid": "9414099615253164540",
+            "fid": "0x873accad54d0f253:0x82a599b8d74e71fc",
+            "placeId": "ChIJU_LQVK3MOocR_HFO17iZpYI"
+        }
+    ],
+    "credits": 3
+}

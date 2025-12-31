@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "VA Montana Healthcare System",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.6183555,-112.1019514,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fort Harrison VA Medical Center",
+            "address": "3687 Veterans Dr, FORT HARRISON, MT 59636",
+            "latitude": 46.618715699999996,
+            "longitude": -112.101956,
+            "rating": 3.5,
+            "ratingCount": 87,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.va.gov/montana-health-care/locations/fort-harrison-va-medical-center/",
+            "phoneNumber": "(406) 442-6410",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8gcobxVbuNBd_T-oRbATfLlBKlVqO-I9yFLC05nDyk6aeWsISgoa_UyWHab9LR09hRusmgyfpIl7bzLhjcYOVyeDR2Ebnn5bGCt9DMW0JBFrhbX9K2TegAvJnjVY8aIDJP3_wQ",
+            "cid": "16552791018202615670",
+            "fid": "0x535cab4d5a4dd34b:0xe5b753bb093e4f76",
+            "placeId": "ChIJS9NNWk2rXFMRdk8-CbtTt-U"
+        },
+        {
+            "position": 2,
+            "title": "VA Montana Health Care System: Michael Evans, M.D.",
+            "address": "3687 Veterans Dr, FORT HARRISON, MT 59636",
+            "latitude": 46.6179954,
+            "longitude": -112.1019468,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician"
+            ],
+            "phoneNumber": "(406) 442-6410",
+            "cid": "6864327096313462639",
+            "fid": "0x535cab4d5a4dd34b:0x5f42fd2015da3f6f",
+            "placeId": "ChIJS9NNWk2rXFMRbz_aFSD9Ql8"
+        }
+    ],
+    "credits": 3
+}

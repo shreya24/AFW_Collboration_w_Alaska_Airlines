@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "Anesia Kudrin Memorial Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@54.1342825,-165.7735906,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anesia Kudrin Memorial Clinic",
+            "address": "113 Boardwalk, Akutan, AK 99553",
+            "latitude": 54.1342825,
+            "longitude": -165.7735906,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.eatribes.org/communities/akutan/",
+            "phoneNumber": "(907) 698-2208",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "cid": "2157556909632423486",
+            "fid": "0x57aaf019556ff2d9:0x1df12e93fd54863e",
+            "placeId": "ChIJ2fJvVRnwqlcRPoZU_ZMu8R0"
+        }
+    ],
+    "credits": 3
+}

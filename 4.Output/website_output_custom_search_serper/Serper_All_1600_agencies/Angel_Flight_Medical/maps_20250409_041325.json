@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Angel Flight Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6312743,-111.9118473,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angel MedFlight Worldwide Air Ambulance Services",
+            "address": "15990 N Greenway Hayden Loop STE C120, Scottsdale, AZ 85260",
+            "latitude": 33.6312743,
+            "longitude": -111.91184729999999,
+            "rating": 4.9,
+            "ratingCount": 247,
+            "type": "Ambulance service",
+            "types": [
+                "Ambulance service"
+            ],
+            "website": "https://angelmedflight.com/",
+            "phoneNumber": "(877) 264-3570",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipODEfvw6PXttIAEeJvkdq92uPDgtGKlTBFHmeAe",
+            "cid": "15524945356555655295",
+            "fid": "0x872b7434e835782d:0xd773af8c0ed9987f",
+            "placeId": "ChIJLXg16DR0K4cRf5jZDoyvc9c"
+        }
+    ],
+    "credits": 3
+}

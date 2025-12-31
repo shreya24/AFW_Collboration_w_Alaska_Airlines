@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "A Well for Health, Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.7583759,-105.9283769,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "A Well For Health Inc",
+            "address": "1530 Bishops Lodge Rd, Santa Fe, NM 87506",
+            "latitude": 35.7583759,
+            "longitude": -105.92837689999999,
+            "type": "Holistic medicine practitioner",
+            "types": [
+                "Holistic medicine practitioner"
+            ],
+            "phoneNumber": "(505) 983-1293",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=temARdTPGoB_-5K2To2FMg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=239.53484&pitch=0&thumbfov=100",
+            "cid": "17665828734993925911",
+            "fid": "0x87184f013132e51d:0xf529a1a30c338717",
+            "placeId": "ChIJHeUyMQFPGIcRF4czDKOhKfU"
+        }
+    ],
+    "credits": 3
+}

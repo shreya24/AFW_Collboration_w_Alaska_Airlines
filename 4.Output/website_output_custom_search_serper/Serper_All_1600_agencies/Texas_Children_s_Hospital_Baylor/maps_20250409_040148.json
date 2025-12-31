@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "Texas Children's Hospital/ Baylor",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.3902449,-96.3883734,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Texas Children's Hospital - West Tower",
+            "address": "6621 Fannin St, Houston, TX 77030",
+            "latitude": 29.7078599,
+            "longitude": -95.4016281,
+            "rating": 3.5,
+            "ratingCount": 1300,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.texaschildrens.org/locations/texas-childrens-hospital/west-tower",
+            "phoneNumber": "(832) 824-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPZ0dD1RKq7rQ4VG7PoHGOSH0SyCh-0LXkQ6gd7",
+            "cid": "7063316808260179092",
+            "fid": "0x8640c0722a0df095:0x6205f136cc64d494",
+            "placeId": "ChIJlfANKnLAQIYRlNRkzDbxBWI"
+        },
+        {
+            "position": 2,
+            "title": "Texas Children's Hospital Clinical Care Center",
+            "address": "6621 Fannin St, Houston, TX 77030",
+            "latitude": 29.707863699999997,
+            "longitude": -95.4015766,
+            "rating": 1.7,
+            "ratingCount": 10,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "http://www.texaschildrens.org/",
+            "phoneNumber": "(832) 824-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Closed",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMl7nzxXbpD7gnhDOb8XeBRNlyL2x-ZfuVNTKHV",
+            "cid": "9329398267661370309",
+            "fid": "0x8640c0722a0df095:0x8178ae4b9019c3c5",
+            "placeId": "ChIJlfANKnLAQIYRxcMZkEuueIE"
+        },
+        {
+            "position": 3,
+            "title": "Baylor Scott & White McLane Children's Medical Center - Temple",
+            "address": "1901 SW H K Dodgen Loop, Temple, TX 76502",
+            "latitude": 31.07263,
+            "longitude": -97.3751702,
+            "rating": 3,
+            "ratingCount": 72,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.bswhealth.com/mclane-childrens/locations/temple-hospital?utm_source=pg-google&utm_medium=organic&utm_campaign=pg-listings",
+            "phoneNumber": "(254) 724-5437",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.bswhealth.com/mclane-childrens/locations/temple-hospital?utm_source=google-mybusiness&utm_medium=organic&utm_campaign=29985-9717578&utm_content=-make-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD0vCwltUDa4QMPkgkPDQyhz43doHY0x89wtlX",
+            "cid": "1479942920846909381",
+            "fid": "0x86456a4a0e868f3f:0x1489d03ed4ef1fc5",
+            "placeId": "ChIJP4-GDkpqRYYRxR_v1D7QiRQ"
+        }
+    ],
+    "credits": 3
+}

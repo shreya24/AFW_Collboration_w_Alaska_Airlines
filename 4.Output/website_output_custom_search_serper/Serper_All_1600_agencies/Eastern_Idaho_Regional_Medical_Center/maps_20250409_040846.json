@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Eastern Idaho Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.4701433,-111.9915599,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Eastern Idaho Regional Medical Center (EIRMC)",
+            "address": "3100 Channing Way, Idaho Falls, ID 83404",
+            "latitude": 43.4701433,
+            "longitude": -111.9915599,
+            "rating": 4.3,
+            "ratingCount": 2209,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://eirmc.com/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(208) 529-6111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Uq0d72WzgpNZmhIgNcLRwhRnZTp6l1-KdSgghN7-2RMsUy3U0Zq4FRbFpGFUae1qztRRTru_ju-7JfKg8dP2d-XPbF0wFB5PHykarMimPvlX_K0vR8C23UnxLKB0z-nzij5atbA",
+            "cid": "7712832978266156333",
+            "fid": "0x53545f242f77b20d:0x6b097cbab978ed2d",
+            "placeId": "ChIJDbJ3LyRfVFMRLe14ubp8CWs"
+        }
+    ],
+    "credits": 3
+}

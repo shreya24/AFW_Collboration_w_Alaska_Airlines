@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Shriner's Hospital Sacramento",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5529315,-121.4551336,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Northern California",
+            "address": "2425 Stockton Blvd, Sacramento, CA 95817",
+            "latitude": 38.5529315,
+            "longitude": -121.4551336,
+            "rating": 4.3,
+            "ratingCount": 213,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/northern-california",
+            "phoneNumber": "(916) 453-2191",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9T6MkEJD0duJFLYxeE-15TtjzDEsQOOrJ0Jhr6o_wy6SJTlRjZ_WmFgGArBVD6iORJ-5iiPDJzl55hwkKzE2hxoWLMNqg3q8mum2arLqWGrTVMJR63ju5I3b6qbR23OUSdTWiQ",
+            "cid": "10048598255198291512",
+            "fid": "0x809ad07b693bf029:0x8b73cadf93b44638",
+            "placeId": "ChIJKfA7aXvQmoAROEa0k9_Kc4s"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cheyenne Laramie County Health Dept.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.1198563,-104.8079214,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cheyenne Laramie County Public Health",
+            "address": "100 Central Ave, Cheyenne, WY 82007",
+            "latitude": 41.119856299999995,
+            "longitude": -104.8079214,
+            "rating": 3.4,
+            "ratingCount": 19,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "https://clcpublichealth.org/",
+            "phoneNumber": "(307) 633-4000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPVWvUl8r3OUMMbWjX43LMKDf5lymvwWVaX3EvF",
+            "cid": "7876774687193047397",
+            "fid": "0x876f3ad2f8ae29b1:0x6d4fecd855ee2165",
+            "placeId": "ChIJsSmu-NI6b4cRZSHuVdjsT20"
+        }
+    ],
+    "credits": 3
+}

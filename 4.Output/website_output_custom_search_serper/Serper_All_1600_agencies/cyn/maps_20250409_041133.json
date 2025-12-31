@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "cyn",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.2208614,-120.1385919,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brookswood @ Copper Canyon",
+            "address": "Bend, OR 97702",
+            "latitude": 44.0249465,
+            "longitude": -121.32434099999999,
+            "type": "Transport hub",
+            "types": [
+                "Transport hub"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PTYTTxmZj4JB7GfXedeM_Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=87.12892&pitch=0&thumbfov=100",
+            "cid": "2342772246964380653",
+            "fid": "0x54b8c7bd4ef66cad:0x208332f231f4a3ed",
+            "placeId": "ChIJrWz2Tr3HuFQR7aP0MfIygyA"
+        },
+        {
+            "position": 2,
+            "title": "Canyon Blvd at US Bank",
+            "address": "John Day, OR 97845",
+            "latitude": 44.4168697,
+            "longitude": -118.95259089999999,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DGtIRhPvxACwtvnVv6NlcQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=118.36947&pitch=0&thumbfov=100",
+            "cid": "14856781542801719642",
+            "fid": "0x54bb0588cbdd22a5:0xce2de4193c46c15a",
+            "placeId": "ChIJpSLdy4gFu1QRWsFGPBnkLc4"
+        },
+        {
+            "position": 3,
+            "title": "Brookswood Boulevard @ Copper Canyon Way (W)",
+            "address": "Bend, OR 97702",
+            "latitude": 44.024853,
+            "longitude": -121.324593,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CezeDTqP41ARYm_jL-MGeQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=319.74704&pitch=0&thumbfov=100",
+            "cid": "2543676187569136902",
+            "fid": "0x54b8c7bd51c2473d:0x234cf403ffada506",
+            "placeId": "ChIJPUfCUb3HuFQRBqWt_wP0TCM"
+        },
+        {
+            "position": 4,
+            "title": "Brookswood Boulevard @ Copper Canyon Way (E)",
+            "address": "Bend, OR 97702",
+            "latitude": 44.02504,
+            "longitude": -121.324089,
+            "type": "Bus stop",
+            "types": [
+                "Bus stop"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9T1YMZAACEq6GITSrpxlsw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=149.3581&pitch=0&thumbfov=100",
+            "cid": "17928065219632711715",
+            "fid": "0x54b8c7bd49234a69:0xf8cd48548e3e4823",
+            "placeId": "ChIJaUojSb3HuFQRI0g-jlRIzfg"
+        },
+        {
+            "position": 5,
+            "title": "Avon Ambassador CynRan",
+            "address": "2008 NW Nickernut Ave, Redmond, OR 97756",
+            "latitude": 44.292718,
+            "longitude": -121.1904041,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Beauty product supplier",
+            "types": [
+                "Beauty product supplier"
+            ],
+            "website": "https://www.avon.com/repstore/cynran?rep=cynran",
+            "phoneNumber": "(541) 610-9219",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMXiczYEMBW88__WJh-LnSd83w_KIeE1rGcJRoA",
+            "cid": "8269241956673019956",
+            "fid": "0x54bf2b5caceb4e2f:0x72c23fbf4d406034",
+            "placeId": "ChIJL07rrFwrv1QRNGBATb8_wnI"
+        }
+    ],
+    "credits": 3
+}

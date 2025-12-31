@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "CalDART",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.1255204,-117.2820321,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "San Diego CalDART",
+            "address": "2006 Palomar Airport Rd #214, Carlsbad, CA 92008",
+            "latitude": 33.1255204,
+            "longitude": -117.2820321,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.caldart.org/",
+            "phoneNumber": "(760) 586-9093",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8PeFCR_OLMmmpWUMG9dgloYdP6vnR0CklF71JkoAmkvgw-aXi2Is5rwygenJYf5rLS3gq74SsHllAUaMMyh3P6a7yKiGXabtWgkDze_On0E_NoyM1tMRQLPW6Ep2hSLszRVCqf",
+            "cid": "9430349528727557290",
+            "fid": "0x80dc73b3f955124f:0x82df54eea79414aa",
+            "placeId": "ChIJTxJV-bNz3IARqhSUp-5U34I"
+        }
+    ],
+    "credits": 3
+}

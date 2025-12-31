@@ -1,0 +1,40 @@
+{
+    "searchParameters": {
+        "q": "CYSCHN   (Special Care Health Needs)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.3204323,-97.733906,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children with Special Health Care Needs",
+            "address": "1100 W 49th St, Austin, TX 78756",
+            "latitude": 30.3204323,
+            "longitude": -97.73390599999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dshs.state.tx.us/cshcn/",
+            "phoneNumber": "(800) 252-8023",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "cid": "16132936734008972299",
+            "fid": "0x8644ca66dad96815:0xdfe3b47bce74940b",
+            "placeId": "ChIJFWjZ2mbKRIYRC5R0znu0498"
+        }
+    ],
+    "credits": 3
+}

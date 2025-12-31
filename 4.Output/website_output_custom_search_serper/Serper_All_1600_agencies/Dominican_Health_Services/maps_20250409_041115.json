@@ -1,0 +1,550 @@
+{
+    "searchParameters": {
+        "q": "Dominican Health Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.511511,-118.4883475,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dignity Health \u2013 Dominican Hospital",
+            "address": "1555 Soquel Dr, Santa Cruz, CA 95065",
+            "latitude": 36.9895715,
+            "longitude": -121.98374989999999,
+            "rating": 4,
+            "ratingCount": 730,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Emergency room",
+                "Women's health clinic",
+                "Pharmacy",
+                "Rehabilitation center"
+            ],
+            "website": "https://locations.dignityhealth.org/dominican-hospital",
+            "phoneNumber": "(831) 462-7700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPQDrkaXzIo1yislg9Fy04Xee0-e9Ey9OXIIQJS",
+            "cid": "7600779399835116025",
+            "fid": "0x808e3ffb04e9831b:0x697b6497ef4761f9",
+            "placeId": "ChIJG4PpBPs_joAR-WFH75dke2k"
+        },
+        {
+            "position": 2,
+            "title": "Emergency Room - Dominican Hospital",
+            "address": "1555 Soquel Dr, Santa Cruz, CA 95065",
+            "latitude": 36.9901793,
+            "longitude": -121.9830975,
+            "rating": 2.5,
+            "ratingCount": 66,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://locations.dignityhealth.org/emergency-room-dominican-hospital",
+            "phoneNumber": "(831) 462-7700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMeZE5A-uNOOkqq4-gJEZJjQp9nQbsyb8gx9_Q9",
+            "cid": "6372348721348613559",
+            "fid": "0x808e3ffb08e4b873:0x586f216660e615b7",
+            "placeId": "ChIJc7jkCPs_joARtxXmYGYhb1g"
+        },
+        {
+            "position": 3,
+            "title": "Dignity Health - St. Rose Dominican Hospital, San Martin Campus - Las Vegas, NV",
+            "address": "8280 W Warm Springs Rd, Las Vegas, NV 89113",
+            "latitude": 36.057419599999996,
+            "longitude": -115.27205749999999,
+            "rating": 4.2,
+            "ratingCount": 1260,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-st-rose-dominican-hospital-san-martin-campus-las-vegas-nv",
+            "phoneNumber": "(702) 492-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOD0EDtYQC6Dpdq27Q1PH74wYNJGGZLWguLe5U",
+            "cid": "12419276546452888866",
+            "fid": "0x80c8c7ed808504ed:0xac5a223806aa1d22",
+            "placeId": "ChIJ7QSFgO3HyIARIh2qBjgiWqw"
+        },
+        {
+            "position": 4,
+            "title": "Dignity Health Dominican Hospital Patient Financial Services",
+            "address": "1555 Soquel Dr, Santa Cruz, CA 95065",
+            "latitude": 36.989792,
+            "longitude": -121.98395749999999,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical billing service",
+            "types": [
+                "Medical billing service"
+            ],
+            "website": "https://www.dignityhealth.org/bayarea/locations/dominican/patients-and-visitors/for-patients/billing-and-payment",
+            "phoneNumber": "(831) 465-7900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tS-M6uokMEAnkZDSh1l9FA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=358.39395&pitch=0&thumbfov=100",
+            "cid": "6524951243815113808",
+            "fid": "0x808e3f6d26637ead:0x5a8d4895e857d450",
+            "placeId": "ChIJrX5jJm0_joARUNRX6JVIjVo"
+        },
+        {
+            "position": 5,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "1779 Dominican Wy suite b, Santa Cruz, CA 95065",
+            "latitude": 36.9908958,
+            "longitude": -121.9807999,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Doctor"
+            ],
+            "website": "http://www.dhmf.org/dominican",
+            "phoneNumber": "(831) 479-4966",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkaJUGIjOHSjNA7X2C8vVmttnLqrU8w6nUdJGr",
+            "cid": "12903985162901285069",
+            "fid": "0x808e3ffb2a0ebbf3:0xb3142a232da468cd",
+            "placeId": "ChIJ87sOKvs_joARzWikLSMqFLM"
+        },
+        {
+            "position": 6,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "9515 Soquel Dr Ste 100, Aptos, CA 95003",
+            "latitude": 36.9755811,
+            "longitude": -121.88432069999999,
+            "rating": 4,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-medical-group-dominican?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=Mary&utm_term=DignityHealthMedicalGroup-Dominican&y_source=1_NjE3OTEwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(831) 661-6020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPY6u3RbxBmuZ2q7I24gfedv-Wc6-qCwDohiTLV",
+            "cid": "15373632663873237954",
+            "fid": "0x808e16618ca8c80b:0xd55a1d746d81b3c2",
+            "placeId": "ChIJC8iojGEWjoARwrOBbXQdWtU"
+        },
+        {
+            "position": 7,
+            "title": "Dignity Health - St. Rose Dominican Hospital, Blue Diamond - Las Vegas, NV",
+            "address": "4855 Blue Diamond Rd, Las Vegas, NV 89139",
+            "latitude": 36.0321261,
+            "longitude": -115.2071155,
+            "rating": 2.7,
+            "ratingCount": 151,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-st-rose-dominican-hospital-blue-diamond-las-vegas-nv",
+            "phoneNumber": "(702) 216-7305",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOhO48Xm1rd31qtIMUGGbtHd8rTPCOBZwesCicZ",
+            "cid": "7353121042785717368",
+            "fid": "0x80c8c8c0c67d2263:0x660b88a141b14c78",
+            "placeId": "ChIJYyJ9xsDIyIAReEyxQaGIC2Y"
+        },
+        {
+            "position": 8,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "1505 Soquel Dr Ste 1, Santa Cruz, CA 95065",
+            "latitude": 36.988422199999995,
+            "longitude": -121.9850151,
+            "type": "Women's health clinic",
+            "types": [
+                "Women's health clinic",
+                "Birth center",
+                "Family planning counselor",
+                "Lactation service",
+                "Medical clinic",
+                "Reproductive health clinic"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/locations/santa-cruz-obgyn2",
+            "phoneNumber": "(831) 465-5440",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o_0Av5U8N7mQ5NjYH2mE_w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=186.76184&pitch=0&thumbfov=100",
+            "cid": "271952464775108459",
+            "fid": "0x808e3fdbe62a5ac3:0x3c62b536ab6576b",
+            "placeId": "ChIJw1oq5ts_joARa1e2alMrxgM"
+        },
+        {
+            "position": 9,
+            "title": "Dominican Hospital Home Health",
+            "address": "2045 40th Ave Ste A, Capitola, CA 95010",
+            "latitude": 36.9794068,
+            "longitude": -121.96664059999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dominican-hospital-home-health",
+            "phoneNumber": "(831) 465-7988",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNopyDlNq4vJQf6KWEtKjHSxHXYKgK4cnTgZu2Y",
+            "cid": "10085565613009605671",
+            "fid": "0x808e1566253c55f1:0x8bf7207d4a551427",
+            "placeId": "ChIJ8VU8JWYVjoARJxRVSn0g94s"
+        },
+        {
+            "position": 10,
+            "title": "Dominican Hospital PEP Program",
+            "address": "21340 E Cliff Dr, Santa Cruz, CA 95062",
+            "latitude": 36.963761,
+            "longitude": -121.9922733,
+            "rating": 4.5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dominican-hospital-pep-program",
+            "phoneNumber": "(831) 457-7099",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20134\u202fPM",
+                "Wednesday": "10\u202fAM\u20134\u202fPM",
+                "Thursday": "10\u202fAM\u20134\u202fPM",
+                "Friday": "10\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOIFUfSE0Be0NAAFwtYkG3i_32t7Z3FeP-r03VO",
+            "cid": "17683725493182093631",
+            "fid": "0x808e4002d8cb6061:0xf56936a4c6a3593f",
+            "placeId": "ChIJYWDL2AJAjoARP1mjxqQ2afU"
+        },
+        {
+            "position": 11,
+            "title": "Dominican Hospital Mobile Wellness Clinic",
+            "address": "1555 Soquel Dr, Santa Cruz, CA 95065",
+            "latitude": 36.989473,
+            "longitude": -121.9844119,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dignityhealth.org/bayarea/locations/dominican/about-us/community-benefits/mobile-wellness-clinic",
+            "phoneNumber": "(831) 713-8751",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20133\u202fPM",
+                "Wednesday": "9\u202fAM\u20133\u202fPM",
+                "Thursday": "9\u202fAM\u20133\u202fPM",
+                "Friday": "9\u202fAM\u20133\u202fPM",
+                "Saturday": "9\u202fAM\u20133\u202fPM",
+                "Sunday": "9\u202fAM\u20133\u202fPM",
+                "Monday": "9\u202fAM\u20133\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6h956BBjXoilqIg9bLIEUA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=292.51788&pitch=0&thumbfov=100",
+            "cid": "16747520285133667573",
+            "fid": "0x808e3f898390b809:0xe86b24f7980a7cf5",
+            "placeId": "ChIJCbiQg4k_joAR9XwKmPcka-g"
+        },
+        {
+            "position": 12,
+            "title": "Dominican Hospital Laboratory",
+            "address": "1555 Soquel Dr, Santa Cruz, CA 95065",
+            "latitude": 36.990141,
+            "longitude": -121.98391339999999,
+            "type": "Medical laboratory",
+            "types": [
+                "Medical laboratory"
+            ],
+            "website": "https://locations.dignityhealth.org/dominican-hospital-laboratory",
+            "phoneNumber": "(831) 462-7714",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMK-PgQschDDKX_k0lrRl1wi7hZb1efVUbD0Glq",
+            "cid": "13681748487894839207",
+            "fid": "0x808e3ffb041daa27:0xbddf55c2bf35afa7",
+            "placeId": "ChIJJ6odBPs_joARp681v8JV370"
+        },
+        {
+            "position": 13,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "1667 Dominican Wy Ste 234, Santa Cruz, CA 95065",
+            "latitude": 36.9907463,
+            "longitude": -121.98124689999999,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/locations/santa-cruz-specialty-care-urology",
+            "phoneNumber": "(831) 533-1911",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN2Z6zoN9ACM_J1W73fj3xap4UKMuDlJkaEJ8Jk",
+            "cid": "14054528077964070417",
+            "fid": "0x808e3ffb2a0ebbf3:0xc30bb6d2a4cd4e11",
+            "placeId": "ChIJ87sOKvs_joAREU7NpNK2C8M"
+        },
+        {
+            "position": 14,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "575 Auto Center Dr, Watsonville, CA 95076",
+            "latitude": 36.917436099999996,
+            "longitude": -121.7666689,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/locations/watsonville-family-medicine?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=BayArea&utm_term=DignityHealthMedicalGroupDominican&y_source=1_OTk3NzAyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(831) 288-6537",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMgF6w3P0Sjrmvo5zaR8rKfh5EX4vvR4nxOOXNE",
+            "cid": "5181605066810160486",
+            "fid": "0x808e1bba8d41c9cf:0x47e8c25add957566",
+            "placeId": "ChIJz8lBjbobjoARZnWV3VrC6Ec"
+        },
+        {
+            "position": 15,
+            "title": "Dominican Family Practice: Dominican Medical Foundation",
+            "address": "1595 Soquel Dr Ste 411, Santa Cruz, CA 95065",
+            "latitude": 36.9894131,
+            "longitude": -121.98269619999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/about/network/dominican",
+            "phoneNumber": "(831) 475-8834",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qde8IEN7h_GQReeQgtBaiw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=24.093493&pitch=0&thumbfov=100",
+            "cid": "5589042282634891392",
+            "fid": "0x808e3ffb41de1575:0x4d90445813175080",
+            "placeId": "ChIJdRXeQfs_joARgFAXE1hEkE0"
+        },
+        {
+            "position": 16,
+            "title": "Dignity Health - St. Rose Dominican Hospital, Rose de Lima Campus - Henderson, NV",
+            "address": "102 E Lake Mead Pkwy, Henderson, NV 89015",
+            "latitude": 36.0382331,
+            "longitude": -114.9844217,
+            "rating": 3.9,
+            "ratingCount": 530,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://locations.dignityhealth.org/dignity-health-st-rose-dominican-hospital-rose-de-lima-campus-henderson-nv",
+            "phoneNumber": "(702) 564-2622",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNrzHFnppoWI2ajrebgDdF8xrrSOYivgeETSrb_",
+            "cid": "7200980058207072247",
+            "fid": "0x80c8d6b997e6ee91:0x63ef0535e41aaff7",
+            "placeId": "ChIJke7ml7nWyIAR968a5DUF72M"
+        },
+        {
+            "position": 17,
+            "title": "Dignity Health Medical Group - Dominican",
+            "address": "105 Post Office Dr Ste F, Aptos, CA 95003",
+            "latitude": 36.976590099999996,
+            "longitude": -121.9007987,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.dignityhealth.org/dhmf/locations/aptos-pediatrics",
+            "phoneNumber": "(831) 612-6264",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vvgz37URYGfbkepj61viog&cb_client=search.gws-prod.gps&w=80&h=92&yaw=301.1757&pitch=0&thumbfov=100",
+            "cid": "10825050374740466601",
+            "fid": "0x808e1703422f3a4d:0x963a4df6561d5ba9",
+            "placeId": "ChIJTTovQgMXjoARqVsdVvZNOpY"
+        },
+        {
+            "position": 18,
+            "title": "Dominican Medical Foundation",
+            "address": "1667 Dominican Wy STE 134, Santa Cruz, CA 95065",
+            "latitude": 36.990686,
+            "longitude": -121.9811244,
+            "rating": 1,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(831) 535-1560",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WKiLJkh7nCj_utk8zuJ43g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=114.80359&pitch=0&thumbfov=100",
+            "cid": "7716927457475209537",
+            "fid": "0x808e3fe4c970b615:0x6b1808a2f444a941",
+            "placeId": "ChIJFbZwyeQ_joARQalE9KIIGGs"
+        },
+        {
+            "position": 19,
+            "title": "Dominican Hospital - Mary & Richard Solari Cancer Center",
+            "address": "3150 Mission Dr, Santa Cruz, CA 95065",
+            "latitude": 36.989770199999995,
+            "longitude": -121.9802637,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://locations.dignityhealth.org/dominican-hospital-mary-&-richard-solari-cancer-center",
+            "phoneNumber": "(831) 462-7747",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOavLyR7RNRtVwxWxbTHlkT0xSUnCiQbLg6yLLa",
+            "cid": "3724710440615833517",
+            "fid": "0x808e3fe4a334c079:0x33b0d46950186fad",
+            "placeId": "ChIJecA0o-Q_joARrW8YUGnUsDM"
+        },
+        {
+            "position": 20,
+            "title": "Dignity Health - St. Rose Dominican Hospital, Sahara Campus - Las Vegas, NV",
+            "address": "4980 W Sahara Ave, Las Vegas, NV 89146",
+            "latitude": 36.145921,
+            "longitude": -115.2090168,
+            "rating": 3.4,
+            "ratingCount": 205,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.strosenh.org/",
+            "phoneNumber": "(702) 216-7365",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNhySXvR66-3QHSSD-3klm-dXrjwVub86MOofVo",
+            "cid": "17777082548238913296",
+            "fid": "0x80c8c1462ed40701:0xf6b4e263fe938f10",
+            "placeId": "ChIJAQfULkbByIAREI-T_mPitPY"
+        }
+    ],
+    "credits": 3
+}

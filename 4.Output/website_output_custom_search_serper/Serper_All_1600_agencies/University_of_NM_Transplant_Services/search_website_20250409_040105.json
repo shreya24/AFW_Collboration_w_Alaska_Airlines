@@ -1,0 +1,91 @@
+{
+    "searchParameters": {
+        "q": "University of NM Transplant Services website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "knowledgeGraph": {
+        "title": "UNM Health Transplant Services",
+        "type": "Hospital department in Albuquerque, New Mexico",
+        "rating": 2.3,
+        "ratingCount": 3,
+        "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b2qxd1Sr0BwR0i3mrhRkBg&cb_client=search.gws-prod.gps&yaw=17.334158&pitch=0&thumbfov=100&w=240&h=360",
+        "attributes": {
+            "Address": "2211 Lomas Blvd NE 2nd floor, Albuquerque, NM 87106",
+            "Hours": "Closed \u22c5 Opens 8\u202fAM Wed",
+            "Phone": "(505) 272-3100"
+        }
+    },
+    "organic": [
+        {
+            "title": "Kidney Transplant Services | Kidney Care | UNM Health System",
+            "link": "https://unmhealth.org/services/kidney-care/transplant-services.html",
+            "snippet": "UNMH performs both living donor and deceased donor transplants. See a Transplant Doctor. To schedule a consultation at UNM Hospital, call 505-272-3100. Call Us.",
+            "position": 1
+        },
+        {
+            "title": "Transplant and Cellular Therapies Team | UNM Cancer Center",
+            "link": "https://unmhealth.org/cancer/treatment/transplant-cellular-therapies/",
+            "snippet": "The Bone Marrow and Stem Cell Transplant Center at the UNM Comprehensive Cancer Center offers several treatment choices for people with blood cancers.",
+            "attributes": {
+                "Missing": "Services website"
+            },
+            "position": 2
+        },
+        {
+            "title": "UNM Hospital - UNM Directory - The University of New Mexico",
+            "link": "https://directory.unm.edu/departments/department_phone_list.php?dept=298",
+            "snippet": "Swallowing Center; TB Test; Teen Lounge; Teen OB Clinic; Thoracic Surgery Clinic; Transplant Services; Transport Services; Trauma Clinic; Trauma Support ...",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 3
+        },
+        {
+            "title": "A Faster Kidney Transplant - UNM Health Sciences Center",
+            "link": "https://hsc.unm.edu/news/2023/03/hepatitis-c-kidney-transplant-program-reduces-patient-waiting-time.html",
+            "snippet": "Newly implemented hepatitis C kidney transplant program at The University of New Mexico significantly reduces wait time for recipients on ...",
+            "date": "Mar 7, 2023",
+            "attributes": {
+                "Missing": "website | Show results with:website"
+            },
+            "position": 4
+        },
+        {
+            "title": "UNM Comprehensive Cancer Center - NMDP",
+            "link": "https://www.nmdp.org/what-we-do/partnerships/global-transplant-network/transplant-center-directory/nm/unm-comprehensive-cancer-center",
+            "snippet": "The UNM Cancer Center program is New Mexico's only bone marrow transplant program. This center is not a member of the NMDP transplant center network.",
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "UNM Nephrology Clinic"
+        },
+        {
+            "query": "Liver transplant New Mexico"
+        },
+        {
+            "query": "UNM Hospital departments"
+        },
+        {
+            "query": "UNM Pediatric Nephrology Clinic"
+        },
+        {
+            "query": "UNM Health services"
+        },
+        {
+            "query": "UNM Hospital directory"
+        },
+        {
+            "query": "Kidney transplant waiting list by state"
+        },
+        {
+            "query": "UNM Medical Group"
+        }
+    ],
+    "credits": 1
+}

@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "Sara Montag",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.1893896,-106.8386107,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sara E. Montag, MSW",
+            "address": "405 Castle Creek Rd, Aspen, CO 81611",
+            "latitude": 39.1893896,
+            "longitude": -106.83861069999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(970) 920-5555",
+            "cid": "973002317913838199",
+            "fid": "0x8740397307a446a1:0xd80cc73f4e2d277",
+            "placeId": "ChIJoUakB3M5QIcRd9Li9HPMgA0"
+        }
+    ],
+    "credits": 3
+}

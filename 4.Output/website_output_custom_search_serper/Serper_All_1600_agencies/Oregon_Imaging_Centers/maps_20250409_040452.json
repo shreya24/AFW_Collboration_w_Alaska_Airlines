@@ -1,0 +1,80 @@
+{
+    "searchParameters": {
+        "q": "Oregon Imaging Centers",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0646805,-123.0550738,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Imaging Centers - University District",
+            "address": "1200 Hilyard St Ste 330, Eugene, OR 97401",
+            "latitude": 44.0463319,
+            "longitude": -123.08274829999999,
+            "rating": 4.8,
+            "ratingCount": 2440,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Doctor",
+                "Mammography service",
+                "MRI center",
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "website": "https://www.oregonimaging.com/",
+            "phoneNumber": "(541) 687-7134",
+            "openingHours": {
+                "Tuesday": "6:45\u202fAM\u20138\u202fPM",
+                "Wednesday": "6:45\u202fAM\u20138\u202fPM",
+                "Thursday": "6:45\u202fAM\u20138\u202fPM",
+                "Friday": "6:45\u202fAM\u20138\u202fPM",
+                "Saturday": "6:45\u202fAM\u20138\u202fPM",
+                "Sunday": "6:45\u202fAM\u20138\u202fPM",
+                "Monday": "6:45\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhzVBvT-f-Tw0S1CvkH2JeJQn9yllX1mWDNRFR",
+            "cid": "17531053957937299410",
+            "fid": "0x54c11e3ef191babd:0xf34ad0b0f50effd2",
+            "placeId": "ChIJvbqR8T4ewVQR0v8O9bDQSvM"
+        },
+        {
+            "position": 2,
+            "title": "Oregon Imaging Centers - RiverBend Pavilion",
+            "address": "3377 Riverbend Dr, Springfield, OR 97477",
+            "latitude": 44.083028999999996,
+            "longitude": -123.0273994,
+            "rating": 4.9,
+            "ratingCount": 1398,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Diagnostic center",
+                "Doctor",
+                "Mammography service",
+                "MRI center",
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "website": "http://www.oregonimaging.com/",
+            "phoneNumber": "(541) 687-7134",
+            "openingHours": {
+                "Tuesday": "6:45\u202fAM\u20138\u202fPM",
+                "Wednesday": "6:45\u202fAM\u20138\u202fPM",
+                "Thursday": "6:45\u202fAM\u20138\u202fPM",
+                "Friday": "6:45\u202fAM\u20138\u202fPM",
+                "Saturday": "6:45\u202fAM\u20138\u202fPM",
+                "Sunday": "6:45\u202fAM\u20138\u202fPM",
+                "Monday": "6:45\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPzKy3NhUaRO7hcrNCa4iisFYOYQuMocyiH5adO",
+            "cid": "8546701663320425233",
+            "fid": "0x54c0e1821226e581:0x769bfbe163744311",
+            "placeId": "ChIJgeUmEoLhwFQREUN0Y-H7m3Y"
+        }
+    ],
+    "credits": 3
+}

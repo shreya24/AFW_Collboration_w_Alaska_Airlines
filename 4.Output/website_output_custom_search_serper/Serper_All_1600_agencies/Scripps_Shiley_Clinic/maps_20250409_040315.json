@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Scripps Shiley Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9003435,-117.2429856,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Shiley Pavilion",
+            "address": "10820 N Torrey Pines Rd, La Jolla, CA 92037",
+            "latitude": 32.9003435,
+            "longitude": -117.2429856,
+            "rating": 4.3,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.scripps.org/locations/specialty-centers/scripps-shiley-pavilion",
+            "phoneNumber": "(858) 554-9100",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6SsjPwkdz0UxW9VTv-HoIA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=323.07782&pitch=0&thumbfov=100",
+            "cid": "7611381177949772916",
+            "fid": "0x80dc06f4bf331319:0x69a10edac1ca5c74",
+            "placeId": "ChIJGRMzv_QG3IARdFzKwdoOoWk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Akeela",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1938951,-149.8896749,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Akeela Inc",
+            "address": "360 W Benson Blvd #300, Anchorage, AK 99503",
+            "latitude": 61.1938951,
+            "longitude": -149.8896749,
+            "rating": 2.8,
+            "ratingCount": 10,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Addiction treatment center",
+                "Mental health service"
+            ],
+            "website": "https://akeela.org/",
+            "phoneNumber": "(907) 565-1200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4mbIm8URyPqnlsH9NZ-6jA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=154.02502&pitch=0&thumbfov=100",
+            "cid": "17157701760127507257",
+            "fid": "0x56c897c56afac3df:0xee1c66d86e7e9b39",
+            "placeId": "ChIJ38P6asWXyFYROZt-bthmHO4"
+        }
+    ],
+    "credits": 3
+}

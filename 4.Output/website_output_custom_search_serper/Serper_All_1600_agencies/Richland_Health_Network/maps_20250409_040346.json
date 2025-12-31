@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Richland Health Network",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4583499,-75.3681609,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lehigh Valley Health Network - Health Center at Richland Township",
+            "address": "320 W Pumping Station Rd, Quakertown, PA 18951",
+            "latitude": 40.458349899999995,
+            "longitude": -75.36816089999999,
+            "rating": 3.5,
+            "ratingCount": 22,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.lvhn.org/locations/health-center-richland-township",
+            "phoneNumber": "(215) 529-4300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMpKHtmvp5CZPurBN4Q7N0c8Rj98WmCDOlIQJa6",
+            "cid": "15421909112133602369",
+            "fid": "0x89c4225cf8432627:0xd605a0a0f3154c41",
+            "placeId": "ChIJJyZD-FwixIkRQUwV86CgBdY"
+        }
+    ],
+    "credits": 3
+}

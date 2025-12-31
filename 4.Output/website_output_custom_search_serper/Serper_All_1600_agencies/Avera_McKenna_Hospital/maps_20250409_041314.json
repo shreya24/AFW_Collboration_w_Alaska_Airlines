@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Avera McKenna Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@43.5341494,-96.713924,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Avera McKennan Hospital & University Health Center",
+            "address": "1325 S Cliff Ave, Sioux Falls, SD 57105",
+            "latitude": 43.5341494,
+            "longitude": -96.71392399999999,
+            "rating": 3.2,
+            "ratingCount": 175,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Emergency room",
+                "Hospital",
+                "Medical Center",
+                "Medical clinic"
+            ],
+            "website": "https://www.avera.org/locations/profile/avera-mckennan-hospital-university-health-center/?y_source=1_MTIyMTIzMjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(605) 322-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMfHU2JQ87xSvs4qu4ZqmQI8iGdGqcYvlxp8hUN",
+            "cid": "10633851057826048355",
+            "fid": "0x878eb5c9a5cf8265:0x9393073250222963",
+            "placeId": "ChIJZYLPpcm1jocRYykiUDIHk5M"
+        }
+    ],
+    "credits": 3
+}

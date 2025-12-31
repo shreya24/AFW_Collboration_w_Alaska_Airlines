@@ -1,0 +1,51 @@
+{
+    "searchParameters": {
+        "q": "Sequoia Family Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.0698744,-119.0302642,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sequoia Family Medical Center",
+            "address": "590 W Putnam Ave, Porterville, CA 93257",
+            "latitude": 36.069874399999996,
+            "longitude": -119.03026419999999,
+            "rating": 3.6,
+            "ratingCount": 181,
+            "type": "Walk-in clinic",
+            "types": [
+                "Walk-in clinic",
+                "Chiropractor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Laboratory",
+                "Women's health clinic",
+                "Pediatrician",
+                "Specialized clinic"
+            ],
+            "website": "https://www.mysfmc.com/",
+            "phoneNumber": "(559) 781-3700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "9\u202fAM\u20136\u202fPM",
+                "Sunday": "9\u202fAM\u20133\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mysfmc.com/appointmentrequest"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPR-NamLM8uTtZ7_RREsF_NHakrXySEhcoFuzE8",
+            "cid": "7878456901927510629",
+            "fid": "0x80eab81336c1feeb:0x6d55e6cf799d2265",
+            "placeId": "ChIJ6_7BNhO46oARZSKdec_mVW0"
+        }
+    ],
+    "credits": 3
+}

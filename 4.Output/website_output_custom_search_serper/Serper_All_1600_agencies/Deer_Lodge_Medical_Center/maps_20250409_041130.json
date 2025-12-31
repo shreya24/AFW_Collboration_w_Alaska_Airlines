@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Deer Lodge Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.4134459,-112.726849,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Deer Lodge Medical Center",
+            "address": "1100 Hollenback Ln, Deer Lodge, MT 59722",
+            "latitude": 46.4134459,
+            "longitude": -112.726849,
+            "rating": 3.4,
+            "ratingCount": 34,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://www.dlmed.org/",
+            "phoneNumber": "(406) 846-2212",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3G0_0g41TTy7E18guDJJEQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=154.86032&pitch=0&thumbfov=100",
+            "cid": "10457026781786076880",
+            "fid": "0x535b7dbcd46669d7:0x911ed2744f1af6d0",
+            "placeId": "ChIJ12lm1Lx9W1MR0PYaT3TSHpE"
+        }
+    ],
+    "credits": 3
+}

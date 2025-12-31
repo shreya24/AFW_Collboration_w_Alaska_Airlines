@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "PeaceHealth St. John Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.130469,-122.940095,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "PeaceHealth St. John Medical Center",
+            "address": "1615 Delaware St, Longview, WA 98632",
+            "latitude": 46.130469,
+            "longitude": -122.940095,
+            "rating": 2.2,
+            "ratingCount": 436,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.peacehealth.org/hospitals/peacehealth-st-john-medical-center?utm_source=gbp&utm_medium=organic&utm_content=LONG-000&utm_campaign=gmb",
+            "phoneNumber": "(360) 414-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPDQx8Kuf7y7dFkqPuVjxnGJeEaaekHQo8X1Oaf",
+            "cid": "4556779643323275464",
+            "fid": "0x54946c7d4240f1f3:0x3f3ceef15803d8c8",
+            "placeId": "ChIJ8_FAQn1slFQRyNgDWPHuPD8"
+        }
+    ],
+    "credits": 3
+}

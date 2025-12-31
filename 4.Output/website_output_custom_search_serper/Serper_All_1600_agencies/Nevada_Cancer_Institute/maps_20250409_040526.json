@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "Nevada Cancer Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@36.1209146,-115.3214431,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nevada Cancer Institute",
+            "address": "1 Breakthrough Way, Las Vegas, NV 89135",
+            "latitude": 36.1209146,
+            "longitude": -115.3214431,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "http://www.nevadacancerinstitute.org/",
+            "phoneNumber": "(702) 822-5433",
+            "isPermanentlyClosed": true,
+            "cid": "9065244033073744271",
+            "fid": "0x80c8bf256fafb8ef:0x7dce376b1997098f",
+            "placeId": "ChIJ77ivbyW_yIARjwmXGWs3zn0"
+        }
+    ],
+    "credits": 3
+}

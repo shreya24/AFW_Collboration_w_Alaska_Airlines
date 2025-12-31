@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Sharp Chula Vista Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.619414,-117.0233424,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sharp Chula Vista Medical Center",
+            "address": "751 Medical Center Ct, Chula Vista, CA 91911",
+            "latitude": 32.619414,
+            "longitude": -117.02334239999999,
+            "rating": 3.3,
+            "ratingCount": 373,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.sharp.com/locations/locations/hospitals/sharp-chula-vista?utm_source=google&utm_medium=organic&utm_campaign=yext&y_source=1_ODQ4MzMzNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(619) 502-5800",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_eqikfj_Yi4N6S1iNpC1YxlJwDVov-u-G8r_hhXoTtzoXYqzQaiSl7ZdrTeNsmVEWnFWkHEv8GxU_2XBx5YKjPnk0xL0neY5mcKJj7w4DGkzqAMFMBkD0aExUIHRnYgCIIuBs",
+            "cid": "5032651310012145622",
+            "fid": "0x80d94f07a4ac0cd9:0x45d791b3cbad9fd6",
+            "placeId": "ChIJ2QyspAdP2YAR1p-ty7OR10U"
+        }
+    ],
+    "credits": 3
+}

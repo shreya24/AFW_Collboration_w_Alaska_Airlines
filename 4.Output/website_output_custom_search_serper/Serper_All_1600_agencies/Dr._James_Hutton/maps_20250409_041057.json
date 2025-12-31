@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dr. James Hutton",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.5880878,-87.1003857,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "James L. Hutton III DDS",
+            "address": "6000 Trotwood Ave, Columbia, TN 38401",
+            "latitude": 35.5880878,
+            "longitude": -87.10038569999999,
+            "rating": 4.9,
+            "ratingCount": 21,
+            "type": "Pediatric dentist",
+            "types": [
+                "Pediatric dentist"
+            ],
+            "website": "https://www.childrensdentalcolumbia.com/meet-our-team/james-l-hutton-dds/",
+            "phoneNumber": "(931) 381-9721",
+            "menu": "https://www.childrensdentalcolumbia.com/services/",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP-lYdKWhNK5Ji7Ms8jTVZcnIjLeic_TIqWwMct",
+            "cid": "12530953227053397987",
+            "fid": "0x886372085b3e858f:0xade6e391738d77e3",
+            "placeId": "ChIJj4U-WwhyY4gR43eNc5Hj5q0"
+        }
+    ],
+    "credits": 3
+}

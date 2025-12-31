@@ -1,0 +1,115 @@
+{
+    "searchParameters": {
+        "q": "Creighton University Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.2540946,-95.9896264,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Creighton University Medical Center",
+            "address": "2420 Cuming St, Omaha, NE 68131",
+            "latitude": 41.268985199999996,
+            "longitude": -95.9484846,
+            "rating": 3.7,
+            "ratingCount": 3,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "website": "https://www.creighton.edu/medicine",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j2ngTQ0hPYpx_tOfmwj4fA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=321.45816&pitch=0&thumbfov=100",
+            "cid": "10882668712292152617",
+            "fid": "0x87938e3636482ab9:0x97070188f46e7529",
+            "placeId": "ChIJuSpINjaOk4cRKXVu9IgBB5c"
+        },
+        {
+            "position": 2,
+            "title": "CHI Health Creighton University Medical Center - Bergan Mercy",
+            "address": "7500 Mercy Rd, Omaha, NE 68124",
+            "latitude": 41.239530599999995,
+            "longitude": -96.0307682,
+            "rating": 4.2,
+            "ratingCount": 2249,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.chihealth.com/locations/cumc-bergan-mercy",
+            "phoneNumber": "(402) 398-6060",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOFcuyxLp2luQL5AsdbwWAALwOmpNcVT16n6raY",
+            "cid": "2657922218762736297",
+            "fid": "0x87938cf9256d5cfd:0x24e2d62cf9f892a9",
+            "placeId": "ChIJ_VxtJfmMk4cRqZL4-SzW4iQ"
+        },
+        {
+            "position": 3,
+            "title": "CHI Health Creighton University Medical Center - University Campus",
+            "address": "2412 Cuming St, Omaha, NE 68131",
+            "latitude": 41.2689854,
+            "longitude": -95.9484846,
+            "rating": 2.4,
+            "ratingCount": 65,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.chihealth.com/locations/cumc-university-campus",
+            "phoneNumber": "(402) 717-0380",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNeJjOtfzk-1g-eYnIY8LUWqkLhikq0hTZ3T7QU",
+            "cid": "849184879156936898",
+            "fid": "0x87938e3620248f0d:0xbc8e925fec840c2",
+            "placeId": "ChIJDY8kIDaOk4cRwkDI_iXpyAs"
+        },
+        {
+            "position": 4,
+            "title": "Creighton University Med Center",
+            "address": "7500 Mercy Rd, Omaha, NE 68124",
+            "latitude": 41.2392037,
+            "longitude": -96.0293832,
+            "rating": 4.6,
+            "ratingCount": 33,
+            "type": "University",
+            "types": [
+                "University"
+            ],
+            "website": "https://medschool.creighton.edu/",
+            "phoneNumber": "(402) 280-2700",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8_OuL2jOSw8GPQCqiZt0rUK8iPMczP4l5H6YBxwAD6TrizEfQnm2v6MNIB5auPFEuDl7LojXoeamInO5j2LJejWM0sOV29y6F9eX8PCRZ0hc9ih9GUuwTXiA0R1EuzbYFoEmtDmw",
+            "cid": "16928725710340871378",
+            "fid": "0x87938ddb1ef02b57:0xeaeeea5760e3d4d2",
+            "placeId": "ChIJVyvwHtuNk4cR0tTjYFfq7uo"
+        }
+    ],
+    "credits": 3
+}

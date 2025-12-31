@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Scripps clinic Carmel Valley",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.936657,-117.2320611,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Scripps Clinic Carmel Valley",
+            "address": "3811 Valley Centre Dr, San Diego, CA 92130",
+            "latitude": 32.936657,
+            "longitude": -117.2320611,
+            "rating": 2.7,
+            "ratingCount": 138,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Allergist",
+                "Cardiologist",
+                "Dermatologist",
+                "Obstetrician-gynecologist",
+                "Medical Center",
+                "Orthopedic clinic",
+                "Pediatrician",
+                "Rheumatologist"
+            ],
+            "website": "http://www.scripps.org/LocListSCCVsdpsocial-gmb",
+            "phoneNumber": "(858) 682-0164",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQohPcRMkIzqjYczpyiUye7n5A5a1dGNyZvFER",
+            "cid": "11096150562449731988",
+            "fid": "0x80dc06307471dbd3:0x99fd722589113194",
+            "placeId": "ChIJ09txdDAG3IARlDERiSVy_Zk"
+        }
+    ],
+    "credits": 3
+}

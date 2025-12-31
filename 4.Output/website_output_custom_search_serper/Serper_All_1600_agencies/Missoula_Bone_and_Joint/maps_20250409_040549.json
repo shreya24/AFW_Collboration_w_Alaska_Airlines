@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Missoula Bone and Joint",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.88385,-114.0300064,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Missoula Bone & Joint",
+            "address": "2360 Mullan Rd # C, Missoula, MT 59808",
+            "latitude": 46.883849999999995,
+            "longitude": -114.03000639999999,
+            "rating": 4.2,
+            "ratingCount": 370,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Orthopedic clinic",
+                "Urgent care center"
+            ],
+            "website": "http://www.missoulaboneandjoint.com/",
+            "phoneNumber": "(406) 721-4436",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20137\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20137\u202fPM",
+                "Thursday": "8:30\u202fAM\u20137\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNg6IctRCGe8GZCFPz5HHpKz6LL3oXoGRW8cZ_5",
+            "cid": "16275699090294950431",
+            "fid": "0x535dce69713167d3:0xe1dee6171c2dca1f",
+            "placeId": "ChIJ02cxcWnOXVMRH8otHBfm3uE"
+        }
+    ],
+    "credits": 3
+}

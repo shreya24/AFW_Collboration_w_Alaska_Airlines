@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "CenCal Health",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.4424324,-119.7581024,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CenCal Health",
+            "address": "4050 Calle Real, Santa Barbara, CA 93110",
+            "latitude": 34.4424324,
+            "longitude": -119.7581024,
+            "rating": 2.8,
+            "ratingCount": 31,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Health insurance agency"
+            ],
+            "website": "https://www.cencalhealth.org/",
+            "phoneNumber": "(877) 814-1861",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_CB6w_Pyq1RTHRHE-8ijluYvnyE0PhzweI-E7wCx0GDHSAASjRqj-bAaV7Ny1kDoG2fbRV-WTw8AYQFYS-IgE9Cq6K9YW5AFiI9XiE85EzzlAPfGuCh_QYl1D_uM3E7gRMYelnHA",
+            "cid": "6323032962570060192",
+            "fid": "0x80e91530ec75c673:0x57bfecfa851301a0",
+            "placeId": "ChIJc8Z17DAV6YARoAEThfrsv1c"
+        }
+    ],
+    "credits": 3
+}

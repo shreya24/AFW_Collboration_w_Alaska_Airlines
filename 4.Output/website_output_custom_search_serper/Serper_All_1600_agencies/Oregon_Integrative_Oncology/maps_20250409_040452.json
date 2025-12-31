@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Oregon Integrative Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.1947828,-122.7044439,16z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Oregon Integrative Oncology",
+            "address": "935 Siskiyou Blvd, Ashland, OR 97520",
+            "latitude": 42.1896442,
+            "longitude": -122.6995113,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Doctor"
+            ],
+            "website": "https://www.oregonio.com/",
+            "phoneNumber": "(541) 488-6261",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cptFi_sZmbjx1rE9Nxt1xA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=256.95654&pitch=0&thumbfov=100",
+            "cid": "8384413531961142105",
+            "fid": "0x54cf737b1137c89b:0x745b6baf4e85ab59",
+            "placeId": "ChIJm8g3EXtzz1QRWauFTq9rW3Q"
+        },
+        {
+            "position": 2,
+            "title": "Oregon Integrative Oncology: Dawn Lemanne, MD, MPH",
+            "address": "149 Clear Creek Dr Suite 110, Ashland, OR 97520",
+            "latitude": 42.1999214,
+            "longitude": -122.7093766,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "https://oregonio.com/",
+            "phoneNumber": "(541) 488-6261",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gur2tBYFnqhUKL11_RJcOw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=350.33856&pitch=0&thumbfov=100",
+            "cid": "2225702952627953827",
+            "fid": "0x54cf737b14178135:0x1ee3490b0aed60a3",
+            "placeId": "ChIJNYEXFHtzz1QRo2DtCgtJ4x4"
+        }
+    ],
+    "credits": 3
+}

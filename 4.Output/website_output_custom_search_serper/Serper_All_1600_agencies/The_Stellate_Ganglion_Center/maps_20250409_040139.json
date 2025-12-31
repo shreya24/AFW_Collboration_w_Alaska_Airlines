@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "The Stellate Ganglion Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1479911,-106.5482767,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Stellate Ganglion Center",
+            "address": "8080 Academy Rd NE, Albuquerque, NM 87111",
+            "latitude": 35.1479911,
+            "longitude": -106.54827669999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "https://stellateganglioncenter.com/contact-us",
+            "phoneNumber": "(505) 247-9700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHSNVKguAI8Y1BUCXHhgA-cG6_WCnXeLRwkpaJ",
+            "cid": "17988633806052373315",
+            "fid": "0x872275703e57db45:0xf9a477238455b343",
+            "placeId": "ChIJRdtXPnB1IocRQ7NVhCN3pPk"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,82 @@
+{
+    "searchParameters": {
+        "q": "Jeff Brand MD PC",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.4593623,-74.7265418,9z",
+    "places": [
+        {
+            "position": 1,
+            "title": "JEFFREY C BRAND",
+            "address": "548 N Trooper Rd, Eagleville, PA 19403",
+            "latitude": 40.1572199,
+            "longitude": -75.3739638,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(610) 539-7900",
+            "cid": "16944618010760613055",
+            "fid": "0x89c697b07f50ee43:0xeb27604dea128cbf",
+            "placeId": "ChIJQ-5Qf7CXxokRv4wS6k1gJ-s"
+        },
+        {
+            "position": 2,
+            "title": "Brand Jeffrey C DO",
+            "address": "190 W Germantown Pike SUITE 110, Norristown, PA 19401",
+            "latitude": 40.145692499999996,
+            "longitude": -75.323898,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(610) 272-0190",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5g0l1a0KIdzvorcM3jpDmA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=27.25468&pitch=0&thumbfov=100",
+            "cid": "11882475385386590696",
+            "fid": "0x89c6bd7384f5f565:0xa4e708682e4a61e8",
+            "placeId": "ChIJZfX1hHO9xokR6GFKLmgI56Q"
+        },
+        {
+            "position": 3,
+            "title": "Brande Jeffery L MD",
+            "address": "2 W 67th St, New York, NY 10023",
+            "latitude": 40.773032099999995,
+            "longitude": -73.97868989999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Plastic surgeon",
+            "types": [
+                "Plastic surgeon"
+            ],
+            "phoneNumber": "(212) 873-7302",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M2903pBisMTwjVQ8pOTDag&cb_client=search.gws-prod.gps&w=80&h=92&yaw=239.34819&pitch=0&thumbfov=100",
+            "cid": "14002672853605276898",
+            "fid": "0x89c258f4c068952f:0xc2537cc56125dce2",
+            "placeId": "ChIJL5VowPRYwokR4twlYcV8U8I"
+        },
+        {
+            "position": 4,
+            "title": "Brand Jeffrey C DO",
+            "address": "599 Arcola Rd, Collegeville, PA 19426",
+            "latitude": 40.1642243,
+            "longitude": -75.4743938,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "website": "http://www.mainlinehealth.org/",
+            "phoneNumber": "(484) 565-8440",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tNo5jY2zhnpNJE7HeGysSA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=40.06142&pitch=0&thumbfov=100",
+            "cid": "7624993467485674993",
+            "fid": "0x89c690fbf1252cfd:0x69d16b28e4285df1",
+            "placeId": "ChIJ_Swl8fuQxokR8V0o5Chr0Wk"
+        }
+    ],
+    "credits": 3
+}

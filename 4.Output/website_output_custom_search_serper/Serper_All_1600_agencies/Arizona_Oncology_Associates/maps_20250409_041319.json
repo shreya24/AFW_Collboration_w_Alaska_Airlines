@@ -1,0 +1,609 @@
+{
+    "searchParameters": {
+        "q": "Arizona Oncology Associates",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.2417956,-111.5963835,8z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arizona Oncology - Wilmot Medical Oncology, Hematology, and Gynecologic Oncology",
+            "address": "603 N Wilmot Rd #151, Tucson, AZ 85711",
+            "latitude": 32.2294711,
+            "longitude": -110.85836529999999,
+            "rating": 3.6,
+            "ratingCount": 98,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-wilmot-road/",
+            "phoneNumber": "(520) 886-0206",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ5Ex8EFp0G9xS3dS2pDytN9lU1mdyz561i1-a",
+            "cid": "7619869919096025550",
+            "fid": "0x86d66fa64d14a42d:0x69bf3751d26731ce",
+            "placeId": "ChIJLaQUTaZv1oYRzjFn0lE3v2k"
+        },
+        {
+            "position": 2,
+            "title": "Arizona Oncology - Green Valley Medical Oncology",
+            "address": "1315 South La Ca\u00f1ada Drive, Green Valley, AZ 85622",
+            "latitude": 31.851066099999997,
+            "longitude": -110.9989569,
+            "rating": 4.3,
+            "ratingCount": 27,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/green-valley/",
+            "phoneNumber": "(520) 625-6600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_I6nSk47UiVs-smvs8LzxCArmFxae7CUbhfLsjZh4O-hl1LvRlmV3GY6Yp29SEOAFRe0wWYeMT0oaDpOf2branq4VtcdfBgbLV_kSJ0PrQUUPbzhWX7xtoYc12CdgtF1bNu-dB",
+            "cid": "7476019627249797909",
+            "fid": "0x86d683602f6de399:0x67c0283dc8128b15",
+            "placeId": "ChIJmeNtL2CD1oYRFYsSyD0owGc"
+        },
+        {
+            "position": 3,
+            "title": "Arizona Oncology - Orange Grove Gynecologic Oncology",
+            "address": "1845 W Orange Grove Rd Bldg. 2, Tucson, AZ 85704",
+            "latitude": 32.3225334,
+            "longitude": -111.0054304,
+            "rating": 4.6,
+            "ratingCount": 35,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-orange-grove/",
+            "phoneNumber": "(520) 531-8967",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtDHO34aXyqJSmk3zY2DgHY6BTlIwPYotJbdOR",
+            "cid": "15830032430793163990",
+            "fid": "0x86d675ff4c07e631:0xdbaf929fec5704d6",
+            "placeId": "ChIJMeYHTP911oYR1gRX7J-Sr9s"
+        },
+        {
+            "position": 4,
+            "title": "Arizona Oncology - Rudasill Medical Oncology and Hematology",
+            "address": "2070 W Rudasill Rd # 130, Tucson, AZ 85704",
+            "latitude": 32.316122899999996,
+            "longitude": -111.01125169999999,
+            "rating": 4.5,
+            "ratingCount": 84,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-rudasill-suite-130/",
+            "phoneNumber": "(520) 797-4468",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPmgUyYbFGeGAS3ZRdkNREMT5IWAIMpDsEove5V",
+            "cid": "9069163967545301502",
+            "fid": "0x86d67490614c89b1:0x7ddc2493f74f59fe",
+            "placeId": "ChIJsYlMYZB01oYR_llP95Mk3H0"
+        },
+        {
+            "position": 5,
+            "title": "Arizona Oncology - Silverbell Medical Oncology and Hematology",
+            "address": "1620 W. St. Mary's Rd, 1620 W St Marys Rd, Tucson, AZ 85745",
+            "latitude": 32.2294201,
+            "longitude": -111.0008256,
+            "rating": 4.3,
+            "ratingCount": 20,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-st-marys/",
+            "phoneNumber": "(520) 624-7445",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMNIoXmQTvdhdnrpdBQAXEU-L4WrWLXaChXz3xF",
+            "cid": "2002033422876169076",
+            "fid": "0x86d676cd80dfe47b:0x1bc8a6ca76fe5374",
+            "placeId": "ChIJe-TfgM121oYRdFP-dsqmyBs"
+        },
+        {
+            "position": 6,
+            "title": "Arizona Oncology - Goodyear Medical Oncology, Hematology, and Radiation Oncology",
+            "address": "13555 W McDowell Rd #105, Goodyear, AZ 85395",
+            "latitude": 33.463780299999996,
+            "longitude": -112.35073179999999,
+            "rating": 3.4,
+            "ratingCount": 41,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/goodyear-medical-oncology-hematology/",
+            "phoneNumber": "(623) 469-4222",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-A5SerznMrKXYt0-kXB-4PKmQSE8kSUv2YQZhJzz0a6nxrP0goRkNzMMRGCuUxylG7K1O6m3pVsSibHdXhlz5jiRHxly0O_7WbxCDB4GU7YBl4bf6DFf2mvGqX3wYZzZep1h85",
+            "cid": "1004647226286403640",
+            "fid": "0x872b38bb79ad3ddf:0xdf139545761f038",
+            "placeId": "ChIJ3z2tebs4K4cROPBhV1Q58Q0"
+        },
+        {
+            "position": 7,
+            "title": "Arizona Oncology - Prescott Medical Oncology and Hematology",
+            "address": "5430 Landmark Ln, Prescott, AZ 86301",
+            "latitude": 34.632525,
+            "longitude": -112.42115299999999,
+            "rating": 4.5,
+            "ratingCount": 83,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/prescott-valley/",
+            "phoneNumber": "(928) 775-9430",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMcWWkfuDKzoX84GGnCkiUwTSyVXr8iOk-KiUox",
+            "cid": "3453253791644768363",
+            "fid": "0x872d23fbc3f09775:0x2fec6c070241d86b",
+            "placeId": "ChIJdZfww_sjLYcRa9hBAgds7C8"
+        },
+        {
+            "position": 8,
+            "title": "Arizona Oncology - Rincon Medical Oncology and Hematology",
+            "address": "10350 E Drexel Rd #250, Tucson, AZ 85747",
+            "latitude": 32.1456294,
+            "longitude": -110.7716141,
+            "rating": 4.3,
+            "ratingCount": 6,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-rincon/",
+            "phoneNumber": "(520) 625-6000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOsfvVOOLLGMKVoIdjljBydwlPQATkVSL2hE3al",
+            "cid": "10686430502136416600",
+            "fid": "0x86d6675f8c4e6f83:0x944dd3ec2cbd8958",
+            "placeId": "ChIJg29OjF9n1oYRWIm9LOzTTZQ"
+        },
+        {
+            "position": 9,
+            "title": "Arizona Oncology - Craycroft Radiation Oncology",
+            "address": "2625 N Craycroft Rd STE 100, Tucson, AZ 85712",
+            "latitude": 32.2547539,
+            "longitude": -110.87587219999999,
+            "rating": 4.3,
+            "ratingCount": 25,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-craycroft-radiation/",
+            "phoneNumber": "(520) 324-4214",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9cUzYG53bqK8S1VyL90IRst43f-XGyQZhtLvFdd9Exf2URsMYMhJ3zrQy37kbN8SVMkisaE1VuVGinSBCoUAfJme-LMy6P9rnH4UCZnNrnDj_pDTEIUQeqBjqYo-3GYCQeEWOdTQ",
+            "cid": "10884613791359095264",
+            "fid": "0x86d66f49fc0afcd9:0x970dea92f746d1e0",
+            "placeId": "ChIJ2fwK_Elv1oYR4NFG95LqDZc"
+        },
+        {
+            "position": 10,
+            "title": "Arizona Oncology",
+            "address": "Edwards Medical Plaza, 1300 N 12th St #614, Phoenix, AZ 85006",
+            "latitude": 33.463071299999996,
+            "longitude": -112.05674889999999,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://arizonaoncology.com/",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZnsURniwuZ-URmCh17hmYg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=262.35022&pitch=0&thumbfov=100",
+            "cid": "6334041351032772187",
+            "fid": "0x872b120dd576952d:0x57e7090cb0f1965b",
+            "placeId": "ChIJLZV21Q0SK4cRW5bxsAwJ51c"
+        },
+        {
+            "position": 11,
+            "title": "Arizona Oncology Associates, P.C",
+            "address": "Tucson, AZ 85718",
+            "latitude": 32.286884,
+            "longitude": -110.94543689999999,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(520) 624-7445",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wlgm25GYr7y1hTuidC_V0w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=196.53656&pitch=0&thumbfov=100",
+            "cid": "15263596084432713116",
+            "fid": "0x86d67233f82a2a81:0xd3d32fc4cfa7b59c",
+            "placeId": "ChIJgSoq-DNy1oYRnLWnz8Qv09M"
+        },
+        {
+            "position": 12,
+            "title": "Arizona Oncology - St. Joseph's Radiation Oncology",
+            "address": "6567 E Carondelet Dr Suite 185, Tucson, AZ 85710",
+            "latitude": 32.2269467,
+            "longitude": -110.85333609999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-carondelet-radiation/",
+            "phoneNumber": "(520) 546-1778",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO5YuoChdX3pns_q3pbKVu6XskGok6aGIYYTctX",
+            "cid": "2647934190099832446",
+            "fid": "0x86d66f0a380ad03d:0x24bf5a1dd5831e7e",
+            "placeId": "ChIJPdAKOApv1oYRfh6D1R1avyQ"
+        },
+        {
+            "position": 13,
+            "title": "Arizona Oncology - Colorectal Surgical Specialists",
+            "address": "2625 N Craycroft Rd #200, Tucson, AZ 85712",
+            "latitude": 32.254853,
+            "longitude": -110.8759293,
+            "rating": 3.3,
+            "ratingCount": 9,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/colorectal-surgical-specialists",
+            "phoneNumber": "(520) 416-5700",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPhFOPEP6cUvJiHKMXWTWJI-MSwAQVTuciM5GgA",
+            "cid": "2844134382204436862",
+            "fid": "0x86d66f83efe3522f:0x27786526d8c5417e",
+            "placeId": "ChIJL1Lj74Nv1oYRfkHF2CZleCc"
+        },
+        {
+            "position": 14,
+            "title": "Arizona Oncology - Craycroft Breast Surgical Oncology",
+            "address": "2625 N Craycroft Rd Suite 201, Tucson, AZ 85712",
+            "latitude": 32.2547539,
+            "longitude": -110.87587219999999,
+            "rating": 5,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-breast-surgical-oncology/",
+            "phoneNumber": "(520) 416-5602",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNbJR-Swd7VdAB24qAjN0aFQBkar28BkHrSyUHt",
+            "cid": "13917659045374804429",
+            "fid": "0x86d66fce67a9993f:0xc1257529b09141cd",
+            "placeId": "ChIJP5mpZ85v1oYRzUGRsCl1JcE"
+        },
+        {
+            "position": 15,
+            "title": "Arizona Hematology/oncology",
+            "address": "1891 W Orange Grove Rd, Tucson, AZ 85704",
+            "latitude": 32.322314399999996,
+            "longitude": -111.0070137,
+            "rating": 4,
+            "ratingCount": 2,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "http://deptmedicine.arizona.edu/",
+            "phoneNumber": "(520) 742-4183",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_MXWFT9TLL6rG-lAO3wm_Jr0tekWW-5HpRJYrf3E_aQawE3iJ6ek2bvsnt-9ES2GAIydwMNXVso1dCceESL4fyPNBXKN63bhedGneUrYVV1aJnDCTkbMAOM-Wt0gsxvdS24ArqRg",
+            "cid": "9218561416518093035",
+            "fid": "0x86d67498e5965c95:0x7feee8c42baec8eb",
+            "placeId": "ChIJlVyW5Zh01oYR68iuK8To7n8"
+        },
+        {
+            "position": 16,
+            "title": "Arizona Oncology Associates: Feldman Jeremy P MD",
+            "address": "2222 E Highland Ave #400, Phoenix, AZ 85016",
+            "latitude": 33.5059618,
+            "longitude": -112.0331562,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "phoneNumber": "(602) 217-8900",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZtJcNpCz-xJj9c_nCtmdUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=84.373&pitch=0&thumbfov=100",
+            "cid": "5454386470322021405",
+            "fid": "0x872b0d6fb051bc61:0x4bb1df989f3da41d",
+            "placeId": "ChIJYbxRsG8NK4cRHaQ9n5jfsUs"
+        },
+        {
+            "position": 17,
+            "title": "Arizona Oncology - Orange Grove Radiation Oncology",
+            "address": "1845 W Orange Grove Rd Bldg. 1, Tucson, AZ 85704",
+            "latitude": 32.3225334,
+            "longitude": -111.0054304,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/tucson-orange-grove-radiation/",
+            "phoneNumber": "(520) 544-2919",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNEWfUq4zMmr_RhCO0ere7_dcleStNP-Pwh49qB",
+            "cid": "9189701228045441670",
+            "fid": "0x86d6757bdbd7c50d:0x7f886093e99e9a86",
+            "placeId": "ChIJDcXX23t11oYRhpqe6ZNgiH8"
+        },
+        {
+            "position": 18,
+            "title": "Arizona Oncology - Swan Road Diagnostic Imaging",
+            "address": "2951 N Swan Rd, Tucson, AZ 85712",
+            "latitude": 32.260536,
+            "longitude": -110.8930931,
+            "rating": 3,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hematologist",
+                "Medical Center",
+                "Medical clinic",
+                "Medical office",
+                "Oncologist"
+            ],
+            "website": "https://arizonaoncology.com/locations/pet-center/",
+            "phoneNumber": "(520) 323-5900",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://arizonaoncology.com/appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO8cB4xL1HT66oyknS-verMP8n1EmxowMQlBFK2",
+            "cid": "7553949075360557596",
+            "fid": "0x86d66e184f0abe97:0x68d504a95841aa1c",
+            "placeId": "ChIJl74KTxhu1oYRHKpBWKkE1Wg"
+        },
+        {
+            "position": 19,
+            "title": "Arizona Oncology",
+            "address": "10184 W Happy Valley Rd #180, Peoria, AZ 85383",
+            "latitude": 33.713985199999996,
+            "longitude": -112.2781315,
+            "type": "Oncologist",
+            "types": [
+                "Oncologist"
+            ],
+            "website": "http://arizonaoncology.com/",
+            "phoneNumber": "(623) 487-4822",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO4hOmvL8tYAOxLtU2emncmJMct2wxDMIXjPWIW",
+            "cid": "8864042040153906822",
+            "fid": "0x872b5db1d86deb4d:0x7b03674595809e86",
+            "placeId": "ChIJTett2LFdK4cRhp6AlUVnA3s"
+        },
+        {
+            "position": 20,
+            "title": "Arizona Oncology Cancer Center",
+            "address": "1916 N 19th Ave, Phoenix, AZ 85015",
+            "latitude": 33.5244804,
+            "longitude": -112.1005514,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "cid": "11647853459018485061",
+            "fid": "0x872b6cd4b6fb91db:0xa1a57d020c9a0d45",
+            "placeId": "ChIJ25H7ttRsK4cRRQ2aDAJ9paE"
+        }
+    ],
+    "credits": 3
+}

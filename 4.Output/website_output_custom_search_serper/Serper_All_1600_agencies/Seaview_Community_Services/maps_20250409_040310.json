@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Seaview Community Services",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.1005314,-149.4416448,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "SeaView Community Services",
+            "address": "302 Railway Ave, Seward, AK 99664",
+            "latitude": 60.100531399999994,
+            "longitude": -149.4416448,
+            "rating": 4.2,
+            "ratingCount": 23,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Mental health clinic"
+            ],
+            "website": "http://www.seaviewseward.org/",
+            "phoneNumber": "(907) 224-5257",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-htIthjzLyhBMyLmH4dHdWcCDb67CNVlV9zA8zAWgAOvaKQl_7GnQZ9dEF7EgENXMtQQ40SGSRlxxq5REFHEjxyACHEbzBUiFfWCP5TgkyCAJ9nKk0mu3eVb6HnSZbZJaOZo_wvQ",
+            "cid": "16627730730910684238",
+            "fid": "0x56c79c617e6ad68d:0xe6c1910094c7144e",
+            "placeId": "ChIJjdZqfmGcx1YRThTHlACRweY"
+        }
+    ],
+    "credits": 3
+}

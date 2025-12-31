@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence Alaska Children's Hospital - Pediatric Subspecialties Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.186203,-149.822953,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Alaska Children's Hospital - Pediatric Subspecialties Clinic",
+            "address": "3831 Piper St S Tower, Ste S-220, Anchorage, AK 99508",
+            "latitude": 61.186203,
+            "longitude": -149.82295299999998,
+            "rating": 3.5,
+            "ratingCount": 8,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/alaska-childrens-hospital/pediatric-subspecialties-clinic?ls=location&y_source=1_OTU3NTY5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(907) 212-4824",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOixLkCinitmIgIY0CuYinMoaGpeA1yd-rAxGOx",
+            "cid": "2290182362394033312",
+            "fid": "0x56c89701a0853c29:0x1fc85cb9855c7ca0",
+            "placeId": "ChIJKTyFoAGXyFYRoHxchblcyB8"
+        }
+    ],
+    "credits": 3
+}

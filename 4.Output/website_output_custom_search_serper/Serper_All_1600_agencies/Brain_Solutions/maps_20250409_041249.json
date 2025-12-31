@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Brain Solutions",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.3799182,-111.8607133,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brain Solutions PLLC",
+            "address": "1930 S Alma School Rd STE A206, Mesa, AZ 85210",
+            "latitude": 33.3799182,
+            "longitude": -111.8607133,
+            "rating": 4.6,
+            "ratingCount": 38,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic",
+                "Counselor",
+                "Psychiatrist",
+                "Psychologist",
+                "Psychotherapist"
+            ],
+            "website": "http://brainsolutionscenter.com/",
+            "phoneNumber": "(480) 779-9050",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOrDXZmpYBbBo4xf8y4JxoOOjgbftajb6TMfF9h",
+            "cid": "7093400093257294473",
+            "fid": "0x872b00b15438a0dd:0x6270d1cd6852e289",
+            "placeId": "ChIJ3aA4VLEAK4cRieJSaM3RcGI"
+        }
+    ],
+    "credits": 3
+}

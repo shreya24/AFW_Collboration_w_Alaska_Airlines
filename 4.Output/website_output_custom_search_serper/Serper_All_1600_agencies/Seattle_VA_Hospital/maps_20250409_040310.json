@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Seattle VA Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.5629361,-122.3079903,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "VA Puget Sound Health Care System",
+            "address": "1660 S Columbian Way, Seattle, WA 98108",
+            "latitude": 47.562936099999995,
+            "longitude": -122.3079903,
+            "rating": 3.8,
+            "ratingCount": 523,
+            "type": "Veterans hospital",
+            "types": [
+                "Veterans hospital",
+                "Military hospital"
+            ],
+            "website": "http://www.pugetsound.va.gov/",
+            "phoneNumber": "(206) 762-1010",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_Zv7EN7z2YsYFuT2coEvY-FF9DlkZQLRT1kwaxFdYoZsMr4RksBIOPCIOTqtoX-uDu8y0WK2z6qj7lwdlGsluwFj3UUYUNX8lau6bhbOaSdFGyzWSYjt1zEai2DotW_g3d4Yk",
+            "cid": "5788650830276156153",
+            "fid": "0x549041d8d6d20811:0x50556b42b3615af9",
+            "placeId": "ChIJEQjS1thBkFQR-Vphs0JrVVA"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,602 @@
+{
+    "searchParameters": {
+        "q": "Bean's Cafe",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3190267,-117.2354393,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "bean here coffee",
+            "address": "4340 Sienna Pkwy #102, Missouri City, TX 77459",
+            "latitude": 29.5133227,
+            "longitude": -95.5267641,
+            "rating": 4.6,
+            "ratingCount": 500,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop",
+                "Coffee roasters",
+                "Pastry shop",
+                "Tea house"
+            ],
+            "website": "https://www.beanhere.coffee/",
+            "phoneNumber": "(281) 778-6858",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9rvANYUsEutFjl17PYcBnZgN2zqjnQ6zqWasun6z-m2-a9z58Be9WyqZW7f9Y8Laa0pEaboRKuNmJ6Pp9yCP19wKC0l-2cZifl9H2WIDDYUo1enmkt7fQa7lkUT1epJX_OLJeD",
+            "cid": "1980079467235660638",
+            "fid": "0x8640efb63bde2451:0x1b7aa7c8d7a0535e",
+            "placeId": "ChIJUSTeO7bvQIYRXlOg18inehs"
+        },
+        {
+            "position": 2,
+            "title": "Beans Up Coffee",
+            "address": "3306 S Texas 6 Suite 300, Houston, TX 77082",
+            "latitude": 29.722601299999997,
+            "longitude": -95.644663,
+            "rating": 4.5,
+            "ratingCount": 211,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "phoneNumber": "(281) 741-9416",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7:30\u202fAM\u20136\u202fPM",
+                "Sunday": "7:30\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQYU6SHoRVP3XaxSY58-kXVr81z2D-B1x_OCZr",
+            "cid": "3284539897234796674",
+            "fid": "0x8640dd94420b8e4b:0x2d9507a261473082",
+            "placeId": "ChIJS44LQpTdQIYRgjBHYaIHlS0"
+        },
+        {
+            "position": 3,
+            "title": "Bangin Beanz Coffee",
+            "address": "710 S Acme Rd, San Antonio, TX 78237",
+            "latitude": 29.419780099999997,
+            "longitude": -98.5872066,
+            "rating": 4.8,
+            "ratingCount": 140,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6\u202fAM\u20136\u202fPM",
+                "Sunday": "6\u202fAM\u20136\u202fPM",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP4QmLWfxmsDtBiQsNeewd61VfTATiZC6H1h1Yq",
+            "cid": "12843792300585994244",
+            "fid": "0x865c5d88a7ad4f55:0xb23e510c4d534804",
+            "placeId": "ChIJVU-tp4hdXIYRBEhTTQxRPrI"
+        },
+        {
+            "position": 4,
+            "title": "Uncle Bean\u2019s Coffee",
+            "address": "3024 Houston Ave, Houston, TX 77009",
+            "latitude": 29.7863817,
+            "longitude": -95.37193409999999,
+            "rating": 4.6,
+            "ratingCount": 418,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "website": "https://unclebeanscoffee.com/",
+            "phoneNumber": "(832) 831-9016",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "7\u202fAM\u20135\u202fPM",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-fII8Vlm24-L7vK-bHbGPJwuxVX8QxhEJEx4KTxRxGZ_D1IMt0T5gC4Dr_Z14OHdVsXatdvS2d8rzpf407XbcNDO8VlnCsWdKM9Yd46KkTUPqQFnDUe-Lz7_trkMkSjwXWdMDS",
+            "cid": "10141917403283403238",
+            "fid": "0x8640b96d7d8db94d:0x8cbf5424e40f31e6",
+            "placeId": "ChIJTbmNfW25QIYR5jEP5CRUv4w"
+        },
+        {
+            "position": 5,
+            "title": "The Cosmic Bean",
+            "address": "5834 Spencer Hwy, Pasadena, TX 77505",
+            "latitude": 29.665302399999998,
+            "longitude": -95.1515508,
+            "rating": 5,
+            "ratingCount": 98,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "phoneNumber": "(832) 248-6723",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20137\u202fPM",
+                "Wednesday": "6\u202fAM\u20137\u202fPM",
+                "Thursday": "6\u202fAM\u20137\u202fPM",
+                "Friday": "6\u202fAM\u20137\u202fPM",
+                "Saturday": "6\u202fAM\u20137\u202fPM",
+                "Sunday": "6\u202fAM\u20137\u202fPM",
+                "Monday": "6\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_1e-ZWWNbFaIf6vNDrNMuFEYTE_aPha2s2toHzGMcddAqY6rKEBgs69DYySuNt3LiVyzeXBNsFWjyy4rEM_HqmfrbhcByU70qkUc5i0nrl6CYR-9xpSawzdmAUXzL4kJk18xD9Kg",
+            "cid": "1638714266223961663",
+            "fid": "0x8640991e90989fc7:0x16bde1f15ea4e63f",
+            "placeId": "ChIJx5-YkB6ZQIYRP-akXvHhvRY"
+        },
+        {
+            "position": 6,
+            "title": "bean here coffee",
+            "address": "8215 Hwy 6, Missouri City, TX 77459",
+            "latitude": 29.5439768,
+            "longitude": -95.5466758,
+            "rating": 4.8,
+            "ratingCount": 225,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "website": "http://beanhere.coffee/",
+            "phoneNumber": "(281) 656-6692",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6\u202fAM\u20136\u202fPM",
+                "Sunday": "8\u202fAM\u20136\u202fPM",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_4ApSttliDyKt9OeQyObo7hRJguqBbk0bVVbG3c0PET-XC-9InLG6NRyxWBpy0r6_VSITGY4pK_OCEUo8RwwiRB31iiMEgMkhqFVuA_-ZU1NptVhCqERRdFA5r8rGDtO928HpLOA",
+            "cid": "11521575781328370957",
+            "fid": "0x8640ef569c475605:0x9fe4dc2112d23d0d",
+            "placeId": "ChIJBVZHnFbvQIYRDT3SEiHc5J8"
+        },
+        {
+            "position": 7,
+            "title": "Dancin' Beans",
+            "address": "Glade Parks, 1230 Red River Dr Suite 300, Euless, TX 76039",
+            "latitude": 32.8756803,
+            "longitude": -97.1028278,
+            "rating": 4.7,
+            "ratingCount": 101,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop",
+                "Bakery",
+                "Cafe"
+            ],
+            "website": "https://www.dancinbeans.com/",
+            "phoneNumber": "(626) 941-4422",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "10\u202fAM\u20136\u202fPM",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB84mArGQAwUNwERkBHCYWv9YO29Ef4UkGCyD39kD_8Me4cHfHZqHXIr0ZPB0JPZGwZVy6GCb99q44fCS82KDWroOKpVVUFZpP6v1kapukoOc8wQnOEYFc5TVzU0gxSytK83egtV7Q",
+            "cid": "3680541356604439945",
+            "fid": "0x864e7f41a5c317df:0x3313e8dd0d8abd89",
+            "placeId": "ChIJ3xfDpUF_ToYRib2KDd3oEzM"
+        },
+        {
+            "position": 8,
+            "title": "Bean & Bottle",
+            "address": "9655 Katy Fwy Suite 100, Houston, TX 77024",
+            "latitude": 29.782795999999998,
+            "longitude": -95.5304713,
+            "rating": 4.5,
+            "ratingCount": 228,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop",
+                "Event venue",
+                "Wine bar"
+            ],
+            "website": "https://beanandbottletx.com/",
+            "phoneNumber": "(281) 501-2336",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "8\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-0cTPiylSs_gUwM8ofZGYGUsLZy8-A_xJbg838hIjD-4EFRbRlH_AEcmzygIJm8_-v9RBWkIbpNjvjareQWPlq33eL3LpjJ-bDsAgxHoE5hl9uePvXyv0qeAm7q7NCLVDiIy50TQ",
+            "cid": "8401803173002866009",
+            "fid": "0x8640c58fd8efc3f5:0x749933789f95ed59",
+            "placeId": "ChIJ9cPv2I_FQIYRWe2Vn3gzmXQ"
+        },
+        {
+            "position": 9,
+            "title": "bean here coffee lab & studios",
+            "address": "310 McKeever Rd Unit A1, Arcola, TX 77583",
+            "latitude": 29.5078969,
+            "longitude": -95.4663027,
+            "rating": 4.8,
+            "ratingCount": 135,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop",
+                "Coffee roasters",
+                "Event venue"
+            ],
+            "website": "http://fb.me/beanherecoffeelab/",
+            "phoneNumber": "(281) 915-5762",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "8\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONvw0NR0sl8Dl2aCtnpph7IGPhJZRAAa7vePnn",
+            "cid": "5207003496289923925",
+            "fid": "0x8640eddb50060eeb:0x4842fe178c93f355",
+            "placeId": "ChIJ6w4GUNvtQIYRVfOTjBf-Qkg"
+        },
+        {
+            "position": 10,
+            "title": "Beans Up Coffee",
+            "address": "5405 Hwy 6 Suite 100, Missouri City, TX 77459",
+            "latitude": 29.574457199999998,
+            "longitude": -95.57301609999999,
+            "rating": 4.7,
+            "ratingCount": 127,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "phoneNumber": "(346) 585-3017",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "7:30\u202fAM\u20136\u202fPM",
+                "Sunday": "7:30\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-vkdFdHou8pQL69NJSYVEcjgbjCFOgGLlgNxn-rvDYvNZBHxlhusn3CyjjLKpjN6gF5dKYtfPAqIk3tds7bwhJ_H31nau0HpXxN6X0VvMsCBLj9ndL4J81UZaxf5SdaGisS3TI",
+            "cid": "16818451039448100919",
+            "fid": "0x8640e5de8c447d89:0xe967241cc69a7037",
+            "placeId": "ChIJiX1EjN7lQIYRN3CaxhwkZ-k"
+        },
+        {
+            "position": 11,
+            "title": "Coffee Bean Bazaar",
+            "address": "Inside HEB, 3601 FM 1488, The Woodlands, TX 77384",
+            "latitude": 30.2261396,
+            "longitude": -95.51933609999999,
+            "rating": 4.9,
+            "ratingCount": 92,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "website": "https://www.coffeebeanbazaar.com/",
+            "phoneNumber": "(346) 610-6101",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20136\u202fPM",
+                "Wednesday": "7\u202fAM\u20136\u202fPM",
+                "Thursday": "7\u202fAM\u20136\u202fPM",
+                "Friday": "7\u202fAM\u20136\u202fPM",
+                "Saturday": "7\u202fAM\u20136\u202fPM",
+                "Sunday": "7\u202fAM\u20136\u202fPM",
+                "Monday": "7\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUmQIMmBpmHCZAxm7Gio7HU2toMW9fiTO41Rqv",
+            "cid": "3635308710983516061",
+            "fid": "0x86473131c962f2ed:0x327336030f0e3f9d",
+            "placeId": "ChIJ7fJiyTExR4YRnT8ODwM2czI"
+        },
+        {
+            "position": 12,
+            "title": "World Bean",
+            "address": "3950 S Terminal Rd, Houston, TX 77032",
+            "latitude": 29.9876056,
+            "longitude": -95.3428467,
+            "rating": 3.9,
+            "ratingCount": 92,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "website": "https://www.fly2houston.com/iah/dine/cibo-express-gourmet-marketworld-bean-C15",
+            "phoneNumber": "(866) 508-3558",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20139\u202fPM",
+                "Wednesday": "6\u202fAM\u20139\u202fPM",
+                "Thursday": "6\u202fAM\u20139\u202fPM",
+                "Friday": "6\u202fAM\u20139\u202fPM",
+                "Saturday": "6\u202fAM\u20139\u202fPM",
+                "Sunday": "6\u202fAM\u20139\u202fPM",
+                "Monday": "6\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_d_ADxOCnwO01SrFRkvX_3yjpJ6Cqod92uVwotBFiiUx15JlohjvJ3gTYSH33JJu9MyiAi9WYVX-NkCYD25FM3zepugQCM8or_BK8sbNPlCr2InM4EmdCdIOXp756FhN18n8aFCA",
+            "cid": "11089004402240686330",
+            "fid": "0x8640b44f4a179d69:0x99e40ec0744c88fa",
+            "placeId": "ChIJaZ0XSk-0QIYR-ohMdMAO5Jk"
+        },
+        {
+            "position": 13,
+            "title": "The Bean Bus",
+            "address": "2001 Karbach St Suite K, Houston, TX 77092",
+            "latitude": 29.8044831,
+            "longitude": -95.4613174,
+            "type": "Restaurant",
+            "types": [
+                "Restaurant"
+            ],
+            "phoneNumber": "(281) 995-7392",
+            "openingHours": {
+                "Tuesday": "6\u202fAM\u20136\u202fPM",
+                "Wednesday": "6\u202fAM\u20136\u202fPM",
+                "Thursday": "6\u202fAM\u20136\u202fPM",
+                "Friday": "6\u202fAM\u20136\u202fPM",
+                "Saturday": "6\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "6\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNOh3baKgQDuWoc1NPOg0WX5IS9vPUMt3UmJG6s",
+            "cid": "4378561623986023531",
+            "fid": "0x8640c735feddeb7f:0x3cc3c69930d82c6b",
+            "placeId": "ChIJf-vd_jXHQIYRayzYMJnGwzw"
+        },
+        {
+            "position": 14,
+            "title": "Cool Beans Cafe and Bakery",
+            "address": "1155 Pressler St, Houston, TX 77030",
+            "latitude": 29.7045088,
+            "longitude": -95.4011063,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop"
+            ],
+            "website": "https://www.mdanderson.org/patients-family/becoming-our-patient/services-amenities/dining-services.html",
+            "phoneNumber": "(713) 792-2288",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "6:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "6:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "6:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "6:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9uPsUR9AGFXuWGasZ9oI-w9tERnyxWOapUojMGIcbSpyGMA9LAlVYKQkYlPgBSNBi4XoxWG8QWs4lzj38eVUeY-o6r5zrQ8gROTsWyNrQKtKnA6V0y5TzJ3H_l_dFz9F0-vuIg",
+            "cid": "3093672057437304559",
+            "fid": "0x8640c1657ef44c63:0x2aeeee58631a36ef",
+            "placeId": "ChIJY0z0fmXBQIYR7zYaY1ju7io"
+        },
+        {
+            "position": 15,
+            "title": "Best Bean",
+            "address": "Natchez, MS 39120",
+            "latitude": 31.5545118,
+            "longitude": -91.3849723,
+            "type": "Cafe",
+            "types": [
+                "Cafe"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WesJ7ZVKM_iLR69TgbErMA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=148.86942&pitch=0&thumbfov=100",
+            "cid": "125456649418572259",
+            "fid": "0x8625f76ad01e1a8b:0x1bdb6286f4e01e3",
+            "placeId": "ChIJixoe0Gr3JYYR4wFObyi2vQE"
+        },
+        {
+            "position": 16,
+            "title": "La Tazza Specialty Coffee",
+            "address": "8427 Stella Link Rd Suite B, Houston, TX 77025",
+            "latitude": 29.6927141,
+            "longitude": -95.43932199999999,
+            "rating": 4.8,
+            "ratingCount": 168,
+            "priceLevel": "$1\u201310",
+            "type": "Coffee shop",
+            "types": [
+                "Coffee shop",
+                "Breakfast restaurant",
+                "Coffee store",
+                "Dessert restaurant",
+                "Lunch restaurant",
+                "Pastry shop"
+            ],
+            "website": "http://www.latazzacoffee.com/",
+            "phoneNumber": "(346) 692-3094",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20135\u202fPM",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_ouGeoQ37RgmqWmhZ2QLmQXMZbpc4qQIm1tWQryTncoQdZc50GJt2JgjAJbkSDCoxRXikwZfO5OaOwys9HNrwak_XX2bldHOn5F_CTtCDxTxbzgbw1p7OfZSmfXi0rRs3nqKY4",
+            "cid": "604261236638655105",
+            "fid": "0x8640c1f17a4006fd:0x862c464a962a281",
+            "placeId": "ChIJ_QZAevHBQIYRgaJiqWTEYgg"
+        },
+        {
+            "position": 17,
+            "title": "Bean's Cafe and The Children's Lunchbox",
+            "address": "1020 E 4th Ave, Anchorage, AK 99501",
+            "latitude": 61.2182732,
+            "longitude": -149.86396259999998,
+            "rating": 3.7,
+            "ratingCount": 141,
+            "type": "Homeless service",
+            "types": [
+                "Homeless service",
+                "Food bank"
+            ],
+            "website": "http://www.beanscafe.org/",
+            "phoneNumber": "(907) 433-8601",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8caizTKCgm9pzYSz2C-vmtdJFai7CWxoQrbKQBoizmfQTobaSienx4XghXLb_fNeE_l6sVr4c0L3Llwd9EJca1fFIz9e5f3V31UOPWU7CgZ-xr5d_hkkQIP-q_xu3MpJrT6As",
+            "cid": "850647160718276827",
+            "fid": "0x56c89624ccb1a477:0xbce1b15f3ceb8db",
+            "placeId": "ChIJd6SxzCSWyFYR27jO8xUbzgs"
+        },
+        {
+            "position": 18,
+            "title": "Beans",
+            "address": "21 Taft Hwy, Dry Ridge, KY 41035",
+            "latitude": 38.683157,
+            "longitude": -84.606916,
+            "rating": 4.6,
+            "ratingCount": 1659,
+            "priceLevel": "$10\u201320",
+            "type": "Cafe",
+            "types": [
+                "Cafe",
+                "Bakery",
+                "Breakfast restaurant",
+                "Restaurant",
+                "Caterer",
+                "Lunch restaurant"
+            ],
+            "website": "http://www.beanscafeandbakery.com/",
+            "phoneNumber": "(859) 823-2326",
+            "description": "Local stop for fresh donuts, full breakfasts, homemade baked goods & deli produce.",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138\u202fPM",
+                "Wednesday": "7\u202fAM\u20138\u202fPM",
+                "Thursday": "7\u202fAM\u20138\u202fPM",
+                "Friday": "7\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_lBnVL3y3uzto2okJco0J_rQt_HDrXqKU7zJV34Gdtpoh5X92B4VW59ITbNn9Y_vYdI6HEpnPaKX-kCo_3lf_dccdxWl5V267BsfOnTq7mygvAMWQupHZ_mcK0EXRDfWD8pyX5Hw",
+            "cid": "12463434303394000286",
+            "fid": "0x88418d4467971fb7:0xacf70376ff37ad9e",
+            "placeId": "ChIJtx-XZ0SNQYgRnq03_3YD96w"
+        },
+        {
+            "position": 19,
+            "title": "Bloom & Bee",
+            "address": "1600 W Loop S, Houston, TX 77027",
+            "latitude": 29.751882799999997,
+            "longitude": -95.4573022,
+            "rating": 4.2,
+            "ratingCount": 965,
+            "priceLevel": "$50\u2013100",
+            "type": "Cafe",
+            "types": [
+                "Cafe",
+                "American restaurant",
+                "Brunch restaurant",
+                "Restaurant",
+                "Tea house"
+            ],
+            "website": "http://www.thepostoakhotel.com/restaurants/bloom-&-Bee/",
+            "phoneNumber": "(346) 227-5139",
+            "description": "Chic pastel-&-floral accented stop for elevated, seasonal plates & cocktails plus an outdoor patio.",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20139\u202fPM",
+                "Wednesday": "7\u202fAM\u20139\u202fPM",
+                "Thursday": "7\u202fAM\u20139\u202fPM",
+                "Friday": "7\u202fAM\u201310\u202fPM",
+                "Saturday": "7\u202fAM\u201310\u202fPM",
+                "Sunday": "7\u202fAM\u20139\u202fPM",
+                "Monday": "7\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.thepostoakhotel.com/restaurants/bloom-&-Bee/",
+                "https://www.opentable.com/restaurant/profile/1006207?ref=1068",
+                "https://www.google.com/maps/reserve/v/dine/c/W8txGtw2P5o?source=pa&opi=79508299"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9zU8-G3pLcIfRBQY1mXgDDJ_F9CgKGfjtkp45DYb6h-CNwIW9YdVcFXBKcw1Br-Xuo6BpKF5q4s_qcOK7_LRKkF-r78lovt3p0wxvlSDE3hahE0j3i-u_92K_5gF54BsSxuKQL",
+            "cid": "17737339908219523135",
+            "fid": "0x8640c147537a8195:0xf627b0ab89c8d03f",
+            "placeId": "ChIJlYF6U0fBQIYRP9DIiauwJ_Y"
+        },
+        {
+            "position": 20,
+            "title": "7 Leaves Cafe",
+            "address": "9798 Bellaire Blvd suite b, Houston, TX 77036",
+            "latitude": 29.705040399999998,
+            "longitude": -95.5542687,
+            "rating": 4.5,
+            "ratingCount": 429,
+            "priceLevel": "$1\u201310",
+            "type": "Cafe",
+            "types": [
+                "Cafe",
+                "Coffee shop",
+                "Dessert shop",
+                "Tea house"
+            ],
+            "website": "http://7leavescafe.com/",
+            "phoneNumber": "(832) 409-5538",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201310\u202fPM",
+                "Wednesday": "8\u202fAM\u201310\u202fPM",
+                "Thursday": "8\u202fAM\u201310\u202fPM",
+                "Friday": "8\u202fAM\u201311\u202fPM",
+                "Saturday": "8\u202fAM\u201311\u202fPM",
+                "Sunday": "8\u202fAM\u201310\u202fPM",
+                "Monday": "8\u202fAM\u201310\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9LiP8DsZ0GGFJAIfZpP7Zn1QCfIB2PfpWbncSOv-Pr7LrZsZf8IRs76XI0CCQqZ3b1mEanSkjm2pT0xUCPeLAOG2KpH8muXJrAd7RNcQ8RYv-6-e-Nzk83GXOfUQKWIqZJIXhT",
+            "cid": "7454665450170201238",
+            "fid": "0x8640c3001c41bfaf:0x67744abafcc5b496",
+            "placeId": "ChIJr79BHADDQIYRlrTF_LpKdGc"
+        }
+    ],
+    "credits": 3
+}

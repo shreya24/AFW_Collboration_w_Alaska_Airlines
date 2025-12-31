@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "Holy Family Cancer Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.9022868,-102.5417337,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cancer Center - Froedtert Holy Family Memorial Hospital",
+            "address": "2300 Western Ave, Manitowoc, WI 54220",
+            "latitude": 44.094895,
+            "longitude": -87.6763994,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "phoneNumber": "(920) 320-2749",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gWDAf7Wk8UjyE9ChdsaPhw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=24.635498&pitch=0&thumbfov=100",
+            "cid": "18144901023025686127",
+            "fid": "0x8803372fb8fb9351:0xfbcfa3583a11666f",
+            "placeId": "ChIJUZP7uC83A4gRb2YROlijz_s"
+        },
+        {
+            "position": 2,
+            "title": "Providence Cancer Center at Holy Family Hospital",
+            "address": "5633 N Lidgerwood St, Spokane, WA 99208",
+            "latitude": 47.709678499999995,
+            "longitude": -117.407068,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center"
+            ],
+            "website": "https://www.providence.org/locations/wa/holy-family-hospital/cancer-services?ls=location&y_source=1_MjA0MzA2NDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(509) 482-0111",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMSoEImUPxKAqGZ0uVfojQp0iz6kBDSqfdJ4IQF",
+            "cid": "811225626924940808",
+            "fid": "0x549e194bb852ea87:0xb420d68dd8dfe08",
+            "placeId": "ChIJh-pSuEsZnlQRCP6N3WgNQgs"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Healthy Families of Clallam County",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1111715,-123.4123795,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Healthy Families of Clallam County",
+            "address": "1210 E Front St C, Port Angeles, WA 98362",
+            "latitude": 48.1111715,
+            "longitude": -123.4123795,
+            "rating": 4,
+            "ratingCount": 43,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://www.healthyfam.org/",
+            "phoneNumber": "(360) 452-3811",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GaEjhPfUpOKqBU1WAykjgQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=186.36627&pitch=0&thumbfov=100",
+            "cid": "4151126997116339654",
+            "fid": "0x548fb1a95df25fed:0x399bc402a0a745c6",
+            "placeId": "ChIJ7V_yXamxj1QRxkWnoALEmzk"
+        }
+    ],
+    "credits": 3
+}

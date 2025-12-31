@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "UCSD Jacobs Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8777169,-117.2262295,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jacobs Medical Center at UC San Diego Health",
+            "address": "9300 Campus Point Dr, San Diego, CA 92037",
+            "latitude": 32.877716899999996,
+            "longitude": -117.22622949999999,
+            "rating": 3.9,
+            "ratingCount": 275,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/9300-campus-point-drive/10?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-CgzQPTjZoDMzwHXGWYhvy3yAGpR_W4eGMND3Mkc9AnRUbYGgmwD44tyCI2qGb5pMHutqGbuOTfpI_KVmRbCqFq0AzHRo139qm2vlSgiox5yICT866tqvJNnDnwunpEqn609syIQ",
+            "cid": "3454138401659834977",
+            "fid": "0x80dc06da1d17d26f:0x2fef909353f85261",
+            "placeId": "ChIJb9IXHdoG3IARYVL4U5OQ7y8"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,518 @@
+{
+    "searchParameters": {
+        "q": "UCSD Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.8872413,-117.1622924,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jacobs Medical Center at UC San Diego Health",
+            "address": "9300 Campus Point Dr, San Diego, CA 92037",
+            "latitude": 32.877716899999996,
+            "longitude": -117.22622949999999,
+            "rating": 3.9,
+            "ratingCount": 275,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/9300-campus-point-drive/10?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOG92Hq1a6NZEzdFfuxk20ln-u5PIGbVpk3AT3L",
+            "cid": "3454138401659834977",
+            "fid": "0x80dc06da1d17d26f:0x2fef909353f85261",
+            "placeId": "ChIJb9IXHdoG3IARYVL4U5OQ7y8"
+        },
+        {
+            "position": 2,
+            "title": "UCSD Medical Group",
+            "address": "9300 Campus Point Dr, La Jolla, CA 92037",
+            "latitude": 32.878366299999996,
+            "longitude": -117.22584119999999,
+            "rating": 2.5,
+            "ratingCount": 19,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "http://health.ucsd.edu/Pages/default.aspx",
+            "phoneNumber": "(858) 657-7100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_5cUBGhfQrL3eohn-yIPqKl5Vmumi3E-Yz5EGJ8QKUn_q881F_OziuAoPG7Ql5R9sX51pxcMD6ssJ4bu8BvKzZL_kxd2p5coXZDY4vRWM_FAT4tEre-QDLWDvHowokzBRvpbsm6g",
+            "cid": "18431597035631762007",
+            "fid": "0x80dc06d98d773b05:0xffca2fd95ff95a57",
+            "placeId": "ChIJBTt3jdkG3IARV1r5X9kvyv8"
+        },
+        {
+            "position": 3,
+            "title": "UC San Diego Health \u2013 UTC",
+            "address": "4303 La Jolla Village Dr Suite 2110, L1, San Diego, CA 92122",
+            "latitude": 32.8716876,
+            "longitude": -117.2135215,
+            "rating": 3.7,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Gastroenterologist"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/4303-la-jolla-village-drive/4303-92122?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOepjp6siPJZ5oRfs4mflO3h42a0UxRrz6mvYBJ",
+            "cid": "15196274934844273559",
+            "fid": "0x80dc07b7fec576f7:0xd2e4038a3890b397",
+            "placeId": "ChIJ93bF_rcH3IARl7OQOIoD5NI"
+        },
+        {
+            "position": 4,
+            "title": "UCSD Student Health Services",
+            "address": "9521 Mandeville Ln, La Jolla, CA 92093",
+            "latitude": 32.879380399999995,
+            "longitude": -117.2379991,
+            "rating": 2.2,
+            "ratingCount": 70,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://studenthealth.ucsd.edu/",
+            "phoneNumber": "(858) 534-3300",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-vGeJrE6c5Z2ur5nEGpiMUIIXsJJ3b5bI5TsdXU1ZSotlr156axrRKLxuck-glyxev3_SFsi_BpFd6-yQ0urMwFZcRuVTgZlNOgTHWABhIK01BK-e_C3juBxH_y2DWj7vi-tKb",
+            "cid": "1591242524041453502",
+            "fid": "0x80dc06c5852f758d:0x16153aa514fc9fbe",
+            "placeId": "ChIJjXUvhcUG3IARvp_8FKU6FRY"
+        },
+        {
+            "position": 5,
+            "title": "Hillcrest Medical Center at UC San Diego Health",
+            "address": "200 W Arbor Dr, San Diego, CA 92103",
+            "latitude": 32.753879999999995,
+            "longitude": -117.16555,
+            "rating": 3.1,
+            "ratingCount": 489,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Medical Center",
+                "University hospital"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/200-w.-arbor-drive/7000-02002?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9ej8rlOBkzTUZqhMC6hJ-Qnq499irLuKrzEiMnuepVjlN1koRpXhJaC4YMpvO_gfLodbK7sxo8xyb80eq5c_CAoQ81U2p94VD2Eg6qJGGjJm6kljj-gBJiDDXJwFpIOzjVHzk",
+            "cid": "9238643860163141024",
+            "fid": "0x80d954d63eb5d0d7:0x803641a4735e1da0",
+            "placeId": "ChIJ19C1PtZU2YARoB1ec6RBNoA"
+        },
+        {
+            "position": 6,
+            "title": "Ucsd Medical Center Rad",
+            "address": "200 W Arbor Dr, San Diego, CA 92103",
+            "latitude": 32.7543838,
+            "longitude": -117.1658336,
+            "rating": 4.4,
+            "ratingCount": 44,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(619) 543-6222",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB99QhLzwFQ2YekQ3SVg2CdcqOkoKi6FTB7mO86xmH1Lp_B5-Lm-Ti65uUjnzQ0KZbJhlTU6FbafqGl8HWobA3JxfdBuE8CfIF5JjFu5anXV5ks-WXz1jhfJqGeT8i5BWcpTnygo",
+            "cid": "10399852795450384677",
+            "fid": "0x80d954d63f1ebe91:0x9053b304452c6125",
+            "placeId": "ChIJkb4eP9ZU2YARJWEsRQSzU5A"
+        },
+        {
+            "position": 7,
+            "title": "UC San Diego Health Emergency Department (ER) - La Jolla",
+            "address": "Between Sulpizio entrance and Jacoba west entrance, 9434 Medical Ctr Dr, La Jolla, CA 92037",
+            "latitude": 32.8789035,
+            "longitude": -117.225894,
+            "rating": 1.9,
+            "ratingCount": 211,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room",
+                "Emergency care service"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/9300-campus-point-drive?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7600",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNphpMpCgHTv1OfUB-3virr33EKJ5uqsF3_-Cv9",
+            "cid": "6474297337726713753",
+            "fid": "0x80dc06d98d773b05:0x59d9532059753f99",
+            "placeId": "ChIJBTt3jdkG3IARmT91WSBT2Vk"
+        },
+        {
+            "position": 8,
+            "title": "Perlman Medical Offices at UC San Diego Health",
+            "address": "9350 Campus Point Dr, La Jolla, CA 92037",
+            "latitude": 32.8780876,
+            "longitude": -117.2247074,
+            "rating": 3.8,
+            "ratingCount": 43,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center",
+                "Medical laboratory"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/9350-campus-point-drive?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/request_appt/Pages/default.aspx?utm_source=googlemybusinessappt&utm_medium=organic"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-vlC-quv9nhZf3pQJhndGK4GP7eKtFEDdqciT_MepopGyQz5AUZtso7WNCiO2QJbIgHDp1cXd8dECISOJnFOf_WzDp38RXLfpYjkbt8OjZsE9JyVbpoQoxUlcNXICYig984VG09Q",
+            "cid": "15049241225171270389",
+            "fid": "0x80dc06d9efc561cf:0xd0d9a528f57f7af5",
+            "placeId": "ChIJz2HF79kG3IAR9Xp_9Sil2dA"
+        },
+        {
+            "position": 9,
+            "title": "UC San Diego Health",
+            "address": "4520 Executive Dr, San Diego, CA 92121",
+            "latitude": 32.8764085,
+            "longitude": -117.21029899999999,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "https://jobs.ucsd.edu/",
+            "phoneNumber": "(858) 657-8737",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kNYuMtuFaxbRgVCeMImCRQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.96658&pitch=0&thumbfov=100",
+            "cid": "18221291104497483310",
+            "fid": "0x80dc072e6ccba6d5:0xfcdf07b8108ebe2e",
+            "placeId": "ChIJ1abLbC4H3IARLr6OELgH3_w"
+        },
+        {
+            "position": 10,
+            "title": "UC San Diego Health Medical Offices North",
+            "address": "200 W Arbor Dr, San Diego, CA 92103",
+            "latitude": 32.7540969,
+            "longitude": -117.16519179999999,
+            "rating": 4.2,
+            "ratingCount": 13,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/200-w.-arbor-drive/7000-02001?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(619) 543-6222",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMtYXW543TMsH6U57u7jT8vtcflWQvMgEdX8kRP",
+            "cid": "12603792104166204281",
+            "fid": "0x80d954d63bf60b5f:0xaee9aa2417b32379",
+            "placeId": "ChIJXwv2O9ZU2YAReSOzFySq6a4"
+        },
+        {
+            "position": 11,
+            "title": "UC San Diego Health Urgent Care\u2013 Villa La Jolla",
+            "address": "8910 Villa La Jolla Dr, San Diego, CA 92037",
+            "latitude": 32.8704434,
+            "longitude": -117.23431679999999,
+            "rating": 3.4,
+            "ratingCount": 304,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic"
+            ],
+            "website": "https://health.ucsd.edu/care/walk-in-same-day/urgent-care/?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(800) 926-8273",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20138\u202fPM",
+                "Sunday": "8\u202fAM\u20138\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO_DkFlh0PpgRaGVcrok2lmN7lNJKT-UDUP6Rk",
+            "cid": "6458778238400430143",
+            "fid": "0x80dc06ce6e0e0261:0x59a2309676e1803f",
+            "placeId": "ChIJYQIObs4G3IARP4DhdpYwolk"
+        },
+        {
+            "position": 12,
+            "title": "UCSD Perlman Ambulatory Care Center",
+            "address": "9350 Campus Point Dr, La Jolla, CA 92037",
+            "latitude": 32.8781582,
+            "longitude": -117.2246797,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "phoneNumber": "(858) 657-7000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_1ujWK3Be92L5uZ3hCK9Rw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=135.68884&pitch=0&thumbfov=100",
+            "cid": "17117965500754184972",
+            "fid": "0x80dc06d9efc561cf:0xed8f3aed95d84b0c",
+            "placeId": "ChIJz2HF79kG3IARDEvYle06j-0"
+        },
+        {
+            "position": 13,
+            "title": "Sulpizio Cardiovascular Center at UC San Diego Health",
+            "address": "9434 Medical Ctr Dr, La Jolla, CA 92037",
+            "latitude": 32.8788723,
+            "longitude": -117.225894,
+            "rating": 4.6,
+            "ratingCount": 72,
+            "type": "Cardiologist",
+            "types": [
+                "Cardiologist",
+                "Hospital"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/9434-medical-center-drive/12?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(858) 657-8530",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://health.ucsd.edu/make-an-appointment/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPugSUa6w7NcncCYB0Y6RHFFqV73lRf5m52bDg_",
+            "cid": "7433629430411810059",
+            "fid": "0x80dc06d9e1aff51f:0x67298e94f795d50b",
+            "placeId": "ChIJH_Wv4dkG3IARC9WV95SOKWc"
+        },
+        {
+            "position": 14,
+            "title": "UC San Diego Division of Hospital Medicine",
+            "address": "200 W Arbor Dr # 8485, San Diego, CA 92103",
+            "latitude": 32.7548221,
+            "longitude": -117.1658317,
+            "rating": 3.4,
+            "ratingCount": 10,
+            "type": "University hospital",
+            "types": [
+                "University hospital"
+            ],
+            "website": "http://hospitalmedicine.ucsd.edu/",
+            "phoneNumber": "(619) 471-9186",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_H3f_x71WXkqLePJJYUQw77LA1qt79Dvjybxc5dbc04bIq8LqQOuxji9FtXPqN7hxPGCiLdeSTS5n3LdHzT9A-kDfcmHn3KswNnFfXO72lzSWAb0W-4Z_l-q63SGdUjPAfd_esuw",
+            "cid": "1709125510670962960",
+            "fid": "0x89e370999524529b:0x17b80898bc19d110",
+            "placeId": "ChIJm1IklZlw44kRENEZvJgIuBc"
+        },
+        {
+            "position": 15,
+            "title": "UCSD Health La Jolla Station",
+            "address": "San Diego, CA 92037",
+            "latitude": 32.881851,
+            "longitude": -117.22352599999999,
+            "rating": 4.5,
+            "ratingCount": 11,
+            "type": "Light rail station",
+            "types": [
+                "Light rail station"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9myQsUxKJs4RsJpCPIrnWTFAdrRXIMihA0Cicp0uce-47BlmizZAi3lo8PqipJf6oJlHtNTyQlvewn6wWKtPezYlC4SOaFsJJiRRD73vs7MdYcuW3XpnkdWiSFBWgBKpxU8U-jJA",
+            "cid": "9319889161274564062",
+            "fid": "0x80dc06d920a9a4bf:0x8156e5d033c89dde",
+            "placeId": "ChIJv6SpINkG3IAR3p3IM9DlVoE"
+        },
+        {
+            "position": 16,
+            "title": "Ucsd San Diego Health System",
+            "address": "9400 Campus Point Dr, La Jolla, CA 92037",
+            "latitude": 32.8784312,
+            "longitude": -117.2239764,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center"
+            ],
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kjIrBhjOAVLFm7RLOUavUQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=200.8809&pitch=0&thumbfov=100",
+            "cid": "2672215587674200869",
+            "fid": "0x80dc070052ed319f:0x25159deb42951b25",
+            "placeId": "ChIJnzHtUgAH3IARJRuVQuudFSU"
+        },
+        {
+            "position": 17,
+            "title": "UCSD Medical Group",
+            "address": "330 Lewis St #400, San Diego, CA 92103",
+            "latitude": 32.752133,
+            "longitude": -117.16163069999999,
+            "rating": 4.8,
+            "ratingCount": 11,
+            "type": "Medical group",
+            "types": [
+                "Medical group",
+                "Medical office"
+            ],
+            "website": "http://www.ucsd.edu/",
+            "phoneNumber": "(619) 471-9250",
+            "bookingLinks": [
+                "https://health.ucsd.edu/request_appt/Pages/default.aspx?utm_source=googlemybusinessappt&utm_medium=organic"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9dsjR_YbbSkRu8sMKb5s8g93M0rRAX9ghVNBZgAxpPzeTt5X5eAaQ3pzcIOeuBJC4mgyvnuSWE4VxOD9WQPCsExX-sX5Cv3TKLKTCLgqK-mhExrCl-7R8d2toiwttb_pYW1M2O",
+            "cid": "1473766932455875107",
+            "fid": "0x80d954d9e2e21927:0x1473df377abfe223",
+            "placeId": "ChIJJxni4tlU2YARI-K_ejffcxQ"
+        },
+        {
+            "position": 18,
+            "title": "UCSD MEDICAL",
+            "address": "16950 Via Tazon, San Diego, CA 92127",
+            "latitude": 33.0223496,
+            "longitude": -117.0865857,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "https://healthlocations.ucsd.edu/san-diego/16950-via-tazon?utm_source=googlemybusiness&utm_medium=listings",
+            "phoneNumber": "(619) 543-5540",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9p9Fmldj8u-3DwHkN2XscC2Td60jQN4Ou6s4Rs5SZ2LSeTxNv3RWJPdFWD7rv6UYJGYsMfEdLrafavy5RKMeTNOsOJIJImvHDXHLqr4PQvXKEN7ks3FMoIPAz-GPzrfT1yeEA",
+            "cid": "9054123203399184303",
+            "fid": "0x80dbf7014b8267ab:0x7da6b5152b3aefaf",
+            "placeId": "ChIJq2eCSwH324ARr-86KxW1pn0"
+        },
+        {
+            "position": 19,
+            "title": "UC San Diego Health",
+            "address": "6363 Greenwich Dr, San Diego, CA 92122",
+            "latitude": 32.8559342,
+            "longitude": -117.1847899,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://health.ucsd.edu/",
+            "phoneNumber": "(858) 249-0280",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_b5eztCAwqfqyNb83vwKTcCoyQQ5UmUMqB__sW_68Zv8C8SC1m6xkotn2SrFJoisO3KSum8dSLJrEwODK4VADkNRVfA1-jA6mG0SDIBuOFD-khSx_Z9W5j-zV7wbm4jMIihzQq",
+            "cid": "2462759413582551941",
+            "fid": "0x80dc00a2ae5a797b:0x222d7aa36dd65b85",
+            "placeId": "ChIJe3larqIA3IARhVvWbaN6LSI"
+        },
+        {
+            "position": 20,
+            "title": "UC San Diego School of Medicine",
+            "address": "9500 Gilman Dr, La Jolla, CA 92093",
+            "latitude": 32.8746036,
+            "longitude": -117.2359809,
+            "rating": 4.8,
+            "ratingCount": 17,
+            "type": "Medical school",
+            "types": [
+                "Medical school"
+            ],
+            "website": "http://medschool.ucsd.edu/",
+            "phoneNumber": "(858) 534-0830",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8Unm1q29r2_Gv1-FtUU_y7zejJD5Dc7w30lNDYKMLLG4DwUCGOb5Z6cw9yAxWYJMrCHftJ-yVjxTeh4IDfRq70sOxwpkqWt6yNGIrNgz5dEMv4CdZFaXoq0TJNLNlu9ha7LXnr",
+            "cid": "14832201274230680921",
+            "fid": "0x80dc06cf63980753:0xcdd690797b9dad59",
+            "placeId": "ChIJUweYY88G3IARWa2de3mQ1s0"
+        }
+    ],
+    "credits": 3
+}

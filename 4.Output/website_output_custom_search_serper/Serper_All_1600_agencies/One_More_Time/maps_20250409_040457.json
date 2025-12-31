@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "One More Time",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.3367779,-101.3972611,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "One More Time",
+            "address": "2122 E Thompson Blvd, Ventura, CA 93001",
+            "latitude": 34.274035999999995,
+            "longitude": -119.26947299999999,
+            "rating": 4.8,
+            "ratingCount": 150,
+            "type": "Watch store",
+            "types": [
+                "Watch store",
+                "Watch repair service"
+            ],
+            "phoneNumber": "(805) 644-8463",
+            "openingHours": {
+                "Tuesday": "10\u202fAM\u20136\u202fPM",
+                "Wednesday": "10\u202fAM\u20136\u202fPM",
+                "Thursday": "10\u202fAM\u20136\u202fPM",
+                "Friday": "10\u202fAM\u20136\u202fPM",
+                "Saturday": "10\u202fAM\u20136\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObxdw1moANC7kq63lD67xXcgtPcwQteJvtq06c",
+            "cid": "15936192340426710183",
+            "fid": "0x80e9adf61a66fbe7:0xdd28ba80036f5ca7",
+            "placeId": "ChIJ5_tmGvat6YARp1xvA4C6KN0"
+        },
+        {
+            "position": 2,
+            "title": "One More Time",
+            "address": "Capron, IL 61012",
+            "latitude": 42.3995197,
+            "longitude": -88.7413615,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_j_wTWLsSf11oIBdL_24Mg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=1.5436602&pitch=0&thumbfov=100",
+            "cid": "3689661272160235265",
+            "fid": "0x880f5265a6984111:0x33344f60dca06f01",
+            "placeId": "ChIJEUGYpmVSD4gRAW-g3GBPNDM"
+        },
+        {
+            "position": 3,
+            "title": "1 More Time",
+            "address": "Toledo, OH 43605",
+            "latitude": 41.632166999999995,
+            "longitude": -83.52504929999999,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipObDgNIwcr2mEMZCpao_w4bzYxNeZoRW5YnYash",
+            "cid": "8829040860745834707",
+            "fid": "0x883b869399d28e4f:0x7a870de2742a20d3",
+            "placeId": "ChIJT47SmZOGO4gR0yAqdOINh3o"
+        }
+    ],
+    "credits": 3
+}

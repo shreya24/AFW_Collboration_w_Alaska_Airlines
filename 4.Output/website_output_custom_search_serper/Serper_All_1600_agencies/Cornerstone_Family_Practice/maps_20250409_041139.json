@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Cornerstone Family Practice",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.6913804,-104.8299702,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cornerstone Family Practice",
+            "address": "1400 S Potomac St #250, Aurora, CO 80012",
+            "latitude": 39.6913804,
+            "longitude": -104.82997019999999,
+            "rating": 2.8,
+            "ratingCount": 88,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Family practice physician"
+            ],
+            "website": "http://www.cornerstone-fp.com/",
+            "phoneNumber": "(303) 531-4910",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kt9pY4SZlsFWqb5B2fINrA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=266.80978&pitch=0&thumbfov=100",
+            "cid": "2759501565116563422",
+            "fid": "0x876c62ba6f2e8ed1:0x264bb80d91e83fde",
+            "placeId": "ChIJ0Y4ub7pibIcR3j_okQ24SyY"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,60 @@
+{
+    "searchParameters": {
+        "q": "Loma Linda Transplant Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0541143,-117.2613222,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Loma Linda University Transplantation Institute",
+            "address": "197 E Caroline St Ste 1400, San Bernardino, CA 92408",
+            "latitude": 34.0608564,
+            "longitude": -117.2823317,
+            "rating": 3.4,
+            "ratingCount": 30,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Transplant surgeon"
+            ],
+            "website": "http://medical-center.lomalindahealth.org/about-us/institutes/transplantation",
+            "phoneNumber": "(909) 558-3636",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20132\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM21TSVxYXBsX2oDWbMrpKgHAYT7C2KReMMtzZR",
+            "cid": "15900852977119959548",
+            "fid": "0x80dcabbf1053fbe9:0xdcab2d894ef299fc",
+            "placeId": "ChIJ6ftTEL-r3IAR_JnyToktq9w"
+        },
+        {
+            "position": 2,
+            "title": "Loma Linda University Medical Center Transplant Institute",
+            "address": "25865 Barton Rd #101, Loma Linda, CA 92354",
+            "latitude": 34.0473721,
+            "longitude": -117.24031269999999,
+            "type": "Medical office",
+            "types": [
+                "Medical office"
+            ],
+            "website": "https://lluh.org/transplant-institute",
+            "phoneNumber": "(909) 558-3636",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aXiTL_ogHDEoXNMool7lrg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=355.51752&pitch=0&thumbfov=100",
+            "cid": "12742342092109248255",
+            "fid": "0x80dcab8c7af4cda3:0xb0d5e49ef6adf6ff",
+            "placeId": "ChIJo830eoyr3IAR__at9p7k1bA"
+        }
+    ],
+    "credits": 3
+}

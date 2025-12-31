@@ -1,0 +1,48 @@
+{
+    "searchParameters": {
+        "q": "City of Hope South Pasadena",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1237758,-118.1505419,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "City of Hope South Pasadena",
+            "address": "209 Fair Oaks Ave, South Pasadena, CA 91030",
+            "latitude": 34.1237758,
+            "longitude": -118.1505419,
+            "rating": 4.5,
+            "ratingCount": 18,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cancer treatment center",
+                "Specialized clinic",
+                "Specialized hospital",
+                "Surgical center"
+            ],
+            "website": "https://www.cityofhope.org/locations/south-pasadena?invsrc=local_search_x_facility_coh_south_pasadena",
+            "phoneNumber": "(877) 998-7546",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://request.cityofhope.org/patient/request/new_patient_form.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8qG3H1g2Uw6EnCkD0IBC2aRXxjeYDwiOkyeG7vYk95olpVZM1c3qsiierShGcY8L2jfU1ACHwIW0yEJAwlJJo5xg6DOOOTDRlTHVnEC69Mi85D5Hutw0GVRyj-8Yz_L3Luu3U",
+            "cid": "328373170196044837",
+            "fid": "0x80c2c485a1385ea3:0x48e9da8934ddc25",
+            "placeId": "ChIJo144oYXEwoARJdxNk6idjgQ"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,38 @@
+{
+    "searchParameters": {
+        "q": "HiLine Home Programs",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.1934929,-106.6394209,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Hi-Line Home Programs Inc",
+            "address": "605 3rd Ave S, Glasgow, MT 59230",
+            "latitude": 48.193492899999995,
+            "longitude": -106.63942089999999,
+            "type": "Day care center",
+            "types": [
+                "Day care center"
+            ],
+            "website": "https://www.hilinehomeprograms.org/",
+            "phoneNumber": "(406) 228-9431",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "cid": "18193399954104289488",
+            "fid": "0x533dab9db42ecbeb:0xfc7bf0dd90fe88d0",
+            "placeId": "ChIJ68sutJ2rPVMR0Ij-kN3we_w"
+        }
+    ],
+    "credits": 3
+}

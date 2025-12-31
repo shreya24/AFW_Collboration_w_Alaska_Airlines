@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "Clif Arrington M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.5406437,-155.9292556,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Arrington Cliff MD",
+            "address": "79-7266 Hawai\u02bbi Belt Rd # 3, Kealakekua, HI 96750",
+            "latitude": 19.54062,
+            "longitude": -155.92919279999998,
+            "rating": 4.2,
+            "ratingCount": 5,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "phoneNumber": "(808) 322-9400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uBJMp66HsAbmhstWv2CIbA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.20282&pitch=0&thumbfov=100",
+            "cid": "3433837380727937458",
+            "fid": "0x79540660ca1a27c1:0x2fa770e78ebf19b2",
+            "placeId": "ChIJwScaymAGVHkRshm_judwpy8"
+        },
+        {
+            "position": 2,
+            "title": "Clifton Arrington Md",
+            "address": "79-7266 Hawai\u02bbi Belt Rd, Kealakekua, HI 96750",
+            "latitude": 19.5406674,
+            "longitude": -155.9293184,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician"
+            ],
+            "phoneNumber": "(808) 322-9400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ikMW1ZHKnXaXMDvEDyNrWg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.545845&pitch=0&thumbfov=100",
+            "cid": "5997489832282176546",
+            "fid": "0x795406ce862bc697:0x533b5d39f5323c22",
+            "placeId": "ChIJl8Yrhs4GVHkRIjwy9TldO1M"
+        }
+    ],
+    "credits": 3
+}

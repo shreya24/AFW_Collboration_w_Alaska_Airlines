@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Montrose Pulmonary Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.479858,-107.8708595,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Montrose Lung & Sleep Center",
+            "address": "715 S 3rd St, Montrose, CO 81401",
+            "latitude": 38.479858,
+            "longitude": -107.8708595,
+            "rating": 3.9,
+            "ratingCount": 7,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Pulmonologist"
+            ],
+            "website": "https://montrosehealth.com/medical-services/montrose-lung-sleep-center/",
+            "phoneNumber": "(970) 252-2753",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u201312\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOaBxnwy-XJ9ZNjC_YHijSWw9e4oqF-DjxgB3c",
+            "cid": "6925059491225385375",
+            "fid": "0x873f51a2a98dc50b:0x601ac0eaaeefb99f",
+            "placeId": "ChIJC8WNqaJRP4cRn7nvrurAGmA"
+        }
+    ],
+    "credits": 3
+}

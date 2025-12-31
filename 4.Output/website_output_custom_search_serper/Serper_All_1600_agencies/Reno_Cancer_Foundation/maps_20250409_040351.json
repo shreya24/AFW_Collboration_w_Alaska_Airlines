@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "Reno Cancer Foundation",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.52552,-119.7952114,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Reno Cancer Foundation",
+            "address": "1155 Mill St, Reno, NV 89502",
+            "latitude": 39.52552,
+            "longitude": -119.7952114,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "http://renocancerfoundation.org/",
+            "phoneNumber": "(775) 329-1970",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nOFF5r4NEFWO7ltnf3laTw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=356.27402&pitch=0&thumbfov=100",
+            "cid": "467508167135115800",
+            "fid": "0x809940a94c8c9ca1:0x67cec3377aeba18",
+            "placeId": "ChIJoZyMTKlAmYARGLqudzPsfAY"
+        }
+    ],
+    "credits": 3
+}

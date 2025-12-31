@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "University of Utah - South Jordan Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5418635,-112.0132623,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "South Jordan Health Center",
+            "address": "5126 W Daybreak Pkwy, South Jordan, UT 84009",
+            "latitude": 40.5417248,
+            "longitude": -112.0133537,
+            "rating": 3.8,
+            "ratingCount": 523,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cancer treatment center",
+                "Cardiologist",
+                "Dermatologist",
+                "Emergency room",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Optometrist",
+                "Pediatrician",
+                "Pharmacy",
+                "Physical therapy clinic",
+                "Reproductive health clinic",
+                "Urgent care center"
+            ],
+            "website": "https://healthcare.utah.edu/locations/south-jordan/?utm_source=google&utm_medium=yext",
+            "phoneNumber": "(801) 213-4500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20138:30\u202fPM",
+                "Wednesday": "7\u202fAM\u20138:30\u202fPM",
+                "Thursday": "7\u202fAM\u20138:30\u202fPM",
+                "Friday": "7\u202fAM\u20138:30\u202fPM",
+                "Saturday": "7\u202fAM\u20138:30\u202fPM",
+                "Sunday": "9\u202fAM\u20138:30\u202fPM",
+                "Monday": "7\u202fAM\u20138:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://mychart.med.utah.edu/mychart/openscheduling/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM_37HG_euTVbWsrr6YjukYKAauhp7k18CSnGS3",
+            "cid": "17567783045251428258",
+            "fid": "0x8752856e5e9ec351:0xf3cd4d99ff576fa2",
+            "placeId": "ChIJUcOeXm6FUocRom9X_5lNzfM"
+        },
+        {
+            "position": 2,
+            "title": "University of Utah health clinic",
+            "address": "5126 W Daybreak Pkwy, South Jordan, UT 84009",
+            "latitude": 40.5420021,
+            "longitude": -112.013171,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://healthcare.utah.edu/locations/south-jordan",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid",
+            "cid": "2005127088234210494",
+            "fid": "0x87528500727aadb5:0x1bd3a4768fb6a4be",
+            "placeId": "ChIJta16cgCFUocRvqS2j3ak0xs"
+        }
+    ],
+    "credits": 3
+}

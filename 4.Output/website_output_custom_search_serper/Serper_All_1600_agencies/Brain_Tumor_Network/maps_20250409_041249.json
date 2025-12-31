@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Brain Tumor Network",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@30.2011311,-81.3814888,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Brain Tumor Network",
+            "address": "816 Jimmy Buffett Mem Hwy, Ponte Vedra Beach, FL 32082",
+            "latitude": 30.201131099999998,
+            "longitude": -81.3814888,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.braintumornetwork.org/",
+            "phoneNumber": "(844) 286-6110",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM-27cD3hs5PkhWnKgB2_k7DDYAttLe1QDdqPNL",
+            "cid": "12002573971388845284",
+            "fid": "0x88e437ab01ab5f5d:0xa691b56f42fb4ce4",
+            "placeId": "ChIJXV-rAas35IgR5Ez7Qm-1kaY"
+        }
+    ],
+    "credits": 3
+}

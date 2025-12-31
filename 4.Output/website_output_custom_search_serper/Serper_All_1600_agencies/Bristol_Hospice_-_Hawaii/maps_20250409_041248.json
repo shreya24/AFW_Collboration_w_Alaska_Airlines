@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Bristol Hospice - Hawaii",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3090651,-157.863611,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Bristol Hospice - Hawaii",
+            "address": "55 Merchant St STE 2900, Honolulu, HI 96813",
+            "latitude": 21.309065099999998,
+            "longitude": -157.863611,
+            "rating": 4.8,
+            "ratingCount": 181,
+            "type": "Hospice",
+            "types": [
+                "Hospice"
+            ],
+            "website": "http://bristolhospice-hawaii.com/",
+            "phoneNumber": "(808) 536-8012",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_Z6iaDmBd2wwjU-18KLKY1KJw80yITkCdz_m3",
+            "cid": "12331818780621231303",
+            "fid": "0x7c006e09aaaaaaab:0xab236bd81d6b54c7",
+            "placeId": "ChIJq6qqqgluAHwRx1RrHdhrI6s"
+        }
+    ],
+    "credits": 3
+}

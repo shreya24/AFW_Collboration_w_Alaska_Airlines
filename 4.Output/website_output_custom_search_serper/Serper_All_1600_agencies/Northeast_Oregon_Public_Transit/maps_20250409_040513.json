@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Northeast Oregon Public  Transit",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.3787695,-117.6783272,10z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northeast Oregon Public Transportation",
+            "address": "2204 E Penn Ave, La Grande, OR 97850",
+            "latitude": 45.3265434,
+            "longitude": -118.0778098,
+            "rating": 2.5,
+            "ratingCount": 2,
+            "type": "Transportation service",
+            "types": [
+                "Transportation service",
+                "Handicapped transportation service",
+                "Non-profit organization"
+            ],
+            "website": "https://ccno.org/publictransit/",
+            "phoneNumber": "(541) 963-2877",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Friday": "7:30\u202fAM\u20135:30\u202fPM",
+                "Saturday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMzMKk04P9aP6V7ju9E5dchids-rcpPEA25qlVG",
+            "cid": "8776859150372001273",
+            "fid": "0x54a377ff4a2f625b:0x79cdaae53d8f55f9",
+            "placeId": "ChIJW2IvSv93o1QR-VWPPeWqzXk"
+        },
+        {
+            "position": 2,
+            "title": "Northeast Oregon Public Transit",
+            "address": "702 NW 1st St, Enterprise, OR 97828",
+            "latitude": 45.4309957,
+            "longitude": -117.2788447,
+            "rating": 3,
+            "ratingCount": 1,
+            "type": "Transportation service",
+            "types": [
+                "Transportation service"
+            ],
+            "website": "http://www.neotransit.org/contact",
+            "phoneNumber": "(541) 426-3840",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JHGFsyvYgH6GrEOTU5JU3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=335.93442&pitch=0&thumbfov=100",
+            "cid": "9368472439794852745",
+            "fid": "0x54a3f987d14b125f:0x8203800c36026389",
+            "placeId": "ChIJXxJL0Yf5o1QRiWMCNgyAA4I"
+        }
+    ],
+    "credits": 3
+}

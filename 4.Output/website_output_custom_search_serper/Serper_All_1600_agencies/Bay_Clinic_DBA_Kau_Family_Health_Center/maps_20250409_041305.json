@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Bay Clinic/ DBA Kau Family Health Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@19.0603628,-155.582713,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HICHC Ka\u02bb\u016b Family Health & Dental",
+            "address": "95-5583 Mamalahoa Hwy, Naalehu, HI 96772",
+            "latitude": 19.060652599999997,
+            "longitude": -155.58280109999998,
+            "rating": 3.1,
+            "ratingCount": 23,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dental clinic",
+                "Mental health service"
+            ],
+            "website": "http://hicommunityhealthcenter.org/",
+            "phoneNumber": "(808) 333-3600",
+            "openingHours": {
+                "Tuesday": "7:15\u202fAM\u20136\u202fPM",
+                "Wednesday": "7:15\u202fAM\u20136\u202fPM",
+                "Thursday": "7:15\u202fAM\u20136\u202fPM",
+                "Friday": "7:15\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:15\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMJQlDjxZ0_Psa4BlQ8cxEnK4STrRTDRArUmQXg",
+            "cid": "11598054073321487328",
+            "fid": "0x795146c8a7f35ed5:0xa0f490bb06197be0",
+            "placeId": "ChIJ1V7zp8hGUXkR4HsZBruQ9KA"
+        },
+        {
+            "position": 2,
+            "title": "Kea'au Family Health Center",
+            "address": "95-5583 Mamalahoa Hwy, Naalehu, HI 96772",
+            "latitude": 19.060072899999998,
+            "longitude": -155.58262499999998,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.bayclinic.org/",
+            "phoneNumber": "(808) 930-0400",
+            "cid": "8774397650557054257",
+            "fid": "0x795146f25960f7c9:0x79c4ec2ca779ad31",
+            "placeId": "ChIJyfdgWfJGUXkRMa15pyzsxHk"
+        }
+    ],
+    "credits": 3
+}

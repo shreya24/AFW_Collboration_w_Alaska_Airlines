@@ -1,0 +1,46 @@
+{
+    "searchParameters": {
+        "q": "Nellie B. Connally Breast Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@29.70558,-95.400029,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nellie B. Connally Breast Center",
+            "address": "1220 West, Holcombe Blvd floor 5, Houston, TX 77030",
+            "latitude": 29.705579999999998,
+            "longitude": -95.40002899999999,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Hospital",
+                "Oncologist"
+            ],
+            "website": "https://www.mdanderson.org/patients-family/diagnosis-treatment/care-centers-clinics/breast-center.html",
+            "phoneNumber": "(713) 792-2360",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mdanderson.org/about-md-anderson/contact-us/askmdanderson/appointments.html"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIe0fSyk3IdWV2uoFNNlIf2-KYJUtyFtOjuDyc",
+            "cid": "664035240894613717",
+            "fid": "0x8640c0730ddfe68b:0x93720888bdd48d5",
+            "placeId": "ChIJi-bfDXPAQIYR1Ujdi4ggNwk"
+        }
+    ],
+    "credits": 3
+}

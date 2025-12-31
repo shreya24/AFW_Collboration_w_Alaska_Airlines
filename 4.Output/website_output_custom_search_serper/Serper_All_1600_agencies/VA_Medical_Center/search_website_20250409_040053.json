@@ -1,0 +1,73 @@
+{
+    "searchParameters": {
+        "q": "VA Medical Center website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "VA.gov Home | Veterans Affairs",
+            "link": "https://www.va.gov//",
+            "snippet": "Welcome to the official website of the U.S. Department of Veterans Affairs. Discover, apply for, and manage your VA benefits and care.",
+            "sitelinks": [
+                {
+                    "title": "My HealtheVet",
+                    "link": "https://www.myhealth.va.gov/"
+                },
+                {
+                    "title": "VA Health Care",
+                    "link": "https://www.va.gov/health-care/"
+                },
+                {
+                    "title": "Veterans Health Administration",
+                    "link": "https://www.va.gov/health/"
+                },
+                {
+                    "title": "VA Washington DC Health Care",
+                    "link": "https://www.va.gov/washington-dc-health-care/"
+                },
+                {
+                    "title": "VA Atlanta Health Care",
+                    "link": "https://www.va.gov/atlanta-health-care/"
+                }
+            ],
+            "position": 1
+        },
+        {
+            "title": "VHC Health | Arlington, VA",
+            "link": "https://www.vhchealth.org/",
+            "snippet": "Virginia Hospital Center is now VHC Health, the region's community health system providing exceptional medical services to the Washington, DC metropolitan.",
+            "position": 2
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Veterans Affairs benefits"
+        },
+        {
+            "query": "U.S. Veterans Affairs Department"
+        },
+        {
+            "query": "www.myhealth.va.gov login"
+        },
+        {
+            "query": "VA benefits login"
+        },
+        {
+            "query": "United states Department of Veterans Affairs customer service"
+        },
+        {
+            "query": "Veterans Affairs phone number"
+        },
+        {
+            "query": "VA benefits phone number"
+        },
+        {
+            "query": "My VA health"
+        }
+    ],
+    "credits": 1
+}

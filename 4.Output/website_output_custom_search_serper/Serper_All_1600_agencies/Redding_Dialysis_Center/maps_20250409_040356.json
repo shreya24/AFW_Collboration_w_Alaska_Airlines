@@ -1,0 +1,70 @@
+{
+    "searchParameters": {
+        "q": "Redding Dialysis Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.5988231,-122.3766309,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "DaVita Redding Dialysis Center",
+            "address": "1876 Park Marina Dr, Redding, CA 96001",
+            "latitude": 40.584627,
+            "longitude": -122.3765329,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center",
+                "Local medical services",
+                "Medical Center"
+            ],
+            "website": "https://www.davita.com/locations/ca/redding/1876-park-marina-dr--289",
+            "phoneNumber": "(833) 308-3131",
+            "openingHours": {
+                "Tuesday": "4\u202fAM\u20138\u202fPM",
+                "Wednesday": "4\u202fAM\u20138\u202fPM",
+                "Thursday": "4\u202fAM\u20138\u202fPM",
+                "Friday": "4\u202fAM\u20138\u202fPM",
+                "Saturday": "4\u202fAM\u20138\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "4\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO9W1x0lue9TjXcZ1aA7b_o6sBfn5YBg6xCDyFm",
+            "cid": "14204208166272533916",
+            "fid": "0x54d2ecdbc720e0eb:0xc51f7c11f260859c",
+            "placeId": "ChIJ6-Agx9vs0lQRnIVg8hF8H8U"
+        },
+        {
+            "position": 2,
+            "title": "Dialysis Clinic, Inc.",
+            "address": "180 Northpoint Dr #2510, Redding, CA 96003",
+            "latitude": 40.6130193,
+            "longitude": -122.37672889999999,
+            "rating": 3.8,
+            "ratingCount": 4,
+            "type": "Dialysis center",
+            "types": [
+                "Dialysis center"
+            ],
+            "website": "https://www.dciinc.org/location/redding/",
+            "phoneNumber": "(530) 246-1140",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20137\u202fPM",
+                "Wednesday": "5\u202fAM\u20137\u202fPM",
+                "Thursday": "5\u202fAM\u20137\u202fPM",
+                "Friday": "5\u202fAM\u20137\u202fPM",
+                "Saturday": "5\u202fAM\u20137\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "5\u202fAM\u20137\u202fPM"
+            },
+            "cid": "12242373513877773017",
+            "fid": "0x54d292b0ce035295:0xa9e5a5d91655dad9",
+            "placeId": "ChIJlVIDzrCS0lQR2dpVFtml5ak"
+        }
+    ],
+    "credits": 3
+}

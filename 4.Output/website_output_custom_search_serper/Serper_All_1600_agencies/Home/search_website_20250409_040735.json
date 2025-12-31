@@ -1,0 +1,123 @@
+{
+    "searchParameters": {
+        "q": "Home website",
+        "gl": "us",
+        "hl": "en",
+        "type": "search",
+        "num": 5,
+        "engine": "google"
+    },
+    "organic": [
+        {
+            "title": "Zillow: Real Estate, Apartments, Mortgages & Home Values",
+            "link": "https://www.zillow.com/",
+            "snippet": "The leading real estate marketplace. Search millions of for-sale and rental listings, compare Zestimate\u00ae home values and connect with local professionals.",
+            "position": 1
+        },
+        {
+            "title": "realtor.com\u00ae | Homes for Sale, Apartments & Houses for Rent",
+            "link": "https://www.realtor.com/",
+            "snippet": "Search homes for sale, new construction homes, apartments, and houses for rent. See property values. Shop mortgages.",
+            "position": 2
+        },
+        {
+            "title": "Homes.com: Homes for Sale, Homes for Rent, Real Estate",
+            "link": "https://www.homes.com/",
+            "snippet": "See why Homes.com is the #1 fastest growing real estate search site. Use our new neighborhood & school search to find your perfect home.",
+            "sitelinks": [
+                {
+                    "title": "For Sale",
+                    "link": "https://www.homes.com/homes-for-sale/"
+                },
+                {
+                    "title": "For Rent",
+                    "link": "https://www.homes.com/homes-for-rent/"
+                },
+                {
+                    "title": "What is my Home Worth?",
+                    "link": "https://www.homes.com/how-much-is-my-home-worth/"
+                },
+                {
+                    "title": "Houses for Sale Near Me",
+                    "link": "https://www.homes.com/houses-for-sale/"
+                }
+            ],
+            "position": 3
+        },
+        {
+            "title": "Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents",
+            "link": "https://www.redfin.com/",
+            "snippet": "Search national real estate and rental listings. Find the latest apartments for rent and homes for sale near you. Tour homes and make offers with the help ...",
+            "sitelinks": [
+                {
+                    "title": "My Home",
+                    "link": "https://www.redfin.com/what-is-my-home-worth"
+                },
+                {
+                    "title": "Chicago, IL homes for sale",
+                    "link": "https://www.redfin.com/city/29470/IL/Chicago"
+                },
+                {
+                    "title": "Real Estate Agents",
+                    "link": "https://www.redfin.com/real-estate-agents"
+                },
+                {
+                    "title": "Sell",
+                    "link": "https://www.redfin.com/why-sell"
+                }
+            ],
+            "position": 4
+        },
+        {
+            "title": "Trulia: Real Estate Listings, Homes For Sale, Housing Data",
+            "link": "https://www.trulia.com/",
+            "snippet": "Buy a home. With over 1 million+ homes for sale available on the website, Trulia can match you with a house you will want to call home. Find a home. Rent a home.",
+            "sitelinks": [
+                {
+                    "title": "Houses for Sale Near Me",
+                    "link": "https://www.trulia.com/houses-for-sale-near-me/"
+                },
+                {
+                    "title": "New York, NY Real Estate...",
+                    "link": "https://www.trulia.com/NY/New_York/"
+                },
+                {
+                    "title": "Buy",
+                    "link": "https://www.trulia.com/PA/Philadelphia/"
+                },
+                {
+                    "title": "Rent",
+                    "link": "https://www.trulia.com/for_rent/Philadelphia,PA/"
+                }
+            ],
+            "position": 5
+        }
+    ],
+    "relatedSearches": [
+        {
+            "query": "Zillow"
+        },
+        {
+            "query": "Best home website"
+        },
+        {
+            "query": "Redfin"
+        },
+        {
+            "query": "Home website for sale"
+        },
+        {
+            "query": "Home website for rent"
+        },
+        {
+            "query": "REALTOR"
+        },
+        {
+            "query": "Trulia"
+        },
+        {
+            "query": "Homes"
+        }
+    ],
+    "credits": 1
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Canton-Potsdam Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.6765456,-74.982268,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "RRH Canton-Potsdam Hospital",
+            "address": "50 Leroy St, Potsdam, NY 13676",
+            "latitude": 44.6765456,
+            "longitude": -74.98226799999999,
+            "rating": 2.7,
+            "ratingCount": 94,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "General hospital"
+            ],
+            "website": "https://www.rochesterregional.org/locations/hospitals/potsdam?y_source=1_MzQ2NjA4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(315) 265-3300",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-JCwwKLgFyB2uSIDMtm5Iaqdp_7hK2A09ojPgL7OrTymq9N3bpri06VOUpsgx-D0JYSJDmEqAb9-8s0Yb0vIY8xCXcHvNHo8F4hhl4K9Pid5-atYHYila1C6lst2s4UzP0c1LU",
+            "cid": "13950117845750702117",
+            "fid": "0x4ccc60ca3993aef5:0xc198c64512cee025",
+            "placeId": "ChIJ9a6TOcpgzEwRJeDOEkXGmME"
+        }
+    ],
+    "credits": 3
+}

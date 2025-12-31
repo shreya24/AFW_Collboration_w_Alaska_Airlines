@@ -1,0 +1,71 @@
+{
+    "searchParameters": {
+        "q": "Swedish Ballard",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6679185,-122.3802211,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Swedish Medical Center Ballard Campus",
+            "address": "5300 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.667469,
+            "longitude": -122.3795882,
+            "rating": 2.8,
+            "ratingCount": 104,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Hospital",
+                "Medical clinic"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus?Is=location&y_source=1_OTU3Njg3MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(206) 782-2700",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20139\u202fPM",
+                "Wednesday": "5\u202fAM\u20139\u202fPM",
+                "Thursday": "5\u202fAM\u20139\u202fPM",
+                "Friday": "5\u202fAM\u20139\u202fPM",
+                "Saturday": "5\u202fAM\u20139\u202fPM",
+                "Sunday": "5\u202fAM\u20139\u202fPM",
+                "Monday": "5\u202fAM\u20139\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8tGmLjqGRV9OdVG2z8EYjF5GVin6Z6vumpoTyRgkUeh0TX4-2JDeftt1i5pvrmYB1F6f8um-MoZRAUKVj-Le7wELKpbYIw0BFhXb-EoNuB0L9MmUXDBZtN5e3i2-f3VvJjJ7hS0A",
+            "cid": "5679541174987849367",
+            "fid": "0x549015c87c2ba04d:0x4ed1c89b6e5afe97",
+            "placeId": "ChIJTaArfMgVkFQRl_5abpvI0U4"
+        },
+        {
+            "position": 2,
+            "title": "Swedish Hospital in Ballard",
+            "address": "5350 Tallman Ave NW, Seattle, WA 98107",
+            "latitude": 47.668368,
+            "longitude": -122.380854,
+            "rating": 2.8,
+            "ratingCount": 18,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.swedish.org/locations/ballard-campus",
+            "phoneNumber": "(206) 782-2700",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VP-FpVPl1QP-bp7Ll9LW8w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=57.479824&pitch=0&thumbfov=100",
+            "cid": "12240542825110881774",
+            "fid": "0x5490158012f19079:0xa9df24d8a4b0c5ee",
+            "placeId": "ChIJeZDxEoAVkFQR7sWwpNgk36k"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,72 @@
+{
+    "searchParameters": {
+        "q": "Berkeley Outpatient Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8502953,-122.2873428,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "John Muir Health/UCSF Health Berkeley Outpatient Center",
+            "address": "3100 San Pablo Ave, Berkeley, CA 94702",
+            "latitude": 37.8503579,
+            "longitude": -122.2871454,
+            "rating": 4.1,
+            "ratingCount": 222,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "https://www.johnmuirhealth.com/locations/outpatient-center-berkeley.html?cid=orgloc%3AwebsiteURL%3Ayext&y_source=1_OTU2Njc1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(510) 985-5100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "8\u202fAM\u20132\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipN5frb-NNLnbPqde8qFTdxKCPyjjFrw3eJmWKtM",
+            "cid": "17632045138812028703",
+            "fid": "0x80857f7dbdf2b4d7:0xf4b19ba29a8b471f",
+            "placeId": "ChIJ17TyvX1_hYARH0eLmqKbsfQ"
+        },
+        {
+            "position": 2,
+            "title": "Berkeley Outpatient Center, UCSF Imaging Services",
+            "address": "3100 San Pablo Ave #330, Berkeley, CA 94702",
+            "latitude": 37.8502327,
+            "longitude": -122.2875402,
+            "rating": 3.7,
+            "ratingCount": 6,
+            "type": "Radiologist",
+            "types": [
+                "Radiologist"
+            ],
+            "website": "https://www.ucsfhealth.org/clinics/berkeley-outpatient-center",
+            "phoneNumber": "(510) 985-5030",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20138\u202fPM",
+                "Wednesday": "8\u202fAM\u20138\u202fPM",
+                "Thursday": "8\u202fAM\u20138\u202fPM",
+                "Friday": "8\u202fAM\u20138\u202fPM",
+                "Saturday": "10\u202fAM\u20134\u202fPM",
+                "Sunday": "10\u202fAM\u20134\u202fPM",
+                "Monday": "8\u202fAM\u20138\u202fPM"
+            },
+            "bookingLinks": [
+                "https://schedule.ucsfmedicalcenter.org/breast-imaging/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMWMnCZNdJhf2ZoVhcjJtEy01EY9vHjll-m33Qo",
+            "cid": "9847703162242404055",
+            "fid": "0x80857f9272fb2d29:0x88aa11d9c6f30ed7",
+            "placeId": "ChIJKS37cpJ_hYAR1w7zxtkRqog"
+        }
+    ],
+    "credits": 3
+}

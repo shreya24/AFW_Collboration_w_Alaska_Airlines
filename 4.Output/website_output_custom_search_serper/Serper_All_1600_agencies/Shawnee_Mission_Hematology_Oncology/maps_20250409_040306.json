@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Shawnee Mission Hematology Oncology",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.9957761,-94.6921139,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "AdventHealth Medical Group Hematology Oncology at Shawnee Mission",
+            "address": "9100 W 74th St, Merriam, KS 66204",
+            "latitude": 38.9957761,
+            "longitude": -94.6921139,
+            "rating": 2,
+            "ratingCount": 4,
+            "type": "Medical group",
+            "types": [
+                "Medical group"
+            ],
+            "website": "https://www.adventhealth.com/practice/adventhealth-medical-group/adventhealth-medical-group-hematology-oncology-shawnee-mission",
+            "phoneNumber": "(913) 632-9100",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x2QzCPLlu7ZZLSkEgb4-0w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=20.70471&pitch=0&thumbfov=100",
+            "cid": "185156775664312334",
+            "fid": "0x87c0edd9d7526177:0x291cf1b413a600e",
+            "placeId": "ChIJd2FS19ntwIcRDmA6QRvPkQI"
+        }
+    ],
+    "credits": 3
+}

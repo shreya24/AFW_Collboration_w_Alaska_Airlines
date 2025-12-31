@@ -1,0 +1,28 @@
+{
+    "searchParameters": {
+        "q": "White Raven Center Inc.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.1274874,-149.8756534,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "White Raven Development",
+            "address": "351 E 104th Ave Suite 200, Anchorage, AK 99515",
+            "latitude": 61.1274874,
+            "longitude": -149.8756534,
+            "type": "Real estate developer",
+            "types": [
+                "Real estate developer"
+            ],
+            "phoneNumber": "(907) 868-7939",
+            "cid": "10461732677482829956",
+            "fid": "0x56c899b8888e17d5:0x912f8a710875d884",
+            "placeId": "ChIJ1ReOiLiZyFYRhNh1CHGKL5E"
+        }
+    ],
+    "credits": 3
+}

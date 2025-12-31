@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Yuma Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.6829492,-114.6358792,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Onvida Health Yuma Medical Center",
+            "address": "2400 S Avenue A, Yuma, AZ 85364",
+            "latitude": 32.682949199999996,
+            "longitude": -114.63587919999999,
+            "rating": 3.9,
+            "ratingCount": 1787,
+            "type": "Hospital",
+            "types": [
+                "Hospital"
+            ],
+            "website": "https://www.onvidahealth.org/location/yuma-medical-center/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+            "phoneNumber": "(928) 336-2000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOTR3KlhT1gObVOJa8eobHErsFlXlXfPROgMpNa",
+            "cid": "11698489979924225756",
+            "fid": "0x80d6f61d7c7c76e7:0xa25962a7cdd99edc",
+            "placeId": "ChIJ53Z8fB321oAR3J7ZzadiWaI"
+        }
+    ],
+    "credits": 3
+}

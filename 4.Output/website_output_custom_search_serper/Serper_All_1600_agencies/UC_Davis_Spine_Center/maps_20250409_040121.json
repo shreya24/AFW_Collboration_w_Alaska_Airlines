@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "UC Davis Spine Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5798186,-121.4572253,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "UC Davis Spine Center",
+            "address": "3301 C St #1500, Sacramento, CA 95816",
+            "latitude": 38.579818599999996,
+            "longitude": -121.45722529999999,
+            "rating": 2.9,
+            "ratingCount": 41,
+            "type": "Hospital department",
+            "types": [
+                "Hospital department",
+                "Doctor"
+            ],
+            "website": "http://www.ucdmc.ucdavis.edu/spine/",
+            "phoneNumber": "(916) 734-7463",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB88VS8AAwHDZSY84uARkP-HJQwbDW6suyHqduyxLwnaK7QOk7tSsqGLzmine57CtNy1Nz3rrKiJA6BGmiuxwV257zrrPLAmOqRD5oEJKZq4e_R6Nnj8BRTv9ocOryt2JNdCD1nA",
+            "cid": "4160926185924099878",
+            "fid": "0x809ad0a30e37e865:0x39be945210a07f26",
+            "placeId": "ChIJZeg3DqPQmoARJn-gEFKUvjk"
+        }
+    ],
+    "credits": 3
+}

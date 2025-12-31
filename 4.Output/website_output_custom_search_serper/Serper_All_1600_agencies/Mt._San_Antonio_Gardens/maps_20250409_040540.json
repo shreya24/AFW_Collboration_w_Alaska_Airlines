@@ -1,0 +1,84 @@
+{
+    "searchParameters": {
+        "q": "Mt. San Antonio Gardens",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.0978628,-117.7333239,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mt. San Antonio Gardens",
+            "address": "900 Harrison Ave, Pomona, CA 91767",
+            "latitude": 34.0985087,
+            "longitude": -117.7335803,
+            "rating": 4.6,
+            "ratingCount": 85,
+            "type": "Retirement community",
+            "types": [
+                "Retirement community",
+                "Assisted living facility",
+                "Physical therapy clinic",
+                "Senior citizen center"
+            ],
+            "website": "http://www.msagardens.org/",
+            "phoneNumber": "(909) 624-5061",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoLzaFz1NCVryLKlUZJynVDe_2yHqbcdxcvrY8",
+            "cid": "12497176373395938669",
+            "fid": "0x80c331d92261e055:0xad6ee3b2dfab5d6d",
+            "placeId": "ChIJVeBhItkxw4ARbV2r37Ljbq0"
+        },
+        {
+            "position": 2,
+            "title": "Mt. San Antonio Gardens Administration",
+            "address": "900 Harrison Ave, Pomona, CA 91767",
+            "latitude": 34.0972169,
+            "longitude": -117.7341302,
+            "rating": 2,
+            "ratingCount": 1,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-sGKz4Qr--xuWYASRDXcxe220IOhQjgRrMTabmgs359VWBNI1X-L2MSXJbuRG4yXONoAtRsReopFL1O4StdhX6c7_O50gYT2CwvORZWJVV9xk49skGGVptRwyr-URV4RFBqN6M",
+            "cid": "3991812650680696786",
+            "fid": "0x80c331d94641165d:0x3765c474cdbbbfd2",
+            "placeId": "ChIJXRZBRtkxw4AR0r-7zXTEZTc"
+        },
+        {
+            "position": 3,
+            "title": "mount san antonio gardens",
+            "address": "899 W Bonita Ave, Claremont, CA 91711",
+            "latitude": 34.097375,
+            "longitude": -117.73251769999999,
+            "type": "Apartment complex",
+            "types": [
+                "Apartment complex"
+            ],
+            "cid": "17971688481841220054",
+            "fid": "0x80c3310b8931254d:0xf9684374c62009d6",
+            "placeId": "ChIJTSUxiQsxw4AR1gkgxnRDaPk"
+        }
+    ],
+    "credits": 3
+}

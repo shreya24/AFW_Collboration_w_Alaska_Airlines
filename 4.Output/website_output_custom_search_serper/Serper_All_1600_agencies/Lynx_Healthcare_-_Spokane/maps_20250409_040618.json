@@ -1,0 +1,36 @@
+{
+    "searchParameters": {
+        "q": "Lynx Healthcare - Spokane",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6869556,-117.2352309,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Lynx Healthcare",
+            "address": "12709 E E Mirabeau Pkwy Bldg A, Suite 300, Spokane Valley, WA 99216",
+            "latitude": 47.6869556,
+            "longitude": -117.23523089999999,
+            "rating": 4.1,
+            "ratingCount": 372,
+            "type": "Pain management physician",
+            "types": [
+                "Pain management physician",
+                "Doctor",
+                "Nurse practitioner",
+                "Pain control clinic",
+                "Physician assistant"
+            ],
+            "phoneNumber": "(509) 591-0070",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMqNSpA8G4mgOwbFTJvolaf5beRWKpAC59qvTnj",
+            "cid": "1441186423634879966",
+            "fid": "0x5361dfea4b200c79:0x14001f6aa3df65de",
+            "placeId": "ChIJeQwgS-rfYVMR3mXfo2ofABQ"
+        }
+    ],
+    "credits": 3
+}

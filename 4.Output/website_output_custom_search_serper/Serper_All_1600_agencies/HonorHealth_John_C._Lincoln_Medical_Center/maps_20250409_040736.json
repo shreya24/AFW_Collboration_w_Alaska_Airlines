@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "HonorHealth John C. Lincoln Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.5692679,-112.070868,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "HonorHealth John C. Lincoln Medical Center",
+            "address": "250 E Dunlap Ave, Phoenix, AZ 85020",
+            "latitude": 33.5692679,
+            "longitude": -112.07086799999999,
+            "rating": 3.4,
+            "ratingCount": 990,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Doctor",
+                "Hospital",
+                "Radiologist"
+            ],
+            "website": "https://www.honorhealth.com/locations/hospitals/john-c-lincoln-medical-center?utm_source=GMB&utm_medium=local&utm_campaign=John_C_Lincoln_Medical_Center",
+            "phoneNumber": "(602) 943-2381",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8OllckoblsrW4IvRrzuvRaRdjBjnWv8guRIwIhJtcCQZMHm85TR4MKonLZjEn3_NQsnwu_AdKohWLDeelr5DELMRG8dX4U0L-lAmkhQa4WsZc7M_oAfgY_FY2eGVO8bQKWHUyXUA",
+            "cid": "12142764189857656654",
+            "fid": "0x872b6d74d8524ad5:0xa883c3b20fccaf4e",
+            "placeId": "ChIJ1UpS2HRtK4cRTq_MD7LDg6g"
+        }
+    ],
+    "credits": 3
+}

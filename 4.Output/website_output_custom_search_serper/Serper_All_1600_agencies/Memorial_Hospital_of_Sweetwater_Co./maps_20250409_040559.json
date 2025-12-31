@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Memorial Hospital of Sweetwater Co.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@41.5849214,-109.235183,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Memorial Hospital of Sweetwater County",
+            "address": "1200 College Dr, Rock Springs, WY 82901",
+            "latitude": 41.5849214,
+            "longitude": -109.23518299999999,
+            "rating": 4.2,
+            "ratingCount": 488,
+            "type": "General hospital",
+            "types": [
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.sweetwatermemorial.com/?utm_source=GMB&utm_medium=organic&utm_campaign=rocksprings",
+            "phoneNumber": "(307) 362-3711",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9l0KdG4vxt4yXB_dqMGyMKOxVBRlUs_eXfkbnN9szCW7IXlLincFX-BdJBaEbD8dGqrSq-ISohYL_KQLXFxehdqvb-Q-ImtePIJcgAmYScW2IhfhQkUFRxCMW6hcGUG-L-7IDG",
+            "cid": "10158049730063754964",
+            "fid": "0x875a60e2acddf0a5:0x8cf8a468eb33e6d4",
+            "placeId": "ChIJpfDdrOJgWocR1OYz62ik-Iw"
+        }
+    ],
+    "credits": 3
+}

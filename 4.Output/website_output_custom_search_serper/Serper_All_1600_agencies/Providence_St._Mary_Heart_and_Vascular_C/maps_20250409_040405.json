@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence St. Mary Heart and Vascular C",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.0620038,-118.3431524,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence St. Mary Heart and Vascular Center",
+            "address": "401 W Poplar St, Walla Walla, WA 99362",
+            "latitude": 46.0620038,
+            "longitude": -118.3431524,
+            "rating": 3,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Cardiologist"
+            ],
+            "website": "https://www.providence.org/locations/wa/st-mary-medical-center/heart-and-vascular-center?Is=location&y_source=1_OTU3NzA0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 897-2600",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMduOW9tqQLlRFgykp3zvWVMKRQWk31OhTsntK9",
+            "cid": "4492030000672484675",
+            "fid": "0x54a26a7a8efad25b:0x3e56e57c5e7b2d43",
+            "placeId": "ChIJW9L6jnpqolQRQy17XnzlVj4"
+        }
+    ],
+    "credits": 3
+}

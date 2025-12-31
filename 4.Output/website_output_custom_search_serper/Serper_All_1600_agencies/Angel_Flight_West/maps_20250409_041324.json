@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Angel Flight West",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.016627,-118.447872,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Angel Flight West",
+            "address": "3161 Donald Douglas Loop S, Santa Monica, CA 90405",
+            "latitude": 34.016627,
+            "longitude": -118.44787199999999,
+            "rating": 4.9,
+            "ratingCount": 71,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.angelflightwest.org/",
+            "phoneNumber": "(310) 390-2958",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-hN5u2C8zKRvC5ui8KktzaG3hNdaFCMa9FzYoFZ-ZQxYLxbgiBcHwHWzN9vSB8tXG5T8OeNtg8PDD_McyYVu6-sfordvR6eWr7LzBLBQb5v3b9MfPDE_-c6zazBLK_OpZz66c",
+            "cid": "308482486631941757",
+            "fid": "0x80c2bafdf55679cb:0x447f32feb20467d",
+            "placeId": "ChIJy3lW9f26woARfUYg6y_zRwQ"
+        }
+    ],
+    "credits": 3
+}

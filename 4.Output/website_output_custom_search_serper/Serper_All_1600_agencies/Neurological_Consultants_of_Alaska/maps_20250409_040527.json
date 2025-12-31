@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Neurological Consultants of Alaska",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.194629,-149.8801562,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Neurological Consultants Of Alaska",
+            "address": "202 E Northern Lights Blvd, Anchorage, AK 99503",
+            "latitude": 61.194629,
+            "longitude": -149.8801562,
+            "rating": 2.8,
+            "ratingCount": 12,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Neurologist"
+            ],
+            "website": "http://www.neuroak.com/",
+            "phoneNumber": "(907) 277-1623",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM37gu_RO69vrp9RPGJu2DBNEvY_71Dd7aGSj-N",
+            "cid": "505437883982449355",
+            "fid": "0x56c89645b6b36cfd:0x703ad13dacc8acb",
+            "placeId": "ChIJ_WyztkWWyFYRy4rM2hOtAwc"
+        }
+    ],
+    "credits": 3
+}

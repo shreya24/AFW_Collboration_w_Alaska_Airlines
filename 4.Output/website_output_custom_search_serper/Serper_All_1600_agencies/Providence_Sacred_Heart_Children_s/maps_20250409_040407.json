@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Providence Sacred Heart Children's",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@47.6489469,-117.412962,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Sacred Heart Children's Hospital",
+            "address": "101 W 8th Ave, Spokane, WA 99204",
+            "latitude": 47.6489469,
+            "longitude": -117.412962,
+            "rating": 2.9,
+            "ratingCount": 412,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Pediatrician"
+            ],
+            "website": "https://www.providence.org/locations/wa/sacred-heart-childrens-hospital?ls=location&y_source=1_OTU3Njk1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phoneNumber": "(509) 474-3131",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMdkfaLd8QhTutWUJkZ9bogH9pS6MBf7fz6VOdt",
+            "cid": "5056653813941946627",
+            "fid": "0x549e187c5d366d11:0x462cd7da3c224903",
+            "placeId": "ChIJEW02XXwYnlQRA0kiPNrXLEY"
+        }
+    ],
+    "credits": 3
+}

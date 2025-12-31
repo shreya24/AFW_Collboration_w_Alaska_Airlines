@@ -1,0 +1,31 @@
+{
+    "searchParameters": {
+        "q": "Dr. Ted Humphry",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.7858219,-124.1410414,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Theodore R. Humphry, MD",
+            "address": "2200 Tydd Street, Eureka, CA 95501",
+            "latitude": 40.785821899999995,
+            "longitude": -124.14104139999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "phoneNumber": "(707) 269-7051",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rWVPaNH45VGFljc4fA0zqQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=160.8687&pitch=0&thumbfov=100",
+            "cid": "3222100978280882755",
+            "fid": "0x54d15a8a1a16a5cd:0x2cb733c4b0dee243",
+            "placeId": "ChIJzaUWGopa0VQRQ-LesMQztyw"
+        }
+    ],
+    "credits": 3
+}

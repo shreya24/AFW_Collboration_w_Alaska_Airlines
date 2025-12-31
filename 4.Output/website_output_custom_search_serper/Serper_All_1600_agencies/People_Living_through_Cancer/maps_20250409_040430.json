@@ -1,0 +1,30 @@
+{
+    "searchParameters": {
+        "q": "People Living through Cancer",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1172744,-106.606177,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "People Living Through Cancer",
+            "address": "3411 Candelaria Rd NE, Albuquerque, NM 87107",
+            "latitude": 35.1172744,
+            "longitude": -106.60617699999999,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "phoneNumber": "(505) 242-3263",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FoIRY8kC1KxA0u7dYAvhrg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=235.03885&pitch=0&thumbfov=100",
+            "cid": "2155602413934157831",
+            "fid": "0x872274b7f72e2213:0x1dea3cf97f852007",
+            "placeId": "ChIJEyIu97d0IocRByCFf_k86h0"
+        }
+    ],
+    "credits": 3
+}

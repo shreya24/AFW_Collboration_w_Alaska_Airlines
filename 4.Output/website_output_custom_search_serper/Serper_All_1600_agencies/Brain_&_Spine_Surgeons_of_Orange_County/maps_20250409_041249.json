@@ -1,0 +1,102 @@
+{
+    "searchParameters": {
+        "q": "Brain & Spine Surgeons of Orange County",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.655644,-117.832861,12z",
+    "places": [
+        {
+            "position": 1,
+            "title": "ONE Brain and Spine Center",
+            "address": "16405 Sand Canyon Ave Ste 200, Irvine, CA 92618",
+            "latitude": 33.6611622,
+            "longitude": -117.7750614,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Neurosurgeon"
+            ],
+            "phoneNumber": "(949) 383-4190",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Im7KM8aQLkUaFh9DXlyx6A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=137.51671&pitch=0&thumbfov=100",
+            "cid": "13711328232632262142",
+            "fid": "0x80dcdd7048b41af5:0xbe486c61c0d49dfe",
+            "placeId": "ChIJ9Rq0SHDd3IAR_p3UwGFsSL4"
+        },
+        {
+            "position": 2,
+            "title": "Brian Hwang, MD, FAANS - Advanced Neurosurgery & Spine Surgery",
+            "address": "23961 Calle De La Magdalena #405, Laguna Hills, CA 92653",
+            "latitude": 33.6101689,
+            "longitude": -117.7102077,
+            "rating": 5,
+            "ratingCount": 81,
+            "type": "Neurosurgeon",
+            "types": [
+                "Neurosurgeon"
+            ],
+            "website": "http://drbhwang.com/",
+            "phoneNumber": "(949) 588-5800",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20135\u202fPM",
+                "Thursday": "7:30\u202fAM\u20135\u202fPM",
+                "Friday": "7:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.drbhwang.com/online-appointment-neurosurgeon-spine-brain-surgery-laguna-hills-irvine-san-clemente-ca/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNInMCNXg7WBqobQySHB0j4qV0tt3g3bYn6dOiL",
+            "cid": "12545155401235378812",
+            "fid": "0x80dce9b41fca31ef:0xae19585eceb5327c",
+            "placeId": "ChIJ7zHKH7Tp3IARfDK1zl5YGa4"
+        },
+        {
+            "position": 3,
+            "title": "Orange County Brain & Spine Group",
+            "address": "18035 Brookhurst St #1700, Fountain Valley, CA 92708",
+            "latitude": 33.7011191,
+            "longitude": -117.9555144,
+            "rating": 2.5,
+            "ratingCount": 11,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor",
+                "Surgeon"
+            ],
+            "website": "https://www.ocbrainspinegroup.com/",
+            "phoneNumber": "(714) 433-2000",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2tIrbIQWBQ10yjb0jCeMjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.97522&pitch=0&thumbfov=100",
+            "cid": "7267535043622159663",
+            "fid": "0x80dd27671cb4c8e3:0x64db789dfbcd452f",
+            "placeId": "ChIJ48i0HGcn3YARL0XN-51422Q"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Ponderosa Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.476219,-119.799467,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Ponderosa Pediatrics | Lari L. Frazee, D.O.",
+            "address": "6512 S McCarran Blvd D, Reno, NV 89509",
+            "latitude": 39.476219,
+            "longitude": -119.79946699999999,
+            "rating": 3.7,
+            "ratingCount": 51,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://ponderosapeds.com/",
+            "phoneNumber": "(775) 900-9987",
+            "menu": "https://ponderosapeds.com/services/",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Friday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB89YQn24YbJzw7jtVjHdjvBtaTrQ7pk757hd9h5tw6wuVjOHHVkujDJyir3vhd-0UVjHDa1sFyLUpffmQpSsro_1ALqbiiRXTRn68lgCiNZb_ixuSVo-mKuvQCWpQb5E2TZrtU",
+            "cid": "6801594584552136933",
+            "fid": "0x8099415a790838a9:0x5e641e3cfe7360e5",
+            "placeId": "ChIJqTgIeVpBmYAR5WBz_jweZF4"
+        }
+    ],
+    "credits": 3
+}

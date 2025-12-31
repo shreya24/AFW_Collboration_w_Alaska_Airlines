@@ -1,0 +1,58 @@
+{
+    "searchParameters": {
+        "q": "New Mexico Brain Injury Institute",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.0747936,-106.617223,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "New Mexico Brain Injury Alliance",
+            "address": "3150 Carlisle Blvd NE # 208, Albuquerque, NM 87110",
+            "latitude": 35.1179871,
+            "longitude": -106.60343859999999,
+            "rating": 4.8,
+            "ratingCount": 5,
+            "type": "Social services organization",
+            "types": [
+                "Social services organization"
+            ],
+            "website": "https://braininjurynm.org/",
+            "phoneNumber": "(505) 292-7414",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20134\u202fPM",
+                "Wednesday": "9\u202fAM\u20134\u202fPM",
+                "Thursday": "9\u202fAM\u20134\u202fPM",
+                "Friday": "9\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_FuFS5RfIDsy068VU3S2bw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.89134&pitch=0&thumbfov=100",
+            "cid": "2416469351297774605",
+            "fid": "0x872274b7771c50ef:0x218906126eb8f40d",
+            "placeId": "ChIJ71Acd7d0IocRDfS4bhIGiSE"
+        },
+        {
+            "position": 2,
+            "title": "Brain Injury Alliance",
+            "address": "3601 University Blvd SE, Albuquerque, NM 87106",
+            "latitude": 35.0316,
+            "longitude": -106.6310074,
+            "type": "Association / Organization",
+            "types": [
+                "Association / Organization"
+            ],
+            "website": "https://braininjurynm.org/",
+            "phoneNumber": "(888) 292-7415",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k51Ec-SyCXSRztIxT9mXog&cb_client=search.gws-prod.gps&w=80&h=92&yaw=322.17346&pitch=0&thumbfov=100",
+            "cid": "10442983875438621421",
+            "fid": "0x87220c09ba05d4e9:0x90ecee8162a6b2ed",
+            "placeId": "ChIJ6dQFugkMIocR7bKmYoHu7JA"
+        }
+    ],
+    "credits": 3
+}

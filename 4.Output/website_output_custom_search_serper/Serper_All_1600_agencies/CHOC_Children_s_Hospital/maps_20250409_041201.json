@@ -1,0 +1,101 @@
+{
+    "searchParameters": {
+        "q": "CHOC Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.6751596,-117.7794091,11z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHOC Main Campus - Orange",
+            "address": "1201 W La Veta Ave, Orange, CA 92868",
+            "latitude": 33.7806251,
+            "longitude": -117.8660831,
+            "rating": 4,
+            "ratingCount": 1348,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Doctor",
+                "Pediatrician"
+            ],
+            "website": "https://choc.org/locations/choc-childrens-main-campus-orange/?utm_source=google&utm_medium=gmb&utm_content=clinic&utm_campaign=choc_main_campus_orange",
+            "phoneNumber": "(714) 997-3000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMfA0A3MPf_TJS6heiQRLb4zMuEBdw7z8kFAAlt",
+            "cid": "17128036124953281039",
+            "fid": "0x80dcd9cffe089d6d:0xedb3021b7fe6020f",
+            "placeId": "ChIJbZ0I_s_Z3IARDwLmfxsCs-0"
+        },
+        {
+            "position": 2,
+            "title": "CHOC Pediatric Urgent Care Clinic, Orange",
+            "address": "3745 W Chapman Ave, Orange, CA 92868",
+            "latitude": 33.7893232,
+            "longitude": -117.8933632,
+            "rating": 2.5,
+            "ratingCount": 92,
+            "type": "Urgent care center",
+            "types": [
+                "Urgent care center",
+                "Medical clinic",
+                "Pediatrician"
+            ],
+            "website": "https://choc.org/primary-care/pediatric-urgent-care/?utm_source=google&utm_medium=gmb&utm_content=clinic&utm_campaign=choc_pediatric_urgent_care_clinic,_orange",
+            "phoneNumber": "(714) 770-8409",
+            "openingHours": {
+                "Tuesday": "12\u202fPM\u201312\u202fAM",
+                "Wednesday": "12\u202fPM\u201312\u202fAM",
+                "Thursday": "12\u202fPM\u201312\u202fAM",
+                "Friday": "12\u202fPM\u201312\u202fAM",
+                "Saturday": "12\u202fPM\u201312\u202fAM",
+                "Sunday": "12\u202fPM\u201312\u202fAM",
+                "Monday": "12\u202fPM\u201312\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOoHCQ7OL4OX73PdJd5FY1oYl9iEeo4bItrfn0P",
+            "cid": "4627898699310166624",
+            "fid": "0x80dcd97c1b4d7f39:0x40399958ecdff260",
+            "placeId": "ChIJOX9NG3zZ3IARYPLf7FiZOUA"
+        },
+        {
+            "position": 3,
+            "title": "CHOC at Mission Hospital",
+            "address": "27700 Medical Center Rd 5th floor, Mission Viejo, CA 92691",
+            "latitude": 33.560995999999996,
+            "longitude": -117.665455,
+            "rating": 2.8,
+            "ratingCount": 48,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital"
+            ],
+            "website": "https://choc.org/choc-childrens-mission-hospital/?utm_source=google&utm_medium=gmb&utm_content=hospital&utm_campaign=choc_childrens_mission_hospital",
+            "phoneNumber": "(949) 993-0912",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIBgwbLYIrBlfYRV3WmYQSih-5nyUNwxAWrrWo",
+            "cid": "8372460434848514479",
+            "fid": "0x80dcee8d67d2a907:0x7430f468032881af",
+            "placeId": "ChIJB6nSZ43u3IARr4EoA2j0MHQ"
+        }
+    ],
+    "credits": 3
+}

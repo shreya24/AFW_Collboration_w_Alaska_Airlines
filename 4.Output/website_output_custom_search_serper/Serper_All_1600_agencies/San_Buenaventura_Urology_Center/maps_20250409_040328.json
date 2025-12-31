@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "San Buenaventura Urology Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.275241,-119.260048,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Memorial Urology & Urogynecology",
+            "address": "2705 Loma Vista Rd # 206, Ventura, CA 93003",
+            "latitude": 34.275241,
+            "longitude": -119.260048,
+            "rating": 2.1,
+            "ratingCount": 36,
+            "type": "Urology clinic",
+            "types": [
+                "Urology clinic",
+                "Urologist"
+            ],
+            "website": "https://www.mycmh.org/locations/community-memorial-urology/",
+            "phoneNumber": "(805) 643-4067",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u201312\u202fPM, 12:30\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u201312\u202fPM, 12:30\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u201312\u202fPM, 12:30\u20134\u202fPM",
+                "Friday": "8\u202fAM\u201312\u202fPM, 12:30\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u201312\u202fPM, 12:30\u20134\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.mycmh.org/community-health/centers-for-family-health-appointments/"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_imyGJcMNSc3qhFhLUPB5IpClTQL0IyFyKeaNM9cTrPYTkZJaLdetUTjuo2yrAMt-uFQt7koB87F7bf_87RZh5cZ0w0ja2UikyqVmdcYLLyY0xvD4XjHX3iw1k3pKbU-DtKpBY7iGkPl8",
+            "cid": "1721457647710722981",
+            "fid": "0x80e9ad3e8f3188b3:0x17e3d89c23ad5ba5",
+            "placeId": "ChIJs4gxjz6t6YARpVutI5zY4xc"
+        }
+    ],
+    "credits": 3
+}

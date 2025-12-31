@@ -1,0 +1,84 @@
+{
+    "searchParameters": {
+        "q": "Dr. Michael J. Hawes M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5273334,-83.4109394,6z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Jodi J. Hawes, MD",
+            "address": "40 Duke Medicine Cir Clinic 1L, Durham, NC 27710",
+            "latitude": 36.0043423,
+            "longitude": -78.9359336,
+            "rating": 4,
+            "ratingCount": 5,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist",
+                "Doctor"
+            ],
+            "website": "https://www.dukehealth.org/find-doctors-physicians/jodi-j-hawes-md?utm_source=google&utm_medium=local&utm_campaign=evergreen",
+            "phoneNumber": "(919) 668-7600",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNUmXR78jkW7YG7Lnzih5bn-5WeB7oesXuWkaNV",
+            "cid": "6069354131347021443",
+            "fid": "0x89ace6ae99aa56a3:0x543aad6cf6fd1e83",
+            "placeId": "ChIJo1aqma7mrIkRgx799mytOlQ"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Jane A. Hawes, MD",
+            "address": "Milwaukee, WI 53211",
+            "latitude": 43.079311399999995,
+            "longitude": -87.8859453,
+            "type": "Doctor",
+            "types": [
+                "Doctor"
+            ],
+            "website": "http://physicians.columbia-stmarys.org/",
+            "phoneNumber": "(414) 319-3000",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7Uus_WsRuKcsmtZL8jGZGQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=182.78342&pitch=0&thumbfov=100",
+            "cid": "9877262848291517779",
+            "fid": "0x880518c2dbd1c5fb:0x8913163a81943553",
+            "placeId": "ChIJ-8XR28IYBYgRUzWUgToWE4k"
+        },
+        {
+            "position": 3,
+            "title": "Dr. Anne C. Hawes, MD",
+            "address": "6439 Garners Ferry Rd, Columbia, SC 29209",
+            "latitude": 33.9753554,
+            "longitude": -80.95960699999999,
+            "type": "Neurologist",
+            "types": [
+                "Neurologist"
+            ],
+            "website": "http://www.columbiasc.va.gov/",
+            "phoneNumber": "(803) 695-6818",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PtIy08oBklzkE3-XuodOlw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=314.78152&pitch=0&thumbfov=100",
+            "cid": "96731307245354370",
+            "fid": "0x88f8b03f7a76d263:0x157a89c8704bd82",
+            "placeId": "ChIJY9J2ej-w-IgRgr0Eh5yoVwE"
+        },
+        {
+            "position": 4,
+            "title": "Dr. Jodi Hawes",
+            "address": "932 Morreene Rd, Durham, NC 27705",
+            "latitude": 36.0093488,
+            "longitude": -78.9551896,
+            "type": "Psychiatrist",
+            "types": [
+                "Psychiatrist",
+                "Practitioner service location"
+            ],
+            "website": "https://www.dukehealth.org/find-doctors-physicians/jodi-j-hawes-md",
+            "phoneNumber": "(800) 266-3853",
+            "cid": "6496217027404578451",
+            "fid": "0x89ace6cba77aaaab:0x5a2732f7ce4b3e93",
+            "placeId": "ChIJq6p6p8vmrIkRkz5LzvcyJ1o"
+        }
+    ],
+    "credits": 3
+}

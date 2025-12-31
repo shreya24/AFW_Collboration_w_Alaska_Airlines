@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "St. Vrain Valley Shelter",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.1972221,-105.0952419,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Safe Shelter of St. Vrain Valley",
+            "address": "82 21st Ave, Longmont, CO 80501",
+            "latitude": 40.1972221,
+            "longitude": -105.09524189999999,
+            "rating": 3.7,
+            "ratingCount": 21,
+            "type": "Domestic abuse treatment center",
+            "types": [
+                "Domestic abuse treatment center",
+                "Non-profit organization"
+            ],
+            "website": "http://www.safeshelterofstvrain.org/",
+            "phoneNumber": "(303) 772-0432",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-dKgF0IaHp7prJ_c6FVNButNDq5KRUBoBLBFj_BlcwWUbmI3iVaXGVq5vf4qMgngCtiPjYkMfTBDpIfyLiDX7ga9m4oBW1JJIKNLuC21z1vI7xnLNE4eZbKx1_mZ7Q5Xe-Dv8",
+            "cid": "1486741769947142118",
+            "fid": "0x876bf90aa8d3b1d9:0x14a1f7c33e6f57e6",
+            "placeId": "ChIJ2bHTqAr5a4cR5ldvPsP3oRQ"
+        }
+    ],
+    "credits": 3
+}

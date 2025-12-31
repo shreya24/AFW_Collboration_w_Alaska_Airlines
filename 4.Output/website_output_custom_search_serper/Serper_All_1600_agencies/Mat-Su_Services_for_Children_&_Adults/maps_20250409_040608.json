@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Mat-Su Services for Children & Adults",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.5998725,-149.4831847,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Mat-Su Services for Children and Adults",
+            "address": "1225 W Spruce Ave, Wasilla, AK 99654",
+            "latitude": 61.5998725,
+            "longitude": -149.48318469999998,
+            "rating": 4.1,
+            "ratingCount": 16,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Social services organization"
+            ],
+            "website": "http://www.mssca.org/",
+            "phoneNumber": "(907) 352-1200",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNX5MzjCU_UCaV8zPCfwSiifaqMmBpW7Kt6MKkj",
+            "cid": "11124570099521490539",
+            "fid": "0x438e3047dc131481:0x9a626990a4e90e6b",
+            "placeId": "ChIJgRQT3EcwjkMRaw7ppJBpYpo"
+        }
+    ],
+    "credits": 3
+}

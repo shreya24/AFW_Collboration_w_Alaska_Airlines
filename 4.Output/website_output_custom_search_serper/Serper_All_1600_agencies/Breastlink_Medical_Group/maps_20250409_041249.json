@@ -1,0 +1,465 @@
+{
+    "searchParameters": {
+        "q": "Breastlink Medical Group",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@33.7249354,-115.1404081,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Breastlink",
+            "address": "230 S Main St #100, Orange, CA 92868",
+            "latitude": 33.785146399999995,
+            "longitude": -117.867739,
+            "rating": 4.8,
+            "ratingCount": 3652,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Mammography service",
+                "Women's health clinic",
+                "Oncologist",
+                "Radiologist",
+                "Surgeon"
+            ],
+            "website": "https://breastlink.com/",
+            "phoneNumber": "(714) 541-0101",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/orange-county/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNfmryGrhyY9fpQ_xNnD8YYl7-Xhs8Tnxft2IUg",
+            "cid": "9448423267265201346",
+            "fid": "0x80dcd9d0b80627cf:0x831f8ae6d4e0c4c2",
+            "placeId": "ChIJzycGuNDZ3IARwsTg1OaKH4M"
+        },
+        {
+            "position": 2,
+            "title": "Breastlink Women\u2019s Imaging Long Beach",
+            "address": "6440 South St, Lakewood, CA 90713",
+            "latitude": 33.8573093,
+            "longitude": -118.1076044,
+            "rating": 4.7,
+            "ratingCount": 968,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-long-beach",
+            "phoneNumber": "(562) 627-0903",
+            "openingHours": {
+                "Tuesday": "6:30\u202fAM\u201310\u202fPM",
+                "Wednesday": "6:30\u202fAM\u201310\u202fPM",
+                "Thursday": "6:30\u202fAM\u201310\u202fPM",
+                "Friday": "6:30\u202fAM\u201310\u202fPM",
+                "Saturday": "7\u202fAM\u201310\u202fPM",
+                "Sunday": "7\u202fAM\u201310\u202fPM",
+                "Monday": "6:30\u202fAM\u201310\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/rolling-oaks-radiology/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9wtSJbz6cgrfjwmYGInJr-8BrvuRb-5L8kbS3SzJr_aAkeNrE-9PURcDtKHV0rV2tXpf1phePHA3CEhD-tGoxyKtBPokGmQsa2sfbz213S_zSYjSrUGjFLEs7xyDewWTzSi6k",
+            "cid": "2240260270623384737",
+            "fid": "0x80dd2dff052927ed:0x1f1700d8c2ed64a1",
+            "placeId": "ChIJ7ScpBf8t3YARoWTtwtgAFx8"
+        },
+        {
+            "position": 3,
+            "title": "Breastlink Women's Imaging Beverly Hills",
+            "address": "8750 Wilshire Blvd #200, Beverly Hills, CA 90211",
+            "latitude": 34.0663704,
+            "longitude": -118.3828082,
+            "rating": 4.7,
+            "ratingCount": 4335,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "MRI center",
+                "Radiologist",
+                "X-ray lab"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-beverly-hills",
+            "phoneNumber": "(310) 385-7747",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20135\u202fPM",
+                "Wednesday": "7\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "7\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/los-angeles/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPyJg9rX2ejkAmO36sJKHK_NrBVUmkaGHdMkrmA",
+            "cid": "10844097362155953821",
+            "fid": "0x80c2bc082c06c345:0x967df918ad0e5e9d",
+            "placeId": "ChIJRcMGLAi8woARnV4OrRj5fZY"
+        },
+        {
+            "position": 4,
+            "title": "Breastlink Women's Imaging Riverside",
+            "address": "3900 Sherman Dr #100, Riverside, CA 92503",
+            "latitude": 33.927316,
+            "longitude": -117.43794589999999,
+            "rating": 4.8,
+            "ratingCount": 6470,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-riverside",
+            "phoneNumber": "(951) 238-6050",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u201310\u202fPM",
+                "Wednesday": "7\u202fAM\u20135:30\u202fPM",
+                "Thursday": "7\u202fAM\u201310\u202fPM",
+                "Friday": "7\u202fAM\u20135:30\u202fPM",
+                "Saturday": "7\u202fAM\u20133:30\u202fPM",
+                "Sunday": "7\u202fAM\u20133:30\u202fPM",
+                "Monday": "7\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_NgbEur15vWOG6m87YaSO-V4nEzpZBesdGAha49T_y3g5dXZyM54-dXjHREwGr7WlML4NBIUm6AenwlMvrTQ87SFC92nBo2EFg9acKSnue791Eu3tLjq9peoOTvcFA3NNkiCMlmw",
+            "cid": "3656108957863853333",
+            "fid": "0x80dcb0dca01d3a13:0x32bd1bb9ed993d15",
+            "placeId": "ChIJEzodoNyw3IARFT2Z7bkbvTI"
+        },
+        {
+            "position": 5,
+            "title": "Breastlink Women's Imaging Garden Grove",
+            "address": "9191 Westminster Blvd. #210, Garden Grove, CA 92844",
+            "latitude": 33.760164599999996,
+            "longitude": -117.96901609999999,
+            "rating": 4.8,
+            "ratingCount": 1501,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-garden-grove",
+            "phoneNumber": "(714) 784-1657",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20139\u202fPM",
+                "Wednesday": "8\u202fAM\u20139\u202fPM",
+                "Thursday": "8\u202fAM\u20139\u202fPM",
+                "Friday": "8\u202fAM\u20139\u202fPM",
+                "Saturday": "8\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20139\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/orange-county/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-5ADkebZkOWtdIYsZiU-e2mBM-DuQxqR0XdbZ495OPYfKZ7svkh9W_Vm8ZwDp5qLqbLyORx5SRA3nDOQBN0B_XQ241aGwysNoJiMke1s2vFwIIG9WblgjjcR4oG6w9m3fNU6Ba",
+            "cid": "5309256377281850063",
+            "fid": "0x80dd27d39e026f57:0x49ae448ba55caacf",
+            "placeId": "ChIJV28CntMn3YARz6pcpYtErkk"
+        },
+        {
+            "position": 6,
+            "title": "Breastlink Newport Beach",
+            "address": "1441 Avocado Ave Suite 301, Newport Beach, CA 92660",
+            "latitude": 33.613537,
+            "longitude": -117.869581,
+            "rating": 4.8,
+            "ratingCount": 933,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Cancer treatment center",
+                "Women's health clinic",
+                "Oncologist",
+                "Surgeon"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-newport-beach",
+            "phoneNumber": "(949) 272-2095",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/orange-county/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMIa8ygvBepH57nQ4BTgMaMtF0yqC0BcEZjOhgU",
+            "cid": "8405684469431176814",
+            "fid": "0x80dce08f0ed12d41:0x74a6fd7d5e768e6e",
+            "placeId": "ChIJQS3RDo_g3IARbo52Xn39pnQ"
+        },
+        {
+            "position": 7,
+            "title": "Breastlink Women's Imaging Tarzana",
+            "address": "18133 Ventura Blvd Ste 200, Tarzana, CA 91356",
+            "latitude": 34.1661186,
+            "longitude": -118.52818289999999,
+            "rating": 4.7,
+            "ratingCount": 5217,
+            "type": "Cancer treatment center",
+            "types": [
+                "Cancer treatment center",
+                "Mammography service",
+                "Women's health clinic",
+                "Oncologist",
+                "Radiologist",
+                "Surgeon"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-tarzana",
+            "phoneNumber": "(818) 784-8799",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20134:30\u202fPM",
+                "Thursday": "8\u202fAM\u20134:30\u202fPM",
+                "Friday": "8\u202fAM\u20134:30\u202fPM",
+                "Saturday": "7\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134:30\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/san-fernando-valley/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-xdGCdMAbqUsl_QJi04sqUUC-Ska-L3l_X9qVvZmxlCh7FuNgL59DH6XUIW0QxuVB_LTcJdRZz0_tZGqTgxEpbbLF1A57XNT_g4OqPSsb078TI8LDZCombQzKSqrHqpzXsFz7abw",
+            "cid": "5550112777853484024",
+            "fid": "0x80c299ccf3d7bab1:0x4d05f62a6b503bf8",
+            "placeId": "ChIJsbrX88yZwoAR-DtQayr2BU0"
+        },
+        {
+            "position": 8,
+            "title": "Breastlink Women\u2019s Imaging -Work -Temecula",
+            "address": "25455 Medical Center Dr #210, Murrieta, CA 92562",
+            "latitude": 33.556664399999995,
+            "longitude": -117.1861594,
+            "rating": 4.7,
+            "ratingCount": 6441,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Cancer treatment center",
+                "Women's health clinic",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-temecula-valley",
+            "phoneNumber": "(951) 600-2839",
+            "openingHours": {
+                "Tuesday": "7:30\u202fAM\u20139\u202fPM",
+                "Wednesday": "7:30\u202fAM\u20139\u202fPM",
+                "Thursday": "7:30\u202fAM\u20139\u202fPM",
+                "Friday": "7:30\u202fAM\u20136\u202fPM",
+                "Saturday": "7:30\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7:30\u202fAM\u20136\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/temecula-valley/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPwpdW81nT1Ayl0Ppf3EHOQ6H98OtjmoktmXJA2",
+            "cid": "1765384376323853479",
+            "fid": "0x80dc821202517fd3:0x187fe7bca2cecca7",
+            "placeId": "ChIJ039RAhKC3IARp8zOorznfxg"
+        },
+        {
+            "position": 9,
+            "title": "Marcia Ray Breastlink Women's Imaging Center",
+            "address": "222 W Eulalia St, Glendale, CA 91204",
+            "latitude": 34.1266166,
+            "longitude": -118.2574257,
+            "rating": 4.8,
+            "ratingCount": 2830,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/marcia-ray-breastlink-womens-imaging",
+            "phoneNumber": "(818) 502-2323",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-rlYM5U0RrQPXhRDu5xDP2X1OywiidmUsUYXgdpIg1POu3ajnV2GrGmxFplx5ALVWxNJqBWfe9sQUTysD9dSccKCNrbvoib9CAogY9rXmcU6itdxhsBna1TN8shgba5EdzdQI",
+            "cid": "16287311992975148385",
+            "fid": "0x80c2c0e0a1f1041d:0xe20827f6b73e4561",
+            "placeId": "ChIJHQTxoeDAwoARYUU-t_YnCOI"
+        },
+        {
+            "position": 10,
+            "title": "Breastlink Chandler",
+            "address": "1727 W Frye Rd Ste 110, Chandler, AZ 85224",
+            "latitude": 33.297840199999996,
+            "longitude": -111.87055249999999,
+            "rating": 4.8,
+            "ratingCount": 94,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-chandler",
+            "phoneNumber": "(480) 360-2775",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOVTq1lg_lVQE6NTAIODq5UU191I4vdRhLYcgED",
+            "cid": "9210749203040028017",
+            "fid": "0x872b0187801783eb:0x7fd327997a69c571",
+            "placeId": "ChIJ64MXgIcBK4cRccVpepkn038"
+        },
+        {
+            "position": 11,
+            "title": "Breastlink Mercy Gilbert",
+            "address": "3686 S Rome St #200, Gilbert, AZ 85297",
+            "latitude": 33.2837521,
+            "longitude": -111.7526334,
+            "rating": 4.7,
+            "ratingCount": 39,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-mercy-gilbert",
+            "phoneNumber": "(480) 256-9061",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNuimhlF7sBundDgkoVJLRS29ypEZNa30mkEnyi",
+            "cid": "12994843085816763759",
+            "fid": "0x872bad25b61f688f:0xb456f4efda0c956f",
+            "placeId": "ChIJj2gftiWtK4cRb5UM2u_0VrQ"
+        },
+        {
+            "position": 12,
+            "title": "Breastlink Women's Imaging Marina del Rey",
+            "address": "4640 Admiralty Way # 102, Marina Del Rey, CA 90292",
+            "latitude": 33.9815877,
+            "longitude": -118.4409328,
+            "rating": 2.7,
+            "ratingCount": 55,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-marina-del-rey",
+            "phoneNumber": "(310) 305-4500",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "7\u202fAM\u20135\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNgM9DCPU1uUfTlq7v5fW4QGBuNf2QhCUNI7dzZ",
+            "cid": "18265892104558348503",
+            "fid": "0x80c2ba7dcd503509:0xfd7d7c179dd008d7",
+            "placeId": "ChIJCTVQzX26woAR1wjQnRd8ff0"
+        },
+        {
+            "position": 13,
+            "title": "Breastlink Women's Imaging Santa Ana",
+            "address": "1100-A N Tustin Ave, Santa Ana, CA 92705",
+            "latitude": 33.7546691,
+            "longitude": -117.834671,
+            "rating": 2.7,
+            "ratingCount": 15,
+            "type": "Medical diagnostic imaging center",
+            "types": [
+                "Medical diagnostic imaging center",
+                "Mammography service",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-womens-imaging-santa-ana",
+            "phoneNumber": "(714) 543-9927",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "7\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.radnet.com/orange-county/for-patients/request-appointment"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNHqnRUjeYUrJP-EnKL2hKI0j4uRA5a7TGqCb8L",
+            "cid": "2576052265245848263",
+            "fid": "0x80dcd97efa4f22e3:0x23bff9e300d1b2c7",
+            "placeId": "ChIJ4yJP-n7Z3IARx7LRAOP5vyM"
+        },
+        {
+            "position": 14,
+            "title": "Breastlink Park Central",
+            "address": "3115 N 3rd Ave Suite S-140, Phoenix, AZ 85013",
+            "latitude": 33.4838458,
+            "longitude": -112.07733759999999,
+            "rating": 3.5,
+            "ratingCount": 4,
+            "type": "Mammography service",
+            "types": [
+                "Mammography service",
+                "Medical diagnostic imaging center",
+                "Radiologist"
+            ],
+            "website": "https://breastlink.com/locations/breastlink-park-central",
+            "phoneNumber": "(602) 277-4111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPsto_tv-FTqtreAqI7pC98CagFgtHMU392gc3F",
+            "cid": "11898875252931627631",
+            "fid": "0x872b136cd767cab1:0xa5214bffe5ad0a6f",
+            "placeId": "ChIJscpn12wTK4cRbwqt5f9LIaU"
+        }
+    ],
+    "credits": 3
+}

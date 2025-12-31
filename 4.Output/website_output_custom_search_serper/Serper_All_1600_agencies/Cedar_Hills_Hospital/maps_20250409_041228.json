@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Cedar Hills Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.505888,-122.7833879,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Cedar Hills Hospital",
+            "address": "10300 SW Eastridge St, Portland, OR 97225",
+            "latitude": 45.505888,
+            "longitude": -122.7833879,
+            "rating": 2.4,
+            "ratingCount": 269,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://cedarhillshospital.com/",
+            "phoneNumber": "(503) 944-5000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_8XDodtPRl8Yo6SgANbOiQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=211.21397&pitch=0&thumbfov=100",
+            "cid": "857233084820147597",
+            "fid": "0x5495094e70470971:0xbe580f2e66acd8d",
+            "placeId": "ChIJcQlHcE4JlVQRjc1q5vKA5Qs"
+        }
+    ],
+    "credits": 3
+}

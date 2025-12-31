@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Amy Kogut MD",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.3752074,-157.7236469,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Kogut Amy MD",
+            "address": "1243 Loho St, Kailua, HI 96734",
+            "latitude": 21.3752074,
+            "longitude": -157.7236469,
+            "rating": 5,
+            "ratingCount": 8,
+            "type": "Family practice physician",
+            "types": [
+                "Family practice physician",
+                "Ayurvedic clinic"
+            ],
+            "website": "http://kogutmd.com/",
+            "phoneNumber": "(808) 263-3020",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20131\u202fPM",
+                "Wednesday": "8\u202fAM\u20131\u202fPM",
+                "Thursday": "8\u202fAM\u20131\u202fPM",
+                "Friday": "8\u202fAM\u20131\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "10\u202fAM\u20132\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipO_4trtl_W7oOYcvhQlrH9t1k8mKc48OU_Kh-bA",
+            "cid": "17144240415688323682",
+            "fid": "0x7c0014dc195202bf:0xedec93d2f0ff7262",
+            "placeId": "ChIJvwJSGdwUAHwRYnL_8NKT7O0"
+        }
+    ],
+    "credits": 3
+}

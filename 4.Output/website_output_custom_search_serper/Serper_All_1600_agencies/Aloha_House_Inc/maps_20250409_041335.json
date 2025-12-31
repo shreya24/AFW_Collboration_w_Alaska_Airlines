@@ -1,0 +1,100 @@
+{
+    "searchParameters": {
+        "q": "Aloha House Inc",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@20.8943292,-156.4206692,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Aloha House, Inc.",
+            "address": "200 Ike Dr, Makawao, HI 96768",
+            "latitude": 20.885324999999998,
+            "longitude": -156.34041539999998,
+            "rating": 4.4,
+            "ratingCount": 45,
+            "type": "Addiction treatment center",
+            "types": [
+                "Addiction treatment center",
+                "Mental health service"
+            ],
+            "website": "https://mbhr.org/agencies/aloha-house/",
+            "phoneNumber": "(808) 579-8414",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20134\u202fPM",
+                "Wednesday": "8\u202fAM\u20134\u202fPM",
+                "Thursday": "8\u202fAM\u20134\u202fPM",
+                "Friday": "8\u202fAM\u20134\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMQpOstRHiRU9bj3ou_8AlLCAFNdK8-sPTNrGyZ",
+            "cid": "6892793562663909289",
+            "fid": "0x7954ccac51bff317:0x5fa81f39c4ae77a9",
+            "placeId": "ChIJF_O_UazMVHkRqXeuxDkfqF8"
+        },
+        {
+            "position": 2,
+            "title": "Aloha House",
+            "address": "Kahului, HI 96732",
+            "latitude": 20.8947222,
+            "longitude": -156.47,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Alcoholism treatment program",
+            "types": [
+                "Alcoholism treatment program"
+            ],
+            "website": "https://mbhr.org/agencies/aloha-house/",
+            "phoneNumber": "(808) 877-7117",
+            "cid": "14700524974659658509",
+            "fid": "0x7954d2d99738ae7f:0xcc02c193e658e30d",
+            "placeId": "ChIJf644l9nSVHkRDeNY5pPBAsw"
+        },
+        {
+            "position": 3,
+            "title": "Aloha House Inc",
+            "address": "1787 Wili Pa Loop #7, Wailuku, HI 96793",
+            "latitude": 20.892252799999998,
+            "longitude": -156.5009231,
+            "rating": 1,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Mental health service"
+            ],
+            "website": "https://mbhr.org/agencies/aloha-house/",
+            "phoneNumber": "(808) 579-8414",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uMlOpzcqSbGQ8Z76QpiOQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=172.83739&pitch=0&thumbfov=100",
+            "cid": "7855458747424351275",
+            "fid": "0x7954d34051b05349:0x6d04321c5bf6a42b",
+            "placeId": "ChIJSVOwUUDTVHkRK6T2WxwyBG0"
+        },
+        {
+            "position": 4,
+            "title": "Aloha House Inc",
+            "address": "Paia, HI 96779",
+            "latitude": 20.9033333,
+            "longitude": -156.3694444,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Addiction treatment center"
+            ],
+            "website": "https://mbhr.org/agencies/aloha-house/",
+            "phoneNumber": "(808) 579-8414",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uh4wH5beTzLfvMmvtlLAng&cb_client=search.gws-prod.gps&w=80&h=92&yaw=68.50528&pitch=0&thumbfov=100",
+            "cid": "7068178208628170090",
+            "fid": "0x7eab332f943cd671:0x621736a1c6705d6a",
+            "placeId": "ChIJcdY8lC8zq34Ral1wxqE2F2I"
+        }
+    ],
+    "credits": 3
+}

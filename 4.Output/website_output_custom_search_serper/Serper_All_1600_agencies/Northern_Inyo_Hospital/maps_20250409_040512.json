@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Northern Inyo Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.3618636,-118.4053868,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Northern Inyo Hospital",
+            "address": "150 Pioneer Ln, Bishop, CA 93514",
+            "latitude": 37.3618636,
+            "longitude": -118.40538679999999,
+            "rating": 3.5,
+            "ratingCount": 60,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Cardiologist",
+                "Emergency room",
+                "Mammography service",
+                "Orthopedic surgeon",
+                "Pediatrician",
+                "Pharmacy",
+                "Speech pathologist",
+                "Urologist"
+            ],
+            "website": "https://nih.org/?utm_source=GMBSocialClimb&utm_medium=NorthernInyoHospital",
+            "phoneNumber": "(760) 873-5811",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOBehoj5L3xElNssQeMq36pH-RmuVMuFEs60R6F",
+            "cid": "10596545276458343317",
+            "fid": "0x80be3df7dfb8f3fd:0x930e7dc939a49b95",
+            "placeId": "ChIJ_fO43_c9voARlZukOcl9DpM"
+        }
+    ],
+    "credits": 3
+}

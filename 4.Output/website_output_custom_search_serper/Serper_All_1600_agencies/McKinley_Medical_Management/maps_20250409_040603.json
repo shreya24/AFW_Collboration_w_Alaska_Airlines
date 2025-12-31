@@ -1,0 +1,527 @@
+{
+    "searchParameters": {
+        "q": "McKinley Medical Management",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.1657558,-96.4969399,4z",
+    "places": [
+        {
+            "position": 1,
+            "title": "McKinley Health Center",
+            "address": "1109 S Lincoln Ave, Urbana, IL 61801",
+            "latitude": 40.1027724,
+            "longitude": -88.21991949999999,
+            "rating": 2.8,
+            "ratingCount": 120,
+            "type": "University hospital",
+            "types": [
+                "University hospital",
+                "Mental health clinic"
+            ],
+            "website": "https://mckinley.illinois.edu/",
+            "phoneNumber": "(217) 333-2700",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNFKCZb8rfhr-ZpvSW_jKc8Fg-2ziQQjVUYmioi",
+            "cid": "10254031784993412151",
+            "fid": "0x880cd71395b1402d:0x8e4da3948c18d437",
+            "placeId": "ChIJLUCxlRPXDIgRN9QYjJSjTY4"
+        },
+        {
+            "position": 2,
+            "title": "McKinley Medical",
+            "address": "245 Riverside Ave Ste 100-056, Jacksonville, FL 32202",
+            "latitude": 30.321466299999997,
+            "longitude": -81.67241899999999,
+            "rating": 5,
+            "ratingCount": 74,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "website": "http://www.mckinley-medical.com/",
+            "phoneNumber": "(904) 658-1114",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPKAhfh0CGVFzNfsP9Sq5g_fLo0NG3Hs9-KA2li",
+            "cid": "14502114575703765203",
+            "fid": "0x88e5b3b86ae86259:0xc941dc5f00d670d3",
+            "placeId": "ChIJWWLoariz5YgR03DWAF_cQck"
+        },
+        {
+            "position": 3,
+            "title": "Mc Kinley Medical Clinic",
+            "address": "127 McKinley St #101, Corona, CA 92879",
+            "latitude": 33.8837195,
+            "longitude": -117.5142942,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic"
+            ],
+            "phoneNumber": "(951) 278-2600",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20134\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rXkhea_6Yc_e5uh45ksH5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=71.72365&pitch=0&thumbfov=100",
+            "cid": "8477621965721076798",
+            "fid": "0x80dcb78f6e8fd391:0x75a69042eeda843e",
+            "placeId": "ChIJkdOPbo-33IARPoTa7kKQpnU"
+        },
+        {
+            "position": 4,
+            "title": "McKinley Health Center",
+            "address": "2166 Madison Ave, Granite City, IL 62040",
+            "latitude": 38.7019867,
+            "longitude": -90.14258769999999,
+            "rating": 1.9,
+            "ratingCount": 83,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Community health centre",
+                "Dentist",
+                "Doctor",
+                "Family counselor",
+                "Family practice physician",
+                "Obstetrician-gynecologist",
+                "Internist",
+                "Pediatrician",
+                "Psychiatrist"
+            ],
+            "website": "http://www.sihf.org/",
+            "phoneNumber": "(618) 452-3301",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=coYvY5dVio1o8S-4d3fWZQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=113.18829&pitch=0&thumbfov=100",
+            "cid": "14022891614474533754",
+            "fid": "0x87df527958f498d3:0xc29b51a07c8efb7a",
+            "placeId": "ChIJ05j0WHlS34cRevuOfKBRm8I"
+        },
+        {
+            "position": 5,
+            "title": "McKinley Health Care Center",
+            "address": "800 Market Ave N, Canton, OH 44702",
+            "latitude": 40.803739,
+            "longitude": -81.3721932,
+            "rating": 4,
+            "ratingCount": 53,
+            "type": "Nursing home",
+            "types": [
+                "Nursing home",
+                "Physical therapist",
+                "Rehabilitation center"
+            ],
+            "website": "https://mckinleyhc.com/",
+            "phoneNumber": "(330) 456-1014",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNpzfjyhvvL0mVatFT430-epBcHxeZvqn-82Yox",
+            "cid": "11431282098477674345",
+            "fid": "0x8836d070966c4135:0x9ea41280c70b2f69",
+            "placeId": "ChIJNUFslnDQNogRaS8Lx4ASpJ4"
+        },
+        {
+            "position": 6,
+            "title": "McKinley Medical Therapy Unit",
+            "address": "601 4th St, Bakersfield, CA 93304",
+            "latitude": 35.3594049,
+            "longitude": -119.0097771,
+            "type": "Public health department",
+            "types": [
+                "Public health department"
+            ],
+            "website": "http://www.kernpublichealth.com/",
+            "phoneNumber": "(661) 321-3000",
+            "cid": "9450258758190408606",
+            "fid": "0x80ea6a30e8f70225:0x832610455d76a39e",
+            "placeId": "ChIJJQL36DBq6oARnqN2XUUQJoM"
+        },
+        {
+            "position": 7,
+            "title": "Rodrick D. McKinlay, MD, F.A.C.S.",
+            "address": "1521 E 3900 S #100, Salt Lake City, UT 84124",
+            "latitude": 40.6874318,
+            "longitude": -111.84795349999999,
+            "rating": 4.8,
+            "ratingCount": 24,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "website": "http://www.rmap.com/",
+            "phoneNumber": "(801) 268-3800",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20135\u202fPM",
+                "Wednesday": "9\u202fAM\u20135\u202fPM",
+                "Thursday": "9\u202fAM\u20135\u202fPM",
+                "Friday": "9\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMkLJoiosH0jCzVesyOxpCb50zO4uOdDs9Mp3vY",
+            "cid": "2917610846686761398",
+            "fid": "0x87528a758a146091:0x287d6f9b5d9751b6",
+            "placeId": "ChIJkWAUinWKUocRtlGXXZtvfSg"
+        },
+        {
+            "position": 8,
+            "title": "Dominic McKinley, MD",
+            "address": "1915 Lendew St, Greensboro, NC 27408",
+            "latitude": 36.0947847,
+            "longitude": -79.8209835,
+            "rating": 4.9,
+            "ratingCount": 199,
+            "type": "Sports medicine physician",
+            "types": [
+                "Sports medicine physician",
+                "Doctor",
+                "Internist"
+            ],
+            "website": "http://www.guilfordortho.com/",
+            "phoneNumber": "(336) 275-3325",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "9\u202fAM\u20131\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOnX118g9hQCB_YwJ6AUALjEiloCylbcujufhYN",
+            "cid": "15348040446162108951",
+            "fid": "0x88531eae7e39fae9:0xd4ff3177e7d20217",
+            "placeId": "ChIJ6fo5fq4eU4gRFwLS53cx_9Q"
+        },
+        {
+            "position": 9,
+            "title": "Moffitt McKinley Hospital",
+            "address": "Moffitt McKinley Hospital, 10901 McKinley Dr, Tampa, FL 33612",
+            "latitude": 28.0475556,
+            "longitude": -82.4154243,
+            "rating": 4.5,
+            "ratingCount": 42,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center"
+            ],
+            "website": "https://www.moffitt.org/locations-directions/moffitt-mckinley-hospital/",
+            "phoneNumber": "(888) 663-3488",
+            "openingHours": {
+                "Tuesday": "5\u202fAM\u20138\u202fPM",
+                "Wednesday": "5\u202fAM\u20138\u202fPM",
+                "Thursday": "5\u202fAM\u20138\u202fPM",
+                "Friday": "5\u202fAM\u20138\u202fPM",
+                "Saturday": "7\u202fAM\u20137\u202fPM",
+                "Sunday": "7\u202fAM\u20137\u202fPM",
+                "Monday": "5\u202fAM\u20138\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyoja84Yd5-7KNQxL6s2KPmgB0UD63QCGn1gYg",
+            "cid": "12521792322025834372",
+            "fid": "0x88c2c7b40ec217d3:0xadc657c609904784",
+            "placeId": "ChIJ0xfCDrTHwogRhEeQCcZXxq0"
+        },
+        {
+            "position": 10,
+            "title": "McKinley - Corporate",
+            "address": "180 Via Verde, San Dimas, CA 91773",
+            "latitude": 34.0770275,
+            "longitude": -117.8147486,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Adoption agency",
+                "Family service center",
+                "Mental health service",
+                "Special education school"
+            ],
+            "website": "https://www.mckinleycc.org/",
+            "phoneNumber": "(909) 599-1227",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20135\u202fPM",
+                "Wednesday": "8:30\u202fAM\u20135\u202fPM",
+                "Thursday": "8:30\u202fAM\u20135\u202fPM",
+                "Friday": "8:30\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPCeQXkNm5qRXsfKnkTy4eXsG4Ml6opom_eudnv",
+            "cid": "4860868325100223178",
+            "fid": "0x80c32fca0a473659:0x437545fcd98bfaca",
+            "placeId": "ChIJWTZHCsovw4ARyvqL2fxFdUM"
+        },
+        {
+            "position": 11,
+            "title": "Medical City McKinney",
+            "address": "4500 Medical Center Dr, McKinney, TX 75069",
+            "latitude": 33.1602913,
+            "longitude": -96.63711579999999,
+            "rating": 4.3,
+            "ratingCount": 3330,
+            "type": "Medical Center",
+            "types": [
+                "Medical Center",
+                "Emergency room",
+                "General hospital",
+                "Hospital"
+            ],
+            "website": "https://www.medicalcityhealthcare.com/locations/medical-city-mckinney-hospital?utm__campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+            "phoneNumber": "(972) 547-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "bookingLinks": [
+                "https://www.medicalcityhealthcare.com/locations/medical-city-mckinney-hospital/physicians"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOUi_Sii7IbNYwE4zQZW685d8PN53RFSktpK-5V",
+            "cid": "6127100865065554328",
+            "fid": "0x864c116f4996a5f1:0x5507d5c625389198",
+            "placeId": "ChIJ8aWWSW8RTIYRmJE4JcbVB1U"
+        },
+        {
+            "position": 12,
+            "title": "Phillip Gordon McKinley, MD",
+            "address": "1120 W Washington Blvd, Los Angeles, CA 90015",
+            "latitude": 34.0387124,
+            "longitude": -118.2821299,
+            "type": "Internist",
+            "types": [
+                "Internist",
+                "Family practice physician"
+            ],
+            "website": "https://www.optum.com/en/care/providers/ca/phillip-gordon-mckinley-md-1033390463.html",
+            "phoneNumber": "(213) 623-2225",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMmo6DaGQVnfBuWlgSbnp3dLoeoK1U_TGrZ2dxW",
+            "cid": "16198579295188111920",
+            "fid": "0x80c2b9e21066d649:0xe0ccea0b93af5230",
+            "placeId": "ChIJSdZmEOK5woARMFKvkwvqzOA"
+        },
+        {
+            "position": 13,
+            "title": "McKinley Medical",
+            "address": "6252 Merrill Rd, Jacksonville, FL 32277",
+            "latitude": 30.351585399999998,
+            "longitude": -81.5920962,
+            "website": "https://www.mckinley-medical.com/contact-us",
+            "phoneNumber": "(904) 658-1114",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CostRzfqMn4p8C3eAEBh1Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=169.51224&pitch=0&thumbfov=100",
+            "cid": "15094410019400557827",
+            "fid": "0x88e5b3f785b94e11:0xd17a1df06477a503",
+            "placeId": "ChIJEU65hfez5YgRA6V3ZPAdetE"
+        },
+        {
+            "position": 14,
+            "title": "McKinley Companies",
+            "address": "320 N Main St #200, Ann Arbor, MI 48104",
+            "latitude": 42.283955999999996,
+            "longitude": -83.7480126,
+            "rating": 2,
+            "ratingCount": 144,
+            "type": "Property management company",
+            "types": [
+                "Property management company"
+            ],
+            "website": "https://www.mckinley.com/",
+            "phoneNumber": "(734) 769-8520",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "9\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOu1rrgfMYYyYpYH1qweU29HmUQPJG20CjFNCC0",
+            "cid": "7266912198345995385",
+            "fid": "0x883cae1630a9dd7d:0x64d94224845db479",
+            "placeId": "ChIJfd2pMBauPIgRebRdhCRC2WQ"
+        },
+        {
+            "position": 15,
+            "title": "George F. McKinley, MD",
+            "address": "36 W 60th St, New York, NY 10023",
+            "latitude": 40.7693375,
+            "longitude": -73.9841028,
+            "rating": 4.3,
+            "ratingCount": 4,
+            "type": "Infectious disease physician",
+            "types": [
+                "Infectious disease physician"
+            ],
+            "website": "http://www.mountsinai.org/",
+            "phoneNumber": "(212) 523-8672",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nNjZ5opRa8IG_NgHiulVQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=212.19682&pitch=0&thumbfov=100",
+            "cid": "9664682338989232066",
+            "fid": "0x89c25858d9ced033:0x861fd961b271cfc2",
+            "placeId": "ChIJM9DO2VhYwokRws9xsmHZH4Y"
+        },
+        {
+            "position": 16,
+            "title": "Emily McKinley, APRN",
+            "address": "915 W Monroe St #200, Jacksonville, FL 32204",
+            "latitude": 30.3313651,
+            "longitude": -81.6686014,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Nurse practitioner",
+            "types": [
+                "Nurse practitioner"
+            ],
+            "website": "http://www.mckinley-medical.com/",
+            "phoneNumber": "(904) 658-1114",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r-cQuXeJrG_XASaXFIK9BQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=123.548294&pitch=0&thumbfov=100",
+            "cid": "4690127032301808697",
+            "fid": "0x88e5b73ffd505263:0x4116adafbfce6c39",
+            "placeId": "ChIJY1JQ_T-35YgROWzOv6-tFkE"
+        },
+        {
+            "position": 17,
+            "title": "Kenneth MacKinlay, MD",
+            "address": "Orthopedics, 1373 E State Rd 62 2nd Floor, Madison, IN 47250",
+            "latitude": 38.792328399999995,
+            "longitude": -85.3645621,
+            "rating": 5,
+            "ratingCount": 19,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Doctor",
+                "Medical Center",
+                "Orthopedic clinic",
+                "Pain management physician",
+                "Pediatric orthopedic surgeon",
+                "Surgeon"
+            ],
+            "website": "https://www.kdhmadison.org/provider-directory/providers/kenneth-mackinlay-md/?utm_source=google&utm_medium=organic&utm_campaign=gbp+listing",
+            "phoneNumber": "(812) 801-0848",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "bookingLinks": [
+                "https://www.kdhmadison.org/provider-directory/providers/kenneth-mackinlay-md/?utm_source=google&utm_medium=organic&utm_campaign=gbp-appt"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPUfGZeF3fRORjH70IhJc8AVkLu6YkCVkyHEuY",
+            "cid": "17763725600524899791",
+            "fid": "0x886a3b56c083edb5:0xf6856e5142cc95cf",
+            "placeId": "ChIJte2DwFY7aogRz5XMQlFuhfY"
+        },
+        {
+            "position": 18,
+            "title": "Corona Medical Weight Control",
+            "address": "3848 McKinley St STE C, Corona, CA 92879",
+            "latitude": 33.882208,
+            "longitude": -117.515773,
+            "rating": 4.5,
+            "ratingCount": 53,
+            "type": "Weight loss service",
+            "types": [
+                "Weight loss service",
+                "Medical clinic"
+            ],
+            "website": "http://www.medicalweightcontrols.com/",
+            "phoneNumber": "(951) 273-9800",
+            "openingHours": {
+                "Tuesday": "9\u202fAM\u20136\u202fPM",
+                "Wednesday": "9\u202fAM\u20136\u202fPM",
+                "Thursday": "9\u202fAM\u20136\u202fPM",
+                "Friday": "9\u202fAM\u20136\u202fPM",
+                "Saturday": "8\u202fAM\u20134\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://www.zocdoc.com/practice/medical-weight-controls-83012?LocIdent=200547&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt__tZz4Ar1qUS-wXaGlCz9nx-lo_At9Vb20_4EeNRlyu4gXzph-entity&rwg_token=AAiGsobu2BKSC56wEYo-0NbLg-poHwJh7Ndp12MQL1mObFUKpKm67F9FxgtHKTZJZwwybOv8aBENNkuJaP3l-lsytbp9gxjCykK4E54NP7B7HJ0Y4dlNE08%3D"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPicNNr4rRKuePfQn6brxWYc4hj0uasra8zEYrN",
+            "cid": "16905505106689143213",
+            "fid": "0x80dcb78f499ce2a7:0xea9c6b5348c231ad",
+            "placeId": "ChIJp-KcSY-33IARrTHCSFNrnOo"
+        },
+        {
+            "position": 19,
+            "title": "McKinley, Inc",
+            "address": "76 S Main St, Akron, OH 44308",
+            "latitude": 41.0834275,
+            "longitude": -81.5185695,
+            "rating": 1,
+            "ratingCount": 2,
+            "type": "Property management company",
+            "types": [
+                "Property management company"
+            ],
+            "website": "http://www.mckinley.com/",
+            "phoneNumber": "(330) 384-9306",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oV2_-MKM4SZc1wPb2OWUHA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=289.21436&pitch=0&thumbfov=100",
+            "cid": "11680780443244631190",
+            "fid": "0x8830d6298346d5df:0xa21a77ecfaed1496",
+            "placeId": "ChIJ39VGgynWMIgRlhTt-ux3GqI"
+        },
+        {
+            "position": 20,
+            "title": "Indiana University Health: Todd McKinley, MD",
+            "address": "1801 N Senate Ave Suite 535, Indianapolis, IN 46202",
+            "latitude": 39.790528599999995,
+            "longitude": -86.16338739999999,
+            "rating": 4.1,
+            "ratingCount": 9,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon"
+            ],
+            "website": "http://www.iuhealth.org/",
+            "phoneNumber": "(317) 944-9400",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TRfkM8Lqubz9swLeM2SQxQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=138.09195&pitch=0&thumbfov=100",
+            "cid": "3266445506329583037",
+            "fid": "0x886b50d996ae966b:0x2d54bee1b2f21dbd",
+            "placeId": "ChIJa5aultlQa4gRvR3ysuG-VC0"
+        }
+    ],
+    "credits": 3
+}

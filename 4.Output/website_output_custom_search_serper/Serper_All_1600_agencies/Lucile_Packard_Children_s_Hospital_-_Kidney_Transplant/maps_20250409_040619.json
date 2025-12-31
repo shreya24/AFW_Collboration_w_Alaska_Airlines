@@ -1,0 +1,62 @@
+{
+    "searchParameters": {
+        "q": "Lucile Packard Children's Hospital - Kidney Transplant",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.4370872,-122.175335,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pediatric Kidney Transplant at Stanford Children's Health",
+            "address": "770 Welch Rd STE 100, Palo Alto, CA 94304",
+            "latitude": 37.438145,
+            "longitude": -122.1761308,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Nephrologist"
+            ],
+            "website": "https://www.stanfordchildrens.org/en/service/kidney-transplant?utm_source=local&utm_medium=Yext&utm_campaign=GMB",
+            "phoneNumber": "(650) 724-8236",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gzlDg9dmK4ePhbSOVyKUaw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=298.3526&pitch=0&thumbfov=100",
+            "cid": "15756223466666295985",
+            "fid": "0x808fa5015589e143:0xdaa959c34c5182b1",
+            "placeId": "ChIJQ-GJVQGlj4ARsYJRTMNZqdo"
+        },
+        {
+            "position": 2,
+            "title": "Lucile Packard Children's Hospital Stanford",
+            "address": "725 Welch Rd, Palo Alto, CA 94304",
+            "latitude": 37.436029399999995,
+            "longitude": -122.1745392,
+            "rating": 4.1,
+            "ratingCount": 400,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Hospital"
+            ],
+            "website": "https://www.stanfordchildrens.org/?utm_source=local&utm_medium=Yext&utm_campaign=GMB&y_source=1_MTY1NzU0NDYtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+            "phoneNumber": "(650) 497-8000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipONajtcS-g_vNv_gtK7zEqlIDSQA2y364avbKsW",
+            "cid": "3181841079003460938",
+            "fid": "0x808fa4cd4e3e1f87:0x2c282b9a6dbf354a",
+            "placeId": "ChIJhx8-Ts2kj4ARSjW_bZorKCw"
+        }
+    ],
+    "credits": 3
+}

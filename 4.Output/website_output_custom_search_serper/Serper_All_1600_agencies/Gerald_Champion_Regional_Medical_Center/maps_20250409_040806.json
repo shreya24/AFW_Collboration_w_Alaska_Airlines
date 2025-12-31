@@ -1,0 +1,52 @@
+{
+    "searchParameters": {
+        "q": "Gerald Champion Regional Medical Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.9140023,-105.9389972,15z",
+    "places": [
+        {
+            "position": 1,
+            "title": "CHRISTUS Health - Emergency Room",
+            "address": "2669 N Scenic Dr, Alamogordo, NM 88310",
+            "latitude": 32.924430099999995,
+            "longitude": -105.9349491,
+            "rating": 2.2,
+            "ratingCount": 152,
+            "type": "Emergency room",
+            "types": [
+                "Emergency room"
+            ],
+            "website": "https://www.christushealth.org/locations/emergency-alamogordo?utm_source=organic&utm_medium=GMB&utm_campaign=website",
+            "phoneNumber": "(575) 439-6100",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNO7bW_KoxOpEqY2LKbxmtMJK27ASv46V8uns4",
+            "cid": "1746052386405006690",
+            "fid": "0x86e05037610c9e3b:0x183b3964fae4bd62",
+            "placeId": "ChIJO54MYTdQ4IYRYr3k-mQ5Oxg"
+        },
+        {
+            "position": 2,
+            "title": "Gerald Champion Regional Medical Center",
+            "address": "1410 Aspen Dr, Alamogordo, NM 88310",
+            "latitude": 32.9035745,
+            "longitude": -105.9430453,
+            "rating": 3.1,
+            "ratingCount": 8,
+            "type": "Sleep clinic",
+            "types": [
+                "Sleep clinic"
+            ],
+            "website": "https://www.gcrmc.org/",
+            "phoneNumber": "(575) 446-5800",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XWJw3a9MgQRLv-K8mvv6Pw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=92.645004&pitch=0&thumbfov=100",
+            "cid": "4045024988364932304",
+            "fid": "0x86e0505c2e255555:0x3822d0cba31204d0",
+            "placeId": "ChIJVVUlLlxQ4IYR0AQSo8vQIjg"
+        }
+    ],
+    "credits": 3
+}

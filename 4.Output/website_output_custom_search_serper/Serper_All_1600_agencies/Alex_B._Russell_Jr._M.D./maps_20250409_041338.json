@@ -1,0 +1,39 @@
+{
+    "searchParameters": {
+        "q": "Alex B. Russell Jr. M.D.",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@60.4933626,-151.0732947,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Dr. Alexander Russell Jr MD",
+            "address": "245 N Binkley St Suite 101, Soldotna, AK 99669",
+            "latitude": 60.4933626,
+            "longitude": -151.0732947,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "http://www.cpgh.org/familypediatrics",
+            "phoneNumber": "(907) 714-4111",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOAzoXJHcRmcUN7G5eLxL3RNimGYmVyz2UdQLt_",
+            "cid": "6357687634019978100",
+            "fid": "0x56c6616023caa4b3:0x583b0b37faa78b74",
+            "placeId": "ChIJs6TKI2BhxlYRdIun-jcLO1g"
+        }
+    ],
+    "credits": 3
+}

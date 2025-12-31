@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Humboldt Family Medical",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@40.9368954,-124.1005295,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Humboldt Family Medical Care",
+            "address": "1733 Central Ave, McKinleyville, CA 95519",
+            "latitude": 40.9368954,
+            "longitude": -124.1005295,
+            "rating": 4,
+            "ratingCount": 4,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "phoneNumber": "(707) 839-4852",
+            "openingHours": {
+                "Tuesday": "8:30\u202fAM\u20134:30\u202fPM",
+                "Wednesday": "8:30\u202fAM\u201312\u202fPM",
+                "Thursday": "8:30\u202fAM\u201312\u202fPM",
+                "Friday": "Closed",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8:30\u202fAM\u20134:30\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OloJj_bpkCvS2bKObW8PCw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=82.41903&pitch=0&thumbfov=100",
+            "cid": "16164322292754013105",
+            "fid": "0x54d15a8b6da74655:0xe053357ba687dbb1",
+            "placeId": "ChIJVUanbYta0VQRsduHpns1U-A"
+        }
+    ],
+    "credits": 3
+}

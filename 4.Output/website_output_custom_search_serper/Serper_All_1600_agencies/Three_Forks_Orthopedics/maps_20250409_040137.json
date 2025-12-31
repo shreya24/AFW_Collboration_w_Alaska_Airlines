@@ -1,0 +1,33 @@
+{
+    "searchParameters": {
+        "q": "Three Forks Orthopedics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.8688407,-117.3754875,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Three Forks Orthopedics",
+            "address": "1200 W Fairview St, Colfax, WA 99111",
+            "latitude": 46.8688407,
+            "longitude": -117.37548749999999,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Orthopedic surgeon",
+            "types": [
+                "Orthopedic surgeon",
+                "Physician assistant"
+            ],
+            "website": "https://www.whmc.org/services/orthopedics/",
+            "phoneNumber": "(509) 397-9005",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TQG0W7KlqtofPCk2Mj031A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=330.02448&pitch=0&thumbfov=100",
+            "cid": "16071655459962752601",
+            "fid": "0x549f9c6c84f2bd7f:0xdf09fd7d538c0e59",
+            "placeId": "ChIJf73yhGycn1QRWQ6MU339Cd8"
+        }
+    ],
+    "credits": 3
+}

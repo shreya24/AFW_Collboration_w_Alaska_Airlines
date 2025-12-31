@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Logan Children's Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@48.2153771,-114.3229935,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Logan Health Children's",
+            "address": "350 Sunnyview Ln, Kalispell, MT 59901",
+            "latitude": 48.2153771,
+            "longitude": -114.3229935,
+            "rating": 5,
+            "ratingCount": 5,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Pediatric surgeon",
+                "Pediatrician"
+            ],
+            "website": "http://www.logan.org/children",
+            "phoneNumber": "(406) 752-5111",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOvQMPKsmWViSvep_8SmvsM9zpgnPkL8mbEyBdK",
+            "cid": "12227785233301764672",
+            "fid": "0x536651a51100d70d:0xa9b1d1e254b7fa40",
+            "placeId": "ChIJDdcAEaVRZlMRQPq3VOLRsak"
+        }
+    ],
+    "credits": 3
+}

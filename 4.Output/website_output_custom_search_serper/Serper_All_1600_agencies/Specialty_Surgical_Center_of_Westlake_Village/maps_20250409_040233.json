@@ -1,0 +1,49 @@
+{
+    "searchParameters": {
+        "q": "Specialty Surgical Center of Westlake Village",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@34.1585651,-118.8341767,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Specialty Surgical Center of Westlake Village",
+            "address": "696 Hampshire Rd Suite 100 Suite 100, Westlake Village, CA 91361",
+            "latitude": 34.1585651,
+            "longitude": -118.8341767,
+            "rating": 3.9,
+            "ratingCount": 29,
+            "type": "Surgical center",
+            "types": [
+                "Surgical center",
+                "Gastroenterologist",
+                "Hand surgeon",
+                "Neurologist",
+                "Ophthalmologist",
+                "Orthopedic surgeon",
+                "Pain management physician",
+                "Plastic surgeon",
+                "Podiatrist"
+            ],
+            "website": "https://www.sscwestlake.com/",
+            "phoneNumber": "(805) 413-7920",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20134:30\u202fAM",
+                "Wednesday": "7\u202fAM\u20134:30\u202fAM",
+                "Thursday": "7\u202fAM\u20134:30\u202fAM",
+                "Friday": "7\u202fAM\u20134:30\u202fAM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20134:30\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9fvYhlS7AuM1gNz0mKT1HhUTPJ59q7ogRfPEA_jIzQ1_QqakWjV3_QeOXO7Nm_W0wFa5ZKOisH2gtZjszzdL0t2VmbCOCqPJCmfEGo8pYuWsdNmeP-KmQDo8yFLT22nJkLFFVa",
+            "cid": "12459068993630871175",
+            "fid": "0x80e824e7311a1bd1:0xace7813d1d739e87",
+            "placeId": "ChIJ0RsaMeck6IARh55zHT2B56w"
+        }
+    ],
+    "credits": 3
+}

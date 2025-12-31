@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Providence Anchorage Crisis Recovery Center",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.185921,-149.8263619,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Providence Crisis Recovery Center",
+            "address": "3760 Piper St, Anchorage, AK 99508",
+            "latitude": 61.185921,
+            "longitude": -149.8263619,
+            "rating": 3.3,
+            "ratingCount": 12,
+            "type": "Mental health clinic",
+            "types": [
+                "Mental health clinic"
+            ],
+            "website": "https://www.providence.org/locations/ak/alaska-medical-center/crisis-recovery-center?ls=location&y_source=1_MjQ1NDkwODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phoneNumber": "(907) 563-5006",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOwcKlZ0ORsPjGizSbQvMlzitLOUFpzAY6Qi5uF",
+            "cid": "8419441020043976704",
+            "fid": "0x56c89706e6000105:0x74d7dcffe712e000",
+            "placeId": "ChIJBQEA5gaXyFYRAOAS5__c13Q"
+        }
+    ],
+    "credits": 3
+}

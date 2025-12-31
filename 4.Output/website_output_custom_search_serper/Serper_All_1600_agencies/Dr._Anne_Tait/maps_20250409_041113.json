@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Dr. Anne Tait",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@51.87701,-8.440715,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Anne Tait & Co Solicitors LLP",
+            "address": "Saint Patrick's Terrace, 7, Douglas, Co. Cork, T12 KR6E, Ireland",
+            "latitude": 51.87701,
+            "longitude": -8.440714999999999,
+            "rating": 3.4,
+            "ratingCount": 5,
+            "type": "Legal services",
+            "types": [
+                "Legal services",
+                "Tax preparation"
+            ],
+            "website": "http://www.annetaitsolicitors.com/",
+            "phoneNumber": "+353 21 436 1624",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135:30\u202fPM",
+                "Wednesday": "8\u202fAM\u20135:30\u202fPM",
+                "Thursday": "8\u202fAM\u20135:30\u202fPM",
+                "Friday": "8\u202fAM\u20135:30\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135:30\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMEqO6rGDcawn7g5espdEIlVV5P5rqyLHydjbQZ",
+            "cid": "17183548952481927113",
+            "fid": "0x4844855a663f3ccd:0xee783abadd388fc9",
+            "placeId": "ChIJzTw_ZlqFREgRyY843bo6eO4"
+        }
+    ],
+    "credits": 3
+}

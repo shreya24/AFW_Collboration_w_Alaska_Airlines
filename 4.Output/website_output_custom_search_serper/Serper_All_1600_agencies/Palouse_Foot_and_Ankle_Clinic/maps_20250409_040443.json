@@ -1,0 +1,63 @@
+{
+    "searchParameters": {
+        "q": "Palouse Foot and Ankle Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.7209115,-117.0850006,13z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pullman Foot & Ankle Clinic",
+            "address": "825 SE Bishop Blvd #140, Pullman, WA 99163",
+            "latitude": 46.712514999999996,
+            "longitude": -117.1695884,
+            "rating": 3.3,
+            "ratingCount": 3,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Podiatrist"
+            ],
+            "website": "https://www.pullmanregional.org/podiatry",
+            "phoneNumber": "(509) 334-4498",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPRNZP35nbZNAzeoy0alz7646grWGpDIjmbiHbI",
+            "cid": "15855306835506199675",
+            "fid": "0x549f8747c6e126db:0xdc095d8fd72b7c7b",
+            "placeId": "ChIJ2ybhxkeHn1QRe3wr149dCdw"
+        },
+        {
+            "position": 2,
+            "title": "Palouse Foot & Ankle Clinic",
+            "address": "619 S Washington St #103, Moscow, ID 83843",
+            "latitude": 46.729307999999996,
+            "longitude": -117.00041279999999,
+            "rating": 5,
+            "ratingCount": 2,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Podiatrist"
+            ],
+            "website": "http://www.palousefootandankle.com/",
+            "phoneNumber": "(208) 882-8939",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6LoP7CaMWvTkrokcOObyzg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=132.56366&pitch=0&thumbfov=100",
+            "cid": "13793993937156916766",
+            "fid": "0x54a02778548fb445:0xbf6e1c66f221461e",
+            "placeId": "ChIJRbSPVHgnoFQRHkYh8mYcbr8"
+        }
+    ],
+    "credits": 3
+}

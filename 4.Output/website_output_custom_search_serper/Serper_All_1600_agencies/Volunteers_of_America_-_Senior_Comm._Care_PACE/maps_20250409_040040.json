@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Volunteers of America - Senior Comm. Care PACE",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@35.8806252,-78.8518489,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Senior CommUnity Care of North Carolina PACE",
+            "address": "5400 S Miami Blvd Suite 150, Durham, NC 27703",
+            "latitude": 35.8806252,
+            "longitude": -78.8518489,
+            "rating": 4.1,
+            "ratingCount": 35,
+            "type": "Adult day care center",
+            "types": [
+                "Adult day care center",
+                "Medical Center"
+            ],
+            "website": "http://www.seniorcommunitycarenc.org/",
+            "phoneNumber": "(919) 425-3000",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMHMWncDusLGMIzCLDxHvFx9HBKUDlrGIejvL6N",
+            "cid": "16095012043131096347",
+            "fid": "0x89ace555fb35e77b:0xdf5cf82d9e768d1b",
+            "placeId": "ChIJe-c1-1XlrIkRG412ni34XN8"
+        }
+    ],
+    "credits": 3
+}

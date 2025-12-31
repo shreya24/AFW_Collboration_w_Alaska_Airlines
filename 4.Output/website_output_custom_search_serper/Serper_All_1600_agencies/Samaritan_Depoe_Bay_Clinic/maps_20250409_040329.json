@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Samaritan Depoe Bay Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.8179954,-124.0636737,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Samaritan Depoe Bay Clinic",
+            "address": "531 US-101 A, Depoe Bay, OR 97341",
+            "latitude": 44.8179954,
+            "longitude": -124.0636737,
+            "rating": 3,
+            "ratingCount": 25,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Medical Center"
+            ],
+            "website": "https://samhealth.org/find-a-location/samaritan-depoe-bay-clinic/",
+            "phoneNumber": "(541) 765-3265",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20136\u202fPM",
+                "Wednesday": "8\u202fAM\u20136\u202fPM",
+                "Thursday": "8\u202fAM\u20136\u202fPM",
+                "Friday": "8\u202fAM\u20136\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20136\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=25jD7KcasiqLFWIftaYTZw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=261.68448&pitch=0&thumbfov=100",
+            "cid": "11902050743148102794",
+            "fid": "0x54ea7d58a3e20be5:0xa52c94175404448a",
+            "placeId": "ChIJ5Qvio1h96lQRikQEVBeULKU"
+        }
+    ],
+    "credits": 3
+}

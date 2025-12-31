@@ -1,0 +1,47 @@
+{
+    "searchParameters": {
+        "q": "SPLORE",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@0.8009392,-147.1496517,3z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Splore Festival",
+            "address": "Derrys Road, \u014crere Point 2585, New Zealand",
+            "latitude": -36.9807207,
+            "longitude": 175.2525581,
+            "rating": 4.8,
+            "ratingCount": 28,
+            "type": "Festival",
+            "types": [
+                "Festival"
+            ],
+            "website": "http://www.splore.net/",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-LrwhIDRqIyr9mXnF5UUKFOgcbbqS05qQT9pp0QhMxrU8qNau2VQfsqTHSPFrbDBCGs0NSZAv3YEjeMiDLzx4qmynRfcVqkv1W3Lqn4CGPa9Xkg-6wR7FfHDnTEDVmEVW5BgWTCw",
+            "cid": "13427663861947800428",
+            "fid": "0x6d72bd3f32850c35:0xba58a523bebf9b6c",
+            "placeId": "ChIJNQyFMj-9cm0RbJu_viOlWLo"
+        },
+        {
+            "position": 2,
+            "title": "Splore",
+            "address": "610 Cermak St, Moab, UT 84532",
+            "latitude": 38.582599099999996,
+            "longitude": -109.5518616,
+            "type": "Corporate office",
+            "types": [
+                "Corporate office"
+            ],
+            "phoneNumber": "(801) 484-4128",
+            "isPermanentlyClosed": true,
+            "cid": "556850570502766580",
+            "fid": "0x8747e1c3e9b73773:0x7ba54a4bfca7ff4",
+            "placeId": "ChIJcze36cPhR4cR9H_Kv6RUugc"
+        }
+    ],
+    "credits": 3
+}

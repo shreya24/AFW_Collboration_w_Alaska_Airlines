@@ -1,0 +1,45 @@
+{
+    "searchParameters": {
+        "q": "Dr. Luis Tan",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@37.8696894,-99.8066689,5z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Tan Luis Y MD",
+            "address": "Parking lot, 2040 E Market St #4, Akron, OH 44312",
+            "latitude": 41.0606449,
+            "longitude": -81.4552952,
+            "rating": 5,
+            "ratingCount": 1,
+            "type": "Surgeon",
+            "types": [
+                "Surgeon"
+            ],
+            "phoneNumber": "(330) 794-1279",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u3ojN2v1KX7f4AUC0MkJBw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=248.83661&pitch=0&thumbfov=100",
+            "cid": "2076794006115130375",
+            "fid": "0x8831296b8a23a623:0x1cd241252e271c07",
+            "placeId": "ChIJI6YjimspMYgRBxwnLiVB0hw"
+        },
+        {
+            "position": 2,
+            "title": "Dr. Luis D. Tan Jr, MD",
+            "address": "43839 15th St W, Lancaster, CA 93534",
+            "latitude": 34.6787339,
+            "longitude": -118.1580426,
+            "website": "http://www.hdmg.net/",
+            "phoneNumber": "(661) 945-5984",
+            "isPermanentlyClosed": true,
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=plS64NwnqzeOTLhoqFvjMQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=3.2223473&pitch=0&thumbfov=100",
+            "cid": "13942917968896347962",
+            "fid": "0x80c25ae1cf5ea879:0xc17f32051c7a4f3a",
+            "placeId": "ChIJeahez-FawoAROk96HAUyf8E"
+        }
+    ],
+    "credits": 3
+}

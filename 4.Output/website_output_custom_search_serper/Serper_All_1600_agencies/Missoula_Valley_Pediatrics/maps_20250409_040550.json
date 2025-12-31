@@ -1,0 +1,116 @@
+{
+    "searchParameters": {
+        "q": "Missoula Valley Pediatrics",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@46.8460583,-114.0486245,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Community Children's - Pediatric Primary Care",
+            "address": "2835 Fort Missoula Rd Building 3, Suite 205, Missoula, MT 59804",
+            "latitude": 46.846098,
+            "longitude": -114.0487139,
+            "rating": 2.8,
+            "ratingCount": 17,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician",
+                "Medical group"
+            ],
+            "website": "https://www.communityphysiciangroup.org/pediatrics",
+            "phoneNumber": "(406) 542-0391",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hvsgyPqPVibQZ_0Ul5y57A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=353.5601&pitch=0&thumbfov=100",
+            "cid": "17718105802731660423",
+            "fid": "0x535dd20c10dceb01:0xf5e35b5a609ba487",
+            "placeId": "ChIJAevcEAzSXVMRh6SbYFpb4_U"
+        },
+        {
+            "position": 2,
+            "title": "Community Children's - Primary Care",
+            "address": "2835 Fort Missoula Rd STE 205, Missoula, MT 59804",
+            "latitude": 46.846018699999995,
+            "longitude": -114.04853519999999,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Pediatrician"
+            ],
+            "website": "https://www.communitychildrens.org/services/childrens-primary-care",
+            "phoneNumber": "(406) 542-0391",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hvsgyPqPVibQZ_0Ul5y57A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=23.366259&pitch=0&thumbfov=100",
+            "cid": "185706238539001641",
+            "fid": "0x535dd36f00db309b:0x293c2d70cb0ef29",
+            "placeId": "ChIJmzDbAG_TXVMRKe-wDNfCkwI"
+        },
+        {
+            "position": 3,
+            "title": "Sandra Simmons, MD, FAAP",
+            "address": "2835 Fort Missoula Rd STE 205, Missoula, MT 59804",
+            "latitude": 46.846018699999995,
+            "longitude": -114.04853519999999,
+            "rating": 3.5,
+            "ratingCount": 11,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.communitychildrens.org/providers/sandra-simmons/",
+            "phoneNumber": "(406) 542-0391",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPYhnT7mPw0uPG8vrW_QeZ1_lb71_7PJjC27jQ",
+            "cid": "7388889682280237911",
+            "fid": "0x535dd20c10dceb01:0x668a9c049cdccb57",
+            "placeId": "ChIJAevcEAzSXVMRV8vcnAScimY"
+        },
+        {
+            "position": 4,
+            "title": "Thomas Randall, MD",
+            "address": "2835 Fort Missoula Rd STE 205, Missoula, MT 59804",
+            "latitude": 46.846018699999995,
+            "longitude": -114.04853519999999,
+            "rating": 4.3,
+            "ratingCount": 10,
+            "type": "Pediatrician",
+            "types": [
+                "Pediatrician"
+            ],
+            "website": "https://www.communitychildrens.org/providers/thomas-randall/",
+            "phoneNumber": "(406) 542-0391",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNupDnA7NUOMxoZ5WpLBrhuEUVpyI3ETVJealYG",
+            "cid": "13028384937802515672",
+            "fid": "0x535dd20c10dceb01:0xb4ce1f12d6c4c4d8",
+            "placeId": "ChIJAevcEAzSXVMR2MTE1hIfzrQ"
+        }
+    ],
+    "credits": 3
+}

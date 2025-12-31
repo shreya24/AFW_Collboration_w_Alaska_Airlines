@@ -1,0 +1,59 @@
+{
+    "searchParameters": {
+        "q": "Fairbanks Native Association",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@64.8311959,-147.7132538,14z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Fairbanks Native Association Inc",
+            "address": "319 First Ave, Fairbanks, AK 99701",
+            "latitude": 64.8440908,
+            "longitude": -147.7144514,
+            "rating": 3.5,
+            "ratingCount": 2,
+            "type": "Tribal headquarters",
+            "types": [
+                "Tribal headquarters"
+            ],
+            "website": "https://www.fairbanksnative.org/",
+            "phoneNumber": "(907) 452-1648 ext. 6015",
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipOyQYHQmQYbMIPrjs3FTi8ivDNCbnAwfqWh0YhM",
+            "cid": "10760286601488027524",
+            "fid": "0x5132454e82a4e6e9:0x955437a75316cf84",
+            "placeId": "ChIJ6eakgk5FMlERhM8WU6c3VJU"
+        },
+        {
+            "position": 2,
+            "title": "Fairbanks Native Association",
+            "address": "3100 S Cushman St, Fairbanks, AK 99701",
+            "latitude": 64.8183009,
+            "longitude": -147.7120562,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization",
+                "Alcoholism treatment program"
+            ],
+            "website": "http://www.fairbanksnative.org/",
+            "phoneNumber": "(907) 452-1648",
+            "openingHours": {
+                "Tuesday": "8\u202fAM\u20135\u202fPM",
+                "Wednesday": "8\u202fAM\u20135\u202fPM",
+                "Thursday": "8\u202fAM\u20135\u202fPM",
+                "Friday": "8\u202fAM\u20135\u202fPM",
+                "Saturday": "Closed",
+                "Sunday": "Closed",
+                "Monday": "8\u202fAM\u20135\u202fPM"
+            },
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fHUCbE9_D3PkTJdIYQo_tQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.34828&pitch=0&thumbfov=100",
+            "cid": "17347481529460269893",
+            "fid": "0x51325aa86982ad9f:0xf0bea28a47212345",
+            "placeId": "ChIJn62CaahaMlERRSMhR4qivvA"
+        }
+    ],
+    "credits": 3
+}

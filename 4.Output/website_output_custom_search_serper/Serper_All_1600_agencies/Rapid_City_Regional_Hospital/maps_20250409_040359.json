@@ -1,0 +1,43 @@
+{
+    "searchParameters": {
+        "q": "Rapid City Regional Hospital",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@44.0552481,-103.2269594,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Monument Health Rapid City Hospital",
+            "address": "353 Fairmont Blvd, Rapid City, SD 57701",
+            "latitude": 44.0552481,
+            "longitude": -103.2269594,
+            "rating": 3.7,
+            "ratingCount": 1991,
+            "type": "Hospital",
+            "types": [
+                "Hospital",
+                "Dialysis center",
+                "Hospital department"
+            ],
+            "website": "https://directory.monument.health/facility/sd/rapid-city/353-fairmont-boulevard-6671503",
+            "phoneNumber": "(605) 755-1000",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-Ka1D1_uB7DZfVeCh-Ii2rkE6tyO0nuiiMowD-sPQMlZctLaUy1QuYy_Hu6yirvx1tycKAyE5E9GAvTLQ6r8lhlt7Kdj16L5E3cPrddXuMNMsIYGgj1KTW-c-ATpTFRhDFC4c",
+            "cid": "15625488328049232830",
+            "fid": "0x877d431c100963c3:0xd8d8e2d8d3630bbe",
+            "placeId": "ChIJw2MJEBxDfYcRvgtj09ji2Ng"
+        }
+    ],
+    "credits": 3
+}

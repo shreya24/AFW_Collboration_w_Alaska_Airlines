@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Pinedale Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@42.8706351,-109.8523002,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Pinedale Medical Clinic",
+            "address": "625 Hennick St, Pinedale, WY 82941",
+            "latitude": 42.8706351,
+            "longitude": -109.8523002,
+            "rating": 3.5,
+            "ratingCount": 51,
+            "type": "Medical clinic",
+            "types": [
+                "Medical clinic",
+                "Doctor"
+            ],
+            "website": "https://www.sublettehospitaldistrict.org/",
+            "phoneNumber": "(307) 367-4133",
+            "openingHours": {
+                "Tuesday": "7\u202fAM\u20137\u202fPM",
+                "Wednesday": "7\u202fAM\u20137\u202fPM",
+                "Thursday": "7\u202fAM\u20137\u202fPM",
+                "Friday": "7\u202fAM\u20137\u202fPM",
+                "Saturday": "10\u202fAM\u20132\u202fPM",
+                "Sunday": "Closed",
+                "Monday": "7\u202fAM\u20137\u202fPM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMy3a_Ia3hbsiCCOHQ4uJIfnQZy66j-cJTswF5E",
+            "cid": "8179690627302285991",
+            "fid": "0x87579155231f911b:0x71841949a4f1e2a7",
+            "placeId": "ChIJG5EfI1WRV4cRp-LxpEkZhHE"
+        }
+    ],
+    "credits": 3
+}

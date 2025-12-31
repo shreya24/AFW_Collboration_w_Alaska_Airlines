@@ -1,0 +1,32 @@
+{
+    "searchParameters": {
+        "q": "NARA  (NAtive American  Rehab)",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@45.5184138,-122.6919621,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "The Native American Rehabilitation Assoc of the Northwest",
+            "address": "1776 SW Madison St, Portland, OR 97205",
+            "latitude": 45.5184138,
+            "longitude": -122.6919621,
+            "rating": 5,
+            "ratingCount": 3,
+            "type": "Non-profit organization",
+            "types": [
+                "Non-profit organization"
+            ],
+            "website": "http://www.naranorthwest.org/",
+            "phoneNumber": "(503) 224-1044",
+            "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=URCVoeE5qXetr3QqLdNWXQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=197.88988&pitch=0&thumbfov=100",
+            "cid": "2975936220259707119",
+            "fid": "0x54950b50b1b3a3e7:0x294ca639a2cc68ef",
+            "placeId": "ChIJ56OzsVALlVQR72jMojmmTCk"
+        }
+    ],
+    "credits": 3
+}

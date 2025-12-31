@@ -1,0 +1,76 @@
+{
+    "searchParameters": {
+        "q": "NARA",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@32.1188748,-82.8846951,7z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Nara Restaurant & Lounge",
+            "address": "8650 Baymeadows Rd, Jacksonville, FL 32256",
+            "latitude": 30.219840599999998,
+            "longitude": -81.5782814,
+            "rating": 4.6,
+            "ratingCount": 333,
+            "type": "Restaurant",
+            "types": [
+                "Restaurant",
+                "Bar",
+                "Hookah bar"
+            ],
+            "phoneNumber": "(904) 374-8542",
+            "openingHours": {
+                "Tuesday": "5\u202fPM\u20131\u202fAM",
+                "Wednesday": "5\u202fPM\u20131\u202fAM",
+                "Thursday": "5\u202fPM\u20131\u202fAM",
+                "Friday": "5\u202fPM\u20132\u202fAM",
+                "Saturday": "5\u202fPM\u20132\u202fAM",
+                "Sunday": "5\u202fPM\u20131\u202fAM",
+                "Monday": "5\u202fPM\u20131\u202fAM"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMoyma3uuNeaEjrJGIaW_Gl10H83say_H0BisZX",
+            "cid": "15139861698453343567",
+            "fid": "0x88e5cb9b6fb68bd1:0xd21b980014da8d4f",
+            "placeId": "ChIJ0Yu2b5vL5YgRT43aFACYG9I"
+        },
+        {
+            "position": 2,
+            "title": "Nara Cuisine & Lounge",
+            "address": "9700 Medlock Bridge Rd Ste 110, Johns Creek, GA 30097",
+            "latitude": 34.017908999999996,
+            "longitude": -84.1911089,
+            "rating": 4.4,
+            "ratingCount": 1318,
+            "type": "Middle Eastern restaurant",
+            "types": [
+                "Middle Eastern restaurant",
+                "Family restaurant",
+                "Lebanese restaurant"
+            ],
+            "website": "https://www.naracuisinelounge.com/",
+            "phoneNumber": "(770) 674-2353",
+            "openingHours": {
+                "Tuesday": "5\u201311\u202fPM",
+                "Wednesday": "5\u201311\u202fPM",
+                "Thursday": "5\u201311\u202fPM",
+                "Friday": "5\u202fPM\u20131\u202fAM",
+                "Saturday": "5\u202fPM\u20131\u202fAM",
+                "Sunday": "5\u202fPM\u201312\u202fAM",
+                "Monday": "Closed"
+            },
+            "bookingLinks": [
+                "https://www.opentable.com/restaurant/profile/1180354?ref=1068",
+                "https://www.google.com/maps/reserve/v/dine/c/LGEIWoF54Ik?source=pa&opi=79508299"
+            ],
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipM4CTIEKVxbnj4atSi8YR5dNmCPuvNYolMfxI-N",
+            "cid": "16411776065493429189",
+            "fid": "0x88f59f7d2524077d:0xe3c25760d4fe6bc5",
+            "placeId": "ChIJfQckJX2f9YgRxWv-1GBXwuM"
+        }
+    ],
+    "credits": 3
+}

@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "JBER Hospital / Department of Veterans A",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@61.235181,-149.7449251,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Joint Base Elmendorf-Richardson Hospital",
+            "address": "5955 Zeamer Ave, Elmendorf AFB, AK 99506",
+            "latitude": 61.235181,
+            "longitude": -149.7449251,
+            "rating": 3.1,
+            "ratingCount": 125,
+            "type": "Military hospital",
+            "types": [
+                "Military hospital"
+            ],
+            "website": "https://elmendorfrichardson.tricare.mil/",
+            "phoneNumber": "(907) 580-2778",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8sFihDyhEkN7ICo-Y_8jHE3L4Zqx9bNl8MsVp88Cw3dByb5Es7ukGPQWJATLW7WQ6Est0b-busKRsI4zK3fuCc_y8d3hnD9PikD9K8CCi1yxIfpY9LEgDYLX7fymihGAqcH06Ecg",
+            "cid": "6126920116019283537",
+            "fid": "0x56c8942ef1a06705:0x550731623a864651",
+            "placeId": "ChIJBWeg8S6UyFYRUUaGOmIxB1U"
+        }
+    ],
+    "credits": 3
+}

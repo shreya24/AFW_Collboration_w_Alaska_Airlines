@@ -1,0 +1,44 @@
+{
+    "searchParameters": {
+        "q": "Children's Hospital Colorado Anschutz Medical Campus",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@39.7417871,-104.8345896,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Children's Hospital Colorado Anschutz Medical Campus, Aurora",
+            "address": "13123 E 16th Ave, Aurora, CO 80045",
+            "latitude": 39.741787099999996,
+            "longitude": -104.8345896,
+            "rating": 4.5,
+            "ratingCount": 5303,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Emergency room",
+                "Hospital",
+                "Pediatric surgeon"
+            ],
+            "website": "https://www.childrenscolorado.org/locations/anschutz-medical-campus-aurora/",
+            "phoneNumber": "(720) 777-1234",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipPLePib-ZLG2PiTHzdSoUZfFZF2ELAu7fwPCRr7",
+            "cid": "17832171354029654962",
+            "fid": "0x876c6348c7a61ab3:0xf778995e1ad583b2",
+            "placeId": "ChIJsxqmx0hjbIcRsoPVGl6ZePc"
+        }
+    ],
+    "credits": 3
+}

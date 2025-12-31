@@ -1,0 +1,41 @@
+{
+    "searchParameters": {
+        "q": "Moab Regional Medical Clinic",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@38.5752699,-109.5594123,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Moab Regional Hospital",
+            "address": "450 Williams Way, Moab, UT 84532",
+            "latitude": 38.575269899999995,
+            "longitude": -109.55941229999999,
+            "rating": 3.6,
+            "ratingCount": 112,
+            "type": "General hospital",
+            "types": [
+                "General hospital"
+            ],
+            "website": "https://mrhmoab.org/?utm_campaign=gmb",
+            "phoneNumber": "(435) 210-6860",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNH51LiohCSPphf0Hf_0DG-oAb8wPyKwsHHFrHA",
+            "cid": "13696859942754951730",
+            "fid": "0x8747e1e700ced189:0xbe15058c822fa232",
+            "placeId": "ChIJidHOAOfhR4cRMqIvgowFFb4"
+        }
+    ],
+    "credits": 3
+}

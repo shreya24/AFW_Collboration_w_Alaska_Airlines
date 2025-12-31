@@ -1,0 +1,42 @@
+{
+    "searchParameters": {
+        "q": "Shriners Hospital for Children - Honolulu",
+        "gl": "us",
+        "hl": "en",
+        "type": "maps",
+        "engine": "google"
+    },
+    "ll": "@21.300628,-157.8354009,17z",
+    "places": [
+        {
+            "position": 1,
+            "title": "Shriners Children's Hawaii",
+            "address": "1310 Punahou St, Honolulu, HI 96826",
+            "latitude": 21.300628,
+            "longitude": -157.8354009,
+            "rating": 4.5,
+            "ratingCount": 36,
+            "type": "Children's hospital",
+            "types": [
+                "Children's hospital",
+                "Medical Center"
+            ],
+            "website": "https://www.shrinerschildrens.org/en/locations/hawaii",
+            "phoneNumber": "(808) 941-4466",
+            "openingHours": {
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours",
+                "Monday": "Open 24 hours"
+            },
+            "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMDB9OMI5L063BQYm86ElmduCZ98hTZp3QbdURj",
+            "cid": "547801585567130786",
+            "fid": "0x7c006deb20c2c09b:0x79a2ea3c31fe4a2",
+            "placeId": "ChIJm8DCIOttAHwRouQfw6Mumgc"
+        }
+    ],
+    "credits": 3
+}
